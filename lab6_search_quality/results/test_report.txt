@@ -1,0 +1,37 @@
+test_all_metrics_keys (__main__.TestAverage.test_all_metrics_keys) ... ok
+test_average (__main__.TestAverage.test_average) ... ok
+test_average_empty (__main__.TestAverage.test_average_empty) ... ok
+test_empty (__main__.TestAveragePrecision.test_empty) ... ok
+test_partial (__main__.TestAveragePrecision.test_partial) ... ok
+test_perfect (__main__.TestAveragePrecision.test_perfect) ... ok
+test_dcg_single (__main__.TestDcg.test_dcg_single) ... ok
+test_dcg_two (__main__.TestDcg.test_dcg_two) ... ok
+test_ideal_dcg (__main__.TestDcg.test_ideal_dcg) ... ok
+test_ndcg_between_zero_and_one (__main__.TestDcg.test_ndcg_between_zero_and_one) ... ok
+test_ndcg_no_relevant (__main__.TestDcg.test_ndcg_no_relevant) ... ok
+test_ndcg_perfect (__main__.TestDcg.test_ndcg_perfect) ... ok
+test_ndcg_reversed_less (__main__.TestDcg.test_ndcg_reversed_less) ... ok
+test_err_empty (__main__.TestErr.test_err_empty) ... ok
+test_err_order_matters (__main__.TestErr.test_err_order_matters) ... ok
+test_err_single_max (__main__.TestErr.test_err_single_max) ... ok
+test_err_two (__main__.TestErr.test_err_two) ... ok
+test_precision (__main__.TestPrecisionRecall.test_precision) ... ok
+test_precision_short_results (__main__.TestPrecisionRecall.test_precision_short_results) ... ok
+test_recall (__main__.TestPrecisionRecall.test_recall) ... ok
+test_recall_no_relevant (__main__.TestPrecisionRecall.test_recall_no_relevant) ... ok
+test_zero_grade_not_relevant (__main__.TestPrecisionRecall.test_zero_grade_not_relevant) ... ok
+test_cli_stdin (__main__.TestRunFiles.test_cli_stdin) ... ok
+test_evaluate_run (__main__.TestRunFiles.test_evaluate_run) ... ok
+test_load_run_sorted (__main__.TestRunFiles.test_load_run_sorted) ... ok
+test_real_qrels_match_queries (__main__.TestRunFiles.test_real_qrels_match_queries) ... /Users/alexganyak/Documents/Codex/2026-11-25/files-mentioned-by-the-user-python/work/github-my-labs/lab6_search_quality/evaluate.py:20: ResourceWarning: unclosed file <_io.TextIOWrapper name='/Users/alexganyak/Documents/Codex/2026-11-25/files-mentioned-by-the-user-python/work/github-my-labs/lab6_search_quality/../lab1_corpus/data/queries/queries.txt' mode='r' encoding='utf-8'>
+  for line in open(path, encoding="utf-8"):
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/Users/alexganyak/Documents/Codex/2026-11-25/files-mentioned-by-the-user-python/work/github-my-labs/lab6_search_quality/evaluate.py:31: ResourceWarning: unclosed file <_io.TextIOWrapper name='/Users/alexganyak/Documents/Codex/2026-11-25/files-mentioned-by-the-user-python/work/github-my-labs/lab6_search_quality/../lab1_corpus/data/queries/qrels.txt' mode='r' encoding='utf-8'>
+  for line in open(path, encoding="utf-8"):
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+ok
+
+----------------------------------------------------------------------
+Ran 26 tests in 0.019s
+
+OK

@@ -1,0 +1,84 @@
+test_empty_html (__main__.TestExtractText.test_empty_html) ... ok
+test_footnote_skipped (__main__.TestExtractText.test_footnote_skipped) ... ok
+test_outside_content_skipped (__main__.TestExtractText.test_outside_content_skipped) ... ok
+test_paragraphs_kept (__main__.TestExtractText.test_paragraphs_kept) ... ok
+test_script_and_style_skipped (__main__.TestExtractText.test_script_and_style_skipped) ... ok
+test_spaces_normalized (__main__.TestExtractText.test_spaces_normalized) ... ok
+test_table_skipped (__main__.TestExtractText.test_table_skipped) ... ok
+test_tags_removed (__main__.TestExtractText.test_tags_removed) ... ok
+test_title (__main__.TestExtractText.test_title) ... ok
+test_article_link (__main__.TestLinks.test_article_link) ... ok
+test_collect_links (__main__.TestLinks.test_collect_links) ... ok
+test_external_link (__main__.TestLinks.test_external_link) ... ok
+test_file_name (__main__.TestLinks.test_file_name) ... ok
+test_service_link (__main__.TestLinks.test_service_link) ... ok
+test_documents_not_empty (__main__.TestRealCorpus.test_documents_not_empty) ... ok
+test_two_sources_exist (__main__.TestRealCorpus.test_two_sources_exist) ... ok
+test_process_all (__main__.TestStats.test_process_all) ... /Users/alexganyak/Documents/Codex/2026-11-25/files-mentioned-by-the-user-python/work/github-my-labs/lab1_corpus/extract_text.py:104: ResourceWarning: unclosed file <_io.TextIOWrapper name='/var/folders/g6/q7ypm1kn7b36np4md8krwc5r0000gn/T/tmp8tfof3z9/raw/src_a/doc0.html' mode='r' encoding='utf-8'>
+  html = open(path, encoding="utf-8").read()
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/Users/alexganyak/Documents/Codex/2026-11-25/files-mentioned-by-the-user-python/work/github-my-labs/lab1_corpus/extract_text.py:104: ResourceWarning: unclosed file <_io.TextIOWrapper name='/var/folders/g6/q7ypm1kn7b36np4md8krwc5r0000gn/T/tmp8tfof3z9/raw/src_a/doc1.html' mode='r' encoding='utf-8'>
+  html = open(path, encoding="utf-8").read()
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/Users/alexganyak/Documents/Codex/2026-11-25/files-mentioned-by-the-user-python/work/github-my-labs/lab1_corpus/extract_text.py:104: ResourceWarning: unclosed file <_io.TextIOWrapper name='/var/folders/g6/q7ypm1kn7b36np4md8krwc5r0000gn/T/tmp8tfof3z9/raw/src_a/doc2.html' mode='r' encoding='utf-8'>
+  html = open(path, encoding="utf-8").read()
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/Users/alexganyak/Documents/Codex/2026-11-25/files-mentioned-by-the-user-python/work/github-my-labs/lab1_corpus/extract_text.py:104: ResourceWarning: unclosed file <_io.TextIOWrapper name='/var/folders/g6/q7ypm1kn7b36np4md8krwc5r0000gn/T/tmp8tfof3z9/raw/src_b/doc.html' mode='r' encoding='utf-8'>
+  html = open(path, encoding="utf-8").read()
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+ok
+test_stats_json_serializable (__main__.TestStats.test_stats_json_serializable) ... /Users/alexganyak/Documents/Codex/2026-11-25/files-mentioned-by-the-user-python/work/github-my-labs/lab1_corpus/extract_text.py:104: ResourceWarning: unclosed file <_io.TextIOWrapper name='/var/folders/g6/q7ypm1kn7b36np4md8krwc5r0000gn/T/tmp9mxsdqje/raw/src_a/doc0.html' mode='r' encoding='utf-8'>
+  html = open(path, encoding="utf-8").read()
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/Users/alexganyak/Documents/Codex/2026-11-25/files-mentioned-by-the-user-python/work/github-my-labs/lab1_corpus/extract_text.py:104: ResourceWarning: unclosed file <_io.TextIOWrapper name='/var/folders/g6/q7ypm1kn7b36np4md8krwc5r0000gn/T/tmp9mxsdqje/raw/src_a/doc1.html' mode='r' encoding='utf-8'>
+  html = open(path, encoding="utf-8").read()
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/Users/alexganyak/Documents/Codex/2026-11-25/files-mentioned-by-the-user-python/work/github-my-labs/lab1_corpus/extract_text.py:104: ResourceWarning: unclosed file <_io.TextIOWrapper name='/var/folders/g6/q7ypm1kn7b36np4md8krwc5r0000gn/T/tmp9mxsdqje/raw/src_a/doc2.html' mode='r' encoding='utf-8'>
+  html = open(path, encoding="utf-8").read()
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/Users/alexganyak/Documents/Codex/2026-11-25/files-mentioned-by-the-user-python/work/github-my-labs/lab1_corpus/extract_text.py:104: ResourceWarning: unclosed file <_io.TextIOWrapper name='/var/folders/g6/q7ypm1kn7b36np4md8krwc5r0000gn/T/tmp9mxsdqje/raw/src_b/doc.html' mode='r' encoding='utf-8'>
+  html = open(path, encoding="utf-8").read()
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/Users/alexganyak/Documents/Codex/2026-11-25/files-mentioned-by-the-user-python/work/github-my-labs/lab1_corpus/corpus_stats.py:28: ResourceWarning: unclosed file <_io.TextIOWrapper name='/var/folders/g6/q7ypm1kn7b36np4md8krwc5r0000gn/T/tmp9mxsdqje/text/src_a/doc0.txt' mode='r' encoding='utf-8'>
+  text = open(os.path.join(path, name), encoding="utf-8").read()
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/Users/alexganyak/Documents/Codex/2026-11-25/files-mentioned-by-the-user-python/work/github-my-labs/lab1_corpus/corpus_stats.py:28: ResourceWarning: unclosed file <_io.TextIOWrapper name='/var/folders/g6/q7ypm1kn7b36np4md8krwc5r0000gn/T/tmp9mxsdqje/text/src_a/doc1.txt' mode='r' encoding='utf-8'>
+  text = open(os.path.join(path, name), encoding="utf-8").read()
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/Users/alexganyak/Documents/Codex/2026-11-25/files-mentioned-by-the-user-python/work/github-my-labs/lab1_corpus/corpus_stats.py:28: ResourceWarning: unclosed file <_io.TextIOWrapper name='/var/folders/g6/q7ypm1kn7b36np4md8krwc5r0000gn/T/tmp9mxsdqje/text/src_a/doc2.txt' mode='r' encoding='utf-8'>
+  text = open(os.path.join(path, name), encoding="utf-8").read()
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/Users/alexganyak/Documents/Codex/2026-11-25/files-mentioned-by-the-user-python/work/github-my-labs/lab1_corpus/corpus_stats.py:28: ResourceWarning: unclosed file <_io.TextIOWrapper name='/var/folders/g6/q7ypm1kn7b36np4md8krwc5r0000gn/T/tmp9mxsdqje/text/src_b/doc.txt' mode='r' encoding='utf-8'>
+  text = open(os.path.join(path, name), encoding="utf-8").read()
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+ok
+test_stats_numbers (__main__.TestStats.test_stats_numbers) ... /Users/alexganyak/Documents/Codex/2026-11-25/files-mentioned-by-the-user-python/work/github-my-labs/lab1_corpus/extract_text.py:104: ResourceWarning: unclosed file <_io.TextIOWrapper name='/var/folders/g6/q7ypm1kn7b36np4md8krwc5r0000gn/T/tmp50v03t0n/raw/src_a/doc0.html' mode='r' encoding='utf-8'>
+  html = open(path, encoding="utf-8").read()
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/Users/alexganyak/Documents/Codex/2026-11-25/files-mentioned-by-the-user-python/work/github-my-labs/lab1_corpus/extract_text.py:104: ResourceWarning: unclosed file <_io.TextIOWrapper name='/var/folders/g6/q7ypm1kn7b36np4md8krwc5r0000gn/T/tmp50v03t0n/raw/src_a/doc1.html' mode='r' encoding='utf-8'>
+  html = open(path, encoding="utf-8").read()
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/Users/alexganyak/Documents/Codex/2026-11-25/files-mentioned-by-the-user-python/work/github-my-labs/lab1_corpus/extract_text.py:104: ResourceWarning: unclosed file <_io.TextIOWrapper name='/var/folders/g6/q7ypm1kn7b36np4md8krwc5r0000gn/T/tmp50v03t0n/raw/src_a/doc2.html' mode='r' encoding='utf-8'>
+  html = open(path, encoding="utf-8").read()
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/Users/alexganyak/Documents/Codex/2026-11-25/files-mentioned-by-the-user-python/work/github-my-labs/lab1_corpus/extract_text.py:104: ResourceWarning: unclosed file <_io.TextIOWrapper name='/var/folders/g6/q7ypm1kn7b36np4md8krwc5r0000gn/T/tmp50v03t0n/raw/src_b/doc.html' mode='r' encoding='utf-8'>
+  html = open(path, encoding="utf-8").read()
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/Users/alexganyak/Documents/Codex/2026-11-25/files-mentioned-by-the-user-python/work/github-my-labs/lab1_corpus/corpus_stats.py:28: ResourceWarning: unclosed file <_io.TextIOWrapper name='/var/folders/g6/q7ypm1kn7b36np4md8krwc5r0000gn/T/tmp50v03t0n/text/src_a/doc0.txt' mode='r' encoding='utf-8'>
+  text = open(os.path.join(path, name), encoding="utf-8").read()
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/Users/alexganyak/Documents/Codex/2026-11-25/files-mentioned-by-the-user-python/work/github-my-labs/lab1_corpus/corpus_stats.py:28: ResourceWarning: unclosed file <_io.TextIOWrapper name='/var/folders/g6/q7ypm1kn7b36np4md8krwc5r0000gn/T/tmp50v03t0n/text/src_a/doc1.txt' mode='r' encoding='utf-8'>
+  text = open(os.path.join(path, name), encoding="utf-8").read()
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/Users/alexganyak/Documents/Codex/2026-11-25/files-mentioned-by-the-user-python/work/github-my-labs/lab1_corpus/corpus_stats.py:28: ResourceWarning: unclosed file <_io.TextIOWrapper name='/var/folders/g6/q7ypm1kn7b36np4md8krwc5r0000gn/T/tmp50v03t0n/text/src_a/doc2.txt' mode='r' encoding='utf-8'>
+  text = open(os.path.join(path, name), encoding="utf-8").read()
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/Users/alexganyak/Documents/Codex/2026-11-25/files-mentioned-by-the-user-python/work/github-my-labs/lab1_corpus/corpus_stats.py:28: ResourceWarning: unclosed file <_io.TextIOWrapper name='/var/folders/g6/q7ypm1kn7b36np4md8krwc5r0000gn/T/tmp50v03t0n/text/src_b/doc.txt' mode='r' encoding='utf-8'>
+  text = open(os.path.join(path, name), encoding="utf-8").read()
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+ok
+
+----------------------------------------------------------------------
+Ran 19 tests in 0.011s
+
+OK
