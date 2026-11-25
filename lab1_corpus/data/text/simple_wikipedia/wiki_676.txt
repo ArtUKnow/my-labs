@@ -1,0 +1,11 @@
+Right angle
+indicates that this is a right angle]]
+A right angle is an angle with a measurement of 90 degrees or π/2 radians. While most angles are shown by a small sliver of a circle between their lines, right angles are drawn with a small square instead. This is why something that is 90 degrees is often referred to as "square" in woodworking. A right angle can also be called a "square angle".
+When two lines cross each other so that all the angles have the same size, the result is four right angles. This is known as "perpendicular". Two things that are at right angles to each other are called "perpendicular" or "orthogonal". This is expressed using the \bot symbol (such as in \ell_1 \, \bot \, \ell_2 ).
+Planes (flat surfaces) can also meet at right angles.
+In a building, a wall and a floor are said to be perpendicular to each other, and they have a right angle.
+Related pages
+Acute angle
+Obtuse angle
+Parallel (geometry)
+References

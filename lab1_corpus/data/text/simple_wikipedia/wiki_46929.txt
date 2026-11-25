@@ -1,0 +1,43 @@
+Corporation
+A corporation is a group of people who come together to create and operate a business. Legally, this business is treated as a separate entity, distinct from the individuals who manage it.
+Since the government recognizes it as a company rather than a natural person, a corporation must pay taxes and comply with state and federal laws. This separation between individuals and the corporation grants it certain special powers, which are defined by the laws of the country where it is established.
+Investors (people who own part of the company) and entrepreneurs (those who founded the company and developed its ideas) often form joint-stock companies. For this reason, the term corporation often refers to such business corporations. However, corporations can also be created for other purposes, such as local government (municipal corporations), political, religious, or charitable work (not-for-profit corporations), or to run government programs (government-owned corporations). Condominiums are another common form of non-profit corporation.
+In everyday language, “corporation” usually refers to a limited liability corporation—a business where each partner invests a certain amount of money as the corporation’s capital in exchange for shares. If the corporation goes bankrupt, shareholders are only responsible for the value of their shares and are not personally liable for the company’s debts.
+History
+The word "corporation" comes from the Latin word corpus, meaning "body" or "a group of people". By the time of Justinian (who ruled from 527–565), Roman law had names for corporate groups, such as Universitas, corpus, or collegium. After the law called Lex Julia was passed during the rule of Julius Caesar (49–44 BC), and confirmed under Caesar Augustus (27 BC–14 AD), groups called collegia needed approval from the Roman Senate or the Emperor to be officially recognized.
+These included the Roman state (Populus Romanus), towns, and private groups like religious cults, burial clubs, political organizations, and trade guilds. These groups could own property, sign contracts, receive gifts, go to court, and act legally through representatives. The emperor could also grant them special rights and freedoms.
+The idea of corporations was brought back in the Middle Ages when scholars studied and explained Justinian's from the 11th to 14th centuries. Two important Italian legal scholars, Bartolus de Saxoferrato and Baldus de Ubaldis, helped develop the idea. Baldus compared a corporation to the human body to describe the state.
+In ancient times, early business groups with legal rights included Roman collegia and the sreni of the Maurya Empire in India. In medieval Europe, churches and local governments (like the City of London Corporation) also became corporations. The key idea was that the group would continue to exist even after its members died. The Stora Kopparberg mining company in Sweden is often said to be the oldest commercial corporation. It received a charter from King Magnus Eriksson in 1347.
+In medieval times, traders often worked together using common law structures like partnerships. When people worked together for profit, the law recognized a partnership. Early guilds and livery companies also helped control competition between businesses.
+Ownership and control
+A corporation is usually owned and controlled by its members. In a joint-stock company, the members are called shareholders. Each shareholder owns a portion of the company based on how many shares they have. For example, someone who owns 25% of the shares owns 25% of the company, gets 25% of the profits paid out to shareholders (called dividends), and gets 25% of the votes at company meetings.
+In other types of corporations, membership rules are defined by the legal documents that created the corporation. These rules vary by the type of corporation. For example, in a worker cooperative, the members are the workers. In a credit union, the members are the people who have accounts with it.
+The daily operations of a corporation are usually managed by people chosen by the members. Often, this is done by a board or committee, and there are two common types:
+In many common law countries, a single board of directors is used. This board has executive directors (who manage) and non-executive directors (who supervise).
+In many civil law countries, there is a two-tier system with a supervisory board and a managing board.
+In some countries like Germany, workers have the right to elect part of the board. This is called co-determination.
+Formation
+In the past, corporations were created by a charter from the government, often passed as a private bill.
+Today, a corporation is formed by registering with a government agency (state, province, or national). This process is called incorporation. Registering gives the company limited liability, which protects its owners. Corporations often must list a main address and appoint a registered agent to receive legal documents.
+Corporations usually file articles of incorporation, which include basic details such as:
+the purpose of the company
+the number of shares it can issue
+names and addresses of the directors
+After this, the directors create bylaws, which describe how the company works internally (like how meetings are held and officers are chosen).
+Corporations usually can’t own their own stock, except in special cases called treasury stock, where they buy back shares from shareholders. These shares are not considered assets and don’t count as active capital.
+Under the internal affairs doctrine, the laws of the place where the company is incorporated control its internal rules (like how it deals with directors and shareholders).
+If a corporation operates in another state or country, it must usually register there as a foreign corporation and appoint a registered agent. A foreign corporation must follow the local laws of that place for things like employment, contracts, and lawsuits.
+Naming
+Corporations usually have their own name. In the past, some were named after their board members. For example, "President and Fellows of Harvard College" is Harvard University’s legal name.
+Today, corporate names are more flexible. In Canada, some companies are just numbered (like "12345678 Ontario Limited") based on registration.
+Most countries require companies to include a word in their name that shows they are a corporation, such as:
+"Inc.", "Incorporated", "Ltd.", or "LLC".
+These words tell people that the company has limited liability—you can only sue for what the company owns.
+Names must be unique within the place where the company is registered. Different states can have companies with the same name, so legal documents often mention the state of incorporation to avoid confusion.
+In some places, the word "company" alone is not enough to show it’s a corporation, because it could also mean a partnership or sole proprietorship.
+References
+Related pages
+Joint stock company
+Other websites
+Corporation Corporations' origins, history, legal definition, and current issues
+US Corporate Law at Wikibooks

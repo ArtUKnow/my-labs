@@ -1,0 +1,27 @@
+Torque
+]]
+vectors in a rotating system]]
+In physics, torque is the tendency of a force to turn or twist. If a force is used to begin to spin an object, or to stop an object from spinning, a torque is made.
+The force applied to a lever, multiplied by the distance from the lever's fulcrum, multiplied again by the sine of the angle created, is described as torque. This is also known as "r cross f," or "force times fulcrum distance times sine theta."
+Torque is the measure of how much a force causes an object to rotate. When you use a wrench, the force you apply at the handle makes the bolt turn around its center. The farther you apply that force from the bolt, the greater the torque. This is why a longer wrench makes it easier to loosen a tight bolt because the same force creates more rotational effect.
+Fulcrum
+Fulcrum is the axis of rotation or point of support on which a lever turns in raising or moving something.
+Equation
+The equation for torque is:
+\boldsymbol \tau = \mathbf{r}\times \mathbf{F}\,\!
+where F is the net force vector and r is the vector from the axis of rotation to the point where the force is acting. The Greek letter Tau is used to represent torque.
+The units of torque are force multiplied by distance. The SI unit of torque is the newton-metre. The most common English unit is the pound-foot.
+Torque with Angled Forces
+When the force is applied at an angle, only the part of the force that aligns with the sine theta component of "r cross f" contributes to torque.
+The closer the angle is to 90 degrees, the larger the sine theta value, and the greater the torque generated.
+Torque In Gears
+Angled force affects how much torque actually gets into a gear system. If less torque is created at the start (because the force isn’t at 90 degrees), then the gear has less to work with.
+Angled forces reduce gear efficiency because not all of the force goes into turning the gear.
+References
+Other websites
+"Horsepower and Torque" An article showing how power, torque, and gearing affect a vehicle's performance.
+a discussion of torque and angular momentum in an online textbook
+Torque and Angular Momentum in Circular Motion on Project PHYSNET.
+An interactive simulation of torque
+Khan Academy – “Torque and Angular Acceleration”. A video-based explanation of torque, moment arms, and their relationship to angular motion.
+"Gear Force Analysis – Spur and Helical Gears". Drivetrain Hub (2020). An online notebook breaking down how an angled (normal) force on gear teeth splits into tangential, radial, and axial components, and how only the tangential force contributes to torque.

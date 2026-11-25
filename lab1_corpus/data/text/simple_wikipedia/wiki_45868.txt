@@ -1,0 +1,27 @@
+Binomial nomenclature
+, done by Hendrick Hollander in 1853]]
+Binomial nomenclature is a way of naming and categorizing species in biology. "Binomial nomenclature" means "two-part name" or "system of two-part names". In this system, the name of a species is made of two parts: one indicating the genus and one indicating the species. The name of the genus is always capitalized; the name of the species is not.
+For example, in binomial nomenclature, modern humans are called Homo sapiens because they belong to the genus Homo and the species sapiens.
+History
+Swedish botanist and physician Carolus Linnaeus (1707–1778) popularized this system. He gave a two-part name to every species he knew. This kind of naming had been used before Linnaeus by some naturalists, but after Linnaeus, it was accepted as a good method.
+Linnaeus chose Latin names: first, because it avoided competitive nationalism; second, because most educated people in his day learned Latin.
+Value of binomial nomenclature
+The value of the binomial nomenclature comes from several things.
+It is universal and unique
+Binomial nomenclature saves words because it replaces long descriptions, it is used everywhere, and the names are unique and stable.
+Everyone uses the same names
+The system ended the use of local common names, which was the source of much confusion. When Western science was done by just a few European countries, their common names for species were well-known. But as it happened, the common names in all countries were rather different. The same name might be used for more than one species, and several species given the same name.
+Example
+For example, people in North America and Europe use the word "robin" to refer to unrelated birds. The common name "robin" is not specific enough to show which type of robin the bird is.
+The Linnaeus system avoids this confusion because everyone worldwide uses the same name for the same species. Instead of describing both species as "robins," binomial nomenclature calls the American robin Turdus migratorius, and calls the European robin Erithacus rubecula. This makes it clear that these are different species that do not even belong to the same genus or family.
+Problems
+The system has been a great success, but it does have some problems. It is not always clear what is a species and what is not. Many species are quite clear. However, sometimes biologists disagree about whether something is a single species or several species.
+Linnaeus himself noticed that species were not always distinct. Today we know something about why this is so. In practice, international committees make decisions about naming species in difficult cases.
+Where names come from
+There are no rules about what a genus or a species must be named. The parts of the name may come from anywhere. Often they are Latin words which come originally from ancient Greek. This is gradually changing, and some names are now Latinized words (for example, describing a place, a person, or a name from a local language).
+Related pages
+Biological classification
+Taxonomy
+References
+Other websites
+The Language of Horticulture

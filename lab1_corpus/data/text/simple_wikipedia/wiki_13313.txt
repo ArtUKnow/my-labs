@@ -1,0 +1,29 @@
+Cholesterol
+Cholesterol is a soft waxy substance found in animal cells and body fluids. It is a lipid made up of fat or fat-like molecule s. It is found especially in animal fats, but not in plant sources of fat.
+Cholesterol is a type of lipid that is called a steroid. Steroids have a special chemical structure made of four rings of carbon atoms. The name Cholesterol ending in "ol" means its chemical structure is that of a steroid with an alcohol group. All steroid hormones are made by adjusting the basic chemical structure of cholesterol. Other steroids include hormone steroids like cortisol, estrogen, and testosterone. High levels of cholesterol can lead to atherosclerosis, an inflammatory disease of artery walls in which white blood cells invade the vessel wall and become engorged with cholesterol and other lipids. These areas can slowly close off a blood vessel or can suddenly rupture and trigger formation of a blood clot.
+Types
+Cholesterol is a lipid (fat), which cannot dissolve in water. The bloodstream is water-based and transports only soluble substances, and cholesterol is transported in a soluble structure called a lipoprotein. Lipoproteins may be classified by density. Doctors often measure the amounts of each different type to find out if someone has hypercholesterolemia.
+High density lipoprotein (HDL) transports cholesterol from the body to the liver. There it can be recycled or converted to bile acid and excreted, reducing the amount of cholesterol in the body. For this reason HDL is sometimes called "good cholesterol". People with higher levels of HDL are less likely to have atherosclerosis.
+Low density lipoprotein (LDL) transports cholesterol from the liver into the body, increasing the amount of cholesterol there. For this reason LDL is sometimes called "bad cholesterol". People with higher levels of LDL are more likely to have atherosclerosis.
+Intermediate and Very low density lipoprotein (IDL & VLDL) and Chylomicrons transport triglycerides around the body. Triglycerides also play a role in atherosclerosis.
+Biosynthesis
+Image:Cholesterolbiosynthesis.png|Cholesterol biosynthetic pathway
+Lovastatin
+Image:Domain organization of Lovastatin.gif|Architecture of the lovastatin type I PKS system. Outlined domains are used iteratively. ACP- acyl carrier protein, AD-alcohol dehydrogenase, AT-acyltransferase, DH-dehydratase, KS-ketoacyl synthase, KR-ketoreductase, MT-methyltransferase, ER-enoylreductase, C-condensation, TE-thioesterase. (*)-redundant domain/inactive not used in this step.
+Image:Figure 1- Biosynthesis of Lovastatin.gif|Biosynthesis of lovastatin
+The biosynthesis of lovastatin occurs via an iterative type I polyketide synthase (PKS) pathway. The six genes that encode enzymes that are essential for the biosynthesis of lovastatin are lovB, lovC, lovA, lovD, lovG, and lovF .
+Image:Hmg-reductase.png|HMG CoA reductase reaction
+Image:Biosynthesis-dielsalder.png|Biosynthesis using Diels-Alder catalyzed cyclization
+Image:Biosynthesis-lovd.png|Biosynthesis using broadly specific acyltransferase
+Image:Totalsynthesis1.png|Synthesis of compounds 1 and 2
+Image:Totalsynthesis2.png|Complete lovastatin synthesis
+Additional images
+File:ConversColest.png|Cholesterol units conversion
+File:Steroidogenesis.svg|Steroidogenesis, using cholesterol as building material
+File:Cholesterol Spacefill.jpeg|Space-filling model of the Cholesterol molecule
+File:Steroid numbering.svg|Numbering of the steroid nuclei
+Related pages
+Bile
+Metabolism
+Statin
+References

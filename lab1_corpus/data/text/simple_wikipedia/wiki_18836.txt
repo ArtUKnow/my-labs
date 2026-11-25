@@ -1,0 +1,41 @@
+Time dilation
+and on Earth.]]
+Time dilation is a difference in the way time passes. Caused by general relativity. There are two kinds: gravitational time dilation, caused by strong gravity, and time dilation caused by extreme speed.
+Heavy things like planets create a gravitational field that slows down time nearby. This means a clock in outer space moves quicker than a clock on Earth. Black holes slow down time so much that anything that falls in will seem like it's frozen in time. Th part of general relativity.
+This is different from time dilation caused by speed. The theory of special relativity says fast objects move more slowly through time. Close satellites like the International Space Station move very quickly to orbit the Earth, so their time is slowed down.
+Engineers need to think about time dilation when they make satellites and spaceships. It is almost impossible to notice the time dilation that happens on Earth.
+Effects
+Satellites
+For satellites in low Earth orbit (LEO), time dilation due to gravity is not as strong as time dilation due to its speed, so a clock on it is slowed down more than it is sped up. However, an object in geostationary orbit moves less quickly and is farther away from Earth, so gravitational time dilation is stronger, and clocks move quicker than in LEO.
+Engineers working on satellites need to pick different clocks for different orbits. GPS satellites need perfect timing to work, so they are made ready for both kinds of time dilation. If the engineers did not plan for time dilation, the GPS satellite would always pick the wrong place.
+Humans
+Time dilation does not affect normal people. On Earth, the changes are so small, we can ignore them. Something must go (10% the speed of light) before time dilation becomes important.
+Astronauts that spend a lot of time on space stations will not feel as much time pass as people on Earth. When they come back home, the astronauts are a tiny bit younger than they should be.
+If people could build something fast enough, we could create a time machine to send us forward into the future. However, this is impossible right now. It is not safe and the speed is too fast.
+Evidence
+Experiments support both aspects of time dilation.
+Time dilation due to relative velocity
+The formula for determining time dilation in special relativity is:
+\Delta t' = \frac{\Delta t}{\sqrt{1-v^2/c^2}} \,
+where
+\Delta t \, is the time interval for an observer (e.g. ticks on his clock) – this is known as the proper time,
+\Delta t' \, is the time interval for the person moving with velocity v with respect to the observer,
+v \, is the relative velocity between the observer and the moving clock,
+c \, is the speed of light.
+It could also be written as:
+\Delta t' = \gamma \Delta t \,
+where
+\gamma = \frac{1}{\sqrt{1-v^2/c^2}} \, is the Lorentz factor.
+A simple summary is that more time is measured on the clock at rest than the moving clock, therefore, the moving clock is "running slow".
+When both clocks are not moving, relative to each other, the two times measured are the same. This can be proven mathematically by
+\Delta t' = \frac{\Delta t}{\sqrt{1-0/c^2}} = {\Delta t} \,
+For example:
+In a spaceship moving at 99% of the speed of light, a year passes. How much time will pass on earth?
+v=0.99c \,
+\Delta t=1\, year
+\Delta t'=? \,
+Substituting into : \Delta t' = \frac{\Delta t}{\sqrt{1-v^2/c^2}} \,
+\Delta t'=\frac{1}{\sqrt{1-(.99c)^{2}/c^{2}}}=\frac{1}{\sqrt{1-\frac{(.99)^{2}(c)^{2}}{c^{2}}}}=\frac{1}{\sqrt{1-(.99)^{2}}}
+\frac{1}{\sqrt{1-0.9801}}=\frac{1}{\sqrt{0.0199}}=7.08881205 years
+So approximately 7.09 years will pass on earth, for each year in the spaceship.
+References

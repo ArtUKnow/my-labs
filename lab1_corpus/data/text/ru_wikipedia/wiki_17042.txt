@@ -1,0 +1,110 @@
+Visual Basic .NET
+Visual Basic .NET (VB.NET) — объектно-ориентированный язык программирования, который можно рассматривать как очередной виток эволюции Visual Basic (VB), реализованный на платформе .NET Framework. VB.NET не имеет обратной совместимости с более ранней версией (Visual Basic 6.0). Развитие проектов старых версий (*.vbp) возможно только после предварительной конвертации их в формат VB.NET специальным мастером (Migration Wizard); однако, как правило, после конвертации требуется существенная ручная доработка текстов. 11 марта 2020 г. Microsoft объявила о стабилизации стандарта языка VB.NET и продолжении его поддержки .
+Версии
+Существующие версии VB.NET:
+Visual Basic .NET (VB 7.0) — выпущен в 2002 году, вместе с Visual C и ASP.NET
+Visual Basic .NET 2003 (VB 7.1) — выпущена вместе с .NET Framework 1.1; имеется русскоязычная версия с русским MSDN
+Visual Basic 2005 (VB 8.0) — выпущена в конце октября 2005 года, в составе Visual Studio 2005
+Visual Basic 2005 Express — выпущена в начале ноября 2005 года совместно с другими продуктами линейки Express , в том числе SQL Server 2005 Express Edition. Предлагается для бесплатного скачивания и использования. Требует .NET Framework 2.0.
+Visual Basic 2008 (VB 9.0)
+Visual Basic 2008 Express — бесплатная упрощённая версия, выпущенная параллельно с новым продуктом. Предлагается для бесплатного скачивания и использования. Требует .NET Framework 3.5. Имеется русскоязычная версия с русским MSDN для VS 2008 Express Edition.
+Visual Basic 2010 (VB 10.0) Требует .NET Framework 4.
+Visual Basic 2010 Express — бесплатная упрощённая версия. Предлагается для бесплатного скачивания и использования. Требует .NET Framework 4.
+Visual Basic 2012 (VB 11.0) Требует .NET Framework 4.5.
+Visual Basic 2013 (VB 12.0) Требует .NET Framework 4.5.1.
+Visual Basic 2015 (VB 14.0) Требует .NET Framework 4.6.
+Visual Basic 2017 (VB 15.0) Требует .NET Framework 4.6.
+Visual Basic 2019 (VB 16.0) Требует .NET Framework 4.8.
+Visual Basic 2022 (VB 17.0) Требует .NET Framework 4.8.
+Изменения по сравнению с VB 6.0
+Важнейшие изменения в VB.NET следующие.
+Поддержка концепций объектно-ориентированного программирования с конструкторами и деструкторами, наследованием, перекрытием методов (Overrides) и др. Есть даже переопределение знаков операций.
+Компиляция в байт-код (intermediate language, IL), исполняемый с помощью виртуальной машины common language runtime (CLR).
+Использование всего набора объектных библиотек, входящих в .NET Framework, включающих мощные средства по работе с формами (Windows Forms), базами данных (ADO.NET), графикой (GDI+), средствами обеспечения безопасности, веб-страницами (ASP.NET) и т. п.
+Поддержка свободной многопоточности.
+Поддержка структурной обработки исключений (structured exception handling, SEH).
+С переходом на платформу .NET, изменилась сама парадигма программирования (и это наиболее важное изменение).
+Программная структура
+Группа Interface — прототипы классов, Implements — их реализация.
+Аппарат Namespaces для предотвращения конфликтов имён.
+Данные
+Режим жёсткой проверки типов (Option Strict).
+Новые или изменённые типы данных:
+Char (беззнаковое слово, содержащее Unicode-символ).
+String теперь всегда содержит двухбайтовые Unicode-символы.
+Short (вместо прежнего Integer), 16 битов.(от −32768 до 32767)
+Integer (вместо прежнего Long), 32 бита.(от −2147483648 до 2147483647)
+Long (целое, 64 бита, от −9223372036854775808 до 9223372036854775807).
+Их беззнаковые варианты:
+UShort (от 0 до 65535),
+UInteger (от 0 до 4294967295),
+ULong (от 0 до 18446744073709551615).
+Байт со знаком: SByte.
+Decimal (96-битовое целое, масштабированное требуемой степенью 10), примерно до 8 \times 10^{28} .
+Структура данных Structure вместо Type, причём она, подобно классу, допускает методы.
+Тип Variant переименован в Object. Типы Currency, String*длина упразднены.
+При описании можно указать начальное значение.
+Новые средства языка
+Структурная обработка исключений: операторы Try/Catch/Finally/Throw, объект Exception.
+Новые виды оператора присваивания: +=, -=, >>= и др.
+С версии [2005] появился оператор Continue {For|Do|While} — новый оборот цикла.
+Оператор Return возвращает значение для функций.
+Операции сдвига для целых.
+Новые логические операции AndAlso, OrElse — для них лишние вычисления операндов блокируются. Логические операции Eqv, Imp упразднены.
+Комплект стандартных функций, работа с элементами управления и многое другое существенно изменены.
+Примеры
+Схема простейшего алгоритма на Visual Basic .NET, позволяющего изменить значение свойства объекта:
+.
+Пример кода на Visual Basic .NET:
+Public Class Form1
+Private Sub Button1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button1.Click
+'Графика
+Using CG = Me.CreateGraphics
+CG.DrawBezier(New System.Drawing.Pen(Color.Blue), 0, 0, 100, 100, 600, 600, 0, 400)
+CG.DrawBezier(New System.Drawing.Pen(Color.Blue), 0, 0, 600, 600, 100, 100, 400, 0)
+CG.DrawLine(New System.Drawing.Pen(Color.Blue), 0, 0, 600, 600)
+End Using
+'Система
+MessageBox.Show("User name: " + My.User.Name.ToString + vbCrLf + _
+"Screen name: " + My.Computer.Screen.DeviceName.ToString + vbCrLf + _
+"Ports count: " + My.Computer.Ports.SerialPortNames.Count.ToString, _
+"Box Caption", MessageBoxButtons.OK, MessageBoxIcon.Error)
+'Сеть
+Using WC As New System.Net.WebClient
+WC.DownloadFile(" "C:\myfile.exe")
+End Using
+End Sub
+End Class
+Hello, World
+В консольном приложении
+Module Module1
+Sub Main()
+Console.WriteLine("Hello, World!")
+End Sub
+End Module
+В форме
+Private Sub HW()
+Dim helloworld As New Label 'объявление новой переменной типа label
+With helloworld 'позволяет указывать свойства объекта без написания его имени
+.Text = "Hello, World"
+.AutoSize = vbYes
+.Font = New Font(.Text, 48)
+.Location = new point(100, 100)
+.Visible = True
+End With
+Me.Controls.Add(helloworld) 'добавление созданного объекта на форму
+End sub
+См. также
+Mono
+Gambas
+Примечания
+Ссылки
+Страница загрузки Visual Basic 2010 Express
+Практические видео-материалы по Visual Basic
+Новые возможности Visual Basic 2010
+Стартовые комплекты и пакеты Power Pack для Visual Basic
+Статьи, демонстрации, обзор средств и другие сведения о веб-разработке на языке Visual Basic.
+Bit.Pirit.Info — русскоязычный форум посвящённый программированию на Visual Basic 6.0 и .Net
+Литература
+Евангелос Петрусос. Эффективная работа: Visual Basic .NET, Питер, 2002. С. 928. ISBN 5-94723-175-1
+Дан Эпплман. Переход на VB.NET стратегии, концепции, код. Питер, 2002. - С. 464. ISBN 5318007465, 9785318007460

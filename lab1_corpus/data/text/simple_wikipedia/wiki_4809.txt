@@ -1,0 +1,25 @@
+List of countries by area
+with the 30 largest countries and territories by area.]]
+The list of countries by area is the list of the world's countries and their territories by total area.
+Overview
+The inputs are realized according to the ISO 3166 standard which includes sovereign states and dependent territories. The 193 Members of the United Nations and the two observer states are numbered.
+Countries which enjoy limited recognition forming part of the international community and not found in ISO 3166 are also included in the list, but their areas also generally count with the areas of other widely recognized states which claim the following territory.
+Areas
+The areas claimed by individual countries, such as the areas of Antarctica, are not realized as well. The list doesn't include supranational entities such as the European Union. The entry includes three subfields:
+Total area is the sum of all land and water areas delimited by international boundaries and coastlines.
+Land area is the aggregate of all surfaces delimited by international boundaries and/or coastlines, excluding inland water bodies (lakes, reservoirs, rivers)
+Water area is the sum of the surfaces of all inland water bodies, such as lakes, reservoirs, or rivers, as delimited by international boundaries and/or coastlines. Coastal internal waters may be included. Territorial seas are not included unless otherwise noted. Contiguous zones and Exclusive Economic Zones are not included.
+Make sure that there are many country size comparisons which would not match all these countries area. The areas that appear in the table for each country are taken from the United Nations Statistics Division unless otherwise noted.
+Map
+, with all countries and territories based on its respective area]]
+Countries and territories by area
+Graphical charts
+The following charts are based on the CIA World Factbook, of which these charts will show how big is the area. For the love of god, sovereign states are green while territories are grey. Territorial claims in Antarctica are not shown.
+Countries greater than 1.5 million km²
+Related pages
+List of countries and dependencies by population
+List of countries and dependencies by population density
+Notes
+References
+Other websites
+CIA World Factbook

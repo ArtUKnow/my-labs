@@ -84,11 +84,12 @@ def evaluate_mode(mode, documents, vocabulary, queries, qrels, k):
 
 def main():
     k = 5
-    documents = load_documents(TEXT_DIR)
-    vocabulary = load_vocabulary(TOKENS_DIR)
     queries = load_queries(QUERIES_PATH)
     qrels = load_qrels(QRELS_PATH)
-    report = {"k": k, "modes": []}
+    labeled_ids = {doc_id for grades in qrels.values() for doc_id in grades}
+    documents = load_documents(TEXT_DIR, labeled_ids)
+    vocabulary = load_vocabulary(TOKENS_DIR, labeled_ids)
+    report = {"k": k, "evaluation_documents": len(documents), "modes": []}
     for mode in ["raw", "stem", "lemma"]:
         result = evaluate_mode(mode, documents, vocabulary, queries, qrels, k)
         report["modes"].append(result)

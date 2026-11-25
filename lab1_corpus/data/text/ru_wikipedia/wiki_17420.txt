@@ -1,0 +1,19 @@
+ColdFusion
+ColdFusion — интерпретируемый скриптовый язык программирования, созданный для генерации HTML на веб-сервере и работы с базами данных.
+Язык был создан братьями и Аллерами, но на данный момент продуктом владеет Adobe.
+ColdFusion 1.0 был выпущен в июне 1995 года корпорацией Allaire. Язык был назван DBML (от — «язык разметки баз данных») и позже был переименован в CFML (от — «язык разметки ColdFusion»). Начиная с версии 1.5, ColdFusion содержал совместимость с C++, позволяя пользователям разрабатывать дополнения к языку. Годами позже это послужило основой для создания ColdFusion Extension (CFX) Tags, нынешнего метода для дополнения языка.
+Тем временем, Allaire начала работу по изменению ядра ColdFusion с помощью Java («Neo»). Это должно было обеспечить кроссплатформенность.
+16 января 2001 года корпорация Allaire заявила, что сливается с Macromedia. После слияния была выпущена версия ColdFusion 5.0. В июне 2002 года Macromedia выпустила Macromedia ColdFusion MX, назвав версию по аналогии с линейкой своих остальных продуктов. ColdFusion MX была полностью переписана и основана на Java 2 Enterprise Edition (J2EE). В ColdFusion MX также была встроена хорошая поддержка Macromedia Flash (через Macromedia Flash Remoting MX).
+История версий
+Пример кода
+SELECT * FROM table
+WHERE field = 'whateveryouaresearchingfor'
+field_from_query#
+Примечания
+Ссылки
+Сайт Adobe ColdFusion
+Краткая история ColdFusion
+Списки конференций ColdFusion
+Группы пользователей ColdFusion
+Free ColdFusion Хостинг CFMLDeveloper
+Списки рассылки ColdFusion

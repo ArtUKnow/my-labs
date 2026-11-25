@@ -1,0 +1,19 @@
+Oscilloscope
+model 475A portable analogue oscilloscope, typical of the late 1970s.
+This dual-trace, dual-sweep instrument had a horizontal bandwidth of 250 MHz, a maximum vertical sensitivity of 5 mV per division, and maximum (unmagnified) horizontal sweep speed of 10 ns per division. The vertical controls are on the left with Channel 1 above and Channel 2 below. The horizontal sweep controls are on the right with the Main Trigger above and the Delayed Trigger below. The CRT controls are below the screen. The metal loop to the lower right of the screen provided a calibration signal for voltage and current probes.]]
+An oscilloscope (sometimes abbreviated CRO, for cathode ray oscilloscope, or commonly just scope or O-scope) is a piece of electronic equipment that lets you see changes or waveform in signal voltage. For example, if you want to see the signal a small electronic timer was producing, you could connect it to an oscilloscope and see.
+Usually, it shows a two-dimensional graph of one or more electrical potential differences on the vertical axis. These graphs are plotted with time or some other voltage along horizontal axis.
+Description
+A typical oscilloscope is usually box shaped with a display screen, numerous input connectors, control knobs and buttons on the front panel. To aid measurement, a grid called the graticule is drawn on the face of the screen. Each square in the graticule is known as a division.
+Other websites
+Oscillograph 1911 Encyclopædia.
+Online oscilloscope simulation
+Oscilloscope Tutorial
+The Cathode Ray Tube site
+Digital Storage Oscilloscope measurement basics
+Oscilloscope FAQ
+Oscilloscope Articles & Resources
+Using a Common Oscilloscope
+Features of handheld Oscilloscope
+Quick and easy tutorial to learn concepts and use. Technical terms explained in clear and simple way.
+References

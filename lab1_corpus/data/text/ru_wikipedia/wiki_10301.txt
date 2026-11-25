@@ -1,0 +1,9 @@
+AEFS
+AEFS (от — «Продвинутая зашифрованная файловая система») — шифрующая виртуальная файловая система для операционных систем класса OS/2 или UNIX.
+Поддерживает популярные криптостойкие алгоритмы шифрования AES и Twofish с ключом до 256 бит включительно. В реализации для OS/2 поддерживает расширенные атрибуты файловой системы. Шифрование и расшифровывание происходят «прозрачно» для пользователя.
+Ссылки
+AEFS — официальная страница.
+AEFS репозиторий на GitHub
+Robert Henschel VOICE Newsletter 05/2004 — AEFS — an encrypting file system for OS/2 and eComStation . V.O.I.C.E. May 2004.
+Trusted OS Research and Development, Gwangju Institue of Science and Technology
+Installable File Systems // OS/2 eZine

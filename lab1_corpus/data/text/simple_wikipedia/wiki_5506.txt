@@ -1,0 +1,13 @@
+Position
+Position is a way to discuss where something is. Normally you discuss this by comparing it to the position of something else. One way is to use both the direction and the distance from that object. Another way is to use words called prepositions, such as under or near.
+You can also discuss a position on Earth with a coordinate system, which puts numbers for every place on Earth. These numbers are called latitude and longitude. Normally this is a position on the ground or on the surface of water. But if the position is in the sky or underwater, then you will also need to know how high it is, which is called the elevation.
+In sports
+In many sports, the term "position" is used to show what occupation a person has on their team. For example, in baseball, positions include catcher, shortstop and pitcher.
+Human position
+In various activities such as dance and yoga, the static arrangement of the body and its parts is called a position, for example in an arabesque (ballet).
+In math and physics
+The position of something is where that thing is in space and time. Usually people use Cartesian coordinates to write down a position. So a scientist might say that the balloon was at x, y, z when it popped at a certain time. The scientist can also say the balloon’s position in other ways, like latitude, longitude, and height (spherical coordinates) or x, y, z, and t (space and time).
+In society
+The position of a person is his status or responsibility in a community or group of people.
+In a factory, the manager is a typical position.
+In the military, this is called rank.

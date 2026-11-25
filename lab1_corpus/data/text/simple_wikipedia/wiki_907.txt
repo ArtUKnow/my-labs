@@ -1,0 +1,38 @@
+Wiki
+homepage]]
+A wiki is a type of website allowing users to create and change its pages from their browsers. The purpose of a wiki is to host information.
+Content is made by the user for the site, as well as the moderation, cleanup, and improvement to articles. These keep it from being vandalized as well as being full of correct information.
+Changes most wikis are tracked by the edit history, where the editor username (or IP, or date edited) and time of the edit are tracked.
+History
+Ward Cunningham started the first wiki in March 1995. Many people liked it, and wrote there, after which they started similar websites such as Wikipedia.
+MediaWiki is the most used software for wikis and it is the software used for Wikipedia. JSPWiki is one of many others. "Wiki" is also sometimes an abbreviation for Wikipedia.
+Etymology
+Wikiwiki is a word from the Hawaiian language, meaning "fast" or "speed".
+The word is sometimes used in Internet slang to mean Wikipedia.
+Overview
+Wikis can be changed or edited by anyone with an account, or by everyone in the world if the wiki allows changes from logged out users. Some important pages can only be changed by certain users (locked or protected pages).
+Subwikis exist or new ones can be created for articles to be translated and then read in other languages. simple.wikipedia is a subwiki where articles are written in simple English. A lot of Wikis have a button for switching languages, which usually is labelled as "2 languages" for example if the article has been translated into 2 languages already. The Wikipedia.org homepage includes links to Wikis that are in other languages, such as Spanish or French and even Chinese.
+If a subwiki would have enough traffic, or has content in a specific language, Wikipedia might create a subwiki for it, or they can be requested. Subwikis are often ranked by users or number of pages.
+As well as subwikis there are also alternate wikis. Examples of wikis include Wikipedia, Everipedia, Citizendium, Scholarpedia, Conservapedia, Wiktionary and Wikibooks.
+Purpose
+The wiki that is used the most is the English Wikipedia. It is used as an encyclopedia.
+Some wikis are private. Only people who are trusted by the owners of private wikis can use them. Wikis used by businesses are often private. The contain knowledge used by the employees of the business.
+On Wikipedia, people do not want general discussion that does not help in writing articles and edits to talk pages should be for working together with other editors on an article, asking other editors for help or to help other editors, and to issue warnings to editors.
+If one person writes something wrong, another user can correct or revert it. However, a lot of the time, a bad edit can be understood as a "good faith edit". This means the editor was not trying to vandalize the page or make it worse, but contribute to it. People make mistakes and good faith edits are fine a lot of the time because of how humans work. It is important to be bold with your edits and try to improve Wikipedia when you can, and to edit the page with high quality edits even if you are not sure that you should, because they can always be reverted. That is the main purpose and function for Wikipedia.
+Function
+On a wiki, people can write pages by collaboration and teamwork. Pages are watched closely by other editors to see whether changes are good or bad. The watchlist is the feature designed to help with this.
+Users can also add new things to the page and create new pages. Because of this, the article and wiki it belongs to gets better when people change it.
+Administrators can WP:block someone from editing if they vandalize, or for other reasons. Users can also discuss things on wikis. Discussion can help people understand things better and get a chance to tell their views. Wikipedia uses Talk pages for that.
+Issues
+Although this type of website is a efficient and streamlined form of hosting information, there are also issues.
+Vandalism
+Many wikis are available to people even without an account. These kinds of wikis will become a target for vandals. Vandals try to add unwelcome, disruptive or even misleading information to the page. There are many ways to prevent this. Individual pages can be protected to allow only certain users, or only those with an account, to edit them. Administrators can block users who make repeated bad faith edits after a minimum of a single warning. Vandalism may not be stopped completely or before it happens, but regular, careful checking of the recent edits can limit the amount of disruption.
+Corruption
+Wikipedia and subwikis are non-profit websites and their contributors (including moderation) are not paid for their time. Each subwiki is mostly in control over itself, separate from Wikipedia, and they have to manage themselves. Sometimes this leads to corruption, where moderators, admins, and others with power on the site will abuse their privileges. This extends to regular users being corrupt as well. They may bully other users, take money for editing pages, or feel as though they "control" certain pages on the website more than others. It might lead to edit warring, trolling, and abuse. However there are rules against this, and users that do not contribute properly are removed.
+Sockpuppets
+As with many other websites, the nature of the internet being faceless and mostly anonymous, or by the use of proxies or a VPN to make fake accounts, users sometimes break the rules by pretending to be other people when talking about themselves (their main account). This can lead to rigged polls, edit warring solutions, derailing discussion, and cyber bullying. Having multiple accounts without stating it clearly is against the rules on most Wikis.
+Related pages
+Wikipedia
+English Wikipedia
+Simple English Wikipedia
+References

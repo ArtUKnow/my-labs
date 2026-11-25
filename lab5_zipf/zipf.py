@@ -66,18 +66,26 @@ def zipf_error(ranked, c, s, b):
 def fit_mandelbrot(ranked):
     best = None
     best_error = None
+    n = len(ranked)
+    log_frequencies = [math.log(freq) for _, freq in ranked]
+    sum_y = sum(log_frequencies)
+    sum_yy = sum(y * y for y in log_frequencies)
     for b10 in range(0, 101, 5):
         b = b10 / 10.0
-        for s100 in range(50, 201, 5):
-            s = s100 / 100.0
-            sum_log = 0.0
-            for i in range(len(ranked)):
-                sum_log += math.log(ranked[i][1]) + s * math.log(i + 1 + b)
-            c = math.exp(sum_log / len(ranked))
-            error = zipf_error(ranked, c, s, b)
-            if best_error is None or error < best_error:
-                best_error = error
-                best = (c, s, b)
+        sum_x = 0.0
+        sum_xx = 0.0
+        sum_xy = 0.0
+        for i, y in enumerate(log_frequencies):
+            x = math.log(i + 1 + b)
+            sum_x += x
+            sum_xx += x * x
+            sum_xy += x * y
+        slope = (n * sum_xy - sum_x * sum_y) / (n * sum_xx - sum_x * sum_x)
+        intercept = (sum_y - slope * sum_x) / n
+        error = max(0.0, (sum_yy - intercept * sum_y - slope * sum_xy) / n)
+        if best_error is None or error < best_error:
+            best_error = error
+            best = (math.exp(intercept), -slope, b)
     return best[0], best[1], best[2], best_error
 
 

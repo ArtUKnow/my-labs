@@ -1,0 +1,13 @@
+Anion
+Anions are atoms or groups of atoms that have a negative electric charge. An anion has more electrons in its atomic orbitals than it has protons in its atomic nucleus. The opposite of an anion is a cation, which has a positive charge.
+The name "anion" comes from the words anode and ion. In an electrochemical cell, anions are attracted to the positively charged anode.
+Anions can be monatomic, made of only one atom, or polyatomic, made of multiple atoms. Anions can exist on their own only as gases: to make a solid, ionic liquid, or solution the total electrical charge must be zero, meaning a mix of anions and cations.
+Properties
+In many crystals the anions are bigger; the little cations fit into the spaces between them.
+All anions are Brønsted bases: they can make a chemical bond with a proton, , to form a conjugate acid.
+Examples
+Oxide is the most common anion on Earth. It is made from an oxygen atom with two extra electrons. The formula for oxide is written . The oxide ion reacts with water, so it cannot be dissolved to make a solution.
+Chloride is a monatomic anion made from an atom of chlorine with an extra electron. The chemical formula is written . Chloride is the most common anion in seawater.
+Sulfate is the second most common anion in seawater after chloride. It is made of a sulfur atom, four oxygen atoms, and two extra electrons. The formula for sulfate is written . Sulfate is a special type of anion called an oxyanion, which are made of a central element (like sulfur) surrounded by oxygen atoms.
+Hydroxide is a polyatomic anion made of one oxygen atom, one hydrogen atom, and one extra electron. It has the formula . Hydroxide is the conjugate base of water, so it is the strongest base that can be mixed with water. Other strong bases, including the oxide anion, react with water to make hydroxide.
+Sources

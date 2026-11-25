@@ -146,6 +146,22 @@ class TestRealCorpus(unittest.TestCase):
                 size = os.path.getsize(os.path.join(source_dir, name))
                 self.assertTrue(size > 20, name)
 
+    def test_corpus_has_30000_attributed_documents(self):
+        text_dir = extract_text.TEXT_DIR
+        provenance_dir = os.path.join(os.path.dirname(text_dir), "provenance")
+        total = 0
+        for source in ("ru_wikipedia", "simple_wikipedia"):
+            files = {name for name in os.listdir(os.path.join(text_dir, source)) if name.endswith(".txt")}
+            self.assertGreaterEqual(len(files), 15000)
+            manifest_path = os.path.join(provenance_dir, source + ".tsv")
+            with open(manifest_path, encoding="utf-8") as manifest:
+                rows = [line.rstrip("\n").split("\t") for line in manifest]
+            self.assertEqual(rows[0], ["file", "pageid", "title", "url", "text_sha256"])
+            self.assertEqual(len(rows) - 1, len([name for name in files if name.startswith("wiki_")]))
+            self.assertTrue(all(row[0] in files and row[3].startswith("https://") for row in rows[1:]))
+            total += len(files)
+        self.assertGreaterEqual(total, 30000)
+
 
 if __name__ == "__main__":
     unittest.main(verbosity=2)

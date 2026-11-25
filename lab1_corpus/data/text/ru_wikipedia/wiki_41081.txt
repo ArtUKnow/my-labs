@@ -1,0 +1,17 @@
+VESA BIOS Extensions
+VESA BIOS Extensions (VBE) — расширение BIOS в стандарте VESA, дополнительные функции видео-BIOS видеокарты по отношению к базовому видео-BIOS для VGA, позволяющие запрашивать у адаптера перечень поддерживаемых видеорежимов и их параметров (разрешение, цветность, способы адресации, развёртка и т. п.) и изменять эти параметры для согласования адаптера с конкретным монитором.
+По сути, VBE является стандартом программного сопряжения с VESA-совместимыми картами — при работе через видео-BIOS он позволяет обойтись без специализированного драйвера видеокарты.
+VBE использует ряд функций прерывания Int 10h (AH=4Fh; AX=4F00h, 4F01h, 4F02h, 4F03h, 4F04h, 4F05h, 4F06h, 4F07h, 4F08h, 4F09h, 4F0Ah, 4F10h, 4FFFh) .
+Стандарт VBE 1.2 вышел в 1991 году, 2.0 в 1994 году , 3.0 в 1998 году.
+Linux поддерживает использование VBE с помощью драйвера vesafb . FreeBSD поддерживает VBE через vga(4)
+См. также
+UniVBE
+Video BIOS
+Примечания
+Ссылки
+Стандарт VBE 3 (в формате PDF) ( )
+FAQ по SuperVGA/VESA
+Programming With VESA BIOS Extensions / DrDobbs, 1996
+Using the VESA BIOS 2.0 Linear Frame Buffer / DrDobbs, 1995
+VESA BIOS Extension / PCMag encyclopedia
+Introduction to VESA programming

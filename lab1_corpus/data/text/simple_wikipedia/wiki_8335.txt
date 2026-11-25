@@ -1,0 +1,28 @@
+Equation
+A mathematical equation is a mathematical object containing two or more expressions connected by equals signs (=). The equals sign says that all of the expressions describe the same mathematical object.
+An equation should not be confused with an expression. An expression is one piece of an equation, and does not have the equals sign. Equations are the most common type of formula.
+There are two kinds of mathematical equations:
+The kind of equation that is either true or false; these are also called identities. For example:
+2\cdot(x+4)=2x+8\rightarrow\text{true}
+The kind of equation that is only true for certain values of the variable(s). The equation is only true if the variable(s) have that value. For example:
+2\cdot x=8\rightarrow x=4
+The second kind is often used to solve problems in which finding the value of some variables is involved. For example, if
+2x=8 , x=\frac82=4
+Types of equations
+Equations can be classified by the types of operations and quantities involved. For example:
+An algebraic equation is an equation in which both sides are polynomials. These are further classified by degree:
+Linear equation for degree one
+Quadratic equation for degree two
+Cubic equation for degree three
+Quartic equation for degree four
+Quintic equation for degree five
+A Diophantine equation is an equation where the unknowns are required to be integers
+A differential equation is a functional equation involving derivatives of the unknown functions, which include:
+Ordinary differential equation
+Partial differential equation
+Related pages
+Equation solving
+Formula
+Rate equation
+System of linear equations
+References

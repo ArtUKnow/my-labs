@@ -1,0 +1,18 @@
+Triangle
+A triangle is a shape, or a part of two dimensional space. It has three straight sides and three vertices. The three angles of a triangle always add up to 180° (180 degrees). This can be proved when you put 3 of the same triangle together to make a trapezoid. It is the polygon with the least possible number of sides. A triangle with vertices A, B, C is written as \triangle ABC . The study of geometry related to triangles is called trigonometry. Modern computers usually use triangles to make more complex drawings.
+Types of triangles
+Triangles can be grouped according to how many of their sides are equal:
+if all the three sides of a triangle have the same length, then it is an equilateral triangle.
+if a triangle has two sides with the same length, then it is an isosceles triangle.
+if all the three sides of a triangle have different lengths, then we have a scalene triangle.
+Triangles can also be grouped by their angles:
+To prove this, each of the 3 quadrilateral pieces can be divided further into triangles.
+After this, the 6 triangles can be measured to find that all 3 of the original pieces have the same area.
+Center
+Different people have different ways of finding the center of the triangle. Some people say the center of the biggest circle that fits inside the triangle is the center of the triangle, which is the same point as the intersection of the angle bisectors. This is called the incenter. Some people say that when you draw lines from the corners to the middles of the opposite sides, that's the center. This is called the centroid. Some people say that the center is the intersection of the altitudes of each side that touch the corners. This is called the orthocenter.
+Related pages
+Law of sines
+Pythagorean theorem
+Sierpinski Triangle
+Reuleaux triangle
+References

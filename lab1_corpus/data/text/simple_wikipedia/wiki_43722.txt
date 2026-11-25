@@ -1,0 +1,31 @@
+Fedora (operating system)
+Fedora Linux is a distribution (or distro) of Linux. It is developed by the community-supported Fedora Project and sponsored by Red Hat. Fedora's mission statement is: "Fedora is about the rapid progress of Free and Open Source software."
+Linus Torvalds, author of the Linux kernel, says he uses Fedora because it had fairly good support for PowerPC when he used that processor architecture. He became used to the operating system and continues to use it.
+Releases
+Fedora Core 1 - 4
+Fedora Core 1, codenamed Yarrow, was the first version of Fedora. It was released on November 6, 2003. Fedora Core 1 was based on Red Hat Linux 9 and shipped with version 2.4.19 of the Linux kernel, version 2.4 of the GNOME desktop environment, and version 3.1.4 of KDE (the K Desktop Environment).
+Fedora Core 2, codenamed Tettnang, was released on May 18, 2004. It shipped with Linux 2.6, GNOME 2.6, KDE 3.2.2, and SELinux XFree86 was replaced by the newer X.org, a merger of the previous official X11R6 release, which additionally included a number of updates to Xrender, Xft, Xcursor, fontconfig libraries, and other significant improvements.
+Fedora Core 3, codenamed Heidelberg, was released on November 8, 2004. This was the first release of Fedora Core to include the Mozilla Firefox web browser, as well as support for the Indic languages. It shipped with Linux 2.6.11, This version introduced the new Clearlooks theme, which was inspired by the Red Hat Bluecurve theme. It was the first Fedora release to include Mono and tools built with it such as Beagle, F-Spot and Tomboy.
+Fedora Core 6, codenamed Zod, was released on October 24, 2006. This release introduced the Fedora DNA artwork, replacing the Fedora Bubbles artwork used in Fedora Core 5. The codename is derived from the infamous villain, General Zod, from the Superman DC Comic Books. This version introduced support for the Compiz compositing window manager and AIGLX (a technology that enables GL-accelerated effects on a standard desktop).
+Fedora 10
+Fedora 10, codenamed Cambridge, was released on November 25, 2008.
+Version history
+Fedora gallery
+File:Fedora_Core_1.png|Fedora Core 1
+File:Fedora_Core_2.png|Fedora Core 2
+File:Fedora_Core_3.png|Fedora Core 3
+File:Fedora_Core_4.png|Fedora Core 4
+File:Fedora_Core_5.png|Fedora Core 5
+File:Fedora Core 6 Desktop.png|Fedora Core 6
+File:Fedora_7_Desktop.png|Fedora 7
+File:Fedora 8 GNOME.png|Fedora 8
+File:Fedora.png|Fedora 9
+File:Fedora 10 GNOME.png|Fedora 10
+File:Fedora 11 GNOME.png|Fedora 11
+File:Fedora_12_Constantine_GNOME.png|Fedora 12
+File:Fedora 14 GNOME.png|Fedora 14
+Related pages
+List of Linux distributions
+References
+Other websites
+Fedora Project homepage

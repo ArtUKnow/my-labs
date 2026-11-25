@@ -1,0 +1,6 @@
+Checksum
+utility)]]
+A checksum is a short value that helps show whether digital data has been changed, damaged, or copied incorrectly. It is often used when files are sent, downloaded, or stored.
+A checksum is like a quick "data check." A computer creates a short code from a file, message, or group of numbers. If the original data changes even by one character, the checksum will usually change too.
+For example, a website may provide a checksum for a downloadable file. After downloading the file, you can create a new checksum from your copy. If both checksums match, the file is probably complete and unchanged.
+References

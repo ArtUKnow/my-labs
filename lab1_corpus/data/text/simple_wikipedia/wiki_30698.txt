@@ -1,0 +1,99 @@
+Tagalog language
+Tagalog is one of the main or major local and regional languages in the Philippines, and it is "in practice" but not "according to the law", the basis, foundation or core of the current national language and one of the two official languages of the Philippines, which is named, declared, and called the Filipino language. More than 22 million people speak Tagalog as their first language.
+Tagalog was originally spoken by the Tagalog people in the Philippines, who were mainly in most of the central and southern parts of Luzon, the northern island chain of the Philippines.
+Today, Tagalog is spoken nationwide and used by other Filipinos as a second language and by most Filipinos from different parts of the Philippines to understand one another.
+Phonetics and characters
+It once used the Indic-origin abugida called Baybayin and the Arabic script, but today it uses almost exclusively the Latin alphabet, also called Roman letters. There are five vowels: a, e, i, o, and u. There are 16 consonants: p, t, k, ' (the glottal stop), b, d, g, m, n, ng, s, h, l, r, w, and y. However, the letters c, f, j, q, v, x, and z are also used in proper names of Spanish or English origin.
+The Latin alphabet used for Tagalog is called the Abakada, and it was established in 1987. The name Abakada comes from the fact that its first four letters are ABKD, pronounced a-ba-ka-da, instead of ABCD, pronounced ay-bee-see-dee in English. Spelling is generally close to pronunciation, but note that ng represents a single consonant. The marker ng is an exception: it is pronounced or . The plural marker mga is pronounced or . Proper names of Spanish or English origin may also be pronounced differently from the way they would be pronounced according to native Tagalog spelling rules.
+Tagalog has different word accents, but these are usually not written except in dictionaries and similar sources. For example, aso means “dog” when the accent is placed on the first syllable, but “smoke” when the accent is placed on the final syllable. Spanish-derived proper names are also often written without the accent marks used in their original Spanish spelling. For example, San Jose comes from San José, and Corazon Aquino comes from Corazón Aquino.
+Tagalog has one consonant that is not represented by an alphabet letter. The glottal stop can occur at the beginning, middle, or end of a word.
+A glottal stop before a vowel at the beginning of a word, or between two vowels in the middle of a word, is not written. A glottal stop between a consonant and a vowel in the middle of a word is written with a hyphen (－). A glottal stop after a vowel at the end of a word is shown by placing a grave accent (｀) over the vowel. If that vowel already has an acute accent, the combination is written as a circumflex accent (^).
+Vowels
+A
+E
+I
+O
+U
+Double vowels
+Double vowels in loanwords from Spanish have the following characteristics.
+If the weak vowel + strong vowel is stressed in the syllable, insert the semi-vowel characters "w" and "y". If there is no stress, change the weak vowel characters "i" and "u" to "y" and "w". The pronunciation also follows the Tagalog spelling. Therefore, if there is stress, there will be one more syllable than the original word.
+is written as "-i" in Spanish and "-y" at the end of the word, but in Tagalog, it may also be spelled "-y" in words.
+Consonants
+Letters shown at the second indentation level are used only in loanwords.
+B
+C (+i, e ; +a, o, u )
+D
+F (sometimes replaced with )
+G : "ge" , "gi" . In proper names of Spanish origin, however, "ge" is and "gi" is ; "gue" is and "gui" is .
+H : ha, hi, hu, he, ho
+J in words of Spanish origin; in words of English origin
+K : ka, ki, ku, ke, ko
+L : la, li, lu, le, lo
+M : ma, mi, mu, me, mo
+N : na, ni, nu, ne, no, and syllable-final
+P : pa, pi, pu, pe, po
+Q: "que" , "qui" in words of Spanish origin; "qu-" in words of English origin
+R , realized as either an alveolar trill or an alveolar tap. Spanish pronunciation patterns are generally retained in borrowings from Spanish.
+S
+T ; "ts"
+v : ba, bi, bu, be, bo. In words of English origin, it may also be pronounced .
+W
+X in sa, si, su, se, so; ; or in ha, hi, hu, he, ho
+Y
+Z
+Adaptation of Spanish orthography
+ca, co, cu → ka, ko, ku
+j → h
+que, qui → ke, ki
+v → b
+z → s
+ñ → ny
+ll → ly
+ch → ts
+Grammar
+Where basic English sentences are generally analyzed as consisting of a subject and a predicate, Tagalog sentences consist of a topic and a predication. The topic is the entity under discussion for the speaker and listener, and may be a noun, noun phrase, or adjective. The predication provides information about the topic and may be a verb, adjective, prepositional phrase, or similar constituent. Tagalog basic sentences are divided into three types:
+Maraming salamat po. — Thank you very much.
+Walang anuman. — You're welcome.
+Wala anuman po. — You're welcome. (polite)
+Pasensya ka na. — I'm sorry.
+Pasensya na po kayo. — I'm very sorry. (polite)
+Sino po sila? — Who may I ask is speaking?
+Tao po. — Excuse me. (used when calling at someone's door)
+Nandito na ako. — I'm home. / I'm back.
+Ako si Taro. — I am Taro.
+Ano ang pangalan mo? — What is your name?
+Ang pangalan ko ay Taro. — My name is Taro.
+Taga-saan ka? — Where are you from?
+Taga-Manila ako. — I am from Manila.
+Numerals: the forms in parentheses are Spanish borrowings, used, among other contexts, when telling the time.
+isa (uno/una) — 1 (1:00 is ala una)
+dalawa (dos) — 2 (2:00 is alas dos)
+tatlo (tres) — 3 (3:00 is alas tres)
+apat (kuwatro) — 4 (4:00 is alas kuwatro)
+lima (singko) — 5 (5:00 is alas singko)
+anim (seis) — 6 (6:00 is alas seis)
+pito (siyete) — 7 (7:00 is alas siyete)
+walo (otso) — 8 (8:00 is alas otso)
+siyam (nuwebe) — 9 (9:00 is alas nuwebe)
+sampu (diyes) — 10 (10:00 is alas diyes)
+labing-isa (onse) — 11 (11:00 is alas onse)
+labindalawa (dose) — 12 (12:00 is alas dose)
+Examples of time expressions:
+5:00 a.m.: alas singko ng umaga
+8:30 a.m.: alas otso y medya ng umaga (y medya means “half past”)
+Noon: alas dose ng tanghali or alas dose en punto
+3:00 p.m.: alas tres ng hapon
+6:45 p.m.: alas seis kuwarenta y singko ng gabi (kuwarenta y singko means “forty-five”)
+Midnight: alas dose ng hatinggabi
+3:00 a.m.: alas tres ng madaling-araw (madaling-araw means “early morning”)
+Other
+As mentioned above, Tagalog has many loanwords from Spanish and English. However, their meanings may differ slightly from the original words.
+For example, the words below have the following meanings in Tagalog. The original Spanish spelling and meaning are shown in parentheses.
+siyempre (siempre): “of course!” (“always” or “forever”)
+mismo (mismo): “〜itself” (“same” or “exactly”)
+Tagalog also contains words from other languages, including Arabic, Sanskrit, Chinese—especially Southern Min—Malay, and Japanese.
+Tagalog loanwords and expressions can also appear in names, brands, and products outside the Philippines, although this is relatively uncommon.
+Related pages
+Tagalog Wikipedia
+References
+Other websites

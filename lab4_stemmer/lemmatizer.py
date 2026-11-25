@@ -145,7 +145,7 @@ class Lemmatizer:
         return best
 
 
-def load_vocabulary(tokens_dir):
+def load_vocabulary(tokens_dir, allowed_ids=None):
     vocabulary = {}
     if not os.path.isdir(tokens_dir):
         return vocabulary
@@ -154,6 +154,8 @@ def load_vocabulary(tokens_dir):
         if not os.path.isdir(source_dir):
             continue
         for name in os.listdir(source_dir):
+            if allowed_ids is not None and source + "/" + name[:-4] not in allowed_ids:
+                continue
             for line in open(os.path.join(source_dir, name), encoding="utf-8"):
                 token = line.strip().replace("ё", "е")
                 if token != "":

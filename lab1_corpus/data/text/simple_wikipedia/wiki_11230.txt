@@ -1,0 +1,15 @@
+Polygon
+A polygon is a closed two-dimensional shape. It is a plane figure that is made up of a number of sides. These are also called edges or line segments. Each side is connected to another one by a corner, or vertex. Each pair of connected sides makes an angle.
+These sides and angles can be different from one another, or they can all be the same. Polygons made of only sides of the same length (equilateral) and angles the same width (equiangular) are called regular polygons.
+A square is a polygon because it has four sides. The smallest polygon in Euclidean geometry or "flat geometry" is the triangle, which has three sides and three corners. On a sphere, there can also be a digon and a henagon.
+If the edge lines of the polygon do not cross each other, the polygon is called simple; otherwise it is complex.
+In computer graphics, polygons (especially triangles) are often used to make graphics.
+Gallery
+Complex polygon.svg|A complex pentagon
+Simple polygon.png|A simple concave hexagon
+Heptagon2 (PSF).svg|An irregular heptagon
+Irregular octagon.svg|A irregular octagon
+Decagon (PSF).png|A irregular decagon
+Regular polygon 99.svg|An enneacontakaienneagon (a polygon with 99 sides)
+List of polygons
+References

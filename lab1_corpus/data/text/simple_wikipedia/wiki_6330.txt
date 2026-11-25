@@ -1,0 +1,5 @@
+Tux
+Tux is a mascot of the Open Source Linux operating system; a cartoon penguin made by Larry Ewing in 1996. Wherever he is seen, it means such a system can work with Linux. He is also a character in some video games made for Linux, like Super Tux,Tux Racer and Super Tux Kart
+The name "Tux" comes from James Hughes, who named the Linux mascot that as an shortened form of "Torvalds' UniX," as Linus Torvalds was the person who made the Linux kernel. Tux is also an abbreviation of tuxedo.
+The original Tux live in the zoo and he still alive.Tux in Linux operating system 2.6.29 replaced by Tuz.Tuz
+References

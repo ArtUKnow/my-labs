@@ -1,0 +1,17 @@
+Wade–Giles
+Wade–Giles (), sometimes abbreviated Wade, is a romanization system for Chinese that is based on the form of Mandarin used in Beijing. The system was produced by Thomas Wade in the mid-19th century and was fully developed in Herbert Giles's 1892 Chinese-English dictionary.
+Wade-Giles was the main transliteration system in the English-speaking world for much of the 20th century. It is used in several standard reference books and in all books about China that were published before 1979. It replaced the Nanjing-based romanization systems that was common until the late 19th century. Wade-Giles has been replaced by pinyin but remains commonly used in Taiwan, also known as the Republic of China.
+One well-known feature of Wade-Giles is that it uses the apostrophe to mark aspirated consonants, or breathy consonants, as in Ancient Greek. For example, ping in pinyin would be written as p'ing in Wade-Giles, but bing in pinyin would be written as ping. Sounds are written that way because Chinese, unlike English, has no voiced stop consonants, fricatives, or affricates. Chinese distinguishes only aspirated and unaspirated sounds. Therefore, an apostrophe, instead of a different letter, is used.
+However, the apostrophe was not understood well by people who do not know the Wade-Giles spelling and so many people would ignore the apostrophe when reading or copying Chinese words, which led many non-Chinese people to say Chinese words incorrectly, including Tao, tai chi, and kung fu. Wade-Giles spellings that ignore the apostrophe completely are called bastardized Wade-Giles.
+Comparison chart
+Sample sentences of Wade-Giles
+Here are sample sentences written in Chinese characters, pinyin, and Wade-Giles with English translations:
+References
+Other websites
+Chinese Romanization Converter - Convert between Hanyu Pinyin, Wade-Giles, Gwoyeu Romatzyh and other known or (un-)common Romanization systems.
+Wade-Giles → Zhuyin → Pinyin conversion table
+Pinyin → Wade-Giles → Zhuyin conversion table
+Wade-Giles → Zhuyin → Pinyin → Word list
+A conversion table of Chinese provinces and cities from Wade-Giles to Pinyin
+Pinyin4j: Java library supporting Chinese to Wade-Giles
+Pronunciation Guide

@@ -1,0 +1,233 @@
+Математическая константа
+Математическая константа или математическая постоянная — величина, значение которой не меняется; в этом она противоположна переменной. В отличие от физических постоянных, математические постоянные определены независимо от каких бы то ни было физических измерений.
+Некоторые избранные постоянные
+Использованные сокращения: И — иррациональное число, А — алгебраическое число, Т — трансцендентное число, ? — неизвестно; мат — обычная математика, ТЧ — теория чисел, ТХ — теория хаоса, комб — комбинаторика, АИТ — алгоритмическая теория информации.
+-
+align="center" | \tau
+тау (2π)
+align="center" | мат
+align="center" | Т, И
+align="center" |
+2001
+align="right" |
+-
+align="center" | e
+константа Непера, число Эйлера, основание натурального логарифма
+align="center" | мат
+align="center" | Т, И
+align="center" | 1618
+align="right" |
+-
+align="center" | \sqrt{2}
+константа Пифагора, квадратный корень из 2
+align="center" | мат
+align="center" | А, И
+align="center" | до 1800 до н. э.
+align="right" |
+-
+align="center" | \sqrt{3}
+константа Феодора, квадратный корень из 3
+align="center" | мат
+align="center" | А, И
+align="center" | до 800 до н. э.
+align="right" |
+-
+align="center" | γ
+постоянная Эйлера — Маскерони
+align="center" | мат, ТЧ
+align="center" | ?
+align="center" | 1735
+align="right" |
+-
+align="center" | φ
+золотое сечение
+align="center" | мат
+align="center" | А, И
+align="center" | ок. 300 до н. э.
+align="right" |
+-
+align="center" | β *
+константа Эмбри — Трефетена
+align="center" | ТЧ
+align="center" |
+?
+align="center" |
+align="right" |
+-
+align="center" | δ
+постоянная Фейгенбаума
+align="center" | ТХ
+align="center" |
+align="center" | 1975
+align="right" |
+-
+align="center" | α
+константа Фейгенбаума
+align="center" | ТХ
+align="center" |
+align="center" | 1975
+align="right" |
+-
+align="center" | C 2
+Константа Каэна
+align="center" | ТЧ
+align="center" | Т
+align="center" |
+align="right" |
+-
+align="center" | C 2
+константа простых близнецов
+align="center" | ТЧ
+align="center" |
+align="center" |
+align="right" |
+-
+align="center" | M 1
+константа Майсселя — Мертенса
+align="center" | ТЧ
+align="center" |
+align="center" | 1866; 1874
+align="right" | 8010
+-
+align="center" | B 2
+константа Бруна для простых близнецов
+align="center" | ТЧ
+align="center" |
+align="center" | 1919
+align="right" | 10
+-
+align="center" | B 4
+константа Бруна для простых четвёрок
+align="center" | ТЧ
+align="center" |
+align="center" |
+align="right" |
+-
+align="center" |
+предел Лапласа
+align="center" | мат
+align="center" |
+align="center" |
+align="right" |
+-
+align="center" | G
+постоянная Каталана
+align="center" | комб
+align="center" |
+align="center" |
+align="right" |
+-
+align="center" | Λ
+0.22 ≥ Λ ≥ 0
+константа де Брёйна — Ньюмана
+align="center" | ТЧ
+align="center" |
+align="center" | 1950, 1976
+align="right" | 0
+-
+align="center" | K
+константа Ландау — Рамануджана
+align="center" | ТЧ
+align="center" | И (?)
+align="center" |
+align="right" |
+-
+align="center" | K
+константа Висваната
+align="center" | ТЧ
+align="center" |
+align="center" |
+align="right" | 16
+-
+align="center" | K 0
+постоянная Хинчина
+align="center" | ТЧ
+align="center" |
+align="center" | 1934
+align="right" |
+-
+align="center" | J
+константа Поля — Гаусса
+align="center" | ТЧ
+align="center" |
+align="center" |
+align="right" | 10343
+-
+align="center" | B´ L
+)
+константа Лежандра
+align="center" | ТЧ
+align="center" | Ц
+align="center" | 1808
+align="right" | точное значение
+-
+align="center" | λ
+Постоянная Голомба — Дикмана
+align="center" | ТЧ
+align="center" |
+align="center" |
+align="right" |
+-
+align="center" | μ
+константа Рамануджана — Солднера
+align="center" | ТЧ
+align="center" |
+align="center" |
+align="right" |
+-
+align="center" | E' B
+константа Эрдёша — Борвейна
+align="center" | ТЧ
+align="center" | И
+align="center" |
+align="right" |
+-
+align="center" | Ω
+константа Хайтина
+align="center" | АИТ
+align="center" | Т
+align="center" |
+align="right" |
+-
+align="center" | ζ(3)
+постоянная Апери
+align="center" | ТЧ
+align="center" | И
+align="center" | 1735
+align="right" |
+-
+align="center" | ɯ
+число Дотти
+align="center" | ТХ
+align="center" |
+align="center" |
+align="right" |
+-
+align="center" | A
+постоянная Глейшера — Кинкелина
+align="center" | ТЧ
+align="center" |
+align="center" | 1860
+align="right" |
+-
+align="center" | θ, A
+Константа Миллса
+align="center" | ТЧ
+align="center" |
+align="center" | 1947
+align="right" | 6850
+-
+align="center" | ρ
+Пластическое число
+align="center" | ТЧ
+align="center" | А, И
+align="center" | 1928
+align="right" |
+См. также
+Постоянная
+Число
+Примечания
+Литература
+Steven R. Finch, Mathematical Constants. Cambridge, 2003 (ISBN 0-521-81805-2)
+Ссылки
+Mathematical Constants — страница Стивена Финча

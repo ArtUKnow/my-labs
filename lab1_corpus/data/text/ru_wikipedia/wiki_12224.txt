@@ -1,0 +1,124 @@
+LDAP
+LDAP ( — «легковесный протокол доступа к каталогам») — протокол прикладного уровня для доступа к службе каталогов X.500, разработанный IETF как облегчённый вариант разработанного ITU-T протокола DAP. LDAP — относительно простой протокол, использующий TCP/IP и позволяющий производить операции аутентификации (bind), поиска (search) и сравнения (compare), а также операции добавления, изменения или удаления записей. Обычно LDAP-сервер принимает входящие соединения на порт 389 по протоколам TCP или UDP. Для LDAP-сеансов, инкапсулированных в SSL, обычно используется порт 636.
+Описание
+Всякая запись в каталоге LDAP состоит из одного или нескольких атрибутов и обладает уникальным именем (DN — ). Уникальное имя может выглядеть, например, следующим образом: «cn=Иван Петров,ou=Сотрудники,dc=example,dc=com» .
+Уникальное имя состоит из одного или нескольких относительных уникальных имён (RDN — ), разделённых запятой. Относительное уникальное имя имеет вид ИмяАтрибута=значение . На одном уровне каталога не может существовать двух записей с одинаковыми относительными уникальными именами. В силу такой структуры уникального имени записи в каталоге LDAP можно легко представить в виде дерева.
+Запись может состоять только из тех атрибутов, которые определены в описании класса записи (object class), которые, в свою очередь, объединены в схемы (schema). В схеме определено, какие атрибуты являются для данного класса обязательными, а какие — необязательными. Также схема определяет тип и правила сравнения атрибутов. Каждый атрибут записи может хранить несколько значений.
+Стандарты
+Протокол LDAP определён в следующих RFC:
+RFC 4510 — Lightweight Directory Access Protocol (LDAP): Technical Specification Roadmap (заменяет RFC 3377)
+RFC 4511 — Lightweight Directory Access Protocol (LDAP): The Protocol
+RFC 4512 — Lightweight Directory Access Protocol (LDAP): Directory Information Models
+RFC 4513 — Lightweight Directory Access Protocol (LDAP): Authentication Methods and Security Mechanisms
+RFC 4514 — Lightweight Directory Access Protocol (LDAP): String Representation of Distinguished Names
+RFC 4515 — Lightweight Directory Access Protocol (LDAP): String Representation of Search Filters
+RFC 4516 — Lightweight Directory Access Protocol (LDAP): Uniform Resource Locator
+RFC 4517 — Lightweight Directory Access Protocol (LDAP): Syntaxes and Matching Rules
+RFC 4518 — Lightweight Directory Access Protocol (LDAP): Internationalized String Preparation
+RFC 4519 — Lightweight Directory Access Protocol (LDAP): Schema for User Applications
+RFC 4520 (aka BCP 64) — Internet Assigned Numbers Authority (IANA) Considerations for the Lightweight Directory Access Protocol (LDAP) (заменяет RFC 3383)
+RFC 4521 (aka BCP 118) — Considerations for Lightweight Directory Access Protocol (LDAP): Extension
+Кроме протокола, есть верхнеуровневые международные стандарты, описывающие все, что связано с моделью интеграции систем и каталогом (Directory), доступ к которому реализуется с помощью LDAP и DAP:
+Recommendation ITU-T X.200 (1994) | ISO/IEC 7498-1:1994, Information technology — Open Systems Interconnection — Basic Reference Model: The basic model.
+Recommendation ITU-T X.500 (2019) | ISO/IEC 9594-1:2020, Information technology — Open Systems Interconnection — The Directory: Overview of concepts, models and services.
+Recommendation ITU-T X.501 (2019) | ISO/IEC 9594-2:2020, Information technology — Open Systems Interconnection — The Directory: Models.
+Recommendation ITU-T X.509 (2019) | ISO/IEC 9594-8:2020, Information technology — Open Systems Interconnection — The Directory: Public-key and attribute certificate frameworks.
+Recommendation ITU-T X.511 (2019) | ISO/IEC 9594-3:2020, Information technology — Open Systems Interconnection — The Directory: Abstract service definition.
+Recommendation ITU-T X.518 (2019) | ISO/IEC 9594-4:2020, Information technology — Open Systems Interconnection — The Directory: Procedures for distributed operation.
+Recommendation ITU-T X.519 (2019) | ISO/IEC 9594-5:2020, Information technology — Open Systems Interconnection — The Directory: Protocol specifications.
+Recommendation ITU-T X.520 (2019) | ISO/IEC 9594-6:2020, Information technology — Open Systems Interconnection — The Directory: Selected attribute types.
+Recommendation ITU-T X.521 (2019) | ISO/IEC 9594-7:2020, Information technology — Open Systems Interconnection — The Directory: Selected object classes.
+Recommendation ITU-T X.525 (2019) | ISO/IEC 9594-9:2020, Information technology — Open Systems Interconnection — The Directory: Replication.
+Функциональное описание протокола
+В протоколе LDAP определены следующие операции для работы с Каталогом:
+Операции подключения/отключения
+Подключение (bind) — позволяет ассоциировать клиента с определённым объектом Каталога (фактическим или виртуальным) для осуществления контроля доступа для всех прочих операций чтения/записи. Для того, чтобы работать с Каталогом, клиент обязан пройти аутентификацию как объект, отличительное имя (Distinguished Name) которого находится в пространстве имён, описываемом Каталогом. В запросе операции bind клиент может не указывать отличительное имя, в таком случае будет осуществлено подключение под специальным псевдонимом anonymous (обычно это что-то наподобие гостевой учётной записи с минимальными правами)
+Отключение (unbind) — позволяет клиенту в рамках сеанса соединения с LDAP-сервером переключиться на аутентификацию с новым отличительным именем. Команда unbind возможна только после аутентификации на сервере с использованием bind, в противном случае вызов unbind возвращает ошибку
+Поиск (search) — чтение данных из Каталога. Операция сложная, на вход принимает множество параметров, среди которых основными являются:
+База поиска (baseDN) — ветка DIT, от которой начинается поиск данных
+Глубина поиска (scope) — может иметь значения (в порядке увеличения охватываемой области): base, one, sub
+base — поиск непосредственно в узле — базе поиска
+one — поиск по всем узлам, являющимся прямыми потомками базового в иерархии, то есть лежащим на один уровень ниже него
+sub — поиск по всей области, нижележащей относительно базы поиска (baseDN)
+Фильтр поиска (searchFilter) — это выражение, определяющее критерии отбора объектов каталога, попадающих в область поиска, задаваемую параметром scope. Выражение фильтра поиска записывается в польской (префиксной) нотации, состоящей из логических (булевых) операторов и операндов, в свою очередь являющихся внутренними операторами сопоставления значений атрибутов LDAP (в левой части) с выражениями (в правой части) с использованием знака равенства.
+Логические операторы представлены стандартным «набором»: & (логическое «И»), | (логическое «ИЛИ») и ! (логическое «НЕ»).
+Пример фильтра поиска :
+(&(!(entryDN:dnSubtreeMatch:=dc=Piter,dc=Russia,ou=People,dc=example,dc=com))(objectClass=sambaSamAccount) (|(sn=Lazar*)(uid=Nakhims*)))
+Операции модификации — позволяют изменять данные в Каталоге, при этом в понятие модификации входит как добавление, удаление и перемещение записей целиком, так и редактирование записей на уровне их атрибутов. Подтипы модификации:
+Добавление (add) — добавление новой записи
+Удаление (delete) — удаление записи
+Модификация RDN (modrdn) — перемещение/копирование записи
+Модификация записи (modify) — позволяет редактировать запись на уровне её атрибутов,
+добавляя новый атрибут или новое значение многозначного атрибута (add)
+удаляя атрибут со всеми его значениями (delete)
+заменяя одно значение атрибута на другое (replace)
+а также увеличивая (уменьшая) значение атрибута в рамках атомарной операции (increment)
+Операция сравнения (compare) — позволяет для определённого отличительного имени сравнить выбранный атрибут с заданным значением
+Операция запроса возможностей
+В стандарте LDAP определена специальная операция, позволяющая клиентам получать информацию о поддерживаемых сервером версиях протокола и возможностях LDAP-сервера. Эта команда является надстройкой (расширением) для операции search и выполняется при следующем сочетании параметров последней:
+BIND анонимный
+База поиска baseDN указана как "" (пустая строка)
+Глубина поиска scope указана как base
+Фильтр поиска: (objectClass=*)
+Перечень запрашиваемых атрибутов: либо явное перечисление, либо «+» (ВНИМАНИЕ! «*» не покажет значения служебных атрибутов, содержащих всю полезную информацию)
+Например, при использовании LDAP-клиента из поставки OpenLDAP команда запроса возможностей может выглядеть как:
+ldapsearch -x -H ldap://host:port -LLL -b "" -s base '(objectClass=*)' supportedControls supportedCapabilities
+Операция запроса схемы
+Для запроса информации о действующей схеме LDAP-каталога прежде необходимо выполнить Операцию запроса возможностей, получив значение атрибута subschemaSubentry.
+ldapsearch -x -H ldap://host:port -LLL -s base -b "" '(objectClass=*)' subschemaSubentry
+Полученное значение используется в качестве Отличительного имени базы поиска (baseDN) в Операции запроса схемы, которую можно описать так:
+BIND анонимный, либо полный. Большинство серверов каталогов поддерживают запрос схемы без предварительного BIND, но, есть исключения (например, Active Directory);
+База поиска baseDN равна значению атрибута subschemaSubentry, возвращаемого Операцией запроса возможностей;
+Глубина поиска scope указана как base;
+Фильтр поиска: (objectClass=*);
+Перечень запрашиваемых атрибутов: явное перечисление атрибутов (attributeTypes, objectClasses) возможно для всех серверов каталогов, в случае OpenLDAP и некоторых других (OpenDS,ApacheDS и т. д.) возможно указание «+»;
+Например, при использовании LDAP-клиента из поставки OpenLDAP Операция запроса схемы может выглядеть так:
+ldapsearch -x -H ldap://host:port -LLL -s base -b "cn=Subschema" '(objectClass=*)' ldapSyntaxes matchingRules
+Реализации
+Серверная часть
+LDAP является широко используемым стандартом доступа к службам каталогов. Из свободно распространяемых открытых реализаций наиболее известен сервер OpenLDAP, из проприетарных — поддержка протокола имеется в Active Directory — службе каталогов от компании Microsoft, предназначенной для централизации управления сетями Windows. Сервер IBM Lotus Domino в своём составе также имеет службу LDAP . Свои реализации служб каталогов, поддерживающие LDAP как протокол доступа, предлагают и другие крупные компании, например, Novell и Sun — и, впоследствии, OpenDJ.
+Перечень наиболее известных на сегодняшний день LDAP-серверов:
+OpenLDAP
+ForgeRock OpenDJ
+Novell eDirectory
+Apple Open Directory (форк проекта OpenLDAP)
+Microsoft Active Directory
+Samba4 LDAP (OpenSource-реализация MS AD)
+RedHat Directory Server
+389 Directory Server (по сути тестовая версия предыдущего)
+Oracle Directory Server
+Apache Directory Server
+IBM Tivoli Directory Server
+IBM Domino LDAP
+CommuniGate LDAP
+Клиентская часть
+В качестве клиентов LDAP выступают как адресные книги почтовых клиентов, так и back-end’ы различных сетевых служб (серверы DNS, SMTP, Samba, UTS и т. д.).
+См. также
+Служба каталогов
+LDIF
+Примечания
+Ссылки
+Ресурсы
+LDAP: архитектура, реализации и тенденции
+Understanding LDAP — Design and Implementation — redbook от IBM
+Серверы
+Домашняя страница проекта OpenLDAP
+Apple Open Directory — сервер каталогов и API-framework в Mac OS X Server
+OpenDS — открытый проект, создан на базе кода Sun Enterprise Java System Directory Server
+389 Directory Server — бывший Fedora Project Directory Server, проект с открытым исходным кодом, на основе которого создаётся коммерческий продукт — RedHat Directory Server
+The Apache Directory Project — сервер каталогов, создаваемый фондом Apache
+Windows Server 2003 Active Directory — официальный сайт Active Directory
+IBM Lotus Domino — Google поиск по LDAP в Lotus Domino
+Mandriva Directory Server
+Клиенты
+Apache Directory Studio — кроссплатформенная opensource (APL2) программа для администрирования LDAP каталога на базе Eclipse (Java);
+LdapAdmin — Открытая (GPL) программа под Windows, для управления LDAP данными;
+JXplorer — OpenSource утилита для администрирования каталога LDAP на языке Java;
+PHP LDAP admin — развитый клиент LDAP с веб-интерфейсом;
+ldapsearch — открытая консольная утилита для ОС Linux (Статья с описанием ldapsearch на сайте OpenNet.ru).
+Программные интерфейсы (API)
+Perl-LDAP — объектно-ориентированный модуль Perl для работы с LDAP
+python-ldap и ldaptor — модули для работы с LDAP для Python
+Java LDAP — Java-библиотека для работы с LDAP
+PHP LDAP — PHP функции для работы по протоколу LDAP
+Crystal LDAP — LDAP клиент для языка Crystal

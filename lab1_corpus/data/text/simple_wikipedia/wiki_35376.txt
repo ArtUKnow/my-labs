@@ -1,0 +1,8 @@
+Tony Hoare
+Sir Charles Antony "Tony" Richard Hoare (11 January 1934 – 5 March 2026), also known as C. A. R. Hoare, was an English computer scientist. He was probably best known for the development of Quicksort. Quicksort was the world's most widely used sorting algorithm. He also developed Hoare logic. Hoare received the Turing Award in 1980 "for his fundamental contributions to the definition and design of programming languages".
+Life
+Hoare was born in Colombo, in Sri Lanka. He got his Bachelor's degree in Classics from the University of Oxford in 1956. He stayed in Oxford for one more year to study graduate-level statistics.
+From 1956 to 1958, he served in the Royal Navy. He then studied computer translation of human languages at Moscow State University in the Soviet Union in the school of Andrey Nikolayevich Kolmogorov.
+In 1989 he was elected a member of the Academia Europaea.
+Hoare died on 5 March 2026 at the age of 92.
+References

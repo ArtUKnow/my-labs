@@ -1,0 +1,22 @@
+Sound
+Sound can also mean a body of water, like a bay or channel.
+Sound is caused by waves of pressure called sound waves. It can be heard when it goes through a medium to the ear. All sounds are made by vibrations of molecules. For example, when a person hits a drum or a cymbal the object vibrates. These vibrations make air molecules move. Sound waves move away from where they came from. When the vibrating air molecules reach our ears, the eardrum vibrates, too. The bones of the ear vibrate in the way the object that started the sound wave vibrates.
+There are three different mediums. They are solids, liquids and gas. Sound travels fastest through solids because the particles in a solid are closer together than they are in gases and liquids.
+These vibrations let you hear different things. Even music is vibrations. Irregular vibrations are noise. People can make very complex sounds. We use them for speech.
+Sound waves are longitudinal waves with two parts: compression and rarefaction. Compression is the part of the sound waves where the air molecules are pushed (compressed) together. Rarefaction is the part of the waves where the molecules are far away from each other. Sound waves are a sequence of compression and rarefaction.
+Vacuum
+Since sound is a vibration of a transmission medium, it cannot go through a vacuum. A vacuum is a place where there is no medium, for example in outer space. The word comes from the Latin adjective vacuus for "vacant" or "void". This is why astronauts cannot talk to each other in space: they need a radio to hear each other.
+Speed of sound
+Sound waves can travel through solids, liquids, and gases. Sound can travel through water faster than through air; and even faster in solids like stone, iron, and steel. At room temperature and normal atmospheric pressure, sound travels at 344 m/s (1134 ft/s), 761 miles per hour). Because the temperature and pressure change with altitude in the atmosphere, speed will vary as well.
+Pitch and Intensity
+Pitch is the highness or lowness of sound. Pitch is how humans hear different frequencies. Frequency is determined by the number of vibrations per second. The highest key played on a piano, for instance, vibrates 4,000 times per second. It has a frequency of 4000 hertz (Hz), or 4 kilohertz (kHz). Lower keys have lower frequencies. A note an octave higher than another note has a frequency twice of that note.
+Heard and not seen
+Audible sound has frequencies between 20 Hz to 20 kHz. Human beings can hear audible sound. Sound waves that have a frequency above 20 kHz are called ultrasound waves. Sound waves that have a frequency below 20 Hz are called infrasound waves. Human beings cannot hear ultrasound waves and infrasound waves, but some animals, like bats and dolphins, use them. Older people have an even smaller hearing range. People are best at hearing sounds between 1000 Hz and 6000 Hz.
+The Doppler Effect
+When a sound source is moving towards someone, the frequency seems to increase. The same thing happens when someone moves toward the sound source. Frequency seems to decrease when someone moves away from the sound source. It also decreases when the sound source moves away from someone. This is called the Doppler effect.
+References
+Halpern, Alvin, Erich Erlbach (1998). Beginning Physics II: Waves, Electromagnetism, Optics, and Modern Physics, pg. 50-56
+Other websites
+Conversion of sound units and levels
+Sound calculations
+Sound (acoustics) -Citizendium

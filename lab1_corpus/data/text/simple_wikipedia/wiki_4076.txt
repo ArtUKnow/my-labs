@@ -1,0 +1,16 @@
+Turing test
+The Turing test is a test to see if a computer can interact with a person. The human should not be able to realize it is interacting with a computer.
+Alan Turing thought that if a human could not tell the difference between another human and the computer, then the computer had shown intelligent behavior.
+History
+Background in thinking
+The question of whether computers can think has a long history, which is strongly built in the difference between dualism and materialism. René Descartes shows aspects of the Turing test before it existed in his 1637 Discourse on the Method when he writes:
+"[H]ow many different automata or moving machines could be made by the industry of man ... For we can easily understand a machine's being constituted so that it can utter words, and even emit some responses to action on it of a corporeal kind, which brings about a change in its organs; for instance, if touched in a particular part it may ask what we wish to say to it; if in another part it may exclaim that it is being hurt, and so on. But it never happens that it arranges its speech in various ways, in order to reply appropriately to everything that may be said in its presence, as even the lowest type of man can do.
+Test setup
+A person has a telegraph, and is connected to two communication partners. One of the two correspondents is a machine. The person can ask anything with the telegraph. If the person cannot tell which of the two is the machine more than 50% of the time, then the machine is said to be intelligent.
+Later on, people narrowed down the test. A human is unlikely to know everything. Therefore, both the human and the machine would be specialists in some field of knowledge (and so would the person asking).
+Media
+The comic strip Dilbert makes several mentions to the PHB (Pointy Haired Boss) failing the Turing test.
+Related pages
+AlphaGo
+References
+Other websites

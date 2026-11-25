@@ -1,0 +1,29 @@
+Roman numerals
+Roman numerals are a numeral system that was used by ancient Rome. Numbers in this system use letters from the Latin alphabet. Currently, it uses seven symbols:
+The Europeans still used Roman numerals even after the fall of the Roman Empire. From the 14th century, the Europeans replaced Roman numerals with Arabic numerals. However, people still use Roman numerals to this day.
+One place in which they are sometimes seen is on clock faces (the front of a clock). For example, on the clock of Big Ben, the hours from 1 to 12 are written as:
+The and can be read as "one less than 5" (4) and "one less than 10" (9). On many clocks that use Roman numerals, however, 4 is written as . There are also Roman numerals for fractions. They represent something over 12, for example, 8/12=S:
+Fractions
+The Romans also used fractions. The most common base for fractions was 1/12, which in Latin is called uncia (ounce).
+Large numbers
+A number of numeral systems are developed for large numbers that cannot be shown with , , , , , and .
+Apostrophus
+One of the systems is the apostrophus, in which D is written as IƆ (500) and M is written as CIƆ (1,000). In this system, an extra Ɔ means 500, and multiple extra Ɔs are used to mean 5,000, 50,000 etc.
+Vinculum
+Another system is the vinculum, in which V, X, L, C, D and M are multiplied by 1,000 by adding an overline.
+Usage
+In the Baltics and Russia, the days of the week are often written as Roman numerals, with I being Monday.
+When writing dates by hand, the month is sometimes written as a Roman numeral, especially for dates written in day-month-year sequence. For example: 26.XI.2014 or XI.26.2014 = 26 November 2014.
+Some video games use Roman numerals to indicate the game position in a series. The most famous examples are Final Fantasy games (Final Fantasy VII, Final Fantasy VIII, Final Fantasy X, etc...).
+When movies or books are published, the year of publication or year of copyright may be written as a Roman numeral.
+When people write about Monarchs or Popes, Patriarchs, or other leading figures, they are sometimes counted with Roman numbers, e.g. Queen Elizabeth II (of England), Pope John Paul II, Pope Benedict XVI, Patriarch Alexius II (of the Russian-Orthodox church)
+In France, the centuries are sometimes written with Roman numerals (example : "XXe siècle" meaning "20th century", XVIIIe siècle = "18th century", etc...).
+In Poland, roman numerals are used to show the month in dates and as a short method of writing ordinals (i.e. instead of 6th).
+Unicode has a code block called Number Forms, which also contains representations of Roman numerals, at the positions U+2160 to U+2188.
+Related pages
+Arabic numerals
+Greek numerals
+References
+Other websites
+Roman Numerals (Totally Epic Guide) - Know The Romans
+Roman Numeral Converter

@@ -1,0 +1,14 @@
+Advanced Photo System
+The Advanced Photo System (APS) was a type of camera film that companies started to sell in 1996. It was made to be easier to use than older film. It was also called it IX240 or by trademarked names like Advantix. From 2001 onward, it started to be used less and was no longer being improved by the companies that made it. In 2011, Kodak and Fuji announced they would produce no new APS film cartridges. They were the last two companies to produce this film.
+How it worked
+APS had a new way of changing film in cameras, easier to use than with the old roll film system, so the film could be "dropped in", like how batteries are changed. It allowed for people to change a film, even if the entire film had not been used yet.
+When the film was developed, it had an "index print" which showed small copies of every picture. This is similar to the contact sheets used with other film formats. "For each picture, the camera saved special information on the film. This information is called 'metadata'. It included the date, time, and camera settings. This helped the photo lab make better prints. After a picture was taken, the film strip that had the picture on it, called a "negative," would be stored in the original film container. This was different from other types of film, which would store the negatives in a separate area. From one negative, a person could choose three different picture shapes. The photo lab would cut, or crop, the final printed picture to get the shape the photographer wanted. There were three different kinds of images that the photographer could choose from, which were made by cropping the negative. The camera always started with the largest kind, but the finished picture could change depending on which aspect ratio the owner wanted:
+The final print is not as good
+One famous type of camera that used this system was the Canon IXUS, which then later changed and became a digital one. Many modern digital cameras use a sensor that is the same size as the APS-C frame.
+Technical details
+The film comes in a canister similar to the 135 film cartridge, but smaller. The film is threaded onto the takeup reel automatically by the camera. This reduces the chance of mistakes during film loading, including mistakes that could damage the shutter. In addition to recording the image, the camera also records metadata such as the date and time the photo was taken, the aperture and shutter speed, and the size of the photo. Metadata can be recorded optically next to the picture area, or on a magnetic stripe that is built-into the film.
+All APS film (even black and white film) was developed using the same chemical process (called the C-41 process). After the film was developed, it was put back inside its hard case. This protected the film from dirt and scratches.
+References
+Other websites
+photo.net - Reviews and comments on APS
+Photos of disabled APS cameras

@@ -1,0 +1,13 @@
+Dalton (unit)
+The dalton or unified atomic mass unit (symbol: Da, amu or u) is a unit of measurement for measuring the mass of atoms, equalling ¹⁄₁₂ of the mass of the carbon-12 isotope, the most abundant form of carbon atoms in nature.
+History
+The unit is named after English chemist and physicist John Dalton (1766 – 1844). 1 atomic mass unit is approximately 1.66 × 10 -27 kg, or 1.66 × 10 -24 g.
+Atomic physics
+In atomic physics, 1 amu can be expressed as roughly 931 MeV (M = 10 6 , 1 eV ≈ 1.60 × 10 -19 J) due to mass-energy equivalence, illustrated by ΔE = Δmc 2 .
+Related pages
+Nuclear physics
+Quantum physics
+Electromagnetism
+Radioactive decay
+Nuclear binding energy
+References

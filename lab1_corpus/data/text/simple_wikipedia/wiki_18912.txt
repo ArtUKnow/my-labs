@@ -1,0 +1,14 @@
+Madison, Wisconsin
+timezone = Central
+utc_offset = −6
+timezone_DST = CDT
+utc_offset_DST = −5
+coordinates
+elevation_footnotes
+unit_pref = Imperial
+population_est
+pop_est_as_of
+Madison is the capital city of Wisconsin, a state in the United States of America. As of the 2020 census, it had 269,840 people living in it, making it the second largest city in Wisconsin. It is the county seat of Dane County. Madison is also home to the University of Wisconsin.
+References
+Other websites
+Official city website

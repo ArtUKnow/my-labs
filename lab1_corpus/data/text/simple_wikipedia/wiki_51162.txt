@@ -1,0 +1,38 @@
+Integral
+In calculus, an integral is the space under a graph of an equation (sometimes said as "the area under a curve"). An integral is the reverse of a derivative, and integral calculus is the opposite of differential calculus. A derivative is the steepness (or "slope"), as the rate of change, of a curve. The word "integral" can also be used as an adjective meaning "related to integers".
+The symbol for integration, in calculus, is: \textstyle \int_{\,}^{\,} as a tall letter "S".
+Integrals and derivatives are part of a branch of mathematics called calculus. The link between these two is very important, and is called the fundamental theorem of calculus. The theorem says that an integral can be reversed by a derivative, similar to how an addition can be reversed by a subtraction.
+Integration helps when trying to multiply units into a problem. For example, if a problem with rate, \left(\tfrac{\text{distance}}{\text{time}}\right) , needs an answer with just distance, one solution is to integrate with respect to time. This means multiplying in time to cancel the time in \left(\tfrac{\text{distance}}{\text{time}}\right)\times\text{time} . This is done by adding small slices of the rate graph together. The slices are close to zero in width, but adding them together indefinitely makes them add up to a whole. This is called a Riemann sum.
+Adding these slices together gives the equation that the first equation is the derivative of. Integrals are like a way to add many tiny things together by hand. It is like summation, which is adding 1+2+3+4....+n . The difference with integration is that we also have to add all the decimals and fractions in between.
+Properties
+Sum of functions
+The integral of a sum of functions is the sum of each function's integral. that is,
+\int\limits_{a}^{b} [f(x) + g(x)]\, dx = \int\limits_{a}^{b} f(x)\, dx + \int\limits_{a}^{b} g(x)\, dx .
+The proof of this is straightforward: The definition of an integral is a limit of sums. Thus
+\int\limits_{a}^{b} [f(x) + g(x)]\, dx = \lim_{n \to \infty} \sum_{i=1}^n \left(f(x_i^*) + g(x_i^*)\right)
+\lim_{n \to \infty} \sum_{i=1}^n f(x_i^*) + \sum_{i=1}^n g(x_i^*)
+\lim_{n \to \infty} \sum_{i=1}^n f(x_i^*) + \lim_{n \to \infty} \sum_{i=1}^n g(x_i^*)
+\int\limits_{a}^{b} f(x)\, dx + \int\limits_{a}^{b} g(x)\, dx
+Note that both integrals have the same limits.
+Constants in integration
+When a constant is in an integral with a function, the constant can be taken out. Further, when a constant c is not accompanied by a function, its value is c * x. That is,
+\int\limits_{a}^{b} cf(x)\, dx = c \int\limits_{a}^{b} f(x)\, dx and
+This can only be done with a constant.
+\int\limits_{a}^{b} c\, dx = c(b-a)
+Proof is again by the definition of an integral.
+Other
+If a, b and c are in order (i.e. after each other on the x-axis), the integral of f(x) from point a to point b plus the integral of f(x) from point b to c equals the integral from point a to c. That is,
+\int\limits_{a}^{b} f(x)\, dx + \int\limits_{b}^{c} f(x)\, dx = \int\limits_{a}^{c} f(x)\, dx
+if they are in order. (This also holds when a, b, c are not in order if we define
+\textstyle \int\limits_{a}^{b} f(x) \,dx= -\int\limits_{b}^{a} f(x)\, dx .)
+\int\limits_{a}^{a} f(x)\, dx = 0
+This follows the fundamental theorem of calculus (FTC): F(a)-F(a) = 0 .
+\int\limits_{a}^{b} f(x)\, dx = -\int\limits_{b}^{a} f(x)\, dx
+Again, following the FTC: F(b)-F(a) = -[F(a)-F(b)] .
+Related pages
+Contour integral
+Multiple integral
+Numerical integration
+Riemann sum
+Surface integral
+References

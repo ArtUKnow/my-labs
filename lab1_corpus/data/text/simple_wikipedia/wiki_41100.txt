@@ -1,0 +1,22 @@
+Occam's razor
+Occam's razor (or Ockham's razor) is a principle from philosophy. Suppose an event has two possible explanations. Occam's razor says that the explanation with the fewest assumptions is usually correct. Another way of saying it is that, the more assumptions you have to make, the more unlikely an explanation is. Occam's razor applies especially in the philosophy of science, but also appears in everyday life.
+History
+William of Ockham, a Franciscan friar who studied logic in the 14th century, first made this principle well known. In Latin it is sometimes called lex parsimoniae, or "the law of briefness". William of Ockham supposedly (see below) wrote it in Latin:
+Entia non sunt multiplicanda praeter necessitatem. Not only is Ptolemy earlier than Occam, but Occam's supposed wording cannot be found in any of his existing works.
+"We are to admit no more causes of natural things other than such as are both true and sufficient to explain their appearances. Therefore, to the same natural effects we must, so far as possible, assign the same causes". Isaac Newton.
+"Whenever possible, substitute constructions out of known entities for inferences to unknown entities". Bertrand Russell.
+In science, Occam's razor is used as an heuristic (general guiding rule or an observation) to guide scientists.
+Examples
+Example: Two trees have fallen down during a windy night. Think about these two possible explanations:
+The wind has blown them down.
+Two meteorites have each taken one tree down and, after striking the trees, hit each other removing any trace of themselves.
+Even though both are possible, several other unlikely things would also need to happen for the meteorites to have knocked the trees down, for example: they would have to hit each other and not leave any marks. In addition, meteorites are fairly rare. Since this second explanation needs several assumptions to all be true, it is probably the wrong answer. Occam's razor tells us to favor the first explanation, because this is the simplest answer and therefore probably the right one.
+Example: A person is standing on the top of a roof and dropping a feather. In calculating how long it takes for the feather to reach the ground, to make the maths simpler, one might make an assumption: that the effect of air resistance can be ignored. This assumption makes the problem simpler, but is unlikely to lead to a good prediction as to the time it will take for the feather to fall. Thus, making the assumption that air resistance can be ignored is in this case not the "simplest" in concept, but the simplest in other respects (in this case, the maths). Not making the assumption here is the "simplest" in concept because it involves making fewer assumptions.
+Occam's razor also comes up in medicine. When there are many explanations for symptoms, the simplest diagnosis is the one to test first. If a child has a runny nose, it probably has the common cold rather than a rare birth defect. Medical students are often told, "When you hear hoof beats, think horses, not zebras".
+Related pages
+Common sense
+KISS (principle)
+Philosophy of science
+Rationalism
+Morgan's canon
+References

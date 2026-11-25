@@ -16,7 +16,7 @@ TOKENS_DIR = os.path.join(BASE_DIR, "..", "lab1_corpus", "data", "tokens")
 STOP_WORDS = ["в", "на", "и", "с", "по", "из", "к", "о", "об", "от", "для", "the", "a", "an", "in", "on", "of", "to", "and", "is", "are"]
 
 
-def load_documents(text_dir):
+def load_documents(text_dir, allowed_ids=None):
     documents = []
     for source in sorted(os.listdir(text_dir)):
         source_dir = os.path.join(text_dir, source)
@@ -24,8 +24,10 @@ def load_documents(text_dir):
             continue
         for name in sorted(os.listdir(source_dir)):
             if name.endswith(".txt"):
-                text = open(os.path.join(source_dir, name), encoding="utf-8").read()
                 doc_id = source + "/" + name[:-4]
+                if allowed_ids is not None and doc_id not in allowed_ids:
+                    continue
+                text = open(os.path.join(source_dir, name), encoding="utf-8").read()
                 documents.append((doc_id, text))
     return documents
 

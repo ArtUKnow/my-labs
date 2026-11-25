@@ -1,0 +1,94 @@
+Biology
+Hoverfly on a Compositae inflorescence]]
+Wheat]]
+Morchella esculenta]]
+Gamma bacteriophage]]
+Biology is the science that studies life, living things, and the evolution of life. Living things include animals, plants, fungi (such as mushrooms), and microorganisms such as bacteria and archaea.
+The term 'biology' is relatively modern. It was introduced in 1799 by a physician, Thomas Beddoes. It comes from the Greek word βίος (bios), "life", and the suffix -λογία (logia), "study of".
+People who study biology are called biologists. Biology looks at how animals and other living things behave and work, and what they are like. Biology also studies how organisms react with each other and the environment. It has existed as a science for about 200 years, and before that it was called "natural history". Biology has many research fields. Like all sciences, biology uses the scientific method. This means that biologists must be able to show evidence for their ideas and that other biologists must be able to test the ideas for themselves.
+Biology attempts to answer questions such as:
+"What are the characteristics of this living thing?" (comparative anatomy)
+"How do the parts work?" (physiology)
+"How should we group living things?" (classification, taxonomy)
+"What does this living thing do?" (behaviour, growth)
+"How does inheritance work?" (genetics)
+"What is the history of life?" (palaeontology)
+"How do living things relate to their environment?" (ecology)
+Modern biology is influenced by evolution, which answers the question: "How has the living world come to be as it is?"
+History
+The earliest roots of science, including medicine, go back to ancient Egypt and Mesopotamia around 3000 to 1200 BCE. Their ideas influenced ancient Greek natural philosophy. Greek thinkers like Aristotle (384–322 BCE) added a lot to early biology. He studied causes in nature and the variety of living things. His student, Theophrastus, began the scientific study of plants.
+In the medieval Islamic world, several scholars wrote about biology. Al-Jahiz (781–869) and Al-Dīnawarī (828–896) wrote about animals and plants. Rhazes (865–925) studied the body and how it works. Islamic scholars, working from Greek ideas, studied medicine deeply. They also followed Aristotle’s ideas about nature.
+Biology grew quickly when Anton van Leeuwenhoek greatly improved the microscope. Scientists then discovered sperm cells, bacteria, and many tiny living things. Jan Swammerdam’s work led to interest in insects and new methods of studying tiny organisms. Better microscopes strongly changed how people thought about life.
+In the early 1800s, scientists saw that cells were central to life. In 1838, Schleiden and Schwann said that (1) all living things are made of cells and (2) each cell shows the signs of life. They did not believe that (3) all cells come from other cells; they still thought cells could appear on their own. Later, Robert Remak and Rudolf Virchow proved that new cells come from existing cells. By the 1860s, most scientists accepted all three ideas, which became known as cell theory.
+At the same time, natural historians focused on naming and grouping living things. Carl Linnaeus published a basic system in 1735 and gave scientific names to species in the 1750s. Georges-Louis Leclerc, Comte de Buffon, believed species were not fixed and could change, and even suggested that different species might share ancestors.
+In 1842, Charles Darwin wrote the first draft of On the Origin of Species. Earlier, Jean-Baptiste Lamarck had offered one of the first full theories of evolution. Darwin built a stronger theory of evolution through natural selection. He used ideas from geography, geology, and population studies, along with his own observations. Alfred Russel Wallace reached similar conclusions on his own.
+Modern genetics started with Gregor Mendel’s work in 1865. He explained how traits are passed from parents to offspring. People did not fully understand his work until the early 1900s. Then, evolution and genetics were combined into the modern synthesis.
+In the 1940s and early 1950s, experiments by Alfred Hershey and Martha Chase showed that DNA is the part of chromosomes that carries genes. Scientists began to study small organisms like viruses and bacteria. In 1953, James Watson and Francis Crick discovered that DNA has a double-helix shape. After this, biology expanded into molecular genetics. Scientists cracked the genetic code, showing how DNA uses codons to build proteins. This work was done by Har Gobind Khorana, Robert W. Holley, and Marshall Warren Nirenberg. In 1990, the Human Genome Project began to map all human genes.
+Chemical basis
+Atoms and molecules
+All living things are made of chemical elements. Most of their mass (about 96%) comes from oxygen, carbon, hydrogen, and nitrogen. Other elements like calcium, phosphorus, sulfur, sodium, chlorine, and magnesium make up almost all the rest. These elements can join together to form compounds, such as water, which is essential for life.
+Ecosystems
+An ecosystem is made up of living things (like plants, animals, and microbes) and nonliving things (like water, air, sunlight, temperature, soil, and acidity) that exist together in one place. The living and nonliving parts are connected through the flow of energy and the recycling of nutrients. Energy from the sun enters the ecosystem when plants use photosynthesis to make food. Animals eat plants and other animals, which moves energy and matter through the system. Animals also affect how much plant and microbe life there is. When living things die, decomposers break down their remains. This process releases carbon back into the air and changes the nutrients in dead material into forms that plants and microbes can use again.
+Populations
+A population is a group of living things of the same species that live in one area and reproduce over many generations. You can estimate how big a population is by multiplying how many organisms are in a certain space (population density) by the size of the area or volume. An environment’s carrying capacity is the largest number of individuals of a species that the environment can support. This depends on things like food, water, space, and shelter. The carrying capacity can change if the environment changes—for example, if resources become harder to find or more expensive to use. For humans, new technologies—like those from the Green Revolution—have helped increase how many people Earth can support. This growth has proved wrong some older predictions that human populations would soon decline, such as those made by Thomas Malthus in the 1700s. ]]
+A community is a group of different populations of species that live in the same place at the same time. A biological interaction is how two organisms in a community affect one another. These organisms can be from the same species (intraspecific) or from different species (interspecific). Some interactions are short-term, like pollination or hunting. Others are long-term and can strongly affect how species evolve.
+A long-term relationship between species is called a symbiosis. Symbiosis can be:
+Mutualism – both species benefit
+Competition – both are harmed
+Every species in a community is either a consumer, a resource, or both. These roles form food chains and food webs.
+Food webs have different trophic levels (feeding levels):
+Primary producers (autotrophs) are at the lowest level. They include plants and algae that use energy and nonliving materials to make food.
+Heterotrophs are organisms that get energy by breaking down organic material from other organisms. There are different types:
+Primary consumers (herbivores) eat plants.
+Biosphere
+In the world ecosystem (the biosphere), matter is found in different parts that interact with each other. These parts can be living (biotic) or nonliving (abiotic), and they can be easy to use (accessible) or hard to use (inaccessible) depending on where they are and what form they take.
+For example:
+The matter in land plants (terrestrial autotrophs) is living and accessible to other organisms.
+The matter in rocks and minerals is nonliving and not accessible.
+A biogeochemical cycle is the path that a specific element of matter takes as it moves through the living parts of Earth (the biosphere) and the nonliving parts (the lithosphere, atmosphere, and hydrosphere).
+There are biogeochemical cycles for nitrogen, carbon, and water.
+Conservation
+Conservation biology is the study of protecting Earth’s biodiversity. Its goal is to save species, their habitats, and ecosystems from disappearing too quickly and to keep natural interactions between living things intact.
+It looks at what causes biodiversity to be lost, what helps it survive, and how it can be restored. It also studies how evolution continues to create diversity in genes, populations, species, and ecosystems. Scientists are concerned because estimates suggest that up to half of all species on Earth could disappear in the next 50 years. Losing biodiversity can lead to problems like poverty, hunger, and big changes in how life evolves on Earth. Biodiversity is important because it keeps ecosystems working. Ecosystems provide many services that humans rely on. Conservation biologists study how biodiversity loss and species extinction affect our ability to live well. Governments, organizations, and citizens are taking action through conservation plans. These plans include research, monitoring, and education programs, helping protect biodiversity from local to global levels.
+Branches
+Algalogy
+Anatomy
+Arachnology
+Bacteriology
+Biochemistry
+Biogeography
+Biophysics
+Botany
+Bryology
+Cell biology
+Cytology
+Dendrology
+Developmental biology
+Ecology
+Endocrinology
+Entomology
+Embryology
+Ethology
+Evolution / Evolutionary biology
+Genetics / Genomics
+Herpetology
+Histology
+Human biology / Anthropology / Primatology
+Ichthyology
+Limnology
+Mammalology
+Marine biology
+Microbiology / Bacteriology
+Molecular biology
+Morphology
+Mycology / Lichenology
+Ornithology
+Palaeontology
+Parasitology
+Phycology
+Phylogenetics
+Physiology
+Taxonomy
+Virology
+Zoology
+References

@@ -2,6 +2,7 @@ import os
 import sys
 import time
 import signal
+import ipaddress
 import urllib.request
 import urllib.parse
 import urllib.error
@@ -63,7 +64,13 @@ def encode_url(url):
 
 def fetch(url, timeout):
     request = urllib.request.Request(encode_url(url), headers=HEADERS)
-    with urllib.request.urlopen(request, timeout=timeout) as response:
+    host = urllib.parse.urlsplit(url).hostname or ""
+    try:
+        loopback = ipaddress.ip_address(host).is_loopback
+    except ValueError:
+        loopback = host == "localhost"
+    opener = urllib.request.build_opener(urllib.request.ProxyHandler({})) if loopback else urllib.request.build_opener()
+    with opener.open(request, timeout=timeout) as response:
         data = response.read()
     return data.decode("utf-8", "ignore")
 

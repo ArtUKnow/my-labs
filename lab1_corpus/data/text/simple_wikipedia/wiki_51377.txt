@@ -1,0 +1,27 @@
+Supply and demand
+at each price (demand, D). The diagram shows a positive shift in demand from D 1 to D 2 , resulting in an increase in price and quantity sold (Q) of the product.]]
+Supply and demand is an idea in microeconomics (the study of how people use money). It describes how a price is made in a market economy. There are two things that make the price go up or down. The first thing is the number of things that people can buy (supply). The second thing is the number of things that people want to buy (demand).
+In the study of money, people who make things are called producers. People who buy things are called consumers. Everyone buys things, so everyone is a consumer. However, sometimes people only want to study one thing. Then, the people who buy that thing are the only consumers of it.
+Supply and demand shows how producers and consumers can make prices change. This relationship will fix the price for a certain type of good. In perfect competition (where there are lots of people selling something), the quantity demanded (the number of things that people want to buy) and the quantity supplied (the number of things people are selling) will be equal. This is called the equilibrium market price.
+For normal goods, and a normal market, there are four basic laws that determine the change in the market, if either supply or demand changes:
+If the demand increases, and the supply remains the same, there will be a shortage, and the price will increase.
+If the demand decreases, and the supply remains the same, there will be a surplus, and the price will go down.
+If the supply increases, and the demand remains the same, there will be a surplus, and the price will go down.
+If the supply decreases, and the demand remains the same, there will be a shortage, and the price will increase.
+When there is more supply, this will cause prices to go down. This happens because people will not want to pay more for things that they can easily buy somewhere else. When there is more demand, prices will go up because lots of people want to buy the same item but there is not enough supply for it.
+New markets are created when demand for new goods and services goes up. If the demand is bigger, this will happen faster. Supply goes up because there are lots of people selling the thing. This makes the prices go down.
+History
+Adam Smith was one of the first people who saw supply and demand. In his book The Wealth of Nations (written in 1776), he says that the demand was dependent on the price of a good. He did not see the inverse, that the demand also influences the price. David Ricardo published the book Principles of Political Economy and Taxation in 1817, where he explained market equilibrium as it is explained above. Others who are known for this model are Alfred Marshall and Léon Walras.
+Goods and markets where the rules are different
+There are some goods which do not follow the same rules as the model above
+A Giffen good is one where people consume more, if the price for a better good rises.
+There are certain goods which people buy to display their wealth or spending power. These goods are called luxury goods, and the effect is known as conspicuous consumption. In economics, the goods are known as Veblen goods.
+It is possible to classify consumers by the amount of money they have available; there are also certain kinds of goods where the demand for a certain good by people of a higher income level is inversely related to the demand for the good by individuals of a lower income level. This is known as the snob effect.
+The rules above only work for a perfect competition market. In a perfect competition market, there are many people buying and many people selling. No single buyer or seller can directly impact the price. If the buyers or the sellers can influence this price, the market will react differently. Sometimes there is only one supplier (a monopoly). When this happens, the supplier chooses the price and the demand only determines how much is bought. The supplier will probably make the price very high if people still want to buy it at that price. If there is only one buyer, the market is called monopsony, and that buyer is able to decide the price.
+Other websites
+Marshallian cross diagrams and their uses before Alfred Marshall: the origins of supply and demand geometry by Thomas Humphrey (via the Richmond Fed)
+Supply and demand by Hubert D. Henderson at Project Gutenberg.
+Price theory and applications by Steven E. Landsburg
+An inquiry into the nature and causes of the wealth of nations, Adam Smith, 1776
+By what is the price of a commodity determined?, a brief statement of Karl Marx's rival account
+Supply and demand -Citizendium

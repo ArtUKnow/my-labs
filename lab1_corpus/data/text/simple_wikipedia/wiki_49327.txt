@@ -1,0 +1,15 @@
+Dayton, Ohio
+area_code_type = Area codes
+area_code = 937, 326
+blank_name = FIPS code
+blank_info = 39113
+blank1_name = GNIS feature ID
+blank1_info = 1086167
+website
+image_blank_emblem = City of Dayton logo.svg
+blank_emblem_type = Logo
+Dayton is a large city in the American state of Ohio. It is where Orville and Wilbur Wright grew up. The Wright-Patterson Air Force Base, also near Dayton, gets part of its name from the Wright brothers. The National Museum of the United States Air Force is inside the Wright-Patterson Air Force Base.
+Dayton has a humid continental climate (Dfa in the Koeppen climate classification).
+Numerous inventions are attributed to residents of Dayton, earning it the nickname of "Patent City, USA". Some of the more important inventions include the airplane, the cash register, the automatic starter for automobiles, pop-top cans, the step ladder, the ice cube tray, backpack parachute, the motorized wheelchair, gas masks, LCD displays, Cheez-It crackers, the bar code, and the movie projector.
+References
+Other websites

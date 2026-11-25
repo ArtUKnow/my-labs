@@ -1,0 +1,7 @@
+ReactOS
+ReactOS is a free and open-source operating system for 32-bit and 64-bit computers. Its main goal is to develop an operating system that is compatible with software for Windows Server 2003 and its successors.
+ReactOS has been in development since 1996 and is still considered incomplete alpha software by the developers. As of 2026, the project is still being developed.
+ReactOS is written in C and C++. It is not based on Linux or Unix, and uses some code from the Wine project.
+Other websites
+ReactOS SourceForge page
+ReactOS VKontakte page

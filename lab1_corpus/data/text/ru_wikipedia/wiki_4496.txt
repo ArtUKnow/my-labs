@@ -1,0 +1,111 @@
+Бейсик
+Бе́йсик (BASIC, сокращение от — универсальный символьный код инструкций для начинающих ) — семейство высокоуровневых языков программирования.
+Был разработан 1 мая 1964 года профессорами Дартмутского колледжа Томасом Курцем и Джоном Кемени .
+Язык создавался как инструмент, с помощью которого студенты-непрограммисты могли самостоятельно создавать компьютерные программы для решения своих задач. Получил широкое распространение в виде различных диалектов, прежде всего как язык для домашних компьютеров .
+Производители
+В разное время интерпретаторы и компиляторы BASIC выпускались различными организациями, компаниями, фирмами:
+Acorn Computers
+Apple
+Atari
+Basic International
+Borland
+CDC
+Commodore
+Comshare
+Concept Omega
+Data General
+Dartmouth
+DEC
+Digital Research
+Exidy
+Fantaisie Software
+The Game Creators
+Hedge Systems
+Honeywell
+HP
+IBM
+Mark Williams
+Microsoft
+Microway
+Morgan Computing
+NCR Century
+RadioShack
+Sax Software
+Sinclair Research
+Sperry / UNIVAC
+Summi Software Tehnology
+Texas Instruments
+True Basic
+Unicomp
+University of California
+University of Maryland
+Wang Laboratories
+Watcom
+Xerox
+Zedcor
+Советские:
+Вильнюсский университет — Вильнюс
+ВЦ СО АН СССР — Новосибирск
+ПО «ВЭФ» — Рига
+Нижегородский государственный университет имени Н. И. Лобачевского — Нижний Новгород
+Реализации
+Apple:
+Applesoft BASIC
+Integer BASIC
+MacBASIC
+Commodore:
+Commodore BASIC
+Microsoft:
+Altair BASIC
+GW-BASIC
+MBASIC
+Microsoft Small Basic
+MSX BASIC
+QBasic
+QuickBASIC
+Visual Basic (VBA, VBS, .NET)
+Sinclair:
+4K BASIC
+8K BASIC
+48 BASIC
+128 BASIC
+Другие:
+BASIC-256
+BBC BASIC
+Commodore BASIC
+DarkBASIC
+Dartmouth BASIC
+FreeBASIC
+Family BASIC (F-BASIC) (Nintendo)
+Gambas
+KBasic
+Liberty BASIC
+MobileBASIC
+Play Basic
+PowerBASIC
+PureBasic
+RapidQ
+REALbasic
+Terminal-BASIC
+True Basic
+Turbo Basic
+Tiny BASIC
+Бейсик Вильнюс
+ExelBasic (EXL 100)
+См. также
+BASICODE
+Примечания
+Литература
+Стандарты
+ANSI X3.60-1978 «FOR MINIMAL BASIC»
+ISO/IEC 6373:1984 «DATA PROCESSING — PROGRAMMING LANGUAGES — MINIMAL BASIC»
+ANSI X3.113-1987 «PROGRAMMING LANGUAGES FULL BASIC»
+ГОСТ 27787-88 «Язык программирования БЕЙСИК» (включает в себя стандарт ISO 6373:1984)
+INCITS/ISO/IEC 10279-1991 (R2005) «Information Technology — Programming Languages — Full BASIC»
+ANSI X3.113 INTERPRETATIONS-1992 «BASIC TECHNICAL INFORMATION BULLETIN # 1 INTERPRETATIONS OF ANSI 03.113-1987»
+ISO/IEC 10279:1991/ Amd 1:1994 «Modules and single character input enhancement»
+Ссылки
+Авторский вариант статьи Андрея Колесова. Статья была опубликована c незначительной литературной правкой в журнале «Наука и жизнь» № 10/2000, с. 18—20.
+A Manual for BASIC, the elementary algebraic language designed for use with the Darthmouth Time Sharing System Препринт Дартмутского колледжа от 1 октября 1964.
+Thomas E. Kurtz. BASIC, 1977.
+Обширный список бейсико-подобных языков

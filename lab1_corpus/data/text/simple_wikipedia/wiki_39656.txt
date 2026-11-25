@@ -1,0 +1,17 @@
+Factorial
+In mathematics, the factorial of a whole number n , written as n! , is equal to the product of n and all the whole numbers less than it. In symbols, n! = n(n-1)(n-2) ... (3)(2)(1) .
+For example, the factorial of 4, written as 4!, equals 24. This is because 4 \times 3 \times 2 \times 1 = 24 . In symbols, we can write 4! = 4(3)(2)(1) = 24 . For some technical reasons, 0! is equal to 1 .
+Arranging objects
+Factorials can tell us how many possible ways there are to arrange n objects.
+Permutations and combinations
+Factorials are also used to find permutations and combinations. In a permutation, we begin with n objects and want to know how many different ways we can order a subset r of them. For example, suppose there are n = 8 runners in a race. After the race is over, how many different ways can these eight runners stand on the winners' podium (first, second, and third), so that r=3 ?
+The way to find the answer is to calculate the following: P(n,r)=n!/(n-r)! . The answer is 336 .
+Combinations are the same, except that for a combination, the order of the r=3 objects does not matter. Therefore, the way to calculate a combination is C(n,r)=n!/((n-r)!r!) .
+Notes
+Factorials are not defined for negative integers. However, the related gamma function ( \Gamma(x) ) is defined over the real and complex numbers (except for negative integers).
+Related pages
+Exclamation mark
+Permutation
+References
+Other websites
+Calculation of Factorial (0≤N≤40000)

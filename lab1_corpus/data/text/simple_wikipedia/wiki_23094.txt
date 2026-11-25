@@ -1,0 +1,38 @@
+Java (programming language)
+Java is the name of a programming language created by Sun Microsystems. This company was bought out by Oracle Corporation, which continues to keep it up to date. It is designed to be platform-independent, which means that code written in Java can run on any device or operating system that has a Java Virtual Machine (JVM) installed. This makes Java a popular choice for developing cross-platform applications and games. Additionally, Java has a large and active community, and a wide range of libraries and frameworks available for use. , Java 20 is the latest version (will be supported until September 2023), while Java 17, 11 and 8 are the current long-term support (LTS) versions. Being an LTS version means that it will continue getting updates for multiple years. The next planned LTS version is Java 21 (LTS), planned for September 2023.
+Being an open-source platform, Java isn't just supported by Oracle, e.g., Eclipse Adoptium also supports Java (JVM), to at least May 2026 for Java 8, and at least September 2027 for Java 17.
+Java, which was called Oak when it was still being developed, is object-oriented, meaning it is based on objects that work together to make programs do their jobs. Java code looks similar to C, C++, or C, but code written in those languages will not work in Java in most cases without being changed.
+Java runs on many operating systems, including Android, the world's most popular mobile operating system (while Java continues to be used on Android, even by its maker Google, they no longer prefer Java; now Kotlin is their preferred language, though it can also be used with all Java code). This makes Java platform independent. It does this by making the Java compiler turn code into Java bytecode instead of machine code. This means that when the program is executed, a Java Virtual Machine interprets (or just-in-time compiles) the bytecode.
+Java is both a language, but it's also a platform, and a number of languages compile to the same bytecode meant for that JVM platform, and can then work alone (without Java, the language, or with it). Google, that previously recommended Java, now recommends Kotlin language over Java for its Android platform, and it, like any JVM language, can also work with or without Java in all other contexts where Java alone would have been used.
+High-profile JVM languages
+Java, a statically-typed object-oriented language
+Groovy, a dynamic programming language (also with static typing) and scripting language
+Clojure, a dynamic, and functional dialect of the Lisp programming language (ClojureScript is an implementation targeting the web with JavaScript, not the JVM.)
+Java concepts
+Java was developed to achieve five main goals. These are:
+Java should be easy to learn, object-oriented, and distributed.
+Java should be safe and strong.
+Java should not depend on any computer architecture or platform.
+Java should function well.
+Java should be able to have an interpreter written for it (for better portability), support parallelism, and use dynamic typing.
+Java platform
+The Java platform refers to a group of software products from Sun Microsystems. The platform is used to develop and run Java programs. The platform includes the execution engine (called a Java Virtual Machine) that allows Java programs to do the same thing on different computer systems.
+This capability of being able to develop software on one platform and running it on other platforms is called "cross-platform capability".
+There are many resources available for learning Java programming, including books, tutorials, and online courses.
+Benefits
+Java is commonly used to teach students how to program as a first language, but is still also used by professionals.
+Java requires that each variable be initialized. Some older languages, such as C, allow variables to go uninitialized, which can cause random failures with mysterious bugs.
+Java requires that each method declares a return type—the method should always return a value, except if its return type is void. This also prevents bugs.
+Java comes with a large set of classes and methods, the Java API that can be used without having to develop as much code "from scratch".
+Unlike C, Java primitive types, such as int, are always the same size in the number of bits, which helps achieve cross-platform compatibility.
+Java used to be thought of as being slower than C, but that's become less important in recent years because computers are faster.
+Java has exception-handling that requires a programmer to handle error-conditions such as Input/Output errors.
+Code compiled on one Java platform can be run on other platforms that support Java without modification of either the source-code nor the byte-code. This means that a person can make a Java program for a Windows computer and have it run on a Linux computer or a Mac computer.
+Criticism
+Java has also been criticized. Some criticisms are:
+Generics were added to Java in such a way so that existing code would still keep running. This was done using type erasure. This means that during compilation, the actual type of a generic argument is removed. This can lead to the Java interpreter to behave in unexpected ways at times.
+Java has no unsigned integer types, which languages like C heavily use. This also means that it is impossible to directly exchange numeric data between C and Java programs. Cryptography also relies on such types to some extent; this makes it more difficult to write applications that use cryptography in Java.
+The IEEE has defined a standard for floating-point arithmetic, IEEE 754. Java only supports a part of the features of this standard.
+References
+Other websites
+Java home page

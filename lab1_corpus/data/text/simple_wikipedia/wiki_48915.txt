@@ -1,0 +1,13 @@
+Order of magnitude
+An order of magnitude is an approximation of the logarithm of a value relative to some contextually understood reference value, usually ten, interpreted as the base of the logarithm and the representative of values of magnitude one. Logarithmic distributions are common in nature and
+considering the order of magnitude of values sampled from such a distribution can be more intuitive. When the reference value is ten, the order of magnitude can be understood as the number of digits in the base-10 representation of the value. Similarly, if the reference value is one of certain powers of two, the magnitude can be understood as the amount of computer memory needed to store the exact integer value.
+If two numbers have the same order of magnitude, they are about the same size.
+But if one would compare the surface of an orange with that of the earth, one would say the surface of the earth is many orders of magnitude larger than that of the orange.
+Orders of magnitude are used to make approximate comparisons. If numbers differ by one order of magnitude, x is about ten times different in quantity than y. If values differ by two orders of magnitude, they differ by a factor of about 100. Two numbers of the same order of magnitude have roughly the same scale: the larger value is less than ten times the smaller value.
+List
+Related pages
+Magnitude (mathematics)
+Other websites
+Powers of 10, a graphic animated illustration that starts with a view of the Milky Way at 10 23 meters and ends with subatomic particles at 10 -16 meters.
+Orders of Magnitude - Distance
+What is Order of Magnitude?

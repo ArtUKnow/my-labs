@@ -6,6 +6,7 @@ MODE=${1:-tests}
 LABS="lab1_corpus lab2_crawler lab3_tokenizer lab4_stemmer lab5_zipf lab6_search_quality lab7_boolean_index"
 
 if [ "$MODE" = "build" ]; then
+  set -e
   echo "=== lab1: extract text and stats"
   python3 lab1_corpus/extract_text.py
   python3 lab1_corpus/corpus_stats.py
@@ -19,7 +20,7 @@ if [ "$MODE" = "build" ]; then
   echo "=== lab6: evaluate"
   python3 lab6_search_quality/evaluate.py
   echo "=== lab7: build index"
-  python3 lab7_boolean_index/build_index.py lab1_corpus/data/text lab1_corpus/data/index stem 10000
+  python3 lab7_boolean_index/build_index.py lab1_corpus/data/text lab1_corpus/data/index stem 500000
   exit 0
 fi
 

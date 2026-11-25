@@ -1,0 +1,92 @@
+PPPoE
+PPPoE () — сетевой протокол канального уровня (второй уровень Сетевая модель OSI) для передачи кадров протокола PPP через сети Ethernet, широко используемый в xDSL-сервисах. Протокол предоставляет дополнительные возможности, такие как аутентификация, сжатие данных и шифрование.
+Стандартное значение MTU для PPPoE ниже, чем для стандартного Ethernet (1500 байт для Ethernet и 1492 байта для PPPoE), что иногда вызывает проблемы с неправильно настроенными межсетевыми экранами.
+PPPoE является туннелирующим протоколом, позволяющим инкапсулировать пакеты IP или других протоколов, предназначенных для передачи по PPP, через Ethernet-соединения. Это обеспечивает возможность использования традиционного PPP-ориентированного программного обеспечения для установления соединения с аутентификацией (логин, пароль), даже если канал передачи данных является пакетно-ориентированным (например, Ethernet). При установлении соединения IP-адрес назначается динамически, что позволяет эффективно переиспользовать адресное пространство.
+PPPoE разработан компаниями UUNET, Redback Networks и RouterWare; протокол описан в RFC 2516.
+Некоторые производители оборудования, такие как Cisco Systems и Juniper Networks, используют термин PPPoEoE (PPPoE over Ethernet) для обозначения реализации протокола, осуществляющей работу непосредственно через Ethernet или другие сети по стандарту IEEE 802.3, в отличие от PPPoEoA (PPPoE over ATM), который работает по спецификации RFC 2684 с использованием SNAP для инкапсуляции PPPoE. При этом PPPoEoA отличается от протокола PPPoA (Point-to-Point Protocol over ATM), поскольку не использует SNAP.
+Работа PPPoE осуществляется следующим образом. В Ethernet-сети несколько сетевых карт (устройств) адресуются с помощью уникальных MAC-адрес. Одна из карт работает в режиме прослушивания для PPPoE-сервера. Клиент посылает широковещательный Ethernet-кадр, содержащий запрос PPPoE Active Discovery Initiation, где адрес получателя устанавливается равным FF:FF:FF:FF:FF:FF. В ответ PPPoE-сервер отправляет Ethernet-кадр с ответом (PPP Active Discovery Offer), в котором указывается его MAC-адрес и MAC-адрес клиента. Если в сети имеется несколько серверов, клиент выбирает подходящий и отправляет запрос на соединение. После выбора сервера клиент получает подтверждение с уникальным идентификатором сессии, который используется для маркировки всех последующих кадров. В установленном виртуальном канале, идентифицируемом по MAC-адресам и идентификатору сессии, устанавливается PPP-соединение, в которое затем инкапсулируются IP-пакеты и другой сетевой трафик.
+PPPoE Discovery (PPPoED)
+PADI
+PADI (PPPoE Active Discovery Initiation) — это пакет, инициирующий процедуру обнаружения DSL-концентратора (DSL‑AC) на стороне провайдера, необходимый для установления PPPoE-соединения, например, в xDSL-сетях. При отсутствии знания MAC-адреса DSL‑AC клиент отправляет PADI-пакет с широковещательным адресом (ff:ff:ff:ff:ff:ff), содержащий MAC-адрес отправителя.
+Пример PADI-пакета:
+Frame 1: 32 bytes on wire (256 bits), 32 bytes captured (256 bits)
+Ethernet II, Src: ZyxelCom_b9:a7:b9 (28:28:5d:b9:a7:b9), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+PPP-over-Ethernet Discovery
+0001 .... = Version: 1
+.... 0001 = Type: 1
+Code: Active Discovery Initiation (PADI) (0x09)
+Session ID: 0x0000
+Payload Length: 12
+PPPoE Tags
+Host-Uniq: 00002771
+В данном примере Src. указывает MAC-адрес отправителя, а Dst. — широковещательный адрес. PADI-пакет может быть получен более чем одним DSL‑AC.
+PADO
+PADO (PPPoE Active Discovery Offer) — пакет, отправляемый DSL‑AC в ответ на PADI. Он содержит MAC-адрес DSL‑AC, а также информацию о его наименовании и предоставляемых сервисах. Если получено несколько PADO-пакетов, клиент выбирает наиболее подходящую точку доступа (POP) на основании информации, содержащейся в пакетах.
+Пример PADO-пакета:
+Frame 2: 64 bytes on wire (512 bits), 64 bytes captured (512 bits)
+Ethernet II, Src: MS-NLB-PhysServer-04_5a:30:00 (02:04:00:5a:30:00), Dst: ZyxelCom_b9:a7:b9 (28:28:5d:b9:a7:b9)
+PPP-over-Ethernet Discovery
+0001 .... = Version: 1
+.... 0001 = Type: 1
+Code: Active Discovery Offer (PADO) (0x07)
+Session ID: 0x0000
+Payload Length: 33
+PPPoE Tags
+Host-Uniq: 00002771
+AC-Name: STREAM
+Service-Name: mtu
+Service-Name: mgts
+В примере AC-Name: STREAM представляет строковое имя DSL‑AC (в данном случае, ассоциированное с сетью МГТС). Src. содержит MAC-адрес DSL‑AC, который также может использоваться для идентификации производителя оборудования.
+PADR
+PADR (PPPoE Active Discovery Request) — пакет, отправляемый клиентом для выбора конкретного DSL‑AC из полученных PADO-пакетов. Пакет направляется на MAC-адрес выбранного DSL‑AC.
+Пример PADR-пакета:
+Frame 3: 32 bytes on wire (256 bits), 32 bytes captured (256 bits)
+Ethernet II, Src: ZyxelCom_b9:a7:b9 (28:28:5d:b9:a7:b9), Dst: MS-NLB-PhysServer-04_5a:30:00 (02:04:00:5a:30:00)
+PPP-over-Ethernet Discovery
+0001 .... = Version: 1
+.... 0001 = Type: 1
+Code: Active Discovery Request (PADR) (0x19)
+Session ID: 0x0000
+Payload Length: 12
+PPPoE Tags
+Host-Uniq: 00002771
+PADS
+PADS (PPPoE Active Discovery Session-confirmation) — пакет, подтверждающий установление сессии. После получения PADR DSL‑AC отвечает PADS-пакетом, содержащим уникальный идентификатор сессии, который используется для всех последующих обменов.
+Пример PADS-пакета:
+Frame 4: 64 bytes on wire (512 bits), 64 bytes captured (512 bits)
+Ethernet II, Src: MS-NLB-PhysServer-04_5a:30:00 (02:04:00:5a:30:00), Dst: ZyxelCom_b9:a7:b9 (28:28:5d:b9:a7:b9)
+PPP-over-Ethernet Discovery
+0001 .... = Version: 1
+.... 0001 = Type: 1
+Code: Active Discovery Session-confirmation (PADS) (0x65)
+Session ID: 0x0254
+Payload Length: 22
+PPPoE Tags
+Host-Uniq: 00002771
+AC-Name: STREAM
+PADT
+PADT (PPPoE Active Discovery Termination) — пакет, разрывающий установленное PPPoE-соединение. Он может быть отправлен как клиентом, так и DSL‑AC для завершения сессии.
+Пример PADT-пакета:
+Frame 5: 28 bytes on wire (224 bits), 28 bytes captured (224 bits)
+Ethernet II, Src: ZyxelCom_b9:a7:b9 (28:28:5d:b9:a7:b9), Dst: MS-NLB-PhysServer-04_5a:30:00 (02:04:00:5a:30:00)
+PPP-over-Ethernet Discovery
+0001 .... = Version: 1
+.... 0001 = Type: 1
+Code: Active Discovery Terminate (PADT) (0xa7)
+Session ID: 0x0254
+Payload Length: 8
+PPPoE Tags
+Host-Uniq: 00002771
+Преимущества схемы
+Ethernet-кадры в процессе обнаружения не обрабатываются как обычный IP-трафик, что позволяет избежать конфликтов в адресном пространстве.
+Каждое соединение формируется в отдельном виртуальном канале, что обеспечивает независимость трафика между различными сессиями.
+Сервер может передавать настройки (IP-адрес, адрес шлюза, адреса DNS‑серверов) клиенту после установления соединения.
+Процедура аутентификации, расчёта стоимости и шифрования трафика возможна с использованием стандартных механизмов, таких как RADIUS.
+Туннелирование через PPPoE позволяет использовать традиционное программное обеспечение для установки и управления соединением, что облегчает его интеграцию в существующие сети.
+См. также
+Rp-pppoe
+Примечания
+Ссылки
+RFC 2516 — A Method for Transmitting PPP Over Ethernet (PPPoE)
+RFC 3817 — Layer 2 Tunneling Protocol (L2TP) Active Discovery Relay for PPP over Ethernet (PPPoE)
+RFC 4638 — Accommodating a Maximum Transit Unit/Maximum Receive Unit (MTU/MRU) Greater Than 1492 in the Point-to-Point Protocol over Ethernet (PPPoE)

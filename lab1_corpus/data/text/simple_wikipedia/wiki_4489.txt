@@ -1,0 +1,43 @@
+Gmail
+Gmail is a mailbox provider by Google. It is the largest email service worldwide, with 1.8 billion users. Users can receive emails up to 50 megabytes in size, including attachments, and can send emails up to 25 megabytes in size. Gmail supports integration with Google Drive, allowing for larger attachments. The Gmail interface has a search engine and supports a "conversation view" similar to an Internet forum. The service is notable among website developers for its early adoption of Ajax.
+Google's mail servers automatically scan emails to filter spam and malware.
+Features
+Storage
+On April 1, 2004, Gmail was launched with one gigabyte (GB) of storage space, a much higher amount than competitors offered at the time.
+The limit was doubled to two gigabytes of storage on April 1, 2005, the first anniversary of Gmail. Georges Harik, the product management director for Gmail, stated that Google would "keep giving people more space forever."
+In October 2007, Gmail increased storage to 4 gigabytes, after recent changes from competitors Yahoo and Microsoft.
+On April 24, 2012, Google announced the increase of storage included in Gmail from 7.5 to 10 gigabytes ("and counting") as part of the launch of Google Drive.
+On May 13, 2013, Google announced the overall sharing of storage across Gmail, Google Drive, and Google+ Photos, allowing users 15 gigabytes of included storage among three services.
+On August 15, 2018, Google launched Google One, a service where users can pay for additional storage, shared among Gmail, Google Drive and Google Photos, through a monthly subscription plan. , storage of up to 15 gigabytes is included, and paid plans are available for up to 2 terabytes for personal use.
+There are also storage limits to individual Gmail messages. At first, one message, including all attachments, could not be larger than 25 megabytes. This was changed in March 2017 to allow receiving an email of up to 50 megabytes, while the limit for sending an email stayed at 25 megabytes. In order to send larger files, users can insert files from Google Drive into the message.
+Interface
+The Gmail user interface at differed from other web-mail systems with its focus on search and conversation threading of emails, grouping several messages between two or more people onto a single page, an approach that was later copied by its competitors. Gmail's user interface designer, Kevin Fox, intended users to feel as if they were always on one page and just changing things on that page, rather than having to navigate to other places.
+Gmail's interface also makes use of "labels" (tags) that replace traditional folders and provide a more flexible method of organizing emails; filters for automatically organizing, deleting or forwarding incoming emails to other addresses; and importance markers for automatically marking messages as 'important'.
+In November 2011, Google began rolling out a redesign of its interface that "simplified" the look of Gmail into a simpler design to provide a more consistent look throughout its products and services as part of an overall Google design change. Largely redesigned elements included a streamlined conversation view, adjustable density of information, new higher-quality themes, a resizable navigation bar with always-visible labels and contacts, and better search. Users were able to preview the new interface design for months prior to the official release, as well as revert to the old interface, until March 2012, when Google discontinued the ability to revert and completed the transition to the new design for all users.
+In May 2013, Google updated the Gmail inbox with tabs that can categorize the user's emails. The five tabs are: Primary, Social, Promotions, Updates, and Forums. In addition to customization options, the entire update can be disabled, allowing users to return to the traditional inbox structure.
+In April 2018, Google introduced a new web user interface for Gmail. The new redesign follows Google's Material Design, and changes in the user interface include the use of Google's Product Sans font. Other updates include a Confidential mode, which allows the sender to set an expiration date for a sensitive message or to withdraw it entirely, integrated rights management and two-factor authentication.
+On 16 November 2020, Google announced new settings for smart features and personalization in Gmail. Under the new settings users were given control of their data in Gmail, Chat, and Meet, offering smart features like Smart Compose and Smart Reply.
+On 6 April 2021, Google rolled out Google Chat and Room (early access) feature to all Gmail users.
+On 28 July 2022, Google rolled out Material You to all Gmail users.
+Spam filter
+Gmail's spam filtering features a community-driven system: when any user marks an email as spam, this provides information to help the system identify similar future messages for all Gmail users.
+Gmail Labs
+The Gmail Labs feature, introduced on June 5, 2008, allows users to test new or experimental features of Gmail. Users can enable or disable Labs features selectively and provide feedback about each of them. This allows Gmail engineers to receive user input about new features to improve them and also to understand their popularity. Popular features, like the "Undo Send" option, often "graduate" from Gmail Labs to become a formal setting in Gmail. All Labs features are experimental and are subject to removal at any time.
+Search
+Gmail incorporates a search bar for searching emails. The search bar can also search contacts, files stored in Google Drive, events from Google Calendar, and Google Sites.
+In May 2012, Gmail improved the search functionality to include auto-complete predictions from the user's emails.
+Gmail's search functionality does not support searching for word fragments (also known as 'substring search' or partial word search). Workarounds exist. In 2025, Google said the service and the general ability to fetch emails from other accounts on an ongoing basis would shut down in 2026.
+Language support
+, the Gmail interface supports 72 languages, including: Arabic, Basque, Bulgarian, Catalan, Chinese (simplified), Chinese (traditional), Croatian, Czech, Danish, Dutch, English (UK), English (US), Estonian, Finnish, French, German, Greek, Gujarati, Hebrew, Hindi, Hungarian, Icelandic, Indonesian, Italian, Japanese, Kannada, Korean, Latvian, Lithuanian, Malay, Malayalam, Marathi, Norwegian (Bokmål), Odia, Persian, Polish, Punjabi, Portuguese (Brazil), Portuguese (Portugal), Romanian, Russian, Serbian, Sinhala, Slovak, Slovenian, Spanish, Swedish, Tagalog (Filipino), Tamil, Telugu, Thai, Turkish, Ukrainian, Urdu, Vietnamese, Welsh and Zulu.
+Language input styles
+In October 2012, Google added over 100 virtual keyboards, transliterations, and input method editors to Gmail, giving users different types of input styles for different languages in an effort to help users write in languages that are not "limited by the language of your keyboard."
+In October 2013, Google added handwriting input support to Gmail.
+In August 2014, Gmail became the first major email provider to let users send and receive emails from addresses with accent marks and letters from outside the Latin alphabet.
+Google Apps
+Google Apps is a service from Google that was created in February 2006 as Gmail for your domain. It is to allow system administrators of a company or organisation to create email accounts for their own domain.
+Trademark issues
+In the United Kingdom (UK), the trademark "Gmail" was owned by another company before Gmail by Google was started. Thus, the United Kingdom uses a domain of "googlemail.com" for their users, and the logo has the words of "Google Mail" instead of the normal "Gmail".
+In September 2009 Google began to change the branding of UK accounts back to Gmail following the resolution of the trademark dispute.
+References
+Other websites
+Gmail Website

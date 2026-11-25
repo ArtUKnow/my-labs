@@ -1,0 +1,59 @@
+Liberia
+demonym = Liberian
+capital = Monrovia
+coordinates
+largest_city = Monrovia
+government_type = Unitary presidential constitutional republic
+leader_title1 = President
+leader_name1 = Joseph Boakai
+leader_title2 = Vice President
+leader_name2 = Jeremiah Koung
+leader_title3 = Speaker of the House
+leader_name3 = Bhofal Chambers
+leader_title4 = Chief Justice
+leader_name4 = Francis Korkpor
+legislature = Legislature of Liberia
+upper_house = Senate
+lower_house = House of Representatives
+area_rank = 102nd
+area_km2 = 111,369
+area_sq_mi = 43,000
+percent_water = 13.514
+population_estimate = 5,073,296
+population_estimate_year = 2015
+population_estimate_rank = 126th
+population_census = 3,476,608
+population_census_year = 2008
+population_census_rank
+population_density_km2 = 40.43
+population_density_sq_mi = 92.0
+population_density_rank = 180th
+GDP_PPP_year = 2019
+GDP_PPP = $6.468 billion
+GDP_PPP_per_capita = $1,413
+GDP_nominal_year = 2019
+GDP_nominal = $3.221 billion
+GDP_nominal_per_capita = $704
+Gini_rank
+HDI_year = 2019
+HDI_change = increase
+HDI = 0.480
+HDI_ref
+HDI_rank = 175th
+currency = Liberian dollar (LRD)
+currency_code
+utc_offset
+time_zone = GMT
+drives_on = right
+calling_code = +231
+cctld = .lr
+today
+The Republic of Liberia is a small country on the coast of West Africa. It has common borders with Sierra Leone, Guinea, and Ivory Coast. The country has a size of about by . As of 2021, there are about 5,000,000 people in Liberia. The capital city of Liberia is Monrovia. For ships, Liberia is a flag of convenience.
+Geography
+Liberia is a country in Southwest Africa, on the coast of the Atlantic Ocean. Except for the coast, most of Liberia is low mountains, with an altitude of to above sea level. The coastal region is full of swamps, and reaches to inland. After that, there's a plateau at an altitude of about . About 60% of the country is covered with rainforest. To the north, there are higher mountains. There are nine big plantations of rubber trees, which are important for the economy. There are mangrove swamps near the coast. In 2019, estimates are that close to 5 million people live in Liberia. About half of them live in the capital, Monrovia. There are 15 administrative divisions, called counties. The main environmental issues in Liberia are that endangered species are hunted and eaten. This kind of meat is called bushmeat. Some of the poached animals are also sold to neighbouring countries. A big part of Liberia is rainforest. Like in other rainforest countries, Slash-and-burn agriculture is a problem. Illegal logging also is. In Monrovia, there is a lot of pollution.
+History
+In 1822, White Americans created the American Colonization Society and bought the land in Africa that would become Liberia. They did not want black people who were not slaves to be in the United States. Because of this, they took some of them to Liberia. At the start of the American Civil War (in the 1860s) about 12,000 freed slaves lived in Liberia.
+The name of the country means "Land of the Free" in Latin. Liberia gained its independence on July 26, 1847. Joseph Jenkins Roberts was the first president of Liberia. European countries were quick to recognize Liberia as a country. The United States did not recognize it as a country until 1862. Many of the black people who were sent to Liberia were missionaries. Its official language today is English .
+In the 1990s and in the early 2000s, two civil wars badly affected the country.
+The country's constitution is similar to that of the United States. In the 2017 elections, George Weah became the twenty-fifth President of Liberia. The President before Weah was Ellen Johnson Sirleaf, the first African female president.
+References

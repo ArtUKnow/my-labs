@@ -1,0 +1,21 @@
+Keynote (software)
+Keynote is a presentation software application made by Apple for its macOS, iOS, and iPadOS operating systems. The latest update for Keynote is Version 15. Version 15 of Keynote was released in January 2026.
+History
+Keynote was a software program that Steve Jobs, the chief executive officer of Apple used for his own presentations only. It was later sold to everyone as Keynote 1.0, competing against other presentation software, especially Microsoft PowerPoint. Unlike PowerPoint, Keynote can use all image types, and the design uses more pictures, making it easier to use. Because Keynote used Mac OS X's built-in graphics technologies, it could produce slides with many graphics very easily.
+Versions
+The first version of Keynote launched on January 7, 2003. Later versions were released as part of iWork suite packages.
+Version 2.0 was released on January 11, 2005. It has new transitions/animations, new themes, new presenter tools and improved export options, including export to Flash.
+Version 3.0 released on January 10, 2006. It has new transitions/animations, new themes and graphics. It was also compiled to run natively on both PowerPC and Intel processors as a universal binary.
+Keynote Version 4.0 was released on August 7, 2007. It added new text effects, new transitions, Instant Alpha, and Smart Builds.
+Trivia
+Al Gore, a member of the board of directors for Apple as of 2006, uses Keynote for a lecture about Global Warming which he claims to have shown over a thousand times. The talk was made into a film, An Inconvenient Truth. During the film he can be seen using Keynote on a Powerbook to design a slide for his presentation.
+Related pages
+Microsoft PowerPoint
+LibreOffice Impress
+Presentation program
+Other websites
+Official website of Keynote
+Discussion Groups
+Keynote Yahoo! Group — Help and advice for users of Keynote
+iWork Yahoo! Group — Help and advice for users of Apple's iWork (Pages and Keynote)
+References

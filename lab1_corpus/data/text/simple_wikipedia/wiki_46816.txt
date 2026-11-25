@@ -1,0 +1,26 @@
+Laptop
+A laptop is a computer which is easy to carry around. A modern laptop is self-contained, with a screen, keyboard, and pointing device (like a touchpad or pointing stick), plus usually, speakers, a microphone and a camera (webcam). This is all powered by a built-in rechargeable battery, however, the user can also plug the laptop in to use it while recharging the battery. Also, most other external devices such as a monitor and keyboard can be attached if required. The laptop screen folds down over the keyboard, along a hinge, for carrying.
+Laptops have advantages over desktop computers, such as:
+They can be carried almost anywhere, such as between home and office or school.
+They usually have a built-in webcam, microphone and speakers, making video calls much easier.
+They can be used in smaller spaces.
+They can easily be locked away securely, making them harder to steal.
+Disadvantages of laptops include:
+They're normally more expensive.
+They usually have low technical specifications.
+They're often slower than desktop computers with complex tasks like gaming, video editing or graphic design.
+They're easily stolen.
+They travel frequently, so laptops are more likely to be damaged.
+They're more difficult and expensive to repair.
+History
+Like computers themselves, portable microcomputers were not invented at any one time by one person. They developed gradually.
+The Portal, from the French company R2E Micral CCMC, appeared in September 1980 at the SICOB show in Paris. Its keyboard had 58 alphanumeric keys and 11 numeric keys (separate blocks), a 32-character LED screen, a floppy disk drive, a printer and a 220V power supply. It weighed 12 kg (26 pounds) and its dimensions were 45 cm × 45 cm × 15 cm (18 in x 18 in x 6 in). It had no hinge and its operating system was Prolog.
+Some historians, however, count as the first "true" portable to be the Osborne 1. It was created in 1981 by Adam Osborne, who was also a former book publisher. He was the founder of Osborne Computer. His portable computer weighed 11 kg (24 pounds) and had a five-inch (13 cm) screen, a serial port and two floppy disk drives. Several programs were included with the Osborne 1. Customers could also buy a 1-hour battery pack.
+The first "laptop-sized notebook computer" was the Epson HX-20, released in July 1982. It had a four-line, liquid crystal display (LCD) screen, a rechargeable battery, and a receipt-size printer, in a 1.6 kg (3.5 lb) body, the size of an A4 notebook. It was described as a "laptop" and "notebook" computer in its patent. Today, laptops continue to be used for areas like education, video editing and gaming.
+In 2005, an organization called One Laptop Per Child started trying to improve education for students in less rich countries using their own laptop, the XO-1. However, their plan failed, and OLPC now hands out Chromebooks instead.
+Gaming laptop
+A gaming laptop is a laptop that is built to play video games. Gaming laptops are more powerful than regular laptops, and are made with stronger parts, a separate graphic card (GPU), large and bright screens with fast frame rates, colorful keyboards that light up, and more fans and vents. However, they are more expensive than regular laptops. The most common program people use to play games on these laptops is Steam.
+gaming laptop.]]
+References
+Other websites
+BBC News

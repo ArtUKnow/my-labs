@@ -1,0 +1,37 @@
+Хейлсберг, Андерс
+Андерс Хейлсберг (, Аннерс Хайльсберг ; род. 2 декабря 1960, Копенгаген) — датский инженер-программист, создатель Turbo Pascal, Delphi, C# и TypeScript.
+В 1981 году написал свой первый компилятор языка Паскаль, который после портирования под операционную систему MS-DOS продал фирме Borland. Эта версия легла в основу Turbo/Borland Pascal, который развивался до 1995 года. До 1996 года был главным инженером фирмы Borland, где создал новое поколение компиляторов Паскаля — язык Delphi, компилятор которого работал уже под операционной системой Windows.
+В 1996 году перешёл в Microsoft, где работал над такими проектами, как J++ и Microsoft Foundation Classes. С 2000 года возглавлял группу по созданию и проектированию языка программирования C.
+В 2000 году получил награду Dr. Dobb’s Journal за создание Turbo Pascal, Delphi и C.
+В 2012 году объявил о новом проекте TypeScript, который расширяет возможности JavaScript .
+Примечания
+Литература
+The C# Programming Language, 2nd Edition, Addison-Wesley Professional, ISBN 0-321-33443-4, June 9, 2006
+The C# Programming Language, 3rd Edition, Addison-Wesley Professional, ISBN 0-321-56299-2, October 18, 2008
+The C# Programming Language, 4th Edition, Addison-Wesley Professional, ISBN 0-321-74176-5, ISBN 978-0-321-74176-9, October 2010
+Ссылки
+Microsoft’s Anders Hejlsberg Receives Prestigious Excellence in Programming Award
+2001 Dr. Dobb’s Excellence in Programming Award
+Интервью
+Interview from .NET Developer’s Journal, Vol 3 issue 2.
+The C# Design Process
+The Trouble with Checked Exceptions
+Delegates, Components and Simplexity
+Versioning, Virtual and Override
+Contracts and Interoperability
+Inappropriate Abstractions
+Generics in C#, Java and C++
+CLR Design Choices
+Microsoft’s Hejlsberg touts .Net, C-Omega (now Linq) technologies
+Deep Inside C#: An Interview with Microsoft Chief Architect Anders Hejlsberg
+C#: Yesterday, Today, and Tomorrow
+Video interview at channel9
+Видео
+Life and Times of Anders Hejlsberg
+Anders Hejlsberg — Tour through computing industry history at the Microsoft Museum
+Anders Hejlsberg — What’s so great about generics?
+Anders Hejlsberg — Programming data in C# 3.0
+Anders Hejlsberg — What brought about the birth of the CLR
+Anders Hejlsberg — More C# Talk from C#'s Architect (Happy Birthday Video #3)
+Anders Hejlsberg — LINQ
+Anders Hejlsberg — Whiteboard with Anders Hejlsberg

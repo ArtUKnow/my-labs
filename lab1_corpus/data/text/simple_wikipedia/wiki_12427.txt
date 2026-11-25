@@ -1,0 +1,38 @@
+Mathematical constant
+A mathematical constant is a number, which has a special meaning for calculations. For example, the constant π (pronounced "pie") means the ratio of a circle's circumference to its diameter. This value is always the same for any circle. A mathematical constant is often a real, non-integral number of interest.
+In contrast to physical constants, mathematical constants do not come from physical measurements.
+Key mathematical constants
+The following table contains some important mathematical constants:
+Constants and series
+The following table contains a list of constants and series in mathematics, with the following columns:
+Value: Numerical value of the constant.
+LaTeX: Formula or series in TeX format.
+Formula: For use in programs such as Mathematica or Wolfram Alpha.
+OEIS: Link to On-Line Encyclopedia of Integer Sequences (OEIS), where the constants are available with more details.
+Continued fraction: In the simple form [to integer; frac1, frac2, frac3, ...] (in brackets if periodic)
+Type:
+R - Rational number
+I - Irrational number
+T - Transcendental number
+C - Complex number
+Note that the list can be ordered correspondingly by clicking on the header title at the top of the table.
+Related pages
+Speed of light
+Differentiation
+Constant function
+Quadratic function
+Differential equation
+Multivariable calculus
+List of mathematical symbols
+Eigenvalues and eigenvectors
+References
+Books
+Online bibliography
+On-Line Encyclopedia of Integer Sequences (OEIS)
+Simon Plouffe, Tables of Constants
+Xavier Gourdon and Pascal Sebah's page of numbers, mathematical constants and algorithms
+MathConstants
+Other websites
+WolframAlpha
+Continued Fraction Calculator
+Inverse Symbolic Calculator, Plouffe's Inverter

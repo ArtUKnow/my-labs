@@ -1,0 +1,31 @@
+Newton's laws of motion
+Isaac Newton (1642–1727) is widely known as the father of dynamics, the study of motion. He developed three laws that are the foundation of classical mechanics. They are believed to be true because the results of experiments by scientists agree with this.
+First law (sometimes called inertia)
+If a body is at rest it remains at rest or, if it is in motion, it moves with uniform velocity, until it is acted on by a net force. Alternatively, everybody in this universe will be in a state of rest or uniform motion unless acted upon by an external force or otherwise.
+From the above statement, it's clearly observable that Newton's first law defines force and inertia.
+This law also gives the Qualitative definition of force.
+A uniform velocity means that an object moves at a constant speed without changing direction (i.e. in a straight line). A net force means that the forces acting on the object are not balanced. In other words, the first law states two things:
+A stationary object will only begin to move if there is an unbalanced force acting on it.
+A moving object will only change speed or direction if there is an unbalanced force acting on it.
+The first part states that a table resting on the ground will not move unless pushed. Although gravity is acting on the table, pulling it down, there is a reaction force from the ground which is pushing it back. The forces acting on the table are balanced, so the object will not move.
+The second part is harder to explain. A ball rolling along a flat surface will slow down and eventually come to a halt. This is because of friction, which is a force that slows the ball down. A ball rolling down a slope is also affected by friction, but the effect of the force of gravity is stronger than the friction, so there is a net force acting in the direction in which the ball is moving. In a place without the forces of friction, air resistance and gravity (e.g. in outer space) a moving object would keep on moving in a straight line if there were no force to slow it down or change its direction.
+Second law
+For a particle of mass m , the net force F on the particle is equal to the mass m multiplied by the particle's acceleration a :
+\mathbf F=m\mathbf a .
+Newton's second law states that acceleration of a particle is dependent on the forces acting upon the particle and the particle's mass. For a given particle, if the net force is increased, the acceleration is increased. It's also stated that the rate of change of momentum of a body is directly proportional to applied force and takes place in the direction in which the force acts. For a given net force, the more mass a particle has, the less acceleration it has.
+For example, weight is a force that we feel on Earth, caused by the gravity. The weight W on a particle is given by
+\mathbf W=m\mathbf g ,
+where m is the mass of the particle and g is the local gravitational acceleration (not to be confused with G, the universal gravitational constant), roughly equal to 9.8 meters per second 2 (32 feet per second 2 ) on Earth.
+We can express Newton's second law in terms of momentum. The momentum p of a particle is defined as the product of its mass m and velocity v :
+\mathbf p=m\mathbf v .
+The acceleration a of a particle is the time derivative of its velocity v :
+\mathbf a=\frac{\mathrm d\mathbf v}{\mathrm dt} .
+Therefore,
+\mathbf F=m\mathbf a=m\frac{\mathrm d\mathbf v}{\mathrm dt}=\frac{\mathrm d(m\mathbf v)}{\mathrm dt}=\frac{\mathrm d\mathbf p}{\mathrm dt} .
+Thus, we have another way of stating Newton's second law:
+For a particle of mass m , the net force F on the particle is equal to the time derivative of the particle's momentum p :
+Law 4. Similarly, the idea that forces add like vectors (or in other words obey the superposition principle), and the idea that forces change the energy of a body, have both been described as a “fourth law.”
+Related pages
+Philosophiæ Naturalis Principia Mathematica
+Classical mechanics
+References

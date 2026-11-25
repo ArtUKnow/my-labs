@@ -1,0 +1,21 @@
+Yarmouth, Nova Scotia
+elevation_footnotes
+elevation_min_m = 0
+elevation_max_m = 43
+postal_code_type = Postal code(s)
+postal_code = B5A
+area_code = 902 & 782
+area_code_type = Area code
+blank_name = Highways
+blank_info
+blank1_name = Dwellings
+blank1_info = 3569
+blank2_name = Median Income*
+blank2_info = $48,000 CDN
+blank3_name = NTS Map
+blank3_info
+blank4_name = GNBC Code
+blank4_info = CBPIB
+References
+Other websites
+Yarmouth official town government Website

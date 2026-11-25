@@ -1,0 +1,9 @@
+Windows Neptune
+Windows Neptune is a version of Microsoft Windows that was being made during 1999. Windows 2000 was released as an operating system for businesses and people that know how to use computers well.
+History
+Windows Neptune was going to be a version of Windows 2000 that was easier for home users to use. After Microsoft stopped developing it, some of its features were merged with Windows 2000's and a new project, "Whistler", was formed. "Whistler" was later released as Windows XP.
+Only one known confirmed version of Windows Neptune exists, which is Windows Neptune build 5111.1. Windows Neptune build 5111.1 exists on the Internet as an ISO image. It used to be hard to find, but now it can easily be found.
+Related pages
+Windows Odyssey
+Other websites
+Neptune: The Windows that wasn't on Paul Thurrott's SuperSite for Windows.

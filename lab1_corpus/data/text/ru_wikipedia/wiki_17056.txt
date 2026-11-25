@@ -1,0 +1,289 @@
+Система Цермело — Френкеля
+Систе́ма аксио́м Це́рмело — Фре́нкеля (ZF) — наиболее широко используемый вариант аксиоматической теории множеств, являющийся фактическим стандартом для оснований математики. Сформулирована Эрнстом Цермело в 1908 году как средство преодоления парадоксов теории множеств, и уточнена Абрахамом Френкелем в 1921 году.
+К этой системе аксиом часто добавляют аксиому выбора, и называют системой Цермело — Френкеля с аксиомой выбора (ZFC, ).
+Эта система аксиом записана на языке логики первого порядка. Существуют и другие системы; например, система аксиом фон Неймана — Бернайса — Гёделя (NBG) наряду с множествами рассматривает так называемые классы объектов, при этом она равносильна ZF в том смысле, что любая теорема о множествах (то есть не упоминающая о классах), доказуемая в одной системе, также доказуема и в другой.
+Определение
+Теория множеств Цермело — Френкеля (ZF) — теория первого порядка с равенством с одним двуместным предикатным символом \in и следующими аксиомами:
+\forall A \forall B \ (\forall b \ (b \in A \leftrightarrow b \in B) \rightarrow A = B) — аксиома объёмности (экстенсиональности);
+\forall A\ \exist D\ \forall c \ \bigl(c \in D \leftrightarrow \exist a \ (a \in A \ \land \ c \in a) \bigr) — аксиома объединения;
+\forall A\ \exist B\ \forall b \ (b \in B \leftrightarrow \forall d\ \bigl(d \in b \rightarrow d \in A\bigr)) — аксиома булеана;
+\exist A\ \exist E\ \bigl(\forall c\ \lnot \bigl(c \in E\bigr) \land E \in A \ \land \ \forall b \ (b \in A \rightarrow \forall c \bigl(\forall d \bigl( d\in c \leftrightarrow d = b \lor \forall a \bigl( a\in d \leftrightarrow a = b \bigr) \bigr) \rightarrow c \in A) \bigr)\bigr) — аксиома бесконечности;
+\forall A \ \Bigl(\exist a \bigl(a \in A\bigr) \rightarrow \exist b \ \bigl(b \in A \ \land \ \forall c \ (c \in b \rightarrow \lnot \bigl(c \in A)\bigr) \bigr) \Bigr) — аксиома регулярности;
+\forall x\ \forall y\ \forall z\ \bigl( \varphi[x,y] \land \varphi[x,z] \rightarrow y = z \bigr) \rightarrow \forall A\ \exist D\ \forall c \ \bigl(c \in D \leftrightarrow \exist b \ (b \in A \ \land \ \varphi[b,c]) \bigr) — схема преобразования.
+Иногда также к этим аксиомам добавляют следующие:
+\exists E\ \forall c \ \lnot\bigl( c \in E \bigr) — аксиома пустого множества;
+\forall a_1 \forall a_2 \ \exist C \ \forall b \ \bigl(b \in C \leftrightarrow (b = a_1 \ \lor \ b = a_2)\bigr) — аксиома пары;
+\forall A\ \exist C\ \forall b \ \bigl(b \in C \leftrightarrow b \in A \land \varphi[b] \bigr) — схема выделения.
+Однако эти аксиомы избыточны и могут быть выведены из основных.
+Теория множеств Цермело — Френкеля с аксиомой выбора (ZFC) получается из ZF добавлением к списку аксиом ещё одной дополнительной аксиомы, называемой аксиомой выбора:
+\forall A \ \bigl(\bigl(\exist a \bigl(a\in A \bigr)\ \land \ \forall b \ (b \in A \rightarrow \exist a \bigl(a\in b \bigr)\bigr) \ \land \ \forall b_1\ \forall b_2\ \forall c \ (b_1 \in A\land b_2 \in A \land c \in b_1 \land c \in b_2 \rightarrow b_1 = b_2\bigr)\bigr) \rightarrow \bigl( \exist D\ \forall b \bigl( b \in A \rightarrow \exists d \bigl( d \in b \land d \in D \bigr) \land \forall d_1 \ \forall d_2 \ \bigl( d_1 \in b \land d_2 \in b \land d_1 \in D \land d_2 \in D \rightarrow d_1 = d_2 \bigr) \bigr) \bigr) \bigr) — аксиома выбора
+Пояснение к аксиомам ZFC
+Аксиомы ZFC включают в себя:
+0) группу высказываний о равенстве множеств (аксиома 1),
+1) группу высказываний о существовании множеств (аксиомы 0, 6),
+2) группу высказываний об образовании множеств из уже имеющихся множеств (аксиомы 2, 3, 4 и схемы 5, 7), в которой можно выделить три подгруппы,
+3) группу высказываний об упорядоченности образованных множеств (аксиомы 8, 9).
+0. Критерий равенства множеств в ZFC
+Следующее высказывание выражает достаточное условие идентичности двух множеств.
+Аксиома экстенсиональности (Аксиома объёмности)
+\forall A_1 \forall A_2 \ (\forall b \ (b \in A_1 \leftrightarrow b \in A_2) \to A_1 = A_2)
+Примечание
+«Аксиому объёмности» можно сформулировать следующим образом: «Если каждый элемент первого множества принадлежит второму множеству, а каждый элемент второго множества принадлежит первому множеству, тогда оба множества идентичны.»
+Необходимое условие идентичности двух множеств имеет вид \forall A_1 \forall A_2 \ (A_1 = A_2 \to \forall b \ (b \in A_1 \leftrightarrow b \in A_2)) и выводится из аксиом предиката = , а именно:
+\forall a \ (a = a) ,
+\forall A_1 \forall A_2 \ (A_1 = A_2 \to (\varphi[A_1] \to \varphi[A_2])) , где \varphi[a_1] — любое математически корректное суждение об a_1 , а \varphi[a_2] — то же самое суждение, но об a_2 .
+Соединение указанного необходимого условия [идентичности множеств] с аксиомой объёмности даёт следующий критерий равенства множеств:
+\forall A_1 \forall A_2 \ (A_1 = A_2 \leftrightarrow \forall b \ (b \in A_1 \leftrightarrow b \in A_2) \ )
+1. Аксиомы ZFC о существовании множеств
+«Аксиома объёмности» была бы бесполезным высказыванием, если бы не существовало ни одного множества или существовало только одно множество.
+Следующие два высказывания гарантируют существование по меньшей мере двух разных множеств, а именно: а) множества, в котором нет ничего, и б) множества, содержащего бесконечное количество элементов.
+1.0 Аксиома пустого множества
+\exists A \forall b \ (b \notin A)
+Примечание
+«Аксиому [существования] пустого множества» можно сформулировать следующим образом: «Существует [по меньшей мере одно] множество без единого элемента.»
+Доказывается, что «аксиома пустого множества» равносильна высказыванию \exist ! A \forall b \ (b \notin A) . Поэтому единственному множеству a можно присвоить имя. Употребительны два имени: \varnothing и \{\} . Используя указанные имена, «аксиому пустого множества» записывают так:
+\forall b \ (b \notin \varnothing) и \forall b \ (b \notin \{\})
+1.1 Аксиома бесконечности
+\exist A \ (\varnothing \in A \ \land \ \forall b \ (b \in A \to b \cup \{b\} \in A) \ ) , где b \cup \{b\} = \{c\colon c \in b \ \lor \ c = b\}
+Примечание
+«Аксиому бесконечности» можно сформулировать следующим образом: «Существует [по меньшей мере одно] „бесконечное множество“, которое состоит из \varnothing, \ \ \{\varnothing\}, \ \ \varnothing \cup \{\varnothing\}, \ \ \varnothing \cup \{\varnothing\} \cup \{\varnothing \cup \{\varnothing\}\}, \ \ldots .»
+Высказывание о существовании бесконечного множества отличается от (ложного в данной аксиоматике) высказывания о существовании «множества всех множеств» ( \exist A \forall b \ (b \in A) ).
+2. Аксиомы ZFC об образовании множеств
+Следующие пять высказываний можно назвать аксиомами образования множеств [из имеющихся множеств, включая \varnothing и по меньшей мере одну \infty ].
+Каждое из этих пяти высказываний создано на основе высказывания \forall A \exist b \ (b = \varphi[A]) , которое выводится из аксиом предиката = .
+Эти пять высказываний можно объединить в следующие подгруппы:
+2.0) группу постулатов об образовании множеств путём перечисления их элементов,
+2.1) группу деклараций об учреждении и об упразднении семейств множеств,
+2.2) группу схем образования множеств с помощью математически корректных суждений.
+2.0. Постулат об образовании множеств путём перечисления их элементов: Аксиома пары
+Простейший способ образовать новое множество [из уже имеющихся множеств] состоит в том, чтобы «ткнуть пальцем» в каждое множество, которое должно стать элементом [образуемого множества]. В ZFC указанный способ образования множеств представлен одной аксиомой, в которой «тыканье пальцем» моделируется с помощью предиката = .
+2.0 Аксиома пары
+\forall a_1 \forall a_2 \exists c \forall b \ (b \in c \leftrightarrow b = a_1 \ \lor \ b = a_2) , что есть \forall a_1 \forall a_2 \exist c \ (c = \{b\colon b = a_1 \ \lor \ b = a_2\})
+Примечание
+«Аксиому [неупорядоченной] пары» можно сформулировать следующим образом: «Из любых двух множеств можно образовать „неупорядоченную пару“, то есть такое множество c , каждый элемент b которого идентичен данному множеству a_1 или данному множеству a_2 ».
+Примеры
+1. \ a_1 = 0 \ \land \ a_2 = 1 \Rightarrow \exist c \forall b \ (b \in c \leftrightarrow b = 0 \ \lor \ b = 1)
+2. \ a_1 = \varnothing \ \land \ a_2 = \{\varnothing\} \Rightarrow \exist c \forall b \ (b \in c \leftrightarrow b = \varnothing \ \lor \ b = \{\varnothing\} \ )
+Доказывается, что «аксиома пары» равносильна высказыванию \forall a_1 \forall a_2 \exist ! c \forall b \ (b \in c \leftrightarrow b = a_1 \ \lor \ b = a_2) . Поэтому единственному множеству c можно присвоить имя \{a_1, a_2\} . Используя указанное имя, «аксиому пары» записывают так:
+\forall a_1 \forall a_2 \forall b \ (b \in \{a_1, a_2\} \leftrightarrow b = a_1 \ \lor \ b = a_2) или \forall a_1 \forall a_2 \ (\{a_1, a_2\} = \{b\colon b = a_1 \ \lor \ b = a_2\})
+2.1. Декларации об учреждении и об упразднении семейств множеств
+Следующие две аксиомы, именуемые «аксиомой множества подмножеств» и «аксиомой объединения», можно рассматривать как естественное дополнение к «аксиоме пары». Чтобы убедиться в этом, заметим следующее.
+Известно, что каждое множество z имеет подмножества, включая [копию пустого множества] \varnothing и [копию самого множества] z . Иначе говоря,
+\forall z \exist x \exist y \ (x \subseteq z \ \land \ y \subseteq z) \quad \land \quad \forall z \ (\varnothing \subseteq z \ \land \ z \subseteq z) .
+Руководствуясь «аксиомой пары», из названных подмножеств можно образовать неупорядоченную пару \{\varnothing, z\} . Назовём эту пару семейством Fam_2(z) .
+Если можно образовать семейство Fam_2(z) из двух подмножеств множества z , тогда можно объявить об образовании семейства Fam_a(z) из всех подмножеств множества z .
+Чтобы объявить об образовании семейства Fam_a(z) достаточно потребовать, чтобы каждый элемент b названного семейства был подмножеством множества z , а каждое подмножество b названного множества было элементом семейства Fam_a(z) . Иначе говоря,
+\forall b \ (b \in Fam_a(z) \to b \subseteq z) \ \land \ \forall b \ (b \subseteq z \to b \in Fam_a(z) \ ) ,
+что равносильно предложению
+\forall b \ (b \in Fam_a(z) \leftrightarrow b \subseteq z) ,
+которое подразумевает предложение
+\exists d \forall b \ (b \in d \leftrightarrow b \subseteq z) ,
+которое является частным случаем высказывания
+\forall a \exists d \forall b \ (b \in d \leftrightarrow b \subseteq a) .
+Если можно объявить об учреждении семейства Fam_a(z) , тогда можно объявить об упразднении названного семейства.
+Мыслимы различные способы упразднения семейства Fam_a(z) , включая:
+1) его полное упразднение (уничтожение), то есть Del(Fam_a(z)) = \varnothing , что равносильно
+\forall c \ (c \in Del(Fam_a(z)) \leftrightarrow c \in \varnothing) ,
+2) его фиктивное упразднение (резервирование), то есть Fic(Fam_a(z)) = Fam_a(z) , что равносильно
+\forall c \ (c \in Fic(Fam_a(z)) \leftrightarrow c \in Fam_a(z)) ,
+3) его реверсивное упразднение (расформирование), то есть Rev(Fam_a(z)) = z , что равносильно
+\forall c \ (c \in Rev(Fam_a(z)) \leftrightarrow c \in z) .
+Поскольку
+c \in z \Leftrightarrow \{c\} \in Fam_a(z) \Leftrightarrow \exists b \ (b = \{c\} \ \land \ b \in Fam_a(z)) \Leftrightarrow \exist b \ (c \in b \ \land \ b \in Fam_a(z)) ,
+постольку предложение
+\forall c \ (c \in Rev(Fam_a(z)) \leftrightarrow c \in z)
+равносильно предложению
+\forall c \ (c \in Rev(Fam_a(z)) \leftrightarrow \exists b \ (c \in b \ \land \ b \in Fam_a(z)) \ ) ,
+которое подразумевает предложение
+\exists d \forall c \ (c \in d \leftrightarrow \exist b \ (c \in b \ \land \ b \in Fam_a(z)) \ ) ,
+которое является частным случаем высказывания
+\forall a \exist d \forall c \ (c \in d \leftrightarrow \exist b \ (c \in b \ \land \ b \in a)\ ) .
+Из изложенного следует, что высказывания \forall a \exists d \forall b \ (b \in d \leftrightarrow b \subseteq a) и \forall a \exists d \forall c \ (c \in d \leftrightarrow \exists b \ (c \in b \ \land \ b \in a) \ ) можно считать независимыми условно.
+2.1.0 Аксиома множества подмножеств
+\forall a \exist d \forall b \ (b \in d \leftrightarrow b \subseteq a) , что есть \forall a \exist d \ (d = \{b\colon b \subseteq a\}) , где b \subseteq a \Leftrightarrow \forall c \ (c \in b \to c \in a)
+Примечание
+«Аксиому множества подмножеств» можно сформулировать следующим образом: «Из любого множества a можно образовать „суперкучу“, то есть множество d , состоящее из (собственных либо несобственных) подмножеств b данного множества a .»
+Примеры
+1. \ a = \varnothing \Rightarrow \exist d \forall b \ (b \in d \leftrightarrow b \in \{\varnothing\}) , так как \forall a \ (\varnothing \subseteq a \land a \subseteq a)
+2. \ a = \{\varnothing\} \Rightarrow \exist d \forall b \ (b \in d \leftrightarrow b \in \{\varnothing, \{\varnothing\}\}) \Leftrightarrow \exist d \forall b \ (b \in d \leftrightarrow b = \varnothing \ \lor \ b = \{\varnothing\})
+3. \ a = \{1,2,3\} \Rightarrow \exist d \forall b \ (b \in d \leftrightarrow b \in \{\varnothing, \{1\}, \{2\}, \{3\}, \{1,2\}, \{1,3\}, \{2,3\}, \{1,2,3\}\})
+4. \ a = \{a_1, a_2\} \Rightarrow \exist d \forall b (b \in d \leftrightarrow b \in \{\varnothing, \{a_1\}, \{a_2\}, \{a_1, a_2\}\})
+Доказывается, что «аксиома множества подмножеств» равносильна высказыванию \forall a \exist!d \forall b \ (b \in d \leftrightarrow b \subseteq a) . Поэтому единственному множеству d можно присвоить имя \mathcal{P}(a) , которое произносится: «множество всех подмножеств [множества] a ». Используя указанное имя, «аксиому множества подмножеств» записывают так:
+\forall a \forall b \ (b \in \mathcal{P}(a) \leftrightarrow b \subseteq a) или \forall a \ (\mathcal{P}(a) = \{b\colon b \subseteq a\})
+2.1.1 Аксиома объединения
+\forall a \exists d \forall c \ (c \in d \leftrightarrow \exists b \ (b \in a \ \land \ c \in b) \ ) , что есть \forall a \exist d \ (d = \{c\colon \exist b \ (b \in a \ \land \ c \in b)\})
+Примечание
+Аксиому объединения [множеств] можно сформулировать следующим образом: «Из любого семейства множеств можно образовать „кучу-малу“, то есть такое множество d , каждый элемент c которого принадлежит по меньшей мере одному множеству b данного семейства a ».
+Примеры
+1. \ a = \mathcal{P}(\varnothing) = \{\varnothing\} \Rightarrow \exist d \forall c \ (c \in d \leftrightarrow c \in \varnothing)
+2. \ a = \mathcal{P}(\mathcal{P}(\varnothing)) = \{\varnothing, \{\varnothing\}\} \Rightarrow \exist d \forall c \ (c \in d \leftrightarrow c \in \mathcal{P}(\varnothing) \ ) \Leftrightarrow \exist d \forall c \ (c \in d \leftrightarrow c \in \{\varnothing\})
+\begin{align} 3. \
+a = \{b_1, b_2, b_3\} = \{ \{0,1\}, \{1,2\}, \{3\} \} \Rightarrow \exist d \forall c \ (c \in d \leftrightarrow c \in \{0,1\} \lor c \in \{1,2\} \lor c \in \{3\})
+\\ \
+\Leftrightarrow \exist d \forall c \ (c \in d \leftrightarrow c \in \{0,1,2,3\})
+\end{align}
+4. \ a = \{b, \{b\}\} \Rightarrow \exist d \forall c \ (c \in d \leftrightarrow c \in b \cup \{b\}) \Leftrightarrow \exist d \forall c \ (c \in d \leftrightarrow c \in b \ \lor \ c = b)
+5. \ a = (a_1, a_2) = \{\{a_1\}, \{a_1, a_2\}\} = \{\{a_1, a_1\}, \{a_1, a_2\}\} \Rightarrow \exist d \forall c \ (c \in d \leftrightarrow c \in \{a_1, a_2\})
+6. \ a = \langle a_1, a_2 \rangle = \{a_1, \{a_1, a_2\}\} \Rightarrow \exist d \forall c \ (c \in d \leftrightarrow c \in a_1 \cup \{a_1, a_2\})
+7. \ a = \mathcal{P}(\{a_1, a_2\}) = \{\varnothing, \{a_1\}, \{a_2\}, \{a_1, a_2\}\} \Rightarrow \exist d \forall c \ (c \in d \leftrightarrow c \in \{a_1, a_2\})
+Доказывается, что аксиома объединения равносильна высказыванию \forall a \exist ! d \forall c \ (c \in d \leftrightarrow \exist b \ (b \in a \ \land \ c \in b) \ ) . Поэтому единственному множеству d можно присвоить имя \cup\,a , которое произносится: «объединение множеств семейства a ». Используя указанное имя, аксиому объединения записывают так:
+\forall a \forall c \ (c \in \cup a \leftrightarrow \exist b \ (b \in a \ \land \ c \in b) \ ) или \forall a \ (\cup a = \{c\colon \exist b \ (b \in a \ \land \ c \in b)\} \ ) .
+Объединение множеств семейства a ( \cup a ) не следует путать с пересечением множеств семейства a ( \cap a ), о котором известно:
+\forall a \forall c \ (c \in \cap a \leftrightarrow \forall b \ (b \in a \to c \in b) , то есть \forall a \ (\cap a = \{c\colon \forall b \ (b \in a \to c \in b)\})
+2.2. Схемы образования множеств с помощью математически корректных суждений
+Среди математических высказываний встречаются аксиомы связи, включая:
+а) аксиому связи между алгебраической операцией + (сложить) и алгебраической операцией \cdot (умножить)
+\forall x \forall y \forall z \ (x \in \mathbb{R} \land \ y \in \mathbb{R} \land z \in \mathbb{R} \to (x + y) \cdot z = x \cdot z + y \cdot z) ,
+б) аксиому связи между отношением порядка \le (меньше или равно) и алгебраической операцией + (сложить)
+\forall x \forall y \forall z \ (x \in \mathbb{R} \land y \in \mathbb{R} \land z \in \mathbb{R} \to (x \le y \to x + z \le y + z))
+Следующие два высказывания, именуемые «схемой выделения» и «схемой преобразования», являются аксиомами связи между множествами (например, множеством \{0,1\} ) и математически корректными суждениями (например, суждением x \le 0 ).
+«Схема выделения» и «схема преобразования» выражают следующую простую мысль: «Каждое математически корректное суждение об элементах любого множества приводит к образованию [того же самого или другого] множества.»
+Математически корректные суждения, фигурирующие в «схеме выделения», позволяют «довести [до товарного вида]» множества, которые образованы, например, с помощью аксиомы множества подмножеств.
+Математически корректные суждения, фигурирующие в «схеме преобразования», позволяют создавать «[математические] изделия» из [«неотёсанных»] множеств, образованных, например, с помощью аксиомы множества подмножеств.
+2.2.0 Схема выделения
+\forall a \exist c \forall b \ (b \in c \leftrightarrow b \in a \ \land \ \Phi[b]\ ) , что есть \forall a \exist c \ (c = \{b\colon b \in a \ \land \ \Phi[b]\} \ ) , где \Phi[b] — любое математически корректное суждение о b , но не о множестве a и не о множестве c .
+Примечание
+Схему выделения [подмножеств] можно сформулировать следующим образом: «Из каждого множества можно выделить [по меньшей мере одно] подмножество c , высказав суждение \Phi о каждом элементе b данного множества a .»
+Примеры
+1. \ (\Phi[x] \leftrightarrow x = x) \Rightarrow \forall a \exist c \forall b \ (b \in c \leftrightarrow b \in a \ \land \ b = b)
+2. \ (\Phi[x] \leftrightarrow x \ne x) \Rightarrow \forall a \exist c \forall b \ (b \in c \leftrightarrow b \in a \ \land \ b \ne b)
+3. \ (\Phi[x] \leftrightarrow x \in y) \Rightarrow \forall a \exist c \forall b \ (b \in c \leftrightarrow b \in a \ \land \ b \in y)
+4. \ (\Phi[x] \leftrightarrow x \notin y) \Rightarrow \forall a \exist c \forall b \ (b \in c \leftrightarrow b \in a \ \land \ b \notin y)
+5. \ (\Phi[x] \leftrightarrow x
+\begin{align} 6. \
+(\Phi[x] \leftrightarrow \exist k \ (k \in \mathbb{N} \land x = 2k)) \land a = \mathbb{N} \Rightarrow \exist c \forall b \ (b \in c \leftrightarrow b \in \mathbb{N} \land \exist k \ (k \in \mathbb{N} \land b = 2k))
+\\ \
+\Leftrightarrow \exist c \forall b \ (b \in c \leftrightarrow b \in \{0,2,4,6,\ldots\})
+\end{align}
+\begin{align} 7. \
+(\Phi[x] \ \leftrightarrow \ \exist u \exist v \ (u \in U \ \land \ v \in V \ \land \ x = (u,v) \ ) \ ) \quad \land \quad a = \mathcal{P}(\mathcal{P}(U \cup V))
+\\ \
+\Rightarrow \exist c \forall b \ (b \in c \leftrightarrow b \in \mathcal{P}(\mathcal{P}(U \cup V)) \ \land \ \exist u \exist v \ (u \in U \land v \in V \land b = (u,v)))
+\end{align}
+Доказывается, что схема выделения равносильна высказыванию \forall a \exist!c \forall b \ (b \in c \leftrightarrow b \in a \ \land \ \Phi[b]\ ) . Поэтому единственному подмножеству c можно присвоить имя \{x\colon x \in a \land \Phi[x]\} . Используя указанное имя, схему выделения записывают так:
+\forall a \forall b \ (b \in \{x\colon x \in a \land \Phi[x]\} \leftrightarrow b \in a \ \land \ \Phi[b] \ )
+или
+\forall a (\{x\colon x \in a \ \land \ \Phi[x]\} = \{b\colon b \in a \ \land \ \Phi[b]\}
+Схема выделения равносильна счётному множеству аксиом.
+2.2.1 Схема преобразования
+\forall x \exist ! y \ (\phi[x,y]) \ \to \ \forall a \exist d \forall c \ (c \in d \leftrightarrow \exist b \ (b \in a \ \land \ \phi[b,c] \ ) \ ) , что есть \forall x \exist ! y \ (\phi[x,y]) \ \to \ \forall a \exist d \ (d = \{c\colon \exist b \ (b \in a \ \land \ \phi[b,c])\} \ )
+Примечание
+Схему преобразования [множеств] можно сформулировать следующим образом: «Любое множество можно преобразовать в [то же самое или другое] множество d , высказав любое истинное математически корректное функциональное суждение \phi обо всех элементах b данного множества a .»
+Примеры
+1. \ (\phi[x,y] \leftrightarrow y = x) \Rightarrow \forall a \exist d \forall c \ (c \in d \leftrightarrow \exist b \ (b \in a \ \land \ c = b)) \Leftrightarrow \forall a \exist d \forall c \ (c \in d \leftrightarrow c \in a)
+\begin{align} 2. \
+(\phi[x,y] \leftrightarrow y = x^2) \ \land \ a = \{1,2,3\} \Rightarrow \exist d \forall c \ (c \in d \leftrightarrow \exist b \ (b \in \{1,2,3\} \ \land \ c = b^2))
+\\ \
+\Leftrightarrow \exist d \forall c \ (c \in d \leftrightarrow c \in \{1,4,9\})
+\end{align}
+3. \ (\phi[x,y] \leftrightarrow y = f(x)) \Rightarrow \forall a \exist d \forall c \ (c \in d \leftrightarrow \exist b \ (b \in a \ \land \ c = f(b) \ ) \ )
+\begin{align} 4. \
+(\phi[x,y] \leftrightarrow (x = \varnothing \to y = a_1) \land (x \ne \varnothing \to y = a_2) \ ) \quad \land \quad a = \mathcal{P}(\mathcal{P}(\varnothing)) = \{\varnothing, \{\varnothing\}\}
+\\ \
+\Rightarrow \exist d \forall c \ (c \in d \leftrightarrow \exist b \ (b \in \{\varnothing, \{\varnothing\}\} \land (b = \varnothing \to c = a_1) \land (b \ne \varnothing \to c = a_2)\ ))
+\\ \
+\Leftrightarrow \exist d \forall c \ (c \in d \leftrightarrow c = a_1 \ \lor \ c = a_2)
+\end{align}
+\begin{align} 5. \
+(\phi[x,y] \leftrightarrow y = 2x) \ \land \ a = \mathbb{N} \Rightarrow \exist d \forall c \ (c \in d \leftrightarrow \exist b \ (b \in \mathbb{N} \land c = 2b))
+\\ \
+\Leftrightarrow \exist d \forall c \ (c \in d \leftrightarrow c \in \{0,2,4,6,\ldots\})
+\end{align}
+\begin{align} 6. \
+(\phi[x,y] \leftrightarrow y = 2x + 1) \ \land \ a = \mathbb{N} \Rightarrow \exist d \forall c \ (c \in d \leftrightarrow \exist b \ (b \in \mathbb{N} \land c = 2b + 1))
+\\ \
+\Leftrightarrow \exist d \forall c \ (c \in d \leftrightarrow c \in \{1,3,5,7,\ldots\})
+\end{align}
+\begin{align} 7. \
+(\phi[x,y] \leftrightarrow (x \in \mathbb{N} \ \land \ x
+Доказывается, что в схеме преобразования множество d единственно. Поэтому указанному множеству можно присвоить имя \{y\colon \exist x \ (x \in a \ \land \ \phi[x,y])\} . Используя указанное имя, схему преобразования записывают так:
+\forall x \exist!y (\phi[x,y]) \to \forall a \forall c \ (c \in \{y\colon \exist x \ (x \in a \ \land \ \phi[x,y])\} \leftrightarrow \exist b \ (b \in a \ \land \ \phi[b,c]) \ )
+или
+\forall x \exist!y (\phi[x,y]) \to \forall a (\{y\colon \exist x \ (x \in a \ \land \ \phi[x,y])\} = \{c\colon \exist b \ (b \in a \ \land \ \phi[b,c])\} \ )
+Схема преобразования равносильна счётному множеству аксиом.
+3. Аксиомы ZFC об упорядоченности множеств
+Следующие два высказывания определяют упорядоченность множеств, которые образованы из \varnothing и каждой \infty с помощью аксиом образования множеств.
+3.0 Аксиома регулярности
+\forall a \ (a \ne \varnothing \to \exist b \ (b \in a \ \land \ \forall c \ (c \in b \to c \notin a) \ ) \ )
+Примечание
+«Аксиому регулярности» можно сформулировать следующим образом: «В любом семействе множеств есть [по меньшей мере одно] множество b , каждый элемент c которого не принадлежит данному семейству a .»
+Примеры
+\begin{align}
+1. \ a = \{x\} \Rightarrow a \ne \varnothing \Rightarrow \exist b \ (b \in \{x\} \land \forall c \ (c \in b \to c \notin \{x\}) \ )
+\\ \
+\Leftrightarrow \exist b \ (b \in \{x\} \land \forall c \ (c \in \{x\} \to c \notin b))
+\Rightarrow \forall x (x \notin x)
+\\ \
+\Leftrightarrow \forall a (a \notin a)
+\Leftrightarrow \forall a \forall b \ (a \in b \ \lor \ b \in a \to a \ne b)
+\end{align}
+Сравните с высказываниями \forall a \ (a = a) и \forall a \ (a \not , а также \forall a \forall b \ (a .
+\begin{align}
+2. \ a = \{x,y\} \Rightarrow a \ne \varnothing \Rightarrow \exist b \ (b \in \{x,y\} \ \land \ \forall c \ (c \in b \to c \notin \{x,y\}))
+\\ \
+\Rightarrow \forall x \forall y \ (x \in y \to y \notin x)
+\\ \
+\Leftrightarrow \forall a \forall b \ (a \in b \to b \notin a)
+\end{align}
+Сравните с высказываниями \forall a \forall b \ (a = b \to b = a) и \forall a \forall b \ (a .
+\begin{align}
+3. \ a = \{x,y,z\} \Rightarrow a \ne \varnothing \Rightarrow \exist b \ (b \in \{x,y,z\} \land \forall c \ (c \in b \to c \notin \{x,y,z\}))
+\\ \
+\Rightarrow \forall a \forall b \forall c \ (a \in b \land b \in c \to c \notin a)
+\end{align}
+Сравните с высказываниями \forall a \forall b \forall c \ (a = b \land b = c \to c = a) и \forall a \forall b \forall c \ (a .
+3.1 Аксиома выбора
+\begin{align} \forall a \ (a \ne \varnothing \land \forall b \ (b \in a \to b \ne \varnothing) \land \forall b_1 \forall b_2 \ (b_1 \ne b_2 \land \{b_1, b_2\} \subseteq a \to b_1 \cap b_2 = \varnothing)
+\\ \
+\to \exist d \forall b \ (b \in a \to \exist c \ (b \cap d = \{c\}) \ ) \ )
+\end{align}
+Примечание
+«Аксиому выбора» можно сформулировать следующим образом: «Из любого семейства непустых попарно непересекающихся множеств можно выбрать „делегацию“, то есть такое множество d , в котором есть по одному элементу c от каждого множества b данного семейства a .»
+Пример
+Предположим, что семейство образовано из множества неотрицательных чётных чисел и множества неотрицательных нечётных чисел. В таком случае, выполнены все условия «аксиомы выбора», а именно:
+1. \quad \{\{0,2,4,\ldots\}, \ \{1,3,5,\ldots\}\} \ne \varnothing ,
+2. \quad \{0,2,4,\ldots\} \ne \varnothing \quad \land \quad \{1,3,5,\ldots\} \ne \varnothing ,
+3. \quad \{0,2,4,\ldots\} \ \cap \ \{1,3,5,\ldots\} = \varnothing .
+Следовательно, можно образовать по меньшей мере одну «делегацию» в составе одного «делегата» (например, числа ноль) от множества \{0,2,4,\ldots\} и одного «делегата» (например, числа один) от множества \{1,3,5,\ldots\} . Действительно:
+\{0,2,4,\ldots\} \ \cap \ \{0,1\} = \{0\} .
+\{1,3,5,\ldots\} \ \cap \ \{0,1\} = \{1\} .
+Примечания
+1. Если ZFC непротиворечива, то её непротиворечивость не может быть доказана средствами ZFC, согласно второй теореме Гёделя.
+Историческая справка
+По-видимому, первоначальный вариант теории множеств, умышленно названный немецким математиком Георгом Кантором учением о множествах, состоял из двух аксиом, а именно:
+1) аксиомы объёмности \forall a_1 \forall a_2 \ (\forall b \ (b \in a_1 \leftrightarrow b \in a_2) \to a_1 = a_2) , которая позволяет сформулировать критерий равенства множеств,
+2) «аксиомы математической свободы» \forall a \exist b \forall c \ (c \in b \leftrightarrow \Phi[a,c]) , которая позволяет создавать множества с помощью «суждения свободы» \Phi[a,c] .
+«Аксиома математической свободы» имеет рациональные следствия, включая следующие:
+\exist b \forall c \ (c \in b \leftrightarrow c \ne c) ,
+\forall a \exist b \forall c \ (c \in b \leftrightarrow c = a) ,
+\forall a \exist b \forall c \ (c \in b \leftrightarrow c = a \ \lor \ c = x) ,
+\forall a \exist b \forall c \ (c \in b \leftrightarrow c \in a \land \Phi[c]) ,
+\forall a \exist b \forall c \ (c \in b \leftrightarrow c \subseteq a) ,
+\forall a \exist b \forall c \ (c \in b \leftrightarrow \exist d \ (d \in a \land c \in d)) .
+В 1903 году английский философ Бертран Рассел обратил внимание на следующее:
+1) руководствуясь «аксиомой математической свободы», невозможно отличить «свободу» от «вседозволенности»,
+2) выбрав в качестве \Phi[a,c] тривиальнейшее математическое суждение c = c , мы получаем высказывание о существовании «множества всех множеств» \exist b \forall c \ (c \in b \leftrightarrow c = c) , от которого «один шаг» до парадокса Рассела.
+Эти критические высказывания о «немецком учении [о множествах]» побудили немецкого математика Эрнста Цермело заменить «аксиому математической свободы» такими её следствиями, которые не вызывали бы протеста у математиков.
+В 1908 году в журнале Mathematische Annalen Эрнст Цермело опубликовал следующие семь аксиом:
+1) аксиому объёмности ();
+2) аксиому о существовании «элементарных множеств» () \varnothing , \{a\} и \{a_1, a_2\} , которую можно записать в следующем виде:
+\exist a \forall b \ (b \notin a) \ \land \ \forall a \exist c \forall b \ (b \in c \leftrightarrow b = a) \ \land \ \forall a_1 \forall a_2 \exist c \forall b \ (b \in c \ \leftrightarrow \ b = a_1 \ \lor \ b = a_2) ;
+3) схему выделения ();
+4) аксиому множества подмножеств ();
+5) аксиому объединения ();
+6) аксиому выбора ();
+7) аксиому бесконечности () в формулировке, отличной от современной формулировки.
+Так «учение о множествах» превратилось в теорию множеств, а именно в теорию ZC [Zermelo set theory with the Axiom of Choice].
+Последняя аксиома теории ZC (аксиома бесконечности) сблизила сторонников Георга Кантора со сторонниками Леопольда Кронекера, которые рассматривали множество натуральных чисел \mathbb{N} как священный грааль математики.
+Предпоследняя аксиома теории ZC (аксиома выбора) стала предметом оживлённых математических дискуссий. Действительно, эта аксиома не является следствием «аксиомы математической свободы».
+В 1922 году немецкий математик Абрахам Френкель и норвежский математик Туральф Скулем дополнили теорию ZC схемой преобразования. В результате теория ZC превратилась в теорию ZFC [Zermelo-Fraenkel set theory with the Axiom of Choice].
+В 1925 году венгерский математик Джон фон Нейман дополнил теорию ZFC аксиомой регулярности. Одно из следствий этой аксиомы ( \forall a \ (a \notin a) ) «похоронило» и «множество всех множеств», и «парадокс Рассела».
+См. также
+Теорема Цермело
+Литература
+Колмогоров А. Н., Драгалин А. Г. Математическая логика. — М.: УРСС, 2005. — 240 с.
+Френкель А. А., Бар-Хиллел И. Основания теории множеств. — М.: Мир, 1966. — 556 с.
+Fraenkel’s final word on ZF and ZFC.
+Ссылки
+Metamath version of the ZFC axioms; A concise and nonredundant axiomatization. The background first order logic is defined especially to facilitate machine verification of proofs
+A derivation in Metamath

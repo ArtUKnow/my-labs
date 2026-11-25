@@ -1,5 +1,6 @@
 {
   "k": 5,
+  "evaluation_documents": 46,
   "systems": [
     {
       "average": {
@@ -195,12 +196,12 @@
     },
     {
       "average": {
-        "p": 0.4333,
-        "r": 0.4449,
-        "ap": 0.4045,
-        "dcg": 5.8676,
-        "ndcg": 0.5258,
-        "err": 0.525
+        "p": 0.4667,
+        "r": 0.4777,
+        "ap": 0.4424,
+        "dcg": 6.217,
+        "ndcg": 0.5546,
+        "err": 0.5509
       },
       "queries": [
         {
@@ -256,8 +257,8 @@
             "ru_wikipedia/Космический_аппарат",
             "ru_wikipedia/Суборбитальный_космический_полёт",
             "ru_wikipedia/Синдром_Кесслера",
-            "ru_wikipedia/Космонавт-исследователь",
-            "ru_wikipedia/Коммерциализация_космической_деятельности"
+            "ru_wikipedia/Коммерциализация_космической_деятельности",
+            "ru_wikipedia/Солнечный_парус"
           ]
         },
         {
@@ -319,19 +320,19 @@
           "query_id": "q7",
           "query": "собаки в космосе",
           "metrics": {
-            "p": 0.2,
-            "r": 0.25,
-            "ap": 0.05,
-            "dcg": 0.3869,
-            "ndcg": 0.0313,
-            "err": 0.025
+            "p": 0.4,
+            "r": 0.5,
+            "ap": 0.1625,
+            "dcg": 3.1386,
+            "ndcg": 0.2542,
+            "err": 0.1844
           },
           "results": [
             "ru_wikipedia/Реклама_в_космосе",
             "ru_wikipedia/Искусственная_сила_тяжести",
             "ru_wikipedia/Коммерциализация_космической_деятельности",
-            "ru_wikipedia/Космическая_разведка",
-            "ru_wikipedia/Список_рекордов_в_космонавтике"
+            "ru_wikipedia/Список_рекордов_в_космонавтике",
+            "ru_wikipedia/Биоспутник"
           ]
         },
         {
@@ -340,14 +341,13 @@
           "metrics": {
             "p": 0.2,
             "r": 0.1667,
-            "ap": 0.0667,
-            "dcg": 0.5,
-            "ndcg": 0.0446,
-            "err": 0.0417
+            "ap": 0.1,
+            "dcg": 0.6309,
+            "ndcg": 0.0563,
+            "err": 0.0625
           },
           "results": [
             "ru_wikipedia/Двигательная_установка_космического_аппарата",
-            "ru_wikipedia/Космическая_геодезия",
             "ru_wikipedia/Автоматическая_межпланетная_станция",
             "ru_wikipedia/Точки_Лагранжа"
           ]
@@ -391,19 +391,19 @@
           "query_id": "q11",
           "query": "interplanetary missions",
           "metrics": {
-            "p": 0.4,
-            "r": 0.2857,
-            "ap": 0.2,
-            "dcg": 3.6457,
-            "ndcg": 0.302,
-            "err": 0.2539
+            "p": 0.6,
+            "r": 0.4286,
+            "ap": 0.4533,
+            "dcg": 4.8869,
+            "ndcg": 0.4048,
+            "err": 0.3829
           },
           "results": [
-            "simple_wikipedia/Flight_dynamics__spacecraft_",
             "simple_wikipedia/Interstellar_travel",
             "ru_wikipedia/Двигательная_установка_космического_аппарата",
             "simple_wikipedia/Interplanetary_spaceflight",
-            "simple_wikipedia/Spaceflight"
+            "simple_wikipedia/Spaceflight",
+            "simple_wikipedia/Gravity_assist"
           ]
         },
         {
@@ -412,17 +412,17 @@
           "metrics": {
             "p": 0.4,
             "r": 0.6667,
-            "ap": 0.5,
-            "dcg": 7.4307,
-            "ndcg": 0.9139,
-            "err": 0.8789
+            "ap": 0.5556,
+            "dcg": 7.5,
+            "ndcg": 0.9224,
+            "err": 0.8802
           },
           "results": [
             "simple_wikipedia/Laika",
             "simple_wikipedia/Exploration_of_Mars",
-            "simple_wikipedia/Centre_national_d_études_spatiales",
             "simple_wikipedia/Spaceflight",
-            "simple_wikipedia/Ariane_5"
+            "simple_wikipedia/Ariane_5",
+            "simple_wikipedia/Kessler_Syndrome"
           ]
         }
       ],
@@ -430,12 +430,12 @@
     },
     {
       "average": {
-        "p": 0.4833,
-        "r": 0.502,
-        "ap": 0.4642,
-        "dcg": 7.0329,
-        "ndcg": 0.6155,
-        "err": 0.6779
+        "p": 0.5167,
+        "r": 0.5347,
+        "ap": 0.5051,
+        "dcg": 7.2768,
+        "ndcg": 0.6359,
+        "err": 0.6928
       },
       "queries": [
         {
@@ -480,19 +480,19 @@
           "query_id": "q3",
           "query": "космическим мусором",
           "metrics": {
-            "p": 0.2,
-            "r": 0.25,
-            "ap": 0.125,
-            "dcg": 4.4165,
-            "ndcg": 0.3577,
-            "err": 0.4375
+            "p": 0.4,
+            "r": 0.5,
+            "ap": 0.225,
+            "dcg": 4.8034,
+            "ndcg": 0.389,
+            "err": 0.4406
           },
           "results": [
             "ru_wikipedia/Реклама_в_космосе",
             "ru_wikipedia/Синдром_Кесслера",
-            "ru_wikipedia/Космическая_археология",
             "ru_wikipedia/Страхование_космических_рисков",
-            "ru_wikipedia/Космическая_навигация"
+            "ru_wikipedia/Космическая_навигация",
+            "ru_wikipedia/Космический_аппарат"
           ]
         },
         {
@@ -520,17 +520,17 @@
           "metrics": {
             "p": 0.6,
             "r": 0.75,
-            "ap": 0.65,
-            "dcg": 9.2796,
-            "ndcg": 0.9446,
-            "err": 0.9004
+            "ap": 0.6875,
+            "dcg": 9.3235,
+            "ndcg": 0.9491,
+            "err": 0.9009
           },
           "results": [
             "ru_wikipedia/Солнечный_парус",
             "ru_wikipedia/Двигательная_установка_космического_аппарата",
             "ru_wikipedia/Космический_аппарат",
-            "ru_wikipedia/Спектрометр_солнечного_ветра",
-            "ru_wikipedia/Автоматическая_межпланетная_станция"
+            "ru_wikipedia/Автоматическая_межпланетная_станция",
+            "ru_wikipedia/Точки_Лагранжа"
           ]
         },
         {
@@ -587,7 +587,7 @@
             "ru_wikipedia/Двигательная_установка_космического_аппарата",
             "ru_wikipedia/Автоматическая_межпланетная_станция",
             "ru_wikipedia/Точки_Лагранжа",
-            "ru_wikipedia/Космическая_геодезия"
+            "ru_wikipedia/Невесомость"
           ]
         },
         {
@@ -620,29 +620,29 @@
           },
           "results": [
             "ru_wikipedia/Список_рекордов_в_космонавтике",
-            "ru_wikipedia/Космическая_разведка",
             "ru_wikipedia/Микрогравитация",
             "ru_wikipedia/Двигательная_установка_космического_аппарата",
-            "ru_wikipedia/Ракета"
+            "ru_wikipedia/Ракета",
+            "ru_wikipedia/Суборбитальный_космический_полёт"
           ]
         },
         {
           "query_id": "q11",
           "query": "interplanetary missions",
           "metrics": {
-            "p": 0.4,
-            "r": 0.2857,
-            "ap": 0.18,
-            "dcg": 3.3389,
-            "ndcg": 0.2766,
-            "err": 0.2156
+            "p": 0.6,
+            "r": 0.4286,
+            "ap": 0.4833,
+            "dcg": 5.792,
+            "ndcg": 0.4798,
+            "err": 0.3905
           },
           "results": [
-            "simple_wikipedia/Flight_dynamics__spacecraft_",
             "simple_wikipedia/Interstellar_travel",
-            "ru_wikipedia/Космическая_археология",
             "ru_wikipedia/Двигательная_установка_космического_аппарата",
-            "simple_wikipedia/Interplanetary_spaceflight"
+            "simple_wikipedia/Interplanetary_spaceflight",
+            "simple_wikipedia/InSight",
+            "simple_wikipedia/Spaceflight"
           ]
         },
         {
@@ -651,17 +651,17 @@
           "metrics": {
             "p": 0.6,
             "r": 1.0,
-            "ap": 0.8667,
-            "dcg": 8.0178,
-            "ndcg": 0.9861,
-            "err": 0.8855
+            "ap": 0.9167,
+            "dcg": 8.0616,
+            "ndcg": 0.9915,
+            "err": 0.8862
           },
           "results": [
             "simple_wikipedia/Laika",
             "simple_wikipedia/Félicette",
             "simple_wikipedia/Exploration_of_Mars",
-            "simple_wikipedia/Centre_national_d_études_spatiales",
-            "simple_wikipedia/Spaceflight"
+            "simple_wikipedia/Spaceflight",
+            "simple_wikipedia/Ariane_5"
           ]
         }
       ],
@@ -669,12 +669,12 @@
     },
     {
       "average": {
-        "p": 0.4667,
-        "r": 0.4881,
-        "ap": 0.4376,
-        "dcg": 6.581,
-        "ndcg": 0.5804,
-        "err": 0.6263
+        "p": 0.5,
+        "r": 0.5208,
+        "ap": 0.4785,
+        "dcg": 6.8249,
+        "ndcg": 0.6007,
+        "err": 0.6413
       },
       "queries": [
         {
@@ -719,19 +719,19 @@
           "query_id": "q3",
           "query": "космическим мусором",
           "metrics": {
-            "p": 0.2,
-            "r": 0.25,
-            "ap": 0.125,
-            "dcg": 4.4165,
-            "ndcg": 0.3577,
-            "err": 0.4375
+            "p": 0.4,
+            "r": 0.5,
+            "ap": 0.225,
+            "dcg": 4.8034,
+            "ndcg": 0.389,
+            "err": 0.4406
           },
           "results": [
             "ru_wikipedia/Реклама_в_космосе",
             "ru_wikipedia/Синдром_Кесслера",
-            "ru_wikipedia/Космическая_археология",
             "ru_wikipedia/Страхование_космических_рисков",
-            "ru_wikipedia/Космическая_навигация"
+            "ru_wikipedia/Космическая_навигация",
+            "ru_wikipedia/Космический_аппарат"
           ]
         },
         {
@@ -759,17 +759,17 @@
           "metrics": {
             "p": 0.6,
             "r": 0.75,
-            "ap": 0.65,
-            "dcg": 9.2796,
-            "ndcg": 0.9446,
-            "err": 0.9004
+            "ap": 0.6875,
+            "dcg": 9.3235,
+            "ndcg": 0.9491,
+            "err": 0.9009
           },
           "results": [
             "ru_wikipedia/Солнечный_парус",
             "ru_wikipedia/Двигательная_установка_космического_аппарата",
             "ru_wikipedia/Космический_аппарат",
-            "ru_wikipedia/Спектрометр_солнечного_ветра",
-            "ru_wikipedia/Автоматическая_межпланетная_станция"
+            "ru_wikipedia/Автоматическая_межпланетная_станция",
+            "ru_wikipedia/Точки_Лагранжа"
           ]
         },
         {
@@ -826,7 +826,7 @@
             "ru_wikipedia/Двигательная_установка_космического_аппарата",
             "ru_wikipedia/Автоматическая_межпланетная_станция",
             "ru_wikipedia/Точки_Лагранжа",
-            "ru_wikipedia/Космическая_геодезия"
+            "ru_wikipedia/Невесомость"
           ]
         },
         {
@@ -859,29 +859,29 @@
           },
           "results": [
             "ru_wikipedia/Список_рекордов_в_космонавтике",
-            "ru_wikipedia/Космическая_разведка",
             "ru_wikipedia/Микрогравитация",
             "ru_wikipedia/Двигательная_установка_космического_аппарата",
-            "ru_wikipedia/Ракета"
+            "ru_wikipedia/Ракета",
+            "ru_wikipedia/Суборбитальный_космический_полёт"
           ]
         },
         {
           "query_id": "q11",
           "query": "interplanetary missions",
           "metrics": {
-            "p": 0.4,
-            "r": 0.2857,
-            "ap": 0.18,
-            "dcg": 3.3389,
-            "ndcg": 0.2766,
-            "err": 0.2156
+            "p": 0.6,
+            "r": 0.4286,
+            "ap": 0.4833,
+            "dcg": 5.792,
+            "ndcg": 0.4798,
+            "err": 0.3905
           },
           "results": [
-            "simple_wikipedia/Flight_dynamics__spacecraft_",
             "simple_wikipedia/Interstellar_travel",
-            "ru_wikipedia/Космическая_археология",
             "ru_wikipedia/Двигательная_установка_космического_аппарата",
-            "simple_wikipedia/Interplanetary_spaceflight"
+            "simple_wikipedia/Interplanetary_spaceflight",
+            "simple_wikipedia/InSight",
+            "simple_wikipedia/Spaceflight"
           ]
         },
         {
@@ -890,17 +890,17 @@
           "metrics": {
             "p": 0.6,
             "r": 1.0,
-            "ap": 0.8667,
-            "dcg": 8.0178,
-            "ndcg": 0.9861,
-            "err": 0.8855
+            "ap": 0.9167,
+            "dcg": 8.0616,
+            "ndcg": 0.9915,
+            "err": 0.8862
           },
           "results": [
             "simple_wikipedia/Laika",
             "simple_wikipedia/Félicette",
             "simple_wikipedia/Exploration_of_Mars",
-            "simple_wikipedia/Centre_national_d_études_spatiales",
-            "simple_wikipedia/Spaceflight"
+            "simple_wikipedia/Spaceflight",
+            "simple_wikipedia/Ariane_5"
           ]
         }
       ],

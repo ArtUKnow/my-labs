@@ -1,0 +1,13 @@
+Anaerobic organism
+. They gather at the top of the tube where its concentration is highest. 2: Obligate anaerobes are poisoned by oxygen, so they gather at the bottom of the tube where the oxygen concentration is lowest. 3: Facultative anaerobes can grow anywhere in tube, but they gather mostly at the top because they have more energy with oxygen. 4: Microaerophiles need oxygen: they cannot ferment or respire anaerobically. However, they are poisoned by high concentrations of oxygen. They gather in the upper part of the test tube but not the very top. 5: Aerotolerant organisms do not need oxygen as they metabolise energy anaerobically. But, unlike obligate anaerobes, they are not poisoned by oxygen. They are found evenly spread throughout the test tube]]
+An anaerobic organism is any living thing that does not need oxygen for growth.
+Obligate anaerobes will die when exposed to atmospheric levels of oxygen.
+Facultative anaerobes can use oxygen when it is present.
+Aerotolerant organisms can survive in the presence of oxygen, but they are anaerobic because they do not use oxygen as a terminal electron acceptor.
+Microaerophiles are organisms that may use oxygen, but only at low concentrations (low micromolar range); their growth is inhibited by normal oxygen concentrations (approximately 200 micromolar). Nanaerobes are organisms that cannot grow in the presence of micromolar concentrations of oxygen, but can grow with and benefit from nanomolar concentrations of oxygen.
+Obligate anaerobes may use fermentation or anaerobic respiration. In the presence of oxygen, facultative anaerobes use aerobic respiration; without oxygen some of them ferment, some use anaerobic respiration. Aerotolerant organisms are strictly fermentative. Microaerophiles carry out aerobic respiration, and some of them can also do anaerobic respiration.
+Some anaerobic bacteria produce toxins (e.g., tetanus or botulinum toxins) that are highly dangerous to higher organisms, including humans.
+Related pages
+Cellular respiration
+Anaerobic digestion
+Biogas

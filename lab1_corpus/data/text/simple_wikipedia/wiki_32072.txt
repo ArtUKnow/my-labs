@@ -1,0 +1,42 @@
+Polish–Lithuanian Commonwealth
+legislature = General sejm
+house1 = Senate
+type_house1 = Privy council
+title_leader = King / Grand Duke
+leader1 = Sigismund II Augustus (first)
+year_leader1 = 1569–1572
+leader2 = Stanisław August Poniatowski (last)
+year_leader2 = 1764–1795
+religion = Official: Roman Catholicism
+capital = * Kraków (1569–1793)
+Warsaw (1793–1795)
+Kraków (1569–1596)
+Warsaw (1596–1795)
+stat_area1
+stat_year1
+ref_area1
+stat_area2 = 815000
+stat_pop2 = ~8,000,000
+stat_year2 = 1582
+stat_area3 = 1000000
+stat_pop3 = ~12,000,000
+stat_year3 = 1618
+ref_area3
+national_motto
+national_anthem = Gaude Mater Polonia "Rejoice, oh Mother Poland"
+common_languages = Official: Polish and Latin
+today
+The Polish–Lithuanian Commonwealth, formally known as the Crown of the Kingdom of Poland and the Grand Duchy of Lithuania and, after 1791, the Commonwealth of Poland, was a state of Poland and Lithuania that was ruled by a common monarch. The Commonwealth was an extension of the Polish-Lithuanian Union, a personal union between those two states that had existed from 1386. It was one of the largest countries in Europe in the 16th and the 17th centuries and had one of the largest populations. The Commonwealth covered more than the present lands of Poland and Lithuania since it also had all of present-day Belarus, a large part of present-day Ukraine and Latvia, and the western part of present-day Russia.
+The Commonwealth had high levels of ethnic diversity and religious tolerance. However, the amount of religious freedom varied over time.
+After several decades of prosperity, the Commonwealth found itself under sustained, combined assault from its neighbors. It entered a period of political, military and economic decline. The Commonwealth ended with the final partition of Poland in 1795. Its growing weakness had led to it being invaded and divided by its more powerful neighbors: Austria, Prussia and Russia.
+Some information
+In Poland, the official languages were Polish and Latin. In Lithuania, the official languages were Old Belarusian, Latin, and Lithuanian.
+The Commonwealth was one of largest countries of its time. It had a large population and at one time covered about 400,000 square miles. Its population was around 11 million. People of different ethnicities lived in the Commonwealth.
+For about 200 years, the Commonwealth fought wars with other powers of Europe of that time: Muscovy Russians, the Ottoman Empire, and the Swedish Empire.
+The Commonwealth developed a system of laws and legislature that reduced the power of the monarch. Some concepts of democracy also developed in the Commonwealth like constitutional monarchy.
+In theory, the two countries of the Commonwealth were equal, but Poland had a leading role.
+The Commonwealth had a major influence of the Catholic Church. However, the government allowed people to practice different religions and so there were many religions in the Commonwealth.
+The Commonwealth also produced a national constitution, which was the first in Europe.
+Agriculture was the main economic activity in the Commonwealth.
+References
+Notes

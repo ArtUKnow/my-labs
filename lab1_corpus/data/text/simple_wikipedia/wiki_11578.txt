@@ -1,0 +1,20 @@
+Montgomery, Alabama
+area_code = 334
+blank_name = FIPS code
+blank_info = 01-51000
+blank1_name = GNIS feature ID
+blank1_info = 0165344
+website
+Montgomery is the capital city of the state of Alabama in the United States. It is on the Alabama River. In 2020, 200,603 people lived there, making it the third-most populated city in Alabama after Huntsville, Alabama, which had 215,006, and Birmingham which had 200,733.
+History
+Montgomery was started on December 3, 1819 by merging New Philadelphia and East Alabama Town. The city became a county seat in 1822. On January 28, 1846, the state capital was moved from Tuscaloosa to Montgomery. For a few months in 1861 Montgomery was the capital of the Confederate States of America.
+Since 2023 or earlier, parts of Alabama were changing things named after the confederacy and confederates, including their leader (Robert E. Lee). Street names, statues and schools were renamed or removed. The Dr. Percy L. Julian High School is the new name of the Robert E. Lee High School in Montgomery.
+Notable natives and residents
+Martin Luther King, Jr., civil rights advocate
+Nat King Cole, jazz pianist & singer
+Rosa Parks
+Bart Starr, Pro Football Hall of Famer
+References
+Other websites
+Montgomery -Wikivoyage
+City of Montgomery, Alabama

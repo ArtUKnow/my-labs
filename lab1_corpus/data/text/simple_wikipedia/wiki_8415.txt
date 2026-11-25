@@ -1,0 +1,11 @@
+Cardinal number
+Cardinal numbers (or cardinals) are numbers that say how many of something there are, for example: one, two, three, four, five, six. They are sometimes called counting numbers.
+The cardinality of a set is the cardinal number that tells us, roughly speaking, the size of the set.
+In mathematics, people also study infinite cardinal numbers. The first and smallest infinite cardinal number was named \aleph_0 (pronounced "Aleph null", "Aleph-zero" or "Aleph-naught") by Georg Cantor. \aleph_0 is the number of numbers that are in the group 0, 1, 2, 3, ... (which goes on forever). Both the set of natural numbers and the set of rational numbers are of size \aleph_0 (that is, they are both countable). Cantor proved that there are many different infinite cardinal numbers that are bigger than \aleph_0 ; the next one is called \aleph_1 ("Aleph-one"), then \aleph_2 , and so on.
+Another infinite cardinal number is the number of numbers in the set of real numbers, and is represented by the symbol \mathfrak{c} , the cardinality of the continuum. A famous theorem of Cantor is that the cardinality of the real numbers is larger than the cardinality of the natural numbers. He proved this by showing that if one pairs up all the natural numbers with real numbers one-to-one, then there will always be a real number that did not get paired up, which means there must be more of them.
+The continuum hypothesis is the statement that there is no middle cardinal number strictly between that of natural numbers and real numbers (or in other words, that \mathfrak{c} must be equal to the cardinal number right after \aleph_0 , called \aleph_1 , and not something bigger). Paul Cohen and Kurt Gödel showed that one cannot prove the continuum hypothesis to be true or false using only the standard rules of set theory.
+Related pages
+Cardinal numeral
+Ordinal number
+Names for ordinal numbers
+References

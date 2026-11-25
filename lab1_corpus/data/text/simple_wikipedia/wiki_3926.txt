@@ -1,0 +1,16 @@
+Area
+Area is the amount of space a two dimensional (flat) surface takes up. It is useful because it is how much of a material is needed to make a hollow container. Area is the amount of surface covered by a close object or shape.
+Some units used to measure area are square foot, square mile, square metre and square kilometre. The area of a planar figure is often written as A . Areas of regular shapes such as square, rectangle, triangle and circle can be calculated through formulas. The area of an irregular shape can be approximated through grid or graph paper.
+One can use different formulas to find the area of different shapes. For example:
+]]
+The area of a rectangle is the length of any two touching sides multiplied together. In other words, length times width.
+The area of a triangle is half of the product of the base and the perpendicular height. In other words, A = \tfrac{1}{2} bh .
+The area of a circle: A = \pi r^2
+The area of a flat object is related to the surface area and volume of a three-dimensional object.
+The area under a curve can be found using integration, a concept from calculus.
+Perimeter and Area
+As demonstrated with honeycombs, the best shape to have when you want plenty of area with little perimeter is the circle, with the hexagon being a good alternative.
+If you want a lot of perimeter and just a little area, simply make the shape into a square, then make it twice as long and half as wide.
+Related pages
+Mu (unit of area)
+References

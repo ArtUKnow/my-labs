@@ -1,0 +1,6 @@
+Kilobyte
+The kilobyte (kB) is a unit used to measure storage space on computer hard drives or computer memory equal to 1000 bytes. The International Electrotechnical Commission (IEC) currently defines the kilobyte as being 1000 bytes. According to the IEC, the correct name for 1024 bytes is the kibibyte. This naming convention, however, is not commonly used.
+One thousand kilobytes make one megabyte.
+References
+External links
+kB art

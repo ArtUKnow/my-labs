@@ -1,0 +1,12 @@
+Metronome
+A metronome is a small device that can be used by people who are practising instruments to help them to play in time. It is also something a composer can use to show the performer what speed to play.
+A traditional metronome works by clockwork. It has a pendulum which makes a loud tick as it goes to and fro, like the pendulum of a grandfather clock.
+Old pendulums, requiring no external power, had to be wound up after a few minutes of ticking.
+There is a weight on the pendulum which can be slid up or down and set to a particular speed. There are numbers on the metronome to which you can set it. These numbers mean the number of ticks per minutes. A speed of 60 will make it tick 60 times a minute (i.e. every second). The numbers usually go from 40 (slow) to 208 (very fast).
+Nowadays electronic metronomes are quite common. These are very accurate, do not need to be wound, and often have other helpful things like a musical note (such as A) to tune to (see musical tuning). Some metronomes are as small as a playing card.
+The metronome was invented by Dietrich Nikolaus Winkel in Amsterdam in 1812. A man called Johann Maelzel copied Winkel’s ideas and improved them; he made a small, portable metronome which he patented in 1816.
+The metronome made it possible for a composer to show the performer what speed the composer intended the music to be played at. If the composer writes at the top of his music: Crotchet (quarter note) = 76, for example, then the metronome can be set at 76 and it will tick at the right speed for that piece of music. This is far more accurate than standard musical notation not using a metronome. Sometimes they write "MM76". The "MM" stands for "Maelzel's Metronome".
+Ludwig van Beethoven was the first composer to use metronome markings, although Beethoven often provided very fast speed indications, leading some to wonder whether he had made mistakes, or if his metronome worked improperly.
+Related pages
+Beat (music)
+Rhythm

@@ -98,9 +98,10 @@ def main():
     from search import SimpleSearch, load_documents, TEXT_DIR, TOKENS_DIR
     from lemmatizer import load_vocabulary
 
-    documents = load_documents(TEXT_DIR)
-    vocabulary = load_vocabulary(TOKENS_DIR)
-    report = {"k": k, "systems": []}
+    labeled_ids = {doc_id for grades in qrels.values() for doc_id in grades}
+    documents = load_documents(TEXT_DIR, labeled_ids)
+    vocabulary = load_vocabulary(TOKENS_DIR, labeled_ids)
+    report = {"k": k, "evaluation_documents": len(documents), "systems": []}
     systems = []
     if os.path.exists(WIKI_PATH):
         systems.append(("wikipedia", load_run(open(WIKI_PATH, encoding="utf-8"))))
