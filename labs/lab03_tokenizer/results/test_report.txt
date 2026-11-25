@@ -1,0 +1,31 @@
+test_stdin_stdout (__main__.TestCli.test_stdin_stdout) ... ok
+test_stats (__main__.TestCorpusRun.test_stats) ... /Users/alexganyak/Documents/Codex/2026-11-25/files-mentioned-by-the-user-python/work/python-labs-and-web-dashboard/labs/lab03_tokenizer/tokenize_corpus.py:40: ResourceWarning: unclosed file <_io.TextIOWrapper name='/var/folders/g6/q7ypm1kn7b36np4md8krwc5r0000gn/T/tmp3byn01z3/text/src/a.txt' mode='r' encoding='utf-8'>
+  text = open(path, encoding="utf-8").read()
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/Users/alexganyak/Documents/Codex/2026-11-25/files-mentioned-by-the-user-python/work/python-labs-and-web-dashboard/labs/lab03_tokenizer/tokenize_corpus.py:40: ResourceWarning: unclosed file <_io.TextIOWrapper name='/var/folders/g6/q7ypm1kn7b36np4md8krwc5r0000gn/T/tmp3byn01z3/text/src/b.txt' mode='r' encoding='utf-8'>
+  text = open(path, encoding="utf-8").read()
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/Users/alexganyak/Documents/Codex/2026-11-25/files-mentioned-by-the-user-python/work/python-labs-and-web-dashboard/labs/lab03_tokenizer/test_lab03.py:99: ResourceWarning: unclosed file <_io.TextIOWrapper name='/var/folders/g6/q7ypm1kn7b36np4md8krwc5r0000gn/T/tmp3byn01z3/tokens/src/b.txt' mode='r' encoding='utf-8'>
+  out = open(os.path.join(self.tmp, "tokens", "src", "b.txt"), encoding="utf-8").read()
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+ok
+test_apostrophe (__main__.TestTokenizer.test_apostrophe) ... ok
+test_dash_as_separator (__main__.TestTokenizer.test_dash_as_separator) ... ok
+test_dates (__main__.TestTokenizer.test_dates) ... ok
+test_decimal_numbers (__main__.TestTokenizer.test_decimal_numbers) ... ok
+test_dot_end_of_sentence (__main__.TestTokenizer.test_dot_end_of_sentence) ... ok
+test_empty (__main__.TestTokenizer.test_empty) ... ok
+test_hyphen_inside_word (__main__.TestTokenizer.test_hyphen_inside_word) ... ok
+test_hyphen_with_digits (__main__.TestTokenizer.test_hyphen_with_digits) ... ok
+test_lowercase (__main__.TestTokenizer.test_lowercase) ... ok
+test_mixed_scripts (__main__.TestTokenizer.test_mixed_scripts) ... ok
+test_only_punctuation (__main__.TestTokenizer.test_only_punctuation) ... ok
+test_punctuation (__main__.TestTokenizer.test_punctuation) ... ok
+test_simple_words (__main__.TestTokenizer.test_simple_words) ... ok
+test_token_kind (__main__.TestTokenizer.test_token_kind) ... ok
+test_unicode_letters (__main__.TestTokenizer.test_unicode_letters) ... ok
+
+----------------------------------------------------------------------
+Ran 17 tests in 0.021s
+
+OK

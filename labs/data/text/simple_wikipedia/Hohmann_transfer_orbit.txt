@@ -1,0 +1,12 @@
+Hohmann transfer orbit
+In orbital mechanics, a Hohmann transfer orbit moves a spacecraft between orbiting heights. It is the most fuel-efficient method to do so, because the spacecraft is not trying to escape the planet's gravity, using an elliptical orbit for the transfer.
+A ship using this would have to apply two velocities, one to enter the elliptical orbit, and one to enter the second orbit.
+Calculation
+Assuming the mass of the spacecraft is much lower than that of the orbiting planet, the two velocities, Δv1 and Δv2, can be solved for as:Δv1=MGr1(2r2r1+r2−1),Δv2=MGr2(1−2r1r1+r2),where
+M is the mass of the planet,
+G is the universal gravitational constant, and
+r1 and r2 are the initial and final distances from the center of the planet.
+Applications
+Satellites can be moved into their proper height using a Hohmann transfer orbit.
+A lunar transfer orbit (LTO) is used to reach the moon.
+The Interplanetary Transport Network uses more than one body and requires lower velocity changes, and thus less fuel.

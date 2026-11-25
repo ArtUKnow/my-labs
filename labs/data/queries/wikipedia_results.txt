@@ -1,0 +1,14 @@
+q1	ru_wikipedia/Ракета	1
+q2	ru_wikipedia/Невесомость	1
+q2	ru_wikipedia/Искусственная_сила_тяжести	2
+q3	ru_wikipedia/Синдром_Кесслера	1
+q4	ru_wikipedia/Мягкая_посадка	1
+q5	ru_wikipedia/Солнечный_парус	1
+q5	ru_wikipedia/Двигательная_установка_космического_аппарата	2
+q8	ru_wikipedia/Автоматическая_межпланетная_станция	1
+q8	ru_wikipedia/Пролётная_аномалия	2
+q9	ru_wikipedia/Точки_Лагранжа	1
+q11	simple_wikipedia/Interstellar_travel	1
+q11	simple_wikipedia/Flight_dynamics__spacecraft_	2
+q11	simple_wikipedia/Wernher_von_Braun	3
+q12	simple_wikipedia/Laika	1

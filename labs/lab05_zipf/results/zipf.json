@@ -1,0 +1,1352 @@
+{
+  "unique_terms": 12740,
+  "total_tokens": 43415,
+  "hapax_legomena": 8087,
+  "hapax_share": 0.6348,
+  "zipf": {
+    "c": 1585.469,
+    "s": 0.8128,
+    "error": 0.04005
+  },
+  "zipf_simple": {
+    "c": 1127,
+    "s": 1.0,
+    "error": 3.774
+  },
+  "mandelbrot": {
+    "c": 1422.29,
+    "s": 0.8,
+    "b": 0.0,
+    "error": 0.04021
+  },
+  "top_terms": [
+    {
+      "term": "в",
+      "freq": 1127
+    },
+    {
+      "term": "и",
+      "freq": 851
+    },
+    {
+      "term": "the",
+      "freq": 614
+    },
+    {
+      "term": "на",
+      "freq": 612
+    },
+    {
+      "term": "с",
+      "freq": 409
+    },
+    {
+      "term": "для",
+      "freq": 295
+    },
+    {
+      "term": "of",
+      "freq": 293
+    },
+    {
+      "term": "года",
+      "freq": 261
+    },
+    {
+      "term": "to",
+      "freq": 228
+    },
+    {
+      "term": "a",
+      "freq": 210
+    },
+    {
+      "term": "space",
+      "freq": 187
+    },
+    {
+      "term": "архивировано",
+      "freq": 187
+    },
+    {
+      "term": "and",
+      "freq": 184
+    },
+    {
+      "term": "in",
+      "freq": 177
+    },
+    {
+      "term": "обращения",
+      "freq": 176
+    },
+    {
+      "term": "от",
+      "freq": 172
+    },
+    {
+      "term": "дата",
+      "freq": 170
+    },
+    {
+      "term": "по",
+      "freq": 151
+    },
+    {
+      "term": "а",
+      "freq": 144
+    },
+    {
+      "term": "к",
+      "freq": 143
+    },
+    {
+      "term": "при",
+      "freq": 132
+    },
+    {
+      "term": "1",
+      "freq": 126
+    },
+    {
+      "term": "или",
+      "freq": 123
+    },
+    {
+      "term": "как",
+      "freq": 121
+    },
+    {
+      "term": "также",
+      "freq": 121
+    },
+    {
+      "term": "из",
+      "freq": 119
+    },
+    {
+      "term": "году",
+      "freq": 112
+    },
+    {
+      "term": "что",
+      "freq": 109
+    },
+    {
+      "term": "земли",
+      "freq": 107
+    },
+    {
+      "term": "космических",
+      "freq": 104
+    }
+  ],
+  "points": [
+    {
+      "rank": 1,
+      "freq": 1127,
+      "zipf": 1585.469,
+      "mandelbrot": 1422.29
+    },
+    {
+      "rank": 2,
+      "freq": 851,
+      "zipf": 902.539,
+      "mandelbrot": 816.891
+    },
+    {
+      "rank": 3,
+      "freq": 614,
+      "zipf": 649.128,
+      "mandelbrot": 590.597
+    },
+    {
+      "rank": 4,
+      "freq": 612,
+      "zipf": 513.776,
+      "mandelbrot": 469.181
+    },
+    {
+      "rank": 5,
+      "freq": 409,
+      "zipf": 428.549,
+      "mandelbrot": 392.475
+    },
+    {
+      "rank": 6,
+      "freq": 295,
+      "zipf": 369.52,
+      "mandelbrot": 339.209
+    },
+    {
+      "rank": 7,
+      "freq": 293,
+      "zipf": 326.002,
+      "mandelbrot": 299.854
+    },
+    {
+      "rank": 8,
+      "freq": 261,
+      "zipf": 292.47,
+      "mandelbrot": 269.474
+    },
+    {
+      "rank": 9,
+      "freq": 228,
+      "zipf": 265.768,
+      "mandelbrot": 245.242
+    },
+    {
+      "rank": 10,
+      "freq": 210,
+      "zipf": 243.954,
+      "mandelbrot": 225.418
+    },
+    {
+      "rank": 11,
+      "freq": 187,
+      "zipf": 225.768,
+      "mandelbrot": 208.869
+    },
+    {
+      "rank": 12,
+      "freq": 187,
+      "zipf": 210.352,
+      "mandelbrot": 194.824
+    },
+    {
+      "rank": 13,
+      "freq": 184,
+      "zipf": 197.102,
+      "mandelbrot": 182.74
+    },
+    {
+      "rank": 14,
+      "freq": 177,
+      "zipf": 185.579,
+      "mandelbrot": 172.221
+    },
+    {
+      "rank": 15,
+      "freq": 176,
+      "zipf": 175.458,
+      "mandelbrot": 162.973
+    },
+    {
+      "rank": 16,
+      "freq": 172,
+      "zipf": 166.491,
+      "mandelbrot": 154.772
+    },
+    {
+      "rank": 17,
+      "freq": 170,
+      "zipf": 158.485,
+      "mandelbrot": 147.445
+    },
+    {
+      "rank": 18,
+      "freq": 151,
+      "zipf": 151.29,
+      "mandelbrot": 140.854
+    },
+    {
+      "rank": 19,
+      "freq": 144,
+      "zipf": 144.785,
+      "mandelbrot": 134.892
+    },
+    {
+      "rank": 20,
+      "freq": 143,
+      "zipf": 138.873,
+      "mandelbrot": 129.469
+    },
+    {
+      "rank": 21,
+      "freq": 132,
+      "zipf": 133.473,
+      "mandelbrot": 124.512
+    },
+    {
+      "rank": 22,
+      "freq": 126,
+      "zipf": 128.52,
+      "mandelbrot": 119.964
+    },
+    {
+      "rank": 23,
+      "freq": 123,
+      "zipf": 123.959,
+      "mandelbrot": 115.773
+    },
+    {
+      "rank": 24,
+      "freq": 121,
+      "zipf": 119.744,
+      "mandelbrot": 111.897
+    },
+    {
+      "rank": 25,
+      "freq": 121,
+      "zipf": 115.836,
+      "mandelbrot": 108.302
+    },
+    {
+      "rank": 26,
+      "freq": 119,
+      "zipf": 112.201,
+      "mandelbrot": 104.957
+    },
+    {
+      "rank": 27,
+      "freq": 112,
+      "zipf": 108.812,
+      "mandelbrot": 101.835
+    },
+    {
+      "rank": 28,
+      "freq": 109,
+      "zipf": 105.642,
+      "mandelbrot": 98.915
+    },
+    {
+      "rank": 29,
+      "freq": 107,
+      "zipf": 102.671,
+      "mandelbrot": 96.177
+    },
+    {
+      "rank": 30,
+      "freq": 104,
+      "zipf": 99.881,
+      "mandelbrot": 93.603
+    },
+    {
+      "rank": 31,
+      "freq": 104,
+      "zipf": 97.254,
+      "mandelbrot": 91.18
+    },
+    {
+      "rank": 32,
+      "freq": 103,
+      "zipf": 94.776,
+      "mandelbrot": 88.893
+    },
+    {
+      "rank": 33,
+      "freq": 102,
+      "zipf": 92.435,
+      "mandelbrot": 86.732
+    },
+    {
+      "rank": 34,
+      "freq": 97,
+      "zipf": 90.219,
+      "mandelbrot": 84.685
+    },
+    {
+      "rank": 35,
+      "freq": 96,
+      "zipf": 88.118,
+      "mandelbrot": 82.743
+    },
+    {
+      "rank": 36,
+      "freq": 96,
+      "zipf": 86.123,
+      "mandelbrot": 80.9
+    },
+    {
+      "rank": 37,
+      "freq": 91,
+      "zipf": 84.226,
+      "mandelbrot": 79.146
+    },
+    {
+      "rank": 38,
+      "freq": 91,
+      "zipf": 82.42,
+      "mandelbrot": 77.475
+    },
+    {
+      "rank": 39,
+      "freq": 81,
+      "zipf": 80.698,
+      "mandelbrot": 75.882
+    },
+    {
+      "rank": 40,
+      "freq": 75,
+      "zipf": 79.054,
+      "mandelbrot": 74.36
+    },
+    {
+      "rank": 41,
+      "freq": 75,
+      "zipf": 77.483,
+      "mandelbrot": 72.906
+    },
+    {
+      "rank": 42,
+      "freq": 75,
+      "zipf": 75.98,
+      "mandelbrot": 71.514
+    },
+    {
+      "rank": 43,
+      "freq": 75,
+      "zipf": 74.541,
+      "mandelbrot": 70.18
+    },
+    {
+      "rank": 44,
+      "freq": 74,
+      "zipf": 73.161,
+      "mandelbrot": 68.901
+    },
+    {
+      "rank": 45,
+      "freq": 73,
+      "zipf": 71.837,
+      "mandelbrot": 67.673
+    },
+    {
+      "rank": 46,
+      "freq": 71,
+      "zipf": 70.565,
+      "mandelbrot": 66.494
+    },
+    {
+      "rank": 47,
+      "freq": 70,
+      "zipf": 69.342,
+      "mandelbrot": 65.36
+    },
+    {
+      "rank": 48,
+      "freq": 69,
+      "zipf": 68.165,
+      "mandelbrot": 64.268
+    },
+    {
+      "rank": 49,
+      "freq": 67,
+      "zipf": 67.032,
+      "mandelbrot": 63.217
+    },
+    {
+      "rank": 50,
+      "freq": 66,
+      "zipf": 65.94,
+      "mandelbrot": 62.203
+    },
+    {
+      "rank": 51,
+      "freq": 65,
+      "zipf": 64.888,
+      "mandelbrot": 61.225
+    },
+    {
+      "rank": 52,
+      "freq": 62,
+      "zipf": 63.871,
+      "mandelbrot": 60.282
+    },
+    {
+      "rank": 53,
+      "freq": 61,
+      "zipf": 62.89,
+      "mandelbrot": 59.37
+    },
+    {
+      "rank": 54,
+      "freq": 57,
+      "zipf": 61.942,
+      "mandelbrot": 58.489
+    },
+    {
+      "rank": 55,
+      "freq": 56,
+      "zipf": 61.025,
+      "mandelbrot": 57.637
+    },
+    {
+      "rank": 56,
+      "freq": 54,
+      "zipf": 60.137,
+      "mandelbrot": 56.812
+    },
+    {
+      "rank": 57,
+      "freq": 54,
+      "zipf": 59.278,
+      "mandelbrot": 56.013
+    },
+    {
+      "rank": 58,
+      "freq": 54,
+      "zipf": 58.446,
+      "mandelbrot": 55.239
+    },
+    {
+      "rank": 59,
+      "freq": 54,
+      "zipf": 57.64,
+      "mandelbrot": 54.489
+    },
+    {
+      "rank": 60,
+      "freq": 53,
+      "zipf": 56.858,
+      "mandelbrot": 53.761
+    },
+    {
+      "rank": 61,
+      "freq": 53,
+      "zipf": 56.099,
+      "mandelbrot": 53.055
+    },
+    {
+      "rank": 62,
+      "freq": 53,
+      "zipf": 55.362,
+      "mandelbrot": 52.369
+    },
+    {
+      "rank": 63,
+      "freq": 53,
+      "zipf": 54.647,
+      "mandelbrot": 51.703
+    },
+    {
+      "rank": 64,
+      "freq": 53,
+      "zipf": 53.952,
+      "mandelbrot": 51.056
+    },
+    {
+      "rank": 65,
+      "freq": 52,
+      "zipf": 53.276,
+      "mandelbrot": 50.426
+    },
+    {
+      "rank": 66,
+      "freq": 52,
+      "zipf": 52.619,
+      "mandelbrot": 49.814
+    },
+    {
+      "rank": 67,
+      "freq": 52,
+      "zipf": 51.98,
+      "mandelbrot": 49.218
+    },
+    {
+      "rank": 68,
+      "freq": 52,
+      "zipf": 51.358,
+      "mandelbrot": 48.639
+    },
+    {
+      "rank": 69,
+      "freq": 52,
+      "zipf": 50.752,
+      "mandelbrot": 48.074
+    },
+    {
+      "rank": 70,
+      "freq": 52,
+      "zipf": 50.162,
+      "mandelbrot": 47.524
+    },
+    {
+      "rank": 71,
+      "freq": 51,
+      "zipf": 49.587,
+      "mandelbrot": 46.987
+    },
+    {
+      "rank": 72,
+      "freq": 50,
+      "zipf": 49.026,
+      "mandelbrot": 46.465
+    },
+    {
+      "rank": 73,
+      "freq": 50,
+      "zipf": 48.479,
+      "mandelbrot": 45.955
+    },
+    {
+      "rank": 74,
+      "freq": 48,
+      "zipf": 47.946,
+      "mandelbrot": 45.457
+    },
+    {
+      "rank": 75,
+      "freq": 47,
+      "zipf": 47.426,
+      "mandelbrot": 44.972
+    },
+    {
+      "rank": 76,
+      "freq": 47,
+      "zipf": 46.918,
+      "mandelbrot": 44.498
+    },
+    {
+      "rank": 77,
+      "freq": 47,
+      "zipf": 46.422,
+      "mandelbrot": 44.035
+    },
+    {
+      "rank": 78,
+      "freq": 46,
+      "zipf": 45.938,
+      "mandelbrot": 43.583
+    },
+    {
+      "rank": 79,
+      "freq": 46,
+      "zipf": 45.465,
+      "mandelbrot": 43.141
+    },
+    {
+      "rank": 80,
+      "freq": 46,
+      "zipf": 45.002,
+      "mandelbrot": 42.709
+    },
+    {
+      "rank": 81,
+      "freq": 45,
+      "zipf": 44.55,
+      "mandelbrot": 42.286
+    },
+    {
+      "rank": 82,
+      "freq": 45,
+      "zipf": 44.108,
+      "mandelbrot": 41.873
+    },
+    {
+      "rank": 83,
+      "freq": 44,
+      "zipf": 43.675,
+      "mandelbrot": 41.469
+    },
+    {
+      "rank": 84,
+      "freq": 44,
+      "zipf": 43.252,
+      "mandelbrot": 41.074
+    },
+    {
+      "rank": 85,
+      "freq": 44,
+      "zipf": 42.838,
+      "mandelbrot": 40.687
+    },
+    {
+      "rank": 86,
+      "freq": 43,
+      "zipf": 42.433,
+      "mandelbrot": 40.308
+    },
+    {
+      "rank": 87,
+      "freq": 43,
+      "zipf": 42.036,
+      "mandelbrot": 39.937
+    },
+    {
+      "rank": 88,
+      "freq": 43,
+      "zipf": 41.647,
+      "mandelbrot": 39.573
+    },
+    {
+      "rank": 89,
+      "freq": 42,
+      "zipf": 41.267,
+      "mandelbrot": 39.217
+    },
+    {
+      "rank": 90,
+      "freq": 42,
+      "zipf": 40.893,
+      "mandelbrot": 38.868
+    },
+    {
+      "rank": 91,
+      "freq": 42,
+      "zipf": 40.528,
+      "mandelbrot": 38.526
+    },
+    {
+      "rank": 92,
+      "freq": 41,
+      "zipf": 40.169,
+      "mandelbrot": 38.191
+    },
+    {
+      "rank": 93,
+      "freq": 40,
+      "zipf": 39.818,
+      "mandelbrot": 37.862
+    },
+    {
+      "rank": 94,
+      "freq": 40,
+      "zipf": 39.473,
+      "mandelbrot": 37.539
+    },
+    {
+      "rank": 95,
+      "freq": 40,
+      "zipf": 39.135,
+      "mandelbrot": 37.223
+    },
+    {
+      "rank": 96,
+      "freq": 40,
+      "zipf": 38.803,
+      "mandelbrot": 36.912
+    },
+    {
+      "rank": 97,
+      "freq": 40,
+      "zipf": 38.478,
+      "mandelbrot": 36.608
+    },
+    {
+      "rank": 98,
+      "freq": 39,
+      "zipf": 38.159,
+      "mandelbrot": 36.308
+    },
+    {
+      "rank": 99,
+      "freq": 39,
+      "zipf": 37.845,
+      "mandelbrot": 36.015
+    },
+    {
+      "rank": 100,
+      "freq": 39,
+      "zipf": 37.537,
+      "mandelbrot": 35.726
+    },
+    {
+      "rank": 105,
+      "freq": 38,
+      "zipf": 36.077,
+      "mandelbrot": 34.359
+    },
+    {
+      "rank": 110,
+      "freq": 38,
+      "zipf": 34.739,
+      "mandelbrot": 33.104
+    },
+    {
+      "rank": 115,
+      "freq": 37,
+      "zipf": 33.506,
+      "mandelbrot": 31.947
+    },
+    {
+      "rank": 120,
+      "freq": 36,
+      "zipf": 32.367,
+      "mandelbrot": 30.878
+    },
+    {
+      "rank": 126,
+      "freq": 35,
+      "zipf": 31.108,
+      "mandelbrot": 29.696
+    },
+    {
+      "rank": 132,
+      "freq": 34,
+      "zipf": 29.954,
+      "mandelbrot": 28.611
+    },
+    {
+      "rank": 138,
+      "freq": 33,
+      "zipf": 28.891,
+      "mandelbrot": 27.611
+    },
+    {
+      "rank": 144,
+      "freq": 33,
+      "zipf": 27.908,
+      "mandelbrot": 26.687
+    },
+    {
+      "rank": 151,
+      "freq": 32,
+      "zipf": 26.852,
+      "mandelbrot": 25.693
+    },
+    {
+      "rank": 158,
+      "freq": 31,
+      "zipf": 25.881,
+      "mandelbrot": 24.778
+    },
+    {
+      "rank": 165,
+      "freq": 31,
+      "zipf": 24.985,
+      "mandelbrot": 23.933
+    },
+    {
+      "rank": 173,
+      "freq": 30,
+      "zipf": 24.042,
+      "mandelbrot": 23.044
+    },
+    {
+      "rank": 181,
+      "freq": 28,
+      "zipf": 23.174,
+      "mandelbrot": 22.225
+    },
+    {
+      "rank": 190,
+      "freq": 28,
+      "zipf": 22.278,
+      "mandelbrot": 21.379
+    },
+    {
+      "rank": 199,
+      "freq": 27,
+      "zipf": 21.455,
+      "mandelbrot": 20.602
+    },
+    {
+      "rank": 208,
+      "freq": 25,
+      "zipf": 20.698,
+      "mandelbrot": 19.886
+    },
+    {
+      "rank": 218,
+      "freq": 25,
+      "zipf": 19.923,
+      "mandelbrot": 19.152
+    },
+    {
+      "rank": 228,
+      "freq": 24,
+      "zipf": 19.209,
+      "mandelbrot": 18.477
+    },
+    {
+      "rank": 239,
+      "freq": 23,
+      "zipf": 18.488,
+      "mandelbrot": 17.794
+    },
+    {
+      "rank": 250,
+      "freq": 23,
+      "zipf": 17.824,
+      "mandelbrot": 17.165
+    },
+    {
+      "rank": 262,
+      "freq": 22,
+      "zipf": 17.157,
+      "mandelbrot": 16.533
+    },
+    {
+      "rank": 275,
+      "freq": 21,
+      "zipf": 16.495,
+      "mandelbrot": 15.905
+    },
+    {
+      "rank": 288,
+      "freq": 21,
+      "zipf": 15.887,
+      "mandelbrot": 15.328
+    },
+    {
+      "rank": 302,
+      "freq": 19,
+      "zipf": 15.286,
+      "mandelbrot": 14.756
+    },
+    {
+      "rank": 317,
+      "freq": 19,
+      "zipf": 14.695,
+      "mandelbrot": 14.195
+    },
+    {
+      "rank": 332,
+      "freq": 18,
+      "zipf": 14.153,
+      "mandelbrot": 13.68
+    },
+    {
+      "rank": 348,
+      "freq": 17,
+      "zipf": 13.622,
+      "mandelbrot": 13.174
+    },
+    {
+      "rank": 365,
+      "freq": 17,
+      "zipf": 13.104,
+      "mandelbrot": 12.681
+    },
+    {
+      "rank": 383,
+      "freq": 16,
+      "zipf": 12.601,
+      "mandelbrot": 12.202
+    },
+    {
+      "rank": 402,
+      "freq": 15,
+      "zipf": 12.115,
+      "mandelbrot": 11.738
+    },
+    {
+      "rank": 422,
+      "freq": 14,
+      "zipf": 11.646,
+      "mandelbrot": 11.291
+    },
+    {
+      "rank": 443,
+      "freq": 14,
+      "zipf": 11.195,
+      "mandelbrot": 10.861
+    },
+    {
+      "rank": 465,
+      "freq": 13,
+      "zipf": 10.763,
+      "mandelbrot": 10.448
+    },
+    {
+      "rank": 488,
+      "freq": 12,
+      "zipf": 10.349,
+      "mandelbrot": 10.052
+    },
+    {
+      "rank": 512,
+      "freq": 12,
+      "zipf": 9.952,
+      "mandelbrot": 9.673
+    },
+    {
+      "rank": 537,
+      "freq": 12,
+      "zipf": 9.574,
+      "mandelbrot": 9.311
+    },
+    {
+      "rank": 563,
+      "freq": 11,
+      "zipf": 9.213,
+      "mandelbrot": 8.966
+    },
+    {
+      "rank": 591,
+      "freq": 11,
+      "zipf": 8.857,
+      "mandelbrot": 8.624
+    },
+    {
+      "rank": 620,
+      "freq": 10,
+      "zipf": 8.519,
+      "mandelbrot": 8.3
+    },
+    {
+      "rank": 651,
+      "freq": 10,
+      "zipf": 8.187,
+      "mandelbrot": 7.982
+    },
+    {
+      "rank": 683,
+      "freq": 9,
+      "zipf": 7.874,
+      "mandelbrot": 7.682
+    },
+    {
+      "rank": 717,
+      "freq": 9,
+      "zipf": 7.569,
+      "mandelbrot": 7.389
+    },
+    {
+      "rank": 752,
+      "freq": 8,
+      "zipf": 7.282,
+      "mandelbrot": 7.112
+    },
+    {
+      "rank": 789,
+      "freq": 8,
+      "zipf": 7.003,
+      "mandelbrot": 6.844
+    },
+    {
+      "rank": 828,
+      "freq": 8,
+      "zipf": 6.733,
+      "mandelbrot": 6.585
+    },
+    {
+      "rank": 869,
+      "freq": 7,
+      "zipf": 6.474,
+      "mandelbrot": 6.335
+    },
+    {
+      "rank": 912,
+      "freq": 7,
+      "zipf": 6.225,
+      "mandelbrot": 6.095
+    },
+    {
+      "rank": 957,
+      "freq": 7,
+      "zipf": 5.986,
+      "mandelbrot": 5.865
+    },
+    {
+      "rank": 1004,
+      "freq": 6,
+      "zipf": 5.757,
+      "mandelbrot": 5.644
+    },
+    {
+      "rank": 1054,
+      "freq": 6,
+      "zipf": 5.534,
+      "mandelbrot": 5.429
+    },
+    {
+      "rank": 1106,
+      "freq": 6,
+      "zipf": 5.322,
+      "mandelbrot": 5.224
+    },
+    {
+      "rank": 1161,
+      "freq": 6,
+      "zipf": 5.116,
+      "mandelbrot": 5.025
+    },
+    {
+      "rank": 1219,
+      "freq": 5,
+      "zipf": 4.917,
+      "mandelbrot": 4.833
+    },
+    {
+      "rank": 1279,
+      "freq": 5,
+      "zipf": 4.729,
+      "mandelbrot": 4.65
+    },
+    {
+      "rank": 1342,
+      "freq": 5,
+      "zipf": 4.547,
+      "mandelbrot": 4.475
+    },
+    {
+      "rank": 1409,
+      "freq": 5,
+      "zipf": 4.371,
+      "mandelbrot": 4.304
+    },
+    {
+      "rank": 1479,
+      "freq": 4,
+      "zipf": 4.202,
+      "mandelbrot": 4.14
+    },
+    {
+      "rank": 1552,
+      "freq": 4,
+      "zipf": 4.041,
+      "mandelbrot": 3.984
+    },
+    {
+      "rank": 1629,
+      "freq": 4,
+      "zipf": 3.885,
+      "mandelbrot": 3.832
+    },
+    {
+      "rank": 1710,
+      "freq": 4,
+      "zipf": 3.734,
+      "mandelbrot": 3.686
+    },
+    {
+      "rank": 1795,
+      "freq": 4,
+      "zipf": 3.59,
+      "mandelbrot": 3.546
+    },
+    {
+      "rank": 1884,
+      "freq": 4,
+      "zipf": 3.452,
+      "mandelbrot": 3.411
+    },
+    {
+      "rank": 1978,
+      "freq": 3,
+      "zipf": 3.318,
+      "mandelbrot": 3.281
+    },
+    {
+      "rank": 2076,
+      "freq": 3,
+      "zipf": 3.19,
+      "mandelbrot": 3.157
+    },
+    {
+      "rank": 2179,
+      "freq": 3,
+      "zipf": 3.067,
+      "mandelbrot": 3.037
+    },
+    {
+      "rank": 2287,
+      "freq": 3,
+      "zipf": 2.948,
+      "mandelbrot": 2.921
+    },
+    {
+      "rank": 2401,
+      "freq": 3,
+      "zipf": 2.834,
+      "mandelbrot": 2.81
+    },
+    {
+      "rank": 2521,
+      "freq": 3,
+      "zipf": 2.724,
+      "mandelbrot": 2.702
+    },
+    {
+      "rank": 2647,
+      "freq": 3,
+      "zipf": 2.618,
+      "mandelbrot": 2.599
+    },
+    {
+      "rank": 2779,
+      "freq": 2,
+      "zipf": 2.516,
+      "mandelbrot": 2.5
+    },
+    {
+      "rank": 2917,
+      "freq": 2,
+      "zipf": 2.419,
+      "mandelbrot": 2.405
+    },
+    {
+      "rank": 3062,
+      "freq": 2,
+      "zipf": 2.326,
+      "mandelbrot": 2.313
+    },
+    {
+      "rank": 3215,
+      "freq": 2,
+      "zipf": 2.235,
+      "mandelbrot": 2.225
+    },
+    {
+      "rank": 3375,
+      "freq": 2,
+      "zipf": 2.149,
+      "mandelbrot": 2.14
+    },
+    {
+      "rank": 3543,
+      "freq": 2,
+      "zipf": 2.066,
+      "mandelbrot": 2.058
+    },
+    {
+      "rank": 3720,
+      "freq": 2,
+      "zipf": 1.985,
+      "mandelbrot": 1.979
+    },
+    {
+      "rank": 3906,
+      "freq": 2,
+      "zipf": 1.908,
+      "mandelbrot": 1.904
+    },
+    {
+      "rank": 4101,
+      "freq": 2,
+      "zipf": 1.834,
+      "mandelbrot": 1.831
+    },
+    {
+      "rank": 4306,
+      "freq": 2,
+      "zipf": 1.763,
+      "mandelbrot": 1.761
+    },
+    {
+      "rank": 4521,
+      "freq": 2,
+      "zipf": 1.694,
+      "mandelbrot": 1.694
+    },
+    {
+      "rank": 4747,
+      "freq": 1,
+      "zipf": 1.628,
+      "mandelbrot": 1.629
+    },
+    {
+      "rank": 4984,
+      "freq": 1,
+      "zipf": 1.565,
+      "mandelbrot": 1.566
+    },
+    {
+      "rank": 5233,
+      "freq": 1,
+      "zipf": 1.504,
+      "mandelbrot": 1.507
+    },
+    {
+      "rank": 5494,
+      "freq": 1,
+      "zipf": 1.446,
+      "mandelbrot": 1.449
+    },
+    {
+      "rank": 5768,
+      "freq": 1,
+      "zipf": 1.39,
+      "mandelbrot": 1.394
+    },
+    {
+      "rank": 6056,
+      "freq": 1,
+      "zipf": 1.336,
+      "mandelbrot": 1.34
+    },
+    {
+      "rank": 6358,
+      "freq": 1,
+      "zipf": 1.284,
+      "mandelbrot": 1.289
+    },
+    {
+      "rank": 6675,
+      "freq": 1,
+      "zipf": 1.234,
+      "mandelbrot": 1.24
+    },
+    {
+      "rank": 7008,
+      "freq": 1,
+      "zipf": 1.187,
+      "mandelbrot": 1.193
+    },
+    {
+      "rank": 7358,
+      "freq": 1,
+      "zipf": 1.14,
+      "mandelbrot": 1.147
+    },
+    {
+      "rank": 7725,
+      "freq": 1,
+      "zipf": 1.096,
+      "mandelbrot": 1.103
+    },
+    {
+      "rank": 8111,
+      "freq": 1,
+      "zipf": 1.054,
+      "mandelbrot": 1.061
+    },
+    {
+      "rank": 8516,
+      "freq": 1,
+      "zipf": 1.013,
+      "mandelbrot": 1.02
+    },
+    {
+      "rank": 8941,
+      "freq": 1,
+      "zipf": 0.973,
+      "mandelbrot": 0.981
+    },
+    {
+      "rank": 9388,
+      "freq": 1,
+      "zipf": 0.936,
+      "mandelbrot": 0.944
+    },
+    {
+      "rank": 9857,
+      "freq": 1,
+      "zipf": 0.899,
+      "mandelbrot": 0.908
+    },
+    {
+      "rank": 10349,
+      "freq": 1,
+      "zipf": 0.864,
+      "mandelbrot": 0.873
+    },
+    {
+      "rank": 10866,
+      "freq": 1,
+      "zipf": 0.831,
+      "mandelbrot": 0.84
+    },
+    {
+      "rank": 11409,
+      "freq": 1,
+      "zipf": 0.798,
+      "mandelbrot": 0.808
+    },
+    {
+      "rank": 11979,
+      "freq": 1,
+      "zipf": 0.767,
+      "mandelbrot": 0.777
+    },
+    {
+      "rank": 12577,
+      "freq": 1,
+      "zipf": 0.738,
+      "mandelbrot": 0.747
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "sources": [
+    {
+      "name": "ru_wikipedia",
+      "documents": 40,
+      "raw_bytes": 6800563,
+      "text_bytes": 472749,
+      "words": 36346,
+      "avg_raw_bytes": 170014,
+      "avg_text_bytes": 11818,
+      "avg_words": 908,
+      "text_ratio": 0.0695
+    },
+    {
+      "name": "simple_wikipedia",
+      "documents": 20,
+      "raw_bytes": 1977521,
+      "text_bytes": 48288,
+      "words": 7780,
+      "avg_raw_bytes": 98876,
+      "avg_text_bytes": 2414,
+      "avg_words": 389,
+      "text_ratio": 0.0244
+    }
+  ],
+  "total": {
+    "documents": 60,
+    "raw_bytes": 8778084,
+    "text_bytes": 521037,
+    "words": 44126,
+    "avg_raw_bytes": 146301,
+    "avg_text_bytes": 8683,
+    "avg_words": 735,
+    "text_ratio": 0.0594
+  }
+}

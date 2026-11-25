@@ -1,0 +1,12 @@
+Kessler Syndrome
+The Kessler syndrome (or Kessler effect, is a cascade effect. It was suggested by NASA scientist Donald J. Kessler in 1978. The scenario occurs when the space pollution is high enough for collisions between objects to occur.
+There is a satellite in orbit that is large and inactive, making it count as space debris, but it is in an orbit with a large amount of space debris. Two known objects get within 200m of it every year. This could cause a lot of space debris, inducing a domino effect with more collisions.
+Avoiding Kessler syndrome
+Satellite manufacturers must demonstrate that their satellite can safely destroy itself or boost itself into a higher or lower orbit, known as a graveyard orbit, to avoid keeping unused satellites in common orbits for other satellites.
+Related pages
+Space debris
+Gravity (movie), a 3D movie showing space debris and a form of Kessler Syndrome.
+References
+↑ Stenger, Richard (2002-05-03). "Scientist: Space weapons pose debris threat". CNN.com. Archived from the original on 2012-09-30. Retrieved 2011-03-17.
+↑ Olson, Steve (July 1998). "The Danger of Space Junk – 98.07". The Atlantic. Retrieved 2020-06-18 – via TheAtlantic.com.
+↑ April 25, rea Gini on; Syndrome, 2012 in Kessler (25 April 2012). "Don Kessler on Envisat and the Kessler Syndrome". Space Safety Magazine.{{cite web}}: CS1 maint: numeric names: authors list (link)

@@ -1,0 +1,910 @@
+{
+  "k": 5,
+  "systems": [
+    {
+      "average": {
+        "p": 0.2,
+        "r": 0.2217,
+        "ap": 0.243,
+        "dcg": 4.7232,
+        "ndcg": 0.432,
+        "err": 0.5488
+      },
+      "queries": [
+        {
+          "query_id": "q1",
+          "query": "ракеты носители",
+          "metrics": {
+            "p": 0.2,
+            "r": 0.125,
+            "ap": 0.2,
+            "dcg": 7.0,
+            "ndcg": 0.5799,
+            "err": 0.875
+          },
+          "results": [
+            "ru_wikipedia/Ракета"
+          ]
+        },
+        {
+          "query_id": "q2",
+          "query": "невесомость в космосе",
+          "metrics": {
+            "p": 0.4,
+            "r": 0.5,
+            "ap": 0.5,
+            "dcg": 8.8928,
+            "ndcg": 0.6663,
+            "err": 0.8984
+          },
+          "results": [
+            "ru_wikipedia/Невесомость",
+            "ru_wikipedia/Искусственная_сила_тяжести"
+          ]
+        },
+        {
+          "query_id": "q3",
+          "query": "космическим мусором",
+          "metrics": {
+            "p": 0.2,
+            "r": 0.25,
+            "ap": 0.25,
+            "dcg": 7.0,
+            "ndcg": 0.5669,
+            "err": 0.875
+          },
+          "results": [
+            "ru_wikipedia/Синдром_Кесслера"
+          ]
+        },
+        {
+          "query_id": "q4",
+          "query": "посадка на марс",
+          "metrics": {
+            "p": 0.2,
+            "r": 0.1429,
+            "ap": 0.2,
+            "dcg": 7.0,
+            "ndcg": 0.403,
+            "err": 0.875
+          },
+          "results": [
+            "ru_wikipedia/Мягкая_посадка"
+          ]
+        },
+        {
+          "query_id": "q5",
+          "query": "солнечные паруса",
+          "metrics": {
+            "p": 0.4,
+            "r": 0.5,
+            "ap": 0.5,
+            "dcg": 8.8928,
+            "ndcg": 0.9053,
+            "err": 0.8984
+          },
+          "results": [
+            "ru_wikipedia/Солнечный_парус",
+            "ru_wikipedia/Двигательная_установка_космического_аппарата"
+          ]
+        },
+        {
+          "query_id": "q6",
+          "query": "коммерческая космонавтика",
+          "metrics": {
+            "p": 0.0,
+            "r": 0.0,
+            "ap": 0.0,
+            "dcg": 0.0,
+            "ndcg": 0.0,
+            "err": 0.0
+          },
+          "results": []
+        },
+        {
+          "query_id": "q7",
+          "query": "собаки в космосе",
+          "metrics": {
+            "p": 0.0,
+            "r": 0.0,
+            "ap": 0.0,
+            "dcg": 0.0,
+            "ndcg": 0.0,
+            "err": 0.0
+          },
+          "results": []
+        },
+        {
+          "query_id": "q8",
+          "query": "гравитационный манёвр",
+          "metrics": {
+            "p": 0.4,
+            "r": 0.3333,
+            "ap": 0.4,
+            "dcg": 2.8928,
+            "ndcg": 0.258,
+            "err": 0.2891
+          },
+          "results": [
+            "ru_wikipedia/Автоматическая_межпланетная_станция",
+            "ru_wikipedia/Пролётная_аномалия"
+          ]
+        },
+        {
+          "query_id": "q9",
+          "query": "точек лагранжа",
+          "metrics": {
+            "p": 0.2,
+            "r": 0.3333,
+            "ap": 0.3333,
+            "dcg": 7.0,
+            "ndcg": 0.8609,
+            "err": 0.875
+          },
+          "results": [
+            "ru_wikipedia/Точки_Лагранжа"
+          ]
+        },
+        {
+          "query_id": "q10",
+          "query": "выход в открытый космос",
+          "metrics": {
+            "p": 0.0,
+            "r": 0.0,
+            "ap": 0.0,
+            "dcg": 0.0,
+            "ndcg": 0.0,
+            "err": 0.0
+          },
+          "results": []
+        },
+        {
+          "query_id": "q11",
+          "query": "interplanetary missions",
+          "metrics": {
+            "p": 0.2,
+            "r": 0.1429,
+            "ap": 0.2,
+            "dcg": 1.0,
+            "ndcg": 0.0828,
+            "err": 0.125
+          },
+          "results": [
+            "simple_wikipedia/Interstellar_travel",
+            "simple_wikipedia/Flight_dynamics__spacecraft_",
+            "simple_wikipedia/Wernher_von_Braun"
+          ]
+        },
+        {
+          "query_id": "q12",
+          "query": "dogs in space",
+          "metrics": {
+            "p": 0.2,
+            "r": 0.3333,
+            "ap": 0.3333,
+            "dcg": 7.0,
+            "ndcg": 0.8609,
+            "err": 0.875
+          },
+          "results": [
+            "simple_wikipedia/Laika"
+          ]
+        }
+      ],
+      "name": "wikipedia"
+    },
+    {
+      "average": {
+        "p": 0.4333,
+        "r": 0.4449,
+        "ap": 0.4045,
+        "dcg": 5.8676,
+        "ndcg": 0.5258,
+        "err": 0.525
+      },
+      "queries": [
+        {
+          "query_id": "q1",
+          "query": "ракеты носители",
+          "metrics": {
+            "p": 1.0,
+            "r": 0.625,
+            "ap": 1.0,
+            "dcg": 9.7222,
+            "ndcg": 0.8054,
+            "err": 0.8966
+          },
+          "results": [
+            "ru_wikipedia/Ракета",
+            "ru_wikipedia/Циклограмма_пуска",
+            "ru_wikipedia/Стартовое_окно",
+            "ru_wikipedia/Суборбитальный_космический_полёт",
+            "ru_wikipedia/Космонавтика"
+          ]
+        },
+        {
+          "query_id": "q2",
+          "query": "невесомость в космосе",
+          "metrics": {
+            "p": 0.6,
+            "r": 0.75,
+            "ap": 0.6875,
+            "dcg": 12.7085,
+            "ndcg": 0.9522,
+            "err": 0.9312
+          },
+          "results": [
+            "ru_wikipedia/Невесомость",
+            "ru_wikipedia/Микрогравитация",
+            "ru_wikipedia/Реклама_в_космосе",
+            "ru_wikipedia/Искусственная_сила_тяжести",
+            "ru_wikipedia/Коммерциализация_космической_деятельности"
+          ]
+        },
+        {
+          "query_id": "q3",
+          "query": "космическим мусором",
+          "metrics": {
+            "p": 0.4,
+            "r": 0.5,
+            "ap": 0.4167,
+            "dcg": 4.5,
+            "ndcg": 0.3645,
+            "err": 0.3802
+          },
+          "results": [
+            "ru_wikipedia/Космический_аппарат",
+            "ru_wikipedia/Суборбитальный_космический_полёт",
+            "ru_wikipedia/Синдром_Кесслера",
+            "ru_wikipedia/Космонавт-исследователь",
+            "ru_wikipedia/Коммерциализация_космической_деятельности"
+          ]
+        },
+        {
+          "query_id": "q4",
+          "query": "посадка на марс",
+          "metrics": {
+            "p": 0.6,
+            "r": 0.4286,
+            "ap": 0.32,
+            "dcg": 8.4165,
+            "ndcg": 0.4846,
+            "err": 0.4629
+          },
+          "results": [
+            "ru_wikipedia/Космонавтика",
+            "ru_wikipedia/Мягкая_посадка",
+            "ru_wikipedia/Биоспутник",
+            "ru_wikipedia/Спускаемый_аппарат",
+            "ru_wikipedia/Небесный_кран"
+          ]
+        },
+        {
+          "query_id": "q5",
+          "query": "солнечные паруса",
+          "metrics": {
+            "p": 0.6,
+            "r": 0.75,
+            "ap": 0.75,
+            "dcg": 9.3928,
+            "ndcg": 0.9562,
+            "err": 0.9017
+          },
+          "results": [
+            "ru_wikipedia/Солнечный_парус",
+            "ru_wikipedia/Двигательная_установка_космического_аппарата",
+            "ru_wikipedia/Автоматическая_межпланетная_станция"
+          ]
+        },
+        {
+          "query_id": "q6",
+          "query": "коммерческая космонавтика",
+          "metrics": {
+            "p": 0.4,
+            "r": 0.3333,
+            "ap": 0.28,
+            "dcg": 3.708,
+            "ndcg": 0.2887,
+            "err": 0.2781
+          },
+          "results": [
+            "ru_wikipedia/Космонавтика",
+            "ru_wikipedia/Коридор_входа",
+            "ru_wikipedia/Мягкая_посадка",
+            "ru_wikipedia/Циклограмма_пуска",
+            "ru_wikipedia/Коммерциализация_космической_деятельности"
+          ]
+        },
+        {
+          "query_id": "q7",
+          "query": "собаки в космосе",
+          "metrics": {
+            "p": 0.2,
+            "r": 0.25,
+            "ap": 0.05,
+            "dcg": 0.3869,
+            "ndcg": 0.0313,
+            "err": 0.025
+          },
+          "results": [
+            "ru_wikipedia/Реклама_в_космосе",
+            "ru_wikipedia/Искусственная_сила_тяжести",
+            "ru_wikipedia/Коммерциализация_космической_деятельности",
+            "ru_wikipedia/Космическая_разведка",
+            "ru_wikipedia/Список_рекордов_в_космонавтике"
+          ]
+        },
+        {
+          "query_id": "q8",
+          "query": "гравитационный манёвр",
+          "metrics": {
+            "p": 0.2,
+            "r": 0.1667,
+            "ap": 0.0667,
+            "dcg": 0.5,
+            "ndcg": 0.0446,
+            "err": 0.0417
+          },
+          "results": [
+            "ru_wikipedia/Двигательная_установка_космического_аппарата",
+            "ru_wikipedia/Космическая_геодезия",
+            "ru_wikipedia/Автоматическая_межпланетная_станция",
+            "ru_wikipedia/Точки_Лагранжа"
+          ]
+        },
+        {
+          "query_id": "q9",
+          "query": "точек лагранжа",
+          "metrics": {
+            "p": 0.2,
+            "r": 0.3333,
+            "ap": 0.3333,
+            "dcg": 7.0,
+            "ndcg": 0.8609,
+            "err": 0.875
+          },
+          "results": [
+            "ru_wikipedia/Точки_Лагранжа",
+            "ru_wikipedia/Невесомость"
+          ]
+        },
+        {
+          "query_id": "q10",
+          "query": "выход в открытый космос",
+          "metrics": {
+            "p": 0.2,
+            "r": 0.25,
+            "ap": 0.25,
+            "dcg": 3.0,
+            "ndcg": 0.3054,
+            "err": 0.375
+          },
+          "results": [
+            "ru_wikipedia/Список_рекордов_в_космонавтике",
+            "ru_wikipedia/Микрогравитация",
+            "ru_wikipedia/Биоспутник",
+            "ru_wikipedia/Реклама_в_космосе",
+            "ru_wikipedia/Аэрокосмическая_компания"
+          ]
+        },
+        {
+          "query_id": "q11",
+          "query": "interplanetary missions",
+          "metrics": {
+            "p": 0.4,
+            "r": 0.2857,
+            "ap": 0.2,
+            "dcg": 3.6457,
+            "ndcg": 0.302,
+            "err": 0.2539
+          },
+          "results": [
+            "simple_wikipedia/Flight_dynamics__spacecraft_",
+            "simple_wikipedia/Interstellar_travel",
+            "ru_wikipedia/Двигательная_установка_космического_аппарата",
+            "simple_wikipedia/Interplanetary_spaceflight",
+            "simple_wikipedia/Spaceflight"
+          ]
+        },
+        {
+          "query_id": "q12",
+          "query": "dogs in space",
+          "metrics": {
+            "p": 0.4,
+            "r": 0.6667,
+            "ap": 0.5,
+            "dcg": 7.4307,
+            "ndcg": 0.9139,
+            "err": 0.8789
+          },
+          "results": [
+            "simple_wikipedia/Laika",
+            "simple_wikipedia/Exploration_of_Mars",
+            "simple_wikipedia/Centre_national_d_études_spatiales",
+            "simple_wikipedia/Spaceflight",
+            "simple_wikipedia/Ariane_5"
+          ]
+        }
+      ],
+      "name": "raw"
+    },
+    {
+      "average": {
+        "p": 0.4833,
+        "r": 0.502,
+        "ap": 0.4642,
+        "dcg": 7.0329,
+        "ndcg": 0.6155,
+        "err": 0.6779
+      },
+      "queries": [
+        {
+          "query_id": "q1",
+          "query": "ракеты носители",
+          "metrics": {
+            "p": 0.8,
+            "r": 0.5,
+            "ap": 0.5433,
+            "dcg": 5.734,
+            "ndcg": 0.475,
+            "err": 0.4485
+          },
+          "results": [
+            "ru_wikipedia/Космический_аппарат",
+            "ru_wikipedia/Ракета",
+            "ru_wikipedia/Циклограмма_пуска",
+            "ru_wikipedia/Аэрокосмическая_компания",
+            "ru_wikipedia/Стартовое_окно"
+          ]
+        },
+        {
+          "query_id": "q2",
+          "query": "невесомость в космосе",
+          "metrics": {
+            "p": 0.6,
+            "r": 0.75,
+            "ap": 0.6042,
+            "dcg": 11.5147,
+            "ndcg": 0.8627,
+            "err": 0.9077
+          },
+          "results": [
+            "ru_wikipedia/Невесомость",
+            "ru_wikipedia/Биоспутник",
+            "ru_wikipedia/Искусственная_сила_тяжести",
+            "ru_wikipedia/Микрогравитация",
+            "ru_wikipedia/Космонавтика"
+          ]
+        },
+        {
+          "query_id": "q3",
+          "query": "космическим мусором",
+          "metrics": {
+            "p": 0.2,
+            "r": 0.25,
+            "ap": 0.125,
+            "dcg": 4.4165,
+            "ndcg": 0.3577,
+            "err": 0.4375
+          },
+          "results": [
+            "ru_wikipedia/Реклама_в_космосе",
+            "ru_wikipedia/Синдром_Кесслера",
+            "ru_wikipedia/Космическая_археология",
+            "ru_wikipedia/Страхование_космических_рисков",
+            "ru_wikipedia/Космическая_навигация"
+          ]
+        },
+        {
+          "query_id": "q4",
+          "query": "посадка на марс",
+          "metrics": {
+            "p": 0.8,
+            "r": 0.5714,
+            "ap": 0.71,
+            "dcg": 12.0314,
+            "ndcg": 0.6927,
+            "err": 0.9128
+          },
+          "results": [
+            "ru_wikipedia/Небесный_кран",
+            "ru_wikipedia/Спускаемый_аппарат",
+            "ru_wikipedia/Космонавтика",
+            "ru_wikipedia/Автоматическая_межпланетная_станция",
+            "ru_wikipedia/Мягкая_посадка"
+          ]
+        },
+        {
+          "query_id": "q5",
+          "query": "солнечные паруса",
+          "metrics": {
+            "p": 0.6,
+            "r": 0.75,
+            "ap": 0.65,
+            "dcg": 9.2796,
+            "ndcg": 0.9446,
+            "err": 0.9004
+          },
+          "results": [
+            "ru_wikipedia/Солнечный_парус",
+            "ru_wikipedia/Двигательная_установка_космического_аппарата",
+            "ru_wikipedia/Космический_аппарат",
+            "ru_wikipedia/Спектрометр_солнечного_ветра",
+            "ru_wikipedia/Автоматическая_межпланетная_станция"
+          ]
+        },
+        {
+          "query_id": "q6",
+          "query": "коммерческая космонавтика",
+          "metrics": {
+            "p": 0.6,
+            "r": 0.5,
+            "ap": 0.6,
+            "dcg": 9.1309,
+            "ndcg": 0.7108,
+            "err": 0.8965
+          },
+          "results": [
+            "ru_wikipedia/Коммерциализация_космической_деятельности",
+            "ru_wikipedia/Космонавтика",
+            "ru_wikipedia/Премия_Хайнлайна_за_достижения_в_коммерциализации_космоса",
+            "ru_wikipedia/Коридор_входа",
+            "ru_wikipedia/Циклограмма_пуска"
+          ]
+        },
+        {
+          "query_id": "q7",
+          "query": "собаки в космосе",
+          "metrics": {
+            "p": 0.4,
+            "r": 0.5,
+            "ap": 0.375,
+            "dcg": 7.4307,
+            "ndcg": 0.6018,
+            "err": 0.8789
+          },
+          "results": [
+            "ru_wikipedia/Биоспутник",
+            "ru_wikipedia/Ракета",
+            "ru_wikipedia/Суборбитальный_космический_полёт",
+            "ru_wikipedia/Список_рекордов_в_космонавтике",
+            "ru_wikipedia/Премия_Хайнлайна_за_достижения_в_коммерциализации_космоса"
+          ]
+        },
+        {
+          "query_id": "q8",
+          "query": "гравитационный манёвр",
+          "metrics": {
+            "p": 0.4,
+            "r": 0.3333,
+            "ap": 0.3333,
+            "dcg": 3.5,
+            "ndcg": 0.3122,
+            "err": 0.401
+          },
+          "results": [
+            "ru_wikipedia/Пролётная_аномалия",
+            "ru_wikipedia/Двигательная_установка_космического_аппарата",
+            "ru_wikipedia/Автоматическая_межпланетная_станция",
+            "ru_wikipedia/Точки_Лагранжа",
+            "ru_wikipedia/Космическая_геодезия"
+          ]
+        },
+        {
+          "query_id": "q9",
+          "query": "точек лагранжа",
+          "metrics": {
+            "p": 0.2,
+            "r": 0.3333,
+            "ap": 0.3333,
+            "dcg": 7.0,
+            "ndcg": 0.8609,
+            "err": 0.875
+          },
+          "results": [
+            "ru_wikipedia/Точки_Лагранжа",
+            "ru_wikipedia/Космонавтика",
+            "ru_wikipedia/Невесомость"
+          ]
+        },
+        {
+          "query_id": "q10",
+          "query": "выход в открытый космос",
+          "metrics": {
+            "p": 0.2,
+            "r": 0.25,
+            "ap": 0.25,
+            "dcg": 3.0,
+            "ndcg": 0.3054,
+            "err": 0.375
+          },
+          "results": [
+            "ru_wikipedia/Список_рекордов_в_космонавтике",
+            "ru_wikipedia/Космическая_разведка",
+            "ru_wikipedia/Микрогравитация",
+            "ru_wikipedia/Двигательная_установка_космического_аппарата",
+            "ru_wikipedia/Ракета"
+          ]
+        },
+        {
+          "query_id": "q11",
+          "query": "interplanetary missions",
+          "metrics": {
+            "p": 0.4,
+            "r": 0.2857,
+            "ap": 0.18,
+            "dcg": 3.3389,
+            "ndcg": 0.2766,
+            "err": 0.2156
+          },
+          "results": [
+            "simple_wikipedia/Flight_dynamics__spacecraft_",
+            "simple_wikipedia/Interstellar_travel",
+            "ru_wikipedia/Космическая_археология",
+            "ru_wikipedia/Двигательная_установка_космического_аппарата",
+            "simple_wikipedia/Interplanetary_spaceflight"
+          ]
+        },
+        {
+          "query_id": "q12",
+          "query": "dogs in space",
+          "metrics": {
+            "p": 0.6,
+            "r": 1.0,
+            "ap": 0.8667,
+            "dcg": 8.0178,
+            "ndcg": 0.9861,
+            "err": 0.8855
+          },
+          "results": [
+            "simple_wikipedia/Laika",
+            "simple_wikipedia/Félicette",
+            "simple_wikipedia/Exploration_of_Mars",
+            "simple_wikipedia/Centre_national_d_études_spatiales",
+            "simple_wikipedia/Spaceflight"
+          ]
+        }
+      ],
+      "name": "stem"
+    },
+    {
+      "average": {
+        "p": 0.4667,
+        "r": 0.4881,
+        "ap": 0.4376,
+        "dcg": 6.581,
+        "ndcg": 0.5804,
+        "err": 0.6263
+      },
+      "queries": [
+        {
+          "query_id": "q1",
+          "query": "ракеты носители",
+          "metrics": {
+            "p": 0.8,
+            "r": 0.5,
+            "ap": 0.5433,
+            "dcg": 5.734,
+            "ndcg": 0.475,
+            "err": 0.4485
+          },
+          "results": [
+            "ru_wikipedia/Космический_аппарат",
+            "ru_wikipedia/Ракета",
+            "ru_wikipedia/Циклограмма_пуска",
+            "ru_wikipedia/Аэрокосмическая_компания",
+            "ru_wikipedia/Стартовое_окно"
+          ]
+        },
+        {
+          "query_id": "q2",
+          "query": "невесомость в космосе",
+          "metrics": {
+            "p": 0.6,
+            "r": 0.75,
+            "ap": 0.6042,
+            "dcg": 11.5147,
+            "ndcg": 0.8627,
+            "err": 0.9077
+          },
+          "results": [
+            "ru_wikipedia/Невесомость",
+            "ru_wikipedia/Биоспутник",
+            "ru_wikipedia/Искусственная_сила_тяжести",
+            "ru_wikipedia/Микрогравитация",
+            "ru_wikipedia/Космонавтика"
+          ]
+        },
+        {
+          "query_id": "q3",
+          "query": "космическим мусором",
+          "metrics": {
+            "p": 0.2,
+            "r": 0.25,
+            "ap": 0.125,
+            "dcg": 4.4165,
+            "ndcg": 0.3577,
+            "err": 0.4375
+          },
+          "results": [
+            "ru_wikipedia/Реклама_в_космосе",
+            "ru_wikipedia/Синдром_Кесслера",
+            "ru_wikipedia/Космическая_археология",
+            "ru_wikipedia/Страхование_космических_рисков",
+            "ru_wikipedia/Космическая_навигация"
+          ]
+        },
+        {
+          "query_id": "q4",
+          "query": "посадка на марс",
+          "metrics": {
+            "p": 0.8,
+            "r": 0.5714,
+            "ap": 0.71,
+            "dcg": 12.0314,
+            "ndcg": 0.6927,
+            "err": 0.9128
+          },
+          "results": [
+            "ru_wikipedia/Небесный_кран",
+            "ru_wikipedia/Спускаемый_аппарат",
+            "ru_wikipedia/Космонавтика",
+            "ru_wikipedia/Автоматическая_межпланетная_станция",
+            "ru_wikipedia/Мягкая_посадка"
+          ]
+        },
+        {
+          "query_id": "q5",
+          "query": "солнечные паруса",
+          "metrics": {
+            "p": 0.6,
+            "r": 0.75,
+            "ap": 0.65,
+            "dcg": 9.2796,
+            "ndcg": 0.9446,
+            "err": 0.9004
+          },
+          "results": [
+            "ru_wikipedia/Солнечный_парус",
+            "ru_wikipedia/Двигательная_установка_космического_аппарата",
+            "ru_wikipedia/Космический_аппарат",
+            "ru_wikipedia/Спектрометр_солнечного_ветра",
+            "ru_wikipedia/Автоматическая_межпланетная_станция"
+          ]
+        },
+        {
+          "query_id": "q6",
+          "query": "коммерческая космонавтика",
+          "metrics": {
+            "p": 0.4,
+            "r": 0.3333,
+            "ap": 0.28,
+            "dcg": 3.708,
+            "ndcg": 0.2887,
+            "err": 0.2781
+          },
+          "results": [
+            "ru_wikipedia/Космонавтика",
+            "ru_wikipedia/Коридор_входа",
+            "ru_wikipedia/Циклограмма_пуска",
+            "ru_wikipedia/Мягкая_посадка",
+            "ru_wikipedia/Коммерциализация_космической_деятельности"
+          ]
+        },
+        {
+          "query_id": "q7",
+          "query": "собаки в космосе",
+          "metrics": {
+            "p": 0.4,
+            "r": 0.5,
+            "ap": 0.375,
+            "dcg": 7.4307,
+            "ndcg": 0.6018,
+            "err": 0.8789
+          },
+          "results": [
+            "ru_wikipedia/Биоспутник",
+            "ru_wikipedia/Ракета",
+            "ru_wikipedia/Суборбитальный_космический_полёт",
+            "ru_wikipedia/Список_рекордов_в_космонавтике",
+            "ru_wikipedia/Премия_Хайнлайна_за_достижения_в_коммерциализации_космоса"
+          ]
+        },
+        {
+          "query_id": "q8",
+          "query": "гравитационный манёвр",
+          "metrics": {
+            "p": 0.4,
+            "r": 0.3333,
+            "ap": 0.3333,
+            "dcg": 3.5,
+            "ndcg": 0.3122,
+            "err": 0.401
+          },
+          "results": [
+            "ru_wikipedia/Пролётная_аномалия",
+            "ru_wikipedia/Двигательная_установка_космического_аппарата",
+            "ru_wikipedia/Автоматическая_межпланетная_станция",
+            "ru_wikipedia/Точки_Лагранжа",
+            "ru_wikipedia/Космическая_геодезия"
+          ]
+        },
+        {
+          "query_id": "q9",
+          "query": "точек лагранжа",
+          "metrics": {
+            "p": 0.2,
+            "r": 0.3333,
+            "ap": 0.3333,
+            "dcg": 7.0,
+            "ndcg": 0.8609,
+            "err": 0.875
+          },
+          "results": [
+            "ru_wikipedia/Точки_Лагранжа",
+            "ru_wikipedia/Космонавтика",
+            "ru_wikipedia/Невесомость"
+          ]
+        },
+        {
+          "query_id": "q10",
+          "query": "выход в открытый космос",
+          "metrics": {
+            "p": 0.2,
+            "r": 0.25,
+            "ap": 0.25,
+            "dcg": 3.0,
+            "ndcg": 0.3054,
+            "err": 0.375
+          },
+          "results": [
+            "ru_wikipedia/Список_рекордов_в_космонавтике",
+            "ru_wikipedia/Космическая_разведка",
+            "ru_wikipedia/Микрогравитация",
+            "ru_wikipedia/Двигательная_установка_космического_аппарата",
+            "ru_wikipedia/Ракета"
+          ]
+        },
+        {
+          "query_id": "q11",
+          "query": "interplanetary missions",
+          "metrics": {
+            "p": 0.4,
+            "r": 0.2857,
+            "ap": 0.18,
+            "dcg": 3.3389,
+            "ndcg": 0.2766,
+            "err": 0.2156
+          },
+          "results": [
+            "simple_wikipedia/Flight_dynamics__spacecraft_",
+            "simple_wikipedia/Interstellar_travel",
+            "ru_wikipedia/Космическая_археология",
+            "ru_wikipedia/Двигательная_установка_космического_аппарата",
+            "simple_wikipedia/Interplanetary_spaceflight"
+          ]
+        },
+        {
+          "query_id": "q12",
+          "query": "dogs in space",
+          "metrics": {
+            "p": 0.6,
+            "r": 1.0,
+            "ap": 0.8667,
+            "dcg": 8.0178,
+            "ndcg": 0.9861,
+            "err": 0.8855
+          },
+          "results": [
+            "simple_wikipedia/Laika",
+            "simple_wikipedia/Félicette",
+            "simple_wikipedia/Exploration_of_Mars",
+            "simple_wikipedia/Centre_national_d_études_spatiales",
+            "simple_wikipedia/Spaceflight"
+          ]
+        }
+      ],
+      "name": "lemma"
+    }
+  ]
+}
