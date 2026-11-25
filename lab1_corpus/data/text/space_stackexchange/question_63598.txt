@@ -1,0 +1,2 @@
+I am trying to create an inter-satellite network and run an inter-satellite routing protocols
+I am trying to create a simulation of a network of cube sats connected to Earth station to provide me with internet. I want to run on these satellite a routing protocols can this be done using STK software and can somebody tell me how to do it or provide me with a Youtube video or pdf tutorial?

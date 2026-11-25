@@ -1,0 +1,2 @@
+Source of Satellite and Debris Ephemerides for Analysis
+I'm working on some code that will fuse ephemeris data, the raw telescope and radar data used for locating and tracking active satellites and space debris. Most of this data is owned by the Air Force and commercial companies. Are there any more readily available sources for this data on the Internet? I was thinking Amateur Astronomy or educational institutions may publish this data?

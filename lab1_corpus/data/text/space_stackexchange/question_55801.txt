@@ -1,0 +1,13 @@
+What do "initiate dragon safe haven" and "close all centerline hatches" and "next two crossings" mean?
+CNN's video Hear warning to ISS after Russia's dangerous missile test plays an audio clip of a voice communication from NASA Houston ground control to the ISS crew, with the message:
+...we will need to activate dragon safe haven and close centerline hatches for the next two crossings.
+A reply from an ISS crew member includes:
+Alright, station copies that the next time of closest approach is 07:06 and that we intend to active safe haven in dragon.
+Question: What exactly do the following three expressions mean?
+"activate dragon safe haven"
+I understand that the astronauts grabbed critical items, perhaps put on some suits (or perhaps not) and got into some capsules, but "dragon" seems to refer to SpaceX capsules and aren't there also some Soyuz capsules involved?
+"close centerline hatches"
+Close all the doors between the centerline modules? They will be all locked and airtight?
+"next two crossings"
+Crossings of what? The Earth's equator? Do both northbound and southbound count? In other words is this a period of between one-half and one orbital period, that ends on a crossing?
+Okay Mark good morning, sorry for the early call. We were recently informed of a satellite breakup, and need you have you guys start reviewing the safe haven procedure. It's nine decimal two one. We are planning on performing through block eight, which will include closing the radial hatches. The time of concern is oh six hundred.

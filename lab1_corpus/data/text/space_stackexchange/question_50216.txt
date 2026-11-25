@@ -1,0 +1,9 @@
+How many planets have had their limbs scanned with radio signals?
+This answer to When did planetary scientists realize Venus' surface pressure was almost 100x that on Earth? How did they find out? describes one example of scanning the limb of a planet using transmitted radio waves in order to study the atmosphere's properties.
+JAXA's Mars Tera-hertz Explorer (TEREX) (1, 2) plans to scan Mars's atmosphere for molecular emissions using a narrow, side-looking receive beam. (In this case there is no transmitter if I understand correctly, it's just recording emissions from the atmosphere)
+But that's in the future.
+Certainly Earth has had its limb scanned:
+CICERO orbit design and optimization for GPS occultations?
+Does NOAA still plan to deploy all twelve Cosmic-2 GPS radio occultation satellites?
+Was SpaceX's launch of Formosat-5 more vertical than normal for any particular reason?
+Question: Besides Earth and Venus, have any other planets had their limbs scanned with radio signals?

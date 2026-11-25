@@ -1,0 +1,5 @@
+For low ballistic coefficient inflatable decelerators, has the internal convective heat transfer been calculated?
+A very low ballistic coefficient decelerator (entry vehicle) could be used for low Earth orbit reentry. It would decelerate at higher altitude, with lower air density, with lower accelerations and lower aerodynamic peak heating. This is beneficial for fragile made-in-space payloads.
+Identifying a flexible film that can take even the reduced peak heating is a challenge.
+I wonder if an inflatable spherical, oblate spheroid or other shape could develop enough internal gas convection currents to transfer peak heating from the windward surface and be rejected by heat radiation from the leeward surface to help keep the flexible film survivable?
+If so can that be modelled by stepwise integration or is CFD or other methods required?

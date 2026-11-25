@@ -1,0 +1,7 @@
+Using GMAT to simulate phasing orbits with finite burns
+I'm working on a project which requires me to use GMAT but I'm new to the program (and to asking questions on this website).
+I'm supposed to send a spacecraft from a known GTO to the Moon.
+A direct Lunar Orbit Insertion is not possible so a phasing approach is required.
+I've managed to simulate such a phasing transfer by using a "for loop" with impulse maneuvers but I am unable to recreate it with finite burns.
+Attached is a screenshot of the trajectory using impulse maneuvers.
+Any help would be much appreciated.

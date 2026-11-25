@@ -1,0 +1,4 @@
+Can the equipment behind panels of Russian ISS modules be reconfigured like the US modules?
+I couldn't find any photos or information about how the Russian modules are configured inside the panels; RussianSpaceWeb's Nauka page has some articles that would likely help, but they're paywalled. Panels in the US segment are modular ISPR racks, but the Russian panels seem to be built into the module.
+Above: Zarya/FGB interior showing panels
+Below: Photos of Zvezda show some equipment flush-mounted into the wall panels. Were these integrated before launch, and can the walls and equipment behind them be reconfigured?

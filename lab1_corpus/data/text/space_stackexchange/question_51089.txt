@@ -1,0 +1,4 @@
+Pendulum rocket fallacy - so why *do* skyrockets have sticks?
+This question is inspired by two, linked questions.
+Skyrockets (of the pyrotechnic/firework kind) have guide sticks, which are (according to internet sources) to enhance stability: "The guide stick. A typical bottle rocket, with no fins or other stabilizers, relies entirely on its stick for stability in flight. The stick's length and weight are chosen to achieve this."
+Once upon a time, when I built these things, it was explained to me that the purpose of the stick was to to ensure that the center of gravity was behind the point generating the thrust. But this seems now like the pendulum rocket fallacy. Clearly however, skyrockets do have sticks, and they presumably therefore serve a useful purpose. How do they promote stability, and could a similar construction be used with larger (space) rockets in order to promote stability? (without going as far as the Goddard rocket)

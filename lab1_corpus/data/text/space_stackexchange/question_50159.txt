@@ -1,0 +1,12 @@
+How long did the plasma blackouts of Perseverance's signals to MRO and direct-to-Earth last during its seven minutes of terror?
+Congratulations to NASA JPL and the Perseverance Team and everyone else who participated and contributed in some way!
+Watching the live feed of the EDL seven minutes of terror I heard there was a short "plasma blackout" of the radio link to the MRO in Mars orbit which was relaying data to Earth via DSN. (I also thought I heard a deceleration rate of 10 gees!)
+The plasma is sufficiently dense and conductive that it attenuates the high frequency used between the two spacecraft.
+There was a second link from Perseverance direct to Earth, referred to as a "heartbeat" or "tones" which was primarily a carrier whose Doppler shift could be accurately tracked to deceleration profile, along with some minimal health and condition data.
+Was the Doppler shift of InSight's "tone" measured and plotted somewhere?
+This VHF tone is around 400 MHz and was tracked by the Green Bank Observatory earlier. I don't know if it was Green Bank who received it during EDL also or not, but Mars was certainly high in the sky at the time (elev. > 65°), so it seems likely.
+Questions:
+Roughly what frequency was used in the link(s) between Perseverance and MRO?
+Roughly how long was the plasma blackout for both the MRO link and for the VHF tones-to-earth signal? Did the blackout at the lower frequency last longer1?
+1since plasma frequency varies with electron density and temperature.
+As an aside, the authoritative-sounding and accepted answer to Was the time of Schiaparelli's landing chosen specifically so the Giant Meter Wave Radiotelescope could listen? is "No, because TGO was there to receive and relay it", and in fact this data did turn out to be extremely valuable due to the unfortunate events.

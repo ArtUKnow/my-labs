@@ -1,0 +1,9 @@
+How unusual is it to test vacuum engines at sea level?
+How are vacuum optimized engines tested without disintegrating them? is an excellent question as it's attracted quite a number of informative and diverse answers.
+@Uwe's answer informs us that there exist at least one or two low-pressure test chambers where engines can be fired for tens of seconds and the exhaust cleverly managed/diverted to maintain a pressure below 50 Torr for tens of seconds which is pretty amazing!
+But the news discussed in the linked question says that
+SpaceX recently test fired vacuum optimized raptor engines of starship... operated in atmosphere
+@PcMan's answer tells us that this was indeed done at sea level, and says:
+Apparently, the Raptor just bulls its way past the problem by virtue of very high chamber pressure (Meaning the nozzle is not so very overexpanded)
+Question: How unusual is it to test vacuum engines at sea level? Is this yet another one of the many spaceflight-firsts it's pulled off? Or has it been done before?
+This may be difficult to answer unambiguously; an engine meant to run in vacuum might be tested with a shorter nozzle at sea level, I don't think that should count. It should be a test that has the same configuration as designed for use in vacuum.

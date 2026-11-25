@@ -1,0 +1,4 @@
+Do the dimensions match in Kepler's equation?
+We know that Kepler's equation is $$M = E - e\sin E$$
+Here, $e$ is the eccentricity, $M$ is the Mean anomaly and $E$ is the Eccentric anomaly.
+Now, the thing is- $M$ and $E$ are angles, which might have unit in radians or degrees. However, both $e$ and $\sin E$ are dimensionless. Then how can we subtract a dimensionless number from an angle?

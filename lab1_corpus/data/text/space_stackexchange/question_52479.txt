@@ -1,0 +1,13 @@
+Why can solid rockets be both the skinniest and most spherical launch vehicles while liquid fuel rockets have a more limited range of aspect ratios?
+Question: Why can solid rockets be both the skinniest and most spherical launch vehicles while liquid fuel rockets have a more limited range of aspect ratios? Are there fundamental engineering principles at work? Simple physics? Or is the devil in the details?
+Evidence of solid rocket launch vehicle "noodlicity":
+This answer to Most noodle-like (highest aspect ratio) orbital launch vehicle ever?
+Scout X-2: 25m: 1.01m = 24.75
+Scout X-2
+Evidence of solid rocket launch vehicle sphericity:
+How do spherical SRB's compare to long skinny ones? What do their thrust curves look like?
+The first stage of this Mars launch vehicle is pretty squat and is just as spherical as a spherical cow. Source: Spaceflight Now's NASA narrows design for rocket to launch samples off of Mars
+This diagram illustrates one concept for a two-stage, solid-fueled Mars Ascent Vehicle. Credit: NASA/MSFC
+Counterevidence: squat liquid launch vehicles
+SERV "VTOVL orbital launch vehicle. Chrysler ballistic single stage to orbit alternate shuttle proposal of June 1971. This was the most detailed design study ever performed on a VTOVL SSTO launch vehicle. The 2,040 metric ton SERV was designed to deliver a 53 metric ton payload to orbit in a capacious 7 m x 18 m payload bay."
+Apollo Lunar Module

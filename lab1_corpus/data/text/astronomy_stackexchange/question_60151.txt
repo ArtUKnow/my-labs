@@ -1,0 +1,4 @@
+Kerr solution and similarities to QCD asymptotic freedom
+Has anyone looked at the similarities of space-time, inside the region beyond the singularity in the Kerr solution of a rotating black hole, and asymptotic freedom experienced by quarks in quantum chromodynamics?
+Has anyone studied both to the point of knowing how similar the mathematics was?
+This question comes from a claim I read, that the rest mass of a proton looks a lot like a tiny blackhole with a radius the size of the Compton radius.

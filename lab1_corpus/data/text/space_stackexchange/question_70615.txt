@@ -1,0 +1,64 @@
+Is air density or air pressure the important quantity for breathing?
+On Earth, air pressure and air density are conceptually interchangeable because there is a relatively simple relationship between one and the other. If somebody says something like "humans can't breathe air at a pressure lower than $X$ times the pressure at sea level, it's easy to calculate what this means in terms of air density, so we can translate that into "humans can't breathe air at a density lower than $Y$ times the density of air at standard pressure and temperature".
+However, this ceases to be true once we consider other bodies (or, say, a space station orbiting in LEO or MEO). One of the above two thresholds ($X$ times sea-level pressure or $Y$ times the density of air at standard pressure and temperature) will continue to be true, of course, because that threshold is imposed by a physiological limitation of humans or whichever other species we might consider, but the other will not, because it's a translation of the aforementioned physiologically-imposed threshold into a different physical quantity using parameters that are only true for Earth.
+So which is which? Which one —pressure or density— is the important quantity in terms of how easy it is to breathe and whether or not complex organisms (eg mammals) can survive under a set of conditions without ill effect?
+Here's a little exercise that illustrates the importance of determining which of the two quantities is the physiologically important one (with a different, more application-oriented, formulation of my question at the end):
+General atmospheric physics:
+Air density decreases exponentially with altitude (or, equivalently, distance to the planet's centre). At a given distance $r$ from the planet's centre, air density is given by
+$$\rho(r)=\rho_0\,e^{-(r-r_0)/H},$$
+where $r_0$ is some arbitrary distance (generally taken to be the atmosphere's Chapman layer, but a different value can be taken by modifying the value of $\rho_0$; here I'll take it to be the planet's radius for simplicity), $H$ is the atmosphere's scale height (the height at which density decreases by a factor of $e$) and $\rho_0$ is the density at $r_0$.
+A planet's gravitational acceleration at a distance $r>r_0$ from the planet is
+$$g(r)=\frac{GM}{r^2},$$
+where $G\approx6.6740\times10^{-11}$ m$^3$ kg$^{-1}$ s$^{-2}$ is the gravitational constant and $M$ is the planet's mass.
+The differential pressure exerted by a shell of atmosphere of thickness $\text{d}r$ at a position at which tha atmosphere's density is $\rho(r)$ and the planet's gravitational acceleration is $g(r)$ is
+$$\text{d}P=\rho(r)\,g(r)\,\text{d}r.$$
+The pressure exerted by the atmosphere at a distance $r$ from the planet's centre is then
+$$P(r)=\int\text{d}P=\int_r^\infty\rho(r')\,g(r')\,\text{d}r';$$
+the pressure at the planet's surface is $P(r_0)$. Using our expressions for $\rho$ and $g$ above, this becomes
+$$P(r)=\rho_0GM\int_r^\infty\frac{e^{-(r'-r_0)/H}}{(r')^2}\,\text{d}r',$$
+which has no analytical solution that can be written in terms of functions (unless one considers the exponential integral function
+$$\text{Ei}(z)=-\int_{-z}^\infty\frac{e^{-t}}{t}\,\text{d}t$$
+a valid function to express things in terms of, in which case
+$$P(r)=\rho_0GM\,e^{r_0/H}\left(\frac{e^{-r/H}}{r}+\frac{1}{H}\,\text{Ei}\!\left(-\frac{r}{H}\right)\right)\!,$$
+but that hardly makes anything better) but which can be solved numerically for given values of $r$ if we know the planet's atmospheric scale height.
+The atmospheric scale height is given by
+$$H=\frac{RT}{\mu g_0},$$
+where $R=8.31446$ J K$^{-1}$ mol$^{-1}$ is the gas constant, $T$ is the mean density of the planet's atmosphere at the surface, $\mu$ is the mean molecular mass of the atmosphere and $g_0=g(r_0)$.
+The mean molecular mass of the atmosphere is simply
+$$\mu=\sum_jf_jm_j,$$
+where $f_j$ is the fraction of the atmosphere that is made up of the $j$th molecular species and $m_j$ is the molecular mass of the $j$th species.
+For Earth:
+Parameters:
+air density at standard temperature and pressure: $\rho_0\approx1.225$ kg m$^{-3}$
+planet radius: $r_0\approx6.371\times10^6$ m
+planet mass: $M\approx5.972\times10^{24}$ kg
+mean temperature of the atmosphere at the surface: $T=250$ K according to this book by someone in the atmospheric-chemistry-modelling group at Harvard University
+atmospheric composition: approximately 79% molecular nitrogen (N$_2$) and 21% molecular oxygen (O$_2$): $f_{\text{N}_2}\approx0.79$, $f_{\text{0}_2}\approx0.21$
+molecular masses: $m_{\text{N}_2}\approx28$ g mol$^{-1}=0.028$ kg mol$^{-1}$, $m_{\text{O}_2}\approx32$ g mol$^{-1}=0.032$ kg mol$^{-1}$
+gravitational acceleration at the surface: 9.81 m s$^{-2}$
+Putting all of the above values into the relevant equations, we obtain an atmospheric scale height of 7.347 km (consistent with the value of 7.4 km quoted in the book cited above considering rounding errors, and considering I used a very simplified atmospheric composition, which gives a slightly wrong value for $\mu$). Using this value to calculate the atmospheric density 35 km above the surface (i.e. $r=r_0+3.5\times10^4$ m), we obtain a density of $1.04526\times10^{-2}$ kg m$^{-3}$ at that altitude. This will be relevant in part 3.
+We know that atmospheric pressure at the surface is $1.01325\times10^5$ Pa.
+For Mars:
+Parameters:
+atmospheric density at the surface: equivalent to the density of air 35 km above Earth's surface (hence the above calculation), according to this Universe today article so $\rho_0\approx1.225$ kg m$^{-3}$
+planet radius: $r_0\approx3.3895\times10^6$ m
+planet mass: $M\approx6.4171\times10^{23}$ kg
+mean temperature of the atmosphere at the surface: $T=210$ K according to Wikipedia
+atmospheric composition: approximately 95% carbon dioxide (CO$_2$), although for the purposes of the calculations here we can just assume 100% carbon dioxide for simplicity: $f_{\text{CO}_2}=1$
+molecular mass of carbon dioxide: $m_{\text{CO}_2}\approx44$ g mol$^{-1}=0.044$ kg mol$^{-1}$
+pressure at the surface: 636 Pa
+gravitational acceleration at the surface: 3.72 m s$^{-2}$
+The above parameters give at atmospheric scale height of 10.6 km, not too different from Wikipedia's value of 10.8 km. This will be relevant in part 4.
+For a terraformed Mars (or any other planetary body humans might one day seek to live on, such as Titan or Venus or Europa; I've used values for Mars here):
+Parameters:
+mean temperature of the atmosphere at the surface: something like 10 K cooler than on Earth seems like a reasonable goal for terraformation: $T=240$ K
+atmospheric composition: ideally Earth-like: $f_{\text{N}_2}\approx0.79$, $f_{\text{0}_2}\approx0.21$, $m_{\text{N}_2}\approx28$ g mol$^{-1}=0.028$ kg mol$^{-1}$, $m_{\text{O}_2}\approx32$ g mol$^{-1}=0.032$ kg mol$^{-1}$
+all other parameters as for Mars
+These values give an atmospheric scale height of 18.561 km.
+Using this value for the scale height, we can calculate our terraforming goals in one of two ways:
+If we assume the goal is Earth-like density, we set $\rho_0=1.225$ kg m$^{-3}$ and calculate $P(r_0)$, which gives a target surface atmospheric pressure of $8.38502\times10^4$ Pa, or about 83% of the atmospheric pressure Earth's surface.
+If we assume the goal is Earth-like pressure, we set $P(r_0)=1.01325\times10^5$ Pa and solve for $\rho_0$, which gives a target surface atmospheric density of 1.48029 kg m$^{-3}$, or about 121% of the atmospheric density on Earth's surface.
+Which of these two goals should one aim for?
+I am aware that this question is conceptually similar to this one from almost a year ago. However, that question has no satisfying answers, and the asker didn't do the maths I did.
+I'm also aware that the question involves physiology and space physics. I've also posted it on Physics.SX; I haven't posted it on any biology- or medicine- related SX sites because I think physicists are more likely to be able to answer my question than biologists or medical experts. And ultimately, as Emilio Pisanty said, a question being on-topic on one SX site doesn't make it off-topic on all other SX sites.
+Thanks in advance for any help.

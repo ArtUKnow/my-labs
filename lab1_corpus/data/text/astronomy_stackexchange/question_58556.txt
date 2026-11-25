@@ -1,0 +1,8 @@
+Equation of Time (derivation Analemma)
+In the document available here:
+http://info.ifpan.edu.pl/firststep/aw-works/fsII/mul/mueller.pdf
+I have been able so far to reproduce all missing details so far to the relation (33) of page 7:
+$$\sin E=\frac{E-M}{e}=\sin M+\frac{e}{2} \sin 2 M+\frac{e^2}{8}(3 \sin 3 M-\sin M)+\ldots$$
+However (it must be very likely obvious but i don't get it...) i don't understand how from (33) the author get (34), ie:
+$$\sin 2 E=\sin 2 M+e \sin M 2 \cos 2 M+\ldots$$
+Any help/advice is greatly appreciated.

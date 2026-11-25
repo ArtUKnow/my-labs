@@ -1,0 +1,5 @@
+What is the maximum force a deep space spacecraft experiences after launch?
+The premise of How much of a deep space spacecraft's structural mass is useless dead weight after launch? Any plans to shed it in the future? is that the forces a deep space spacecraft experiences during launch and interplanetary trajectory insertion are much much larger than any forces it experiences ever again, at least until the last moments of end of mission.
+Question: *What is the maximum force a deep space spacecraft experiences after launch?
+Without a General Products Hull a spacecraft will experience tidal forces during flybys (gravity gradients across the craft itself), but I think that these are pretty tiny. Solar photon and solar winds are going to be tiny too, as are most micrometeorite impacts, though there may be some survivable impacts that are potentially consequential from a structural point of view.
+I'm guessing that the biggest ones are always thrust from chemical engines during deep space and orbital insertion maneuvers. So the biggest one of those might be the answer.

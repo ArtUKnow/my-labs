@@ -1,0 +1,6 @@
+Variation of restricted 3 body problem
+I'm in the process of programming a space game which will involve a 3-body system. I'm thinking of making a simplified version of the restricted 3 body problem where:
+Body A is fixed in space,
+Body B is in a fixed, circular orbit around body A,
+and body C is of negligible mass and is influenced by both body A and B.
+I need help with body C's equations of motion.

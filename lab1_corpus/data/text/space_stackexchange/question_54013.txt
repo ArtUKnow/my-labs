@@ -1,0 +1,3 @@
+What are the energy requirements to reach Earth orbit and Mars orbit assuming no efficiency losses?
+Suppose some magic propulsion method exists which directly converts electricity into kinetic energy. And its efficiency is 100%. And its weight is 0.
+What is a way to calculate the energy requirements for a 1kg weight to reach Earth orbit and Mars orbit (both when orbital trajectories are favorable and when they aren't)?

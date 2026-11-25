@@ -1,0 +1,6 @@
+Could a Mars rover reliably navigate using the local magnetic fields?
+Mars does not have a global magnetic field which guides charged particles entering the atmosphere. Mars has multiple umbrella-shaped magnetic fields mainly in the Southern Hemisphere, which are remnants of a global field that decayed billions of years ago.
+Wikipedia
+This article states that the maximum local magnetic field on Mars is 1500 nanotesla. This answer states that older crust typically has a magnetic field of 15-20 nanotesla, with younger crust less than 15 nanotesla. Another answer claims ">1" nanotesla.
+Suppose we landed a rover in a region with a 15-20 nT magnetic field. Would a rover be able to reliably navigate (i.e. know which way is "north") using these local magnetic fields? Or is there some issue that would make such navigation unreliable?
+(We can assume that the rover won't travel far enough to leave the local magnetic field.)

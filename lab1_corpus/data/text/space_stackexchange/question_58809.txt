@@ -1,0 +1,7 @@
+Formula for Determining Time to Perform Delta-V Burn Given Propulsion System Parameters
+Question is as stated. Determining how much delta-V one needs to change orbits is pretty straight forward with the rocket equation. However, I’d like to see if there’s a way to calculate delta-V from a propulsion system’s power, to compare the trade offs between maneuver time, spacecraft mass, and exhaust velocity.
+I initially thought I could just go from $P = F \cdot v_{ex}$ to determine this.
+$P = m \cdot a \cdot v_{ex}$
+$a = \frac{dV}{dt}$
+$dV = P \cdot \frac{dt}{m \cdot v_{ex}}$
+As you can see, increasing exhaust velocity seems to decrease delta-V, which doesn’t make any sense when compared to what exhaust velocity does to delta-V in the rocket equation. Probably misconstruing a variable in this derivation, any insights are appreciated.

@@ -1,0 +1,4 @@
+Does WGS 84 use a flat metric?
+The Geocentric Celestial Reference System (GCRS) and the International Terrestrial Reference System (ITRS) are based on an approximate Schwarzschild metric, as discussed for instance in Soffel & al. 2003 or in Kaplan 2005. In particular, the spatial part of their metric is not flat (eg eqn (8) in Soffel), having diagonal terms proportional to $1+ 2w/c^2$, where $w$ is the space- and time-dependent gravitational potential.
+From what I understand, WGS 84 is based on the ITRS. Then is its metric non-flat? I tried searching for this information in the supposedly ufficial document, but cannot find anything definitive.
+Very grateful if someone can answer and provide references!

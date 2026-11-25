@@ -1,0 +1,14 @@
+Did the Voyager spacecraft use a Golay, a Reed-Solomon and/or a Hamming code for data transmission encoding for error correction? (Need clarification)
+The now-famous answer to How is stacking oranges in 24 dimensions related to receiving and decoding signals from the Voyagers? is worth stopping now here and going back and reading first.
+Okay welcome back! @NgPh's comment under the question links to Channel Coding: The Road to Channel Capacity which is also very much worth reading. It says:
+E. Reed-Solomon code implementations
+The first major application of RS codes was as outer codes in concatenated coding systems for deep-space communications. For the 1977 Voyager mission, the Jet Propulsion Laboratory (JPL) used a (255, 223, 33), 16-error-correcting RS code over $\mathbb{F}_{256}$ as an outer code, with a rate-1/2, 64-state convolutional inner code (see also Section IV-D). The RS decoder used special-purpose hardware for decoding, and was capable of running up to about 1 Mb/s [27]. This concatenated convolutional/RS coding system became a NASA standard.
+1980 saw the first major commercial application of RS codes in the compact disc (CD) standard. This system used two short RS codes over $\mathbb{F}_{256}$, namely (32, 28, 5) and (28, 24, 5) RS codes, and operated at bit rates of the order of 4 Mb/s [28]. All subsequent audio and video magnetic storage systems have used RS codes for error correction, nowadays at much higher rates.
+[...] Linkabit Corp. was founded by Irwin Jacobs, Len Kleinrock, and Andy Viterbi in 1968 as a consulting company. In 1969, Jerry Heller was hired as Linkabit’s first full-time employee. Shortly thereafter, Linkabit built a prototype 64-state Viterbi algorithm decoder (“a big monster filling a rack” [60]), capable of running at 2 Mb/s [61].
+[27]:R. W. McEliece and L. Swanson, “Reed-Solomon codes and the exploration of the solar system,” in Reed-Solomon Codes and Their Applications (S. B. Wicker and V. K. Bhargava, eds.), pp. 25–40. Piscataway, NJ: IEEE Press, 1994.
+[28]:K. A. S. Immink, “Reed-Solomon codes and the compact disc,” in Reed-Solomon Codes and Their Applications (S. B. Wicker and V. K. Bhargava, eds.), pp. 41–59. Piscataway, NJ: IEEE Press, 1994.
+[60]:D. Morton, “Andrew Viterbi, electrical engineer: An oral history,” IEEE History Center, Rutgers U., New Brunswick, NJ, Oct. 1999
+[61]:J. A. Heller and I. M. Jacobs, “Viterbi decoding for satellite and space communication,” IEEE Trans. Commun. Tech., vol. COM–19, pp. 835–848, Oct. 1971.
+But sources quoted in How is stacking oranges in 24 dimensions related to receiving and decoding signals from the Voyagers? and in comments below the question and the answer suggest Voyager used a Golay code, and the term Hamming is thrown around a lot as well.
+So let's nail this down:
+Question: Did the Voyager spacecraft use a Golay, a Reed-Solomon and/or a Hamming code for data transmission encoding for error correction?

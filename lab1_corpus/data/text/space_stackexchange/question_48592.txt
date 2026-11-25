@@ -1,0 +1,2 @@
+What is the cost of production or sale of a Soyuz spacecraft?
+Soyuz manned spacecraft have been operating for over fifty years and have made one hundred and forty five flights. There have been many upgrades and improvements and is still going strong. I imagine that experience and economies of scale mean that Energia, the manufacturer, can churn out the spacecraft at a low cost by now, even though it takes three years to complete an individual spacecraft. Is there a published unit cost of production or sale (by Energia to Roscosmos) of a contemporary Soyuz capsule?

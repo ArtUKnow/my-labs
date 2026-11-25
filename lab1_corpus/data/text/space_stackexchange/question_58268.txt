@@ -1,0 +1,15 @@
+satellite ground track calculation
+I'm trying to calculate the ground track of an earth-orbiting satellite (Longitude, latitude)
+I found this handy way on the documentation but it's good when trying to find a single point what if I'm trying to find long, lati for several position points like :
+is there any way to do so ??
+from skyfield.api import load, wgs84, EarthSatellite
+ts = load.timescale()
+line1 = '1 25544U 98067A 22043.55847865 .00011256 00000-0 20676-3 0 9998'
+line2 = '2 25544 51.6418 233.7857 0005922 124.4921 351.1177 15.49734813325856'
+satellite = EarthSatellite(line1, line2, 'ISS (ZARYA)', ts)
+print(satellite)
+t = ts.now()
+geocentric = satellite.at(t)
+lat, lon = wgs84.latlon_of(geocentric)
+print('Latitude:', lat)
+print('Longitude:', lon)

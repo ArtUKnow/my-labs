@@ -1,0 +1,9 @@
+How was the ventilation valve supposed to work on Soyuz 7K-T (e.g. Soyuz-11)?
+I'm reading the book Salyut - The First Space Station - Triumph and Tragedy and the usage of the ventilation valve on Soyuz-11 confuses me.
+There were no induction or exhaust pumps that pushes air in or out.
+Only one of the valves was supposed to open during normal operation.
+The diameter of the airway was small (2cm in diameter) so convection was hardly observable (or not?)
+There was no air supply, e.g. compressed air tanks that could push out stale air (or was there?)
+Hence there wouldn't be any meaningful exchange of air once the cabin pressure equalizes with outside. It's like drilling a hole on a oil barrel and call it "ventilation".
+The only way I can imagine it working is to let the cabin air rush out at high altitude (5km when the valve is supposed to open) and then let the outside air flow in slowly as the ship descends (and outside pressure would increase). In that way, about a half of cabin's volume would be refreshed (air pressure at 5km is about 0.75atm and cabin pressure in Soyuz could be as high as 1.2ATM). Is that all it supposed to do?
+But the manual also said, if one of the ventilation hole was covered by water after landing on water, the astronauts would open the other valve that's (if) not covered by water. So clearly those valves was supposed to do something even on the ground. So what did they actually do?

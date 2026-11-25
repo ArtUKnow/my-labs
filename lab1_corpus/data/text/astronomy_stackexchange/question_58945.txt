@@ -1,0 +1,13 @@
+When a protoplanet falls toward the Sun, even from a billion miles, how could it ever be flung out of the Solar System?
+I should know this, and it scares me that I don't. How is it ever possible for anything to gain enough speed from falling toward the sun to be thrown out of the solar system?
+When an object falls from a great distance and swings around the sun,it can only have the energy had gained from falling toward the sun.
+Right?
+But isn't that exactly the same as the potential energy it had when it was in orbit way out in the cold?
+How could it gain enough extra energy to be thrown farther than it already was when it started out? Isn't the maximum distance it could gain from falling towards the sun and swinging around exactly equal to its original distance?
+I know that a planetary flyby craft gains more energy than it had because when Voyager swung around Jupiter, Jupiter slowed down and fell slightly closer toward the sun. But in the present case, the sun isn't moving.
+And I also know that the maximum acceleration is proportional to how close to the surface you can get. If the sun had the same mass but was a neutron star, you could swing VERY close to it and gain a huge amount of energy. But can you ever gain more energy than you had stored in the potential energy of your distance?
+This certainly isn't a mass into energy issue. And it's not a special relativity issue, otherwise I'd understand it. SR explains where the extra energy comes from when the ball jumps from my hand and slams against the ground. When that happened one time when I was a little kid, it made me giggle, and I vowed that someday I'd understand it.
+Now I do. The energy is subtracted from the object's momentum through time. That's what causes time dilation. The falling object is experiencing imaginary rotation in 4 dimensions.
+Okay, cool. But there's only a finite amount of energy that can be converted that way, because it's the energy that was stored by virtue of the distance between the two objects.
+I'm overlooking something really obvious. Something is just not occurring to me. But what is it?
+It IS the case that falling objects can be swung out of the solar system, right? I'm starting under wonder if maybe that's what I'm mistaken about. And the only thing worse than not understanding is being mistaken.

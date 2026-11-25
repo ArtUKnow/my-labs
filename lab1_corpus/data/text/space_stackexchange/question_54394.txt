@@ -1,0 +1,6 @@
+What was the first "bent pipe" or otherwise coherent transponder in deep space?
+In this answer to On what basis is the information about the distance and velocity of the Voyager probes determined? in Astronomy SE I mentioned the term "bent pipe" transponder and also mentioned that the Voyagers used rational fractions of 240/221 and 880/221 for its phase-locked loop frequency converted coherent transponder to receive ranging signals from Earth and simultaneously amplify and retransmit them back.
+I mentioned that questions here tagged delay-doppler and their answers inform more about this topic.
+But I have a hunch that the coherent transponders on the Voyagers were not the first in deep space.
+Question: What was the first "bent pipe" or otherwise coherent transponder in deep space? Which spacecraft and space agency launched and first successfully used this technology on a deep-space mission? Was it "bent pipe" i.e. retransmitted on the same frequency) or did it convert to a different frequency coherently?
+If it was bent pipe, then an answer for the first coherently frequency shifted transponder will be appreciated as well.

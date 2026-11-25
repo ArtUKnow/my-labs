@@ -1,0 +1,5 @@
+GMAT code -- Change animation speed
+I find the animations initiated by the run command are so fast that visually I cannot follow them in any detail. I have been unable to find any setting in the program to slow them down. Likewise I cannot find any comments on the internet or in forums that say how to slow down visuals.
+I am using GMAT 2019a on linux.
+Anyone with any insights, please drop a response.
+thanks, tom kosvic

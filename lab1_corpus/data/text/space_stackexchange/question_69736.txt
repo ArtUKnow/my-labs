@@ -1,0 +1,9 @@
+Jerk in reentry simulations
+These plots are from my own Python-based reentry simulator, visualized in ParaView’s plot-matrix view — which explains the unconventional axis labels. For both plots time moves from right-to-left, with high altitude on the right. For the plot on the right, the vertical axis = jerk in m/s³.
+For clarity the reentry i used was for an ATS Shuttle Profile based on the following R_PLANET = 6371000, g_surface = 9.81, H_struct = 8500. Entry params entry altitude = 120000 m, entry_velocity = 7600 m/s entry angle_deg = 2, object C_d = 0.4 A + 260.0 m^2, mass = 104000 eta = o.6 rupture threshold = 2e7 and this was modeled as a dead stick flight
+Most reentry simulations I've seen use thresholds based on altitude, Mach number, or angle of attack to transition between phases (e.g., from ballistic to glide).
+But what about jerk (the third derivative of position)? Has anyone explored using jerk as a trigger condition in reentry models?
+For example: during atmospheric descent, the rate of change of acceleration may spike as plasma drag builds or as structural stresses accumulate. In a simulation I'm working on, I've used jerk to successfully trigger a glide phase emergently—no hardcoded altitude or Mach threshold.
+This gave me some surprisingly realistic behavior, including rupture events and terminal velocity overshoots.
+Is jerk ever used in professional or academic reentry modeling? Or is it considered too noisy or unstable to be useful?
+I'd love any references, criticisms, or anecdotes on how higher derivatives are (or aren’t) used in real spacecraft simulation environments.

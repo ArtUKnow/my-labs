@@ -1,0 +1,10 @@
+How did "ACA Out of detent" work?
+This is a related question about the words said during Apollo 11 as soon as the LM touched the ground.
+My question is specific to
+ACA out of detent
+As soon as the LM touched down on the surface it wouldn't be in the same attitude just before landing, causing DAP to fire the thrusters to correct for the attitude. By nudging the ACA (the hand controller) the DAP would interpret the then current attitude as a new request to be held and thus as now current attitude is equal to requested attitude, DAP would stop firing.
+My question is then, how did the code implement this functionality? If in attitude hold mode, the pilot nudged the hand controller, would the then current attitude always be copied as requested attitude? How then did it accept the new attitude from the pilot, if all it did was copy the attitude, or after copying, a small delta attitude was added in the direction where the hand controller was nudged?
+Glossary:
+ACA = Attitude Control Assembly, the joystick that the pilot uses to manually control attitude. It has springs to return it to a centered position and a detent to keep it there.
+DAP = Digital Autopilot, a program in the guidance computer.
+LM = Lunar Module, the spacecraft that landed on the Moon.

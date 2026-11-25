@@ -1,0 +1,3 @@
+How to find ECI coordinates for a circular orbit
+Suppose a satellite is orbiting Earth in a circular orbit, of which I know the inclination $i$, the right ascension of the ascending node $\Omega$, the semi-major axis $a$ (or orbit radius given that it is a circular orbit), the angular velocity of spacecraft in the orbit $n$. Suppose also that I know that at time $t_0$ the spacecraft is located at the ascending node. How can I find its coordinates in the ECI frame? I know that some rotation matrices are used to obtain the ECI coordinates, but I do not understand in which order these matrices have to multiplied and which is their argument.
+I apologize for the noob question but I am new to these topics.

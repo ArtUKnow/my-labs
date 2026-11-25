@@ -1,0 +1,14 @@
+Are there any paths in the Interplanetary Transport Network that leave the solar system?
+As a (very late) follow up to this question, I wondered if there are any ITN paths that leave the solar system altogether? Articles about this seem to be concerned with low energy transfers of spacecraft to other planets. I'm not concerned about timescales just if, in principle, it's possible for an object to travel into interstellar space via the ITN?
+I'm not sure if I should be asking here or in Astronomy.SE, I'm happy to move it if it's a better fit over there.
+EDIT: OK, I've got a confession to make. My question specified no timescales because it was partly inspired by the Celestis flight aboard the first Vulcan Centaur, which will send the remains of some of the Star Trek TOS people into 'interplanetary space'...
+DNA samples taking part in the flight are cast members of the original
+"Star Trek" television series — Nichelle Nichols, DeForest Kelley and
+James Doohan — as well as series creator Gene Roddenberry, and his
+wife and recurring series actor Majel Barrett Roddenberry.
+According to the Celestis website, Enterprise will be the company's
+first "Voyager Service" option flown for its customers, which launches
+the DNA samples into interplanetary space.
+..and I wondered if there was an established path (ITN??) which could be used to deliberately send the 'payload' into interstellar space instead. Something like the situation described by @mark_foskey where an ITN path leads to repeated gravity-assists from Jupiter.
+The key to this is a known route out of the solar system, rather than an n-body solution that is so sensitive to its initial conditions that we couldn't be sure of the spacecraft's trajectory.
+I do realise that I'm moving the goalposts and that this is much more specific than the original question. I'm happy to remove this edit if it confuses things too much. People have put time and effort into thinking about answers, I don't want to undermine that.

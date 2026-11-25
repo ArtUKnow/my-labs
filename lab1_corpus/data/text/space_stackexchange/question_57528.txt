@@ -1,0 +1,10 @@
+User help forum for GMAT (General Mission Analysis Tool) users?
+GMAT (General Mission Analysis Tool) is an amazing open-source tool for designing spacecraft orbits etc.
+The latest documentation for GMAT version 2020a says that help is available at http://forums.gmatcentral.org, but that site is unresponsive (ERR_CONNECTION_REFUSED
+), and hasn't been updated at the Internet Archive since GMAT Forums as of 2019-06-13
+Has it moved? Was there any announcement? Is there a more functional, searchable archive somewhere, or the raw data that someone could use to put up at least a static copy?
+Is there an alternative forum to recommend? Or is this space.stackexchange.com site the best we've got?
+And what is the status of the GMAT project itself?
+Update: another thing that we would love access to is the Mission Library, which was at http://li394-117.members.linode.com:8090/MissionLibrary but that fails with "DNS_PROBE_FINISHED_NXDOMAIN" and doesn't seem to have been captured by the Internet Archive at all. It would be very very helpful to have good examples of current and/or complex missions to build on.
+And one more old forum is also missing (redirecting to another site:) gmat.ed-pages.com/forum
+Does anyone active have edit permissions on the GMAT Wiki to point to the new locations identified in the answer[s]?

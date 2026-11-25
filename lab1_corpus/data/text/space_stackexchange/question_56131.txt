@@ -1,0 +1,7 @@
+Are there currently any spacecraft in orbit around Venus that might (or might not) be at risk of meteoric dust from comet Leonard C/2021 A?
+Astronomer Shreyas Vissapragada @astroshrey ​tweeted
+Check out the latest from @aciqra, @Yeqzids, et al (including myself!) on C/2021 A1 (Leonard) and its close approach to Venus:
+Preview of Comet C/2021 A1 (Leonard) and Its Encounter with Venus
+The abstract ends:
+...The flux of such meteors on Venus, and thus their potential direct or indirect observability, is highly uncertain as the comet's dust production history is poorly constrained at these distances, but will likely fall well below the meteor flux from comet C/2013 A1 (Siding Spring)'s closer encounter to Mars in 2014, and thus poses negligible risk to any spacecraft in orbit around Venus. Dust produced in previous apparitions will not likely contribute substantially to the meteor flux, nor will dust from any future activity apart from an unlikely high speed (>0.5 km/s) dust outburst prior to the comet reaching r~2 au in 2021 September.
+Are there actually any active (or not) spacecraft currently in orbit around Venus?

@@ -1,0 +1,5 @@
+κ₀ for Mercury—Formula (another definition)
+Following my other question about a specific “hidden” formula in Ptolemy’s model for Mercury, I am now looking for yet another “hidden” formula, this time the one used to find $\bar\kappa_0$ so that $OC=60$ in the figure below. We are given that $DC=60$ (in arbitrary units), that angles $AFD$ and $AEC$ are equal but of opposite direction (so $\angle AFD = -\angle AEC$), and that $OE=EF=FD$ (which is equal to 3, but I’d like to keep 3 out of the equation and just symbolize it by e (for “eccentricity”).
+($A$ is the apogee of Mercury’s deferent centered on $D$. $D$ rides on the small circle centered on $F$. The Earth is at point $O$ [for “observer”]. Points $O$, $E$, and $F$ are always in a straight line with $A$. Mercury itself rides on the epicycle centered on $C$.)
+While Ptolemy knew of absolutely no trigonometry and other modern mathematics, I don’t mind the answer to be expressed in modern terms, although simple trigonometry would be nice since math is not my forte.
+P.S. I’ll also ask this question on MathSE.

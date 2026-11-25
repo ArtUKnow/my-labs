@@ -1,0 +1,5 @@
+Why can't you travel to Mars in a straight line?
+I had two questions regarding choosing a path to Mars. Firstly:
+I wanted to have a look at the mathematics behind the reason as to why we choose Hohmann's transfer over a journey that is a straight line from Earth to Mars. Is moving at high speeds that require greater deceleration when entering Mars orbit the only problem that prevents us from doing this? I suppose the answer to this question is no. Then what else restricts us from performing a much simpler mission?
+Secondly:
+What is the math behind calculating the time taken to get to Mars with a specific orbit? So, what is the time difference between a certain Hohmann's transfer to Mars and moving in a straight line to the Red Planet (assuming we can solve the problems associated with a journey which takes a straight path)?

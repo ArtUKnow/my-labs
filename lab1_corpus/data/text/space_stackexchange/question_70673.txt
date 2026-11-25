@@ -1,0 +1,4 @@
+What are the square structures on this Globalstar satellite?
+Image comes from this other Space Exploration Stack Exchange post: Does anyone know what MLI looks like after it has vented?
+The deployed satellite, far from the camera, has two white square structures facing toward the camera. The satellite close to the camera does not have these. This discrepancy interested me enough to ask the question.
+My best guess is they might be some kind of grappling interface for potential future servicing, but might be experimental, so only installed on one unit? Not sure. What might they be?

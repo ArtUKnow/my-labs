@@ -1,0 +1,18 @@
+Does Article VI of the Outer Space Treaty apply to a Launching State?
+The following question was asked and answered 3 years ago: might ISRO’s launch of Swarm’s satellites in 2018 be at least a technical violation of the Outer Space Treaty?
+Recall that the launch in question by ISRO (Jan. 2018) puts satellites of the Swarm Technologies (registered in the US), which satellites were denied their license by the FCC (Sep. 2017), on the basis of insufficient debris mitigation measures.
+One of the answers to the referred question affirmed that India was in breach of the Treaty as per its Art. VI, with the following reasoning:
+What that [i.e. Art. VI] means is that when a commercial company wants to do something in outer space, some government has to both (1) give them permission (authorization) to go do that thing, and a government has to (2) continue to assert some regulatory control over those activities (continuing supervision) to ensure that the commercial actor doesn't run around and violate the obligations contained in the Outer Space Treaty.
+And
+With this launch, ISRO and the Indian Government have not authorized the payload activities, and they certainly have not asserted any kind of regulatory control over their on-orbit operations. Furthermore, India knew, or should have known if they asked, that NO OTHER COUNTRY was going to authorize or continually supervise these operations either, and that the United States had specifically denied permission when asked by the commercial company. So there is a very strong case that India's launch of these satellites does not satisfy the Article VI obligations.
+The relevant part of Art. VI reads as follows:
+States Parties to the Treaty shall bear international responsibility for national
+activities in outer space, including the Moon and other celestial bodies, whether
+such activities are carried on by governmental agencies or by non-governmental
+entities, and for assuring that national activities are carried out in conformity
+with the provisions set forth in the present Treaty. The activities of non-
+governmental entities in outer space, including the Moon and other celestial bodies, shall require authorization and continuing supervision by the appropriate State Party to the Treaty.
+My question:
+Is the text of Art. VI clear enough that we can interpret that the “appropriate State Party” encompasses the state launching the rocket and/or the state from which territory the launch occurred (and not only the US in this particular case)?
+Note:
+There is no-doubt that India, being the Launching State, is liable for damages resulting from objects put in orbits by Indian rockets and/or by rockets launched from its territory (Art. VII). There is no doubt that India can be accused of negligence (for not verifying the paper work of foreign payloads using its services), applying "common sense". But it would be, in my mind, far-reaching to impose on India the obligation of "continuing supervision and authorization" on Swarm Technologies products and activities.

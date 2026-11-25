@@ -1,0 +1,13 @@
+Convert luminosity of the Sun to its absolute magnitude (Excel formula)
+I would like to convert the luminosity of the Sun to its absolute magnitude, preferably in Excel.
+I found the formula here:
+How to calculate the apparent magnitude of sun?
+but it's wrong, as I get -0.0075 instead of 4.83.
+The same formula is here:
+https://www.quora.com/How-do-you-convert-intensity-from-a-star-watts-m-2-to-apparent-magnitude
+My Excel formula looks as follows:
+Y4 = =3.828*10^26
+D4 = Luminosity of the Sun
+Formula:
+=-2.5*LOG10(D4/Y4)
+What am I missing here?

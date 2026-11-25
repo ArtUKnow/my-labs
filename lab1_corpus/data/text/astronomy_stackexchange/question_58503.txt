@@ -1,0 +1,3 @@
+Relation between density and mass of a galaxy
+The Tully-Fisher relation provides the relation between the terminal velocity of stars and the mass of a galaxy. On similar lines, is there a relation between the density of stars (and gasses) in a galaxy and the mass of a galaxy?
+If the mass increases, does the density also increase due to higher gravitational forces?

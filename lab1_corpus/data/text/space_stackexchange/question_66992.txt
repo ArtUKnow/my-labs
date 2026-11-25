@@ -1,0 +1,14 @@
+Could a Project like Orion be built today with non nuclear weapons?
+According to,
+Project Orion
+The optimal Orion drive bomblet yield (for the human crewed 4,000 ton
+reference design) was calculated to be in the region of 0.15 kt, with
+approx 800 bombs needed to orbit and a bomb rate of approx 1 per
+second
+And according to this,
+Father of All Bombs
+The bomb weighs around 7,100 kg and reportedly has an explosive yield
+equivalent to 44 tons of TNT.
+This is 29% of the yield of the nuclear bombs that Orion would need to work in theory. Storing this would add 5600 tons to the rocket, when the Falcon Heavy for example weights 1400 tons. The largest rocket ever to be built by SpaceX is said to weight 5000 tons Starship
+Largest bombs could be created I suppose, to reach the theorized 0.15 kt of the Orion Project, but they would add more weight to the rocket (the accidental non nuclear explosion of Beirut for example, was calculated to have a yield of 0.5 - 1.1 kt)
+Could a Project like Orion be built today with non nuclear weapons, or are there technical limitations like the weight of the bombs needed to be stored, or the way they need to be detonated?

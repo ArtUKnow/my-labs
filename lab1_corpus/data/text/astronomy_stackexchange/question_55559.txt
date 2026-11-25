@@ -1,0 +1,4 @@
+What would happen if a low-mass primordial black hole was captured by a brown dwarf or planet mass object?
+Prompted by a recent PBS SpaceTime video
+The video in question discusses what would happen if a low-mass (asteroid-mass) primordial black hole were captured in the core of a Sun-like star (a so-called "Hawking star"), and how it would influence the evolution and characteristics of the star. While the effects might not be particularly obvious for younger G-class stars, it feels intuitively likely that the lower the mass of the star, the greater the proprotional effect would be. In the extreme, a brown dwarf or planet-mass object seems likely to be altered dramatically by the presence of such a PBH.
+What might those effects be on a "Hawking brown dwarf" or "Hawking planet"?

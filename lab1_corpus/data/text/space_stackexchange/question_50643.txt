@@ -1,0 +1,4 @@
+Why 53º orbits for Starlink?
+In the UCS satellite dataset, I see a very modest number of non-Starlink LEO satellites around 53º (see graph below).
+Conversely, Starlink satellites are regularly deployed around that inclination.
+What advantages does 53º inclination provide SpaceX? Why isn't it more more popular?

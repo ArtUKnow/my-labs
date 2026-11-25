@@ -1,0 +1,2 @@
+What caused the premature loss of Super Heavy Booster 10 on IFT-3?
+We are told that engine failures caused the booster to be underpowered during landing. In that case, one would expect the booster to slam into the sea. Instead, telemetry cut our at 463m above sea level. No explanation has been given for this.

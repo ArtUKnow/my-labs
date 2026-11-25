@@ -1,0 +1,6 @@
+What were the most impactful non-fatal failures on STS missions?
+Which failures on STS missions were the most impactful?
+Please exclude the o-ring issue on STS-51-L, as well as the tile damage caused by insulative ET foam on STS-107.
+Unrelated failures that happened on the pad or during the STS-107 mission before reentry may qualify.
+This question was prompted by a comment on Which STS mission had the most accidents or failures?
+Bonus points for failures that would have been the most impactful, had they not been fixed mid-mission, excluding those that were documented and prepared for ahead of launch.

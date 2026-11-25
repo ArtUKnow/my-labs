@@ -1,0 +1,6 @@
+The lowest position of the sun at the equinox and during the whole year
+I actually have a follow-up question (because my first question was answered in such a surprising and simple way and I have studied the details of the formula for the highest position of the sun a) at the equinox and b) throughout the year).
+Is there a way to determine the lowest position of the sun during an entire year (i.e. presumably 21 December) and the lowest position during the equinox at a given position "lat"?
+Additional consideration: I was only thinking of Europe. But in the Arctic Circle it must get strange.
+Thanks for your help. I look forward to learning more about the relationship between the sun and the earth. This is so interesting :)
+P.S. The formular doesn't have to be ultra extra precise. - But when computations are necessary: I am using skyfield for calculations. If you could take that into account when answering with formulas

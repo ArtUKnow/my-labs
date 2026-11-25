@@ -1,0 +1,4 @@
+The Moon's topocentric position
+I followed The Moon's topocentric position to lern how to calculate the moon's position.
+I have calculated topocentric RA and Decl, but I don't know how to convert it to the moon's horizon coordinates, so is there a formula or resource?
+I have calculated geocentric hour angle, so after calculating topocentric RA and Decl, should I calculate the topocenteric hour angle before converting topocentric RA and Decl to the moon's horizon coordinates?

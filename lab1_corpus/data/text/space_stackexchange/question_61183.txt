@@ -1,0 +1,2 @@
+Is it possible to throttle down the thrust in a rocket engine to 1% just like in KSP?
+With any normal liquid fuelled rocket engine it is possible to throttle the thrust up and down, but in Kerbal space program it is possible to bring it all the way down to around a percent thrust. Is this possible with normal rocket engines?

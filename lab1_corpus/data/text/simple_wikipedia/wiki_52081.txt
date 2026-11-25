@@ -1,8 +1,0 @@
-Theoretical computer science
-Theoretical computer science is the study of mathematics and computer science related to the theory of computation and formal methods. Topics in theoretical computer science are:
-Automata theory
-Computability theory
-Distributed computing
-Formal languages
-Type theory
-References

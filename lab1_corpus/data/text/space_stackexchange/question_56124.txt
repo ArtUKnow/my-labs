@@ -1,0 +1,233 @@
+GMAT: Finite burn targeting, solving for burn duration and quaternion
+I'm trying to using GMAT to design a finite burn with a fixed attitude throughout the burn. I do not know the attitude needed at the start, nor do I know the burn duration needed.
+I set up six variables: BurnDuration, q1, q2, q3, and q4, respectively representing the burn duration in seconds and the components of the quaternion (I don't know which component corresponds to the scalar value). In the differential correcter, I ask GMAT to vary these variables, propagate to periapse, turn on the thruster for the burn duration, and then propagate until the next apoapse, where the objectives should be met.
+In the script below, I'm simply trying to increase the SMA by 100km.
+In my setup, GMAT does not seem to modify the quaternions representing the attitude of the spacecraft (I believe that I fixed the thruster to the spacecraft), and only tries to modify the burn duration. After a number of iterations, the differential corrector tried to modify the burn duration by the max step in each direction (i.e. +30 seconds at iteration i and then immediately by -30 seconds, but never tries a smaller step). The differential correction does not converge at all.
+Question: Why does GMAT not try to vary the quaternions? If they do not change the final value, then GMAT typically says that a given variable is ineffective.
+I suspect that I have incorrectly set up something, but I cannot seem to figure out what it is. Any hint is appreciated, thanks.
+The script:
+%General Mission Analysis Tool(GMAT) Script
+%Created: 2021-12-08 17:44:08
+%----------------------------------------
+%---------- Spacecraft
+%----------------------------------------
+Create Spacecraft DefaultSC;
+GMAT DefaultSC.DateFormat = UTCGregorian;
+GMAT DefaultSC.Epoch = '25 Nov 2023 14:11:26.789';
+GMAT DefaultSC.CoordinateSystem = MoonJ2K;
+GMAT DefaultSC.DisplayStateType = Cartesian;
+GMAT DefaultSC.X = -406.8997620000155;
+GMAT DefaultSC.Y = -111.8177819999983;
+GMAT DefaultSC.Z = -1697.662681000002;
+GMAT DefaultSC.VX = 0.620734;
+GMAT DefaultSC.VY = 1.591183;
+GMAT DefaultSC.VZ = -0.252232;
+GMAT DefaultSC.DryMass = 850;
+GMAT DefaultSC.Cd = 2.2;
+GMAT DefaultSC.Cr = 1.8;
+GMAT DefaultSC.DragArea = 15;
+GMAT DefaultSC.SRPArea = 1;
+GMAT DefaultSC.SPADDragScaleFactor = 1;
+GMAT DefaultSC.SPADSRPScaleFactor = 1;
+GMAT DefaultSC.Tanks = {ChemicalTank1};
+GMAT DefaultSC.Thrusters = {ChemicalThruster1};
+GMAT DefaultSC.NAIFId = -10000001;
+GMAT DefaultSC.NAIFIdReferenceFrame = -9000001;
+GMAT DefaultSC.OrbitColor = Red;
+GMAT DefaultSC.TargetColor = Teal;
+GMAT DefaultSC.OrbitErrorCovariance = [ 1e+70 0 0 0 0 0 ; 0 1e+70 0 0 0 0 ; 0 0 1e+70 0 0 0 ; 0 0 0 1e+70 0 0 ; 0 0 0 0 1e+70 0 ; 0 0 0 0 0 1e+70 ];
+GMAT DefaultSC.CdSigma = 1e+70;
+GMAT DefaultSC.CrSigma = 1e+70;
+GMAT DefaultSC.Id = 'SatId';
+GMAT DefaultSC.Attitude = CoordinateSystemFixed;
+GMAT DefaultSC.SPADSRPInterpolationMethod = Bilinear;
+GMAT DefaultSC.SPADSRPScaleFactorSigma = 1e+70;
+GMAT DefaultSC.SPADDragInterpolationMethod = Bilinear;
+GMAT DefaultSC.SPADDragScaleFactorSigma = 1e+70;
+GMAT DefaultSC.ModelFile = 'aura.3ds';
+GMAT DefaultSC.ModelOffsetX = 0;
+GMAT DefaultSC.ModelOffsetY = 0;
+GMAT DefaultSC.ModelOffsetZ = 0;
+GMAT DefaultSC.ModelRotationX = 0;
+GMAT DefaultSC.ModelRotationY = 0;
+GMAT DefaultSC.ModelRotationZ = 0;
+GMAT DefaultSC.ModelScale = 1;
+GMAT DefaultSC.AttitudeDisplayStateType = 'Quaternion';
+GMAT DefaultSC.AttitudeRateDisplayStateType = 'AngularVelocity';
+GMAT DefaultSC.AttitudeCoordinateSystem = EarthMJ2000Eq;
+GMAT DefaultSC.EulerAngleSequence = '321';
+%----------------------------------------
+%---------- Hardware Components
+%----------------------------------------
+Create ChemicalThruster ChemicalThruster1;
+GMAT ChemicalThruster1.CoordinateSystem = Local;
+GMAT ChemicalThruster1.Origin = Luna;
+GMAT ChemicalThruster1.Axes = SpacecraftBody;
+GMAT ChemicalThruster1.ThrustDirection1 = 1;
+GMAT ChemicalThruster1.ThrustDirection2 = 0;
+GMAT ChemicalThruster1.ThrustDirection3 = 0;
+GMAT ChemicalThruster1.DutyCycle = 1;
+GMAT ChemicalThruster1.ThrustScaleFactor = 1;
+GMAT ChemicalThruster1.DecrementMass = false;
+GMAT ChemicalThruster1.Tank = {ChemicalTank1};
+GMAT ChemicalThruster1.MixRatio = [ 1 ];
+GMAT ChemicalThruster1.GravitationalAccel = 9.81;
+GMAT ChemicalThruster1.C1 = 10;
+GMAT ChemicalThruster1.C2 = 0;
+GMAT ChemicalThruster1.C3 = 0;
+GMAT ChemicalThruster1.C4 = 0;
+GMAT ChemicalThruster1.C5 = 0;
+GMAT ChemicalThruster1.C6 = 0;
+GMAT ChemicalThruster1.C7 = 0;
+GMAT ChemicalThruster1.C8 = 0;
+GMAT ChemicalThruster1.C9 = 0;
+GMAT ChemicalThruster1.C10 = 0;
+GMAT ChemicalThruster1.C11 = 0;
+GMAT ChemicalThruster1.C12 = 0;
+GMAT ChemicalThruster1.C13 = 0;
+GMAT ChemicalThruster1.C14 = 0;
+GMAT ChemicalThruster1.C15 = 0;
+GMAT ChemicalThruster1.C16 = 0;
+GMAT ChemicalThruster1.K1 = 300;
+GMAT ChemicalThruster1.K2 = 0;
+GMAT ChemicalThruster1.K3 = 0;
+GMAT ChemicalThruster1.K4 = 0;
+GMAT ChemicalThruster1.K5 = 0;
+GMAT ChemicalThruster1.K6 = 0;
+GMAT ChemicalThruster1.K7 = 0;
+GMAT ChemicalThruster1.K8 = 0;
+GMAT ChemicalThruster1.K9 = 0;
+GMAT ChemicalThruster1.K10 = 0;
+GMAT ChemicalThruster1.K11 = 0;
+GMAT ChemicalThruster1.K12 = 0;
+GMAT ChemicalThruster1.K13 = 0;
+GMAT ChemicalThruster1.K14 = 0;
+GMAT ChemicalThruster1.K15 = 0;
+GMAT ChemicalThruster1.K16 = 0;
+Create ChemicalTank ChemicalTank1;
+GMAT ChemicalTank1.AllowNegativeFuelMass = false;
+GMAT ChemicalTank1.FuelMass = 756;
+GMAT ChemicalTank1.Pressure = 1500;
+GMAT ChemicalTank1.Temperature = 20;
+GMAT ChemicalTank1.RefTemperature = 20;
+GMAT ChemicalTank1.Volume = 0.75;
+GMAT ChemicalTank1.FuelDensity = 1260;
+GMAT ChemicalTank1.PressureModel = PressureRegulated;
+%----------------------------------------
+%---------- ForceModels
+%----------------------------------------
+Create ForceModel DefaultProp_ForceModel;
+GMAT DefaultProp_ForceModel.CentralBody = Luna;
+GMAT DefaultProp_ForceModel.PrimaryBodies = {Luna};
+GMAT DefaultProp_ForceModel.Drag = None;
+GMAT DefaultProp_ForceModel.SRP = Off;
+GMAT DefaultProp_ForceModel.RelativisticCorrection = Off;
+GMAT DefaultProp_ForceModel.ErrorControl = RSSStep;
+GMAT DefaultProp_ForceModel.GravityField.Luna.Degree = 0;
+GMAT DefaultProp_ForceModel.GravityField.Luna.Order = 0;
+GMAT DefaultProp_ForceModel.GravityField.Luna.StmLimit = 100;
+GMAT DefaultProp_ForceModel.GravityField.Luna.PotentialFile = 'LP165P.cof';
+GMAT DefaultProp_ForceModel.GravityField.Luna.TideModel = 'None';
+%----------------------------------------
+%---------- Propagators
+%----------------------------------------
+Create Propagator DefaultProp;
+GMAT DefaultProp.FM = DefaultProp_ForceModel;
+GMAT DefaultProp.Type = RungeKutta89;
+GMAT DefaultProp.InitialStepSize = 60;
+GMAT DefaultProp.Accuracy = 9.999999999999999e-12;
+GMAT DefaultProp.MinStep = 0.001;
+GMAT DefaultProp.MaxStep = 2700;
+GMAT DefaultProp.MaxStepAttempts = 50;
+GMAT DefaultProp.StopIfAccuracyIsViolated = true;
+%----------------------------------------
+%---------- Burns
+%----------------------------------------
+Create FiniteBurn DefaultFB;
+GMAT DefaultFB.Thrusters = {ChemicalThruster1};
+GMAT DefaultFB.ThrottleLogicAlgorithm = 'MaxNumberOfThrusters';
+Create ImpulsiveBurn DefaultIB;
+GMAT DefaultIB.CoordinateSystem = Local;
+GMAT DefaultIB.Origin = Earth;
+GMAT DefaultIB.Axes = VNB;
+GMAT DefaultIB.Element1 = 0;
+GMAT DefaultIB.Element2 = 0;
+GMAT DefaultIB.Element3 = 0;
+GMAT DefaultIB.DecrementMass = false;
+GMAT DefaultIB.Isp = 300;
+GMAT DefaultIB.GravitationalAccel = 9.81;
+%----------------------------------------
+%---------- Coordinate Systems
+%----------------------------------------
+Create CoordinateSystem MoonJ2K;
+GMAT MoonJ2K.Origin = Luna;
+GMAT MoonJ2K.Axes = MJ2000Eq;
+Create CoordinateSystem MoonIAU;
+GMAT MoonIAU.Origin = Luna;
+GMAT MoonIAU.Axes = BodyFixed;
+%----------------------------------------
+%---------- Solvers
+%----------------------------------------
+Create DifferentialCorrector DefaultDC;
+GMAT DefaultDC.ShowProgress = true;
+GMAT DefaultDC.ReportStyle = Normal;
+GMAT DefaultDC.ReportFile = 'DifferentialCorrectorDefaultDC.data';
+GMAT DefaultDC.MaximumIterations = 75;
+GMAT DefaultDC.DerivativeMethod = ForwardDifference;
+GMAT DefaultDC.Algorithm = NewtonRaphson;
+%----------------------------------------
+%---------- Subscribers
+%----------------------------------------
+Create ReportFile ReportFile1;
+GMAT ReportFile1.SolverIterations = Current;
+GMAT ReportFile1.UpperLeft = [ 0 0 ];
+GMAT ReportFile1.Size = [ 0 0 ];
+GMAT ReportFile1.RelativeZOrder = 0;
+GMAT ReportFile1.Maximized = false;
+GMAT ReportFile1.Filename = 'ReportFile1.txt';
+GMAT ReportFile1.Precision = 16;
+GMAT ReportFile1.Add = {DefaultSC.UTCGregorian, DefaultSC.MoonIAU.X, DefaultSC.MoonIAU.Y, DefaultSC.MoonIAU.Z, DefaultSC.MoonIAU.VX, DefaultSC.MoonIAU.VY, DefaultSC.MoonIAU.VZ, DefaultSC.MoonIAU.VMAG, DefaultSC.MoonJ2K.X, DefaultSC.MoonJ2K.Y, DefaultSC.MoonJ2K.Z, DefaultSC.MoonJ2K.VX, DefaultSC.MoonJ2K.VY, DefaultSC.MoonJ2K.VZ, DefaultSC.MoonJ2K.VMAG};
+GMAT ReportFile1.WriteHeaders = true;
+GMAT ReportFile1.LeftJustify = On;
+GMAT ReportFile1.ZeroFill = Off;
+GMAT ReportFile1.FixedWidth = true;
+GMAT ReportFile1.Delimiter = ' ';
+GMAT ReportFile1.ColumnWidth = 23;
+GMAT ReportFile1.WriteReport = true;
+%----------------------------------------
+%---------- Arrays, Variables, Strings
+%----------------------------------------
+Create Variable BurnDuration q1 q2 q3 q4 AchieveTime;
+GMAT BurnDuration = 600;
+GMAT q1 = 0;
+GMAT q2 = 0;
+GMAT q3 = 0;
+GMAT q4 = 0;
+%----------------------------------------
+%---------- Mission Sequence
+%----------------------------------------
+BeginMissionSequence;
+% Set the thurst direction
+GMAT DefaultSC.Q1 = q1;
+GMAT DefaultSC.Q2 = q2;
+GMAT DefaultSC.Q3 = q3;
+GMAT DefaultSC.Q4 = q4;
+Target DefaultDC {SolveMode = Solve, ExitMode = DiscardAndContinue, ShowProgressWindow = true};
+Vary 'Vary burn duration' DefaultDC(BurnDuration = 600, {Perturbation = 0.5, Lower = 0.0, Upper = 9000, MaxStep = 60, AdditiveScaleFactor = 0.0, MultiplicativeScaleFactor = 1.0});
+Vary 'Vary q1' DefaultDC(q1 = 1, {Perturbation = 0.1, Lower = -1.0, Upper = 1.0, MaxStep = 0.2, AdditiveScaleFactor = 0.0, MultiplicativeScaleFactor = 1.0});
+Vary 'Vary q2' DefaultDC(q2 = 0, {Perturbation = 0.1, Lower = -1.0, Upper = 1.0, MaxStep = 0.2, AdditiveScaleFactor = 0.0, MultiplicativeScaleFactor = 1.0});
+Vary 'Vary q3' DefaultDC(q3 = 0, {Perturbation = 0.1, Lower = -1.0, Upper = 1.0, MaxStep = 0.2, AdditiveScaleFactor = 0.0, MultiplicativeScaleFactor = 1.0});
+Vary 'Vary q4' DefaultDC(q4 = 0, {Perturbation = 0.1, Lower = -1.0, Upper = 1.0, MaxStep = 0.2, AdditiveScaleFactor = 0.0, MultiplicativeScaleFactor = 1.0});
+GMAT DefaultSC.Quaternion = [q1 q2 q3 q4];
+Propagate DefaultProp(DefaultSC) {DefaultSC.Luna.Periapsis};
+BeginFiniteBurn DefaultFB(DefaultSC);
+Propagate DefaultProp(DefaultSC) {DefaultSC.ElapsedSecs = BurnDuration};
+EndFiniteBurn DefaultFB(DefaultSC);
+Propagate DefaultProp(DefaultSC) {DefaultSC.Luna.Apoapsis};
+Achieve 'Achieve SMA' DefaultDC(DefaultSC.Luna.SMA = 1968.0, {Tolerance = 0.1});
+%Achieve 'Achieve VMAG' DefaultDC(DefaultSC.MoonJ2K.VMAG = 0.1, {Tolerance = 0.1});
+%Achieve 'Achieve Rx' DefaultDC(DefaultSC.MoonJ2K.X = -77.018285, {Tolerance = 0.1});
+%Achieve 'Achieve Ry' DefaultDC(DefaultSC.MoonJ2K.Y = 626.836085, {Tolerance = 0.1});
+%Achieve 'Achieve Rz' DefaultDC(DefaultSC.MoonJ2K.Z = -1617.498663, {Tolerance = 0.1});
+EndTarget; % For targeter DefaultDC
+```

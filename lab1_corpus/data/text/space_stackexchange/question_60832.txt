@@ -1,0 +1,2 @@
+V infinity matching software for gravity assists?
+Is their software someone has already written for hyperbolic velocity matching of porkchop plots to be used to figure out ballistic gravity assists? Doing this in single threaded python requires using a full root solver over thousands of data points.

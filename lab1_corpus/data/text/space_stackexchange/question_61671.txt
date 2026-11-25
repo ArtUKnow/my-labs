@@ -1,0 +1,3 @@
+Do larger less dense objects heat less while entering the atmophere?
+When a space craft enters the atmosphere, it gets hot and heat shielding is needed. Do objects with more surface area and less density heat up less then heavier, smaller objects? Could an object with a large enough weight to area ratio be air cooled and not burn? I understand that when entering the atmosphere it is not like hitting water since the air gradually becomes more dense. In theory, would a feather get too hot and burn on reentry or would it make it to the ground intact?
+I'm thinking a rotating aerographene sphere.

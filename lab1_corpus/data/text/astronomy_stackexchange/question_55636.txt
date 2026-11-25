@@ -1,0 +1,139 @@
+Implementing polar coordinates correctly in solar system model?
+I am working on a 2d solar system model using Python, but I'm unsure if my implementation of planet data is correct. I have the planet data stored in polar form (distance, velocity and angle), and I later convert that data into x, y coordinates. I did this originally for ease of inputting planet position data, but I later discovered that ir maybe wasn't the best move.
+The problem
+My problem is that most angles behave differently that what I would like. What I would like the for the direction param to say where the planet is relative to the sun and not necessarily at what angle from the sun it is moving, if that makes sense. For example, I never want a planet to start moving directly towards the sun, or any other weird angles. What I think I'm doing wrong is that the direction now says in what direction the planet is traveling relative to itself as well. In the image below, I altered the direction of Venus to be 0.6 rad. The planet is initially positioned correctly, however the velocity direction is wrong, as it obviously isn't traveling outwards from the sun.
+The code for the project can be found at the GitHub page solsystem-modell (README.md is in Norwegian but code should all be in English). I hope that there aren't any problems regarding the model itself, but a quick check that things in general are fine would be much appreciated as well.
+Context
+I here have the relevant code for the project.
+Data is stored like this:
+Name
+Color (RGB)
+Radius (km)
+Mass (kg)
+Distance (AU)
+Velocity (m/s)
+Direction (radians)
+Max_Trail_Length
+Sun
+(255, 255, 0)
+6963400
+1.98847e+30
+0
+0
+0
+100
+Mercury
+(255, 0, 0)
+2440
+3.3011e+23
+0.393
+47362
+pi / 2
+200
+Venus
+(255, 165, 0)
+6052
+4.8675e+24
+0.723
+35021.4
+pi / 2
+600
+Earth
+(0, 0, 255)
+6371
+5.9722e+24
+1
+29784.8
+pi / 2
+800
+Mars
+(255, 0, 0)
+3390
+6.4171e+23
+1.52
+24130.8
+pi / 2
+2000
+Jupiter
+(255, 222, 173)
+69911
+1.8982e+27
+5.203
+13070
+pi / 2
+10000
+Saturn
+(210, 180, 140)
+58232
+5.6834e+26
+9.737
+9690
+pi / 2
+20000
+Uranus
+(0, 0, 128)
+25362
+8.681e+25
+19.61
+6810
+pi / 2
+50000
+Neptune
+(0, 0, 255)
+24622
+1.02413e+26
+29.897
+5430
+pi / 2
+200000
+I then import the data using this method (you can ignore most things that doesn't include the relevant data as distance, velocity and angle):
+In utils.py
+def create_celestial_bodies(sun_x: float, sun_y: float, file_name) -> list[CelestialBody]:
+planets = []
+with open(file_name, 'r') as file:
+reader = csv.reader(file)
+next(reader)
+for row in reader:
+name, color, radius, mass, distance, velocity, direction, max_trail_length = row
+color = tuple(map(int, color.strip("()").split(", ")))
+radius = int(radius) * 1000
+mass = float(mass)
+distance = float(distance) * config.AU
+velocity = float(velocity)
+direction = eval(direction.replace('pi', 'np.pi'))
+x_pos = sun_x + distance * np.sin(direction)
+y_pos = sun_y + distance * np.cos(direction)
+max_trail_length = int(max_trail_length)
+# noinspection PyTypeChecker
+celestial_body_appearance = CelestialBodyAppearance(name, color, radius)
+celestial_body_properties = CelestialBodyProperties(mass, x_pos, y_pos,
+velocity, direction, max_trail_length)
+celestial_body = CelestialBody(celestial_body_appearance, celestial_body_properties)
+planets.append(celestial_body)
+return planets
+The data is stored in a CelestialBody class. Here is the initializing method where the data is converted into xy form:
+class CelestialBody:
+def __init__(self, appearance: 'CelestialBodyAppearance', celestial_body_data: 'CelestialBodyProperties') -> None:
+self.name = appearance.name
+self.color = appearance.color
+self.mass = celestial_body_data.mass
+if config.TO_SCALE:
+self.size = appearance.radius / config.AU * config.ZOOM * config.SCALE_FACTOR
+else:
+if self.mass > 0:
+self.size = config.DEFAULT_OBJECT_SIZE * np.log(self.mass) / config.SIZE_SCALING_FACTOR * config.ZOOM
+else:
+self.size = 0
+self.position = np.array([celestial_body_data.x_pos, celestial_body_data.y_pos], dtype=np.float64)
+self.velocity = np.array([celestial_body_data.velocity * np.cos(celestial_body_data.direction),
+celestial_body_data.velocity * np.sin(celestial_body_data.direction)],
+dtype=np.float64)
+self.max_trail_length = celestial_body_data.max_trail_length
+self.is_stationary = appearance.name == "Sun" and config.IS_SUN_STATIONARY
+self.label_surfaces = None
+self.time_since_last_trail_update = 0
+self.trail_update_interval = config.TRAIL_UPDATE_INTERVAL
+self.positions = deque(maxlen=10000)
+I think the problem lays somewhere here. I could've implemented something incorrectly or missed out on some important details.
+In short, I'm trying to get the direction of the planets working correctly, placing the planet around the sun in it's correct position.
+I apologize for the clunky read. I'm not a native English speaker.

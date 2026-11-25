@@ -1,0 +1,2 @@
+Why does a launch due south (180° azimuth) not translate into a polar orbit from Vandenberg?
+I found this image showing the allowable launch azimuths for Vandenberg AFB and I was wondering why a 180° launch azimuth doesn't match a 90° inclination orbit. This led me to question the equation cos(i) = sin (A) . cos (L). Is there something missing on it? Does the rotation of the earth have any impact on the inclination of an orbit reached by a 180° launch azimuth?

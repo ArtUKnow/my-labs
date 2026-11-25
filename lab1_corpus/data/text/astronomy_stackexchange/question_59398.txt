@@ -1,0 +1,5 @@
+Does M Dwarf Stellar Activity Affect the Potential Habitability of Their Exoplanets?
+Habitable Zone:
+The habitable zone around M dwarfs is much closer to the star, see M-Dwarf Habitability: New Work on Flares and this same source claims that M Dwarfs experience a lot of star activity such as flares.
+According to the sources cited in this paper, The Habitability of Planets Orbiting M-dwarf Stars, there are approximately 200 exoplanets close to M dwarf stars that have so far been detected.
+What are the implications for the habitability of these planets, considering factors like tidal locking and increased exposure to stellar flares?

@@ -1,0 +1,19 @@
+Difference between rotated frame and rotating frame
+Suppose we have a spacecraft orbiting around Earth and we neglect all effects of Earth's $z$-axis motion, i.e., no wobble, precession, or nutation.
+For simplicity, we only assume a rotation rate $\omega_e$ about the $z$-axis.
+My question is regarding how to express a vector in an ECEF frame vs. an ECI frame.
+In my orbit propagation mode, I am using order $n$ gravity, given by the spherical harmonic expansion
+$$
+\ddot{\mathbf{r}} = \nabla U = \nabla \frac{\mu}{r}\left[1 + \sum_{k=2}^{n} \sum_{m=0}^{k} \left(\frac{R_e}{r}\right)^{n} \bar{P}_{nm}(\sin\phi)(\bar{C}_{nm} \cos m\lambda + \bar{S}_{nm} \sin m\lambda)\right].
+$$
+Naturally, since the spherical harmonic expansion is in terms of $(r,\lambda,\phi)$, this yields the acceleration in an Earth-fixed (ECEF) coordinate system as a function of the Earth-fixed position vector $\mathbf{r}$ since for a given latitude $\phi$, the longitude varies in time, i.e., $\lambda(t) = \lambda(t_0) + \theta t$.
+In the book Montebruck & Gill, they state that the transformation to space-fixed coordinates is simply
+$$
+\mathbf{\ddot{r}}_{ECI} = U^\intercal(t) \mathbf{\ddot{r}}_{ECEF},
+$$
+where $U(t)$ is simply a rotation about the $z$-axis by angle $\theta$ (GHA), again neglecting all other effects of the Earth's rotation.
+The book then states: "It should further be emphasized that both $\ddot{\mathbf{r}}_{ECEF}$ and $\ddot{\mathbf{r}}_{ECI}$ are aceelerations in inertial coordinate systems which are rotated against each other by a given rotation $U$. The acceleration in a rotating coordinate system would be different by Coriolis and centrigular terms."
+However, I am having trouble understanding this from the point of view of reference frames.
+From my understanding of dynamics, I thought that in order to transform an acceleration from a rotating frame to a (locally) inertial frame, one must take into account terms such as centrifugal and coriolis accelerations as well.
+But the book contends that all that is needed is a transformation that describes the Earth's rotation.
+So my question is the following: What is the difference between an acceleration (or velocity for that matter) with respect to the ECEF frame, but expressed in inertial coordinates, versus an acceleration (or velocity) with respect to the ECEF frame, but expressed in ECEF coordinates?

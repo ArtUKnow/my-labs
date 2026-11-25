@@ -1,0 +1,6 @@
+Glove in Phoenix Backshell?
+I stumbled across this image which shows the Phoenix Lander being integrated into its backshell:
+This is the only image "source" I was able to find: https://picryl.com/media/phoenix-mars-lander-spacecraft-processing-422670
+There is a full resolution image at https://images-assets.nasa.gov/image/KSC-07PD-1090/KSC-07PD-1090~orig.jpg
+This is a crop from that image showing the glove area:
+I'm wondering why there is a blue glove visible in it. Certainly, this glove didn't make it to Mars, but still, I'm wondering why it is there.

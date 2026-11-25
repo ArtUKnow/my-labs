@@ -1,0 +1,3 @@
+How much denser could Earth's atmosphere be before rockets wouldn't work?
+As the atmosphere gets denser, any rocket trying to fly through it would experience more and more atmospheric drag. How much denser could Earth's atmosphere be before rockets wouldn't work (or would necessitate a rocket to be implausibly/impossibly large)?
+Let's use all the same rules/assumptions from this question and its accepted answer. Let's also assume that our rocket starts out as a normal Saturn V (but making it bigger to get through the denser atmosphere does still affect its aerodynamics). Let's also assume this atmosphere is the same as Earth's current atmosphere except with 100 times the density.

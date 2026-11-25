@@ -1,0 +1,6 @@
+How can I calculate moonlight illuminance?
+How can I calculate moonlight illuminance in Lux in the case I have the equations that produced the following information:
+Moon topocentric (RA / DECL / Distance to earth)
+Moon Alt./Azi.
+Moon phase angle
+Is there an equation to calculate it or a reference for that?

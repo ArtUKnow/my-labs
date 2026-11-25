@@ -1,0 +1,8 @@
+To what extent could JWST continue to be useful after the propellant runs out?
+I see a similar question answered, but this is perhaps more specific. There's a lot of description about the James Web Space Telescope (JWST) operation during its planned mission. But I gather JWST has propellent only for a decade or so, at which point it will no longer be able to maintain the L2 Halo orbit. However, I can't help thinking of how Kepler was cleverly able to provide many years of useful extended operation. So there are several questions around this topic:
+Could JWST be moved to an Earth-trailing orbit (or other useful orbit) without sacrificing too much precious remaining propellent?
+Is there a position in an Earth-trailing orbit that is far enough away that the Earth's heat is not a problem but close enough so that a reasonable data-rate link can be established?
+Is it possible to point the main antenna at Earth while the sunshield is still shading the telescope? Is there a low-gain antenna that might be useful?
+If Earth communications and stellar observations require different orientations, is there enough data storage capacity on board to make some useful obervations and then re-orient and dump the data to Earth?
+I gather that solar pressure on the sunshade can potentially be used to unload the momentum in the reaction wheels. Does mean that JWST could continue to be mostly oriented as desired with only an occasional excursion to a weird orientation to allow solar pressure to desaturate the reaction wheels?
+Sorry for the multiple questions!

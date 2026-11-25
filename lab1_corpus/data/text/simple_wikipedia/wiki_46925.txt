@@ -1,7 +1,0 @@
-Ampere
-The ampere (symbol: A, often shortened to amp) is the standard unit of electric current. An electric current of one ampere is one coulomb per second. The amp is named after André-Marie Ampère who studied electromagnetism.
-The ampere is defined so the elementary charge e is 1.602 176 634 × 10 −19 C or A•s.
-References
-Other websites
-The NIST Reference on Constants, Units, and Uncertainty
-A short history of the SI units in electricity

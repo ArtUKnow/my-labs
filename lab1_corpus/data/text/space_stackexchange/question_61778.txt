@@ -1,0 +1,23 @@
+Difference between Optimum Expansion Ratio and Maximum Thrust
+when I look at the equation for thrust of a rocket:
+$$
+F=\dot{m}*v_{exit}+(p_{exit}-p_{amb})*A_{exit}
+$$
+In the book "Rocket Propulsion" from Sutton it says on page 33:
+In the vacuum of space $p_{exit}=0$ and the pressure thrust becomes a maximum.
+Further: When the exit gas pressure is less than the surrounding fluid pressure, the pressure thrust is negative. Because this condition gives a lower thrust and is undesirable for other reasons, rocket nozzles are usually designed that $p_{exit}=p_{amb}$ --> optimum expansion ratio.
+Question: Why do I want to operate at optimum expansion ratio? Is this the point, where the thrust (apart of vacuum condition) is at its maximum for a specific ambient condition?
+What I know:
+Normally according to the equation above, $p_{exit}$ should always be greater than $p_{amb}$ to maximize the thrust. But one forgets that $v_{exit}$ does not have its optimum when $p_{exit} > p_{amb}$.
+Question 2:
+If I have designed a nozzle for let us say 10 000 meters and I know all my parameters at exit and throat and the expansion ratio for this nozzle "layout". Now I freeze this nozzle design. In order to calculate the thrust at 50 000 meters, is it enough to
+use
+$$
+F=\dot{m}*v_{exit}+(p_{exit}-p_{amb})*A_{exit}
+$$
+and use the layout values for the designed nozzle except for $p_{amb}$ ? Or will my $v_{exit}$ and $\dot{m}$ and ${exit}$ change with higher altitude?
+What I know but what does not help me here:
+Thrust will increase with higher altitude.
+Thank you for your precise answers!
+Best regards
+Lucas

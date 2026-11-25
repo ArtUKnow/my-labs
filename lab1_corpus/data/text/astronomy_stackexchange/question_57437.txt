@@ -1,0 +1,10 @@
+How can I convert luminosity from [erg/s/Hz] to [erg/s]
+I have the dust-corrected luminosity in the Ks band in the unit erg/s/Hz. I want to convert it to erg/s. I would like to know which method is correct:
+$L[erg/s]=L[erg/s/Hz]\times(C/\lambda)$
+$L[erg/s]=L[erg/s/Hz]\times(C/\lambda^2)d\lambda$
+For the Ks band, the central wavelength is 2154 nm and the width is 309 nm.
+For example, with the first method, for Id=219816 from Cosmos 2015 and log[L]=28.324 [erg/s/Hz], the answer is
+$7.67\times {10}^{8} L_\odot$
+and with the second method, it is
+$1.1\times {10}^{8} L_\odot$
+I don’t know which one is correct. My goal is to multiply this by the mass-to-light ratio of simulation data to determine the mass. I should mention that the redshift of this source is 1.104.

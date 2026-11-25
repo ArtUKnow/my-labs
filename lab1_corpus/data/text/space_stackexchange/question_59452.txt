@@ -1,0 +1,27 @@
+Astroquery is returning very different semi major axis compared to one in https://ssd.jpl.nasa.gov/sats/elem/
+sim_start_date = "2000-01-01.5"
+sim_duration = 2 * 365
+time = Time(sim_start_date).jd
+obj = Horizons(id=iMoon, location="@sun", epochs=time , id_type='id')
+el = obj.elements()
+print ('Semi Major Axis of Object is',el['a'])
+print ('Eccentricity of Object is',el['e'])
+print ('Inclination of Object is',el['incl'])
+I am running these codes to get dataset of various moons of the planets-Earth, Mars, Jupiter etc. However, semi major axis returned by the above function in AU are very different from the dataset in https://ssd.jpl.nasa.gov/sats/elem/
+I am getting following semi major axis for Io using astroquery function but this is significantly different from one in https://ssd.jpl.nasa.gov/sats/elem/
+Io (501) 2451544.500005787 ... 17.19251538391498 9502.78235638569
+Semi Major Axis of Object is a
+AU
+-----------------
+8.780142753821996
+(this is much higher than the one obtained from jpl horizon table: 421800 km or 0.0027 AU)
+Eccentricity of Object is e
+---
+------------------
+0.9581134232050015
+Inclination of Object is incl
+deg
+-----------------
+8.778366263433657
+Dataset in https://ssd.jpl.nasa.gov/sats/elem/
+Jupiter Io 501 JUP365 Laplace 2000-01-01.5 421800. 0.004 49.1 330.9 0.0 0.0 1.762732 1.333 0.000 268.1 64.5 0.0 23

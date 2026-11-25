@@ -1,0 +1,5 @@
+How can I simulate a mission from Earth to the Sun–Earth L4 point in GMAT?
+I'm trying to simulate a spacecraft mission in GMAT where the goal is to travel from Earth to the Sun–Earth L4 Lagrange point.
+I understand that GMAT has a LibrationPoint object. According to the documentation it possible to define the Sun–Earth L4 point using this object But how should I properly create and reference it in the script?
+Also, once the L4 point is defined, what would be the best way to initialize a spacecraft at Earth and send it toward L4? I'm aiming to simulate the full transfer trajectory.
+Any examples or advice on setting up the coordinate systems, propagators, and mission sequence would be greatly appreciated.

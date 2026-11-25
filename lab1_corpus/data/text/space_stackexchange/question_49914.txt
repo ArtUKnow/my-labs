@@ -1,0 +1,3 @@
+How is satellite's footprint/coverage calculated?
+I was using Orbitron - Satellite Tracking software the other day and I saw that clicking on any of the satellites, you will see their footprint (they are usually not-ideal circles, usually ellipses), which are later used to calculate/predict where and when your location will be in the satellites coverage/footprint.
+I was wondering, how is a satellite's footprint calculated mathematically and what needs to be considered when calculating it?

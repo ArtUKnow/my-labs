@@ -1,0 +1,6 @@
+Why is the Orion capsule using 2 burns to transfer from the moon back to earth instead of one?
+I was reading an article about how the Orion capsule just did the first of two burns that it will use to transfer out of its lunar orbit and back to Earth.
+I understand the phenomenon of a gravity slingshot but, even so, I have to wonder why Orion isn't just using a single "direct" burn to break lunar orbit.
+Is (was) its altitude so low that the amount of delta-V required to first reach escape velocity before transferring larger than the amount of delta-V required by lowering the altitude of its periapsis and then also doing a second burn at the periapsis?
+Or is there another consideration at work that made the two-burn method more attractive than a single burn?
+Orion flight plan

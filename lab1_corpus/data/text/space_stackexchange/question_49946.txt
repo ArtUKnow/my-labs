@@ -1,0 +1,15 @@
+How is Lucy "making use" of a deep space atomic clock?
+The entry for Lucy in Wikipedia's Selection of Discovery Mission 13 and 14; Finalists says:
+The mission will make use of the Deep Space Atomic Clock.81
+81https://www.universetoday.com/122822/surveying-the-fossils-of-planet-formation-the-lucy-mission/
+The Universe Today article says only:
+NASA has also offered an additional \$5 to \$30 million in funding if mission planners choose to incorporate a laser communications system, a 3D woven heat shield, a Deep Space atomic clock, and/or ion engines.
+and the linked Deep Space Atomic Clock article does not mention Lucy, nor is the mission mentioned in any of the questions below nor their answer.
+Question: So I'd like to ask: How is Lucy "making use" of a deep space atomic clock?
+Deep Space Atomic Clock Q&A that don't currently mention Lucy:
+Where would one deploy deep space atomic clocks?
+How does an onboard atomic clock help interplanetary navigation?
+Help understanding exactly how an atomic clock facilitates “self-driving spacecraft” when paired with an onboard camera?
+Why does the Deep Space Atomic Clock have such a short mission?
+How high is the first Deep Space Atomic Clock orbiting? Does it receive radiation equivalent to that in deep space?
+How far from earth have atomic clocks (or ultra-stable oscillators) been placed and monitored?

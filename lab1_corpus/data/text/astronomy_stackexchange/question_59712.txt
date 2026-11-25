@@ -1,0 +1,2 @@
+Outside the Local Group, will all galaxies eventually expand beyond the event horizon due to cosmological expansion?
+So, I've talked with chatgpt and it said that everything within 16 billion light years today will be permanently reachable at the speed of light. however after some interrogating, it changes its answer to saying that only the galaxies that are gravitationally bound will remain together permanently, I.e. the Local Group, which is way less than 16 billion light years. I then decided to ask humans just to be sure of chatgpt's final answer

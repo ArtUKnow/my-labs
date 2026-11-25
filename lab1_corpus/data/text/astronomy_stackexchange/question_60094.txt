@@ -1,0 +1,77 @@
+How long before we get confirmation about the Planet Nine candidate found by the nipo-taiwanese-australian team?
+There is a paper uploaded to Arxiv in 2025-04-24 where researchers managed to pinpoint an approximately Neptune-sized Planet Nine candidate through comparison between infrared data from IRAS and AKARI:
+Abstract
+The outer solar system is theoretically predicted to harbour an
+undiscovered planet, often referred to as Planet Nine. Simulations
+suggest that its gravitational influence could explain the unusual
+clustering of minor bodies in the Kuiper Belt. However, no
+observational evidence for Planet Nine has been found so far, as its
+predicted orbit lies far beyond Neptune, where it reflects only a
+faint amount of Sunlight. This work aims to find Planet Nine
+candidates by taking advantage of two far-infrared all-sky surveys,
+which are IRAS and AKARI. The epochs of these two surveys were
+separated by 23 years, which is large enough to detect Planet Nine’s
+∼3′/year orbital motion. We use a dedicated AKARI Far-Infrared point
+source list for the purpose of our Planet Nine search — AKARI-FIS
+Monthly Unconfirmed Source List (AKARI-MUSL), which includes sources
+detected repeatedly only in hours timescale, but not after months.
+AKARI-MUSL is more advantageous than the AKARI Bright Source Catalogue
+(AKARI-BSC) for detecting moving and faint objects like Planet Nine
+with a twice-deeper flux detection limit. We search for objects that
+moved slowly between IRAS and AKARI detections given in the
+catalogues. First, we estimated the expected flux and orbital motion
+of Planet Nine by assuming its mass, distance, and effective
+temperature to ensure it can be detected by IRAS and AKARI, then
+applied the positional and flux selection criteria to narrow down the
+number of sources from the catalogues. Next, we produced all possible
+candidate pairs including one IRAS source and one AKARI source whose
+angular separations were limited between 42′ and 69.6′, corresponding
+to the heliocentric distance range of 500 – 700 AU and the mass range
+of 7 – 17M⊕. There are 13 candidate pairs obtained after the selection
+criteria. After image inspection, we found one good candidate, of
+which the IRAS source is absent from the same coordinate in the AKARI
+image after 23 years and vice versa. However, AKARI and IRAS
+detections are not enough to determine the full orbit of this
+candidate. This issue leads to the need for follow-up observations,
+which will determine the Keplerian motion of our Planet Nine
+candidate.
+By confirmation I mean either that what they found is indeed 9th-planet or that it is just noise or something else. According to their paper, in 1983 the candidate was spotted by IRAS at right ascension, declination = (35.74075∘, -48.5125∘), it moved slowly over the star background for 23 years, and was spotted again by AKARI in 2006, at right ascension, declination = (35.18379∘, -49.2135∘).
+I tried to check where this last known position from 2006 is located in a skymap, and it appears to be approximately midway between the stars φ Eridani and κ Eridani:
+Given 19 years passed since then, it should have moved a bit since 2006. The paper says only two detections from IRAS and AKARI are not sufficient to determine the Keplerian orbit, so they give no estimate for a likely current position, pending further observations with large field-of-view telescopes.
+I tried to get an crude estimate through dead reckoning for the current position of the candidate, assuming constant velocity and that its apparent path in the sky over the period from 1983 to now didn't deviate from a straight line, as shown:
+Update: At request of @controlgroup, to improve acessibility, I replaced the image of the handwritten calculations previously shown with a typed transcript. In the process I found errors. I noticed wolfromalpha was interpreting the right ascension values I gave from the paper as hours instead of degrees, resulting in the initial position I reported completely wrong. Instead of close to μ Velorum, converting the paper RA values to hours, results in a position somewhat closer to φ Eridani.
+01 | Given points:
+02 |
+03 | P0 = (35.74075, -48.5125, 1983)
+04 | P1 = (35.18379, -49.2135, 2006)
+05 |
+06 | Vector from P0 to P1:
+07 |
+08 | < 35.18379 - 35.74075 = -0.55696,
+09 | -49.2135 -(-48.5125) = -0.7010,
+10 | 2006 - 1983 = 23 >
+11 |
+12 | Parametric equation for the line that goes through P0 and P1:
+13 |
+14 | Ra = 35.74075 - 0.55696*t
+15 | Dec = -48.5125 - 0.7010*t
+16 | Yr = 1983 + 23*t
+17 |
+18 | Solving for Yr = 2025:
+19 |
+20 | 2025 = 1983 + 23*t
+21 | 23*t = 2025 - 1983
+22 | 23*t = 42
+23 | t = 1.8261
+24 |
+25 | Ra = 35.74075 - 0.55696*t
+26 | Ra = 35.74075 - 0.55696*1.8261
+27 | Ra = 34.7237 (converting to hours: 34.7237/15 = 2.31491)
+28 |
+29 | Dec = -48.5125 - 0.7010*t
+30 | Dec = -48.5125 - 0.7010*1.8261
+31 | Dec = -49.7926
+In the paper they talk about the need for follow-up observations, but no time estimate is given. I know large telescopes use to have long lines, with time slots sometimes booked years before, so it may take a long time to schedule follow-up observations. On the other hand, discovering a previously unknown planet remaining in the solar system is a major feat, so people have a lot of incentive to proceed fast and be the first. So I'm curious, how long should we expect tipically for someone to step forward with definitive confirmation or refutation of a finding like this?
+Update (2025-05-09): Nicer, larger free software Stellarium skymap images added, in addition to the small wolframalpha skymap links.
+Reference:
+Phan, Terry Long, et al. A Search for Planet Nine with IRAS and AKARI Data. arXiv:2504.17288, arXiv, 24 de abril de 2025. arXiv.org, https://doi.org/10.48550/arXiv.2504.17288.

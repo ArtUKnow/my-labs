@@ -1,0 +1,6 @@
+Time a rocky satellite in lunar "frozen" orbit spends in Earth's umbra during total lunar eclipse
+I am wondering how long a large satellite in a lunar frozen orbit would remain in the Earth's umbra during a total lunar eclipse.
+The satellite is spheroid with a diameter of 200 km. Let us say that it is composed of exactly the same material as the Moon itself.
+I am aware that the mass of such an object is considerably larger than that of satellites like the lunar reconnaissance orbiter, which maintain a frozen orbit. It is possible that such a large satellite could not even maintain a frozen orbit.
+I understand that the shadow of the Earth does not pass in a straight line across the Moon's surface during an eclipse. I understand that it may be extremely difficult to calculate exactly where the hypothetical satellite would be at the time of totality, so let us assume that at the start of totality our satellite enters the Earth's umbra. I am going on the basic assumption that totality for this hypothetical total lunar eclipse will last for approximately 2 hours. The satellite will not alter its speed under its own agency at any time.
+Thank you so much for your help!

@@ -1,0 +1,9 @@
+Ejected galaxies, dynamical friction and dark energy?
+I have a question after reading this paper (https://arxiv.org/abs/1411.5860).
+There the authors analyse the ejection of galaxies from their local groups in the presence of dark energy.
+I had some questions about this that I made to one of the authors.
+Q1: At one point you say that dark energy reduces the potential well for excaping galaxies in their clusters, so they would escape with higher probability. As galaxies get ejected from their local cluster, is there an acceleration component due to Dark Energy? That is, does Dark Energy then add a little bit of velocity to these escaping galaxies as they travel out of the cluster? Or perhaps what happens is that the escape velocity is decreased due to Dark Energy? Or maybe both?
+Q2: Once they have escaped from the cluster, could they crash with other bodies in intergalactic space? Or perhaps be absorbed by other galaxies? Or at these distances the expansion of the universe is so overwhelming that they get isolated?
+Q3: As these galaxies travel their way out of their host cluster (with a little bit of help from Dark Energy) would they suffer dynamical friction from the other components in the cluster?. Would this cause some form of heat?
+He replied that basically the answer for all of them was "yes" (except for the second one which was unlikely due to the repulsion made by dark energy) meaning that escaping galaxies would have it easier to escape from the cluster and they would have a bit of "escape energy" contributed by dark energy itself.
+If this is right (if someone can make any corrections it would be appreciated), would dynamical friction dissipate some of the "escape energy" (the escape energy that the object had from the beginning + the one contributed by dark energy)

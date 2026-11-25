@@ -1,0 +1,4 @@
+Use a magnetic field to insulate spacecraft from heat of the reentry plasma
+Existing heat shields must both survive the heat from atmospheric friction and insulate the spacecraft from this friction. However, if one used a technique similar to supercavitation in a liquid, the friction would form the plasma ahead of the spacecraft and a magnetic field could keep the plasma away from the spacecraft.
+The material ahead of the spacecraft forming the plasma would need to be highly resistant to heat but no longer need to be insulating. The magnetic field would deflect the hot plasma away from the spacecraft. It would act as a parachute. Controlling its shape could steer the spacecraft.
+What are the pros and cons of this technique?

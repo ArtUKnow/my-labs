@@ -1,0 +1,17 @@
+Is my calculation of the current day/sol of current Mars month accurate?
+I'm working on providing Mars related data for a project.
+I'm using 2 points of data that are available to me from Rover Environmental Monitoring Station at the Centro de Astrobiologia.
+The 2 data points provided to me are the following:
+Month as of May 1 is 7.
+Solar Longitude as of May 1 is 195.
+Other known data points for this:
+Month 7 starts on Sol 371.9
+Month 7 ends on Sol 421.6
+Month 7 starts at solar longitude of 180
+Number of sols in month 7 is 49.7
+How I do it:
+Product of starting sol of month 7 and current solar longitude (371.9 X 195).
+Divide that by starting solar longitude of month 7. Previous step divided by 180
+Multiply by number of sols in month 7. Previous step multiplied by 49.7.
+Divide by last sol of month 7. Previous step divided by 421.6
+Result: About the 40th sol in month 7.

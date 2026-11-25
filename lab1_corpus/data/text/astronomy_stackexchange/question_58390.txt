@@ -1,0 +1,6 @@
+Why is the proposed lunar radiotelescope parabolic rather than spherical like Arecibo and FAST
+This is a cross-post of https://space.stackexchange.com/questions/66659
+According to Wikipedia, the proposed Lunar Radio-telescope design is a fixed parabolic dish. https://en.wikipedia.org/wiki/Lunar_Crater_Radio_Telescope#/media/File:Niac2020_bandyopadhyay.jpg
+As a rule, fixed radio-telescope dishes are spherical and are aimed by changing the antenna location. Aim-able radio-telescopes are parabolic and are aimed to place the axis on the object of regard.
+If parabolic dishes are used off-axis, caustic aberrations limit their resolutions. Spherical dishes are never off-axis because they have no axis.
+if Earth-bound fixed-dish radio-telescopes are all spherical, why would a Lunar fixed-dish radio-telescope be parabolic ?

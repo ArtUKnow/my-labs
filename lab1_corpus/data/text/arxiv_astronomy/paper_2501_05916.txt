@@ -1,0 +1,2 @@
+Potential-density pairs for galaxy discs with exponential or sech$^2$ vertical profile
+We present axially symmetric analytical potential-density pairs with surface density similar to the Miyamoto-Nagai model, but with more realistic vertical structure. Our models closely approximate an exponential, a sech$^2$, or a cored exponential vertical density profile. The latter profile has a density core of adjustable width, which provides more flexibility when modelling galaxy discs.

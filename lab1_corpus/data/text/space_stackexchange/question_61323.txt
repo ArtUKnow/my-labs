@@ -1,0 +1,4 @@
+What was the coolant that leaked out of the Soyuz?
+What exactly is the coolant used in the Soyuz external thermal loop, the one that just leaked out of a Soyuz docked to the ISS?
+I checked the Soyuz Crew Operations Manual but it just calls it the "agent". Other searches turned up conflicting or obviously wrong info.
+(system schematic from the manual - arrow indicates the radiator)

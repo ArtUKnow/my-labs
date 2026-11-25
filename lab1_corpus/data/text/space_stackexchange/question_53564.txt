@@ -1,0 +1,5 @@
+Exact condition for hold-down release?
+I've read the space-shuttle hold-down clamps would be released once all engines registered 90% of nominal thrust.
+But would this be sufficient condition to open the hold-down clamps and release the rocket? Or would the control program check also that the launch vehicle has entered an appropriate launch program (e.g., "OPS XXX" on the space shuttle)?
+I know how unlikely it is that the engines would all reach >90% nominal thrust unless they had been purposely fired for launch. But still: might the controls software have imposed a second condition that the launch vehicle be in a specific launch program... just as an added safety measure?
+Also! Would there have been a delay between the "all-engines >90% nominal" and the release of the clamps, e.g., to allow them to settle at 100% (or 104% in the space shuttle)? And would there have been a more stringent third condition that all engine thrust readings be within a small margin of each other (e.g., 0.5 %) in order to minimize pitch and yaw moments in this vulnerable stage of the launch?

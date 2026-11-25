@@ -1,0 +1,4 @@
+Gravity assist influence planet velocity
+I have found the physics proof that shows the module of the vectorial velocity speed variation of gravity assist for a planet at rest is at maximum twice the initial speed of the probe.
+However i’m not able to found the proof (even in the case of a radial trajectory) of the influence of the planet velocity on the probe excepted claims that say the probe will acquire the additional speed of the planet itself.
+Thanks for your help

@@ -1,0 +1,5 @@
+Garbage powered reboosting module for low Earth orbiting space stations
+Instead of dumping massive garbage packs once in a while, using a robotic arm, could some sort of garbage canon eject the same mass in small pieces, at higher velocity, so that it contributes to maintain orbit of the station? (saving reboost fuel and allowing more accurate garbage's deorbiting trajectory) Has there been some studies about this?
+For instance a single Nickel-Hydrogen battery cell looks pretty much like something that could fit into a barrel and propelled by some pushing mechanism*.
+So could other type of garbage be split and ejected in small mass fractions. How complicated inefficient or impractical is this?
+*since astronauts have to do a lot of exercise, some springs could be wound up in the process, for this purpose.

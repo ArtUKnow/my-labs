@@ -1,0 +1,4 @@
+What is the correct way to perform background subtraction from NICER lightcurves?
+I am currently working on timing analysis using NICER observations and would like to know what is a correct approach to create a background subtracted lightcurve. Running nicerl3-lc with bkgmodeltype=SCORPEON does produce a lightcurve with background estimates(BACKV) but NICER documentation clearly warns against a manual subtraction(RATE-BACKV) as SCORPEON estimates are not of good enough quality.
+Is there a way to get a "simple" background lightcurve file that can be readily subtracted from source+background file like in NuStar data analysis pipeline? The following link to HEASARC documentation might be useful.
+NICER Data Analysis Threads

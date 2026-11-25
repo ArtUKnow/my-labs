@@ -1,0 +1,8 @@
+How does Spinlaunch manage the counterweight right after launch?
+Spinlaunch has successfully launched a suborbital test vehicle from a 1/3 scale demonstrator, see for instance aviationweek.com or space.com.
+While spinning up the arm, perfect balance is achieved thanks to a counterweight opposite the payload. What puzzles me is, what happens right after launch, when the counterweight is still here and imparts a huge force on the axle?
+A comment on this answer How might SpinLaunch actually spin something fast enough to launch it into orbit? suggests to release the counterweight at the same time, into a deep hole: "To avoid disbalance, two objects of equal mass should be launched simultaneously in opposite direction. One up into the sky and the other one down into a deep hole into the ground.".
+One answer of the same question notes that the amount of energy is on the order of 10³ kg of TNT.
+However, looking at the images on their site, there is only one exit tube, to the sky.
+Even if the counterweight is closer to the center, it has a lot of kinetic energy and creates a lot of disbalance.
+So, how do they avoid the counterweight destroying the axle through intense vibrations?

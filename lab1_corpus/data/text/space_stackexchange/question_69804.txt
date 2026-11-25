@@ -1,0 +1,3 @@
+What would a "big dumb satellite" be like?
+One of the key premises of the BDB/RLV model is that it will lead to cheap, low tech, but relatively heavy spacecraft designs. To avoid being too broad for the guidelines, I will narrow the question down from "spacecraft" to "satellite".
+For the launch costs that is projected with the generation of low cost vehicles under development (Starship, etc) what technological downgrades can be made to reduce cost while maintaining functionality? The assumption is that the sweet spot is where satellite cost matches launch cost.

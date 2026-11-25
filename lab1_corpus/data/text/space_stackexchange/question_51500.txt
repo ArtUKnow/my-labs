@@ -1,0 +1,6 @@
+Is it 100x more work to fly on Mars?
+After watching the first flight of a rotor-powered craft on Mars, I wonder how similar flying on mars is to earth.
+I read:
+Mars has a much thinner atmospheric volume compared to Earth. Earth’s atmosphere is over 100 denser than Mars.
+If there is less atmosphere to push against, it must be more difficult to fly, how much more difficult is it?
+[1] https://earthhow.com/mars-atmosphere/

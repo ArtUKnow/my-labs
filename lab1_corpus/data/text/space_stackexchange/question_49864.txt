@@ -1,0 +1,3 @@
+Why doesn't the Perseverance rover have markers on its wheels like Curiosity?
+The wheels of the Curiosity rover have hole patterns spelling J-P-L in Morse code. The reason why these existed in the first place was to help vision-based odometry and distance measurements, especially when driving over barren/featureless terrain. The Mars 2020 Perseverance rover wheels do not have such markers. Why is that?
+Did the markers on Curiosity’s wheels turned out to not be that useful? Or are the new cameras onboard Perseverance so good that they can pick up the markings left by the (many) wavy grousers, without the need for distinct markers?

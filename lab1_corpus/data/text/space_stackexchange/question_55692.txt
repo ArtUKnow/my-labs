@@ -1,0 +1,2 @@
+Is an orbital insertion burn part of any launch from earth
+As I understand it once a spacecraft reaches low earth orbit it may have to do another burn to reach a different orbit. Would that change in orbit be considered an orbital insertion burn? Do any spacecraft do an orbital insertion burn during the initial lift off to orbit. I was under the impression there is one "burn" from lift-off to reaching orbit.

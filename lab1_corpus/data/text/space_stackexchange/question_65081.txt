@@ -1,0 +1,4 @@
+What is the delta V required to access a polar lunar orbit?
+The general reference figure (I use) for entering a low lunar orbit (polar included) is ~900 m/s, which is roughly what was set out in previous questions. However NASA released this white paper which included this cislunar delta v chart showing the cost to enter a polar low lunar orbit being 1350 m/s (which is actually more expensive than the indirect NRHO path shown).
+So this raises the question of what the actual range of Δv's for reaching a 100km circular polar LLO is? It doesn't seem that consistent. What drives this range? I hear the term 3-body physics and rotating frames and they scare me.
+Also a somewhat separate follow up question, is the exit delta v to return to Earth from the polar LLO relatively constant or does it change by a fair bit based on phase?

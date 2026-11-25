@@ -1,0 +1,4 @@
+Did/do the current Mars missions coordinate?
+The answer to the question why there are several Mars missions under way concurrently is that orbital mechanics offer an advantageous launch window of a few weeks every 26 months. With more than one mission planned in this roughly two year period, it is unavoidable to have several missions at the same time.
+To me the logical next question is how well the concurrent missions are coordinated in planning and perhaps even execution. Instead of redundantly measuring the same things two missions could be intentionally designed to complement each other. Even during the missions, a rover or the helicopter could explore places which have been identified as interesting by one of the orbiting spacecraft, etc.
+Is there any official or even informal coordination of that kind? Do, for example, U.S scientists know their Chinese colleagues personally?

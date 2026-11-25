@@ -1,0 +1,32 @@
+How to perform a Burn Operation in GMAT via python api
+'m testing the python api of GMAT (2022). I'm able to instantiate a satellite object and do propagation in steps. I would like to include an instant burn operation in the simulation, but the code just exists when on the line invoking the burn operation. Does someone know how this can be done via python api of GMAT?
+Thanks.
+What I've tried is following (Orbiter and Forces are initialized):
+# Apply a delta-v to the spacecraft at a specified time
+# dv_time = start_date + 6 * gmat.Time('Hour')
+dv_magnitude = 1.0 # Change in velocity in km/s
+burn = gmat.Construct("ImpulsiveBurn", "EarthOrbiterBurn")
+burn.SetField("CoordinateSystem", "EarthMJ2000Eq")
+burn.SetField("Element1", dv_magnitude)
+burn.SetField("Element2", dv_magnitude)
+burn.SetField("Element3", dv_magnitude)
+burn.SetSpacecraftToManeuver(earthorb)
+burn_maneuver = gmat.Construct("Maneuver", "BurnManeuver")
+burn_maneuver.SetField("Burn", "DeltaV")
+burn_maneuver.SetField("Spacecraft", "EarthOrbiter")
+# burn_maneuver.Help()
+# Perform top level initialization
+gmat.Initialize()
+# Setup the spacecraft that is propagated
+pdprop.AddPropObject(earthorb)
+pdprop.PrepareInternals()
+# Refresh the 'gator reference
+gator = pdprop.GetPropagator()gmat.BeginMissionSequence().Execute()
+for i in range(0, 1000):
+# Take a 60 second step, showing the state before and after propagation
+if 25 == i: # < 50:
+# Apply the delta-v to the spacecraft
+burn_maneuver.Execute()
+gator.Step(60)
+Again, I'm not really getting any error, the process simply exists:
+Process finished with exit code -1073741819 (0xC0000005)

@@ -1,0 +1,6 @@
+Would detonating a powerful nuke on the Moon really cause a Richter 7 moonquake? Do we know enough about the moon to predict this?
+A recent episode of Kurzgesagt explores the consequences of exploding a hydrogen bomb on/near the surface of the moon. At 3:48 they consider the resulting moonquake, saying it's comparable to a magnitude 7 (Richter scale) earthquake.
+While the rest of the episode is awesome-but-predictable, this caught me off-guard. Do we really know all that much about the internal structure of the Moon, so that predictions like this can be furnished? Isn't it possible that the internal structure has voids which could lead to resonance, which can make the quake much worse? I know we have seismometers on the moon and have used upper stages of rockets as deliberate impactors to calibrate them - but these are far less energetic collisions. Have we ever measured something massive impacting the Moon, setting off similar (Richter 7 or more) quake?
+Recap (questions)
+Have we ever recorded a Richter 7 or more moonquake (from known or unknown causes)?
+If not, is it reasonable to extrapolate from less-energetic deliberate collisions?

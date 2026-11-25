@@ -1,0 +1,29 @@
+In circle orbit, give a delta V to a satellite, how to find final orbit altitude?
+I think this is a very very simple question for me, but unfortunately I cant solve it...
+A satellite is orbiting in a circular path at an altitude of 600
+kilometers. If the satellite is capable of providing a total velocity
+increment (ΔV) of 1.2 kilometers per second, what would be the maximum
+possible circular orbit that the satellite can reach?
+I try to use the equation I found on "fundamentals of astrodynamics and applications" this book.
+And assume it is a circle orbit, than caculate it with matlab.
+however the result value I got is negative, which not correct.
+Can anyone tell me what did I do wrong? thank you!!
+My code:
+clc;
+clear;
+mu = 398600.4415; % Standard gravity parameters，km^3/s^2
+earth_radius = 6378.137; % Earth radius，km
+initial_altitude = 600; % initial orbit altitude，km
+deltaV = 1.2; % deltaV，km/s
+% initial orbit altitude
+ri = earth_radius + initial_altitude;
+% initial speed
+Vi = sqrt(mu / ri);
+% final initial
+Vf = Vi + deltaV;
+% final orbit altitude
+rf = mu / Vf^2;
+% final orbit altitude
+final_altitude = rf - earth_radius;
+fprintf('final orbit altitude：%f km\n', final_altitude);
+final orbit altitude：-1181.274068 km

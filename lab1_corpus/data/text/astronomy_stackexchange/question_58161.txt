@@ -1,0 +1,14 @@
+From which notable Europa's surface features could be possible to observe Jupiter eclipsing the sun?
+I'm currently writing a story happening on Jupiter's moon Europa in the distant future and am looking for a location of the settlement where it takes place. As the protagonist likes to observe Jupiter eclipsing the sun before her workday, it should be a location from which it's possible to observe this occurrence.
+I tried to browse WolframAlpha, Wikipedia and USGS databases, looking at coordinates and considering this location should be in the moon's hemisphere facing Jupiter and in the Western part of it so that Jupiter wouldn't be right overhead and blocking the entire sky (also it would be aesthetically much better view with Jupiter being close to the horizon). But I don't understand these coordinate systems.
+I asked ChatGPT to brainstorm which features would fit, and tried to define the criteria as both "the sun setting behind Jupiter" and "Jupiter eclipsing the sun". But that requires fact-checking.
+Ideas ChatGPT offered:
+Conamara Chaos
+Pwyll Crater
+Thera Macula
+Agenor Linea
+Minos Linea
+Katreus Linea
+So I have a two-fold question:
+Which of these locations fits better? As a fact-checking: is any of these in the wrong location to observe Jupiter eclipsing the sun?
+Which other location(s) would also fit the criteria, and maybe better than any of these?

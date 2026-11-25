@@ -1,0 +1,14 @@
+How easy would it be for an interstellar probe to identify planets in another star system?
+Would sending an interstellar probe be the only way to completely map another star system or would it be eventually possible to map it from Earth, beyond any reasonable doubt?
+If a probe is necessary, let's assume we have found a way to accelerate such a probe with all necessary instrumentation (which?) towards another star system at a fraction of c, and communicate back.
+Some basic assumptions:
+at a minimum we are interested in knowing basic data about these planets, such as their mass, gravity, atmospheric pressure and composition (if any), surface temperature, maybe a picture of the planet, etc.
+ideally we would like to completely map the whole star system.
+we are not concerned with how long it would take.
+Two scenarios
+The probe starts braking halfway and enters the orbit of the main star in this star system. In this scenario the probe could remain as long as necessary in this star system.
+The probe does not brake and intersects the star system. Let's say we accelerate it to 0.1 c and that would be the speed at which it flies through it.
+In the first scenario, would the probe be able to gather all its data from its orbit around the sun or would it need to first identify the planets and then enter the orbit of each to gather other data that would require the probe to get closer? Ignore for the sake of the argument the deltaV-related complications and the costs of accelerating the amount of fuel necessary to visit each planet.
+In the second scenario, if all data can be gathered at a distance, would it be able to map all of the star system or would it risk missing some planets, say the smaller ones? And what would be the minimum distance necessary to gather the required data?
+Would we generally aim at the sun / main star, or if any planets are known, would it be possible or useful to already plan an interstellar orbital insertion from Earth. I am guessing such a manoeuvre would need to be corrected while in transit?
+In general, how sure would we be that the probe has found all planets there are?

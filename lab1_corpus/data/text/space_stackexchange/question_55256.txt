@@ -1,0 +1,10 @@
+Biggest periscope camera that could fit inside a Starlink satellite; how thick are they?
+If all Starlink satellites had phone tier cameras & simple scopes, could images processed by their super-resolution imaging network be competitive? is a cool question and to integrate a reasonable telescope into a Starlink without adding moving or pop-out parts which would challenge stacking, deployment and operation reliability the only way to put a telescope into one is to use a "periscope camera", really just a flat 45° mirror (or prism) so that the optics can live inside the flat package of a Starlink satellite (or a flat cell phone).
+So to understand better what kind of high resolution optics could fit into a Starlink (by pushing something else out or shrinking it) a key ingredient is its thickness.
+Question: What is the biggest periscope camera that could fit inside a Starlink satellite; how thick are the Starlinks?
+Images from What is a periscope lens, and what would it mean for future iPhones?
+On the left is a conventional zoom lens, which requires all the elements to fit within the depth of the smartphone (plus small bump). On the right, is a periscope lens, which allows the length of the lens to be much longer, as the depth of the phone is no longer an issue.
+...or at least not as much of one. Presumably the Starlink telescopes would not be zoom lenses, in fact they could be lenses or mirrors or a mix of both. But for the best resolution across a wide-ish field, they would still need to be long and have multiple optical elements.
+From What is the largest number of identical satellites launched together?
+Elon Musk tweet about an upcoming launch, that hasn't happened yet at the time this question is posted.
+First 60 @SpaceX Starlink satellites loaded into Falcon fairing. Tight fit.

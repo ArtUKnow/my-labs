@@ -1,0 +1,6 @@
+How does the ISS ammonia cooling loop compare to a ground-based ammonia cooling system?
+David Ogden asks, in response to this question, (paraphrased):
+How does weightlessness affect the pumping ability of the system? Shouldn't the ammonia not know which end is down or up.
+How would you keep the refrigerant leaks fixed? Is it welded like here on earth? Wouldn't the evaporation rate be much faster to leak into a complete vacuum?
+Where do they keep the extra ammonia to replenish the system? How much refrigerant does the system hold and how did they figure out the flow rate of the ammonia in zero gravity?
+None of this makes any sense. What is used as compressor, condenser, evaporator. Tons of fittings to leak. And it is deadly if the leak is in occupied areas. Very confused AC mechanic.

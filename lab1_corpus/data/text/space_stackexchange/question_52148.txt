@@ -1,0 +1,9 @@
+Just how much "dumb luck" was reaching the space age during the "Grand Tour" opportunity? Would we have been SOL 1050 or 2100 years before/after?
+@OscarLanzi's answer to Why is the gas giant grand tour interval 175 years when the synodic period of Uranus and Neptune is 171 years? is an excellent answer describing a subtle situation; each pair of planets have their own synodic period and while there is a cluster of planet-pair synodic periods around 175 years, this is not a magic number.
+If you look at the synodic periods between pairs of the outer four planets, we see a lot of numbers near 175 if you take into account that we can look for integer multiples of synodic periods.
+Saturn Uranus Neptune
+Jupiter 19.86 x 9 = 178.73 13.81 x 13 = 179.56 12.78 x 14 = 178.95
+Saturn -- 45.36 x 4 = 181.44 35.87 x 5 = 179.34
+Uranus -- -- 171.41 x 1 = 171.41
+Question: Since the cluster of two-planet synodic periods near 175 years have some spread, if we'd hit the space age say 1050 or 2100 years earlier or later1 would we have not had the same opportunity and (among other things) not now have two "interstellar" probes outside the heliopause?
+11050 or 2100 years is 6 and 12 times 175 years, rather than "1000 or 2000 years" as I had it originally.

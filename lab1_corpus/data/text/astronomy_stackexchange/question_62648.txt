@@ -1,0 +1,10 @@
+Need help in understanding RA-dec intuitively as someone who is new to Astronomy
+I'm currently preparing for the regional Astronomy Olympiad in my country and I'm facing issues in understanding how to tackle problems regarding Right Ascension and Declination.
+An example question from the examination:
+Star A rises half an hour before star B and it sets half an hour after star B from a particular
+location. Which of the following statement(s) is/are correct?
+(a) The location is on equator.
+(b) The location is in southern hemisphere and star A is more south than star B.
+(c) The location is in northern hemisphere and star A is more north than star B.
+(d) Both stars have the same right ascension.
+I simply can't understand how to do these types of questions so any sort of advice or help is welcome.

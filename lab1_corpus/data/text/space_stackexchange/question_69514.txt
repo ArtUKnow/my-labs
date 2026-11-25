@@ -1,0 +1,2 @@
+Converting ECEF acceleration to ECI in Astropy?
+I am using Astropy to convert between and ECEF frame and an ECI one, I can do this happily with position and velocity by creating a CartesianRepresentation object with the ECEF position and velocity and then using the transform_to method, but I can't figure out how to also include an acceleration vector (which I'm told by Google is possible)? Does anyone have any ideas?

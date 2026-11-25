@@ -1,0 +1,13 @@
+Is or was STARGATE really being used for SpaceX launches at Boca Chica or otherwise?
+The 2015 answer to For SpaceX's Texas launch site, what kind of range radar/tracking will they have? links to The Spacecraft Tracking and Astronomical Research into Giga-hertz Astrophysical Transient Emission (STARGATE) which says:
+The STARGATE facility will be a radio frequency technology park located adjacent to the SpaceX launch site command center. SpaceX will assemble and launch their signature advanced rockets and spacecraft, with launches every month at the Boca Chica Beach site. When not being used for launches, SpaceX facilities will be used by student and faculty researchers at STARGATE for training, scientific research and technology development.
+STARGATE has already established collaboration with manufacturing companies with experience in electronics, radio, and aerospace components. Their specific expertise will ensure STARGATE's designs are commercially viable and help speed prototyping and development.
+STARGATE will do more than just the core research functions. Within 5 years of being built and operational, STARGATE intends to:
+Establish an industry mentoring program for students
+Publish listings of the available equipment for researchers, businesses, and incubator members
+Host a business plan competition
+Host a entrepreneurship/angel investing forum
+Publish reports on commercialization successes and host showcase events for the public
+The last bullet suggests that there will have been some published reports. Six years on, have there been any?
+Question: Is or was STARGATE really being used in conjunction with SpaceX launches at Boca Chica or otherwise? If so, how? If not, why not?
+Asked in Astronomy SE: Is “Giga-hertz Astrophysical Transient Emission” distinct in any way from “Fast Radio Burst”? and currently unanswered.

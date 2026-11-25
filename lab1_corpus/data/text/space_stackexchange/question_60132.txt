@@ -1,0 +1,5 @@
+Will the Orion glass cockpit with CCD be tested with prospective astronauts on the ground during the upcoming Artemis 1 test flight ? If not, why?
+Image credit: DesignNews article: "Exclusive: A Closer Look at NASA's Orion Glass Cockpit"
+Will there be video cameras onboard the Orion spacecraft that registrate the glass cockpit displays and send the images real-time to Earth for prospective astronauts to interpret them ?
+And could the astronauts on the ground have a Cursor Control Device (CCD), as described in this article, that would transmit data indirectly to the displays of the glass cockpit onboard the flying Orion to manage the spacecraft ?
+Of course, prospective astronauts will have done many simulation flights in advance, but would not this real event with interaction from groundcontrol be the ultimate test before the following first manned Artemis 2 flight?

@@ -1,0 +1,22 @@
+Long March 3C/E specification
+From what I can see, it looks like the Long March 3C is pretty much a Long March 3B with two strap-on boosters instead of four.
+The Long March 3B/E is actually a Long March 3B with a bit higher boosters and first stage.
+The same with Long March 3C/E - the boosters and first stage have same specifications as Long March 3B/E
+The question is what is the height, mass and payload capacity to LEO
+This link says about Long March 3C/E
+Rocket Height: 55.64 m - instead of 56.3 m as Long March 3B/E
+Payload to LEO: 8,000 kg - which is equal with Long March 3C
+Strap-ons: 4 - which is hard to believe, because then it will be identical with Long March 3B/E
+Liftoff Thrust: 5,923 kN
+And this link says about Long March 3C
+Rocket Height: 54.84 m
+Payload to LEO: 8,000 kg
+Strap-ons: 2
+Liftoff Thrust: 5,923 kN - which can not be, because it is the same as Long March 3B/E, which has 4 strap-on boosters instead of 2
+The real data that I estimate for Long March 3C/E is the following:
+Rocket Height: 56.3 m - same as Long March 3B/E
+Payload to LEO: less than 8,000 kg of the Long March 3C
+Strap-ons boosters: 2
+Liftoff Thrust: 4,442 kN
+Liftoff mass (t): 345 (= Long March 3C) + 33 (difference between Long March 3B/E - Long March 3B)
+Can anyone help with more accurate data?

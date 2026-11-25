@@ -1,0 +1,6 @@
+Star power: How can we understand nuclear chemistry at millions of degrees when we can't do that experiment? Because the math predicts observations?
+I really want to know two things:
+Is it actually true that we can't model nuclear reactions at millions of degrees, because we CAN in accelerators? My understanding is that we can't, but I'm always terrified that my understanding is wrong.
+If we are only confident about our understanding of nuclear chemistry because the mathematical models fit observations, why doesn't that also apply to string theory predicting quantum field theory by projecting it onto a lower number dimensions via the ADS/CFT correspondence?
+Or to phrase it as a contrapositive, people say string theory can't be disproven because the energies are too high. Why does that not also apply to nuclear chemistry?
+The title field wasn't long enough to allow me to ask that complete question in the title. I will happily accept just an answer to the first part. If no one here is familiar with the ADS/CFT correspondence, then please ignore it instead of voting to close just because it is also about physics. To me, it's all just one amazing reality.

@@ -1,0 +1,5 @@
+What is the purpose of geosynchronous communications satellites?
+This question's sole answer Is it true, that commercial communications satellites account for the largest share of commercially used satellites? explains that:
+the vast majority of the satellites in geosynchronous orbit are communications satellites.
+Looking up the main use of such satellites, it seems to be mainly satellite phone calls and the like. Given the noted majority usage, I would've expected something else, like Internet relay, like how David explains the new LEO satellite constellations' purpose. Perhaps it's just old infrastructure waiting to be pushed out?
+Therefore, what is the purpose of geosynchronous orbit communications satellites, and why is it the majority/primary usage in 2023?

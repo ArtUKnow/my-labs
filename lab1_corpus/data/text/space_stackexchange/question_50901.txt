@@ -1,0 +1,4 @@
+Are the Perseverance core samples extracted from the drill bit before being stored?
+Among other tasks, the Perseverance rover will drill core samples of rocks, which are then stored in sample tubes for their return to Earth.
+Are the core samples removed from the drill bit before being put in the sample tube? Or instead is the drill bit put into the tube with the sample intact, leaving scientists on Earth to perform the extraction? The former would allow the drill bits to be reused, but the latter is simpler and less prone to problems.
+There is some discussion of the issue in the comments below this answer, but the issue is still unclear.

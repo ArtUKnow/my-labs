@@ -1,0 +1,4 @@
+Would someone in orbit require eye protection to look at Venus? What about the upper atmosphere?
+I was contemplating future colonization of Venus, and thinking about how tremendously bright it is from Earth even with the naked eye.
+This got me wondering about if humans in orbit of Venus need shaded eye protection to prevent burning their retinas from all the reflected solar radiation.
+Now, though I suspect I might be able to try and calculate the energy over surface area at a given distance, and so on... I realized I haven't got the slightest clue how I would then try and estimate how bright it would be at ~50km altitude inside the atmosphere, a somewhat well known region for being relatively favorable to human life.

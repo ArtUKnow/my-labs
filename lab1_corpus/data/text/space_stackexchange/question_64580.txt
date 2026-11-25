@@ -1,0 +1,2 @@
+How does the James Webb space telescope measure wind shear?
+NASA.gov has an image of the James Webb space telescope's nircam tracking a high speed belt near Jupiter's equator. They measured the speed by looking at wind shears in millibars. How does Webb do that? What instrumentation is used for this purpose? Thanks.

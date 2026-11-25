@@ -1,0 +1,17 @@
+Get Mean Orbital Elements of Jovian Moons
+For a long time I've been trying to find data of the Mean Orbital Elements of the Jovian Moons in the ICRF/J2000 ref. frame.
+All I could find was the Osculating Orbital Elements from JPL/Nasa Horizons
+and Mean Orbital Elements w.r.t. local Laplace planes.
+I know about SPICE but I have no idea how to find the data I need there.
+Any tips or sources how to get this data?
+Update:
+Following a comment I had a closer look on the annotations on the JPL site.
+For the inner 8 moons, mean elements are given w.r.t. their local Laplace planes but the columns R.A., DEC. are not the moon RA/DEC it actually gives the direction of the normal of their Laplace-plane w.r.t. ICRF.
+For the remaining moons the table lists mean ecliptic orbital elements. Ecliptic is tilted by obliquity = 23.4392811° compared to ICRF.
+To transform between Laplace and ICRF I'm following
+derive state vectors $\vec{r},\vec{v}$ at time $t=$J2000 from the Laplace orbital elements
+rotate both around the x-axis by 90°-DEC
+rotate the results around the z-axis by 90°+RA
+transform back to orbital elements in ICRF using ref. time $t=$J2000
+Ecliptic case is included using RA=270°, DEC=66.560699°.
+Is this the correct way to transform Laplace to ICRF?

@@ -1,0 +1,11 @@
+With an external airlock attached, could Commercial Crew Program spacecraft service Hubble?
+Note just to clarify: is not about the requirements of the Commercial Crew Program, it is about the as-built capabilities of Crew Dragon and Starliner (hereafter referred to as CCPS, CCP (not that one) spacecraft).
+I'm wondering if CCPS could service Hubble with Astronauts on EVA. Of course, this would require a dedicated mission-module-esque airlock with MMUs contained. Disregarding how such an airlock would be flown & docked to CCPS in Hubble's MEO orbit... disregarding how a CCPS would arrive in MEO orbit... would it be theoretically possible?
+Some potiential reasons it would be impossible:
+CCPS cannot independently (free-flying) support a reduced crew of three astronauts (I'm guessing two would be the minimum permitted for an EVA with one remaining in the vehicle) for a sufficient duration to service HST. This question might be useful for a start--which is the most limiting factor: bathroom, stationkeeping fuel, or food?
+CCPS cannot operate safely in the radiation environment of MEO, or at least not for a sufficient time to service HST.
+Shuttle had Canadarm to keep HST berthed alongside it. Perhaps CCPS cannot stationkeep near Hubble safely with crew on EVA? Is there an alternative, like tethering Hubble to the vehicle?
+CCPS can't bring something up that would be required to service HST. Is Starliner entirely precluded from such a mission by lack of Crew Dragon-esque trunk?
+Astronauts cannot EVA safely around a free-flying CCPS. Would RCS plumes prevent them from working while CCPS is actively stationkeeping? Could they not safely maneuver around CCPS without handholds, even if MMUs are provided?
+Something entirely different, like the avionics don't support being in such a high orbit, or reentry would be too spicy.
+Note that these are not separate questions regarding CCPS capabilities, I'm just throwing out ideas that could prevent CCPS from being unable to service HST. If there is any single reason that makes it impossible (besides the lack of such an airlock or the ability to launch both into Hubble's orbit), an answer with said reason and a "nope, wouldn't work" will be an entirely satisfactory.

@@ -1,0 +1,8 @@
+Satellites - predominant apparent motion?
+Recently, while foolin’ around with Stellarium, and checking out its simulation capabilities, I recorded some satellite activity.
+Sped up ~30x, here are about 12 minutes of simulated sky on March 31, 2022, around 17:38 (-7 utc), viewed from Juneau, Alaska, with FOV ~centered on Procyon (Orion on the upper right).
+Almost all of the moving objects in this video simulation appear to move from west to east, and somewhat north to south.
+Probably a very simple answer to this question, but why are there so few objects (satellites) that appear to move east to west, or south to north?
+Update:
+Based on the responses from Nuclear Hoagie and JohnHoltz, here are what I believe are the same satellites, at different points in their orbits, viewed from approximately Juneau’s antipode.
+Sped up ~30x, here are about 8 minutes of simulated sky on March 31, 2022, around 16:54 (-8 utc), FOV ~centered on Altair.

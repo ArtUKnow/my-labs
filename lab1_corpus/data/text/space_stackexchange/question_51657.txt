@@ -1,0 +1,5 @@
+How common is the ejection of small objects during final stage separation?
+Source: Crew-2 launch; YouTube (timestamp link)
+That object seen moving right to left is the reason I ask. By playing the video frame-by-frame, it seems like it's a small object close to the camera inside the second stage, and it looks like a spinning flat spacer.
+How common is the release of such objects? I'm asking out of curiosity since tiny untrackable objects could pose threats I'd imagine.
+I initially asked about Dragon 2, but now realizing information may not be as public as for say NASA's own vehicles, I've made the question applicable to similar launches.

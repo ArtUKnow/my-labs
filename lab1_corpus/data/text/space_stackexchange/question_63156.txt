@@ -1,0 +1,2 @@
+Are the Delta IV Heavy’s attachments for SRBs removable?
+The Delta IV (which uses solid rockets in a couple configurations) shares a "Common Booster Core" with the Delta IV Heavy, which does not. Since Delta IV must have attachments for the solid rockets, are those attachments removable? Or, are the booster attachment points a fixed part of the Delta IV, or are they only added when SRBs are being used?

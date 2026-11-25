@@ -1,0 +1,2 @@
+Why are the bottoms of spaceplanes black?
+The traditional answer is that it's because black radiates heat better. The problem is that in order to get rid of heat at all, the surface must glow brighter than the surrounding plasma. And that seems doubtful to me.

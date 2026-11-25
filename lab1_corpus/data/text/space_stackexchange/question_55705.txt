@@ -1,0 +1,10 @@
+How do kick motors distance themselves from their payload after their burn, if at all?
+I saw Space News' An object is now orbiting alongside China’s Shijian-21 debris mitigation satellite
+recently about a "new object" orbiting near a relatively newly launched satellite. The article says it's currently classified as an apogee kick motor, and states the following:
+Apogee kick motors usually perform a final maneuver after satellite separation so as to not pose a threat to active satellites through risk of collision.
+This makes sense to me, as keeping the motor attached would mean a shorter lifetime due to the additional mass, and having stray debris wandering around an orbit seems undesirable.
+This led to two questions:
+How is this maneuver done?
+How common is this maneuver historically and among currently-operating rockets?
+For the first question, I've found a few interesting bits of information, but nothing complete. Maneuvering the kick motor like a "normal" satellite/rocket after its burn seems like an obvious answer, and Rocket Lab's kick stage appears to use this approach, but I haven't been able to find out how common this approach is or whether it's a relatively recent development. In addition, it doesn't seem feasible for something like the Star 48, since it seems much simpler technology-wise and I'm not sure how maneuvering/reignition would work for a solid motor. Are there other separation/disposal options for this or other cases?
+As for the second question, I haven't been able to find anything, though I'm not sure I'm looking in the right places.

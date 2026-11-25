@@ -1,0 +1,16 @@
+Apollo 13's plutonium RTG re-entry into the Tonga Trench: Good shootin' or good luck?
+Plutonium powered RTGs are encased to survive re-entry. According to the Wikipedia article on Apollo 13
+RTGs were used to power … the scientific experiments left
+on the Moon by the crews of Apollo … Because the Apollo 13 Moon
+landing was aborted, its RTG rests in the South Pacific Ocean[6]
+The RTG was carried on the LM, which separated from the CM more than an hour before splash down and re-entered on its own about 500 miles uprange from Apollo 13.
+Apollo 13's final midcourse correction had addressed the concerns of
+the Atomic Energy Commission, which wanted the cask containing the
+plutonium oxide intended for the SNAP-27 RTG to land in a safe place.
+The impact point was over the Tonga Trench in the Pacific, one of its
+deepest points, and the cask sank 10 kilometers (6 mi) to the bottom.
+Google Earth
+https://honeysucklecreek.net/msfn_missions/Apollo_13_mission/a13_re-entry-groundtrack.html dashed red line is Apollo 13 ground track to splashdown
+The splashdown of the CM was very accurate: the “miss distance” was 1.85 miles https://en.wikipedia.org/wiki/Splashdown
+The RTG landed 500 miles away, over the deepest spot I could find in the Tonga Trench. Good shooting, or good luck? The CM can be steered during re-entry, but re-entry and break-up of the LM should be less predictable.
+How much control did NASA have over the splashdown site of the RTG?

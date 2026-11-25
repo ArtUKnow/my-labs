@@ -1,0 +1,32 @@
+Other than rockets, have internal combustion engines run in space?
+According to https://en.wikipedia.org/wiki/Advanced_Cryogenic_Evolved_Stage
+The Advanced Cryogenic Evolved Stage (ACES) .. proposed (using) a lightweight internal
+combustion engine to use hydrogen and oxygen propellant boil-off
+(normally wasted when boil-off gases are vented to space) ... The design included producing power, maintaining stage
+attitude[10][14] and keeping the propellant tanks autogenously
+pressurized. Using these fluids was designed to eliminate the need for
+hydrazine fuel, helium for pressurization,[7][15]: 4, 5 and nearly
+all batteries in the vehicle.
+Other sources claimed the exhaust was used for settling tanks and attitude control as well. ICE are particularly well adapted for orbital fuel depots since they can operate from boil-off gasses.
+The paper: Internal Combustion Engine Solar Independent Propulsion https://arc.aiaa.org/doi/10.2514/6.2019-3964
+Proposed a 2-stroke ICE to serve as range extenders on lunar probes which are designed to operate in lunar Permanently Shadowed Regions. Their design had higher specific power and longer loiter time than the option which used Li batteries or fuel cells.
+ICE engines running on rocket propellant are at risk of running “metal rich” on stoichiometric mixtures of oxygen and fuel due to high combustion temperatures. This is addressed in this answer from Methane internal combustion engines for rovers on Mars and Moon. Feasibility?
+SpaceX has already developed one CH4/O2 ICE: The Raptor. We don’t
+usually think of liquid fueled rockets as ICEs, but they are:
+compression, ignition, expansion and all that. It is very difficult to
+run an ICE on oxygen (as opposed to air) due to the extremely high
+combustion temperatures when run stoichiometrically. Air-breathing
+hydrocarbon-burning ICEs (like auto engines) don’t need to deal with
+this complexity since air is 80% N2. This lowers combustion
+temperatures. Raptor’s solution for their preburners is enlightening:
+they are run either very rich or very lean to reduce combustion
+temperature. The exhaust from the two turbine preburners are then
+mixed to burn the uncombusted fuel (from one turbine) and oxygen (from
+the other). This solution could be applied to CH4/O2 ICE.
+A CH4/O2 ICE on Mars will need to deal with the combustion temperature issue. It
+could be dealt with by the same strategy as the Raptor: staged
+combustion. A three cylinder engine could have different mixtures in
+each cylinder. One would be CH3-rich, the second O2 rich. Exhaust from
+each would feed into the third cylinder for completion of combustion.
+So far, just talk. Have there been any ICE engines which have operated in space, except for rockets?
+Edit: Definition of an internal combustion engine: Combustion products are the working fluid (Otto, Diesel, gas turbine, rocket) as opposed to external combustion engines where the working fluid is not (Sterling engines, steam engines)

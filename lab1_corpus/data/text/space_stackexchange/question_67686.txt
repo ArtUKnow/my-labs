@@ -1,0 +1,14 @@
+How does a truncated plug engine differ from an aerospike?
+From https://en.wikipedia.org/wiki/General_Dynamics_Nexus
+The NEXUS was a concept design created in the 1960s by a group at
+General Dynamics … It was intended as the next leap beyond the Saturn
+V, carrying up to eight times more payload. Several versions were
+designed, including 12,000 and 24,000 short ton vehicles with payloads
+of one thousand and two thousand short tons respectively.1 The
+larger version had a diameter of 202 feet (61.5 metres).1 It was
+never built. It was a single-stage-to-orbit vehicle that would be
+fully recoverable upon landing in the ocean. It would use parachutes
+to slow descent, with retrorockets (on top) for a final soft
+touchdown.
+https://www.youtube.com/shorts/GI6IevFWR0k
+There is reference to a “truncated plug engine”. I am confused about the difference between a “Truncated Plug”, “Conical Plug”, Annular Cluster Conical Truncated Plug” and an aerospike engine.

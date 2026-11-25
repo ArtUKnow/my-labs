@@ -1,0 +1,6 @@
+Could amateur radio operators or others contact the ISS against NASA's wishes?
+In real life, but more often in fiction, there are have been a number of examples of "Don't tell the crew" i.e. Mission control finding out about an issue and deciding that for whatever reason the crew should not be notified, even if the rest of the world knows.
+For example in The Martian:
+It's initially decided that the crew should not be told that Mark Watney is still alive on Mars.
+In the case that the crew of the ISS are not told, but the rest of the world finds out, and NASA (and Roscosmos, ESA, JAXA, etc.) actively do not want them to find out, could someone unconnected to the astronauts (i.e. not hidden in a scheduled call or conversation) get a message to those on board?
+Can you just broadcast a powerful enough radio signal, is there a required encoding, do the astronauts have uncontrolled internet access, etc.?

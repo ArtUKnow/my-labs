@@ -1,0 +1,63 @@
+How to calculate COEs from State Vectors in Left Handed XYZ Coordinate System/C++
+I'm making a little space sim with C++ and SDL and am trying to calculate the classical orbital elements (COEs) using the methods demonstrated in this video:
+The big difference is I'm using a left handed XYZ coordinate system where X[1, 0, 0] is right, Y[0, 1, 0] is up and Z[0, 0, 1] is forward as opposed to the standard right handed IJK system which I believe represents right/forward/up (correct me if I'm wrong).
+In the videos first example, given state vectors R -7000j km and V 7500k km/s we should get:
+a = 6916km,
+e = 0.0122,
+i = 90deg or PI/2,
+omega = 270deg or 3PI/2,
+arg perigee = 180deg or PI,
+v = 180deg or PI
+but my program is giving me:
+a = 6920km,
+e = 0.0115,
+i = 1.5707 or 90deg,
+omega = 2.3561 or 135deg,
+arg perigee = 0.78539 or 45deg,
+v = 3.14 or 180 deg
+The tiny differences don't bother me, it's just the obvious ones like omega and perigee. I suspect it must be the difference in cross product between the two coordinate systems.
+This is how my program is calculating them:
+void Rocket::CalculateCOEs(const CelestialBody& centralBody)
+{
+Vec3Double rV = position - centralBody.position;
+// Semi Major Axis
+double u = G * centralBody.mass;
+double r = rV.Magnitude();
+double E = (velocity.MagnitudeSquared() / 2) - (u / r);
+semiMajorAxis = -u / (2 * E);
+// Eccentricity
+Vec3Double eV = (rV * (velocity.MagnitudeSquared() - u / r) - velocity * (rV.Dot(velocity))) * (1 / u);
+double eM = eV.Magnitude();
+eccentricity = eM;
+// Inclination
+Vec3Double hV = rV.Cross(velocity);
+Vec3Double kV(0.0f, 1.0f, 0.0f);
+inclination = acos(kV.Dot(hV) / hV.Magnitude());
+// Longitude of Ascending Node
+Vec3Double nV = kV.Cross(nV);
+Vec3Double iV(1.0f, 0.0f, 0.0f);
+double nM = nV.Magnitude();
+ascLongitude = acos(iV.Dot(nV) / nM);
+if (nV.z < 0.0)
+ascLongitude = PI_2 - ascLongitude;
+// Argument of Perigee
+argPeriapsis = acos(nV.Dot(eV) / (nM * eV.Magnitude()));
+if (eV.y < 0.0)
+argPeriapsis = PI_2 - argPeriapsis;
+// True Anomally
+trueAnomaly = acos((eV.Dot(rV) / (eM * r)));
+if (rV.Dot(velocity) < 0)
+trueAnomaly = PI_2 - trueAnomaly;
+}
+Here are the vector methods:
+double Vec3Double::Dot(const Vec3Double& v) const
+{
+return x * v.x + y * v.y + z * v.z;
+}
+Vec3Double Vec3Double::Cross(const Vec3Double& v) const
+{
+return Vec3Double(
+y * v.z - z * v.y,
+z * v.x - x * v.z,
+x * v.y - y * v.z);
+}

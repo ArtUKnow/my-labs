@@ -1,0 +1,2 @@
+What are the Specific heat ratios of fluorine, Isopropyl Alcohol and Uranium?
+I needed to calculate thrust and velocities of a rocket engine and its exhaust and in order to do that, I needed the values of Specific heat ratio(k) of Fluorine and k of Uranium and Isopropyl Alcohol.

@@ -1,0 +1,8 @@
+What could be the cause of the extraordinary high Fe counts from the PIXL instrument onboard the Perseverance rover?
+In this answer a table is showed with all the elements that were detected by the PIXL instrument on 2 occasions, namely sol 140 and sol 167.
+As could be expected, X-ray counts were high for Si (1020232 and 168275 respectively) and for Ca (580670 and 1356676 respectively ).
+But iron (Fe) was really an exception with values of 2940961 and 5212902 respectively.
+PIXL instrument chart sample Credit:NASA/JPL-Caltech
+Looking at the chart sample above you could argue that the high Fe value is due to the "bulge" where the small peaks of Mn, Fe, Ni, Cu and Zn are situated, but then the "Top" X-ray counts in the table for Mn, Ni, Cu and Zn would have to be also high, but they are only 90854, 15684, 14117 and 14562 respectively. (sol 120)
+Could the iron content of the abraded rock targets on both sol 120 and sol 167 really have been that high ?
+Or is it possible that iron and/or its oxides re-emit X-rays more easily than other elements will do ?

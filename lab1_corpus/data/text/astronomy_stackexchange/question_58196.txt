@@ -1,0 +1,9 @@
+Earth’s orbit (JPL Horizon system)
+I’m was under the impression that over the course of a year (365,25 days) the earth will orbit the solar system’s barycenter in an nearly perfect elliptic orbit with the barycenter as the focus point.
+I have tried to use Nasa’s Horizon system to output earth’s position over a year. After 365,25 days I end up with a difference of more than 400000 kilometers. What am I doing wrong? (I understand over a longer time span the barycenter itself will move and that the outer planets will cause Perturbations of the orbit)
+What have I done:
+Go to https://ssd.jpl.nasa.gov/horizons/app.html#/
+Select ‘Web Interface’, then apply these settings:
+Ephemeris Type: VECTORS
+Target Body: EARTH
+Coordinate Origin: Solar System Barycenter (SSB) [500@0]

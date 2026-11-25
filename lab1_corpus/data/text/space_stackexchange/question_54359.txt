@@ -1,0 +1,4 @@
+Do astronauts aboard ISS notice a change in ISS orientation?
+The ISS was rotated by Nauka today. As far as I understand, this took quite some time, i.e. the ISS was not simply rotated by 45 degrees within a few seconds.
+I know that the ISS usually rotates once per orbit and that astronauts do notice acceleration (due to boosting). But do astronauts notice such changes in orientation like the one Nauka caused? Or the deliberate change in orientation prior to the docking of Nauka?
+I imagine that an astronaut who is not holding on to something might notice that the walls seem to rotate around them slowly.

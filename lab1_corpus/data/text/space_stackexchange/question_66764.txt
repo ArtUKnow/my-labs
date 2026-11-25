@@ -1,0 +1,10 @@
+Was the Command Module photographed from the lunar surface?
+This is a follow-up question to this one, where it was noted that the command module could have been as bright as Venus, as seen from the lunar surface during the Apollo missions. We also know that Venus appears casually in some photographs from Apollo 14 and Apollo 16, as well as Jupiter in some photographs of Apollo 12.
+So since it is possible, did it happened? Is there a photograph taken by any Apollo crew on the surface of the Moon perhaps showing the command module?
+I guess this can be answered with a bit (or a lot) of work. If I knew how to find the data, I would proceed like this:
+First, find all the CSM passes over the landing site of each mission and filter for the times where the astronauts were performing an EVA (maybe is not necessary to be so strict since they also took photos showing the sky from inside the Lunar Module).
+Filter all the lunar surface photos that do not show the sky and filter by matching the possible time-windows when the CSM could have been in the sky.
+Look at those photos in search of white dots in the blackness of the sky (increase the brightness if necessary).
+If a candidate is found, we should look at the orientation and exact timestamp of the image to confirm if the position matches the expected location of the CSM.
+My modest attempt for the moment:
+I know that a panoramic image (AS15-P-9377) of the landing site of Apollo 15 was taken from the CSM while the astronauts were on the surface. In fact the lunar module can be seen there!. The picture was taken at 02:13:03 GMT on the 31st of July 1971, so we know that the CSM should have been visible from the surface around that time. Sadly the first lunar EVA of the mission had ended at 00:49:56 GMT, so 1:23 hr after the astronauts were walking around. Maybe they took a picture of the sky from the inside of the lunar module around that time and in the right direction?

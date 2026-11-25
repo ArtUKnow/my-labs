@@ -1,0 +1,8 @@
+Could Ingenuity use the shadow of its legs for navigation to fly autonomously to the sample cache depot location?
+It's summertime now in Jezero crater, and according to the HORIZONS Web-Interface the subsolar latitude for Mars varies between both the end of May and November 2021 from 18.5⁰ N to ~25.5⁰ N and back to 18.5⁰ N again.
+With Jezero crater being at 18.38⁰ N latitude this means the path of the Sun through the sky there in that period will be almost exactly from east to west.
+Credits: NASA/JPL
+On the image we can see that the legs are placed 90⁰ from each other and that the Sun gives a clear shadow of those legs on the surface. And when orientated in the right direction, in the early morning or late afternoon one of the legs could have a small shadow line in the field-of-view of the navigation camera. (see Fig. 11 from Mars Helicopter Technology Demonstrator)
+Could an image of such a shadow line not be processed every day during takeoff in such a way that together with the onboard IMU a chosen flight direction could be maintained ?
+If for instance, during takeoff in the morning the shadow of the right rear leg would cross the field-of-view of the downward-looking camera, the navigation unit could "know" that the front of the helicopter is directed to the northwest.
+So the ultimate question is: "Could Ingenuity's science team change the navigation software in such a way that with processing the images taken by the navigation camera capturing a shadow line of one of Ingenuity's legs, together with the data from the IMU, the helicopter will be able to fly autonomously in one direction, after the test campaign has ended ? "

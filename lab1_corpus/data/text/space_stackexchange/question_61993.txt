@@ -1,0 +1,4 @@
+Why does the ICPS carry extra hydrogen?
+The Interim Cryogenic Propulsion Stage (ICPS) of the Space Launch System is essentially the Delta Cryogenic Second Stage (DCSS) lifted from the Delta IV rocket. However, among other minor changes, the ICPS features most notably a stretched LH2 tank.
+However, there is no corresponding increase in the amount of oxidiser being carried. Is it to allow for some boil off while loitering in Earth orbit or is there another reason?
+https://blog.ulalaunch.com/blog/icps-1-stage-stacked-atop-first-sls-rocket

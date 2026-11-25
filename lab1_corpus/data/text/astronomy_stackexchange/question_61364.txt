@@ -1,0 +1,5 @@
+What could kick a comet out of a solar system at 58 km/s?
+Wikipedia's 3I/ATLAS gives the object's hyperbolic excess velocity $v_{\infty}$ as 58 km/s with respect to the Sun.
+In other words when far from the Sun or other stars in interstellar space, it would be moving at about that speed.
+This means that when it left (was "kicked out") of it's solar system's gravitational well it would have had to have been given a "delta-v" of at least that much.
+What are the main hypothesized mechanisms that could do that to a comet? Could our solar system do it?

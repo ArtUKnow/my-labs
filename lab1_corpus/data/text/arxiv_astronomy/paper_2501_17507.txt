@@ -1,0 +1,2 @@
+Reflections on "Can AI Understand Our Universe?"
+This article briefly discusses the philosophical and technical aspects of AI. It focuses on two concepts of understanding: intuition and causality, and highlights three AI technologies: Transformers, chain-of-thought reasoning, and multimodal processing. We anticipate that in principle AI could form understanding, with these technologies representing promising advancements.

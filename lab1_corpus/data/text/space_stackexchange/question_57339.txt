@@ -1,0 +1,14 @@
+How was AS-212 (Saturn 1B) supposed to carry both a CSM and LM?
+I recently came across this overview image of Saturn 1B missions:
+(source: NASA)
+AS-212 is asterisked with the note (bottom-left of the image) that it is "scheduled to carry both a CSM and LM." However:
+Saturn 1B payload capacity to LEO was somewhere between 18000 and 21000 kg
+The CSM weighed at least 14690 kg
+The LM weighed at least 15200 kg
+There are some variations in the reported weights and one should consider various "auxiliary hardware" like the nose cone, adapters, etc., but in any case the combined weight of CSM + LM exceeded the payload capacity of a Saturn 1B by a lot. Indeed, the Saturn 1B never actually flew with both the CSM and the LM. In fact, a dual mission was at some point considered (AS-207/208) to get a CSM and an LM in low Earth orbit to test operations (similar to the Gemini program):
+The inability of the Saturn IB to toss the command and service modules and the lunar module into orbit together had forced planners to consider "LM-alone" flights. Gemini's successful dual missions suggested that it might be possible to launch a crew aboard a command module to hunt down a lunar module launched by a different Saturn IB. Two of the crewmen would then transfer to the lander and carry out an earth-orbital operation previously planned for a Saturn V flight.
+Although the dual flight for Gemini had been greeted with enthusiasm, the proposal for an Apollo tête-à-tête met with resistance. John D. Hodge, Kraft's chief lieutenant in the mission control trenches, said there would be problems in simultaneously tracking four booster stages and in operating two mission control rooms. Planning continued, anyway, and Howard Tindall started working up flight rules - such as which launch vehicle would go first, the one with the command and service modules (AS-207) or the one with the lunar module (AS-208).
+(source: Chariots for Apollo, chapter 8)
+In the end, manned LM testing was done on a Saturn V (AS-504), AS-206, AS-207 and AS-208 were used to launch crews to Skylab and the S-IVB stage of AS-212 was repurposed as the Skylab workshop module.
+Question: how was AS-212 supposed to carry both the CSM + LM? Was there a (massive) uprating envisioned, or new engines? Or am I misinterpreting the diagram?
+Note that the diagram is reportedly from January 1968, just before the launch of AS-205, carrying the first LM.

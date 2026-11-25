@@ -1,0 +1,2 @@
+Will Artemis 3 mission's SLS place orion on orbital or sub-orbital trajectory?
+Artemis - 3 SLS rocket does not have a second stage. It instead would use a spacer. Will SLS alone have enough Delta-V to place the Orion crew capsule into a orbital trajectory or will the engine of European service module start to propel the spacecraft into orbit?

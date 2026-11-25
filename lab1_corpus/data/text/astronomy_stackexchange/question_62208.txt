@@ -1,0 +1,2 @@
+How does relativistic kinetic energy affect orbital motion in strong gravitational fields?
+Orbital motion can be described using classical kinetic energy and gravitational potential energy. However, when cosmic velocities approach a significant fraction of the speed of light, relativistic kinetic energy becomes important in what ways?

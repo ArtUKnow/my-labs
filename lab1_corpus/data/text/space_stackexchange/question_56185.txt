@@ -1,0 +1,3 @@
+Maximum Acceleration for NASA's Transport Crawler while carrying Saturn V
+I was reading about the transport crawler and one detail that seems to be not covered in any of the lay-person's easily accessible literature is the recommended acceleration for the transport while carrying a Saturn V rocket. It is normally reported the crawler would only move at 1mph/1.6kph while carrying a load, but how quickly was it accelerated while carrying a load is not. I did a cursory search but kept getting drowned in results about Saturn V's own acceleration.
+While I imagine there was a specification for maximum acceleration, if none can be found I would accept a rough estimate that would accomplish this.

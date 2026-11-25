@@ -1,0 +1,7 @@
+Right Ascension of the Ascending Node (RAAN) Drift and Correction
+This one can be a very short and easy question, but I wanna know the proper answer of them..
+Few days ago I got a questions like:
+"What kind of perturbation(s) can cause drift on RAAN value of a highly inclined satellite?"
+as a follow up that question one also came up as:
+"What kind of maneuver can we do in order to correct that drift? In-Plane (E/W) or Out-of-Plane (N/S)? Or mix of them?"
+I believe I had some proper answers for those questions, but I doubt it at the same time.. So, what you guys thinking of them? Thanks in advance!

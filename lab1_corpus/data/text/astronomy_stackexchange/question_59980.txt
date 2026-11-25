@@ -1,0 +1,7 @@
+How long could a blanet survive before being destroyed?
+A blanet is a theoretical astronomical object, with the basic consensus being a planet orbiting a black hole. Assuming that the black hole is roughly 100 solar masses, what factors would have to be met in order for it to not be torn apart immediately? Factors such as:
+orbital speed
+rotation speed
+orbit eccentricity
+distance from black hole
+likely planet type (terrestrial, super earth, mini-neptune, super-jupiter)

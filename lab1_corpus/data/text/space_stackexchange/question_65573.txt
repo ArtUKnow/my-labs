@@ -1,0 +1,3 @@
+What was the relative velocity of Cosmos 2221 and TIMED?
+According to Space.com, on the 28th of February at 06:34 UTC, the dead Russian spy satellite Cosmos 2221 and the NASA spacecraft TIMED, which are both orbiting at an altitude of about 608 kilometres, passed each other at a distance of less than 20 metres.
+Obviously space junk is a problem and a collison would have created a lot of debris. Do we know enough about the orbital parameters of these two objects to determine their relative velocity at the closest point?

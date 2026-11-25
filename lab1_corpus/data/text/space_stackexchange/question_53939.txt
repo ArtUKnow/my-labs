@@ -1,0 +1,7 @@
+What is final positioning of rideshare satellites (like transporter-2 mission) and how do they get there?
+Looking at deployment of transporter-2 mission I did not see any information about the final position of these satellites (relative to the second stage or to each other) and how do they get there (maybe I missed it, I skipped boring parts).
+What I know (confirmed in this answer) is that satellites follow trajectory of the second stage when not using own propulsion. There are satellites with (starlink) and without (SpaceBee) propulsion. Browsing payload-deployment I have found some answers like this, this, this explaining how satellites are initially released around as swarm and will position to follow each other in orbit in safe distance and this can take months.
+But I still have some questions:
+Do some satellites (f.e. without propulsion) stay in initial swarm? Basically slowly drifting away?
+Do satellites that position in line follow each other closely or can be spread around whole orbit? Is there reason to not follow closely when safe distance is achieved?
+Do satellites that position in line initially all slow down, speed up or it depends on satellite? And when after deployment will they start this process?

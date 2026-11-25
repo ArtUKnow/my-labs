@@ -1,0 +1,29 @@
+What was the function of the Apollo Sextant Beam Splitter?
+Operation of the Apollo Sextant Beam Splitter
+The Apollo optical Sextant is used to update the vehicles State Vector. It is capable of
+sighting two celestial targets simultaneously and measuring the angle between them. One Line
+of Sight (LOS), called the Landmark Line of Sight (LLOS) is fixed along the Sextant shaft
+axis normal to the local conical surface of the Command Module. Therefore, the spacecraft
+attitude must be changed to align the Sextant Reticle with a selected star and the horizon
+of either the Earth, or the moon. The other line of sight, called the Star LOS (SLOS) uses
+an Indexing Mirror with two degrees of rotational freedom about its shaft and trunnion axes.
+Once the spacecraft LLOS has been aligned with the horizon and the star, the
+articulating SLOS Indexing Mirror is used to superimpose the star image onto the horizon.
+Light from the LLOS passes through a Beam Splitter reducing its full brightness to only
+11% of the reflected light from the horizon. This is necessary due to the much dimmer
+light from the star which would otherwise be washed out by the brighter horizon at
+superimposition.
+Light from the SLOS does NOT pass THROUGH the Beam Splitter. Instead, star light from
+the Indexing Mirror is reflected by two 90-degree mirrors onto the rear surface of the
+Beam Splitter, combined with the light from the LLOS, and directed into the Objective Lens
+Assembly.
+A typical Beam Splitter is composed of two prisms fastened together at their bases
+using a synthetic resin which results in a box shape. These joined prisms separate a beam
+of light into two or more components. However, this "Beam Splitter" is depicted as a thin
+flat rectangular plate. Presumably, this particular "Beam Splitter" is not prism-shaped
+because it does not actually "split" a single beam.
+I'm unable to find a good description of how this Beam Splitter is constructed (e.g.
+is the entire rear side of the Splitter highly reflective or only a section?), the
+precise path of the LLOS through the Splitter, and exactly how the two Lines of Sight
+are combined.
+Any additional information regarding this "Beam Splitter" would be greatly appreciated.

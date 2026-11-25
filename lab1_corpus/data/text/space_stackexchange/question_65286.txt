@@ -1,0 +1,2 @@
+Is there such a thing as relativistic maneuver?
+Specially for a fast probe to alpha centauri, where two massive bodies are available, is there a calculation of how many degrees can a relativistic body turn using these bodies, depending of the speed?

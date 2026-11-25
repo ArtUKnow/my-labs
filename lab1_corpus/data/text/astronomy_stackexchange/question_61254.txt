@@ -1,0 +1,2 @@
+How does a supernova form before a black hole forms if the core continues its collapse without halt?
+For neutron stars, the collapse is halted by neutron degeneracy pressure, right? And if the mass of the core is above the a certain mass limit, then it continues its collapse, right? If so how does a supernova form in this case?

@@ -1,0 +1,93 @@
+Why did my vis-viva math solution get so close despite being wrong? Under what conditions would it have been a good approximation?
+I tried to answer Equation for Velocity and distance from Sun of a solar sail powered spacecraft but I'm missing something.
+I set up a math solution and got about 0.4 year to reach zero velocity based on the vis-viva equation. I've obviously made some mistake in assumptions because it means it's in a circular orbit with zero velocity meaning infinite distance, and infinite distance at finite time is bad.
+When I solve numerically I get a similar number of about 0.5 years to reach a positive energy, heliocentric C3, escape velocity, etc., and this simulation I believe.
+Question: Why did my vis-viva math solution get so close despite being wrong? Under what conditions would it have been a good approximation?
+This answer says:
+Math
+Given initial acceleration at 1 AU is $8.17 \times 10^{-4} m/s^2$.
+Tilt it at 45 degrees to make the thrust tangential, divide by $\sqrt{2}$ since its now oblique to the Sun, and account for drop off with distance from the Sun:
+$$a_0 = 5.78 \times 10^{-4} m/s^2$$
+$$a(r) = a_0 \frac{AU^2}{r^2}$$
+in the prograde direction (same direction as current velocity).
+vis-viva equation:
+$$v^2 = \frac{GM}{r}$$
+Now
+$$\frac{dv}{dt} = -\frac{a_0 AU^2}{GM^2} v^4$$
+where $GM$ is the Sun's standard gravitational parameter $1.327 \times 10^{20} m^3/s^2$. The minus sign comes in because we know that contrary to first instinct, when we have an accelerating force in the prograde direction we counterintuitively decelerate b the same amount. This is cited in several other posts here as well, I'll look for some other answers to cite...
+Rewrite and solve:
+$$\frac{dt}{dv} = -\frac{GM^2}{a_0 AU^2} v^{-4}$$
+$$t(v) = t_0 - \frac{GM^2}{4 a_0 AU^2} v^{-3}$$
+If we set $t(v_0) = 0$ in other words at time zero we are moving at orbital velocity $v_0 = \sqrt{GM/AU}$ we get 0.408 years.
+Numerically
+Interestingly when I try to simulate the same thing numerically, I get an escape time of 0.515 years! This surprises me for two reasons:
+Velocity never reaches zero, meaning the math above is wrong!
+And yet it's fairly close!
+Conclusion
+It will take roughly half a year to escape, but I don't have the full equation yet.
+Further reading:
+Is it possible to reach the Sun without expending any fuel/reaction mass?
+What is the optimal angle for a solar-sail deorbit towards the Sun when radial thrust is included? (currently unanswered)
+import numpy as np
+import matplotlib.pyplot as plt
+from scipy.integrate import odeint as ODEint
+AU = 150E+06 * 1000 # meters
+GM = 1.327E+20 # m^3/s^2
+a0 = 8.17E-04 / np.sqrt(2) # dv/dt at 1 AU
+year = 365.2564 * 24 * 3600
+coef = ( GM**2 / (4 * a0 * AU**2) )
+v0 = np.sqrt(GM/AU)
+print('v0: ', v0)
+print('coef: ', coef)
+t0 = coef / v0**3
+print('t0 / year: ', t0 / year)
+def deriv(X, t):
+x, v = X.reshape(2, -1)
+vhat = v / np.sqrt((v**2).sum())
+rsq = (x**2).sum()
+acc_thrust = vhat * a0 * rsq / AU**2
+acc = acc_thrust - GM * x * rsq**-1.5
+return np.hstack((v, acc))
+X0 = np.array([AU, 0, 0, v0])
+time = np.linspace(0, 0.6, 10001) * year # half year
+answer, info = ODEint(deriv, X0, time, full_output=True)
+print(answer.shape)
+x, y, vx, vy = answer.T
+r, speed = [np.sqrt((thing**2).sum(axis=0))
+for thing in answer.T.reshape(2, 2, -1)]
+E = 0.5 * speed**2 - GM/r
+E_norm = np.abs(E[0])
+i_esc = np.argmax(E>=0)
+things = time, r, x, y, speed, E
+t_esc, r_esc, x_esc, y_esc, s_esc, E_esc = [thing[i_esc]
+for thing in things]
+print('t_esc / year: ', t_esc / year)
+if True:
+plt.figure()
+plt.subplot(2, 2, 1)
+plt.plot(time/year, r/AU)
+plt.plot([t_esc/year], [r_esc/AU], 'ok')
+plt.ylabel('r/AU')
+plt.xlabel('time (years)')
+plt.subplot(2, 2, 2)
+plt.plot(time/year, speed/1000)
+plt.plot([t_esc/year], [s_esc/1000], 'ok')
+plt.ylabel('speed (km/s)')
+plt.xlabel('time (years)')
+plt.subplot(2, 2, 3)
+plt.plot(time/year, E/E_norm)
+plt.plot([t_esc/year], [E_esc/E_norm], 'ok')
+plt.plot(time/year, np.zeros_like(time), '-k')
+plt.ylabel('Energy (norm)')
+plt.xlabel('time (years)')
+plt.subplot(2, 2, 4)
+plt.plot(x/AU, y/AU)
+plt.plot([x_esc/AU], [y_esc/AU], 'ok')
+plt.plot([0], [0], 'oy')
+th = np.linspace(0, 2*np.pi, 201)
+plt.plot(np.cos(th), np.sin(th), '-r', linewidth=0.5)
+plt.ylim(-1, 1.5)
+plt.gca().set_aspect('equal')
+plt.xlabel('AU')
+plt.ylabel('AU')
+plt.show()

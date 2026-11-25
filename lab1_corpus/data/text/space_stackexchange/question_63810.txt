@@ -1,0 +1,2 @@
+Is it possible to open and close ROSAs several times?
+During the preliminary phase of designing a REUSABLE lander for the lunar surface from the gateway, the need to necessarily use deployable SAs came up. In addition, because of the descending and ascending phase, it is necessary to close and reopen the SAs several times. Is a ROSA mechanism capable of guaranteeing this performance? Has the opening and closing of the SAs multiple times during the operational life been provided for other missions? What solutions might be compatible with our case?

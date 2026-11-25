@@ -1,0 +1,6 @@
+Both of NASA's ARED devices have a sign with the acronym "PLEASE;" what does it stand for?
+I found two relevant PDFs (ARED Man-In-The-Loop Test) and (Mechanism Development, Testing, and Lessons Learned for the
+Advanced Resistive Exercise Device), but they don't have the answer.
+It is present on both the ISS and Ground versions of ARED, as shown by these images:
+Ground version:
+ISS version:

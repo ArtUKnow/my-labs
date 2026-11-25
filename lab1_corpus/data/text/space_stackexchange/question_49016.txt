@@ -1,0 +1,4 @@
+Nickname and citation for famous, historic three-body spacecraft trajectory design "manual"; something like "DoKaRoMo"?
+There is a heavily-cited work about the use of three-body orbits with four authors, I think some at NASA at the time. I know that I've cited this abbreviation in my own posts a few times, but I can't remember what it is now.
+It is sometimes referred to by an eight letter nickname consisting of the first two letters of each author's family name. My best guess is "DoKaRoMo" but that doesn't seem to be it.
+Question: What is the proper citation for this paper and it's oft-used nickname?

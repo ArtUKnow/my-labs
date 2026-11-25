@@ -1,0 +1,4 @@
+How do modern space capsules ascertain their position during the communication blackout phase of reentry?
+In this video recording of Orion's reentry, you can hear and see the RCS thrusters firing during the communication blackout phase.
+During the communication blackout, I would assume that GPS would not be able to receive signals. Do capsules implement some kind of inertial navigation, or do they just forgo using real-time position information during the reentry phase?
+Either way, is the navigational error during the communication blackout phase small enough that capsules can course-correct after the blackout ends using GPS, and then touch down at a precise location?

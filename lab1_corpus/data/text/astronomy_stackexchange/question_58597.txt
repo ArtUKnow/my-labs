@@ -1,0 +1,3 @@
+Know the right ascension and declination of a star in the past using the Hipparcos catalogue
+I'm using the Hipparcos catalogue in a software that I'm developing and I'm wondering if it is possible to know the RA and DEC of a star in the past or in the future. Maybe using the Parallax value.
+Is that possible using this catalogue? Maybe, I need to use another one.

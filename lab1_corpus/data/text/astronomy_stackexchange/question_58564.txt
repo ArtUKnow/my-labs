@@ -1,0 +1,3 @@
+Is Sagittarius A* smaller than we might expect given the mass of the Milky Way?
+M31* has a mass almost ten times that of Sagittarius A*, despite the Milky Way having greater mass, as measured by escape velocity, than Andromeda. I have seen numbers for several other spiral galaxies' central SMBHs and many, if not all, seem to have a higher SMBH-mass to galactic-mass ratio than does the Sagittarius A* and the Milky Way system.
+I have considered if the Milky Way's significantly higher mass of Dark Matter might play a role. I have also considered observation bias as I do not have a comprehensive list of ratios, giving me a smaller sample size than I would prefer. So, my question is; is Sagittarius A* smaller than we would predict and, if so, do we have theories as to why?

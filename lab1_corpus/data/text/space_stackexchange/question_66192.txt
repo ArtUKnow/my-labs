@@ -1,0 +1,3 @@
+How do satellites operate below their operating temperature?
+As we all know, space is a vacuum and doesn't support "temperature" too well.
+However, when a probe is placed away from a star, the temperature is quite enough to damage electronic components and outer bodies of interstellar payloads. So, how do long lasting satellites such as Voyager I keep from going below their operating temperature and damaging their inner and outer components?

@@ -1,0 +1,4 @@
+Why are the QSOs from DESI so patchy?
+I'm looking at DESI's QSO catalogue from the redshift catalogue. This map, showing the DR9 QSO target selection is published in Chaussidon et al. (2023), and seems to show a reasonably smooth distribution of the 332,650 QSOs, ignoring the over- and under-dense regions.
+I downloaded QSO_cat_fuji_healpix_only_qso_targets.fits from the DR9 website, and using TOPCAT I see the following distribution of sources (87318 sources):
+Why is the distribution in the catalogue a) so patchy, and b) with so few sources, compared to the map in Chaussidon 2023?

@@ -1,0 +1,9 @@
+Did the Mars 2020 Mission do any science that wasn't done by Perseverance proper?
+Per answers to
+What is the equivalent of Curiosity's "MSL" in the context of Perseverance? What's the official name of the mission? Are the distinctions similar?
+Where does MSL end and Curiosity begin?
+we can see the relationship between the rovers themselves (who's active work really only begins once they've been set down on the ground and get their software updates) and the whole spacecraft and mission as deployed from Earth at the beginning of its trip to Mars.
+From this answer (click for larger)
+The answer to Did the Mars Science Laboratory do any science that wasn't done by Curiosity proper? explains that the Mars Science Laboratory did minimal science outside of what was done by Curiosity.
+But the Mars 2020 mission has had a decade more of development time and learning, and we know it's had some upgrades to the cameras running during atmospheric entry and that active ground recognition system, so I'd like to ask:
+Question: Did the Mars 2020 Mission do any science that wasn't done by Perseverance proper? (which at the moment of asking isn't much yet).

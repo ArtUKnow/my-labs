@@ -1,0 +1,2 @@
+Are Interplanetary mission trajectory computations based entirely on Newtonian mechanics?
+I am wondering if the application of General Relativity is ever needed(?) I assume that Newtonian mechanics is sufficient with some trajectory corrections applied as needed on route. I also assume that the latter corrections must be minimal to save fuel, hence the trajectories are planned in advance as best as possible.

@@ -1,0 +1,3 @@
+Portable Starlink antennas
+Starlink is slowly starting to spread their wings globally, with a recent beta launched in Canada after their initial launch in the US.
+Let's assume I buy the antennae/dish and their service in Canada. If I decide to travel to the US for a holiday, can I take the equipment with me and use the same service there? More generally, once Starlink spreads globally, would it be possible to take my local product wherever I go and hook into their internet service wherever I land? Or is there something in their contract/setup that prohibits that kind of global travel use?

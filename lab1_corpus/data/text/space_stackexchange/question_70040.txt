@@ -1,0 +1,4 @@
+Is an orbit possible such that its orbital linear velocity is equal to Earth's rotational linear velocity at the equator?
+Is such an orbit possible so that only a vertical launch from the equator would put it in that orbit, or is it outside Earth's sphere of influence? It looks like it would be past the moon.
+I have looked for these types of orbits but can't seem to find any resources on them, nor the calculation of how far they would be.
+What kinds of orbits do not require a horizontal burn for insertion?

@@ -1,0 +1,12 @@
+Is there a rule of thumb for choosing the most ∆v-efficient two-impulse transfer between elliptical orbits?
+I’m trying to understand if there’s a general rule of thumb for performing two-instantaneous-impulse transfers between elliptical orbits in a way that minimizes total ∆v.
+Consider four possible scenarios for a two-impulse transfer:
+AA: burn at apoapsis of the initial orbit to reach apoapsis of the target orbit then match target orbit
+AP: burn at apoapsis of the initial orbit to reach periapsis of the target orbit then match target orbit
+PA: burn at periapsis of the initial orbit to reach apoapsis of the target orbit then match target orbit
+PP: burn at periapsis of the initial orbit to reach periapsis of the target orbit then match target orbit
+From my calculations, it seems that either AP or PA is almost always the most efficient, but I don’t fully understand why one of these options wins in different situations.
+What factors determine whether AP or PA is better?
+Does it depend on the eccentricity of the initial orbit, the relative sizes of the orbits, or something else?
+Is there a general heuristic for choosing the first burn and the target intersection point without computing ∆v for every possibility?
+Any insights or references on what determines the efficiently for choosing the two burns would be appreciated. <3

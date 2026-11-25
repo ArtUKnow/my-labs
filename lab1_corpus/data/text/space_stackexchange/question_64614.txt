@@ -1,0 +1,9 @@
+Is there an authoritative source for which GNSS satellite transmits which signals?
+I'm trying to algorithmically predict which signals from which GNSS satellites could be heard by a ground-based receiver (without actually looking at the recieved data; the idea is to be able to also compute this for historic dates). However, I found it quite difficult to figure out exactly which satellites transmit which signals.
+I definitely haven't found a searchable/downloadable archive assigning signals to SV IDs for various time instants.
+You can look at e.g. the block the satellite belongs to, like GPS IIF, and extrapolate that all satellites in the block transmit the same signals. But I haven't either found a computer readable definition of signals transmitted by each block of satellites.
+Also, there are mentions like this on Wikipedia:
+Broadcasting L5 "safety of life" navigation signal demonstrated on USA-203.
+So does this mean one block IIR-M satellite did transmit a usable L5 signal for some time? Or did it transmit it from its start of operation? And is the signal somehow "marked" demo-only in a way that receivers try to not use it?
+I guess it is also possible that there are events due to which only one of the provided signals is not broadcasted (like broken components etc.). Where can find information about such events?
+The closest I found (not easily machine-readable, only current status) is the QZSS info page. There are mentions about satellites and their signals, but the signal lists are incomplete (i.e. missing the military/authorized signals, GPSIII missing L1C and so on).

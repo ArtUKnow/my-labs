@@ -1,0 +1,8 @@
+Mariner 9 computing equipment
+I am guessing the word CPU can't be used in reference to computers in 1971. So I am wondering what type of electronic equipment were put in place of a regular CPU on Mariner 9 spacecraft?
+I see the following operations needed to be achieved:
+Error-Correction Codes achievements
+I also see that:
+Mariner 9's computer was thus reprogrammed from Earth to delay imaging
+of the surface for a couple of months until the dust settled.
+So what type of CPU/RAM was used at that time?

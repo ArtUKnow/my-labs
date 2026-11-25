@@ -1,0 +1,6 @@
+Why does the quality of New Horizon LORRI images vary so much?
+I was looking on OPUS for New Horizons images from the Arrowkoth approach, and was surprised at the differences between back-to-back images taken with the same duration exposure. I'd expect them to be almost identical. Why are they often so different? Is there some contrast or sensitivity setting that changes, but isn't noted in the OPUS meta data?
+For example, the images below (nh-lorri-lor_0408486979 and nh-lorri-lor_0408486989) are both 9.968 second exposures taken back-to-back at 2018-12-30T14:44:11.159 and 2018-12-30T14:44:21.159.
+Why are there so many more objects visible on the right?
+Another example are these two shorter duration exposures ((nh-lorri-lor_0408531907 and nh-lorri-lor_0408531908), also take back-to-back at 2018-12-31T03:13:08.527 and 2018-12-31T03:13:09.527.
+These are shorter duration (0.601 s) exposures, so I am not surprised they are noisier, but why are their noise levels so different?

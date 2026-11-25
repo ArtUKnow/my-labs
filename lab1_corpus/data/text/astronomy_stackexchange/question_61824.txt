@@ -1,0 +1,11 @@
+OPALE API request structure to get moon position
+I am a non-astronomer computer scientist. I am trying to make a web app that tracks the "position of the Moon vs the Earth". What I mean by this position = trying to determine the location of the place on the surface of the Earth (lat, lon coordinates) where the distance from (the center of) the Moon to the Earth's surface is the shortest in that given moment. According to what I found in my quick online research, if I am not mistaken, that is called a sublunar / zenith position of the Moon (?).
+Anyways, ideally I want to call some API at time "now" and would like to get as a response those lat/lon coordinates.
+So far, I have located a candidate API: OPALE API (IMCCE – Paris Observatory):
+https://opale.imcce.fr/webservices/position/
+API endpoint seems to be this: https://opale.imcce.fr/api/v1/positions
+The entire specification seems to be here: https://opale.imcce.fr/webservices/api.html or here https://opale.imcce.fr/webservices/api.json
+I am not entirely sure, though, if it will give me those lat/lon coordinates directly (I am struggling to find the correct combination of request parameters), or whether I need to break it down into 2 steps:
+Make an API call to get some data
+Calculate lat/lon from the data retrieved in step one.
+I would appreciate help/guidance from anyone with experience with this web service from OPALE, or with an alternative service that could give me what I need.

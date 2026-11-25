@@ -1,0 +1,21 @@
+Why didn’t the Parker Solar probe use thermoelectric generators (TEG) rather than solar panels?
+The Parker Solar probe passed closer to the sun than any other spacecraft: under 10 solar radii. The intense solar radiation (475 times the solar flux at Earth orbit) necessitated retraction of the main solar panels (which were used to supply electricity for the majority of the mission) during perihelion.
+Smaller secondary solar panels were mounted on the tips of the main panels. These extended from behind the shadow of the heat shield to supply electricity when the main panels were retracted. These secondary panels were cooled by pressurized water. This hot water was pumped across the retraction articulation to radiators on the main chassis bus, in the shadow of the solar heat shield.
+Why was this design chosen instead of thermoelectric generators (TEG)?
+https://en.wikipedia.org/wiki/Thermoelectric_generator
+Thermoelectric generators are all-solid-state devices that do not
+require any fluids for fuel or cooling, making them non-orientation
+dependent allowing for use in zero-gravity… The solid-state design
+allows for operation in severe environments. Thermoelectric generators
+have no moving parts which produce a more reliable device that does
+not require maintenance for long periods. The durability and
+environmental stability have made thermoelectrics a favorite for
+NASA's deep space explorers among other applications.
+TEG current is proportional to the temperature difference between hot and cold sides of the TEG which sounds ideal for the Parker probe.
+The (Parker) solar shield … is designed to withstand temperatures
+outside the spacecraft of about 1,370 °C (2,500 °F) … and keeps the
+spacecraft's instruments at 29 °C (85 °F)
+https://en.wikipedia.org/wiki/Thermoelectric_generator
+Heat pipes could lead from TEGs embedded in the solar shield to the shield's shadow for radiative cooling. This is analogous to the water circulation which cools the solar panels by dumping waste heat in the solar shield’s shadow, but TEGs and heat pipes operate with no moving parts such as the circulation pump, flexible coolant connections and the panel extension mechanism.
+Parker carried 5 liters of water in a cooling system operating up to 160C (6.2bar pressure). A rupture could potentially produce a jet capable of overwhelming the attitude control system, ending the mission.
+This is a failure mode not present on a solid state TEG system.

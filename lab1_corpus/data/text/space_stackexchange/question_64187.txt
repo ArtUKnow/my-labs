@@ -1,0 +1,83 @@
+Computing viewing geometry of Solar System targets from ground-based observatories using SPICE kernels
+SOLVED.
+I want to calculate the visible part of an asteroid (I'll use the Moon in this example) from the Chile VLT observatory (latitude, longitude coordinates = -24.62733, -70.40417).
+On the NAIF website, I read that I need to use a TK frame topographic for this. I have made 2 different attempts, which I will explain below:
+First I generated a kernel (topo.tf) following the example on the web:
+TK file:
+\begindata
+FRAME_VLT_TOPO = 123456789
+FRAME_123456789_NAME = 'VLT_TOPO'
+FRAME_123456789_CLASS = 4
+FRAME_123456789_CLASS_ID = 123456789
+FRAME_123456789_CENTER = 456789
+OBJECT_123456789_FRAME = 'VLT_TOPO'
+TKFRAME_VLT_TOPO_RELATIVE = 'EARTH_FIXED'
+TKFRAME_VLT_TOPO_TOPO_SPEC = 'ANGLES'
+TKFRAME_VLT_TOPO_TOPO_UNITS = 'DEGREES'
+TKFRAME_VLT_TOPO_TOPO_AXES = ( 3, 2, 3 )
+TKFRAME_VLT_TOPO_TOPO_ANGLES = ( -289.59583,
+-114.62733,
+180. )
+TKFRAME_EARTH_FIXED_RELATIVE = 'ITRF93'
+TKFRAME_EARTH_FIXED_SPEC = 'MATRIX'
+TKFRAME_EARTH_FIXED_MATRIX = ( 1 0 0
+0 1 0
+0 0 1 )
+and I include it in the kernels path ('$KERNELS/topo.tf'). Now, when I run this script (spiceypy)
+utc = '2022-01-01T00:00:00.000'
+et = spiceypy.str2et(utc)
+positions, lightTimes = spiceypy.spkpos(targ='MOON',
+et=et,
+ref='J2000',
+abcorr='None',
+obs='123456789')
+I got this error:
+Toolkit version: CSPICE_N0067
+SPICE(SPKINSUFFDATA) --
+Insufficient ephemeris data has been loaded to compute the position of 301 (MOON) relative to 123456789 at the ephemeris epoch 2022 JAN 01 00:01:09.183.
+spkpos_c --> SPKPOS --> SPKEZP --> SPKGPS
+PS: I have tried changing obs='123456789' to obs='Earth' and it works.
+So I decided to try the DSS stations kernels (earth_topo_050714.tf), just changing the coordinates of one of the stations for VLT coordinates. To check if it works, I put the coordinates of DSS-14 in DSS-15:
+FRAME_DSS-14_TOPO = 1399014
+FRAME_1399014_NAME = 'DSS-14_TOPO'
+FRAME_1399014_CLASS = 4
+FRAME_1399014_CLASS_ID = 1399014
+FRAME_1399014_CENTER = 399014
+OBJECT_399014_FRAME = 'DSS-14_TOPO'
+TKFRAME_DSS-14_TOPO_RELATIVE = 'EARTH_FIXED'
+TKFRAME_DSS-14_TOPO_SPEC = 'ANGLES'
+TKFRAME_DSS-14_TOPO_UNITS = 'DEGREES'
+TKFRAME_DSS-14_TOPO_AXES = ( 3, 2, 3)
+TKFRAME_DSS-14_TOPO_ANGLES = ( -243.1104612607222,
+-54.5740991182250,
+180.0000000000000 )
+FRAME_DSS-15_TOPO = 1399015
+FRAME_1399015_NAME = 'DSS-15_TOPO'
+FRAME_1399015_CLASS = 4
+FRAME_1399015_CLASS_ID = 1399015
+FRAME_1399015_CENTER = 399015
+OBJECT_399015_FRAME = 'DSS-15_TOPO'
+TKFRAME_DSS-15_TOPO_RELATIVE = 'EARTH_FIXED'
+TKFRAME_DSS-15_TOPO_SPEC = 'ANGLES'
+TKFRAME_DSS-15_TOPO_UNITS = 'DEGREES'
+TKFRAME_DSS-15_TOPO_AXES = ( 3, 2, 3)
+TKFRAME_DSS-15_TOPO_ANGLES = ( -243.1104612607222,
+-54.5740991182250,
+180.0000000000000 )
+In this way, both stations are placed in the same position, but with different names. However, I checked it, and it is not the same. If I run:
+utc = '2022-01-01T00:00:00.000'
+et = spiceypy.str2et(utc)
+positions, lightTimes = spiceypy.spkpos(targ='DSS-14',
+et=et,
+ref='J2000',
+abcorr='None',
+obs='earth')
+position = array([ 4996.35681786, -1481.60674547, 3666.54580269])
+positions, lightTimes = spiceypy.spkpos(targ='DSS-15',
+et=et,
+ref='J2000',
+abcorr='None',
+obs='earth')
+position = array([ 4996.6441474 , -1481.47031424, 3666.16285994])
+Both give similar values, but not the same. What's going on here?
+I appreciate any help to do this by any of the three previous methods, and any additional clarification to see where I'm wrong.

@@ -1,0 +1,5 @@
+Specifications for Spacecraft interior and exterior paint colours
+Are there specifications for Crewed mission spacecrafts in terms of interior and exterior paint colours?
+I.e. Only specific paint colours are required internally and externally.
+Can these paint colours be changed as part of maintenance and renovation methods with time period?
+Example : ISS.

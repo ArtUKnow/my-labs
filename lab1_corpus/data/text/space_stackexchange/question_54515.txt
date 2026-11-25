@@ -1,0 +1,10 @@
+Penalty for Neutron dog-legging from Wallops to synchronous?
+From the April 15, 2021 Everyday Astronaut video A chat with Rocket Lab's CEO Peter Beck about Neutron, Electron recovery and Rocket Lab's future! linked below (mostly from closed captions, small adjustments for simultaneous talking):
+Beck: And Wallops is a wonderful site. We have great relationships with everybody there. And you can achieve a large amount of trajectories, including synchronous, out of Wallops, which is really advantageous.
+Everyday: Yeah, you can do a little dogleg down there and sill go, that’s... how big of a... that’s gotta be a fairly substantial payload penalty though? Especially if you’re doing propulsive landing… and a dogleg maneuver from Wallops
+Beck: It’s actually not too bad. I mean, it’s better than the Cape, so yeah, it’s not too bad at all.
+Everyday: Is that because the Cape… you get to fly substantially far east and then do the dogleg, just not hav(ing) to go as far east, you can go more southernly?
+Beck: Correct. Yeah. Correct. Yep, yep.
+Question: What's the penalty for Neutron dog-legging from Wallops to synchronous? From what's known or can be inferred about the Rocket Lab Neutron launch vehicle (e.g. ~8 tons to LEO) can a delta-v for the dogleg or a payload penalty in tons be inferred?
+Related and potentially helpful:
+How does one dogleg from Florida to a sun-synchronous orbit?

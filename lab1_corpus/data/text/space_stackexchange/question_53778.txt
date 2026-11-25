@@ -1,0 +1,4 @@
+Has Skyfield or any other SGP4-capable open-source Python package yet wrapped/implemented the new, improved SGP4 (version 8+)?
+The first release on Github was in 2014. I have noticed Brandon Rhodes has contributed quite a bit to the Skyfield source code, so I will tag him here and in a comment.
+EDIT: I changed the title to reflect intent of the question. Skyfield is obviously not the only open source Python SGP4 implementation that could, or ever will, exist, and I am definitely looking for version 8+ of SGP4 (accessing link and software requires log-in).
+NOTE: By open-source, I do not mean the SGP4 version 8+ algorithm itself. What I mean is an open-source wrapper for the software available via download from space-track.org, which I assume would be quite involved.enter link description here

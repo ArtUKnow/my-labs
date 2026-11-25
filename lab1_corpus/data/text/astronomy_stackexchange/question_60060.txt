@@ -1,0 +1,3 @@
+How did Geocentric Models (Aristotle, Ptolemy) explain the conjunctions of the inner planets?
+In both the Aristotelian and the Ptolemaic models of the solar system, Venus orbits the Earth in a circular orbit closer to the Earth than the Sun. Under these assumptions Venus should never pass behind the Sun, however the Superior Conjunction of Venus surely was observed by ancient astronomers.
+How did these models reconcile this discrepancy between observations and predicted behavior?

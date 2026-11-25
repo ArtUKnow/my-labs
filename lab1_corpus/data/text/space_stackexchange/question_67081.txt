@@ -1,0 +1,4 @@
+Why hasn't SpaceX performed a Wet Dress Rehearsal of Starship if they are ready to fly?
+SpaceX claims that "The Starship and Super Heavy vehicles for Flight 5 have been ready to launch since the first week of August." SpaceX usually performs Wet Dress Rehearsals (WDRs) before launching its rockets, even with the Falcon 9, and always does before launching Starship. It seems very likely that SpaceX will not launch Starship without performing a WDR.
+So, why don't they perform a WDR with Starship if they are ready to fly? Wouldn't it make sense to do "check off" everything they can from their list of things necessary before launching, if they have been just waiting for 2 months?
+Additionally, they have nearly 2 more months until the FAA NET (No Earlier Than) date for a launch license. If something does in fact go wrong during the WDR, doing one now would give them nearly 2 months to fix it without actually delaying the launch at all. Why wouldn't they do this?

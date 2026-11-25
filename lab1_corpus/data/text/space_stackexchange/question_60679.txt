@@ -1,0 +1,2 @@
+Why did NASA use Falcon Heavy rather than SLS to launch Europa Clipper?
+The SLS will only take about three years to get to Europa, the Falcon heavy will take 5. This means that there won’t be as much science return since the spacecraft is spending more of its operational lifetime floating in space. Should NASA have stuck with SLS for launching Europa Clipper?

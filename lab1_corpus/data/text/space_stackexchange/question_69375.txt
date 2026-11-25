@@ -1,0 +1,2 @@
+Does the J2000 frame deviate slightly from the ICRS frame over time?
+My assumption was that the J2000 frame is rotating away from the ICRS frame overtime due to precession, but when I tried to calculate what the deviation would be right now, I'm getting somewhere around 500", which doesn't make sense. How much does the frame actually deviate from the new ICRS?

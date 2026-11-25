@@ -1,0 +1,6 @@
+Is there any way to predict if the ISS will lose its signal or to know it directly?
+I am currently working on a project by using the ISS livestream:
+https://video.ibm.com/channel/iss-hdev-payload
+But sometimes there is a loss-of-signal and it displays a screen that breaks the experience. Is there a way to detect this moment? Have you any idea?
+I know why it happens, but it's hard to detect with my knowledge.
+Maybe an API that gives us something in live?

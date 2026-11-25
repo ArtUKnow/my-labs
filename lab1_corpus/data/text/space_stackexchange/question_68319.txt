@@ -1,0 +1,2 @@
+TEME to GCRF Test Cases
+I have a couple of algorithms (Astrolib and Orekit) that converts from TEME to GCRF, but I need a way to validate these algorithm for accuracy and efficiency. The results from a given TEME state vector varies by about 60 cm from Astrolib to Orekit. Is there any database or samples out there that gives the exact conversion from TEME to GCRF and vice versa? Any help would be greatly appreciated.

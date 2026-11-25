@@ -1,0 +1,4 @@
+Does better satelite propulsion help selling secondary payloads?
+Generally orbital inclination change is said to be (fuel) expensive so everyone is trying to reach their final orbit straight from the launch vehicle.
+Small launch vehicles (Rocket Lab etc.) reach exact orbit but are usually more expensive than secondary payloads which are cheaper but have a disadvantage of not being able to get to exactly desired orbit from a big rocket.
+Are advancements in satellite propulsion (ion thrusters on Starlinks etc) going to affect small launcher market? Is it cheaper to put propulsion system to a satelite and ride as secondary payload or to buy dedicated small launch?

@@ -1,0 +1,2 @@
+Example using NASA GMAT to model a sounding rocket launch
+I'm wondering if anyone has an example GMAT script that describes a sounding rocket launch and return. Not necessarily looking for high fidelity but just something that shows the parameters for a rocket sitting on a pad (zero velocity), to ignition, climbing to apogee, and returning through its ballistic trajectory.

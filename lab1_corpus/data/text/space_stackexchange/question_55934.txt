@@ -1,0 +1,3 @@
+How to calculate the Lagrangian points positions?
+I have two bodies, one rotates around another on orbit. For i.e. Earth and Sun or Moon and Earth.
+If we know masses, velocity, distance and keplerian elements of orbit, how can we find the positions of Lagrangian points?

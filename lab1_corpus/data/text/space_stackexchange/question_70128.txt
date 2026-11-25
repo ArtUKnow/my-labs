@@ -1,0 +1,2 @@
+How do cyclers deal with discreapncies in orbital inclinations and the fact that only Neptune and Pluto are in true orbital resonance?
+Cyclers work by taking advantage of alignments in planets' orbits, but since coincidental "resonances" do have slight variations, they require regular corrections; how would you calculate the required orbital period of a cycler so that it regularly passes by two planets? Do you use their synodic period or does it have to be relative to the Sun? Also, how do cyclers deal with the fact that planets have different orbital inclinations?

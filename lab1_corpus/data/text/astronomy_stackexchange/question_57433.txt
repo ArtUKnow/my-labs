@@ -1,0 +1,16 @@
+Convert GPS Week and GPS Time of Week to J2000?
+I'm new to this, and am trying to convert GPS Time to J2000 time using python and Astropy. Here's what I've come up with:
+def gps_week_tow_to_j2000(gps_week, gps_tow):
+gps_epoch = Time('1980-01-06T00:00:00', scale='utc') # GPS Epoch, scale UTC, since UTC = GPS Epoch on 1980-01-06T00:00:00
+j2000_epoch = Time('2000-01-01T12:00:00', scale='tt') # Getting J2000.0 Epoch, scale Terrestrial Time. https://aa.usno.navy.mil/faq/TT#:~:text=The%20epoch%20designated%20%22J2000.,11%3A58%3A55.816%20UTC.
+# Since gps_week is counter from gps_epoch, we'll convert it to seconds, and add the time_of_week to it.
+time_since_gps_epoch = gps_week * 7 * 24 * 3600 + gps_tow # Seconds since GPS Epoch in UTC.
+# to get the GPS Time
+gps_time = Time(gps_epoch.utc.jd + time_since_gps_epoch/86400, format='jd', scale='utc') # Time as per GPS, in UTC, format=JD.
+j2000_in_seconds = (gps_time - j2000_epoch).sec
+return j2000_in_seconds
+gps_week = 2304
+gps_tow = 308536.998852
+j2000_seconds = gps_week_tow_to_j2000(gps_week, gps_tow)
+print(f"J2000 seconds: {j2000_seconds}")
+Result is 763004606.1828591. Is this accurate?

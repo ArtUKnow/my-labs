@@ -1,0 +1,7 @@
+Why make Ingenuity survive some "brutally cold Martian nights" before its first attempt at flight?
+NASA's Perseverance Mars Rover tweeted:
+Ingenuity, the Mars Helicopter I carry, is working as expected. I’m currently charging it, but once I set it down, it’ll rely solely on its solar panels. If it survives the brutally cold Martian nights, the team will attempt flight.
+Question: If survivability is in doubt, why not do the first test flight the same day that it's dropped? Presumably it would be fully charged from the rover, and in a few hours Perseverance could move a safe viewing distance away.
+update:
+Wikipedia' Ingenuity (helicopter) links to Mars Helicopter Technology Demonstrator(Canham et al. 2018, AIAA Atmospheric Flight Mechanics Conference, archived) which says:
+One challenge in using off-the-shelf assemblies for electronics systems to be used on Mars is the low temperatures expected on the surface. At night, the antenna and cable assemblies will see temperatures as low as −140 C. Electronics assemblies on both base station and helicopter will be kept “warm” (not below −15 C) by heaters as required...

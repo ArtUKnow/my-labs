@@ -1,0 +1,17 @@
+How are JWST tanks baffled to dampen slosh?
+After JWST slews to a new orientation, it then needs to “settle” sloshing fuel in the tanks before Fine Guidance System (FGS) can acquire the new science target. The time needed for slewing, settling and FGS acquisition are charged as overhead to the research project which requests it. Settling times are typically 30 seconds, but can take up to 20 minutes.
+The duration of slews is a function of the length of the motion. The
+rate of motion is determined in part by the need to keep settling
+times within certain limits as well as the desire to reach the new
+pointing as soon as possible. For slews between 25" and 3°, the slew
+rate is slower than for shorter or longer slews, to avoid exciting
+slosh modes of the propellant in the tanks. Once excited, propellant
+slosh can take a long time to damp (more than 20 minutes in some
+cases).
+https://jwst-docs.stsci.edu/jwst-observatory-hardware/jwst-spacecraft-bus/jwst-attitude-control-subsystem
+The JWST has a metal device (called a “sponge”) in propellant tanks to keep the outlet covered with fuel, but this does not prevent sloshing. An elastomeric diaphragm could dampen sloshing, but the mass of the diaphragm can rival that of the tank. Elastomeres are not suited to multi-year missions.
+https://ntrs.nasa.gov/api/citations/20170000667/downloads/20170000667.pdf
+Slosh is a well recognised and extensively studied problem for spacecraft. Because of the need for accurate pointing, slosh is particularly problematic for JWST.
+In marine and aviation design, slosh is managed by baffling and minimizing the volume of individual tanks. Fluids are often transferred between tanks during passage to keep tanks either full or empty, to minimize free surface area. These strategies would have mass and reliability penalties on JWST.
+JWST could dampen slosh by filling the tanks with polyester Fiberfill as a baffle. It has low mass and is chemically compatible with hydrazine. https://www.spilltech.com/wcsstore/SpillTechUSCatalogAssetStore/Attachment/documents/ccg/POLYETHYLENE.pdf
+Question: How are JWST tanks baffled to dampen slosh?

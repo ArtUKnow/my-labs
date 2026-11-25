@@ -1,0 +1,4 @@
+Delta V required to land and then ascend from the surface of every celestial body
+I've been doing some research to figure out how feasible grand tour manned missions to the surface of the moons of each outer planet.
+This is related:
+Where can I find a delta v map of landing requirements, not transfer requirements

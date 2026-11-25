@@ -1,0 +1,8 @@
+Was the exhaust cloud at the Starship launch mostly pulverized launchpad?
+The launch of Spacex Starship on April 20 2023 looked pretty normal on first sight, apart from some engines not running, and some concrete flying around.
+The huge exhaust cloud looked normal, because it is normal for a rocket using solid propellant. But Starship runs on methane and oxygen. Which burns to mainly carbon dioxide and water, and maybe some soot.
+The huge plume was not black, not even dark, so it was not soot.
+Does that mean the whole large cloud was almost exclusively material from the foundation of the launchpad*, in a very wide range of particle sizes?
+When seeing it, I assumed the cloud was just a big normal exhaust cloud, with surprisingly many big pieces of concrete in it. But now I suspect this cloud was 100% concrete and sand from under it.
+Note that there is no water deluge system, that creates a huge cloud of water vapor with a clean burning rocket like one burning hydrogen, and also no foam isolation that partially burns creating some dark smoke, as seen when a Delta IV Heavy starts.
+* I want to express my respect for the engineering of the launchpad and point out that the launchpad actually worked, even after loosing much of its total mass.

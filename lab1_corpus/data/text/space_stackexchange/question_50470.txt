@@ -1,0 +1,7 @@
+What makes Insight's RAD750 processor so radiation resistant? (compared to 1998 iMac's PowerPC 750)
+Gizmodo's A 1990s iMac Processor Powers NASA’s Perseverance Rover references NewScientist and says:
+However, there’s a major difference between the iMac’s CPU and the one inside the Perseverance rover. BAE Systems manufactures the radiation-hardened version of the PowerPC 750, dubbed RAD750, which can withstand 200,000 to 1,000,000 Rads and temperatures between −55 and 125 degrees Celsius (-67 and 257 degrees Fahrenheit).
+For the temperature range, I assume this is mostly attention to packaging materials (e.g. differential thermal expansion) I don't think it is actually spec'ed to run through that entire temperature range.
+Question: For the absorbed dose, what is it about the RAD750 that makes it so resistant to accumulated radiation exposure compared to the PowerPC 750? Large design rules or technology node? Thin substrate? Different doping?
+Wow, 1,000,000 Rads is 10 Joules of absorbed radiation dose per gram!
+Enjoy (or be annoyed by) this retro iMac GIF

@@ -1,0 +1,11 @@
+Can waterworld exoplanets have an ocean that's fresh or brackish by terrestrial standards?
+The basic system is a terrestrial-type exoplanet in the liquid water zone around a star. The planet has a worldwide, liquid ocean with at most small islands above the surfaceMy question is what the current thinking about the salinity (primarily NaCl, but also things like calcium salts) of that ocean would be. Would such a world ocean necessarily be as (or more) salty than our own oceans? Or would it be fresh or brackish? Or is anything possible (depending on what?)? If there is a debate, where should I look and which researchers should I look for?
+The reason for the question is that on Earth there are three major sources of oceanic salinity:
+Continental runoff. Through erosion and dissolution, ions end up in rivers and in the ocean. Evaporation removes the water and leaves most ions, resulting in a build-up of salts in the ocean.
+Underwater vulcanism. Volcanoes move elements from the crust and mantle into the ocean.
+Water circulating through sub-oceanic crust and dissolving minerals on the way, resulting in brine seeps.
+Outflows of salt are through things like sediment deposition and life moving elements onto land in places like seabird colonies (or human activity, like salt farms).
+There are two key points. One is that, in a waterworld, there is no continental erosion concentrating minerals from land into the lowest lying water (the ocean). That argues that a world without a lot of dry land would have huge freshwater oceans.
+The other point is that it's difficult for me to find information on the relative magnitude of all three salinity inputs. Conceivably, the three could be about the same magnitude, but if salt loss through sedimentation is big enough, it wouldn't matter. In this case, if sub-oceanic mineral inputs are big enough, then a waterworld should have a salty ocean.
+Not that it matters, but I got into this question by remembering that Arthur C. Clarke set a story on a waterworld with a brackish ocean and a few islands. When I started thinking about what a "worldwide lake" would be like, my mind boggled. Unfortunately, I don't know enough about planetology to find much more information than I've provided.
+Thanks for any help on this.

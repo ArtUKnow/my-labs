@@ -1,0 +1,2 @@
+How do I estimate the number of neutron stars and black holes relative to the number of stars in the main sequence and white dwarfs?
+Recently, I had a homework question that gave me the highest mass of a main-sequence star in a population, that is, $M_{tp} = 0.9 M_\odot$, and the population formed at the same time. I am supposed to use the stellar birth (initial) mass function to help determine the answer. However, I still have no idea how to approach this. Can someone explain how someone would approach this question?

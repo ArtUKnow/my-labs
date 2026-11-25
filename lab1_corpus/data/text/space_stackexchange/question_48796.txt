@@ -1,0 +1,10 @@
+Local observer coordinate system at satellite panel (LVLH coordinate system)
+In skyfield I want to calculate alt-az distance from one reference satellite to next (for antenna pointing simulation).
+My current workaround is to create the reference observer at sat1 height and calculate the alt-az angles:
+sat_observer = sat_ref.subpoint()
+ref_PoV = Topos(sat_observer.latitude, sat_observer.longitude, elevation_m=sat_observer.elevation.m)
+satellite = Sat(name)
+orbit = (satellite - ref_PoV).at(time[0])
+el, az, distance = orbit.altaz()
+Code is able to calculate relative pointing angles at one time instance. This method is not working for absolute values as the alt-az reference always points to Earth north (the local observer coordinate system at satellite panel will rotate around alt axis in the next time instant).
+What would be the most efficient way to define local coordinate system (LVLH frame) at satellite in skyfield to obtain the alt-az angles respective to this LVLH frame?

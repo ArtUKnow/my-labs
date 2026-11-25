@@ -1,0 +1,10 @@
+What is a "space launch delta", how many of them are there, and what fraction of them are assigned to Space Force?
+This answer to Why did the Firefly Alpha launch 6 months ago fail? quotes a Space News article which says:
+Space Launch Delta 30, which operates the range at Vandenberg, then destroyed the rocket using its flight termination system.
+Wikipedia's Space Launch Delta 30 begins:
+Space Launch Delta 30 (SLD 30) is a United States Space Force space launch delta assigned to Space Systems Command and headquartered at Vandenberg Space Force Base, California. The Space Launch Delta 30 is responsible for all space launch operations from the west coast, which includes all polar launches. It manages the Western Range and launch activities for the Space Force, Department of Defense, NASA, and other private space corporations. The Space Launch Delta 30 also supports test and evaluation launches of the U.S. Air Force's intercontinental ballistic missile force.
+From this I see that
+SLD 30 is a "space launch delta" (lower case noun)
+twice "the Space Launch Delta 30" appears, and the "the" puzzles me.
+It's possible I will understand those better when the following is answered:
+Question: What is a "space launch delta", how many of them are there, and what fraction of them are assigned to Space Force?

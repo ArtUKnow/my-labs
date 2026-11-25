@@ -1,0 +1,4 @@
+how to find new moons on winter solstices 5000-3000 BCE
+How can I find the dates where there is a new moon on the winter solstice, between 5000 and 3000 BCE (or possibly older)? I know thereare plenty of resources out there, but I just can't figure them out. Basically, this would be when both the sun and moon are within a degree of 0deg Capricorn / 18h RA.
+I tried JPL / Horizons, and several many other websites, but no luck. Can anyone help?
+(This is to determine an "epoch" for a calendar, for a book I'm writing)

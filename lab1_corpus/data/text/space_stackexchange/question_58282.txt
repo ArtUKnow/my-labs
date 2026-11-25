@@ -1,0 +1,3 @@
+What is the propellant mass for the Soyuz descent module?
+I learned some time ago that the Soyuz capsules use hydrogen peroxide as a monopropellant. I'm trying to use this fact for a chemistry question posed to my students, but I cannot find anywhere how much the descent module holds, just that it uses hydrogen peroxide.
+What's the propellant mass for the Soyuz descent capsule or what's its tank capacity?

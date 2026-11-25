@@ -1,0 +1,12 @@
+Why MIT's Benjamin Rackham says "nearby ultracool dwarf SPECULOOS-3" would look "purplish-red, spotted, and flaring" from an airless orbiting planet?
+May 15, 2024 MIT News article Newly discovered Earth-sized planet may lack an atmosphere includes the following:
+“We can say from our spectra and other observations that the star has a temperature of about 2,800 kelvins, it is about 7 billion years old — not too young, and not too old — and it is moderately active, meaning that it flares quite a lot,” Rackham says. “We think the planet must not have an atmosphere anymore because it would easily have been eroded away by the activity of the host star that’s basically constantly flaring.”
+Without an atmosphere, then, what might one see if they were to look up from the planet’s surface?
+“If there’s no atmosphere, there would be no blue sky or clouds — it would just be dark, like on the surface of the moon,” Rackham offers. “And the ‘sun’ would be a big, purplish-red, spotted, and flaring star that would look about 18 times as big as the sun looks to us in the sky.”
+It links to Nature Astronomy's May 15, 2024 Detection of an Earth-sized exoplanet orbiting the nearby ultracool dwarf star SPECULOOS-3
+Since SPECULOOS telescopes1 perform near-infrared photometry (~700-1000 nm) they are certainly in a good position to establish "flaring". And I suppose there will be spectroscopic observations of any target of interest.
+A quick, naive glance at the Plankian locus suggests a blackbody-like (flat spectral emissivity) object at about 2800 K would look orange2, not red or "purplish-red". The press release goes on to say:
+“We can say from our spectra and other observations that the star has a temperature of about 2,800 kelvins, it is about 7 billion years old — not too young, and not too old — and it is moderately active, meaning that it flares quite a lot,” Rackham says.
+That probably covers flaring, but what data, prediction, population characterization or theory, makes Rackham believe the star would look "purplish-red" and "spotted"?
+1Development of the SPECULOOS exoplanet search project
+2Wikipedia's Ultra-cool Dwarf puts the upper end at 2700 K, but what's 100 K among friends?

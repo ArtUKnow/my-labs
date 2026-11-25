@@ -1,0 +1,10 @@
+Are continuum observations in NVSS contaminated by HI spectral line?
+The NVSS survey has been carried out at 1.4 GHz. From what I could gather,
+the bandwidth of the NVSS survey includes HI 21 cm (~1.420 GHz) emission line.
+Suppose I have a region of the sky in which I see NVSS emission also. Then how
+do I know whether the NVSS emission is due to the atomic hydrogen emission (i.e.
+HI at 21 cm) or due to free-free emission due to HII regions (which is also
+prominent at ~1 GHz) ?
+Or, to put it in a slightly differently, if we want to examine only continuum
+radio emission, can we use NVSS ? Because won't it be contaminated by emission
+of atomic hydrogen spectral line at 21 cm/1.420 GHz ?

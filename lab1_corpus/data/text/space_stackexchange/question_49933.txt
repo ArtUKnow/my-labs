@@ -1,0 +1,5 @@
+Space shuttle position and velocity calculations from IMUs?
+How were the space shuttle's rate gyro and accelerometer outputs converted into reliable position and velocity vectors before being fed into GNC software? Is there a document detailing those calculations?
+I know that velocity often comes from integrating an acceleration signal---after some signal processing to filter out high-frequency noise---and that position normally comes from twice integrating acceleration.
+But they must account for nonideal effects such as gyro friction and precession as well as sensor and integration errors. I'm curious about the actual implementation of the calculations or at least a detailed explanation of them---though NASA documents are normally very very generous with calculations details for people who seek them, so I suspect there is a document out there that has exactly this info?
+Also interested in these calculations as they were done on the Saturn V if by chance they are lacking for the space shuttle.

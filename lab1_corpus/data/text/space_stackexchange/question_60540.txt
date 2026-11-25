@@ -1,0 +1,10 @@
+A hybrid micropropulsion system for CubeSats
+I am curious about how much potential would a hybrid (electric & chemical) micropropulsion system have for CubeSats.
+The chosen propellant is water due to its non toxic nature, cheap cost and high Delta-V. Besides, it can be disassociated, by applying external electrical power, into hydrogen and oxygen. These two would react in a combustion chamber (chemical propulsion).
+Nanosatellites such as CubeSats impose strict requirements in terms of mass, volume, and power. These are the restrictions I am thinking to impose on the micropropulsion system ONLY: 0.7 Kg as the maximum total wet mass of the system, a 1U size for the micropropulsion system (100 mm X 100 mm X 100 mm) and 7 W as maximum power required to make the system work.
+The CubeSat performance requirements set by ESA are as follows
+Now the question is what electric and chemical propulsion systems shall we choose to be combined. I propose
+Micro-resistojet (Electric propulsion). It vaporizes liquid water to a high temperature vapor for expulsion via a conventionally shaped nozzle, and has a wide potential for in-orbit maneuvers of nano-satellites. The general structure of the thruster is based on a modular design with three main parts: inlet section, heating chamber and nozzle. Biggest advantage: high Isp. Biggest drawback: low thrust.
+Bipropellant system (Chemical Propulsion). Combustion of an oxidizer (oxygen) and a fuel (hydrogen) are utilized to create a high-temperature, high-pressure gaseous mixture that can be expanded using a converging–diverging nozzle to create a high velocity exhaust stream. Bipropellant systems feature the highest performance for chemical systems per stored propellant, but require generally complex propellant managements system with multiple active components. Biggest advantage: higher thrust and performance among all chemical propulsion systems. Biggest disadvantage: complexity.
+Do you think it is feasible to combine those propulsion systems within CubeSat constrains?
+Thank you in advance! ;)

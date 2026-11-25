@@ -1,0 +1,3 @@
+Rad-Hard vs Space-Hard computing
+Radiation hardened CPUs like RAD750 are radiation hardened for up to 1000 gray. Cool. But, as CPUs have advanced way ahead their mechanical counterparts in miniaturization and fragility, energy dissipation and costs per kg to orbit have lowered, wouldn't just a simple lead shield start being more economic?.
+Obviously, Rad-Hard CPUs need to stand a very harsh environment besides radiation, from extreme temperatures to vibration. In summary, shouldn't we be talking now about Space-Hard computing rather than Rad-Hard computing?

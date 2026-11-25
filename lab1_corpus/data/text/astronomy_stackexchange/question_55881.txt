@@ -1,0 +1,7 @@
+Rising sign/constellation at a given time and place
+I am new to astronomy, and trying to learn how to use Skyfield to calculate the rising sign/constellation (typically referred to as the Ascendant in astrology).
+I tried a number of approaches based on what I have learnt so far:
+Using GMST and subtracting 90 degrees, assuming that GMST is providing the Vernal equinox/Aries cusp from the prime meridian, and 90 degree east is rising
+Tried subtracting azimuth from planet's longitude - again with the same logic that azimuth is measuring planet's position relative to North.
+Is there an easier way to determine the rising sign/constellation - and the ascendant? This is a hobby project for me - to try to understand astronomical calculations behind astrology.
+Still learning and will appreciate the guidance from the Skyfield community.

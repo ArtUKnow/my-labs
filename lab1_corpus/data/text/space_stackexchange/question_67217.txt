@@ -1,0 +1,38 @@
+Are de-orbiting Starlink satellites a danger to commercial airliners, as FAA has told Congress?
+Starlink satellites deorbit at the end of their service live. Once the constellation is fully populated, there will be an average of one an hour "timing out" and deorbiting. https://www.cbc.ca/news/science/satellites-polluting-atmosphere-1.7239899
+Many sources claim Starlinks are "demisable" (=burn up completely), but the FAA disagrees. The altitude of peak heating and maxQ do not necessarily correlate with the altitude at which fragments burn into harmlessly small fragments. Do fragments of a hazardous size penetrate to the cruise altitude of commercial airliners? Th FAA's report to congress says, "Yes,they do." https://www.faa.gov/sites/faa.gov/files/Report_to_Congress_Reentry_Disposal_of_Satellites.pdf
+Based on conservative assumptions, a fragment of 300 grams or greater
+may cause casualties to aircraft occupants ... roughly 1.65 million people in the air around the
+globe ... people in aircraft derive their vulnerability from debris
+that either penetrates the fuselage and directly impacts an occupant
+or causes an uncontrolled landing of the aircraft. This debris can be
+fairly small ... threshold for aircraft downing objects is roughly 300
+grams ... the SpaceX spacecraft could each produce three pieces of
+debris of 300 grams ...
+Payload reentries are expected to continue to grow to roughly ten
+thousand per year if the Starlink constellation's operational lifetime
+follows the announced operational lifetimes of 5years. Risks to people
+on the ground and in the air will continue to grow accordingly.
+The space industry has not yet collectively met the 90 percent success
+rate for satellite post-mission disposal, and even at the 90 percent
+rate, over 5,000 satellites could fail in orbit and randomly reenter.
+Reentry debris from random reentering objects has differing ballistic
+coefficients and masses. This causes the reentering debris to fall in
+a very long reentry footprint.
+Most reentry breakup events occur between 80 kilometers and 70
+kilometers in altitude. Fairly quickly after a violent breakup, pieces
+cool down and the trajectory becomes nearly vertical as the objects'
+forward velocity rapidly decreases. There is no difference in the size
+of debris that passes through navigable airspace and debris that
+strikes the ground.
+The Aerospace technical report estimated that Starlink spacecraft
+could create three objects each that could cause an aircraft downing
+incident.
+Since over 85 percent of the expected 2035 risk to people on the
+ground and aviation from reentering debris is a result of FAA licensed
+launches of Starlink satellites, it would be worthwhile to
+definitively evaluate if any debris from random atmospheric reentry of
+Starlink spacecraft survives reentry.
+Cockpit windows are bird-proof at approach speeds, but that's different from metal fragments at cruising speed.
+The Space Force has used scheduled deorbiting of Starlinks to practice Space Domain Awareness with real-world events https://www.airandspaceforces.com/spacex-space-force-deorbiting-opportunity . Has this generated real-world data on the fragments' size and depth of penetration?
+Edit: Interesting Scott manly video on a claimed debris strike:

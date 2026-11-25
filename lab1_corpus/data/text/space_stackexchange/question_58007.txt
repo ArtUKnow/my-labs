@@ -1,0 +1,3 @@
+Why not first stage rocket recovery at launching site after one orbit?
+Rockets first stage recovery at launch site needs a significant amount of fuel for going back. This is why SpaceX most often uses sea platform and booster back burn for re-entry. As we see on Falcon9 videos the booster needs a back burn to renter at a moment where it seems to be almost on orbit.
+Wouldn't it be better in terms if fuels consumption, and hence of overall efficiency, to let the booster -- Falcon 9 or the coming Starship/Super Heavy -- realize one full rotation around the earth before gently rentering at the launch site?

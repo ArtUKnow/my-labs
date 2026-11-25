@@ -1,0 +1,11 @@
+How much ice from the most suitable icy moon(let) could a spacecraft, launched with an SLS Block 2, transport to the upper atmosphere of Venus?
+When starting to terraform Venus, working people there would have to live first in the upper atmosphere for a long, long time because there are the most Earth like conditions.
+But the water there is very scarce and almost only happens in a mixture with sulfuric acid.
+Paul Birch suggested to collide one of the ice moons from the outer solar system with Venus for bringing in the needed water, and I would like to get an idea about the feasibility of his plan.
+I don't know if, when he wrote this paper, it was already discovered that three Galilean moons also have much ice on their surface.
+But it could be they are less suited for ice mining because of their higher surface gravity than the intended moons of Saturn.
+Of course, for an energy efficient trajectory gravity assists are essential, but I propose they would not be too much time consuming and a sequence of them would have to happen in a configuration of planets and moons that could happen frequently.
+So, launched from Earth with an SLS Block 2 and supplied with as much fuel as possible, how much ice could be mined on an icy moon or moonlet of Saturn or Jupiter by a spacecraft and transported to the upper atmosphere of Venus ?
+What would be the most energy efficient trajectory and which of Saturn's or Jupiter's icy moon(let)s would be the most suitable regarding that efficiency ?
+I would like to have an answer with the necessary equations and calculations for verification.
+Could there be a suitable constellation of planets and moons every 20 years, corresponding to the orbital periods of Jupiter and Saturn ?

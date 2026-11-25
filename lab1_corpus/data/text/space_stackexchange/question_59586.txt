@@ -1,0 +1,7 @@
+Confusion regarding the series for true anomaly on Wikipedia
+I hope this is the right place to ask. Please point me elsewhere if that is not it the case.
+I'm trying to calculate the position of Earth in its orbit given the day of the year. I found this Wikipedia page about the equation of the center:
+https://en.wikipedia.org/wiki/Equation_of_the_center
+It includes a formula for an infinite series that is supposed to equal the true anomaly given the mean anomaly and the eccentricity of the orbit. I tried to implement it in Python using a finite number of terms, but I ran into an issue. The series uses an order s-p Bessel function, but because s and p are both summation indices that start at 1 and go toward infinity, s-p is sometimes less than 0. The page also provides a formula for the series that equals the Bessel function given its order. But that series includes a factorial of the value of the order, and as far as I understand, a factorial of a negative number is not defined. This resulted in an exception being thrown when trying to run my script.
+What am I doing wrong or misinterpreting? Is there a better way to go about calculating this?
+For full context, my goal is to write a script that (ignoring the rotation of the Earth) takes a latitude l1, and a day of year d1. Then for a given second latitude l2 calculates at what day of year d2 the angle of incidence of sun rays at l2 matches the angle of incidence of sun rays at l1 at d1.

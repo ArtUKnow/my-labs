@@ -1,0 +1,2 @@
+Mirror size and pixel resolution on planetary surfaces
+MRO’s HiRise camera has a 0.5m primary mirror and a per-pixel resolution of ~30cm from an altitude of 200km. For an identical orbit, and ignoring any atmospheric effects, what mirror size would be needed for a resolution of 0.25 m/px?

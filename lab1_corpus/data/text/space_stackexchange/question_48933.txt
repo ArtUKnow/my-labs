@@ -1,0 +1,128 @@
+How to plot this orbit?
+I have these data for some orbits, without any explanation about meaning of each datum:
+{
+"objects": [
+{
+"name": "Earth",
+"id": "solar.planet.earth",
+"elements": {
+"q": 0.98322073104899
+"a": 0.99920537923658
+"node": 207.00538100359,
+"e": 0.0159973600220234
+"peri": 256.950444448438,
+"incl": 0.0038067895470298
+"T": 2459218.90577274
+},
+"position": {
+"y": 0.9297659392321,
+"z": -4.515675204152e-05,
+"x": 0.3275590103186
+}
+},
+{
+"position": {
+"z": 0.06029318307615,
+"x": -0.4584994822692,
+"y": 1.094698818492
+},
+"elements": {
+"q": 0.806176191073582,
+"a": 1.0323483836211,
+"node": 75.5720068963318,
+"e": 0.219085142318127,
+"incl": 4.80809622578363,
+"peri": 179.397909345983,
+"T": 2459318.63483092
+},
+"id": "solar.minorplanet.98943",
+"name": "2001 CC21"
+},
+{
+"name": "1998 KY26",
+"id": "solar.minorplanet.1998KY26",
+"elements": {
+"T": 2459001.17727408,
+"incl": 1.48102189788285,
+"peri": 209.372033608463,
+"e": 0.201828518064676,
+"node": 84.3664587661475,
+"a": 1.23285180453922,
+"q": 0.984027151835704
+},
+"position": {
+"y": 1.407810076987,
+"z": -0.002082322485705,
+"x": 0.2198001273522
+}
+},
+{
+"name": "Hayabusa 2",
+"id": "solar.spacecraft.hayabusa2",
+"elements": {
+"T": 2459212.01173911,
+"incl": 5.99763881195244,
+"peri": 205.214139025915,
+"e": 0.187058473659886,
+"node": 253.856900249799,
+"q": 0.970678629676518,
+"a": 1.19403253275367
+},
+"position": {
+"z": 0.006301058519122,
+"x": 0.3323137692169,
+"y": 0.932379875888
+}
+}
+],
+"TT": 2459186.10708546,
+"UTC": "2020-12-02T14:33:03"
+}
+I am trying to plot them in 3d in this JSFiddle, but I am proceeding randomly.... can anybody help?
+The final result should be something like the one visible in the page which use these data (and in this page in English), but I want to represent it in 3d.
+The accepted values for spacekit library are:
+initialValues.a Semimajor axis
+initialValues.e Eccentricity
+initialValues.i Inclination
+initialValues.epoch Epoch in JD
+initialValues.period Period in days
+initialValues.ma Mean anomaly
+initialValues.n Mean motion
+initialValues.L Mean longitude
+initialValues.om Longitude of Ascending Node
+initialValues.w Argument of Perihelion
+initialValues.wBar Longitude of Perihelion
+Ok for incl, peri and node, I can make a guess for "a" ( initialValues.a - Semimajor axis ), "e" (initialValues.e - Eccentricity), but what about "q" and "peri"?
+initialValues.a Semimajor axis ---> "a"
+initialValues.e Eccentricity ---> "e"
+initialValues.i Inclination ---> "incl"
+initialValues.epoch Epoch in JD ---> "T"
+initialValues.period Period in days --->?
+initialValues.ma Mean anomaly --->?
+initialValues.n Mean motion --->?
+initialValues.L Mean longitude --->?
+initialValues.om Longitude of Ascending Node ---> "node"
+initialValues.w Argument of Perihelion ---> "peri"?
+initialValues.wBar Longitude of Perihelion ---> "peri"?
+I also retrieved data from NASA Horizons for Earth to compare them to available ones, but I can't anyway figure out what "q" and "peri" match to:
+JD 2459218.905775463,
+A.D. 2021-Jan-04 09:44:19.0000,
+EC Eccentricity, e 0.01637
+QR Periapsis distance, q (km) 147092887 km
+IN Inclination w.r.t X-Y plane, i (degrees) 0.00285
+OM Longitude of Ascending Node, OMEGA, (degrees) 177
+W Argument of Perifocus, w (degrees) 284.4
+Tp Time of periapsis (Julian Day Number) 2459216 km
+N Mean motion, n (degrees/sec) 0.0001141
+MA Mean anomaly, M (degrees) 2.15
+TA True anomaly, nu (degrees) 2.22
+A Semi-major axis, a (km) 149541385 km
+AD Apoapsis distance (km) 151989883 km
+PR Sidereal orbit period (sec) 31540276 km
+"q": 0.98322073104899, Periapsis distance, q (AU) = 147087727 km
+"a": 0.99920537923658, Semi-major axis, a (AU) = 149478997 km
+"node": 207.00538100359,
+"e": 0.0159973600220234, Eccentricity, e
+"peri": 256.950444448438,
+"incl": 0.0038067895470298, Inclination w.r.t X-Y plane, i (degrees)
+"T": 2459218.90577274

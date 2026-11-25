@@ -1,0 +1,2 @@
+How are rockets able to keep their centers of mass in line with thrusters?
+How can the thrusters of a rocket keep in line with its center of mass seemingly perfectly to not exert any torque and rotate the rocket? For torque to not be exerted, the force vector must align with the center of mass, but how can space companies like NASA and SpaceX ensure that this is true? In rocket launches, precision is vital for the success of the ship, and I feel as even small misalignments in the center of mass from an object an astronaut took with them would cause imprecisions.

@@ -1,0 +1,18 @@
+How to calculate the true distance of the sun and the earth using skyfield?
+I'm trying to calculate the true distance between the sun and the Earth using skyfield.
+To estimate the distance at a time instance I use the barycentric coordinates of the sun and earth using the following Python code:
+eph = load('de440.bsp');
+earth = eph['earth'];
+sun = eph['sun'];
+pos_earth = earth.at(t).position.au;
+pos_sun = sun.at(t).position.au
+I then use the (xyz)-coordinates of the sun and earth to calculate the distance with the
+formula
+sqrt((xE - xS)**2+(yE - yS)**2 + (zE - zS)**2)
+where xE, xS, ... zE, zS are the
+coordinates of the sun and the earth.
+Uisng this procedure I get for the maximum rep. minimum distance of the sun from the earth in 2030 the following values:
+minimum 0.98331 AU at 31.12.2030
+maximum 1.01672 AU at 04.07.2030
+The date for the minimum seems a little bit strange to me.
+Is the above-described procedure to calculate the sun-earth distance correct or do I miss something?

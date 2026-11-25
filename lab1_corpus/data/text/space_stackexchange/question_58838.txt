@@ -1,0 +1,4 @@
+How to calculate time since ascending node crossing?
+Basically I want to calculate the elapsed time since passing the last ascending node crossing for a satellite in Earth orbit (assuming two-body motion).
+If the orbit is circular, then we can simply use the argument of latitude in terms of true anomaly and find time since perigee. However when eccentricity is > 0 then it doesn't work due to the rotation of the Earth (it has rotated so the intersection of the inertial equator and the orbital plane has moved as well).
+Does anyone know the exact equation that would give me the value that I want?

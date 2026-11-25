@@ -1,0 +1,6 @@
+What are the various ways that rockets measure the instantaneous thrust of each engine?
+@DavidHammen's answer to Engine failure: how to detect? mentions thruster sensors.
+This intrigued me and so I thought I'd ask about how this is done.
+Thrust is a critical parameter to know in real time, and when there are more than three engines you can't even unambiguously infer each engine's thrust from z-acceleration, pitch and yaw.
+Instead you'd like to have a direct measurement.
+Question: What are the various ways that rockets measure the instantaneous thrust of each engine? Is it as easy as slapping a standard strain gauge on each strut or mount holding the engine and feeding the numbers into a formula that corrects for geometry? Are there different or perhaps unusual ways this measurement has been made?

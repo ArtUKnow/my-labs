@@ -1,0 +1,7 @@
+Are there any photographs of the ISS "Glorious shadow"?
+A “Glory” https://en.wikipedia.org/wiki/Glory is a bright spot or set of concentric rings caused by wave interference of light internaly refracted within small water droplets. It is commonly seen at the antisolar point from aircraft flying over clouds. It is centered on the aircraft’s shadow, if the shadow is visible.
+https://atoptics.co.uk/blog/opod-glory
+I assume a glory could be seen from the ISS. Are there any photographs of this phenomenon, and has the ISS shadow ever been captured in the glory?
+The highest altitude for water droplets is the top of the troposphere (up to 17km in the tropics) Because of the ISS orbital altitude and the angular diameter of the sun, the ISS penumbra would be many times larger than the ISS itself and the umbra would not be present. The ISS shadow would be expected to appear (if at all) as a fuzzy dark spot in the center of the glory.
+Has this been captured in an image?
+Edit: I found this link https://www.livescience.com/planet-earth/weather/earth-from-space-warped-double-rainbow-glory-appears-next-to-rare-cloud-swirls-over-mexican-island which claims the first glory captured from space was by Mediterranean Israeli Dust Experiment (MEIDEX) on board the space shuttle Columbia STS-107 flight in January 2003.

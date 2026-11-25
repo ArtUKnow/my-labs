@@ -1,0 +1,2 @@
+Can an ISS module survive reentry?
+Nasa is making plans to de-orbit the ISS safely over the pacific ocean, this eventually leads to the question of whether or not an ISS module can survive reentry (survive meaning it is recognizable upon being retreived)

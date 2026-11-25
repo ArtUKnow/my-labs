@@ -1,0 +1,7 @@
+Does it economically cost the same to launch a satellite into LEO and GTO?
+I was doing some research about how much $/kg it costs to launch a satellite into GEO. I came across several sources that lists info for LEO:
+https://ourworldindata.org/grapher/cost-space-launches-low-earth-orbit
+And another source that just mention the cost (without specifying the orbit):
+https://spaceimpulse.com/2023/08/16/how-much-does-it-cost-to-launch-a-rocket/#How_Much_Does_It_Cost_to_Launch_a_Rocket
+In SpaceX's website, the cost is listed but it does not specify what rbit exactly, it says that it is "Up to 55 mT to GTO":
+Can I just divide the STANDARD PAYMENT PLAN by the maximum payload mass to estimate the cost per kg ($/kg) for each orbit?

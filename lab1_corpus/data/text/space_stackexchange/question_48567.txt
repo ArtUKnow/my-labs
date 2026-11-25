@@ -1,0 +1,5 @@
+What are the shortest orbital periods used for their repeat ground track properties?
+The most well-known repeat ground track orbits are geostationary and geosynchronous orbits, having orbital periods in a 1:1 ratio with the revolution of the Earth.
+Faster repeat ground track orbits are however sometimes used. Molniya orbits do for instance use a 2:1 ratio, spending most of their foot print time over two locations in at high latitude. A significant motivation for using these orbits is their comparatively low delta-v costs to geostationary orbits (~2/3 the cost from LEO).
+Are there commonly used satellite orbits with even shorter periods than these half-day ones?
+Used for their repeating ground track properties, that is. There are of course many satellites with shorter periods, but those tend to have drifting sinusoidal tracks.

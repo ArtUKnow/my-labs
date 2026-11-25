@@ -1,0 +1,3 @@
+Why are the service modules on Crew Dragon and Starliner expended after every flight?
+Why are the service modules on both Crew Dragon and Starliner expended after every flight? Clearly, shedding the mass of the service module reduces the amount of energy the heat shield needs to bleed off during re-entry, but this seems like a solvable problem that would be a boon to reusability and reducing per-flight costs.
+I assume SpaceX took the economical route but I have a hard time believing a more robust heat shield would, on a per-flight basis, cost more than a bunch of service modules.

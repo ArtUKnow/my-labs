@@ -1,0 +1,19 @@
+Calculating relative position of JUICE for observer at given coordinates with SPICE
+My antenna is at coordinates: LATITUDE = 47.397490, LONGITUDE = 8.550440
+I want to calculate azimuth and elevation of JUICE with SPICE. This is what I have so far:
+import os
+import spiceypy as spice
+from datetime import datetime, timezone
+# Load all kernels from meta-kernel
+meta_kernel_path = os.path.join('SPICE', 'Kernels', 'mk', 'juice_mk.tm')
+spice.furnsh(meta_kernel_path)
+# Set time for observation
+utc_now = datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%S')
+et = spice.str2et(utc_now) # Convert UTC to Ephemeris Time
+# Get spacecraft position relative to SSB
+position, light_time = spice.spkpos('JUICE', et, 'J2000', 'NONE', 'SOLAR SYSTEM BARYCENTER')
+print(position)
+# Unload kernels
+spice.kclear()
+How do I tell SPICE to calculate it from the position of my antenna? I have found exampels that do it relative to a knowen obeserver like DSN-14. But I need it relative to the given coordinates. And yes, I have found this. No, I can't get it to work with. I constantly get errors that the time frame is not covered by the Kernels but I know that is wrong because they work for the example above.
+PLEASE HELP! I'm at this for weeks now and I refuse to belive that it is this hard.

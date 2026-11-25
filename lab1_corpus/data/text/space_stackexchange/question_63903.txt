@@ -1,0 +1,14 @@
+Calculate velocity vector of elliptical orbit given the position vector at that point, the instantaneous speed, the true anomaly, and the inclination?
+Sorry if this is obvious, but I am an amateur at orbital mechanics and trigonometry was never my strong suit. I would like to calculate the velocity vector at a point in an orbit given:
+position vector of that point
+inclination of the orbit
+instantaneous speed at that point
+true anomaly at that point (in this case at periapsis).
+Other information which I could add to the script to find the velocity vector is
+eccentricity
+eccentricity vector
+semi-major axis
+periapsis radius
+declination of the orbiter at apoapsis
+With this info can I find the velocity vector at that point, or do I need additional information?
+Calculating the RAAN would also do if that's easier (I am trying to define the complete orbital elements). The position vector and the eccentricity vector are in the ECI reference frame if that is important.

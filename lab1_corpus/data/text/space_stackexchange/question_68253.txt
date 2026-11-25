@@ -1,0 +1,3 @@
+Can a specific impulse and exhaust velocity be defined (or at least estimated) for pulsed explosive rocket engines?
+I ask this because Project Orion suggested using nuclear bombs as a method of pulsed propulsion, so I was wondering about the possibility of replacing the nuclear bit for conventional bombs.
+However, I can't find anywhere any information on the use of non-nuclear bombs for rocket propulsion.

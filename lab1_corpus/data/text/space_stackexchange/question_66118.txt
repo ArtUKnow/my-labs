@@ -1,0 +1,13 @@
+Where does this formula for the argument of periapsis come from?
+I was looking at Poliastro/Hapsira python code determining orbital elements from the position and velocity vector. On this line, argp or $\omega$ is determined as (if my understanding of the @ operator in Python is correct):
+$$p_x = \vec{r}\cdot\vec{n}$$
+$$p_y = \frac{\vec{r}\cdot(\vec{h}\times\vec{n})}{h}$$
+$$\omega=\arctan2(py,px) - \nu \mod (2\pi)$$
+where $\vec{r},\vec{v}$ are the position and velocity vector, $\vec{h}$ is the angular momentum vector, and $\vec{n}$ the node vector, with $\nu$ being the true anomaly.
+the source mentions Curtis' Orbital Mechanics for Engineering Students, Example 4.3. But in my copy it seems to use this more common formula:
+$$ \omega = \left\{ \begin{array}{lcc}
+cos^{-1}{\left ( \frac{\vec{N}\vec{e}}{Ne} \right )} & if & e_{z} \geq 0 \\
+\\ 360^{o} -cos^{-1}{\left ( \frac{\vec{N}\vec{e}}{Ne} \right )} & if & e_{z} < 0 \\
+\end{array}
+\right.$$
+After an extensive search I have not been able to find other mentions of this expression. Not being an expert in astrodynamics I was curious to see how it is derived.

@@ -1,0 +1,3 @@
+Why RP-1 and not Methane for Falcon 9's Merlin engines?
+I've seen methane described as the best of both worlds---the worlds being hydrogen's energy density + pain-in-the-ass factor and RP-1's lower energy density + ... ease of use?
+And this has me wondering: if methane is so great, what kept SpaceX from using it in Falcon 9's Merlin engines? And likewise, what kept Blue Origin from using it in New Shepard's BE-3 engines (which sip liquid hydrogen)?

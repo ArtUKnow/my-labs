@@ -1,0 +1,10 @@
+How much of NASA's annual budget goes to launch
+I've been trying to figure out how much of NASA's budget goes to launch costs. I would also be interested in the same question for the global space market.
+What I've tried
+I started with a simple google search, "nasa budget 2021", because I know that NASA is a government agency and so their budget is public information. I found exactly what I expected, but it turns out NASA doesn't break down their budget the way I was hoping -- there isn't a line item for "annual launch costs". They did have a section on the Space Launch System, a section on "Launch System Development", and a section on launch services. I considered just adding those three numbers up, but the numbers don't seem right. It doesn't pass the smell test.
+So I went back to google. I tried "how much of nasas budget is launch", "how much does NASA spend on launch", and then for good measure, I tried "how much does NASA spend on launch site:stackexchange.com"
+At this point, I was already thinking of just posting here, but I decided to search "annual launch cost" on space.stackexchange; I didn't find any questions that were similar enough to mine. As I typed up my question, StackExchange helpfully suggested this question as similar, but ultimately, I'm looking for a number of dollars, not a percent.
+Finding a solution
+If you happen to have a source with the exact answer I'm seeking, that would be really lucky and helpful for me. If you don't, but you can give me a hint of where I haven't looked but could, or a simple way to calculate the answer, that's good as well (teach a man to fish, and whatnot).
+Ultimately, if it comes down to it, I could probably pull information about every mission that launched in a given year, what launch vehicle(s) was(/were) used, and the total launch mass, and get a pretty good estimate by multiplying the launch vehicle's cost to orbit by the launch mass. Pulling that information from a pdf sounds pretty time-consuming, so again, if anyone has a tip to make the process easier, I would greatly appreciate it.
+Thanks for reading, whether or not you can help!

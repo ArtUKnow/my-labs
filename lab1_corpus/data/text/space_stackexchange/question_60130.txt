@@ -1,0 +1,19 @@
+In Apollo hardware, why were sump tanks needed?
+I'm looking at the Apollo CSM Propulsion Systems. These were bi-propellant hypergolic systems. However, for some reason each type of propellant was divided into a storage and sump tank.
+For example, it says:
+Sector 2 (70°) contained the service propulsion system (SPS) oxidizer sump tank, so called because it directly fed the engine and was kept continuously filled by a separate storage tank, until the latter was empty.
+Same thing for the fuel tanks, one storage and one sump. That is four tanks total for the main engine.
+The question is why? Why divide tanks like this?
+Was it needed for some kind of pressure regulation? I don't see how. The total prop mass is given as 18.41 t, and the sump tanks appear to be the exact same size as the storage tanks. So if the sump couldn't be used when the previous tank was empty, that is wasting 50% of of the props or about 9.2 tons as unusable... That sounds like a huge, impossibly wasteful amount of unusable props.
+A quick Tsiolkovsky equation check confirms. Total mass 24.52 t, only using 9.2 t of fuel with a Ve of 3.08 km/s, so dv would be 3.08*(24.52/15.32) = 1.449 km/s. The article says that the Apollo CSM dv was 2.8 km/s which is almost 2x bigger, and keep in mind there was supposed to be an Apollo LEM attached to the CSM for about half of its burns anyway. So all this to say, no I don't think the props in the sump tank becomes unusable if the storage tank goes empty.
+And also I don't think any sump tanks exist for the RCS systems despite using the same bi-propellant pressure-fed style (AFAIK).
+Edit: This is wrong. The ACS system in the article says:
+Each cluster of thrusters had its own independent primary fuel (MMH) tank containing 69.1 pounds (31.3 kg), secondary fuel tank containing 45.2 pounds (20.5 kg), primary oxidizer tank containing 137.0 pounds (62.1 kg), and secondary oxidizer tank containing 89.2 pounds (40.5 kg). The fuel and oxidizer tanks were pressurised by a single liquid helium tank containing 1.35 pounds (0.61 kg).[23] Back flow was prevented by a series of check valves, and back flow and ullage requirements were resolved by containing the fuel and oxidizer in Teflon bladders which separated the propellants from the helium pressurant.
+So each ACS cluster also splits up the fuel and oxidizer into two tanks each or four total. I don't know if they were considered "sump" or not or have the same reasons.
+Could it have something to do with ullage? I don't see how. In Apollo spacecraft, ullage was provided by the RCS, which doesn't have a sump tank.
+Could it have something to do with restrictive geometry? Looking at the diagrams, I'd have to say no. The sump tank appears to always be right next to the storage tank. I see no reason why all that volume cannot be collectivized into a single tank in the same location.
+Could it have something to do with redundancy/safety? Again, looking at the diagrams, I'd have to say no. If the storage and sump are directly adjacent, then any kind of tank explosion is almost certainly gonna disable the other one too.
+Edit 2: The Apollo LEM Descent Stage also had 4 large tanks instead of 2.
+DPS propellant mass: 18,000 lb (8,200 kg) stored in four 67.3-cubic-foot (1.906 m3) propellant tanks
+This appears to be a deliberate system design choice for all the hardware, but I cannot understand why.
+So, why was Apollo designed this way? Why use sump tanks and storage tanks instead of one big tank?

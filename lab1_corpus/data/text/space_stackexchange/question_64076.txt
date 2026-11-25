@@ -1,0 +1,10 @@
+Blowing UV-cured foam in space
+Continuous hollow beams (usually called “booms”) have been proposed as useful components of space structures such as solar sails and arrays. One possible way to build booms in space is to extrude foam tubes (like a pool noodle) which harden into rigid structures when cured by solar UV. But can foam be created in space without self-destruction before it hardens?
+This Physics SE question deals with forming bubbles in a vacuum.
+In space, a bubble expands and pressure inside the bubble falls until pressure balances the surface tension of the liquid. The vapor pressure of the liquid would then cause evaporation until the bubble burst.
+However, there exist some liquids (like the lubricants used in space) with extremely low vapor pressure. In theory, if a liquid had a high surface tension and low vapor pressure, stable bubbles could be formed in space.
+If a low vapor pressure, high surface tension liquid was developed that cured with UV, it may be possible to blow foam in space which then becomes rigid. If this foam is used for inflation of inflatable structures, large permanently rigid structures could be formed. Structural loads would be carried in a way similar to foam-core composite structures here on Earth.
+NASA has worked on UV-cured prepreg materials to rigidise inflatable structures.
+NASA has researched foam-inflated structures but only the outer envelope was UV rigidized.
+A similar foam-inflated rigidized truss structure was proposed in this Solar Thermal Rocket project.
+Has there been any work done on UV-cured self-rigidizing foam?

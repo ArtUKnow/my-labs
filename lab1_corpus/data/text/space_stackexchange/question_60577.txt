@@ -1,0 +1,6 @@
+Effects of reaction wheels desaturation on satellite planning
+I'm quite new to the space sector and I'm wondering how the desaturation of the reaction wheels can affect the current plan of a satellite.
+I'll try to be more clear: what does it happen to the current plan if a desaturation to the RWs is commanded? Can the satellite continue with his plan (so, maybe, performing an imaging task) even if it is necessary to desaturate the RWs?
+I'm trying to look for some references in literature, but for now with no success.
+Also,I'm pretty curious about how on-board planning should interact with the RWs desaturation. If I assume to have an on-board planning algorithm, could I obtain some benefits by considering the RW desaturation as any other task (e.g. imaging or recharge task)?
+Thank everyone that will help me in solving these doubts!

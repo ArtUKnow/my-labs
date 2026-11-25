@@ -1,0 +1,11 @@
+Could time illusion be used to send a spacecraft faster than the speed of light?
+In this article (https://www.nasa.gov/feature/goddard/2022/hubble-spots-ultra-speedy-jet-blasting-from-star-crash) it says:
+The Hubble measurement showed the jet was moving at an apparent velocity of seven times the speed of light. The radio observations show the jet later had decelerated to an apparent speed of four times faster than the speed of light.
+In reality, nothing can exceed the speed of light, so this "superluminal" motion is an illusion. Because the jet is approaching
+Earth at nearly the speed of light, the light it emits at a later time
+has a shorter distance to go. In essence the jet is chasing its own
+light. In actuality more time has passed between the jet's emission of
+the light than the observer thinks. This causes the object's velocity
+to be overestimated – in this case seemingly exceeding the speed of
+light.
+Could the time illusion be used to send a space slower than light but have it seem like it is travelling faster than light?

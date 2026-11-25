@@ -1,0 +1,13 @@
+ET come home. Is the inter-manifold transfer of JWST between Sun-Earth L2 and Earth-Moon L1 within the capability of existing propulsion systems?
+Context: JWST is considered un-repairable in its current L2 location for a number of reasons:
+Diagnosis is difficult since JWSR has no “selfie” capability. This makes planning for any repair mission (crewed or robotic) problematic.
+Distance and radiation exposure are vastly beyond the experience of crewed missions
+JWST was not designed to be serviceable so repair would likely be complex and require the flexible talents of a crewed mission, perhaps multiple missions.
+Rocket exhaust could damage optical surfaces.
+JWST cannot transfer itself closer to Earth for repair since this would mean pointing its optics towards the sun for the burn.
+Proposal:
+The key to this proposal is the very low delta-v using inter-manifold transfers between Sun-Earth and Earth-Moon manifolds.
+Built a robotic “tugboat” with thrusters which are designed to be safe for the JWST optics. Have the tugboat dock with JWST using the existing docking ring. The tugboat would then transfer JWST to an Earth/Moon L1 orbit. The Gateway/Artemis resources would be available for diagnosis and repair. This would avoid the expense and radiation exposure of a dedicated crewed repair mission to L2. It would also avoid the delta-v of transfer to LEO.
+Once repaired, the “tugboat” could reposition JWST at Sun/Earth L2, and remain with JWST in case a repeat mission is needed. The tugboat could also be used for end-of-life decommissioning, extending JWST service life.
+This proposal depends on the availability of a low-energy transfer orbit between Sun/Earth L2 and Earth/Moon L1. One unsubstantiated internet source claimed this heteroclinic transfer could be achieved by “near zero delta-V”. https://engineering.purdue.edu/people/kathleen.howell.1/Publications/Journals/2006_AA_HowKak.pdf discusses system-to-system transfers between Sun-Earth manifolds and Earth-Moon manifolds.
+Question: Is the inter-manifold transfer of JWST from Sun-Earth L2 to Earth-Moon L1 within the capability of existing propulsion systems?

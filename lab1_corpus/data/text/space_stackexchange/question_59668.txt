@@ -1,0 +1,9 @@
+Depth to diameter ratio of impact craters
+Two questions on this site concern themselves with the depth to diameter ratios of craters:
+Catalog of lunar crater depths and diameters
+Where on Mars are there possible other collapse features with very
+high depth/diameter ratio?
+From what I've seen, research undertaken in the area has only measured the diameter of the top of the crater and the depth of the crater.
+Has any research been done that also measured the diameter/width of the base of craters in addition to the other two parameters for craters?
+By knowing both the crest and base diameters of craters and their depths, it is possible to determine the overall slope angle of the walls of craters. This could provide useful information regarding angles of repose and ground stability for settlements or mining operations on the Moon, Mars or elsewhere.
+$tan\ \theta\ =\ \frac{2d}{C-B}$

@@ -1,0 +1,2 @@
+Could a third stage be added to Starship?
+SpaceX has predicted that Starship will be able to lift up to 150 tons to LEO. Could some of the payload that it will carry have a third stage? If so could that save another flight of Starship since then Starship would not need to get refueled in LEO.

@@ -1,0 +1,19 @@
+What is the relationship between the radius of the Hill sphere and escape velocity?
+I'm currently working on a video game that will make use of a heavily simplified patched-conic model of the Solar System.
+I was wondering about some discrepancies between my own calculations as well as public data.
+Take the equation derived in this post for the radius of a Hill sphere in a two-body system (approximated by L1 and L2 Lagrange points):
+$$ h \approx r \sqrt[3]{\frac{M_2}{3M_1}} ,$$
+where $m_1$ and $m_2$ are the masses of the larger and smaller body respectively, and $r$ is the distance between the two bodies.
+Now, I'm aware that the Hill sphere would/should be centered on the total barycentre of an n-body system. Therefore, to simplify, instead of basing this on an Earth-Moon Hill sphere w.r.t. the Sun, I will instead consider a Moon Hill sphere w.r.t. to the Earth:[a]
+$$ \begin{align} h_☾ &\approx r_{🜨-☾}\sqrt[3]{\frac{M_☾}{3M_🜨}} \\\\ &\approx 57130\mathrm{km}. \end{align} $$
+Now, as far as I understand, in theory once a (relatively massless) spacecraft gets further away from the centre of mass of the Moon than this distance, the gravity of the Earth (or the common Earth-Moon barycentre in the far case) will take over and the spacecraft should leave its Moon orbit and enter an Earth orbit?
+Thus I would have assumed that one could derive the escape velocity from an arbitrary circular orbit using the vis-viva equation, such that for example:[b]
+$$ v_1^2 = GM_☾\left(\frac{2}{r_☾ + 100\mathrm{km}} - \frac{1}{r_☾ + 100\mathrm{km}}\right) $$ for the velocity-squared of an object in a $100\mathrm{km}$ circular orbit above the surface of the Moon, and[c]
+$$ v_2^2 = GM_☾\left(\frac{2}{r_☾ + 100\mathrm{km}} - \frac{1}{⅔57130\mathrm{km}}\right) $$
+for the velocity-squared at the same orbital height for an ellipitcal orbit with its semi-major axis equal to two-thirds of the Hill sphere radius. Please note that I've assumed for simplicity that the distance between the apses and focal points in the ellipse are very approximately equal to $½a$; it shouldn't make a significant difference in regards to the conclusion of this question. This would yield a total instantaneous velocity difference for our spacecraft of:[d]
+$$ \begin{align} \Delta v &= \sqrt{v_2^2 - v_1^2} \\\\ &= 1594\mathrm{m/s}. \end{align} $$
+Now, if you are reading this so far, you are probably very well aware of the vis-viva-derived equation for escape velocity, where $$ v_e = \sqrt{\frac{2GM}{r}}, $$ in our case yielding an escape velocity[e]
+$$ \begin{align} v_e^☾ &= \sqrt{\frac{2GM_☾}{r_☾ + 100\mathrm{km}}} \\\\ &= 2310\mathrm{m/s}. \end{align} $$
+Now, even though this exceeds our initial calculation by more than a factor of 3⁄2, I simply drew this down to the fact that the escape velocity equation is technically the velocity change required to achieve an orbit with eccentricity $e\ge1$, without taking gravitational influences from any other bodies into account. Therefore the initial value still seemed very correct at a glance.
+That was until I checked this $\Delta v$ map on Wikipedia, which lists the $\Delta v$ between Moon escape and $100\mathrm{km}$ Low Moon Orbit as $676\mathrm{m/s}$:
+So my question is how did the author of the above image derive this figure, and why does it differ so significantly from my own calculations? How can I derive the appropriate figure independently for any body in the Solar System?

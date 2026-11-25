@@ -1,0 +1,15 @@
+HARQ transmission: SAtellite to UE Downlink
+In the presentation Transparent vs Regenerative
+Non-Terrestrial Networks1, one slide explains the difference between transparent and regenerative payloads in terms of latency. Since the PPT file doesn’t contain a detailed explanation of the figure, I would like to understand the time flow diagram attached to this post.
+Can someone explain it to me? Should it be horizontal? I remember that when we studied it at the university, we used a vertical flow.
+Text from slide
+600 km satellite altitude, 20ᴼ gateway elevation angle gives feeder
+link propagation time of 4.6 ms, 50ᴼ UE elevation angle gives
+service link propagation time of 2.5 ms
+So total UE <--> gNodeB transparent propagation time of 7.1 ms is ~3x regenerative propagation time of 2.5 ms
+Assuming 1 ms slot duration, 1 ms processing time and three HARQ transmissions, transparent latency is 72.6 ms, while regenerative latency is 59.6 ms
+My calculation:
+Case transparent payload: (7.1+1+1)*5+7.1+=53,60
+I got complete another number :(
+comment to the slide:
+1by Prof Rob Maunder, Founder & CTO, AccelerComm & Alison Keefe, Senior Manager, Lockheed Martin, June 2024

@@ -1,0 +1,3 @@
+How did theorists determine that the atmosphere attenuates enough to support unpowered orbits?
+Before getting rockets into space were scientists certain that the density of the earth's atmosphere would decrease with height enough to permit low earth orbits? If so how was that determined?
+(If the atmosphere does not become negligible then any attempt to orbit would require significant ongoing propulsion to overcome the atmospheric drag. I suppose one could deduce from observing natural satellites that at some distance from the surface that happens, but prior to getting an observable artificial satellite in orbit I assume the only observable natural earth satellite was the moon, and there is quite a distance between that and low-earth orbit!)

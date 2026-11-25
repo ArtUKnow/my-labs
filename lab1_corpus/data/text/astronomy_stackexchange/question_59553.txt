@@ -1,0 +1,4 @@
+How do I calculate total gravitational potential energy of collapsing star?
+Given the Sun has a specific mass and diameter, how do I calculate the total gravitational potential energy of most points of reference in the Sun to something the size of Mercury?
+If it all gravitationally collapses on itself down to something the size of Mercury, how much energy would be provided to do work?
+The caveat? Assume there is no fusion, and the body is just inert matter falling inwards.

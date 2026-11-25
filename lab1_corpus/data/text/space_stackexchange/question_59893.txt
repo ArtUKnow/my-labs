@@ -1,0 +1,14 @@
+Would this idea of a water rocket to pass the Karman line work?
+When I fly my water rockets as a hobby I use this formula to calculate the height of the flight so I get an idea of how high my water rocket will fly.
+My idea is to make a theoretical water rocket out of graphene (https://www.nanowerk.com/what_is_graphene.php). It would have around 50 - 100 layers of graphene and the air pressure would be brought up to 6000 bars. Then I would add some shampoo in the water to change the density (Best case scenario the density would be dropped by half but that is not fully possible). The rocket length would be around 4m and 16 cm in diameter. It would be filled up to 30% with water.
+In this case then:
+Mi = 400 cm / 3 * 8² * π = 26 808,257... cm³ = 26,808257 kg water
+Mr = 0,16 * π * 4 * 50 * 0,00077 + 26,808257 = 26,885665 kg in total
+Here 0,16 * π * 4 is the area made out of graphene. 50 is the numbers of layers of graphene. 0,00077 is the weight of a square meter. 26,808257 is the weight of the water.
+Pi = 6000 bars = 600 000 000 pascal
+p = 600 (kg/m³)
+g = 9,81 m/s²
+Then adding it to the formula:
+(26,808257 / 26,885665)² * (600 000 000 / 600 * 9,81) = 101 350,6604788 m =~ 101,35 km
+This formula is leaving out the air resistance so the height it would fly is definitely lower, but if you increased the pressure by another 1000 bars or so then it would fly high enough to pass the Karman line.
+Have I made any mistakes in my calculations or the method I used to calculate the height of the flight?

@@ -1,0 +1,7 @@
+Has SpaceX chosen to drop the Transpiration cooling of Starship? If so, why?
+Earlier, there was news about a proposed concept for Starship to include "transpirational cooling" in its reentry heat shield design.
+These days there is less news about this and tests so far don't show evidence of "bleeding water".
+Is this technique now off the table for Starship? If so, is it because of design challenges, unnecessary complexity not absolutely necessary, something else?
+Teslarati: Jan 23, 2019: SpaceX CEO Elon Musk explains Starship’s ‘transpiring’ steel heat shield in Q&A
+Business Insider Feb 16, 2019: Elon Musk says SpaceX is developing a 'bleeding' heavy-metal rocket ship. Making it work may be 100 times as hard as NASA's most difficult Mars mission, one expert says.
+Next Big Future January 23, 2019: Active Cooling and Stainless Steel Construction of the SpaceX Super Heavy Starship

@@ -1,0 +1,7 @@
+Can I observe a Venus transit before 2117 from a spacecraft in the Earth-Moon neighbourhood?
+The Astronomy SE side of things is clear: The next Venus transit is in 2117. Good things they come in pairs, the 2004 had too many clouds for me, but 2012 was excellent.
+That means I will not see a second one.
+But this is Space SE, and we have rockets!
+Quite obviously, a spacecraft would allow you to observe a Venus transit long before that. Just go to Venus! (Or Mars, there's a Venus transit there in 2030).
+However, even a gravity assisted return flyby of Venus means living a year in space and significant delta-v costs. Is there anywhere closer to home that also works?
+A high apogee orbit of say, two lunar distances, is a trip lasting only a month. Those 770,000km should give me a wiggle room of 17' in all directions, which is significant when compared to the angular diameter of the Sun at 32', and the inclination of Venus at 3°24'. Is that wiggle room enough?

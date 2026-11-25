@@ -1,0 +1,7 @@
+Is there a name for the inertial reference frame experienced by something moving at c?
+It's not Rindler coordinates. It's the limit of Rindler coordinates, but does it have a name?
+I'm interested in what Lorentz' Gamma does as you approach that limit. In particular, I'm interested in how the hyperbolic metric changes, and what it changes into.
+I want to know how "timelike" vanishes.
+This gives context.
+$$\gamma=\frac{1}{\sqrt{1-\frac{v^2}{c^2}}}$$
+Yes, it approaches Infinity. What does the world look like from there? For example, you would never see anything move.

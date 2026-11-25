@@ -1,0 +1,6 @@
+Error in calculating Lagrange point L1
+I have been trying to calculate the distance between the lagrange point $L_1$ of the earth and the sun to the sun, and I have got the following:
+$F_{g(SP)}=F_{g(EP)}+F_c\\\dfrac{GMp}{r^2}=\dfrac{Gmp}{(R-r)^2}+pr\omega^2\\GMp(R-r)^2=Gmpr^2+pr\omega^2\cdot r^2(R-r)^2\\\\\omega^2r^5-2R\omega^2r^4+R^2\omega^2r^3+2RGMr-GMR^2=0$
+Substituting the values for earth-sun:
+$\omega=\omega_E\approx1.991\times 10^{-7}\text{ s}^{-1}\\M=1.989\times 10^{30} \text{ kg}\\m=5.972\times 10^{24}\text{ kg}\\R=1.496\times 10^{11}\text{ m}$
+I get $r=7.25363\times 10^{10}\text{ m}$, which is far from the true value.

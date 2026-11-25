@@ -1,0 +1,6 @@
+Would an alien SETI program be able to detect us on Earth as a technological civilization, over interstellar distances, against the background noise?
+SETI seeks to detect artificial signals (intentional or otherwise) against a background of noise. Our sun splatters energy across the entire electromagnetic spectrum like an old fashioned spark gap transmitter, and so creates a roar of noise. Trying to pick out a broadcast signal would be like trying to hear a mosquito at a heavy metal concert.
+Even a thermonuclear explosion on Earth would have trouble shouting down the output of the Sun
+Do basic physics preclude detection of human technological activity over interstellar distances? Larger antennae provide stronger signals and greater resolution, but to they improve the signal/noise ratio?
+Note: From how far away could our SETI searches detect and recognize our technological signals? asks from how far away aliens (with our level of technology, SETI and otherwise) could detect us. I am asking about physical, not technological, limits.
+Note: How obvious would an Earth-like planet be when searching for signs of life in space? asks about finding life using our currently available SETI technology. I'm asking about finding a technological civilization, limited by physical principles.

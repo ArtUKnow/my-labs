@@ -1,0 +1,4 @@
+How did Herschel determine the diameter of Mars?
+The book The Planet Mars: A History of Observation and Discovery by William Sheehan states that
+Herschel calculated the diameter of Mars to be 0.55 times that of the Earth, and he found its figure to be just as flattened as that of Jupiter---the ratio of the equatorial to the polar diameter he put at 16/15.
+How did he do these calculations? What experiments did he conduct to come to these conclusions?

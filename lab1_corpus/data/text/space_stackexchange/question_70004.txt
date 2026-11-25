@@ -1,0 +1,2 @@
+What degree of precision is usually used when calculating interplanetary transfers?
+I know that NASA uses varying degrees of precision, like for π where they only use the precision up to 3.141592653589793 (15 digits). How much precision do NASA and other space agencies use for interplanetary transfers? Do they use au units or is that mostly astronomy? What is usually the minimum required precision for interplanetary transfers?

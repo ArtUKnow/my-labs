@@ -1,0 +1,3 @@
+Which Saturn IB flights did or did not have hinged SLA panels?
+Up until now, I had thought that petal fairings on all Saturn flights had been removed after an incomplete deployment on Apollo 7. But there's a picture of the Skylab 3 mission of the expended S-IVB with SLA panels still attached. My question is, what Saturn IB missions did and didn't have the hinged SLA panels? All Skylabs I assume had them, but what about ASTP, which required LM-like docking?
+Skylab 3 picture in question: https://www.nasa.gov/sites/default/files/sl3-114-1625.jpg

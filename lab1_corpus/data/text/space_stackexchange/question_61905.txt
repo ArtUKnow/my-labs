@@ -1,0 +1,14 @@
+Can I calculate how big the earth will be in photos of NASA's DSCVR EPIC camera?
+I'm trying to build this thing. Shows photos of the DSCVR EPIC
+See the images here: https://epic.gsfc.nasa.gov/
+However I found out that the earth isn't always the same size in the photos, probably because of orbits, and the crop in the code is a fixed size, clipping the earth!
+Trying to come up with an elegant solution I was trying to use the coordinate data given with the photos. For example;
+"dscovr_j2000_position": {
+"x": 229545.55027,
+"y": -1273500.383955,
+"z": -714182.581123
+},
+This presented me with distance information! Eg: 1478022 km.
+I also know the diameter of the earth, 12.742 km.
+However, I don't really know how to use this information of the telescope to get to the size in pixels of the earth in the image.
+According to the documents it has a FOV of 0.62 degrees and a 2048px sensor with 15um pixels. Earth should be within 0.45 to 0.53 deg.

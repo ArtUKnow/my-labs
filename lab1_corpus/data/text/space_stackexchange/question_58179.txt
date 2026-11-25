@@ -1,0 +1,6 @@
+4 megapixels seems rather low, why weren't James Webb's sensors updated to higher resolution/sensitivity?
+Like the question says, JW sensors are stated to be 4 mp for near-IR (also 1 mp for mid-IR). I'm curious why this low a resolution was chosen.
+"Webb uses two different types of detectors: mercury-cadmium-telluride (abbreviated HgCdTe) "H2RG" detectors for the 0.6-5 μm "near-infrared" and arsenic doped silicon (abbreviated Si:As) detectors for the 5-28 μm "mid-infrared". The near-infrared detectors were made by Teledyne Imaging Sensors in California. "H2RG" is the name of the Teledyne product line. The mid-infrared detectors were made by Raytheon Vision Systems, which is also in California. Each Webb H2RG detector has about 4 million pixels. The mid-infrared detectors have about 1 million pixels each."
+The answer could be as simple as, it really was state of the art for space-environment reliable sensors made of those materials, at whatever time the devices they went in were fixed and commissioned, and NASA investigated and concluded they wouldn't have been practical to update any time after that.
+Or maybe more really wasn't needed for its mission, though that seems very unlikely (when is less resolution ever desirable in cosmology!)
+But I don't know, and I'm curious.

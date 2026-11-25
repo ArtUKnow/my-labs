@@ -1,0 +1,5 @@
+Is the Moon's orbital plane angle relative to the ecliptic constant?
+I've come across a number of sources (example) saying some variation of this:
+The moon's orbital path around Earth is tilted by 5.1 degrees with respect to the orbit of the Earth around the sun.
+This isn't strictly true though, right? Per this article, the angle of the moon's orbit varies by something like +/-5 degrees. So really we should say "The moon's orbital path around Earth is tilted by up to 5.1 degrees".
+Is this a correct understanding?

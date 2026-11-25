@@ -1,0 +1,13 @@
+What hardware does SLS actually share with STS?
+I was thinking about it for a while and realized I really don't know. I'm guessing it's:
+The RS-25s
+The SRB segments
+SRB seals/joints
+SRB nosecone assemblies +(avionics/separation motors/housings)?
+SRB decouplers?
+SRB ground support/pad mounts?
+Engine controllers?
+Tank pressurization systems?
+What else? I know the main tank's been almost completely rebuilt from the ground up. I'm sure the avionics are completely new. I'm guessing the SRBs are completely the same (for now). Orion & the second (third?) stage are all new (at least to STS hardware).
+How much of this legacy system is actually legacy?
+Note: I don't mean previously-flown hardware, just hardware which is "rolling" off the same production "lines". At some point the question breaks down if everything's hand-built and a decade's passed since components have been put together.

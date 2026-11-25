@@ -1,0 +1,4 @@
+Are there any estimates for cost of manufacturing second if first JWST fails?
+Weird question, but I was thinking about this: assuming first launch fails and JWST is destroyed/totally nonfunctional, are there any estimates how much would cost to produce another one with issues that hindered first fixed?
+I wonder since I presume large part of the cost(10 billions) is the design, so would seem kind of wasteful to just do nothing if first launch fails. So I wonder if NASA ever did this calculation?
+note: I know second launch can also fail, I am just curious about the cost estimation.

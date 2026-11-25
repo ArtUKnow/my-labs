@@ -1,0 +1,2 @@
+SWIPE: Stars WIth Pulsations and Eclipses
+Eclipses and pulsations are the two primary ways in which the physical properties of stars can be deduced and used to improve our understanding of stellar theory. An obvious idea is to combine these two analyses into the study of pulsating stars in eclipsing binaries. This is the aim of the SWIPE project. This paper summarises the scientific arguments, current status and future plans of the project.

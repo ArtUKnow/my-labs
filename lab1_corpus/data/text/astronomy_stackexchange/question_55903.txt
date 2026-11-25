@@ -1,0 +1,5 @@
+How would radiation pressure inside of the Sun affect an indestructible person?
+I went down something of a rabbit hole regarding whether an indestructible person trying to walk on the Sun would fall in, and sink. I want to know how radiation pressure would affect that person.
+As I understand it, a person would have to sink approximately 0.45 the solar radius in order to experience a density approximately equal to the density of the ground on Earth.
+But how would radiation pressure effect that person? I am vaguely forming the understanding that the effects of radiation pressure vary based on surface area, but I am unsure of how to perform the necessary calculations. People are saying that a person would sink in, so I am guessing the surface area would be too great for radiation pressure to have an effect, but I do not understand why that is true.
+Additionally, is there any depth into the Sun at which point a person would stop sinking due to gravity (without rising) purely as a result of radiation pressure instead of density?

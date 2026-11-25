@@ -1,0 +1,5 @@
+Does Starship need fins for roll control?
+Space capsules are designed with a hemisperical bottom and a conical top, as this configuration is not only self righting during re-entry, but also keeps the unshielded top inside the plasma stream.
+It was noticed, on the sucessful Starship 10 flight, that there was some heat effect on the skin surface above the heat shield.
+With a conical top, fins would only be needed for pitch control, and could therefor be much smaller.
+Essentially, the design would be a capsule elongated on the pitch axis. Would this be possible with future iterations?

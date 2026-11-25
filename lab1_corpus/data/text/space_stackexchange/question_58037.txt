@@ -1,0 +1,7 @@
+Using Chimborazo as a rocket launching platform
+Please consider this.
+Chimborazo is a sleeping volcano at 01°28′09″ S 78°49′03″ W. Its peak is 6263 metres above the sea level and because it is very near of the equator, the peak is more than 2 kilometres farther from Earths gravity centre than peak of Mount Everest. And because it is so close to the equator, rocket launching platform there will gets almost all the benefits from the Earths rotation.
+If we can build MAGLEV rails on the slope of the mountain and put a rocket on a carriage, and if speed of this carriage at top of Chimbarazo is 2000 metres in a second, what we can achieve with this construct?
+2 km/s at 6200 metres above sealevel, 30 degrees angle upward.
+So if we use this to launch Apollo 11, or some Shuttle mission or James Webb Space Telescope, how much smaller amount of rocket fuel we need?
+That is the question.

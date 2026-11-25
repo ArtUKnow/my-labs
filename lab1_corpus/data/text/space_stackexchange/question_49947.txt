@@ -1,0 +1,18 @@
+Where can I read about Lucy's complete propulsion system?
+Wikipedia's /Lucy (spacecraft) says nothing of propulsion, and it's SWRI home page for the spacecraft http://lucy.swri.edu/mission/Spacecraft.html gives specification and enumerates what's on Lucy’s instrument pointing platform (IPP) , but is silent on things like propulsion, attitude control, navigation, etc. Here are the specifications:
+LUCY SPECIFICATIONS
+Width: 46.75 ft (14.25 m)
+Height: 23.6 ft (7.2 m) or 12.4 (3.8m) when solar panels are stored)
+Depth: 9.12 ft (2.78 m)
+Diameter of Solar Panels: 23.9 ft (7.3 m)
+Dry Mass (unfueled): 1810 lbs (821 kg)
+Wet Mass (fueled): 3417 lbs (1550 kg)
+Power: 504 watts at the furthest encounter
+Fuel is 47% of the mass, so this is a "flying fuel tank"-class spacecraft, with a larger fuel fraction than the electrically propulsed DAWN but well below the 60 to 70% of the winners.
+This answer to What propulsion will Lucy use for its deep space maneuvers? cites only an article about a different mission that mentions conventional propulsion for Lucy in passing, then speculates further.
+Question:
+Where can I read about Lucy's complete propulsion system?
+If the answer is "you can't" then please answer instead "Why not, I paid for it!? (a little at least)"
+Refining Lucy Mission Delta-V During Spacecraft Design Using Trajectory Optimization Within High Fidelity Monte Carlo Maneuver Analysis (Preprint) AAS 19-614
+update: I found the words "bipropellant main engine" in Refining Lucy Mission Delta-V During Spacecraft Design Using Trajectory Optimization Within High Fidelity Monte Carlo Maneuver Analysis (Preprint) AAS 19-614 J. V. McAdams et al. (2019??) along with some uncertainties in delta-v that might offer some clues.
+Several major Deep Space Maneuvers (DSMs) shown in Lucy: Navigating a Jupiter Trojan Tour, AAS 17-632 D. Stanbridge et al.

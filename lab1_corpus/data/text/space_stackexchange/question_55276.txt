@@ -1,0 +1,15 @@
+Is Lucy fueled with hydrazine and liquid oxygen?
+On Sept. 18, propulsion engineers finished filling Lucy’s fuel tanks
+with approximately 1,600 pounds (725 kilograms) of liquid hydrazine
+and liquid oxygen, which make up 40% of the mass of the spacecraft.
+The fuel will be used for precise maneuvers that will propel Lucy to
+its asteroid destinations on schedule, while the solar arrays – each
+the width of a school bus – will recharge the batteries that will
+power spacecraft instruments.
+Source: https://www.scientiststudy.com/2021/09/nasas-lucy-mission-prepares-for-launch.html
+The probe is fuelled by 725 kg of liquid hydrazine and liquid oxygen,
+making up 40% of its mass.
+Source: https://spacewatch.global/2021/10/nasas-lucy-to-probe-trojan-asteroids/
+Source: https://english.lokmat.com/technology/nasas-lucy-mission-prepares-for-launch-to-trojan-asteroids/
+Is Lucy really fueled with cryogenic liquid oxygen?
+The combination of hydrazine and dinitrogen tetroxide is used very often for space probes that should work for several years requiring fuels that are liquid at non cryogenic temperatures.

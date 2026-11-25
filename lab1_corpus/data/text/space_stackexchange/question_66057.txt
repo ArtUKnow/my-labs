@@ -1,0 +1,12 @@
+How does flying a steeper entry trajectory make the exclusion zone smaller?
+This interesting answer Why did SpaceX change the landing site from the Pacific (ITF-1, ITF-2) to the Indian Ocean (ITF-3 and subsequent flights)? contains the following paragraph:
+However this type of test creates a situation with three main possible
+outcomes, a failure to restart the engine, a successful restart but
+not reaching full duration, or a successful restart with full burn
+duration. Any of these outcomes will change the location of the
+landing, so they want to fly a steeper trajectory to keep the
+exclusion zone as small as possible within all of the various
+outcomes. This is being achieved by flying the test on a steeper
+trajectory, with the result being a landing in the Indian Ocean
+instead of Hawaii.
+I'm interested in the highlighted part of the paragraph. How does flying a steeper trajectory make the exclusion zone smaller? I can kind of visualize coming in at an angle and having a elliptical zone of probable impact vs. coming straight in and having a circular zone, but what makes the latter necessarily smaller than the former?

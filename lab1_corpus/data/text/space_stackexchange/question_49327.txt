@@ -1,0 +1,3 @@
+How many times is a single rocket engine tested?
+When a rocket engine is loaded into a test stand is it tested once before removal or is it allowed to cool and then tested again. Is every liquid-fueled rocket motor that flies to space first tested in a test stand, or do they test each design in the test stand and put fresh ones onto the space flying rocket? Are sea level rocket motors damaged or worn out by firing?
+Clearly, solid fueled rockets and any rocket with ablative cooling is not going to survive multiple tests. I am happy with answers that cover liquid fueled rockets with effective cooling.

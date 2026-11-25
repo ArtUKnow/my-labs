@@ -1,0 +1,6 @@
+Modelling a circularizing burn at Apogee
+I am relatively new to rocket physics and am looking into modelling burns.
+Is there a good place to start modelling an orbital burn? I know about the rocket equation but perhaps that is not what is needed here. I could go to fundamentals and model the ODE from a FBD?
+So my question is, where would you begin/what papers would you read if you wanted to model an orbital burn?
+Cheers!
+Although in my question I was just really asking about some pointers on where to start, I thought I would clarify the final problem that I am trying to solve. I have a spacecraft at the apogee of an elliptical orbit and I want to model a burn to circularize the orbit. I know the altitude of periapsis and apoapsis, $h$ and $H$ respectively and all the constants such as current velocity in $x$ and $y$ directions, mass, radius of planet etc...

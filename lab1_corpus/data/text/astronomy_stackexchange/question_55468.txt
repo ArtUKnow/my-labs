@@ -1,0 +1,3 @@
+Natural satellites sorted by albedo
+Can I find a list of natural satellites of the Solar System with the average albedo for each one ?
+Enceladus, for instance has an albedo of 0.81 and Triton has an albedo of 0.76. But has someone already made a table with the albedo for each moon in the Solar System ?

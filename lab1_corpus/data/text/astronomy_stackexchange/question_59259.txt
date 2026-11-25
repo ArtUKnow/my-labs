@@ -1,0 +1,15 @@
+Trying to reconcile ICRS positions versus rotations and movements for a spacecraft
+I'm looking to conceptualize directions as it relates to ICRS and yaw/pitch and RA/Dec. For a Space Sim. I'm piecing together different sources that don't show it all in one place. I'm hoping somebody can fill in the blanks.
+Here is what I think I understand for what a spacecraft would observe or do when pointing to vernal equinox in J2000.0 along the ecliptic plane. Using the ICRS right-hand rule and a Yaw/Pitch/Roll right-hand rule.
+I put a few '??' in the statements below if I was unsure and I'm asking. Please correct me on the other statements if I'm wrong.
+ICRS position axes:
+Positive X is forward (to vernal equinox at J2000.0).
+Positive Y is to the 'left' (??) or 'right' (??)
+Positive Z is 'up' to the celestial north pole.
+Yaw/Pitch directions:
+Positive Yaw from 0 RA, 0 Dec is towards right or left (??)
+Positive Pitch is 'up' (??)
+Changes in position after yaw/pitch for a spacecraft that was pointing to RA 0 Dec 0:
+Would a Positive Yaw result in the ICRS Y-position heading towards negative numbers ? (assuming yaw was < 180deg).
+Would a positive pitch result in the ICRS Z-position going into positive numbers ?
+Thanks

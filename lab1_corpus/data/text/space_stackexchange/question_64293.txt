@@ -1,0 +1,7 @@
+Help with designing nozzle geometry for compressed air thruster
+I am designing a compressed air thruster with a conical nozzle geometry. The general design consists of a compressed air tank, pneumatic tubing, and then the actual chamber with the nozzle. The chamber, and nozzle entrance/exit are planned to be 1" ID, and for now I am designing around 3/8" pneumatic tubing. I used the formula from here to determine the critical pressure ratio. Even though I have gotten to this point, I have ran into a bit of a roadblock with a few different things that don't make total sense to me:
+Is it problematic if the throat pressure is less than 1 bar? My supply pressure is 10 bar but due to the pressure drop from the pneumatic tubing to the chamber I calculated only 1.4 bar of pressure in the chamber (very low, I know; just trying to start small and safe). Also, does this pressure drop from the tubing to the chamber make sense?
+How do I determine the throat area needed to give me the optimal throat pressure?
+How should I select an expansion ratio?
+I will also add that this is occurring in a collegiate club environment, I have access to a full machine shop, and I am trained on the 3 axis CNC which I'll be using to machine this. Long term will switch to CO2 and much higher pressure, but again, just starting small and safe.
+(Edited to remove incorrect equation)

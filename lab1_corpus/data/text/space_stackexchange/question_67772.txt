@@ -1,0 +1,10 @@
+Is JWST tracked ONLY by two-way delay-Doppler measurements via on-board coherent transponder, or are additional tracking techniques sometimes used?
+In this answer to How does JPL Horizons know where satellites are? I wrote the following:
+how?
+Round-trip radio signals (delay (range) and Doppler (radial velocity)) measurements are fit with trajectory models based on propagating in the gravitational field of the solar system.
+But in addition to this very accurate but single-axis line of sight two-way measurement, there is for example another technique called "Delta DOR" or "Delta differential" where a one-way signal (from spacecraft to tracking station) is received by generally two tracking stations who share a coherent timebase so that they can triangulate in a way that I think is similar to how cell towers triangulate. (Correct me if I'm wrong)
+See also this answer to How are precision trajectory measurements made of trans-Neptunian spacecraft? which links to 210
+Delta Differential One-way Ranging
+Tracking JWST very precisely is important for propellant conservation and mission lifetime. As I recall there's a sort-of regular (two week?) cadence for tiny propulsive corrections of order cm/sec. To do this, deviations of JWST from it's planned halo orbit must be precisely measured.
+I don't want to over constrain my question by asking only about Delta DOR, other techniques like VLBI come to mind, so I'll simply ask:
+Question: Is JWST tracked ONLY by two-way delay-Doppler measurements via on-board coherent transponder, or are additional tracking techniques sometimes used?

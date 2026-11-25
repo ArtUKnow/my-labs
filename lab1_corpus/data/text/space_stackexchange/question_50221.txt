@@ -1,0 +1,7 @@
+Could a Mars surface rover/probe be made of plastic?
+I wonder whether the structure of a Mars surface rover or probe could be 3D printed from plastics on Earth and then shipped to Mars for its mission. That is, 3D printed from the common materials used today (ABS, PLA, nylon/polyamide etc.) with common techniques (FDM, SLA etc.).
+The surface temperatures on Mars are mostly freezing and should allow for the plastics to not melt, which would be the first pre-requisite for success. If it could not be made entirely from plastic, are there parts of the vehicle that could be?
+I can think of following potential problems:
+melting during journey to Mars - temperature profile of the travel?
+abrasive Martian dust - use surface paint for protection?
+radiation (ionizing, UV) altering material properties

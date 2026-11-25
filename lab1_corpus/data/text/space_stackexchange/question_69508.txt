@@ -1,0 +1,3 @@
+Coefficients for geopotential model
+I would like to implement a spherical harmonic geopotential model into python, to find the force on an object (probably using EGM2008 or JGM-3), does anyone know where I can find a data set with all of the required coefficients? Alternatively is there a library or something that already exists that I could you?
+Thanks :)

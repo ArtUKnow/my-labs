@@ -1,0 +1,9 @@
+Why does c show up in Schwarzschild's equation for the horizon radius?
+The equation of the Schwarzschild radius is really simple, just twice the mass over $c^2$ (times a unit conversion constant that goes away in natural units).
+$$ R = \frac{2GM}{c^2}$$
+The question occurred to me, what in the world does the speed of light have to do with the amount of mass it takes to bend space 90 degrees (in an imaginary angle)?
+Yes, the escape velocity at the horizon is c, but isn't there something special about that space that is independent of time? Like, $z$ (radial) distance between events shrinks to zero at the horizon. That fact doesn't depend on time or the phase of anything.
+All the definitions of distance in "Schwarzschild geometry space" involve movement. But distance between objects at a particular snapshot of time can be expressed in purely spatial terms. Specifically, the $ct^2$ term vanishes, leaving only real (spacelike) distance.
+Yet there is a real circumference of the BH who's value depends on how fast something moves (photons).
+I know the horizon is a null surface in 4 dimensions, like the photon. But that just means it doesn't experience time, just space, so it says even less about why time should be involved.
+I'm hoping someone will understand and explain in the comments why the distance between 2 pixels on a photo of a BH sitting unmoving in space depends on something's speed.

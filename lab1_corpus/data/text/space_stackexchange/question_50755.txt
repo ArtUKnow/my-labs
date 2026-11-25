@@ -1,0 +1,4 @@
+Satellites below perigee on Stuff in Space website
+A friend of mine noticed that many satellites on the Stuff in Space website can reach an altitude lower than their declared perigee, as you can see in the following screenshot:
+We observed these satellites for a while and we noticed that in the same way they never reach the declared apogee (the maximum altitude they reach is a few kilometers below the declared apogee).
+Is this a bug in the web application or does this offset have a physical meaning?

@@ -1,0 +1,8 @@
+Could an acid-proof, solar-powered aircraft stay aloft on the sunny side of Venus more-or-less indefinitely?
+The length of Venus's solar day is 116.75 earth days ($t$ = 10,087,200 s) and it's radius, $r$, is 6051,800 m, so in theory an aircraft would only need to travel at a ground speed, $s$, of...
+$$s=2\pi r/t=2\pi(6051800)/10087200 = 3.77 m/s$$
+...to always stay on the sunny of Venus.
+The wind speeds on Venus reach 85 m/s, which seems like a manageable speed for a solar powered airplane.
+Presumably with 24/7 solar power, such a solar powered aircraft could stay aloft until it broke down.
+Are there any good reasons why the idea of an acid-proof, solar-powered aircraft designed for Venus is not possible or not practical - assuming that we use state-of-the-art technologies to build it?
+(Note: the Venus Atmospheric Maneuverable Platform was not designed to stay on the sunny side of Venus but instead, at night it would descend to a lower altitude where it would become 100% buoyant.)

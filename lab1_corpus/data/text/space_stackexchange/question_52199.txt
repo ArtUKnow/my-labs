@@ -1,0 +1,4 @@
+What causes a visual odometry failure?
+Exploring the amazing Curiosity Analysts's notebook*, I came across the following in the "Sol 2931-2932 uplink report":
+However, the Sol 2929 drive was halted early (well short of location "b") due to excessive visual odometry failures.
+What does it mean for visual odometry to fail, and what causes this? Is it external factors like weather, or issues with the algorithm?

@@ -1,0 +1,6 @@
+Is there a measure of astronomical distance that is not Earth-specific?
+On planet Earth, the Astronomical Unit and the light-year are (fairly) well-defined.
+To a Martian, the Astronomical Unit is 50% bigger and given the longer year, their light-year is almost twice as long. A Vulcan will have a different ruler.
+Spock and Kirk typically say things like "The nearest starship is 10 light-years away" without any reference to whose light-year they are measuring by.
+Now the serious bit. When SETI finally makes contact, it needs a way to tell the aliens how far they have to travel to meet us.
+Scientifically put: is there a measure of distance that is not Geo-specific, or Sol-specific or even MilkyWay-specific?

@@ -1,0 +1,9 @@
+Observation shadowing (multi-detector) and livetime scaling
+I'm doing a rates analysis on two different transients that may or may not be related to each other. My supervisor has told me that it's perfectly valid to scale the detection rate (per day) of one telescope by the live-time fraction of another.
+Example:
+$R_a$ = rate per day that telescope A detects a particular transient based on total number of detections per year (rate published by the telescope)
+$L_b$ = number of days < 1yr that telescope B was searching for a different type of transient (assuming $L_a$ perfectly covers the same period and more)
+$R_E$ = rate per day we'll use for the analysis = $\frac{R_a \times L_b}{ 365}$
+To me, this seems like absolute nonsense. To my supervisor, it seems standard. He says it's called "shadowing," but I'm having a real hard time finding anything that details this mathematics. I just don't see why the detection rate would change. The total number of events detected during a shorter period of time will obviously be less, but the rate should be the same, yes? He has tried to explain it to me, and I have tried to explain why I think it doesn't make sense, but we can't seem to convince each other. Normally, we're pretty good at communicating.
+This does not take into account relative detection distances of the different telescopes or the fact that they have different fields of view. We're ignoring that for the moment and focusing just on trying to understand what my supervisor is on about and how in the world's name this makes any sense at all!?
+Admittedly, it makes no difference to the actual analysis; the numbers are almost identical. I just need to understand!

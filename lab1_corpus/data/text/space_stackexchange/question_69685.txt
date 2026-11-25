@@ -1,0 +1,4 @@
+To protect its thrusters, does the Tiangong Space Station have a shield against magnetic fields, or a magnetic field-based shield?
+Wikipedia's Tiangong Space Station; Propulsion says:
+A magnetic field and specially designed ceramic shield were created to repel damaging particles and maintain the integrity of the thrusters. According to a report by the Chinese Academy of Sciences, the ion drive used on Tiangong ran continuously for 8,240 hours without a glitch during the testing phase, indicating its suitability for Tiangong's designated 15-year lifespan. These are the world's first Hall thrusters to be used on a human-rated mission.
+Question: To protect its thrusters, does the Tiangong Space Station have a shield against magnetic fields, or a magnetic field-based shield?

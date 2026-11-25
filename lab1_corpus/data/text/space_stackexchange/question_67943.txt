@@ -1,0 +1,3 @@
+Why is cross-track direction uncertainty fluctuating wildly?
+I'm inspecting position uncertainties of a small body on JPL Horizons. I chose vector format and both ACN and RTN uncertainties. I chose a 14-hour time range with 1-hour step.
+Now when we look at the uncertainties we see that all other stay the same order but the C component varies wildly. It's 10 km at smallest and 1900 km at greatest! Why's that?

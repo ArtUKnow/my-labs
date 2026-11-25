@@ -1,0 +1,5 @@
+Open source hardware at NASA
+Given NASA has its open source software repository, I can not really find its open source hardware counterpart so I suppose such a thing does not exist. Is that true?
+The 3D models site (GitHub mirror?) seems to mostly contain models of the outer structures only. Searching NASA's GitHub for hardware yields mostly hardware device drivers. JPL's GitHub is not any better.
+However I guess NASA almost certainly released some open source hardware but it probably is hard to find. One recent example may be the Open Source Rover (code) which is a special case though since that is mostly a toy only. I am looking for a real functional spaceflight hardware. So what are the most notable open source hardware projects at NASA?
+By open source hardware I mean any mechanical structure (spacecraft chassis, tanks, engines, electronics etc.).

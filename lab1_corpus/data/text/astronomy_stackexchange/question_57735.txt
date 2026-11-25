@@ -1,0 +1,11 @@
+Why does an aligned rotator (pulsar) radiate?
+It seems that the model of an "aligned" rotator is a common model to describe most features of isolated pulsars:
+Since the first works on pulsar magnetospheres, a stationary force-
+free magnetosphere of an aligned rotator has been considered as an
+underlying model for the real pulsar magnetosphere for more than
+30 years.
+(Quote and figure below are randomly somewhat randomly picked from Timokhin, 2006.)
+My very basic question is now: Why a rotating dipole field in vacuum should produce any radiation (or current)?
+The whole geometry seems to have cylindrical symmetry, as rotation and dipole axis are supposed to be aligned:
+So spinning it around its symmetry axis should not change the B-field anywhere in space. And without a varying B-field, no current or radiation.
+Obviously I am missing something here.

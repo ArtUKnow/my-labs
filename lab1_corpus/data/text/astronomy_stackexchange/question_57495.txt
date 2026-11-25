@@ -1,0 +1,18 @@
+Calculating luminosity from SED
+I have an SED with wavelength in microns, and fluxes in mJy. I try the following code but my derived luminosity is a factor of 2 less (I should get 2.5e-3 L_sun). I think I am converting the fluxes incorrect but I can't figure out how else to convert them.
+wavl = stellar_wavl*1e-6 # convert to m
+freq = (3e8)/wavl
+d = 29.43*3.086e16 # distance to star
+r = 0.01 * Rsun
+WD_int = stellar_flux / (np.pi * (0.01*r/d)**2 * 1e26 * 1000) # convert mJy to W/m2/Hz
+# define function to integrate
+flux_interp = interp1d(freq, WD_int, kind='linear')
+mu_min = min(freq)
+mu_max = max(freq)
+integrand = lambda mu: flux_interp(mu)
+# Perform the integration
+I, _ = quad(integrand, mu_min, mu_max)
+Lbol = I * (4*np.pi*(Rsun*0.01)**2.)
+Lbol/(3.846e26)
+= 0.001245
+Any help is appreciated!

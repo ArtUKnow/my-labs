@@ -1,0 +1,35 @@
+What are the technologies needed to make deep space LIDAR competitive with RADAR? Any plans for tests, prototypes or "pathfinder" systems?
+ProfRob's answer to Would it be practical to map out the Kuiper Belt and Oort Cloud via Radar? gives us a "sobriety check" on the idea. Citing an example of a 1 million watt transmitter at the late Arecibo dish with a beam of 2 arcminutes, a 140 m asteroid might be detected with an S/N ratio of five out as far as 0.18 AU only.
+It goes on to remind us that:
+The Kuiper Belt is circa 30-50 AU
+he whole sky comprises of more than 10 million sky patches of this size
+But astronomical applications of radar are many - it gives us not only precise distance and velocity measurements of near-earth asteroids but exploiting doppler shift and asteroid rotations, actual reconstructed images of their surface and identification of "moons" of asteroids.
+Has there ever been an instance of asteroid discovery by radar; seen first by radar rather than being observed after optical discovery?
+How does Deep Space Network's DSS-14 transmit radar and receive it at (almost) the same time? (monostatic radar)
+Is delay-doppler radar imaging of NEO asteroids possible only if it spins fast enough?
+First satellite of an asteroid (or double asteroid) ever imaged by delay-Doppler radar?
+And for larger objects like Mercury, Venus under its clouds, and even Saturn's rings can be imaged and studied by radar.
+Why do radar maps of the surface of Venus have missing slices?
+Farthest distance to a solar system object that's been measured by radar? (answer: Saturn's (very large) rings)
+How did Arecibo detect methane lakes on Titan, and image Saturn's rings? (answer: very carefully!)
+How did Arecibo make radar images of ice on Mercury's poles?
+Why is Saturn invisible in this radar image of its rings?
+What causes "North-South ambiguity" when doppler radar imaging a planet surface equator?
+Alas, Arecibo is no longer with us.
+How can we install a radar on radio telescopes like FAST or GMRT?
+On the other hand, with it's 4-5 orders of magnitude shorter wavelengths, only a few meter aperture can give us beams adjustable from arcminutes to sub-arcseconds wide (if wavefront correction is used). And while there aren't a lot of easy-to-run CW lasers at 1 MW, pulsed lasers can produce pretty hefty pulses at kHz rates and 100's of watts average power.
+In the past, S/N ratio for optical communications reception has been limited by photodetectors - the double conversion of light to electron-hole pairs followed by their collection and conversion to a current means reception S/N already scaled as $1/r^4$ in addition to the $1/r^2$ for transmission. For LIDAR that would be $1/r6$ overall.
+Now however, fast, cryogenic bolometric detectors that convert a thermal pulse to a charge pulse directly have made $1/r^4$ LIDAR at astronomical distances possible.
+Are direct conversion optical receivers being looked at for future deep-space communication?
+How is the maximum data rate of the Psyche mission's Deep Space Optical Communications (DSOC) system expected to scale with distance?
+Quantitatively, why will optical communication be better than X-band for deep-space communications?
+Is it possible to extend high speed data transmission with lasers to the distance Earth to Mars?
+Receiver and transmitter in RF/optic satellite communication: distance vs data rate v2
+We already bounce light pulses off of tiny retroreflector cubes on the Moon and recieve photons for ranging purposes, even during the day (using filters, gated electronics and photomultiplier tubes - I'm still looking for the answer post here or in Space SE that gives those details...)
+And there are and have been LIDAR topography mapping systems in orbits around the Earth, Moon, Mars, and several asteroids.
+So I wonder: What are the technologies needed to make deep space LIDAR competitive with RADAR? Are there any plans for tests, prototypes or pathfinders for this kind of observatory?
+further reading:
+this answer to Is pinging the Moon with a laser as shown on "The Big Bang Theory" possible?
+this answer to When they shoot lasers at the Moon for ranging, what is the shape of the beam?
+How to get an initial setting of the range gate for a Lunar Laser Ranging using a new Retro Reflector for the first time?
+How soon after “The Eagle” landed did they first attempt to bounce a laser off the Moon? When did it first succeed?

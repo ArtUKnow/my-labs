@@ -1,0 +1,6 @@
+Why is NASA sending wavy grousers to Mars?
+In this answer to What are the lines on the wheels of the Perseverance rover called? Are they different than Curiosity's? and in sources linked therein we've learned that the lines across the business faces of NASA rovers' wheels along the axial direction are called grousers and that the shapes on Perseverance's wheels are indeed "wavy" rather than chevron-like on Curiosity's wheels.
+Said waviness is shown in the linked question.
+Question: Why exactly are Perseverance's wheel's grousers wavy? What insight was gained through experience with Curiosity and simulations on Earth that led to this new and insightfully wavy shape?
+Obligatory edit:
+The first line of this question already links to the proposed and rejected duplicate, and comments there acknowledge that an actual reason is not known. Thus I've split this aspect off as a new question. Luckily, this question here is now in the process of being answered here and no trace of this answer can be found there.

@@ -1,0 +1,3 @@
+Would a planet's obliquity be stable if it is tidally locked to its moon?
+This scenario should become typical as the universe ages--a moon tidally accelerates and migrates until its parent planet's rotation equals the moon's, (mostly) preventing further drift.
+But what happens to the planet's obliquity in this scenario? Let's assume the moon is too small to stabilize it but large enough to slow the planet's rotation, and that, over trillions of years, they reach a stable double tidal lock. Would the planet's obliquity remain unstable?

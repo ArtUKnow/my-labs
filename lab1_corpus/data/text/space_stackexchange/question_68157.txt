@@ -1,0 +1,8 @@
+Is there a formula for the maximum GPS Doppler that can be observed on Earth?
+I am looking for a formula that would give the maximum Doppler observed by a stationary GPS receiver at the surface of Earth.
+The Doppler is related to the relative speed. The maximum relative speed due to the satellite motion happens when a satellite is at the horizon and is equal to:
+$$v_{rel,max}=\frac{R_E}{R_E+h} \sqrt{\frac{μ}{R_E+h}},$$
+with $R_E$ the Earth radius (6371 km), $h$ the satellite altitude (20200 km for GPS), and $\mu$ the Earth standard gravitational parameter ($3.986004418 × 10^{14} \text{ m}^3\text{/s}^2$). This gives approximately 928.677 m/s, which gives a Doppler of $f_{D,max}=v_{rel,max} / c \times f= 928.677 / 299792458 \times 1.57542 \text{ GHz} = 4880$ Hz.
+On the user side, at the equator we are moving at 465.1 m/s due to the Earth rotation. If this speed is taken into account entirely (i.e. the user moving direction is directly toward a satellite or directly away from a satellite), I add or subtract this to the relative satellite speed to get the complete relative speed between a user and a satellite, which gives: 1393.777 m/s (<=> 7324 Hz) respectively 463.577 m/s (<=> 2436 Hz).
+Now, the actual maximum GPS Doppler for a stationary user on Earth is around 4.2 kHz, so quite different than the estimates above. I understand that the user cases above are extreme cases (user direction is on the line-of-sight with the satellite), which may not happen in reality (although it does not seem impossible when I imagine the geometry of the system, so I am probably misrepresenting the GPS constellation).
+But then, is there a way to estimate the maximum observed Doppler?

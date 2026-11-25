@@ -1,0 +1,3 @@
+Which satellite constellations are already operational in LEO (Low Earth Orbit)?
+I am researching information on active and operational constellations in LEO (Low Earth Orbit) but from what I can see, many missions are still only planned (e.g. OneWeb, Amazon) and the only one currently operational seems to be Starlink from SpaceX. Is that true or are there more satellite constellations in LEO? Is there a webpage where I can see the list of LEO satellite constellations?
+Note that I have referred to Starlink, Amazon, and OneWeb, but I am talking about constellations in general, not only about internet-from-space ones. Also, I am interested only in constellations with at least 5 satellites.

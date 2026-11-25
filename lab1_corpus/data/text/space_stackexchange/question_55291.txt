@@ -1,0 +1,4 @@
+Antenna for receivers
+I am designing a CubeSat 6U in which I am using Software Defined Radio with SIGINT capability as my payload. The payload has 3 reception ports and 2 transmission ports and hence transceiver or transmitter is not necessary but I need an antenna.
+This is the SDR, I am using with SIGINT application.
+I have this question with respect to the antenna. For my mission, I need to receive radio emissions from S-band, X-band and L-band terrestrial radios/radars. I can map these terrestrial emissions to my reception ports in my SDR. However, with respect to the antenna, Should I choose only the S-band patch antenna and dynamically switch freq configuration onboard to receive signals from these three bands (S, X and L) or should I use a dedicated antenna for each one of this reception.

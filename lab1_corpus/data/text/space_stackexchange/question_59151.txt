@@ -1,0 +1,20 @@
+How does one calculate the look angle for non-geo satellites (i.e. LEO, HEO, etc.)
+I'm trying to find a way to calculate look angles to not just GEO satellites, but LEO, MEO, and HEO sats. The only calculator I've found myself is here, which was referenced for a similar problem on Stack Exchange in regards to calculating the longitude of GEO satellites GIVEN look angles here: Computing GEO satellite's longitude from elevation/azimuth from a given latitude/longitude?
+I'm interested in two functions/formulas, both of which are calculated on that first link I posted.
+$Az, \ El = f(earth_{lat}, \ earth_{lon}, \ sat_{lat}, \ sat_{lon}, \ altitude)$. I.e. look angle from earth station and satellite locations
+$sat_{lat}, \ sat_{lon} = f(earth_{lat}, \ earth_{lon}, \ az, \ el, \ alt)$
+So far I've started by subtracting the ECEF (geocentric) vector to the station from that of the satellite:
+$v_{1} = [r*cos(earth_{lat})*cos(earth_{lon}), \ r*cos(earth_{lat})*sin(earth_{lon}), \ r*(1-f)*asin(earth_{lat})]⋅T$
+$v_{2} = [R*cos(sat_{lat})*cos(sat_{lon}), R*cos(sat_{lat})*sin(sat_{lon}), R*(1-f)*sin(sat_{lat})]⋅T$
+$V = v_{2}-v_{1}$
+Where $r$ is the radius of Earth, $f$ is the flattening of Earth, and $R = sat_{alt} + r$.
+If I'm not mistaken this should yield the vector pointing from the station to the satellite. So now I just have to transform these coordinates from ECEF to ENU (topocentric):
+$t_{1} = [-sin(earth_{lon}), cos(earth_{lon}), 0]$
+$t_{2} = [-sin(earth_{lat})*cos(earth_{lon}), -sin(earth_{lat})*sin(earth_{lat}), cos(earth_{lat})]$
+$t_{3} = [cos(earth_{lat})*cos(earth_{lon}), cos(earth_{lat})*sin(earth_{lon}), sin(earth_{lat})]$
+$T = [t_{1}, t_{2}, t_{3}]$ (ECEF to ENU transformation matrix)
+$V_{ENU} = T*V$
+Lastly, I calculate the azimuth and elevation:
+$Az = arctan2(V_{ENU(y)}] / V_{ENU(x)}] )$
+$El = arcsin(V_{ENU(z)}/ ||V_{ENU}||] )$
+This keeps giving me the wrong answer, at least according to that calculator I referenced. What am I missing?

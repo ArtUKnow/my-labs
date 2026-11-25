@@ -1,0 +1,4 @@
+If a solar flare happened during a total lunar eclipse, would the Earth block the flare from hitting the moon? And for how long?
+I was making plans for a scifi story set in the aftermath of a Carrington Event-level solar flare, and I wondered if, in the case of a total lunar eclipse, the Earth would shield the Moon from the damage caused by the flare. Is this possible? Also, since solar flares are not instantaneous, how long could the moon be shielded if it could be in the first place?
+...The storm caused strong auroral displays and wrought havoc with telegraph systems. The now-standard unique IAU identifier for this flare is SOL1859-09-01.
+A solar storm of this magnitude occurring today would cause widespread electrical disruptions, blackouts, and damage due to extended outages of the electrical grid. The solar storm of 2012 was of similar magnitude, but it passed Earth's orbit without striking the planet, missing by nine days.

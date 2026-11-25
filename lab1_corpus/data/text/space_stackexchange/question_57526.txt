@@ -1,0 +1,3 @@
+How will JWST come to rest at L2?
+As L2 orbits the sun at more than 67,000 mph, JWST will approach that orbit asymptotically . In doing this, will L2 be behind JWST and catch up with the satellite or will it be ahead of JWST and JWST will catch up with it?
+In either case, what is the relative velocity of these two 'objects' when JWST approaches L2?

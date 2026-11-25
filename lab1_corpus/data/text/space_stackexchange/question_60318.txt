@@ -1,0 +1,4 @@
+Would ejecting propellant close to light speed result a '"dream engine"?
+"Dream engine" I assume as pictured in the old science fiction: a single stage rocket that can take off from the Earth and then freely travel at least over Solar system, landing multiple times wherever it needs without refueling.
+The rationale is, the mass increases with the speed. Hence by ejecting with velocity close to speed of light we can convert hydrogen atoms into something more like cannon balls by mass. Hence the rocket would require very little mass of propellant.
+The energy problem remains obviously unsolved but at least we do not longer need a lot of mass.

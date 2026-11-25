@@ -1,0 +1,3 @@
+How can I reference sky photos to a star map?
+On Earth, it is straightforward to georeference images onto a map surface using control points. Is there a similar approach for photos of the night sky showing stars?
+I’ll take a long exposure shot of the night sky and want to use the stars as control points to overlay the image on Stellarium to identify all the objects in the picture. Is that feasible (I know the relevant camera parameters and my geolocation)?

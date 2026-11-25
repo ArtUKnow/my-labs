@@ -1,0 +1,3 @@
+What happened to the Boeing Small Launch Vehicle?
+I just came across the WP article on the BSLV and found that it could use some TLC, apparently. My guess is that the project is deader than the proverbial Dodo, but sources are hard to find. The ever-helpful Grokipedia (...) suggests it has been cancelled around 2020, but I'm not sure the sources given (https://spacenews.com/boeing-drops-out-of-darpa-experimental-spaceplane-program/, https://spaceflightnow.com/2020/01/22/boeing-withdraws-from-darpa-spaceplane-program/) really relate to the same project -- far be it from me to assume AI-generated content may be subject to halluzinations... ;-)
+Can anybody confirm the fate of the BSLV?

@@ -1,0 +1,5 @@
+Human Eye Limit Width Visibility using Resolution Angle?
+Can we use angular resolution formula to compute what's the minimum width for celestial object or even phenomena like lunar and solar eclipse can be seen by naked-eye?
+I tried for 8mm pupil width which get 1% bright limb (24 hours moon age after or before new moon) or eclipse magnitude 0.01. but if we plug 2mm (maximum pupil width), we get 4% bright limb (48 hours moon age) or eclipse magnitude 0.04. for average pupil width, I get 2% or 0.02 as explained in the figure. It's equivalent with 36 hours moon age.
+May the result seems different with this explanation which is 1 arcmin or about 3% bright limb or eclipse magnitude 0.03 if we apply to lunar crescent visibility and also eclipses. But how about eclipse or lunar crescent, is it similar?
+If my post was duplicated from this post, you can close it.

@@ -1,0 +1,5 @@
+Accuracy of MRO ephemeris
+I am trying to understand if I pick a point on the Martian surface, say the Airy-0 Crater, with what accuracy can I predict the earth time the MRO will pass directly overhead?
+It's my understanding that the ephemeris of the MRO is calculated twice weekly using radio astronomy to within an error of a few meters.
+I also that the ephemeris of Mars can be measured via VLBI, short term 90 to 150 days, to an error of approximately 50m.
+It seems to me that the Ephemerides is now precise enough that the time the MRO passes overhead of a certain point can be predicted with a small amount of error.

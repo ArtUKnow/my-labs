@@ -1,0 +1,5 @@
+Has a rocket engine ever been reused by a second/third stage
+While rockets are basically minimal fuel tanks*, engines are steel monsters that aught to both weight much and be expensive to manufacture**. Has there ever been tried discarding the depleted fuel tank == first stage while reusing the engine? If no - why?
+* somewhere around here there was a reference that Musk's rockets are 2mm(perhaps 4, memory is failing me) steel tubes
+** - another reference that I could probably find upon request: WW2 Nazi aerospace engineers designed fighter planes that are entirely discared except the engine; was too late to make the news however
+A detail @ErinAnne just informed me of: I do not know the difference between a rocket engine and a nozzle. This is an entirely separate question but something to hold in mind if answering.

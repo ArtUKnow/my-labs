@@ -1,0 +1,7 @@
+How to place a satellite in retrograde heliocentric orbit?
+Imagine a mission which requires a retrograde heliocentric orbit. How could this be achieved? a direct launch would require ridiculous delta-v.
+There was a similar delta-v problem placing Ulysses in a high inclination heliocentric orbit. The problem was solved by using a Jupiter gravity assist.
+Could a retrograde orbit be achieved with a second Jupiter fly-by a half a Jovian year later?
+Edit: I anticipate someone will point out that a retrograde heliocentric orbit is as stupid as driving the wrong way around the track at an Indy 500.
+I thought the orbit would be great for doing an asteroid survey. The orbit would be inclined, to avoid the worst of the traffic, with the nodes in the ecliptic
+Edit ... @SE - Stop firing the good guys suggested several Jupiter passes to reduce the delta-v required on the first leg.

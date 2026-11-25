@@ -1,0 +1,8 @@
+How can I find the true anomaly of satellites in elliptic orbits?
+I want to find the true anomaly of satellites in elliptic orbits. How can I do that with following
+information about elliptic orbit:
+Altitude, km 543.8832
+Period, sec 6114
+Eccentricity 0.0727
+Semi-major axis, km 7227.5
+Inclination, deg 81.0192

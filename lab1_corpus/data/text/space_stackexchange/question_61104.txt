@@ -1,0 +1,8 @@
+What makes a spacecraft maintain its trajectory?
+I have searched a lot about this topic and also got similar questions but not the answers that I wanted. All answers talk about the engines that the spacecraft uses but how is that done?
+I came to know that gimbaled engines are used to keep the spacecraft in a specific trajectory but, how do the spacecraft and its sensors know that when to fire the engine in a direction to maintain the trajectory.
+In free space in 3 dimensions, how can a spacecraft know that it is in the correct trajectory.
+And also, if it goes out of trajectory, does it try to come in its own trajectory automatically or we need to give a command from Mission control.
+According to me gyroscopes and accelerometers need gravity to get this all information.
+I am new in this field and am curious about some of these things.
+Thank you.

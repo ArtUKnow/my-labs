@@ -1,0 +1,12 @@
+Extracting mean orbital elements from Skyfield
+I just wanted a coherent set of orbital elements for the Earth. I looked at the Wikipedia articles for Earth and Earth's_orbit, and they have −11.26064° and 174.9° for the longitude of the ascending node respectively. (I actually thought the longitude of the ascending node for Earth is zero, or very close to zero.) I decided there must be multiple systems of reference and someone has been carelessly pasting to Wikipedia from different sources again. I thought at least Skyfield will be internally consistent, so I wrote:
+from skyfield.api import load
+from skyfield.elementslib import osculating_elements_of
+ts = load.timescale()
+eph = load('de421.bsp')
+sun = eph['Sun']
+earth = eph['Earth']
+t = ts.utc(2000, 1, 1)
+position = (sun - earth).at(t)
+elements = osculating_elements_of(position)
+Now I expect to fetch sensible values from elements. But element.period_in_days is 365.4601554643523. Why is that not anywhere near any definition of the length of a year? Why are there two wildly different values of longitude of the ascending node, neither which I understand? What would be a good source to start from?

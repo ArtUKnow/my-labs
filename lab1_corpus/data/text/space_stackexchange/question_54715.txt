@@ -1,0 +1,9 @@
+International SSA/STM 3-Layer Model
+I'm working on a paper outlining an International SSA/STM1 approach for Civil SSA/STM and have read and referenced many publications. I believe it was an IDA documents such as https://www.ida.org/-/media/feature/publications/g/gl/global-trends-in-space-situational-awareness-ssa-and-space-traffic-management-stm/d-9074.ashx that suggest a 'as a service' layered model that consists of:
+Value Added Services - such as CA & VCM
+Basic Services - such as ELSETS
+Sensor Networks - raw feeds to/from usually basic services.
+however, I can't seem to find that reference anymore! Has anybody seen this SSA/STM 3-layer model? Surely, I didn't make this up!?
+1 SSA/STM = Space Situational Awareness/Space Traffic Management
+“Space Situational Awareness: Key Issues in an Evolving Landscape
+NOAA Office of Space Commerce Category: SSA/STM

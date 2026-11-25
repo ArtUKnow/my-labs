@@ -1,0 +1,4 @@
+Has the ISP been published for NASAs new rotating detonation engine demonstrator?
+Nasa just announced successful testing of their new rotating detonation engine:
+https://www.nasa.gov/centers/marshall/feature/nasa-validates-revolutionary-propulsion-design-for-deep-space-missions
+I was curious if they had a published paper on this on the measured or theoretical ISP for such an engine?

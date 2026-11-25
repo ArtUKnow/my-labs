@@ -1,0 +1,4 @@
+Riding out an exploding rocket
+It is known that at least some of Challenger's crew survived the explosion, while conscious. If the cabin had a parachute, they may have lived. This is despite the Space Shuttle stack being one of the largest rockets in history.
+Extant spacecraft use launch escape rockets to pull away from a failing booster, followed by parachute deployment.
+Is it possible for existing spacecraft; eg:- Soyuz, Dragon2 - to be designed to "ride out" an explosion? What would be the main problems; acceleration, debris, or fire?

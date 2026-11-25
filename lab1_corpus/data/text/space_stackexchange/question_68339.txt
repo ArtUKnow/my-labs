@@ -1,0 +1,3 @@
+What would be the density of interstellar matter if it were (baryonic) dark matter?
+Dark matter comprises some +70% of the mass of the universe, but the empty space between stars is vast. Would we be talking anything close to an atmosphere-like gas or haze? Or would it just be spread so thin that you'd still need special instruments to even detect it?
+Also, would it be something a solar system-based spectroscope could detect if its main density begins, say, at least 10x the radius distance of our star's heliosphere? 100x? Would it still be detectable that far away if the expected presence of interstellar matter's hydrogen and helium gasses were 'layered' before it, within that space?

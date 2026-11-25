@@ -1,0 +1,6 @@
+How many spacecraft orbiting the sun?
+How many spacecraft have been sent in a heliocentric orbit in all history?
+By this, I mean spacecraft sent to stay in heliocentric orbit.
+The satellites orbiting planets or moons don't count.
+Related question
+Is there a database for space junk beyond Earth orbit, and is Roadster in it?

@@ -1,0 +1,6 @@
+GMAT compilation does not generate gui
+I am compiling GMAT 2020a on opensuse linux from source code downloaded from sourceforge.
+I have gotten the compilation completed. Ran ok, except the /bin directory only contains "console" gmat executables. The console starts up an engine, so it says. There is no GUI (or GUI-beta) executable at all. No messages seen during make that show any reason for GUI compilation to be skipped.
+Any insights, anyone?
+A second, minor issue is that Python file configure.py has error. At line 301 it points to /lib/libxerces-c.a which should be /lib64/libxerces-c.a Same with libxerces-cd.a following.
+I don't mean to turn Space SE into a GMAT forum, but I don't find a GMAT forum anymore.

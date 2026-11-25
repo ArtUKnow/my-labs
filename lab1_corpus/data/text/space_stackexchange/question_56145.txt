@@ -1,0 +1,6 @@
+Why end-of-life GPS satellites given orbits that seemingly still intersect active satellite orbits but with a different period? Recipe for disaster?
+This answer to Where are MEO satellites put at the end of their operational life? says (currently in full):
+This is an active area of research. As you noted, the main satellites that are in MEO are navigation satellites. The short is they have their own disposal orbits, a bit further beyond the current constellations. It seems that GPS satellites are disposed by raising their apogee by about 1800 km (The perigee seems to remain the same)
+The GPS constellation consists of six planes of intersecting circular orbits all with an altitude of 20,180 km and periods of exactly one half sidereal day. They are (likely) choreographed to not hit each other at those intersections.
+If the only thing that is done to a decommissioned or otherwise unused satellite is to raise its apogee, leaving its perigee and inclination unchanged, that could potentially be a recipe for a collision, especially if control or station-keeping capability of the spacecraft is lost. So I'd like to ask:
+Question: Why would end-of-life GPS satellites be given orbits that seemingly still intersect active satellite orbits but with a different period? Isn't this a recipe for disaster?

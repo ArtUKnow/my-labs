@@ -1,0 +1,30 @@
+Pure orbit inclination changing, why delta v differs between vector and numerical approach?
+as said in the title I have different results between numerical en vector approach during inclination changing maneuver.
+The initial orbit :
+Perigee radius : 6700 km
+Eccentricity : 0.7
+Inclination : 40.0 °
+Ascending node : 20.0 °
+Perigee Argument :10.0 °
+The target orbit is the same with inclination set at 55 °, so we have a relative inclination of 15°
+My vector approach:
+At planes intersection I subtract final vector by initial vector and I get the following result :
+|delta_v| = 2608.9 m/s
+And the result of my new orbit matches perfectly all expected parameters.
+Now the problem comes from the numerical approach :
+I compute delta v magnitude
+|delta_v| = 2.0 * velocityAtNode * sin(relativeInclination * 0.5) = 2615,65 m/s
+My delta v vector is initialized on normalized velocity vector.
+I compute the rotation amplitude of my normalized delta v vector :
+rotationAngle = 90° + relativeInclination*0.5; = 97.5 °
+I rotate my normalized delta V vector around line of nodes axis by an angle of 97.5°
+Then I apply delta v computed previously to my rotated normalized vector:
+final delta v vector = rotated normalized vector * 2615,65
+I add this delta v vector to my initial velocity vector
+In this numerical approach the orbits planes are perfectly aligned but I've a drift in others parameters :
+perigee height becomes : 6675 km
+eccentricity : 0.706
+perigee argument : 12°
+If I compare my delta v vector obtained by vector approach and by numerical approach. I notice an angle of 4.1° between these two vectors and a magnitude difference of 6.7 m/s
+Any help is welcome to understand the difference between these two approaches.
+Thanks!

@@ -1,0 +1,10 @@
+If the Voyagers' lowest playback speed is 7200 bits per second, how can it transmit to Earth at only 160 bps?
+How to calculate data rate of Voyager 1? mention's Voyager's data rate is currently 160 bits per second, and clicking on a recent entry in the Voyager DSN Tracking Schedule
+on the Voyager Mission Status page I also see
+FDS MODE: CR-5T
+XB DATA RATE(MI): 160(32)
+and I'll assume the 160 means bits per second.
+@Hobbs' answer to How was magnetic tape decay prevented in Voyager 1? quotes the Voyager Backgrounder, October 1980 (PDF)1 which says that general science data is recorded and played back at 7200 bits per second:
+The data-storage subsystem can record at two rates: TV pictures, general science and engineering at 115.2 kbps; general science and engineering at 7.2 kbps; and engineering only at 7.2 kbps (engineering is acquired at only 1,200 bps, but is formatted with filler to match the recorder input rate). The tape transport is belt-driven. Its 1/2 in. magnetic tape is 328m (1,076 ft.) long and is divided into eight tracks that are recorded sequentially one track at a time. Total recycleable storage capacity is about 536 million bits -- the equivalent of 100 TV pictures. Playback is at four speeds-- 57.6; 33.6; 21.6 and 7.2 kbps.
+Question: If the Voyagers' lowest playback speed is 7200 bits per second, how does it transmit to Earth at only 160 bps? What system aboard Voyager (if any) performs this apparent data throttling/buffering/rate-adaptation?
+1NASA-NEWS-RELEASE-80-160, P80-10172

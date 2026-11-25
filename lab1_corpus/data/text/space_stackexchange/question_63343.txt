@@ -1,0 +1,3 @@
+Can a spinning water film cool an engine cheaper and better than ablative?
+Ablative cooling us an incredibly simple way to cool a liquid rocket engine, when compared to regenerative cooling. But ablatively cooled engines are (presumably) hard to refurbish.
+Why not inject a spinning film of water into the chamber? The centrifugal force will keep the cool water adhered to the wall, and get rid of the hot steam. All you need to do for a reflight is refill a tank. Plus, because of it's low molecular mass, I think water has a higher specific heat capacity than pretty much any ablative material.

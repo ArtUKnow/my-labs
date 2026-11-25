@@ -1,0 +1,3 @@
+Mass Breakdown of Apollo CSM by Subsystems? (also Cost Breakdown)
+I am looking for a mass breakdown of the Apollo Command and Service Module by subsystems, like this Lunar Module's chart from the NASA publication After LM. I am particularly interested in how much of the spacecraft's total mass was occupied by the ECLSS.
+I also want to find the cost breakdown of Apollo hardware development and how much was necessary to develop the life support components, if such analysis exists. There is a brief breakdown of budget allocation in Apollo by the Numbers, but this was all I could find.

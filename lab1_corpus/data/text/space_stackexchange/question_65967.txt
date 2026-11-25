@@ -1,0 +1,2 @@
+Satellite Navigation: Measuring Velocity & Position
+How is the position and velocity of a satellite measured from ground? Radar measurements could give us range and range rate which are scalar quantities (if I understand this correctly). But how could the position vector of the satellite and also its velocity vector relative to a ground station be calculated/ measured?

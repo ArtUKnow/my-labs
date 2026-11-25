@@ -1,0 +1,11 @@
+Why wasn't robotic arm used to free Spirit rover from sand trap? (and other things...)
+On Sol 1892 of its mission (01/May/2009) Spirit rover stopped its travel on Mars surface due to a "sand trap", initially (optimistically) defined as "difficult terrain".
+I have some questions:
+Why wasn't its robotic arm used to attempt rising it and change "sand configuration" and/or get away from the pointy rock under its belly?
+https://www.cnet.com/pictures/mars-rover-stuck-in-a-rut-photos/3/
+I remember at that time I read a press release saying something like "there is some little energy to attempt a last move before night, but we will wait tomorrow morning before attempting"; I can't find it anymore. Does anybody have the link to that page? Most of these links are dead, and anyway date back only to 2014, 5 years after the events
+Is the sand trap visible in at least one of these 3d pictures?
+Is there any video/gif of last moves before "falling" in the trap (link to raw images/frames)?
+Did anybody plot the values of temperature and solar power during last days? I looked around, also on github, with no luck.
+.
+List of updates: https://www.nasa.gov/mission_pages/mer/spirit-update.html

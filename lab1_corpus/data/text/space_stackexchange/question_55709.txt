@@ -1,0 +1,14 @@
+What was South Korea's Nuri's dummy payload and where did it end up?
+Wikipedia's Nuri (rocket) explains that it is a South Korean, three-stage all indigenously developed launch vehicle, and says:
+On 21 October 2021, it had its first flight at 08:00 UTC and it launched a 1,500 kg (3,300 lb) dummy satellite payload into what was planned to be a 700 km (430 mi) Sun-synchronous orbit (SSO). However, despite the payload reached the targeted apogee (700 km), the third stage shut down about 46 seconds earlier than planned and payload did not achieve orbital speed.
+and links to
+Nasa Spaceflight: South Korea’s KSLV-II conducts maiden launch attempt
+AP News S Korea test launches 1st domestically made space rocket
+Yonhap News (3rd LD) S. Korea fails to put dummy satellite into orbit
+The AP News article says:
+Lim Hye-sook, the country’s science minister, said Nuri’s first and second stages separated properly and that the third stage ejected the payload – a 1.5-ton block of stainless steel and aluminum – at 700 kilometers (435 miles) above Earth.
+But she said launch data suggested that the third stage’s engine burned out early after 475 seconds, about 50 seconds shorter than planned, failing to provide the payload with enough speed to stabilize in orbit.
+Officials from the Korea Aerospace Research Institute, the country’s space agency, said debris from the payload would have landed somewhere in waters south of Australia. The institute was planning to form an inspection committee soon to analyze what went wrong and map out adjustments before the rocket’s next test launch.
+Question(s):
+What was South Korea's Nuri's dummy payload? Traditionally dummy payloads are simply low-cost dead weights; see Where are all those blocks of steel and concrete now? Aluminum is suboptimal as it is lower density than steel, and for a dummy payload going to space it seems that stainless steel is overkill. To me it seems that these are materials you'd use to make something interesting and useful out of. (steel: ~8000 kg/m^3, aluminum: ~2700 kg/m^3, concrete ~2400 kg/m^3)
+Where did Nuri's payload end up? "Somewhere in waters south of Australia" is a big place!

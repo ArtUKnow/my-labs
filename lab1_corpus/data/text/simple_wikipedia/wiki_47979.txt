@@ -1,6 +1,0 @@
-Wikinews
-Wikinews is a free-content news wiki and a project of the Wikimedia Foundation, which had changing text disabled in 2026. The news articles were written by users working together with each other. Old articles were archived, and protected so that people could not change them anymore, except if an edit request was given. Every article had a talk page where people could talk about the news in the article. The article was then peer-reviewed by an editor to see if it was ready to be published, and to publish it if it was.
-Wikinews was under the Creative Commons Attribution 2.5 License, which was different from the license that the other Wikimedia projects are under.
-Sources
-Other websites
-Wikinews: Multilingual Portal

@@ -1,0 +1,6 @@
+Compensating for rotation when accelerometer not at center of mass?
+It's dawned on me that the accelerometers of a rocket will generally not be at the center of mass. In part because the center of mass varies widely as fuel is consumed.
+This means the acceleration (or dv) measurement will include undesirable terms from angular velocity and angular acceleration about the center of mass.
+"Undesirable" because those terms say nothing about the translational motion of the center of mass, which is the thing you'd want to measure with an accelerometer. You already have gyros to track rotation.
+So it seems that the reading from an accelerometer will generally need to be corrected for the accelerometer's offset from the center of mass.
+Is this done in practice? If so, is the correction updated continuously to reflect the latest estimate of the center of mass?

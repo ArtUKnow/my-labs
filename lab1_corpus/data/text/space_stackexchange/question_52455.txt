@@ -1,0 +1,8 @@
+Why did each F-1 engine have dual fuel feedlines?
+Each F-1 engine had two fuel feedlines connecting it to the fuel tank as shown in these contemporary photographs and drawings.
+The corresponding LOX system only had one feedline.
+The engine had a single turbopump which pumped both propellants.
+Why was the engine and stage designed to utilize dual feedlines for the fuel?
+Image sources
+F-1 Training Manual
+F-1 Engine System Launch Information

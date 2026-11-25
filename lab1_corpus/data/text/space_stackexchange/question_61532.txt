@@ -1,0 +1,2 @@
+Why did the Virgin One launch fail?
+What caused the early shutdown of Virgin rocket's upper stage? The previous failure was also due to early shutdown of engine, although that was first stage failure. As per reports available in public, it was failure of LOX feed line for previous failure. Is the same anomaly repeated for upper stage?

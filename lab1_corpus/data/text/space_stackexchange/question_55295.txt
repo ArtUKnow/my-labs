@@ -1,0 +1,8 @@
+Are 3 points on an orbit enough to determine the shape of it in practice?
+In a question about determining orbital elements from two points on an orbit, some discussion arouse regarding how many points are actually necessary, since two is not sufficient.
+Determining a conic section requires 5 points, though one of them can be the central mass, so only 4 points on the orbit.
+But are 4 points actually necessary in practice?
+This polar equation seems to suggest 3 points are enough, though with arguably some extra assumptions:
+$$r = \frac{a(1−e^2)}{1+e\cosθ}$$
+The only counterexample with ambiguous orbits I could come up with is "unrealistic", as it involves the phantom half of a hyperbola.
+Does disregarding such purely theoretical trajectories reduce the requirement to 3 points on the orbit?

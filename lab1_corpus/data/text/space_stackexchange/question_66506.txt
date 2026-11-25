@@ -1,0 +1,4 @@
+What is an feasible atmospheric pressure for plants and humans on Mars?
+On Earth plants can grow at an atmospheric pressure of around 5 psi (0.34 bar) with supplemental carbon dioxide. On Mars, the carbon dioxide would also be naturally concentrated underground.
+What is a minimum safe depth on Mars or safe pressure where both plants and humans can grow, oxygen aside?
+related: Pressurizing Ice on Mars

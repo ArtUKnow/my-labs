@@ -1,0 +1,4 @@
+What is the advantage of the "Mechazilla arms" over fitting the Super Heavy booster with landing struts?
+SpaceX lands the Falcon 9 booster stages on its built-in landing struts, this works well.
+However, the plan to land the Super Heavy booster stage is to capture it in a set of mechanical arms dubbed "Mechazilla". This seems (to me) a more complicated procedure requiring more advanced hardware. The risk of extensive damage to ground-based structures in case of a failed landing also seems significantly higher.
+So presumably there is a good reason why the Super Heavy booster would need to be captured upon landing rather than land on built-in struts. What is that reason?

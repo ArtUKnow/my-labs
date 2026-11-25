@@ -1,0 +1,2 @@
+How do we ensure that during reentry or descent of spent stages, it doesnt hit any aircraft or incoming rocket?
+When a rocket is launched, stages are separated at different intervals and altitude. The lower stages usually descend immediately while upper stages and orbital platforms usually last in space a bit longer. Are these also tracked like satellites and does a warning system exists for aircrafts and rockets?

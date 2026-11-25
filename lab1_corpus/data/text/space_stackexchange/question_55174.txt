@@ -1,0 +1,5 @@
+How is the Celestial Ephemeris Pole (CEP) exactly defined?
+I am currently trying to understand the definition of the True Equator Mean Equinox (TEME) frame. I found a very nice explanation in @NgPh's answer to Can someone explain to me the TEME reference frame in defining orbital coordinates? where it is specified that the Z axis is defined as the direction between the center of mass of Earth and the Celestial Ephemeris Pole (CEP).
+However, after doing some research, I have not been able to find a clear definition of the CEP.
+Could anybody explain or point me to an appropriate source regarding the definition of the CEP?
+How does it differ from the instantaneous axis of rotation of Earth?

@@ -1,0 +1,9 @@
+Is it possible to use a solar sail in low Earth orbit, thanks to a good orientation of the sail?
+I was reading this question: What is the closest to Earth you can expect lift from a solar sail?
+PearsonArtPhoto’s answer states that below 900 km, a solar sail cannot work because the drag on the sail caused by the residual atmosphere is greater than the thrust on the sail created by the Sun.
+In this similar question: Can solar sail prevent orbital decay?
+Deer Hunter gives a similar answer and indicates a limit of 770 km. Below this altitude, atmospheric drag would be too significant.
+However, if I understand correctly, drag does not depend on the absolute surface area of the sail but rather on its exposed surface in the direction of the satellite's motion. I made a diagram to better understand this. My question is:
+Would it be possible to orient the sail parallel to the direction of motion (aligning the sail with the prograde direction) so that, if the sail is extremely thin, only a very small surface area experiences atmospheric drag while a large surface area receives acceleration from the Sun’s rays?
+Assuming that the sail can be deployed during a certain part of the orbit, constantly oriented in the prograde direction, and then retracted during another part of the orbit. Also assuming that the satellite is very small and the sail is very thin. Would it theoretically be possible to use a solar sail to maintain (or even expand) an orbit, even for a satellite orbiting at 200 km altitude?
+If this is not possible, why? What factor prevents my idea from working?

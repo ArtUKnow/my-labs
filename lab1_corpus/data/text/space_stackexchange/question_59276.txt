@@ -1,0 +1,8 @@
+How does US crewed launch abort coverage "jump" the ocean in an instant?
+As I understand things, the Commercial Crew Program stipulates full abort coverage from pad to orbit. An abort to the middle of the Atlantic ocean is understandably not acceptable.
+Watching the OFT-2 launch, the abort location changes instantaneously from St. John's, Newfoundland to Shannon, Ireland at about MET 10:06:
+I heard the webcast say that there is a 200 nmi (~370 km) radius from the port of call that the spacecraft must land in. The two locations are the same abort zones for SpaceX Crew Dragon launches too. The two locations are ~1700 nmi (~3150 km) apart at center, so about 1300 nmi (~2400 km) apart at the outer radii:
+Here is a screenshot of the webcast right after this transition, showing the two abort zones, and the location and trajectory of the spacecraft:
+It's unclear if the red trajectory prediction considers atmospheric effects or not. The spacecraft appears to be at ~150 km altitude and travelling at ~6.5 km/s (estimated from shown apoapsis & periapsis values).
+Right before the abort zones switch, the trajectory prediction shows that the vehicle is going to go past the St. John's abort zone. What would an abort at this instant look like? How would the vehicle escape from the rocket and then turn around to thrust backwards towards St. John's?
+Similarly, how much $\Delta V$ would it take from the abort system to kick the spacecraft the extra ~2000 km downrange to reach the Shannon abort zone?

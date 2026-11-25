@@ -1,0 +1,9 @@
+Where do the numbers 101,972 and 3,600 come from in terms of Thrust-Specific Fuel Consumption (TSFC or SFC)?
+Online, on sites such as Wikipedia's for Specific Impulse and Thrust-specific fuel consumption, there are these units:
+101,972/x g/(kN·s) and 3,600/x lb/(lbf·hr)
+Perhaps 3600 comes from the number of seconds in an hour, but.... Otherwise I am confused....
+.
+.
+.
+.
+EDIT: P.S.: I just realized.... If I divide 101,972 by 1,000 to go from kilonewtons to Newton's.... Then multiply by 4.4482216 to convert from N to lbf ( one lbf is 4.4482216 Newton's...) ... I get 453.59405455, which is almost exactly equal to the number of grams in a pound (453.59237)...Maybe something.....

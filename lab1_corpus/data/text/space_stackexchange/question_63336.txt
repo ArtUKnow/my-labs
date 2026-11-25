@@ -1,0 +1,9 @@
+How to select the right magnetic torquers to desaturate a wheel?
+I want to select actuators for a micro-satellite (around 40 kg) orbiting in LEO.
+I proceeded in calculating the maximum disturbance torques that affect my spacecraft and selecting proper reaction wheels for three axis stabilization.
+Now I want to select a second set of actuators, to activate them during the desaturation of the wheels and I choose a magnetic torquer (since it'll be in LEO and I want to minimize the mass of the fuel). The problem is that I can't find an appropriate explanation about how to select a magnetic torquer for this purpose.
+I didn't quite understand if:
+Does the magnetic torquer desaturate the wheel?
+Is the motor that resets the speed of the wheel and the magnetic torquer counteract the unwanted rotation of the spacecraft due to the spin down of the wheel?
+If the right answer is the first one, I don't understand essentially how it works and if the right answer is the second one (the one that I suppose it to be), I don't understand how to take into account the torque that generate the wheel during the desaturation to select the magnetic torquer.
+I hope that my question is well asked and I want to thank in advance those who will answer me.

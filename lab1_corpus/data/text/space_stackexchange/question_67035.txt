@@ -1,0 +1,13 @@
+Will a Palm tree on Mars be approximately 2.5 times taller than the same tree on Earth?
+I am interested in the growth of plants on different planets. I have read on this site that a 100-pound person will weigh 38 pounds on Mars. Therefore, the ratio of acceleration due to gravity ($g$) on Mars to that on Earth is 0.38.
+Now, from the conservation of kinetic and potential energy, we know that
+$$(1/2)m*v^2 = mgh -\text{Equation 1}$$
+where $m$ is the mass of the body,
+$v$ is the initial velocity of the body which is thrown vertically upwards and
+$h$ is the maximum height that the body would rise and then start falling down
+Assume that a water particle at the plant's root has same energy on Mars as on Earth, and this could allow us to write the following:
+Maximum height that water can travel on an Earth plant = $h_\rm{Earth}$ = $v^2/2g_\rm{Earth}$ — Equation 2
+Maximum height that water can go on a Mars plant = $h_\rm{Mars}$ = $v^2/2g_\rm{Mars}$ — Equation 3
+Divide Eqn (3) by Eqn (2), giving
+$$h_\rm{Mars}/h_\rm{Earth} = g_\rm{Earth}/g_\rm{Mars} = 1/0.38 \approx 2.5$$
+I understand that a plant uses the process of osmosis to transfer nutrients. I would appreciate your comments/corrections to my analysis.

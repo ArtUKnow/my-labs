@@ -1,0 +1,4 @@
+Have there been any rockets whose payload fairings consisted of more than two parts?
+Most cargo rockets, such as Falcon 9, Delta IV, and many others, incorporate payload fairings to protect payloads from aero forces and heating during ascent. All of these rockets' fairings split in two upon separation. Have there been any fairings which split into more than two pieces?
+From Wikipedia, the Delta IV has a trisector fairing but I don't have any evidence about how it works.
+The aluminum trisector (three-part) fairing was built by Boeing and derived from a Titan IV fairing. The trisector fairing was first used on the DSP-23 flight. The Delta IV with the extended fairing is over 62 m (203 ft) tall.

@@ -1,0 +1,5 @@
+Need of the DoD for a heavy lift vehicle for "other" satellites
+As mentioned in Saturn I history, the DoD wanted a launch vehicle to put A): 20,000 to 40,000 pounds (~9,100 to ~18,200 kg) into orbit, or B): accelerating 13,200 to 26,200 pounds (6,000 to 11,900 kg) to trans-lunar injection.
+In both cases the lower end is about half the upper.
+In each case, did the DoD expect that one single engine / (first stage of the rocket) could meet both the values?
+If yes, considering that the hardware would remain same, would a design which is cable of meeting the upper values be underutilized for the lower end values? Or was the target load specification a broad range and anything solution with a capacity between the two values would have been acceptable?

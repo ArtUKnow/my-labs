@@ -1,0 +1,4 @@
+Would a laser seismometer work from lunar orbit?
+Lasers today have become extremely sensible, they can detect sub-millimeter movements of a surface from a distance. Could this feature be exploited to create a lunar seismometer working from a probe orbiting the moon instead of placing an instrument on the surface? The main problem is that the lunar surface is not as reflective as it seems. But on the other hand there is no atmosphere, no attenuation, no distortion.
+The advantage would be the possibility to monitor many places at once allowing an extensive coverage. The other advantage would be the reduced cost and reduced mission risk because there would be no landing and no need for landing equipment.
+BTW The same principle could be applicable to many other space objects, but the moon seems the natural testbed for the idea.

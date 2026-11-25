@@ -1,0 +1,10 @@
+Seeking Resolution for Artemis 2 SRB Case History Discrepancies
+Northrup Grumman released this history of the Solid Rocket Booster (SRB) case segments used on Artemis 2. I found it on this super useful collectspace post.
+I keep a flatfile of the case segment history derived from information in the Space Shuttle Almanac, old KSC documentation from Rocket Scientists, SRB contractor information I've managed to glean, etc. Most of this information I have is internally consistent, but there remain a few unresolved discrepancies.
+I think there are two new discrepancies on this infographic.
+One is pretty easy to spot. Both of the aft attach segments for Artemis 2 are shown as having been used on QM-1 (Qualification Motor 1, a ground test). Since there was only one QM-1 and it only had one aft attach segment, that's clearly an error. The other sources say that QM-1 was aft attach segment 60 so the left booster is probably correct.
+Does anyone know what aft attach segment was used on the Artemis 2 right SRB?
+The second discrepancy, also on the right booster, involves the forward cylinder on the 3rd segment. My records don't show any cylinder segment at all that only flew on STS-8 and STS-48. (My records don't have the TEM ground tests in them, which could be key info.)
+There is a cylinder segment 33 (matches the label in the infographic) that flew only on STS-8 and STS-51G (aka STS-25). I suspect this is the one actually used, but I haven't been able to confirm it.
+Does anyone know what case cylinder was used as the forward cylinder on the Artemis 2 right SRB 3rd segment?
+I plan to try and contact Northrop Grumman's PR department on this, but it's always more effective calling out errors if you know what the right answer actually is!

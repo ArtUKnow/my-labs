@@ -1,0 +1,2 @@
+Why disable Gaia?
+March 27, Gaia was disabled and sent to a solar orbit. I understand why ESA send it to a solar orbit (Kessler Syndrome), but I don’t understand why ESA had disable the spacecraft. Is there some risk of leaving Gaia with the subsystems still operating, is the science return so negligible that there’s no point in continuing to operate, and/or is there some other reason for shutting it down completely?

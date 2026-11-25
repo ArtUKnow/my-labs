@@ -1,0 +1,9 @@
+Sources for values for realistic thrust calculation exercise?
+I want to use this simplified equation to calculate the thrust of multiple different real engines:
+$$F = \dot{m} V_e + (p_e - p_0) A_e$$
+Source: https://www.grc.nasa.gov/www/k-12/airplane/rockth.html
+Now my problem is that it is hard to find Values like $V_e$, $p_e$ and $A_e$.
+Does anybody know where to find these values for multiple different engines?
+Maybe some sort of database out there?
+Or is there an easy way to compute them?
+Thank you for your help!

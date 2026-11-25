@@ -1,0 +1,2 @@
+Smallest known asteroid with moon
+The asteroid Didymos is only 780m in "diameter" with a moon, Dimorphos only 170m across. Is Didymos the smallest object known to have a natural satellite? Also, contact binaries where the asteroid and moon touch each-other should be excluded as the moon is not in a free orbit.

@@ -1,0 +1,5 @@
+Eutelsat 13G and Spacebus NEO's all-electric propulsion
+Today, Eutelsat's Hotbird-13G was launched by a Falcon 9 to a "geosynchronous transfer orbit".
+Deployment was at an altitude of roughly 1100 km. The satellite must reach a geosynchronous orbit from there. It is integrated into a satellite bus which provides necessary services to its payload, in particular power and propulsion. The bus in this case is the spacebus NEO developed by the Austrian company RUAG. Its propulsion system is an all-electric plasma drive. I could not find much about it online.
+How does it work? What's the reaction mass?
+Related: How much energy is necessary to change orbits from 1,100 km to 36,000 km? I was surprised that an electric motor could do the job.

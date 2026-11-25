@@ -1,0 +1,6 @@
+Building a moon base - cost, weight, and rocket to send pressure vessel
+I am trying to validate the following hypothesis in order to simulate the building of a base on the moon (I am starting a video game project ) , I am asking with current technology:
+What would be the approximate weight of a 4mx7m pressure vessel of cylinder shape to be used as a building block for a base ? I calculate around 3 tons based on the weight of comparable airplane fuselage, but around 10 tons based on a comparable ISS module (Destiny...).
+What would be the cost to build such pressure vessel ? If I make a rule-of-thumb made on pressurized aircraft, it looks like this would cost a few million dollars (2-5). Probably, space-grade stuff is more expensive
+what rocket can I use to send around 10 tons to the moon surface ? I understand I should take a rocket with around 70 tons capacity to low-earth orbit, like Falcon Heavy would be OK.
+I would be glad to get your advice.

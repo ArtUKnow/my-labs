@@ -1,0 +1,2 @@
+Are state vectors the same in GCRF and ICRF?
+I'm trying to wrap my head around the GCRF and ICRF reference frames and the fact that they are often used interchangeably. I understand that they are essentially the same in terms of orientation, but have different origins. GCRF is geocentric and ICRF is barycentric. But the different origins should change the state vectors, because those state vectors are defined with respect to the origin. Any help on this is appreciated.

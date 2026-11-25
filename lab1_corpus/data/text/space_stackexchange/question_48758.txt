@@ -1,0 +1,4 @@
+How should we point our SpaceX Starlink ground transceiver antennas?
+I don't have one of course, but I see that the Starlink ground transceiver antennas are flat but "pointable" to some extent. I assume but don't know for sure that there's at least some kind of phased array inside for maximum gain and steering, so:
+Why not just fix them horizontal for best sky coverage by the phased array? Why does the mount tilt? Why are all photos around the internet shown with them installed with a substantial tilt?
+When setting them up, how does one know exactly which way to point them for best results at a given location?

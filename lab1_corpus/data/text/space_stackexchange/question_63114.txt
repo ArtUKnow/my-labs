@@ -1,0 +1,4 @@
+Were Rocket Lab’s Electron rocket engines damaged on impact?
+Were Rocket Lab’s Electron Mission 26 rocket engines damaged on impact?
+The photo of the recovered Electron Rocket https://arstechnica.com/science/2022/05/rocket-lab-catches-a-1-ton-booster-falling-back-from-space appears to show rocket nozzles out of kilter. Is this impact damage from the unplanned water landing?
+Rocket Lab has pursued both helicopter capture and splash-down landings. Mission 26 was half way between with an aborted helicopter capture and subsequent uncontrolled water landing. The 'chute was collapsed as part of the capture, but it is not clear to me if it re-opened after Electron was jettisoned by the helicopter. Did engine damage occur by an uncontrolled water landing with a malfunctioning 'chute?

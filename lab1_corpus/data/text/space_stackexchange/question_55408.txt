@@ -1,0 +1,11 @@
+Could not an adapted RASSOR appear to be crucial for the Perseverance rover to find possible biosignatures on Mars?
+Is it not very likely that most of the material that could contain possible biosignatures, like clays and carbonate containing minerals, will be below a layer of dust or regolith on Mars ?
+That the material the rover can examine on the surface is 'only' the top of the iceberg ?
+The RIMFAX radar imager onboard Perseverance could help in localizing such material below the surface.
+But because of the low gravity on Mars, digging to the possible biosignatures would be difficult because a traditional excavator would not provide enough reaction force to penetrate into the regolith.
+Credits: NASA Kennedy Space Center
+From this article:
+RASSOR uses counterrotating bucket drums on opposing arms to provide near-zero horizontal and minimal vertical net reaction force so that excavation is not reliant on the traction or weight of the mobility system to provide a reaction force to counteract the excavation force in low-gravity environments.
+Credits: NASA/Kim Shiflett
+On the image above from this article you can see the scoops around the circumference of the cylinders.
+So with some modifications, like brushes on the drums to remove the lowest part of a dust or regolith layer from a layer with possible biosignatures, would RASSOR not be very suitable to assist Perseverance ?

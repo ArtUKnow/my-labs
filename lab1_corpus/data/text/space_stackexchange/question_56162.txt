@@ -1,0 +1,17 @@
+What are the innovative aspects of New Shepard's "retro-thrust system on the bottom of the capsule"?
+Background:
+The final velocity of the capsule after the main parachutes are deployed is a balance; it should always be slow enough that the crew is not injured and for reusable capsules and for space tourism it should also be slow enough not to damage the capsule or leave the customers with an "unpleasant aftertaste". You want them to be able to savor every subtle experience and moment of the flight, not have their memory "reset" by a jarring hard landing.
+At the same time if the parachutes are too big and the terminal velocity too slow, it can take an inordinate amount of time to reach the ground. For astronaut safety and for tourist experience it's not good to leave them "hanging" so close but out of reach for too long.
+So in order to get to the surface in a reasonable about of time the capsule needs a finite and reasonable terminal velocity, but at that speed a hard contact with the ground is still quite jarring.
+As pointed out by @user_1818839 the Soviet Union developed a retro-propulsion system for dry landings quite a long time ago! There is a ground proximity detection system and quick-firing thrusters to decelerate the capsule significantly just fractions of a second before impact. These are discussed in the following:
+When did soviet capsules begin using retropropulsion immediately before landing?
+Soyuz landing ground detection
+How does a gamma ray altimeter work? What kind of sensor is used?
+How does New Shepard Crew Capsule sense proximity to trigger retropropulsion just before impact? (currently unanswered)
+Question:
+In the Blue Origin video Replay: New Shepard Mission NS-19 Webcast linked below after about 02:04:00 (T+08:52) one of the hosts1 says:
+So while these parachutes are obviously essential in providing a gentle touchdown for the crew capsule, New Shepard also has an innovative retro-thrust system on the bottom of the capsule, and that will make touchdown even smoother for the astronauts flying today.
+Question: What are the innovative aspects of New Shepard's "retro-thrust system on the bottom of the capsule"?
+1From voice alone I can't quite be sure which of the following two hosts is speaking at this point:
+Dr. Laura Stiles, Sr. Mgr. New Shepard Operations
+Jackie Cortese, Sr. Mgr. Civil Space Government Relations

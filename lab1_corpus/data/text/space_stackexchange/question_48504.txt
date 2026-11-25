@@ -1,0 +1,3 @@
+Are power nuclear reactors (including advanced designs) really vastly less "aggressive" in design than NTR cores?
+It is my understanding that solid-core nuclear thermal rocket reactors are extremely aggressive designs that operate at the limits of materials and have an incredibly high specific thermal power.
+Do space nuclear reactors meant for generating large amounts of electrical power share the same properties?

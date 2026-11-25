@@ -1,0 +1,18 @@
+First multi-pin electrical connection made in vacuum in space? Was it a part of a docking maneuver? Were precautions against cold welding taken?
+Wikipedia's Docking and berthing of spacecraft says that
+The first spacecraft docking was performed between Gemini 8 and an uncrewed Agena Target Vehicle on March 16, 1966.
+Were multi-pin electrical connections made as part of that docking maneuver? If not, when was this first done?
+Connectors are never-ending source of trouble both on Earth and beyond, but in spaceflight:
+in vacuum there are things like cold welding which could make disconnecting again problematic.
+getting connectors to line up and engage can demand some mechanical precision and would have been a challenge during docking or using an EVA-gloved hand.
+Question: What was the first multi-pin electrical connection made in vacuum in space? Was it part of a docking maneuver? Were precautions against cold welding taken?
+Cold welding in spaceflight:
+What is the air pressure threshold for cold welding?
+Were there ever any accidents involving cold-welding on EVA? (currently unanswered)
+How is unwanted cold welding prevented in space?
+What other space vehicles were affected by cold welding? (currently unanswered)
+Bronze material compatibility for mechanism exposed to LEO (currently unanswered)
+Apollo Cold Welding Mitigation (currently unanswered)
+How much of a mixed blessing is cold welding?
+this answer to Which deep space spacecraft had main dish antennas that were perforated or made from mesh?
+Wikipedia: Galileo project; High gain antenna problem

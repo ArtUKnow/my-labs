@@ -1,0 +1,16 @@
+JWST - image stabilization?
+I am curious about how the JWST accomplishes image stabilization. This paper from 2005 addresses this, but a more general high-level description of the processes would be helpful, from someone with knowledge.
+In particular, how does the JWST stabilize its imagery?
+Off the top of my head, here are some quick questions (there may be others):
+Are the data stabilized before they reach the main four sensors of the JWST?
+How responsive is the system to vibrations - in the order of kHz?
+How is this system powered - batteries, reaction wheels, both?
+…
+As a further point of information, a quick perusal of a sample project for the JWST (here) using the JWST Exposure Time Calculator (ETC) suggests an exposure time of 8000 seconds (over 2 hours) might be typical for a project. Certainly Perhaps 2 hours is plenty of time for nontrivial jitter and drift.
+Also, I am a little curious as to how the JWST’s image stabilization might compare in quality and mechanics to that found in current generation smart phones.
+Update 1: From @user3528438’s answer below, JWST’s produced imagery is very likely from multiple images (each with a possible exposure duration in the order of 1000 seconds), aligned and stacked.
+Update 2: This snippet (discovered after the original post), from NASA’s FAQ on the JWST’s gyros might be relevant:
+Webb's HRGs and the Fine Guidance Sensor (FGS) instrument work with the final optic in the telescope, called the fine steering mirror (FSM), to stabilize the beam of light coming from the telescope and going into the science instruments. The FSM can tip and tilt a minute amount very quickly to compensate for small motions or "jitter" in the light beam, thus avoiding the need to point the whole observatory extremely precisely on a target. The HRG, in concert with the STAs and the reaction wheels, help stabilize roll about the optical axis.
+(I added the bold to the above.)
+The FAQ says the “FSM can tip a minute amount very rapidly”. How much, and how fast, I wonder? With its own power supply and actuators?
+This sounds analogous to the “optical image stabilization” found on Apple iphones prior to the 12 Pro. (see here and possibly here).

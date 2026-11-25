@@ -1,0 +1,2 @@
+At which speed and angle should satellite be to orbit in longitude line?
+At which speed and angle should satellite be to orbit in a longitude line (on Greenwich line, for example) ? most satellites I know move in latitude lines (equator line), or just a part of longitude line

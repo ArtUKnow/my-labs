@@ -1,0 +1,3 @@
+GAIN in Sextractor
+I'm using SExtractor for source detection from JWST CEERS NIRCam images. I'm using the fully reduced mosaics provided in CEERS website (The mosaics are on pixel scales of 0.03"/pix and are pixel-aligned across all filters. The science images are in units of MegaJansky per steradian (MJy/sr)) . Since my images are in units of MJy/sr I thought of using 0 for GAIN parameter. But it seems that flux_err is using GAIN in its calculation (https://sextractor.readthedocs.io/en/latest/Photom.html)
+What value should I give for GAIN for source extraction from my images ?

@@ -1,0 +1,9 @@
+Time to reach interstellar space
+From my understanding, both voyager 1 and voyager 2 used a gravity assisted slingshot method to leave the solar system.
+Question(s):
+Since the planetary alignment used won't happen again for a while, how long would it take modern rockets(ie. falcon 9, SLS, or Starship) to reach interstellar space? That is, past the Oort cloud.
+What engine would be suitable for such a trip(ie. ion propulsion, normal vacuum engine, solar sail)?
+Is it feasible or would it be best to wait until the planets are once again enough aligned(I believe that won't occur until the 22nd century)?
+Are there any current plans in place for such a mission by the likes of NASA or the European space Agency?
+Note:
+Suitable answers would incorporate the different questions when applicable. Ie, if there are not plans in place for such a mission available to the public, just make note of it and move on.

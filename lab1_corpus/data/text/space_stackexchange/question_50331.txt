@@ -1,0 +1,38 @@
+Coordinate systems for state vectors
+I am currently working on a project from this book. In appendix D, they provide a few projects that can be coded as a review of all the material in the book. I finished the first project, Site/Track and my output is reasonably close (thanks to the numerical imprecision of Python) to the solution. I tried to use the Orbital python library to do some plotting of my solution to add a nice visual accent to the project.
+I input the state vectors, converting from Distance Units and Time Units defined in the book to where mu=1, to meters and meters per second (as required by orbital's function conversion function. The output was an eccentricity value of .98, and a semimajor axis about equal to the earths radius. This obviously isn't correct so I proceeded the next data point - same result. Okay maybe it's my code? So I looked up the state vector for the ISS, found here, input that into my code and out comes a beautiful graph of the orbit. So maybe it's just the data in the book. I enter a different example from the book from the chapter that I followed to create the program, where they convert state vectors to orbital elements. It gets that calculation perfect also. I then try one more source here, and these vectors do not work in my program. I also put all 3 vectors into this calculator, the ISS and one from my book worked, but not the others. I'm trying to find the inconsistency that I'm obviously missing...
+So my question is. Are there different reference frames for these vectors that could be causing these errors. What other errors could I be inadvertently introducing?
+Here is my input data from the book (not functioning)
+defined in the book as the IJK reference frame (inertial)
+r = [ 1779987.13023855 -4944211.65294755 4065801.40507205]
+v = [ 2082.84303416 -1179.76617351 410.70269708]
+Output:
+KeplerianElements:
+Semimajor axis (a) = 3493.823 km
+Eccentricity (e) = 0.950399
+Inclination (i) = 45.1 deg
+Right ascension of the ascending node (raan) = 160.3 deg
+Argument of perigee (arg_pe) = 303.1 deg
+Mean anomaly at reference epoch (M0) = 144.4 deg
+Period (T) = 0:34:15.239378
+Reference epoch (ref_epoch) = J1970.000
+Mean anomaly (M) = 144.4 deg
+Time (t) = 0:00:00
+Epoch (epoch) = J1970.000
+The ISS data I used (proper graph shown)
+defined on the website as m50 cartesian.
+r = [4607312.46, -1531324.39, 4749270.39]
+v = [4597.800926, 5516.878978, -2671.990580]
+Output:
+KeplerianElements:
+Semimajor axis (a) = 6794.798 km
+Eccentricity (e) = 0.000980
+Inclination (i) = 51.4 deg
+Right ascension of the ascending node (raan) = 212.9 deg
+Argument of perigee (arg_pe) = 53.7 deg
+Mean anomaly at reference epoch (M0) = 62.7 deg
+Period (T) = 1:32:54.113176
+Reference epoch (ref_epoch) = J1970.000
+Mean anomaly (M) = 62.7 deg
+Time (t) = 0:00:00
+Epoch (epoch) = J1970.000

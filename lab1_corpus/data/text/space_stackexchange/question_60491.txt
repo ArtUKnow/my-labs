@@ -1,0 +1,8 @@
+How to transport C and N₂ from Mars to the Moon?
+While the Moon can offer many raw materials for the manufacturing of a wide range of technological components, it lacks abundant sources of carbon (required for steel) and nitrogen (useful for pneumatic applications, including air bearings). Mars' atmosphere is made of 95% carbon dioxide, 3% nitrogen, and 1.6% argon. My question is the following: what would be the most energy-efficient way to transport the carbon and nitrogen parts from Mars to the Moon?
+I can think of the following options:
+Compressing the mixed gases
+Separating and liquefying the mixed gases
+Separating the mixed gases, extracting and solidifying C, liquefying N₂
+Regarding the third option, direct conversion of CO2 to solid carbon by Ga-based liquid metals is intriguing, but I could not find any confirmation that Gallium can be found on Mars. It can be found on the Moon with a 5ppm concentration, but I am unclear about how easy it is to refine.
+Note: This question focuses on raw materials that could be found on Mars, the Moon, and some asteroids. It deliberately avoids using any raw materials from Earth. By doing so, it increases the probability that the solution could be deployed on many different planetary systems.

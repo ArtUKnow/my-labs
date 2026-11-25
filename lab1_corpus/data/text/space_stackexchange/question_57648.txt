@@ -1,0 +1,12 @@
+How much fuel did JWST save due to an accurate launch, and how much will remain after L2 orbit?
+How much fuel did JWST save due to an accurate Arianne 5 launch, and how much fuel will be remaining after JWST L2 orbital insertion? And how many years is that fuel expected to last?
+According to https://en.wikipedia.org/wiki/James_Webb_Space_Telescope
+"Eight smaller thrusters are used for attitude control—the correct pointing of the spacecraft.[74] The engines use hydrazine fuel (159 liters or 42 U.S. gallons at launch) and dinitrogen tetroxide as oxidizer (79.5 litres or 21.0 US gallons at launch).[75]"
+"It was designed to carry enough fuel for ten years,[172] but the precision of the Ariane 5 launch and the first midcourse correction were credited with saving enough onboard fuel, that the observatory should be able to maintain its orbit for "significantly more" than this."
+But it doesn't say how much of this fuel was expected to remain after L2 orbital insertion assuming the expected less than perfect Arianne5 launch which was planned for; lets call this number e for expected fuel and lets call the number a for actual remaining fuel with the much better launch than expected. And it doesn't say much fuel is expected to be used annually for JWST orbital maintenance and momentum dumping; call this number y for expected yearly orbital maintenance. These numbers could be used to compute how many years the more efficient Arianne 5 launch increased the JWST lifetime. $$\text{years_gained} \approx \frac{a-e}{y}$$
+I think I've read that the expected planned mission of 10 years was gated by the annual orbital maintenance which would imply:
+$$\text{planned_lifetime} \approx \frac{e}{y}\approx 10\;\text{years}$$
+The actual fuel limited lifetime would be:
+$$\text{actual_limited_lifetime} \approx \frac{a}{y}\;\text{years}$$
+https://arstechnica.com/science/2022/01/all-hail-the-ariane-5-rocket-which-doubled-the-webb-telescopes-lifetime/
+Mike Menzel, said the agency had completed its analysis of how much "extra" fuel remained on board the telescope. Roughly speaking, Menzel said, Webb has enough propellant on board for 20 years of life.

@@ -1,0 +1,8 @@
+How to estimate perturbations from other planets in Apsidal Precession
+I am developing a fictional system which I want to calculate to as much detail as I can. Thus I have a question about astrophysics and astrophysical formulae.
+I know that Apsidal Precession is effected by Relativity, Tides, Quadrupole, and perturbations from other planets. Which, when added together, gets the total apsidal precession per unit time.
+My question here is, how would you find how much other planets perturb the apses of a moon around a planet.
+I have the masses and semi-major axis and eccentricity and polar-equatorial radii difference, and inclination to the ecliptic for each planet in the system.
+How, from this, can I find the Apsidal perturbation in degrees per year, if I can't from this information, what other information do I need about the system.
+Your help would be much appreciated. Please and thank you.
+PS: if it makes you feel more comfortable, you can explain the physics in terms of calculating it for Earth, as long as you still give the formulae for finding that value.

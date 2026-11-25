@@ -1,0 +1,34 @@
+GMAT edit object fields in Mission Sequence
+I am trying to change the ISP of an Impulsive Burn during the Mission Sequence.
+But why so ever, GMAT does not allow me to do so? I looked at the source code as well, and I do not see any indicators (e.g. private of this Field, etc.).
+Does anyone have a clue?
+%----------------------------------------
+%---------- Burns
+%----------------------------------------
+Create ImpulsiveBurn IMP_reboost_burn_PROP;
+GMAT IMP_reboost_burn_PROP.CoordinateSystem = Local;
+GMAT IMP_reboost_burn_PROP.Origin = Earth;
+GMAT IMP_reboost_burn_PROP.Axes = VNB;
+GMAT IMP_reboost_burn_PROP.Element1 = 0;
+GMAT IMP_reboost_burn_PROP.Element2 = 0;
+GMAT IMP_reboost_burn_PROP.Element3 = 0;
+GMAT IMP_reboost_burn_PROP.DecrementMass = true;
+GMAT IMP_reboost_burn_PROP.Tank = {Starlab_fuel_tank_PROP};
+GMAT IMP_reboost_burn_PROP.Isp = 100;
+GMAT IMP_reboost_burn_PROP.GravitationalAccel = 9.81;
+....
+....
+....
+%----------------------------------------
+%---------- Mission Sequence
+%----------------------------------------
+BeginMissionSequence;
+...
+GMAT IMP_reboost_burn_PROP.Isp = 100;
+Error message is, when I try to save the script:
+Interpreting scripts from the file.
+***** file: .... **** ERROR **** GmatBase Exception Thrown: The Moderator cannot create a Parameter type "Isp" named "IMP_reboost_burn_PROP.Isp"
+in the line:
+" 355: GMAT IMP_reboost_burn_PROP.Isp = 100;"
+I do this with all other kinds of parameters, but the Isp of the burn does not work. Or am I just very stupid here?
+Cheers, Alex

@@ -1,0 +1,11 @@
+Why are the solar prominences visible during a total solar eclipse - orange? Is the sun orange?
+This question is really about the color of the sun. But NOT about its color at sunrise or sunset.
+When I search for the color of the sun, I find dozens of articles, including many on SE, stating that the color of the sun is white (and it's just getting a little yellowish because of Rayleigh scattering). That matches our everyday experience, where we see the sun as a slightly yellowish white (except for at sunrise/sunset, which is out of the scope of this question).
+But in most pictures of the sun from NASA and the like, the color of the sun is orange.
+So I thought that maybe is the orange color on those pictures just an artistic effect, and not representing reality (but why are they doing it?). This article of the Washington Post also says something like that:
+A picture of the sun taken in visible light was processed to make it appear orange
+But when I saw the total solar eclipse last Monday (4/8/2024), I saw the solar prominence having an orange color (however, the pictures on the web are showing it as being pink). And according to the pictures from NASA it looks like a solar prominence has the same color as the sun has. Also, even Baily's Beads which are really part of the sun, have an orange color.
+Also, there are some articles claiming that the sun is really green, like the one previously cited from the Washington Post which says:
+“The sun would appear green if your eye could handle looking at it,” said W. Dean Pesnell, project scientist of NASA’s Solar Dynamics Observatory.
+But some strongly disagree, see https://bigthink.com/starts-with-a-bang/what-color-is-the-sun/. So my question is mainly whether it's white or orange.
+So what color is the sun really? (Again, ignoring sunrise/sunset) And how does everything I mentioned fall in place?

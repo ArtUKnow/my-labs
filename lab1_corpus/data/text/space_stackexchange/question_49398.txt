@@ -1,0 +1,2 @@
+How many sun sensors are required to find a cubesat's orientation
+I have read how a sun sensor can help find the orientation of a spacecraft, but I wasn’t sure how many are required, e.g. if one is needed on each face of the Cubesat. (Any additional information is much appreciated.)

@@ -1,0 +1,16 @@
+How many Earth meteorites have been intentionally returned to space?
+Wikipedia's meteorite defines one as
+...a rock that originated in outer space and has fallen to the surface of a planet or moon.
+I know of two meteorites recovered from Earth's surface for which at least bits have been returned to space.
+The first is the Zagami meteorite believed to have originated from Mars, landed near Zagami, Nigeria, and is now back in orbit around Mars:
+Why does the Mars Global Surveyor carry a bit of the Zagami meteorite?
+The second I just learned about today. From Space.com's June 6, 2025 Why does NASA's Perseverance rover keep taking pictures of this maze on Mars?. Various material samples and targets...
+...are mounted on a plate attached to the front of the rover's body: the SHERLOC Calibration Target.
+"The calibration targets serve multiple purposes, which primarily include refining the SHERLOC wavelength calibration, calibrating the SHERLOC laser scanner mirror, and monitoring the focus and state of health of the laser," Kyle Uckert, deputy principal investigator for SHERLOC at NASA's Jet Propulsion Laboratory, tells Space.com
+The target is arranged in two rows, each populated with small patches of carefully selected materials.
+The top row includes three critical calibration materials: aluminum gallium nitride (AlGaN) on sapphire discs; the UV-scattering material Diffusil; and Martian meteorite SaU008, whose mineral makeup is already known and helps align wavelength calibration with real Martian geology.
+Question: How many Earth meteorites (bits, at least) have been intentionally returned to space? Are these the only two examples?
+More about SaU008:
+JPL News, Feb 13, 2018 A Piece of Mars is Going Home
+Meteorite Times Magazine, July 1, 2016 SaU 008 Martian shergottite
+PIA24261: SHERLOC's Calibration Target Aboard the Perseverance Mars Rover

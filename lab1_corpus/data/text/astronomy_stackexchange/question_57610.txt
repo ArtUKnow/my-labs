@@ -1,0 +1,7 @@
+Why are there red- and blue-shifted radio lobes on either side of the core for collimated bipolar outflows?
+This is a velocity integrated picture of a molecular cloud, part of my homework. https://paste.c-net.org/AthenaMeasly
+Question:
+For collimated bipolar outflows, the general situation is that the red-shifted and blue-shifted radio lobes are symmetrically distributed on both sides of the central object. However, in this case, the central cloud core has red and blue radio lobes seen on both sides of the star at the same time. Please qualitatively explain the most likely cause and draw a diagram.
+I have no idea for this.
+I can think of a bipolar outflow rotating along an axis different from the self-rotating axis, like a pulsar. And this look like this:
+But this image has 2 blueshift lobes out of 2 redshift lobes.

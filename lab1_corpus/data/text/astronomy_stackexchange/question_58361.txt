@@ -1,0 +1,2 @@
+Can astronomical objects repel other bodies if they have a sufficiently strong magnetic field?
+I was wondering whether an astronomical object (a planet, a star, a neutron star, a magnetar...) with a sufficiently strong magnetic field could repel another object (like a planet, an asteroid...), or at least maintain it in a safe zone avoiding a collision, provided that it had a powerful enough magnetic field. Is this possible?

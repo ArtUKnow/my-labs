@@ -1,0 +1,7 @@
+With our current technology, how large could we make a useable space-based VLBI telescope?
+I am trying to find an equation that models the current technical limits that we have on creating an effective space-based VLBI telescope.
+Variables that are likely relevant in the model: distance of interferometry collectors, distance of observed object, recorded wavelengths of observed object, photon intensity of observed object, resolution of observed object, recording rate of observations, transmission rate of data, phase matching of data from interferometry collectors, and precision of station-keeping of interferometry collectors.
+Based upon what I've read, the last four variables seem to be the greatest challenges to our existing technology in making a space-based VLBI feasible.
+What other variables, confounds would need to be included in such a model?
+And if there is an existing source that already has this model, I'd welcome being pointed towards it.
+Thank you for your time!

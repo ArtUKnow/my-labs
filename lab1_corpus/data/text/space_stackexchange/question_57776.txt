@@ -1,0 +1,5 @@
+Cost breakdown of launch companies
+One thing which I recently heard Peter Beck say in an interview with Tim Dodd was that the cost of running a launch company isn't primarily driven by the rocket itself, but the operations required to run it.
+I've tried researching what these costs are, and the closest thing I could find is ULA's chart, but that only breaks down the BOM-related costs.
+Ideally, I'd love to hear from those who work/have worked at launch companies and are in a position to give that info publicly. I want to understand what the costs related to launch operations are and why they are the figure they are.
+Thanks!

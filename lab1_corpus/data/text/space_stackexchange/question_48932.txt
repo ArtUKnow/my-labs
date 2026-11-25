@@ -1,0 +1,5 @@
+GMAT - Locating inter-spacecraft contact instead of spacecraft to ground station
+GMAT implements two "event locators" that find eclipse times and line of sight intervals. However, this only lets you analyse data between a ground station and a spacecraft.
+Is there a way of identifying a line of sight contact between two spacecraft?
+Given all the position data of the spacecraft and related celestial objects, how could one go on estimating these times using some external tool? (Python perhaps?)
+My specific scenario is a satellite in orbit around the moon, communicating with a satellite orbiting the earth at an arbitrary large (supra-GEO) orbit.

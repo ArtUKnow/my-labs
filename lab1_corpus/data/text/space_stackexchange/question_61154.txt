@@ -1,0 +1,3 @@
+How can I find Inclination and Longitude of ascending node for the Moon on JPL's Horizons?
+To answer the bountied question "Puzzler: Precisely what maximum distance from the Earth did the Apollo 13 astronauts achieve? ", I have to know the Inclination and the Longitude of ascending node for the Moon on April 15, 1970 at the time the Apollo 13 crew flew behind it, but on JPL Horizons it seems I'm only able to find Right ascension and Declination.
+Or are there table settings with which it is still possible to find them ?

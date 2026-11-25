@@ -1,0 +1,7 @@
+Why do New Shepard's drogue chutes just "hang there" for ten seconds before deploying the main parachutes? What happens during that time?
+The cropped and sharpened screenshots below are from the Blue Origin video Replay: New Shepard Mission NS-19 Webcast after about 02:03:16 (T+08:07) and show a subset of all the things that happen when the New Shepard capsule deploys its parachutes.
+The drogue chutes appear at about T+08:16 when a very bright flash indicates some pyrotechnic event. They quickly deploy but then they remain that way for about ten seconds before they are allowed to pull the main parachute system out of the capsule between T+08:28 and T+08:30.
+Each main parachute merges from a large yellow container, and the lengths of its lines emerge from a smaller white container several meters above the capsule.
+It's quite beautiful to watch!
+Question: Why do New Shepard's drogue chutes just "hang there" for ten seconds before deploying the main parachutes? What (if anything) is happening during that time?
+For example, are there things being monitored and decisions to be made? Or is that just a fixed delay giving them ample time to unfurl and separate?

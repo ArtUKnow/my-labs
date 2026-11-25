@@ -1,0 +1,7 @@
+JWST - pick-off mirrors?
+In the documentation that I’ve been looking through recently, I occasionally come across references and diagrams to “pick-off” mirrors. For example, from this JWST user documentation article, there is this diagram:
+I haven’t found very much specific documentation about these mirrors, so I thought I’d ask:
+What are pick-off mirrors, and what are they used for?
+How many are on the JWST?
+How big are they?
+Are their positions and orientations adjustable or fixed?

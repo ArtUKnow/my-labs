@@ -1,0 +1,7 @@
+Differences between ballistic models on Drama/MIDAS
+I am a student who is evaluating the impact of micro meteoroids on satellite external tubes using MIDAS tool on DRAMA by ESA. I want to verify how the probability of no penetration changes by adding an MLI.
+However, up to this point I have used a simplified single-wall model by entering the thickness and density of the tubes as input to the model. I would like to check how much the probability of no penetration increases by adding a MLI, but I only know the thickness.
+In the more advanced models of MIDAS (e.g. SRL Original) there is a parameter that could be my case: "equivalent MLI thickness". I tried to simulate with SRL Original the same set up (without MLI) of the single wall model, only entering thickness and density of the tubes in the editable parameters. The other parameters (inner and outer boumper thickness, spacing, etc.) are set to 0.
+Obviously the single wall model is more conservative than the triple wall model of the SRL, therefore I expected differences but not so high: from 95% probability of no penetration I went to 99.6%.
+Does it make sense what I did? Is it a reliable result? If not, what do you recommend?
+Tanks in advance!

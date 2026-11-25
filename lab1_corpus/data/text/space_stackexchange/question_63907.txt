@@ -1,0 +1,3 @@
+Is there a labelled equivalent of the NASA 4K moon texture files?
+Does anyone know whether a labelled version of the NASA 4k moon texture files exists with the same projection?
+I would like to be able to overlay and switch between the photographic versions, and a labelled version showing large crater names, mares, etc, so that it is easy to orient and see what I'm looking at.

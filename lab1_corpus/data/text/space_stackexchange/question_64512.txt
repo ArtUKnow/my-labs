@@ -1,0 +1,140 @@
+Converting Keplerian Orbital Elements into 2D State Vectors in Unity C#
+I have done an extensive amount of research into this topic, but am really struggling to implement the math necessary to pull this off correctly.
+Just for some context: I'm trying to create a semi-realistic 2D simulation of Keplerian orbits in Unity. To achieve this, I have two functions which are able to convert the position and velocity of an object into the necessary orbital elements, and then convert back into position and velocity for a given time around that orbit.
+This works perfectly while the orbit is elliptical, but as soon as the eccentricity goes above 1 it all breaks. I've tried a few solutions suggested here and by chatGPT, but no amount of tweaking gets the result I'm looking for. I plan on capping the sphere of influence of each celestial object as a function of its gravitational parameter, so I'm not looking to simulate the entirety of a hyperbolic/parabolic orbit. I only want this feature so I can relatively accurately reproduce complex gravitational manoeuvres like slingshots and orbital captures.
+Also, I'm well aware that the specific reason behind the errors is that I'm trying to feed invalid Vector2 coordinates into the Line Renderer. My issue is the fact that those values are invalid in the first place, my code (in an ideal world) should be able to handle hyperbolic orbits and output a valid Vector2 position at a given time.
+Here is my code so far as well as some screenshots:
+public class Orbit
+{
+public info primaryBody;
+public float semiMajorAxis;
+public float semiMinorAxis;
+public float eccentricity;
+public float longitudePeriapsis;
+public float period;
+public float trueAnomaly;
+public void UpdateElements(Vector2 position, Vector2 velocity)
+{
+position = (Vector3)position - primaryBody.transform.position;
+velocity = velocity - primaryBody.rb.velocity;
+float r = position.magnitude;
+float v = velocity.magnitude;
+float mu = Universe.gravitationalConstant * primaryBody.mass;
+float specificEnergy = (v * v) / 2 - mu / r;
+semiMajorAxis = -mu / (2 * specificEnergy);
+semiMinorAxis = semiMajorAxis * Mathf.Sqrt(1 - eccentricity * eccentricity);
+float angularMomentum = r * v;
+eccentricity = Mathf.Sqrt(1 + (2 * specificEnergy * angularMomentum * angularMomentum) / (Mathf.Pow(mu, 2)));
+float dot = Vector2.Dot(position, velocity);
+float cosNu = dot / (r * v);
+float sinNu = Mathf.Sqrt(1 - cosNu * cosNu);
+trueAnomaly = Mathf.Atan2(sinNu, cosNu);
+if (dot < 0)
+{
+if (trueAnomaly >= 0) trueAnomaly -= Mathf.PI;
+else trueAnomaly += Mathf.PI;
+}
+trueAnomaly *= Mathf.Rad2Deg;
+Vector2 eccentricityVector = ((r * v * v - mu) / mu) * position.normalized;
+float w = Mathf.Atan2(eccentricityVector.y, eccentricityVector.x);
+longitudePeriapsis = Mathf.Rad2Deg * w;
+float periodSquared = (4 * Mathf.PI * Mathf.PI * Mathf.Pow(semiMajorAxis, 3)) / mu;
+period = Mathf.Sqrt(periodSquared);
+}
+public Vector2 CalculatePositionOnOrbit(float t)
+{
+float a = semiMajorAxis;
+float e = eccentricity;
+float w = longitudePeriapsis;
+float mA = 2 * Mathf.PI * t; // Calculate the mean anomaly at time t.
+//Newton-Raphson method as no direct solution
+float E = mA; //Eccentric anomaly
+float prevE;
+float i = 0;
+do
+{
+prevE = E;
+E = mA + e * Mathf.Sin(prevE);
+i += 1;
+}
+while (Mathf.Abs(E - prevE) > 1e-6f && i < 100);
+float r = a * (1 - e * Mathf.Cos(E)); //distance to the primary body
+float nu = 2 * Mathf.Atan2(Mathf.Sqrt((1 + e) / (1 - e)) * Mathf.Sin(E / 2), Mathf.Cos(E / 2)); //True anomaly
+float theta = nu + Mathf.Deg2Rad * w;
+float x = r * Mathf.Cos(theta);
+float y = r * Mathf.Sin(theta);
+return new Vector2(x, y) + (Vector2)primaryBody.transform.position; ;
+}
+}
+EDIT:
+I've since made some changes to the code which I believe to be correct, but the function still doesn't output what is expected. To improve readability, I've copied over a lot of the logic from the elliptical case to the hyperbolic case.
+In addition, I've also added the parameter "meanMotion" to the overall class which allows me to adjust the orbit in time increments of seconds, rather than an arbitrary value between 0 and 1. As such, the value "t" now refers to seconds since epoch.
+I am unsure about what to try next as I was pretty confident this would work.
+public void UpdateElements(Vector2 position, Vector2 velocity)
+{
+position = (Vector3)position - primaryBody.transform.position;
+velocity = velocity - primaryBody.rb.velocity;
+float r = position.magnitude;
+float v = velocity.magnitude;
+float mu = Universe.gravitationalConstant * primaryBody.mass;
+float specificEnergy = (v * v) / 2 - mu / r;
+semiMajorAxis = -mu / (2 * specificEnergy);
+semiMinorAxis = semiMajorAxis * Mathf.Sqrt(1 - eccentricity * eccentricity);
+float angularMomentum = r * v;
+eccentricity = Mathf.Sqrt(1 + (2 * specificEnergy * angularMomentum * angularMomentum) / (Mathf.Pow(mu, 2)));
+Vector2 eccentricityVector = ((r * v * v - mu) / mu) * position.normalized;
+float w = Mathf.Atan2(eccentricityVector.y, eccentricityVector.x);
+longitudePeriapsis = Mathf.Rad2Deg * w;
+period = Mathf.PI * 2 * Mathf.Sqrt(Mathf.Pow(semiMajorAxis, 3) / mu);
+meanMotion = Mathf.Sqrt(mu / Mathf.Pow(Mathf.Abs(semiMajorAxis), 3));
+}
+public Vector2 CalculatePositionOnOrbit(float t)
+{
+float a = semiMajorAxis;
+float e = eccentricity;
+float w = longitudePeriapsis;
+float mA = meanMotion * t;
+if (e == 1) e += Mathf.Epsilon;
+if (e < 1)
+{
+//Newton-Raphson method as no direct solution
+float E = mA; //Eccentric anomaly
+float prevE;
+float i = 0;
+do
+{
+prevE = E;
+E = mA + e * Mathf.Sin(prevE);
+i += 1;
+}
+while (Mathf.Abs(E - prevE) > 1e-6f && i < 100);
+float r = a * (1 - e * Mathf.Cos(E)); //distance to the primary body
+float nu = 2 * Mathf.Atan2(Mathf.Sqrt((1 + e) / (1 - e)) * Mathf.Sin(E / 2), Mathf.Cos(E / 2)); //True anomaly in radians
+float theta = nu + Mathf.Deg2Rad * w;
+float x = r * Mathf.Cos(theta);
+float y = r * Mathf.Sin(theta);
+return new Vector2(x, y) + (Vector2)primaryBody.transform.position;
+}
+else
+{
+//Newton-Raphson method as no direct solution
+float E = mA; //Eccentric anomaly
+float prevE;
+float i = 0;
+do
+{
+prevE = E;
+E = mA + e * Mathf.Sin(prevE);
+i += 1;
+}
+while (Mathf.Abs(E - prevE) > 1e-6f && i < 100);
+float H = e * math.sinh(E) - E;
+float r = (a * (1 - e * e)) / (1 + e * Mathf.Cos(H)); //distance to the primary body
+float nu = 2 * Mathf.Atan2(Mathf.Sqrt(e + 1) * math.sinh(H / 2), Mathf.Sqrt(e - 1) * math.cosh(H / 2)); //True anomaly in radians
+float theta = nu + Mathf.Deg2Rad * w;
+float x = r * math.cosh(theta);
+float y = r * math.sinh(theta);
+return new Vector2(x, y) + (Vector2)primaryBody.transform.position;
+}
+}
+```

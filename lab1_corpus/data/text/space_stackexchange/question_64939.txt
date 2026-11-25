@@ -1,0 +1,9 @@
+How are parachutes attached to capsule spacecraft?
+Spacecraft capsules (Apollo, Orion, Dragon, Starliner, Soyuz, etc) use an arrangement of pilot, drogue, and main parachutes to land. I'm looking for details regarding how and where these parachutes (particularly the mains) are actually secured to the structure.
+On Apollo, I know these were routed through the "flowerpot parachute attachment", which is essentially a manifold for all the cable strands and cutters. Within this, however, how are the individual cables retained? Was this the sole attachment point? How was the flowerpot fitting secured to the primary structure? Is this method still used on modern craft?
+Starliner uses the bucket handle, I haven't seen any info on Orion's attachment, and Dragon is pretty unique coming from the side but also haven't found details on actual attachment.
+Any info is much appreciated. Thanks!
+Constellation Orion CEV Parachute Assembly System (NASA, via NSF)
+Apollo parachute attachment and disconnect fitting
+(NASA Apollo experience report: Earth landing system)
+Boeing Starliner Bucket Handle, February 2019 drop test (NASA)

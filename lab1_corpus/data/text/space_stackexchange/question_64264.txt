@@ -1,0 +1,4 @@
+How likely is it that the Voyager spacecrafts haven't yet been damaged by micrometeoroids?
+Both Voyagers have been traveling at over $60,000$ km/h for well over four decades and still seem to function properly, taking into account the slowly dropping power and warmth available from their radioisotope generators.
+In terms of volume, they've basically traversed a cylinder of length $23.3\times10^9$ km and diameter of order $\mathcal{O}(1)$ m. At those speeds even a few grains of sand could potentially cause massive damage, let alone after over 45 years of flight.
+Is space really that empty?

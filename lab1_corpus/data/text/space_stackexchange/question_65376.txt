@@ -1,0 +1,3 @@
+Simulation satellite channel in Matlab
+Where can I find values for delays and pdp to simulate the satellite-ground channel?
+PS 3GPP TS 36.116 document contains multi-path delay profiles used for the performance measurements in a multipath fading environment. Is there a similar profile for satellite channels?

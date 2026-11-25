@@ -1,0 +1,5 @@
+Does the distance to L2 vary?
+Discussion of Lagrange point L2 and the JWST seem to be dropping out of the news cycle, so I thought I should ask this question while the topic is still warm.
+The distance of L2 for the sun/earth two body system depends on the distance between the sun and the earth (and the masses of these two bodies). Typical popular accounts of this L2 point place it at approximately 1.5 million kilometers from earth.
+However, because the earth’s orbit around the sun is elliptical (not circular), it occurs to me that the distance from the earth to this L2 would be closer to the earth at perihelion, and further at aphelion.
+Is that correct? If so, what is the range of distances of L2 from the earth, over the course of an earth year?

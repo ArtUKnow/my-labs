@@ -1,0 +1,5 @@
+What are the open source geometric drawing software available for simple effective visualisation of earth sub tended angle, earth's curvature,etc?
+Kindly suggest open source software for generating geometrical visualisation as depicted in the 3rd answer provided in the link
+Help computing solid angle subtended by the Earth as seen from LEO
+and 2nd answer in
+Earth angular size looking from the ISS

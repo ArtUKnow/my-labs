@@ -1,0 +1,10 @@
+Why is the eccentricity vector used to describe near-circular orbits?
+When dealing with near-circular orbits I've seen the usage of the eccentricity vector defined as
+$$(e_x,e_y) = (e\cos\omega, e\sin\omega)$$
+I've seen this in Schaubs' "Analytical mechanics of space systems", where he says:
+To avoid some numerical difficulties for near-circular orbits
+Or in this paper: E/I-vector separation for safe switching of the GRACE formation
+[...]the Keplerian elements $e$ and $\omega$ are commonly replaced by the eccentricity vector. It is free from singularities and well suited for the study of orbital perturbations
+I think I understand where the singularity comes from: the argument of periapsis is calculated as $\cos\omega=\hat n\cdot \hat e$, where $\hat n$ is the line of nodes' versor and $\hat e =\frac{\bf{e}}{|\bf{e}|}$ is the versor of the eccentricity vector.
+What I don't understand is how this singularity is avoided for $e\rightarrow 0$ by defining $(e_x,e_y)$, which is still a function of $\omega$ thus still affected by the singularity.
+Sorry for bad wording or formatting, I'm new on this platform, I can edit the question

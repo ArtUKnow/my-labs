@@ -1,0 +1,21 @@
+Semi-Cryogenic HTP/LH2 engine?
+Also see HTP as oxidizer for main propulsion
+(for more info on history of H2O2/HTP in rocketry)
+Note: HTP and H2O2 will be used interchangeably
+I know the Black Arrow LV (The first orbital lipstick) used H2O2 and catalysed it's decomposition for make O2 gas to react with the fuel, but the fuel itself wasn't the greatest.
+My idea is as follows:
+A non-cryogenic HTP(95%) and cryogenic LH2 mix.
+Reasoning:
+H2O2 has great bulk density, and isn't expensive, with the only real drawbacks being a lower ISP than LO2, and relative toxicity of the HTP itself.
+LH2 would raise the ISP to make it a more effective mix.
+Pro's:
+Less cryogenic tech, pumps for coolant, etc.
+Better overall bulk density.
+Products (H2O, H2, O2, H2O2, O3) are less toxic and more energetic than using most oxidisers with comparable performance.
+Con's:
+Probably wouldn't be used on ascent stage due to increased likelihood of explosive combustion and instability due to variance in temp during atmo-ascent.
+More toxic than LO2 and more dangerous to handle.
+My Question(s):
+Has an engine of this type ever been planned/fired/flown?
+Would such an engine be useful for any specific circumstances?
+Are any of the assumptions or assertions I have made incorrect?

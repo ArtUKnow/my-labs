@@ -1,0 +1,2 @@
+Equation of State of White Dwarfs and Mass-Radius Estimation in the Newtonian Limit
+White dwarfs are one of the densest form of matter following neutron star and black holes. A typical white dwarf is as massive as our sun has radius comparable to the earth. This paper reviewed the Fermi gas model Equation of State of white dwarfs and numerical computation of mass-radius and pressure density profile. A section in brief has been included for the calculation of average speed of electrons in the white dwarf environment.

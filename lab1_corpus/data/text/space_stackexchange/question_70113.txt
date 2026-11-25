@@ -1,0 +1,2 @@
+Is MLI Becoming Less Relevant in Modern Spacecraft, Especially in NewSpace LEO Missions?
+I've been researching thermal-control approaches in the NewSpace sector and noticed a clear trend: many modern LEO spacecraft—especially CubeSats and SmallSats—are using little or no traditional Multi-Layer Insulation (MLI). This raises a broader question: is MLI genuinely becoming obsolete, or is this shift limited to certain mission classes? Do you think MLI will remain the default for most missions, be replaced by advanced coatings and Variable Emittance Materials?

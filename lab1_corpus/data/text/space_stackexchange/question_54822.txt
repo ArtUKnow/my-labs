@@ -1,0 +1,6 @@
+Analyzing Van Allen belt's radiation Dataset
+Is it possible for us to somehow get the dataset related to radiation of Van Allen Belt,
+so as to work upon it and analyze it using AI model.
+I'm looking for numerical data regarding level of radiation in the Van Allen belt or any other thing to work on it to find different parameters.
+What could be some sources?
+Thanks in advance for any help.

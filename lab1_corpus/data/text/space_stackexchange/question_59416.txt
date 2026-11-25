@@ -1,0 +1,4 @@
+Non-coplanar transfer in GMAT
+I am trying to use GMAT to do a non-coplanar transfer between 2 circular orbits.
+In which the first orbit would have a 0º inclination, and the final orbit would have a 28º inclination. And the objective for the transfer orbit would be for it to begin with a 0º inclination and end up with a 28º inclination, this is for it to change inclination during the orbit. Is this possible?
+Thanks in advance.

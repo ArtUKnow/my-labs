@@ -1,0 +1,9 @@
+How do you calculate fuel usage ratio for rocket acceleration vs deceleration using a fixed total amount of fuel?
+If a rocket is accelerating and then decelerating to stop at a destination (not necessarily continuous acceleration), and you want to use a given total amount of fuel, how do you calculate the amount of fuel to use on the acceleration burn vs the deceleration burn?
+I get how if I have a desired peak velocity I can work backwards from the destination using the Tsiolkovsky rocket equation and get the required fuel to complete the trip, but in my example I want to use all of the given fuel and derive the delta v. Since I'm applying the equation in two parts, that leaves both mass change and velocity change unknown, and I don't know how to deal with that.
+An example using this calculator
+If I have this rocket:
+specific impulse=300, dry mass=1000, fuel mass=100000
+and I use half the fuel (50,000 kg) on an acceleration burn I'll end up going 2010.25 m/s
+Because the fuel mass is reduced, I only need to use 25,247.5 kg of fuel slowing down, leaving me with unused fuel.
+There is a ratio of fuel usage on acceleration vs deceleration that will consume all of the given fuel, but I can't find or figure out how to calculate it, can someone help me out?

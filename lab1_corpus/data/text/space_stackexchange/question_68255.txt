@@ -1,0 +1,12 @@
+Is the large size of the antennae on Orion satellites primarily for signal strength or for angular resolution?
+Orion, also known as Mentor or Advanced Orion,1 is a class of United
+States spy satellites that collect signals intelligence (SIGINT) from
+space. Operated by the National Reconnaissance Office (NRO) and
+developed with input from the Central Intelligence Agency (CIA), eight
+have been launched
+https://en.wikipedia.org/wiki/Orion_(satellite)
+Each gravity gradient stabilized spacecraft was about 350 feet in
+diameter with the dish attached to gimbals for steering from the
+command, communication, control and intelligence, power bus.
+https://weebau.com/satellite/M/mentor.htm
+https://weebau.com/satpics/M/mentor.jpg

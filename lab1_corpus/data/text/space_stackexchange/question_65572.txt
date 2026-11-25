@@ -1,0 +1,9 @@
+GCRS and ICRS Frame in Optical Observations from near earth
+Lets say I am trying to observe the night sky. My telescope has a pointing direction. I want to compare the RADecs of each star with another. Now I have 4 cases.
+My telescope is on a satellite orbiting earth and I am trying to observe the sky. I define the pointing direction in ICRF. And compute the RADecs of the stars based on pointing direction RADecs in ICRF.
+My telescope is on a satellite orbiting earth and I am trying to observe the sky. I define the pointing direction in GCRF. And compute the RADecs of the stars based on pointing direction RADecs in GCRF.
+My telescope is on ground and I am trying to observe the sky. I define the pointing direction in ICRF. And compute the RADecs of the stars based on pointing direction RADecs in ICRF.
+My telescope is on ground and I am trying to observe the sky. I define the pointing direction in GCRF. And compute the RADecs of the stars based on pointing direction RADecs in GCRF.
+As I understand, in both scenarios (telescope on ground or orbit), I should get more accurate results when pointing is defined in GCRF frame as it takes care of the aberrations (added due to relativity theory).
+However, in a few examples I see observations for earth orbiting objects in RADecs in just ICRF. Which seems to defeat the purpose of having GCRF.
+If anyone has some clarity on the topic, please help me understand this. Thankyou.

@@ -1,0 +1,3 @@
+How does sgp4 predict inclination from Orbit Mean-Elements Message (OMM) data?
+maybe I am understanding something wrong here, but I wondered how SGP4 can make predictions on the inclination especially without knowing the rotational direction of an object. I can imagine position predictions given a position and the mean velocity, but how does one predict the change in inclination from one epoch to the next without further information? I am also aware of some implementation details in SPACETRACK REPORT NO. 3, but this does not help me really.
+Where am I wrong or how does this work?

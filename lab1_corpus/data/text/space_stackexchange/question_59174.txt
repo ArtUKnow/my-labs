@@ -1,0 +1,4 @@
+Which is the primary spacecraft in a conjunction?
+I ask the question in the title because I cannot find a clear answer.
+It seems that in collision avoidance, the primary spacecraft is always more accurately known then the secondary. But I think this is just a consequence of the fact that being the spacecraft a "primary" it is tracked more often, probably because is more important or more easily trackable.
+The point is, how to choose which is the primary for instance in the case of two similar objects such as, two starlink satellites.

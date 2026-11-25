@@ -1,0 +1,13 @@
+How do new spacecraft navigate around debris in space and what are other provisions to mitigate the risk of collision[s]
+Somewhat related to this How are meteoroids, asteroids and debris in space tracked?, this Space Debris? Gecko toes to the rescue? and this Reason for space debris clustering in LEO
+How do spacecraft navigate around debris in space (potentially small particles traveling at high speeds) now and how would they deal with all the debris when (if) Elon Musk enterprise[s] launches 1M+ satellites into the orbit high enough where the stuff does not get pulled into the atmosphere eventually?
+UPD20260918
+As of August 2020, the ISS has conducted 27 collision avoidance
+maneuvers since its initial launch in 1999 and is trending upwards
+with time. The class of debris most dangerous to the US Orbital
+Segment are those between 1-10 cm.[3] The population of debris in this
+size range is significant and difficult to track accurately with
+current methods, meriting further research.
+to quote the reading list suggested in the answers https://en.wikipedia.org/wiki/Whipple_shield
+I did not track down the wiki edit history to see when this comment was made and if any research happened on sub 10 centimeter debris since than.
+DoD SSN does not track objects smaller than softball in size due to the lack of computational power or detection mechanisms? With 128+ million items 1-10mm in size seems a lot even considering how much space there is in mid and high Earth orbits

@@ -1,0 +1,28 @@
+Why are my calculations for the Moon’s transit time allways incorrect?
+I am following the article stjarnhimlen's Computing the Moon's rise/set times tutorial to calculate the moonrise and moonset times.
+At first, I was trying to calculate the moon transit time, but there was always a difference of up to 40 minutes compared to my tests on MoonCalc site, and I don’t know the reason.
+Example of Moon Transit Calculation:
+Date: 2 October 2025 00:00 UTC+3
+My Result: 2 October 2025 19:21:10 UTC+3
+MoonCalc's Result: 2 October 2025 20:05:55 UTC+3
+Moon transit Equation:
+$$
+\text{GMST}_0 = L_{\odot} + 180^\circ
+$$
+$$
+\text{UTC}_{\text{Lunar Transit}} =
+\frac{\alpha_{\text{topo}} - \text{GMST}_0 - \lambda}{15}
+$$
+$$
+\text{UTC}_{\text{Lunar Transit}} =
+\left( \left( \text{UTC}_{\text{Lunar Transit}} \bmod 24 \right) + 24 \right) \bmod 24
+$$
+where:
+$$
+\begin{aligned}
+\text{GMST}_0 &: \text{ Greenwich mean sidereal time at 0h UT} \\
+L_{\odot} &: \text{ solar mean longitude (in degrees)} \\
+\alpha_{\text{topo}} &: \text{ topocentric right ascension (in degrees)} \\
+\lambda &: \text{ observer's geographic longitude (in degrees, east positive)}
+\end{aligned}
+$$

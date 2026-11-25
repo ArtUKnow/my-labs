@@ -1,0 +1,3 @@
+Could a tank of water under the launch pad be used instead of a flame trench?
+A flame trench is a massive expensive thing that needs constant repair. After each launch, concrete and steel suffer cracks, chips, melting etc., and require expensive, time consuming repair.
+Would it be feasible to instead use a huge pool of seawater? The idea is for it to hold enough that the water itself, and not the walls of the container absorb and carry away the energy of launch. It would be sized so that it would not be blown dry, there would always be water between the concrete and the rocket blast. Yes it would still be big and expensive to build, but the idea is to avoid the maintenance. After each launch, you simply open a valve and refill it.

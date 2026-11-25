@@ -1,0 +1,8 @@
+Why does the sunrise time at a particular location at a particular date change abruptly over the years?
+According to NOAA Solar Calculator, the sunrise times on 12th January at latitude 22.532853 and longitude 88.3740234 are as follows over the years. Can you please explain the sudden jumps? Thanks.
+1863 - 6:42
+1901 - 6:42
+1902 - 6:10
+1905 - 6:10
+1906 - 6:19
+2024 - 6:19

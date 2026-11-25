@@ -1,0 +1,4 @@
+Dinitrogen tetroxide decomposes to nitrogen dioxide at room temperature, but rockets that use it are usually said to use N₂O₄ and not NO₂ - why?
+To the best of my understanding, both dinitrogen tetroxide and nitrogen dioxide are usable and perform quite similarly as oxidizers, but rockets that use either are almost always said to use dinitrogen tetroxide specifically, even when they are stored above the temperature where the equilibrium between the two compounds would cause it to convert to NO2.
+Is "dinitrogen tetroxide" here just used as a shorthand for "either N2O4 or NO2, whatever it converts to at the storage temperature", or is there some trick (slightly cooling it down before launch?) used to ensure it's converted to N2O4?
+If it is N2O4 specifically, and it is deliberately prevented from decomposing to NO2, why is this done when the two seemingly perform so similarly?

@@ -1,0 +1,7 @@
+Will all orbits emitting gravitational waves inevitably coalesce?
+All orbits emit gravitational waves since there is an asymmetric distribution which makes the quadrupole momentum not invariant
+This means that over long time scales, orbiting bodies would emit gravitational waves and as a result, they would eventually coalesce. However, is this always the case? Or are there some orbital configurations where the members don't necessarily coalesce (without ejecting any member of the system)?
+Are any of these orbits examples of this?:
+https://commons.wikimedia.org/wiki/File:Three-body_Problem_Animation_with_COM.gif#mw-jump-to-license
+https://commons.wikimedia.org/wiki/File:Three_body_problem_figure-8_orbit_animation.gif#mw-jump-to-license
+https://commons.wikimedia.org/wiki/File:5_4_800_36_downscaled.gif#mw-jump-to-license

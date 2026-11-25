@@ -1,0 +1,6 @@
+If we pick any point on the moon (except possibly the poles), is the sun visible for 13.66 days, and then not visible for 13.66 days?
+The moon is tidally locked to the earth. The moon's orbital period is 27.32 days.
+Does that mean that if we pick any point on the moon (except possibly the poles), the sun should be visible for 13.66 days, and then not visible for 13.66 days?
+The reason I ask is because it would appear to present a huge problem for anyone setting up a permanent settlement on the moon.
+If they wanted to use solar power, they would apparently need to have a huge battery that could last through 2 weeks of darkness.
+Likewise growing crops in a greenhouse would face the same problem. I don't think most food crops do well with 2 weeks of continuous sun followed by 2 weeks of darkness. Although, there might be some algae or similar that would tolerate the intermittent light.

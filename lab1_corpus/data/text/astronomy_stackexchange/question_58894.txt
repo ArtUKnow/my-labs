@@ -1,0 +1,4 @@
+What are the relative distances between objects in the Oort cloud?
+Astronomy magazine (here) has stated the following:
+The Oort Cloud has many more objects than the main asteroid belt, some trillion objects larger than a kilometer, but it also occupies a much larger volume of space from 5,000 AU to beyond 20,000 to 50,000 AU from the Sun. Oort Cloud objects larger than 1 km have some 31 million miles (50 million km) between each other. This is about the distance between Earth and Mars at their closest approach.
+I assume that in its creationary phase the cloud contained objects smaller than 1km and that occasional collisions continue to produce smaller objects. Would it be a ridiculous approach to linearly scale down the separational distance by size, saying that (for example) objects of 1 m have 50 thousand km between them and objects of 1 mm have 1 thousand km between them?

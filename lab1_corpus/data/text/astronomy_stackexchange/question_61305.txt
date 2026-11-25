@@ -1,0 +1,5 @@
+How many degrees of the Earth's sky does the sun occupy?
+I'm not an expert, but the way I understand it, solar elevation angle is defined as an angle between two lines - one formed between the observer and the sun's center, the other between the observer and the point on the horizon directly below/above the sun.
+So, when the sun is setting, the solar elevation angle decreases and reaches zero when the visible center of the sun touches the horizon.
+What I'd like to know is, what is the angular difference between the bottom of the sun and the top of the sun? Or, in other words, what is the solar elevation angle when the sun "touches" the horizon, and the elevation angle at the moment when it fully disappears?
+(Please ignore the matter of atmospheric refraction for this question, I am aware of it and have the general idea of how it works. Answer as if the atmospheric refraction factor were zero.)

@@ -1,0 +1,3 @@
+Why do Atlas III and V use Russian RD-180 engines?
+The Atlas III and V first stages were powered by NPO Energomash RD-180 engines, unlike the previous Atlas II which was powered by Rocketdyne RS-56 engines.
+Why did Lockheed Martin switch to Russian engines? Were there technical advantages which outweighed the geopolitical challenges of relying on Russian space hardware? At the time of designing the Atlas III, were there “Made in America” candidates for the engines?

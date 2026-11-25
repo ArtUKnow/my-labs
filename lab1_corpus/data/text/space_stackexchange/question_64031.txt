@@ -1,0 +1,2 @@
+Would reaching an elliptical orbit with the same mean altitude as that of a circular orbit require the same amount of fuel?
+Would a rocket that wanted to reach an elliptical orbit with a perigee of 100 miles (160 km) and an apogee of 300 miles (480 km) burn the same amount of fuel as a rocket that wanted to attain a circular orbit at 200 miles (320 km) altitude?

@@ -1,0 +1,18 @@
+How exactly did Cassini provide rock-solid attitude control to enable high resolution low light imaging? (1.2 arcsec/pixel for narrow angle camera)
+The extremely cool NASA JPL video Triumph at Saturn (Part I) is really worth a watch and/or listen.
+At about 45:45 it discusses the period after SOI (Saturn Orbit Insertion, July 1, 2004, 02:48 UTC) when the first images started coming in of Saturn's rings. In a JPL press conference later the same day, Carolyn Porco, Cassini Imaging Team Lead says:
+I don't think you have to be a ring scientist to imagine what last night was for us. It was beyond description really. It was mind-blowing, it was every adjective you could think of.
+I'm surprised at how surprised I am at the beauty and the clarity of these images. They are shocking to me.
+This spacecraft allows us a very steady platform. This machine, you turn it, you point it, and it stays there. It's like a tripod in space.
+At 9 to 10 AU Saturn gets about 1% of the sunlight that cis-lunar space gets, so all else being equal photographic exposures need to be 100 times longer.
+Cassini's narrow angle camera has 12 micron pixels behind a 2 meter focal length f/10.5 reflector, so each pixel is only 1.2 arc seconds, and for extended objects in dim sunlight, f/10 is not a fast system.
+So I would venture a guess that exposure times were perhaps seconds long rather than milliseconds.
+Wikipedia's Cassini–Huygens says:
+Smaller monopropellant rockets provided attitude control.
+and notes that the spacecraft support the following acronyms:
+AACS: Attitude and Articulation Control Subsystem
+AFC: AACS Flight Computer
+ARWM: Articulated Reaction Wheel Mechanism
+And while I'm a strong advocate for articulated permanent magnet attitude control and momentum unloading in LEO for cubesats I haven't heard of articulated reaction wheels in deep space spacecraft before. But since I'm chronically uninformed that may be my fault.
+Question: How exactly did Cassini provide rock-solid attitude control to enable high resolution low light imaging? (1.2 arc seconds/pixel for narrow angle camera)
+I also wonder if Cassini ever had to slew; slowly rotate in a specific direction to de-blur an image of a moon during a close flyby.

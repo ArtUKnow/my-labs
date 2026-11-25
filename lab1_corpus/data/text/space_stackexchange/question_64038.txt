@@ -1,0 +1,2 @@
+How high was the Apollo after trans-lunar injection usually?
+Nowhere can I find info on how high the Apollo and the S-IVB stage were after engine cutoff following the successful TLI. The S-IVB/Apollo was in a parking orbit usually about 110 mi (180 km) above the Earth for one to two orbits until it fired the S-IVB again for TLI. With engine cutoff, how high did it get? Or how high above the Earth did the docking with the LM occur?

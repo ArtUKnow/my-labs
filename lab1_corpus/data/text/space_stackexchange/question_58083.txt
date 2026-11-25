@@ -1,0 +1,15 @@
+Why does Scott Manley say "the gravity of Europa is low enough that it's at the high end of what is possible in scuba with highly technical gear"?
+Scott Manley's January 30, 2022 video Deep Space Radiation, Black Holes And Other Questions - Episode 14 discusses radiation levels and human survivability on Jovian satellites, and after 05:14 says:
+...Callisto on the other hand, it seems to be much more manageable if you look at the numbers.
+So yeah, if you wanted to mount a mission to Callisto, it wouldn't be too hard, Callisto probably has a fair amount of water ice, and very likely has liquid water in places, just not as much as say Europa.
+Now of course if you want to avoid these radiation effects you can go under the surface and that really helps you a whole lot. It's not going to happen in Io because nobody likes swimming in molten lava.
+Europa; you could actually in theory go scuba diving underneath the ice, it's really really thick! But the atmosphere - sorry, the gravity of Europa is low enough that it's at the high end of what is possible in scuba with highly technical gear.
+Question: Why does Scott Manley say "the gravity of Europa is low enough that it's at the high end of what is possible in scuba with highly technical gear"?
+What is it that would be at the "high end" but possible due to gravity of Europa being "low enough"?
+Is gravity actually the problem, or is it something else that responds to gravity? Are there some depths where it would be more possible than others?
+related to Europa's subsurface water (and potentially contaminating it):
+Have there been any determinations of the water pressure in Europa's ocean just below the ice?
+Who decided that a <1 in 10,000 probability of contaminating the europan ocean by a viable Earth microorganism was legally and ethically sufficient?
+Is there any demonstrated or even proposed technology that can sterilize a spacecraft with 100% certainty and yet leave it electronically functional?
+A certain way to blow up Europa, what is wrong with this suggestion?
+above: Diagram of Europa's Ice surface and subsurface ocean, from the JPL News feature Scientists Find Evidence of 'Diving' Tectonic Plates on Europa.

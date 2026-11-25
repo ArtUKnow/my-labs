@@ -1,0 +1,10 @@
+Difference between 2 pumps on same shaft run by a turbo pump and 2 pumps run on separate turbopumps
+So i was trying to understand the working of the Full Flow Staged Combustion cycle(FFSC) and was comparing it to the Staged Combustion Cycle(SC) and Closed Combustion Cycle(CCC) a question came up in my mind.
+Lets assume 5 units of both propellants (dummy number) are combusted to turn each turbo pump in a FFSC cycle. So a total of 10 units propellant is spent on running the pumps.
+In SC , we would spend an extra 5 units propellant , that is the fuel to keep the pre-burner fuel rich.
+So my question is that because the SC has a common shaft for both the pumps , its 10 units of net propellant combusted in turning the turbines is distributed over 2 pumps.
+So does this mean that we draw double propellant than if we were on a single pump , or half?
+In relation with FFSC
+Is the 10 units of propellant spent in turning individual turbines ending up drawing more fuel in FFSC than the 10 units of propellant spend in SC?
+...
+Is this the reason why FFSC has more inherent Mass-flow than traditional SC ?

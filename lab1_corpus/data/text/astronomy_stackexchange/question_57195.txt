@@ -1,0 +1,6 @@
+Are the NASA Dial-A-Moon frames rendered as seen from the north and south poles?
+I would like to rotate the images to match the view from my window and to do this I need to know the location for which the original frames are rendered.
+The relevant description on the page https://svs.gsfc.nasa.gov/5187/ is:
+Celestial north is up in these images, corresponding to the view from the northern hemisphere. ... (There is also a south-up version of this page.)
+Does this mean that the frames are rendered as if they were seen from the North Pole and the South Pole respectively?
+Rotation angle can be calculated with Skyfield: https://rhodesmill.org/skyfield/examples.html#at-what-angle-in-the-sky-is-the-crescent-moon

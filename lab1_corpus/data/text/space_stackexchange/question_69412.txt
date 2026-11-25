@@ -1,0 +1,15 @@
+Optimal staging using Lagrange multiplier
+I am working on an exercise involving the computation of the optimal ΔV partitioning for a 3-stage launcher. The total ΔV and payload mass are given as inputs. The optimization requires selecting combinations of Liquid Rocket Engines (LREs) from a provided database. Each stage must satisfy a specified initial acceleration requirement, defined as $a_0/g_0$.
+The structural coefficient $K_s$ is defined as a function of the following parameters:
+$K_t$: mass tank coefficient (function of propellant mass),
+$MR$: mass ratio (initial/final),
+$a_0/g_0$: initial acceleration,
+$T/W$: thrust-to-engine-weight ratio.
+The expression for $K_s$ is:
+$$K_s = \frac{K_t(1 - MR) + \frac{a_0/g_0}{T/W}}{(1 + K_t)(1 - MR) + \frac{a_0/g_0}{T/W}}$$
+I already have an algorithm that computes the Lagrange multiplier iteratively to optimize the ΔV split. However, I’m unsure about the role of $K_s$ in the convergence process. Since $K_s$ is dynamically dependent on $MR$ and other variables that change during the iteration:
+My Question
+Does the iterative algorithm for the Lagrange multiplier converge simultaneously with the K_s values? Or is it necessary to implement a nested (double loop) approach, where:
+The inner loop computes the Lagrange multiplier assuming a fixed $K_s$,
+The outer loop updates $K_s$ based on the new values of $MR$, $a_0/g_0$, etc.,
+and this process is repeated until both the Lagrange multiplier and $K_s$ converge?

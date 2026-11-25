@@ -1,0 +1,10 @@
+What are some examples of stepping-stone applications that would be suitable for iteratively advancing mass driver technology?
+Since their inception, rockets have improved over many design iterations. Each iteration was funded because it unlocked some kind of new value, such gaining an advantage in a geopolitical conflict, launching a satellite into orbit, or landing astronauts on the moon. We didn't go straight from Chinese fireworks to the Apollo program, we got there through a series of "stepping stone" applications of rocket technology.
+If there were a similar set of stepping-stone applications for mass driver technology, then perhaps mass drivers could gradually become as sophisticated and mainstream as modern rockets.
+What are some examples of stepping-stone applications that might serve to spur along the development of mass driver technology?
+Note: Stepping-stone applications with these requirements are preferred:
+Suitable for almost any kind of payload, as opposed to only payloads that can withstand extremely high gee-forces,
+Cost-effective,
+Rapidly reusable.
+Applications that are less well known, than, for example, EMALS or railgun artillery are also preferred.
+Note: Stepping-stone applications that were attempted in the past, but did not work out for various interesting reasons, are very much "in-scope" for this question as we should attempt to learn from past experiences.

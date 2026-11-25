@@ -1,0 +1,2 @@
+What exactly is PDCSAP flux used in kepler missions?
+I am having trouble finding a good explanation for what PDCSAP flux is. One place it's mentioned is here. What exactly is PDCSAP flux is in relation to something like the apparent magnitude of a star?

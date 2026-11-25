@@ -1,0 +1,4 @@
+How detectable would Earth life or technology be with current methods, depending on cosmic distance?
+For the sake of this question, let's assume intelligent life exists elsewhere in the Universe, and let's also assume it has a similar level of science and technology to humanity at present. How far would that alien world have to be from Earth in order to detect anything about life or technology on our planet?
+Furthermore, how does the answer change as we vary the distance? E.g. with current methods, how much about Earth would be detectable from 10ly vs 100ly, 1000ly etc?
+EDIT: I realize similar questions have been asked before, but they are close to a decade old, and the answers point to research on detection capabilities that's sometimes even older. In the past few years, I've come across several news articles discussing research on bio- and technosignatures, so I was wondering if the answer to my question has now changed.

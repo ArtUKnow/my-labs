@@ -1,0 +1,2 @@
+how to estimate the fatigue life of a launch vehicle in conceptual or preliminary design?
+A launch vehicle undergoes vibrational loads during ascent (and descent for reusable ones), how can the fatigue life be estimated in conceptual or preliminary design? Is there any data or standards that specify the vibration levels?

@@ -1,0 +1,5 @@
+Did the dual booster landing timing change with USSF-44?
+Falcon Heavy, on its fourth flight, landed its two core boosters via RTLS at LZ-1 and LZ-2.
+Previous F-H launches the two cores have landed at LZ-1/2 within a second or two of each other. So much so, it looks great and co-ordinated.
+But a rough counting as they landed suggests that the boosters on USSF-44 landed closer to 5 seconds apart. This seems like a change from the past.
+Do we know if this was on purpose, and if so, to what end?

@@ -1,0 +1,10 @@
+Could fuel cells of the Space Shuttles have been restarted in the case of a total power failure?
+Reading the flight crew operating manual of the Space Shuttle I discovered that:
+The three fuel cells could have been stopped and restarted (unlike previous Apollo missions)
+The fuel cell start procedure required the turning on of heaters, pumps, and open (electrical?) valves for oxygen and hydrogen
+The orbiter had no batteries or other electrical sources (when not connected to the ground pad)
+The control logic of each fuel cell was powered by one of the ESS DC buses
+So, my question is: what happened if a total electrical failure occurred (let's say for simplicity that astronauts momentarily close all the fuel cells)? Could they have been restarted or would the spacecraft have been lost if no DC power was available?
+I found this sentence:
+The orbiter’s three FCs operate as independent electrical power sources, each supplying its own isolated, simultaneously operating DC bus.
+Does this mean that they could also start autonomously? If yes, how could the FC move the reactant valves without an external power source?

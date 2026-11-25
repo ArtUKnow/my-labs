@@ -1,0 +1,4 @@
+Did the Human Mission to Inner Space (HUMIS) experiment ever take place?
+The final report of the 2003 Caves of Mars Project, formally ''Human Utilization Of Subsurface Extraterrestrial Environments'' (PDF), talks a lot about the "Human Mission to Inner Space" (HUMIS) experiment. Basically, they were planning to build a simulated Martian habitat in a cave in New Mexico or Arizona in 2004-2005 and test out a whole series of technologies.
+However, I've been unable to find any results of the experiment, or even whether it took place in the end. The closest seems to be this paywalled paper that I'm unable to access, but reading between the lines it seems to be about the mouse experiments ("MOMIS"), not the planned human ones.
+Did the experiment ever take place? If it did not, why not, and why haven't we (as far as I can tell) tried again in the 18 years since?

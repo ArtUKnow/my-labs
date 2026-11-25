@@ -1,0 +1,8 @@
+Is it possible to make star occultation observatory?
+Generally, when one wants to track asteroid passing in front a star, you already know about the asteroid and you move to a predicted shadow path and record one star to catch it
+Is it practical to go the other way? Put a lot of cameras tracking a lot of stars - and wait for asteroid shadow to pass over this assembly?
+I assume you need to correlate star dimming from several locations to confirm shadow having width, passing observation area from one side to the other quite in a straight line and stuff... But it seems doable
+And yet I've never heard of anything like that.
+I seem to remember some paper existing about counting rogue planets in the galaxy passing in front of stars - but not asteroids from our Solar System
+So what's the problem? Are asteroid shadows too rare for stationary detector?
+Or does tracking a star dimming take considerable equipment per-star, so you can't track many for cheap?

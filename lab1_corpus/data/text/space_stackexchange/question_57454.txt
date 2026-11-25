@@ -1,0 +1,11 @@
+Help me understand these tweeted images of JWST moving through Orion!
+@nealmcb's answer to Which direction/constellation is the James Webb is headed towards is "Orion" and links to twitter via
+Update: See photo of JWST in Orion by @Skysurfer77x - amazing!
+I see two images there now
+https://twitter.com/Skysurfer77x/status/1475805919430815753/photo/1
+https://twitter.com/Skysurfer77x/status/1475946879456366594/photo/1
+The 2nd mentions 155 exposures of 5 seconds each, so I am wondering if these two images are just different stackings of the same data; the first to keep JWST fixed and the second to keep the stars fixed.
+Is that right?
+Does it mean that if I had some good processing I'd see 155 dots from JWST probably buried in the noise of the image?
+And does that mean that if I took the Fourier transform of the second image I'd see a distinct peak representing a fairly steady rate of progress of JWST over the (roughly, guessing) 20 minutes over which the sequence was recorded?
+And if I made a dot at the beginning (or end) of each trail in the first image, would those dots look like Orion?

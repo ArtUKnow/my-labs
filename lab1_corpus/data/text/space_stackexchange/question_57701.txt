@@ -1,0 +1,5 @@
+Why “super” for supersynchronous orbits? Why not “trans”?
+I was just getting used to “cis” and “trans” for orbits inside and outside the Lunar orbit. “Trans” is a Latin word root meaning “across, beyond, or through”(Meriam Webster).
+“Trans” seems like a better choice than “super” (also Latin) meaning “over, above” (Meriam Webster). The key here is whether the object crossed the defining line. Mars may be a “supralunar” body, but it is certainly not “translunar”. A journey to Mars is translunar, but not Mars itself.
+On the other hand, a satellite transferred to GSO may have used a “transynchronous” trajectory. But it was only supersynchronous for a short part of its journey.
+It’s hard enough to use “cis” and “trans” correctly here on Earth without causing confusion in the Heavens.

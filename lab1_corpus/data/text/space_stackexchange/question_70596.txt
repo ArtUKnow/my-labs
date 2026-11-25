@@ -1,0 +1,3 @@
+What is the difference between ROBOT and the DST?
+https://ntrs.nasa.gov/citations/20130012667
+ROBOT stands for robotics on board trainer. It is an on orbit version of the dynamic skills trainer. Is there any other difference between the two? Or is location the only difference?

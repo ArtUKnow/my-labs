@@ -1,0 +1,16 @@
+Potential Fusion Drive system calculation issue
+I will start off by saying that this is an entirely hypothetical drive system with plenty of handwaving and optimistic physics. My question I think is fairly simple and may just be something that needs clarification.
+This is a hypothetical fusion fuel in the far future, around 500 years into the future, where they use a fusion pellet for a torchdrive. The basic premise is that a powerful laser will shoot the pellet at a certain distance behind the ship, then magnetic fields created at the thruster will catch the useful energy and propel the ship forward while the rest will be waste heat energy.
+Fusion Fuel:
+Fusion fuel mass per pellet: 100g
+Fuel Stored Energy: 942.42 TJ/kg
+Net Pellet mass: 2,399.715g
+Fusion fuel Exhaust Velocity: 3,794,355 m/s
+Pellet Efficiency: 97.25% Thermal, 0.125% Neutrons, 2.625% X-Ray, etc Radiation
+Thruster
+Pulse rate of 14Hz
+200m detonation range
+Calculations and End Results
+Through various efficiencies the end result of the energy harnessed by the thruster (Thrust Power) is 1,026.49TW. But when I do the other calculations I get a Thrust Power of 241.83TW. That is using the Thrust at 127,471.96kN and an exhaust velocity of 3,794,355 m/s, and a mass flow rate (mDot) of 33.596kg/s. The Mass Flow Rate is obtained by 14Hz*2.399715kg.
+The main question I have is if my method for obtaining the Mass Flow Rate is correct, or if I need to account for some other things in the mass flow rate since the engine harnessed charge particles and the explosion of the fusion rather than the propellent/fuel sent out the back of the thruster? When I do a calculation based off the Thrust Power attained by the fusion pellet, I get a much higher mDot value.
+As a note, I am open to any criticism for the propulsion system as the more I know the better I can make it and perhaps the more realistic the story will be.

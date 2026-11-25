@@ -1,0 +1,4 @@
+What were the Shuttle TPS repair patches made of?
+Following the incident on STS-107, three methods of dealing with damaged tiles were developed.
+The method for large tile damage involved screwing a very thin plate over the hole, after loosely filling the gap with cotton balls.
+What was the plate made of and how did its physical properties compare to the tiles?

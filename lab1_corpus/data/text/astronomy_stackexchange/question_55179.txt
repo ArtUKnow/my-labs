@@ -1,0 +1,2 @@
+In what circumstances is the Poynting Robertson Effect important?
+In the Poynting Robertson effect, it says in general, the Poynting Robertson effect is caused by the fact that objects like dust re-emit the light they absorb. Is that correct? Is this effect weak? Where does it apply and where it does not?

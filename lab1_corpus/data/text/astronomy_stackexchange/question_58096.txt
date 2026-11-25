@@ -1,0 +1,7 @@
+How to count observable number of galaxies at a given latitude considering interstellar extinction?
+If galaxies are uniformly distributed in space, then in the absence of extinction, the number of galaxies per square degree brighter than magnitude m is given by $$\log_{N_0}(m) = 0.6m + C$$
+How will the formula look like if extinction in the interstellar medium is counted? I know that a galaxy situated at galactic latitide b with apparent magnitude x (without extinction) will have the apparent magnitude due to extinction: $$m(b) = x + \frac{\Delta m}{\sin(b)}$$
+where Delta m= extinction in direction of galactic pole.
+It makes sense to me that substituting m(b) in the first expression will give me the observable number of galaxies at galactic latitude b. But in the textbook I am using (Fundamental Astronomy), a different expression is given-
+$$\log N(m, b) = \log N_0 (m - \Delta m(b))$$
+which makes no sense to me. Could anyone provide me with the correct formula?

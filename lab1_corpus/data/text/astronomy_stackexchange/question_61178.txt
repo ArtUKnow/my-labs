@@ -1,0 +1,6 @@
+Must all matter and radiation that enters a black hole do so via an inspiral or can it plunge right in?
+There seems to be indirect evidence that it must enter via an inspiral.
+The very existence of accretion discs suggests that a large amount of matter enters a black hole via an inspiral.
+Photons can orbit a black hole. Whether it is at the photon sphere or the event horizon I don't think matters for this question. At least the photons in orbit must enter via an inspiral.
+Of the 90 or so colliding black holes identified by the LIGO gravitational wave detector, all have been identified as 'chirps'. This is the gravitational wave signal of an inspiral collision. No direct hits have been observed.
+I realise this is all indirect evidence. Is there a more definitive answer? Have objects falling directly in to a black hole ever been observed?

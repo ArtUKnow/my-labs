@@ -1,0 +1,6 @@
+Is this JWST Halo orbit plot fouled up somehow?
+After looking at this plot and many others I've come to the conclusion that this plot does not represent current JWST halo orbit. If the plot is supposed to be of JWST halo... it disagrees with many others.
+In almost anything current I've seen the JWST approaches L2 coming up from "south", enters halo in +Z and and halo orbit is clockwise when viewed looking towards earth/sun. this plot shows exact opposite. Also notice view C) labels +Z axis but z values are negative there.
+I suspect someone used "first angle projection" drafting practice and swapped Z axis +/-. First angle projection was used mainly in Europe and third angle projection was used everywhere else. (First angle projection engineering drawings were really screwy to read and easy to mess up with (lead to errors of interpretation). Everything was bassakwards)
+This plot would agree with other information if view C) were moved to left of view A) and swapped Z +/-. Also view B) would move to above A) and swapped Z +/-.
+Another way to correct would be to just mirror the trajectory tracks in B) an C) while leaving axis values as is (except must move C) label +Z RLP to proper side).

@@ -1,0 +1,10 @@
+Does SpaceX still plan to use acceleration (ullage) for Starship refuelings? If so, could they use rotational acceleration?
+In the September 2017 SpaceX video Making Life Multiplanetary after 23:40 the fuel transfer process between similar-looking upper stages is illustrated, with the tanker on the left and the ship on the right. Musk explains:
+"They would use the same mating interface that they use to connect to the booster on liftoff… and reuse the propellant fill lines that are used when... the ship is on the booster. [...] And then to transfer propellant it becomes very simple, use control thrusters to accelerate in the direction that you want to empty... transfer propellant very easily... from the tanker to the ship."
+This is analogous to "gravity feed" replacing gravitational acceleration with propulsive acceleration, but I'm guessing that the magnitude of the acceleration would be an order of magnitude or more lower.
+Question: Does SpaceX still plan to use acceleration (ullage) for Starship refueling? If so, could they use rotational instead of translational acceleration?
+The reason I ask the second part is that the SpaceX continues to starkly simplify things (e.g. just leave the Starship grid fins locked open all the time instead of deploying during landing) and (as described in the Everyday Astronaut Video Starbase Tour with Elon Musk (PART 1) after 40:44) Musk notes that for F9 Starlink deployment they just induce rotation (tilt/yaw) and fling them off like a bail of hay off the back of a truck)
+So now I'm wondering if the plan is to still burn some thruster continuously to induce "gravity feed" for propellant transfer which requires running some engines and controls the whole time, or maybe there is some way that centers of mass work out that they can spin the pair and let centripetal acceleration provide for predictable passive "gravity feed" without an engine.
+Seems somehow unlikely that it would work out this way.
+And there's always mechanical pumps I suppose.
+Source: Making Life Multiplanetary after 23:40

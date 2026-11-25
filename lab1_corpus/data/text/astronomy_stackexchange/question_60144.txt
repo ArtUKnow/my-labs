@@ -1,0 +1,7 @@
+Can Alcubierre drive reach the "edge" of the universe?
+It is well known that Alcubierre drive is, for now, the only theory that can prove superluminal space travel whilst still obeying Einstein's field equations.
+I have read the paper regarding the relativistic nature of Alcubierre drive (arXiv:gr-qc/0009013), and know that it requires a spacetime bubble created with negative and positive energy to "bring an object to itself", rather than the spacecraft directly going to the object.
+However, if this promises interstellar or intergalactic distances that can be reached in a proper time of less than a human lifetime, could this also mean it is physically possible for the warp drive to reach the "edge" of the universe, (though it is continuously accelerating)?
+Additional question:
+Assuming, Alcubierre warp drive is able to reach the fastest expanding region of spacetime, when and how will its laws of physics break?
+Will it be confined to a fixed geodesic at the "edge" of the universe? To what extent are the distances Alcubierre warp drive cannot theoretically reach?

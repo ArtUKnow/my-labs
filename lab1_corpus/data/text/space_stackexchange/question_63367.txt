@@ -1,0 +1,2 @@
+Optical communications modulation basics
+I'm a Physicist and have a good background into the Physics of optical systems, but I like to learn more indepth about the various formats used in optical communications such as ook, NRZ, RZ, PAM4, QPSK etc. Also Shannon's theory and other communications aspects. Can you suggest a book that covers these topics like modulation formats? I was hoping that there is a short descriptive book or video book etc.

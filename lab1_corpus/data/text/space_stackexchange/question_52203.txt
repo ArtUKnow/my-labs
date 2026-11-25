@@ -1,0 +1,6 @@
+Space Shuttle: What are the filters in the attitude error calculation?
+Here's a schematic from the space shuttle training manuals showing how the "attitude" error signal used to drive the thrust vector controllers was determined.
+"Attitude" in quote marks because it was in fact a mix of attitude error, attitude rate error, and normal acceleration error signals.
+The errors would be separately gained, then filtered, then summed, then filtered again then be gained again if the crew flipped a manual switch, then be filtered again---before finally at last being sent to the thrust vector controllers.
+That's a lot of filtering! And now I'm wondering: what the purpose? To remove high-frequency noise? Or to smooth the error signal again and again and again in case the preceding operation (gaining through nonlinear/discontinuous lookup tables, summing) had made the signal... insufficiently smooth?
+And more importantly! What would the filters look like? Would they be low-pass filters (I want to say yes)? Would they have different cutoff frequencies? Is there an algorithm for them that I could look at (since so many space shuttle algorithms are public on the web)?

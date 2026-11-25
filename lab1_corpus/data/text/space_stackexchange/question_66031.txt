@@ -1,0 +1,4 @@
+Using Mars' inner moon Phobos as a brake
+In case of a StarShip (but it could be any other lander), it would arrive a Mars with minimal fuel remaining and it would need to slowdown for reentry, how can it be slowed down for free? Maybe using Phobos?
+I am curious if it’s possible to lose a lot of speed by entering into a parallel orbit of Mars' inner moon Phobos and using its pull as a brake but it probably requires advance computer simulations.
+For some reason this parallel braking via gravity assist evokes gyroscope force ideas. May be it would take thousands of iterations but the speed should eventually come down, right?

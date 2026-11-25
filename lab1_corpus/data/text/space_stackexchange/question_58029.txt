@@ -1,0 +1,14 @@
+Which (if any) Vanguard satellite spun at 150 RPM? How fast did the rest spin, or at leased would have spun had they succeeded?
+From Wikipedia's Project Vanguard; Launch_history I found some candidates for satellites that had pages which I could search for the term "RPM". This is not an exhaustive search, it's just meant get things started:
+Vanguard 1
+Vanguard TV-5 "RPM" not found
+Vanguard SLV-1 "RPM" not found
+Vanguard 2; Optical scanner "The satellite was spin-stabilized at 50 rpm, but the optical instrument's data was poor because of an unsatisfactory orientation of the spin axis."
+Vanguard_3 "RPM" not found
+And yet a documentary film circa 1960 mentions 150 RPM with respect to Vanguard satellites. From 1957-1959 IBM 704 Computer - Vanguard Satellite Program "Science in Space" (Burroughs Datatron) NASA (alternate version of the video here)
+At this point it is traveling parallel to the Earth's surface. However the vehicle is traveling only nine thousand miles an hour, not yet fast enough to overcome the pull of gravity and stay in orbit.
+Inside the second stage, the third stage now begins to play its part. Small rockets start it spinning on a turntable. **When the spinning reaches 150 revolutions per minute, the second stage is separated, its job completed. Stabilized by its spin, the third stage fires and gathers speed.
+Question: Which (if any) Vanguard satellite spun at 150 RPM? How fast did the rest spin, or at leased would have spun had they succeeded?
+Also, earlier in the film:
+Laboratory tests helped to insure that the payload will withstand not only the intense vibration of launching and flight, but also in some cases the strain caused by hundreds of revolutions a minute.
+above: Screenshot (annotated) showing rockets used to spin up a Vanguard satellite before the third stage ignites and separates from the second stage, from "1957-1959 IBM 704 Computer - Vanguard Satellite Program "Science in Space" (Burroughs Datatron) NASA" below: Screenshot showing a Vanguard-like satellite being spin-tested from the same video:

@@ -1,0 +1,3 @@
+Sources for Mars rover sensor data
+Is it possible to get sensor data from past or present martian rovers sent by NASA?
+Specifically, I'm looking for accelerometer and wheel torque data from the rovers. I've searched their "official" sites but the most information I can find there is just image data and the sites seem to be aimed at the general public, not researchers. Is there another path that I could take to get this type of information?

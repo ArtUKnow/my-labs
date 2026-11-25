@@ -1,0 +1,27 @@
+Did Valentin Lebedev or any another Salut cosmonaut actually get suntanned for fun and/or for science?
+A comment below Did Salyuts have windows? links to Soviet Space Stations as Analogs, Second Edition (Doc. ID 19870012563, Contractor Report) which contains:
+...the various aspects of the Soviet Salyut 6 and Salyut 7 space stations are examined as related to human productivity... includ(ing): general layout and design of the spacecraft system; cosmonauts role in maintenance and repair; general layout and design of the Mir complex; effects of the environment on personnel; information and computer systems; organization systems; personality systems; and physical condition of the cosmonaut.
+It's quite a substantial and detailed document.
+Section 1.1.1.A (page number I-28):
+A Problems and Solutions:
+Considerable changes were made in window features on the Salyut 7
+station.
+Problems on Salyut 6 included:Solutions to these problems were made on the Salyut 7=
+Insides of the windows are now covered with thin, removable pieces of glass. When instrument observations are needed, this removable glass is taken off.
+Several of the windows now have an electrically-driven transparent outer cover. When needed for an experiment, the cover is retracted by a push of a button. The cover remains in place the rest of the time in order to prevent contamination of the actual window glass.
+Two of the windows are transparent to ultraviolet lights. This:
+Enlarges the stations investigative arsenal
+Protects against the possibility of the development of pathogenic bacteria carried along from Earth
+Is better for astronomical investigations
+Allows cosmonauts to get a tan
+These two portholes are located in a passageway and in the main compartment. Lebedev, Salyut 7: "It is possible to get tanned... Since there is no atmosphere, two minutes under its rays (sun rays) produce the same effect as a day on the beach." (213)
+Lebedev, Valentin "Excerpts from Cosmonaut Lebedev's Flight Diary." Moscow: PRAVDA. 15 August 1983, p. 7.
+Two pages earlier the windows are described as two pieces of quartz (fused silica?) glass with dry air trapped in between, and some removable protective glass inside. Section 2.5.7.B mentions
+Under the influence of irradiation there is an impairment of transparency of the glass in ports and optical instruments. Optical instruments transparency loss can be substantially decreased with the addition of cerium oxide to the glass, as well as by using quartz glass with a low content of impurities. (118)
+Gvamichava, AoSo, Koshelev, V.A. "Construction in Space." USSR REPORT, SPACE. March 4, 1985. ppo 49-89.
+Question: Valentin Lebedev was quite a prolific writer. (below) In reference (213) above was Lebedev just joking, or being hypothetical in order to describe how the space environment differs from that on Earth, or did they or another Salut cosmonaut actually get at least a partial suntan for fun and/or for science?
+A quartz window will not only allow more UV light to come through in general, but more UV-B and especially UV-C the latter of which is
+Short-wave UV, germicidal UV, ionizing radiation at shorter wavelengths, completely absorbed by the ozone layer and atmosphere: hard UV.
+and that biological activity is mentioned in the bullets above.
+Valentin Lebedev is the author of 157 scientific works; author and coauthor of nine monographs and two school textbooks for the Moscow Aviation Institute; 27 articles in “Science and Life” magazine; and a large number of publications in domestic and foreign press. Lebedev was also awarded 26 authors certificates for inventions introduced in the Soyuz and Salyut missions.
+Lebedev is the author of “Diary of a Cosmonaut: 211 Days in Space”, written entirely while he was serving aboard the "space complex" "TS "Soyuz-5" - "Salyut-7" - Soyuz T-7". The book was published in both the United States (1988, 1990) and Russia, under the title “Angle of My Judgment”(1994). Extracts from the book were also published in many scientific magazines in Russia and internationally.

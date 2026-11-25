@@ -1,0 +1,11 @@
+What is the intuition behind crossing angular momentum to derive the eccentricity vector?
+When deriving the eccentricity vector you first start of with the equation of motion for the two body problem (we are concerned about the motion of the smaller body around a much larger mass) the equations follows :
+$$\mathbf{\ddot{r}} = - \frac{\mu}{r^3} \mathbf{r}$$
+where mu is the multiplication of the larger body and the gravitational constant.
+Though later in the textbook I am referring to (fundamentals of astrodynamics) the author cross products both sides by angular momentum h.
+$$\mathbf{\ddot{r}} \times \mathbf{h} = \frac{\mu}{r^3}$$
+Though I am not too sure why the author does this, it does say that now the equation can be integrated though I am not too sure why that is the case, like could this have been done with any old vector? Is it possible that someone can explain this to me?
+Edit : https://www.google.co.uk/books/edition/Fundamentals_of_Astrodynamics/UEC9DwAAQBAJ?hl=en&gbpv=1&dq=fundamentals+of+astrodynamics+second+edition&printsec=frontcover
+Page 21
+edit
+Page 16

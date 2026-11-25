@@ -1,0 +1,6 @@
+With and without refilling at LEO, how much more than the landers weight of the Venera 9 mission could a Starship deliver near a pole of Venus?
+Venera 9 was a Soviet space mission to Venus that consisted of an orbiter and lander with a launch mass of 4936 kg and with an entry mass of 1560 kg. It was the first spacecraft to return an image from the surface of another planet.
+(Click on the image for a closer view.)
+The launch rocket was the Proton-K/D that was part of the program to land Soviet cosmonauts on the Moon, with 3 stages each having specific impulses varying from 316 to 327 sec.
+Could Starship with its Raptor engines with specific impulses at sea level of 330 sec. accomplish such a mission to Venus with a (much) heavier lander to prolong the lifetime of its instruments on the surface ?
+And could landing near a pole be more challenging because the descent would have to start at one pole (since its axis is perpendicular to the spacecrafts trajectory plane), while the spacecraft would still have to orbit half the planet to finally land at the other one ?

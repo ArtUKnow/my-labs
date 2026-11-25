@@ -1,0 +1,7 @@
+Why did the JWST solar array deploy early?
+According to NASA's Deployment Explorer tool, the solar array was expected to deploy at T+33 minutes.
+In the NASA livestream, the solar array deploys at T+29:08 (the clock isn't on stream at that moment, but at T+27:08 is exactly 2 minutes before that and the clock is visible), almost exactly 2 minutes after separating from the upper stage.
+Before the solar array deployment, the narrator was talking about how the mission operations manager would be "calling out the procedures that will lead to the deployment of Webb's solar array". However, immediately after he says this, the solar array deploys. Then, he says, "a bit earlier than planned, but there is the solar array having been deployed".
+So, it's my understanding that the solar array deployment is autonomous. The tool mentioned above specifically says:
+After shedding its fairing and booster rocket, the first two deployments are 'automatic,' meaning they happen without the ground giving commands.
+So, is the timeline above wrong, that the array was supposed to deploy at T+29 minutes? Or was there some other reason why it seems to have deployed 4 minutes before it is supposed to have done so, especially seeing as how the procedure was supposed to be "automatic"?

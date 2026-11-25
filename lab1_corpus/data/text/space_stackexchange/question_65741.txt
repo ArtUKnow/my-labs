@@ -1,0 +1,8 @@
+How to apply primer vector theory to trajectory optimization under perturbed two-body problem?
+I am currently reading the book Primer Vector Theory and Applications by John E. Prussing (https://doi.org/10.1017/CBO9780511778025) to learn primer vector theory. However, all the derivation and application of primer vector theory are under restricted two-body problem. Does it still hold true under the perturbed two-body problem?
+1.the primer vector is evaluated along the transfer orbit using the state transition matrix, is this still correct under the perturbed two-body problem?
+$$
+\begin{bmatrix}p(t)\\\dot{p}(t)\end{bmatrix}=\Phi(t,t_{0}) \begin{bmatrix}p(t_{0} )\\\dot{p}(t_{0})\end{bmatrix}
+$$
+2.for non-optimal impulse transfer trajectory, we could add a terminal coast and(or) midcourse impulse to optimize the cost. In my understanding, the process is we first obtain the position ($r_{m}+\delta r_m$) and time $t_m$ of midcourse impulse through the information provided by primer vector amplitude time history, then a new trajectory is solved according to lambert problem (under restricted two-body). we could then calculate the primer vector of new trajectory and see whether it meets the necessary conditions. then an iteration starts until we get a trajectory which meets necessary conditions.
+but for perturbed two-body problem, we couldn't get a new trajectory through lambert algorithm. is there any research which applied primer vector theory to perturbed dynamics? Or is my understanding wrong? I still can't figure out how to use gradient information provided by primer vector in optimization process.

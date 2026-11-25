@@ -1,0 +1,5 @@
+How to estimate the strewn-field for a given meteorite fall?
+Considering that a bolide event was observed from a specific location and at two points, there were bursts and fragmentation, it'll imply, that it must have impacted/landed somewhere. In such a case, how can one calculate:
+a) The distance and area of the strewn field.
+b) How many locations at a minimum will be needed (from where the fall was observed) to determine the strewn field?
+c) The fragmented pieces that fall on the ground, are cold to touch post-impact. Furthermore, in most cases, only sounds are heard after impact but the energy isn't powerful enough to create a crater. In such cases, can the latest optical/microwave (SAR)/ thermal satellite imagery help to determine where the fragment(s) or its significant chunk must've fallen?

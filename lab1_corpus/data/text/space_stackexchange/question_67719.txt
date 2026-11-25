@@ -1,0 +1,2 @@
+How rigorous would sterilization have to be for a Europa Lander?
+For the sake of the question, let's say that Europa Clipper has already determined that Europa is habitable, i.e. has prebiotic chemistry suitable for life. For a NASA mission which would land on Europa and probe the surface (and eventually burrow through the ice to explore the ocean), how complete would sterilization procedures have to be to ensure that the risk of contamination is less than the background rate? Given current technology, is it possible?

@@ -1,0 +1,10 @@
+How does the dust tail of a comet spread out within the plane of its orbit but not perpendicular to it? Why so broad except when viewed edge-on?
+Scitech Daily's October 30, 2024 Epic Comet Pass: Tsuchinshan-ATLAS Outshines Expectations With Brilliant Solar Passage includes the following:
+Rare Observation by LASCO
+Despite having seen thousands of comets in its almost 29 years of solar observing, comet Tsuchinshan-ATLAS’ passage revealed a rare facet of comet dust that LASCO has never seen before.
+For a brief period on October 14, the extensive dusty trail of the comet coalesced into a narrow, dense trail spanning the entire field of view. This unique density enhancement was the result of the SOHO spacecraft crossing the comet’s orbital plane and observing the comet’s vast dust sheet edge-on. The dust plane then moved into the lower half of the data, where it could be seen globally illuminating half of the field of view.
+“LASCO has seen many beautiful comet transits during its decades of operations, but seeing a side-on view of a comet’s dust plane absolutely ranks as one of the most spectacular that we have seen,” said NRL scientist and LASCO Principal Investigator Karl Battams, Ph.D.
+Question: How does the dust tail of a comet spread out within the plane of its orbit but not perpendicular to it? Why so broad except when viewed edge-on?
+There is a related question: Why do particles from a comet that result in meteor showers spread out mostly along the comet's orbit? but nothing there seems to address this. The images below from the article illustrate the effect.
+above: "U.S. Naval Research Laboratory (NRL) Large Angle and Spectrometric Coronagraph (LASCO) imaging instrument captured sequences of comet C/2023 A3, known as Tsuchinshan-ATLAS, as it passed between the Earth and the Sun on October 9 and 10, 2024. Coronal mass ejections can be seen in both images. Credit: U.S. Navy Photo"
+below: same except "...on October 14, 2024. The LASCO C3 telescope perfectly captures the dust plane of the comet edge-on. Credit: U.S. Navy Photo"

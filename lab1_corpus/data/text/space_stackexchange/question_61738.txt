@@ -1,0 +1,5 @@
+Can Tisserand's parameter be modified to correct for perturbing eccentricity?
+Tisserand's parameter is an "almost" conserved quantity in the CR3BP, even after flybys (useful for identifying asteroids).
+$$T_P = \dfrac{a_p}{a}+2\sqrt{\dfrac{a}{a_p}(1-e^2)}\cos(i)$$
+It does however assume that the orbit of the perturbing body is circular, something that's only approximately true for a planet like, say, Jupiter.
+Is there a better way of accounting for the slight eccentricity of the perturbing planet that assuming it to be 0? I don't expect a correcting term to be great, just if there's anything that's better than the default of ignoring it.

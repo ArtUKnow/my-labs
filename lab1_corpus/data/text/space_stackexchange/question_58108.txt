@@ -1,0 +1,3 @@
+How did this upper stage end up on a collision course with the moon?
+The upper stage of the Falcon 9 rocket that launched the DSCOVR spacecraft is expected to accidentally crash into the moon soon.
+How did it get into this position? I found answers here that say it was, or was planned to be, put into a heliocentric orbit. Was there a trajectory error? A malfunction? A change in plan?

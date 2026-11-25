@@ -1,0 +1,3 @@
+Combustion gas of gas generator right through nozzle?
+I was reading page (13) of the book "Rocket, Owner's Workshop Manual" and I came across this diagram:
+Does the gas generator exhaust gas go directly to the combustion chamber in the engine as shown in the diagram?

@@ -1,0 +1,4 @@
+Has there ever been a fully-reusable big-dumb-booster design proposed?
+I know of fully expendable Big Dumb Boosters, as well as "smart" reuse in systems like NEXUS (all versions) and their contemporaries, what I'm trying to figure out (after hours of sorting through astronautix etc.), is whether a system of passive full reuse has ever been seriously considered.
+I ask specifically because the benefit of Big Dumb Boosters are their material cheapness and expendability, and the benefit of reuse, as with SpaceX, Delta clipper, nexus etc. is their cheapness due to not having to build a new one. It seems plausible to me that a reusable liquid fuelled multi-stage pressure fed etc. etc. etc. rocket would be very, VERY cheap.
+Thanks

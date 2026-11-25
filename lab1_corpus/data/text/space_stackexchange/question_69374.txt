@@ -1,0 +1,2 @@
+Conjunction Data Message (CDM) statistics per satellite
+I was wondering if there's a way to access data on the number of conjunction events recorded for a specific satellite over the past year or more. I'm interested in making simple predictions about future conjunction risks based on the satellite's past performance.

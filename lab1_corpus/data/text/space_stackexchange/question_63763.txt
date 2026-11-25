@@ -1,0 +1,4 @@
+Could a Nuclear-Thermal turbine keep a winged craft aloft on Titan at 5000m ASL?
+It's what it sounds like: Given the output of the NASA nuclear reactor (the one they're going to use for the Artemis program), and the use of an electric-motor-driven turbine system, how feasible is a nuclear-thermal aircraft for long-term studies of Titan's surface and lake system.
+Please edit if you have something to add!
+(:

@@ -1,0 +1,9 @@
+How did LADEE and LDRC measure it's distance from Lunar orbit to Earth to 1 centimeter accuracy using optical communications?
+The video Donald Cornwell plenary talk: NASA's Optical Communications Program: 2015 and Beyond was presented at SPIE Photonics West 2015. It's a great talk and worth the time.
+LADEE had [the Laser Communications Relay Demonstration](https://en.wikipedia.org/wiki/Laser_Communications_Relay_Demonstration or LDRC which provided 20 Mbits/sec upload and 622 MBits/sec from LADEEE back to Earth. The beam spots from its ~10 cm telescope was only 6 km diameter on Earth!
+At about 11:38 the slide has a bullet that says:
+System allows for precise location of spacecraft for navigation (< 1 cm)
+and the speaker mentions this as well.
+Question: How exactly did the optical link between Earth and LDRC measure the distance accurately enough to get 1 cm position information? While there are ways to frequency lock lasers to electronic timebases it's pretty exotic stuff. I don't think that the return laser beam was coherent with the incoming laser the same way that a coherent transponder uses a PLL to lock to the incoming RF signal.
+My guess is that it has something to do with the modulation signals of the laser beams, but it would be good to know the details. Were something like gold codes used for correlation? Did they get both delay and doppler information?
+The modulation of the laser is not likely to be as high of a frequency as the carrier used for ranging using coherent transponder; the data rates are mentioned above.

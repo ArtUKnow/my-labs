@@ -1,0 +1,4 @@
+Why is the Orbital Velocity after SECO of Crew Dragon with 27K km/h lower than of ISS?
+Crew Dragon after SECO: Orbital Vfelocity at 27,000km/h at 200km altitude (roughly 9-10min after liftoff).
+ISS Orbital Velocity at ca. 28,000 km/h at 400km altitude.iss_altitude,iss speed
+However from the equation $v = \sqrt{\frac{GM}r}$, I expect Crew Dragon to actually rotate faster than the ISS around earth?! What is wrong with my thinking?

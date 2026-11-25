@@ -1,0 +1,4 @@
+Space missions that employed separate flight software development teams?
+A recent question "Back up plan to use LOX-RP1 for Apollo mission" has an answer stating
+Another example is that some spacecraft have a backup flight software system written by a group of developers who are firewalled from the developers who write the primary flight software system.
+Which raises the question, what missions have done, are doing, or will do this in the past/present/future?

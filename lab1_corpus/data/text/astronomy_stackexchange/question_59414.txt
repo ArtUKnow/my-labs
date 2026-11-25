@@ -1,0 +1,4 @@
+What are the coordinates of the direction of the sun's motion?
+I've read a lot through this question and its answers, and related ones, but still can't quite find an answer to this one (or maybe one of those answers are what I'm looking for and I just don't realize it).
+Essentially the solar apex does not seem to be what I'm looking for, since it's formulated in the LSR; and the solar nose doesn't seem to be what I'm looking for either, since apparently the galactic wind doesn't necessarily move directly opposite the motion.
+What I'm looking for are the exact coordinates that the sun is currently moving towards, all velocity components included (galactic orbit, bobbing, and whatnot). Presumably the galactic longitude will be 90° or very close to it, but the latitude is of greater interest (though I'd like to know the right longitude too, of course).

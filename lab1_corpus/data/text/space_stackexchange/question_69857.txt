@@ -1,0 +1,4 @@
+Could GPS be done optically?
+With Russian GPS jamming being in the headlines, would it be possible to implement optical transmission and reception of GPS signals for applications like aircraft?
+Is it possible to make a wide-beam laser/maser to an area to counteract known jamming locations?
+Could and optical beam make it through the atmosphere?

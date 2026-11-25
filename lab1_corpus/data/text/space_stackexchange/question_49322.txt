@@ -1,0 +1,5 @@
+What benefit do the aerodynamic stabilization "pods" on the PSLV-CA provide?
+Whilst writing this answer about the PSLV, on this informative page about its Secondary Injection Thrust Vector Control system, this image (cropped) is displayed, showing that for the Core Alone version, "pods" that are roughly equivalent in size to the SITVC/Reaction Control System (RCS) units are installed, here labeled as "unknown function":
+In some informative comments on that answer, user Ohsin identified those "pods" as Aerodynamic Stabilizers (ASTs) and supplied some images, from which I've cropped these (and added annotations to the last one):
+In my research, I had run across mention of these "pods" being ASTs, but I disregarded it until Ohsin provided this info, because to me, they didn't appear capable of providing a beneficial contribution to aerodynamic stability - I would have expected some kind of fin, if that was truly the intent. But it looks like my intuition was wrong.
+How do these two cylindrical "pods", symmetrically placed on either side of a cylindrical vehicle, contribute to its aerodynamic stability?

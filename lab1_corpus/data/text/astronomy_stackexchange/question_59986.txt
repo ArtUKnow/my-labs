@@ -1,0 +1,5 @@
+How to calculate the start and end time and position (Alt, Az) of a star transiting behind the moon?
+In Stellarium, you can see stars moving towards the moon, disappearing behind the moon, and some time later, they reappear at some other position at the edge of the moon.
+For a given star (RA, Dec), and my position (lat, lon), I would like to calculate the tuplet (time_enter, Alt_enter, Az_enter) of where that star would disappear behind the moon, and the (time_exit, Alt_exit, Az_exit) would reappear.
+how could I calculate these values?
+What I want to do is enumerate a couple of days, e.g., a whole month, and check for each day whether that star will enter/exit the moon at any time during that day, and if there is such an event, I can calculate the (Alt, Az) of that enter/exit point by calculating the position of that star at these times.

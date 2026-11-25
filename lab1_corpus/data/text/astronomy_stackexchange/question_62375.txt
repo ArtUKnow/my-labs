@@ -1,0 +1,2 @@
+Are the JPL and VSOP ephemerides suitable for deep time simulations?
+Deep time simulations, predictions of Solar System planetary positions for a period of 10 million years or more. The JPL ephemerides are limited to a specific range of years, but "extrapolation" is a thing, to extend its range, for longer simulations.

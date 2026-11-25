@@ -1,0 +1,45 @@
+GMAT: Finite Burns commands in If statements inside For loops
+Does anyone know why GMAT won't execute finite burns when the BeginFiniteBurn command is placed inside an If statement which is inside a For loop? I'm sure the If condition is verified because there are other lines of code in those that are executed, but the BeginFiniteBurn command seems like is not even there. So when in the next iteration of the For loop a Propagate command is executed, the spacecraft simply stays in its orbit without changing anything. I've selected a very high thrust value, it is evident that the thruster has not been activated. Also, yes, I've checked that the hardware components are properly configured. In fact, I've executed the exact same code extending the For loop (since the loop has 9 iterations this means my code became 9 times bigger, which is ridiculous) and now it magically works. Ah and when I execute the exact same code (extended For loop) for the other 3 spacecraft in my mission the thrusters stop activating again.
+TLDR: my mission has 4 SCs. The finite burns don't work for any spacecraft when placed in If statements inside a For loop. When I extend the For loop (making the code as many times bigger as the number of iterations of the For loop) only the thrusters of the first SC work properly. The other three spacecrafts still coast along their original orbit without turning on the engines.
+I dont' think it's relevant but here I say it anyway: I'm using a MATLAB interface to run custom functions.
+Here's a step of the For loop I'm talking about
+GMAT i = 9; % this is the last iteration of the 9-steps For loop
+GMAT j = 0;
+GMAT OE_C_end_no_man_D1(1,1) = 0;
+GMAT OE_C_end_no_man_D2(1,1) = 0;
+GMAT OE_C_end_no_man_D3(1,1) = 0;
+While j < n_long_steps
+Propagate 'Propagate Chief with long time step' Luna_Sun_SRP_JRdrag(Chief) {Chief.ElapsedSecs = t_step_long};
+GMAT j = j + 1;
+EndWhile;
+GMAT u_Chief = Chief.BrouwerShortAOP + Chief.BrouwerShortMA; % initialization for the While cycle
+GMAT [u_Chief] = wrapangle(u_Chief);
+GMAT [t_step_short] = t_step_finder(Chief.BrouwerShortSMA, d_increment_short); % time step in which the SC travels for d_increment_short km
+GMAT [u_target_wrapped] = wrapangle(u(9,1));
+While 'While u_Chief < u(i)' u_Chief <= u_target_wrapped
+Propagate 'Propagate Chief with short time step' Luna_Sun_SRP_JRdrag(Chief) {Chief.ElapsedSecs = t_step_short};
+GMAT u_Chief = Chief.BrouwerShortAOP + Chief.BrouwerShortMA;
+GMAT [u_Chief] = wrapangle(u_Chief);
+EndWhile;
+If k(i,1) == 1 % turn on in-plane thruster
+GMAT INPLANEThruster_C.ConstantThrust = f(i,1)*Chief.DryMass;
+BeginFiniteBurn INPLANEFiniteBurn_C(Chief);
+GMAT color = 'g.';
+GMAT Chief.OrbitColor = Green;
+EndIf;
+If k(i,1) == 2 % turn off in-plane thruster
+EndFiniteBurn INPLANEFiniteBurn_C(Chief);
+GMAT color = 'r.';
+GMAT Chief.OrbitColor = Red;
+EndIf;
+If k(i,1) == 3 % turn on out-of-plane thruster
+GMAT OUTOFPLANEThruster_C.ConstantThrust = f(i,1)*Chief.DryMass;
+BeginFiniteBurn OUTOFPLANEFiniteBurn_C(Chief);
+GMAT color = 'b.';
+GMAT Chief.OrbitColor = Blue;
+EndIf;
+If k(i,1) == 4 % turn off out-of-plane thruster
+EndFiniteBurn INPLANEFiniteBurn_C(Chief);
+GMAT color = 'r.';
+GMAT Chief.OrbitColor = Red;
+EndIf;

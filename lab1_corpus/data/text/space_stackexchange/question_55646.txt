@@ -1,0 +1,6 @@
+Data rate in optical free space communication systems
+Mynaric is one of the main suppliers of laser terminal for free space communication. In one of its latest publications I have read, they will increase the data rate of the last lasercom terminal up to 100 Gbps. How it will be done was not explained.
+In the lasercom terminal, LD is the main part if we speak about data rate. It creates a narrow beam to transmit data to a ground station.
+If data rate is increased up to 100 Gbps, does it mean they will improve the characteristics of LD?
+What do we use to improve data rate in optical free space communication?
+LD- laser diode

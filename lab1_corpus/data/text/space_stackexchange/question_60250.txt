@@ -1,0 +1,8 @@
+Using a reverse sling + compression sock to give an asteroid an initial boost - possible?
+building my a related question, I have a hypothesis in question:
+Assuming that we can get a tug spacecraft near an asteroid worth mining, at appropriate but faster speeds can we use a slingshot with a mounted compression sock like structure to distribute the excess momentum over a period of time long enough to capture an asteroid and move it in a desired direction.
+My initial thoughts on this are to ahead of time setup:
+I) two (or more) points anchored to the solid core of the asteroid.
+II) very strong (probably ridgid) spokes with a smaller ring at the other end, with ring initially swiveled in a position perpendicular to the incoming tug.
+III) A compression sock like device that provides lateral (around the circumference) friction to slow down the tug, with possibly folded ridgit supports that expand as the tug makes its way through the sock.
+Is this, something like this in spirit, possible? :)

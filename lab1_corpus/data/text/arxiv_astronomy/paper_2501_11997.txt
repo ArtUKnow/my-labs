@@ -1,0 +1,2 @@
+Deep Photometric and Astrometric Investigation of the Non-relaxed Star Cluster Stock 3 using Gaia DR3
+The study presents both photometric and kinematic analyses of the non-relaxed open cluster Stock 3 with Gaia DR3 which found to be positioned at 2.945 $\pm$ 0.700 kpc and having an age of 16.00 $\pm$ 4.00 Myr. We analyse the data to infer the membership and thus determine the total mass, IMF and the dynamical and kinematical status.

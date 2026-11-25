@@ -1,0 +1,2 @@
+relative weighting in light curves fitting with data
+I want to use Eclipsing Light Curve (ELC) Code for the first time to model light curves and radial velocity curves of binary stars. My data sets are of different numbers of data points. I need to do weighting to fit all of them simultaneously. I found relative weighting is a good option. But I don't know how to implement this method as a beginner in light curve modeling of binaries. Is there any helpful reference for this purpose? Or can anybody provide me with essential information and guide?

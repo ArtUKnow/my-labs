@@ -1,0 +1,4 @@
+Definition of "elevation mask" when it comes to sensors and ground stations?
+My understanding is that elevation mask is a term for purposely limiting sensor observations, usually on the ground, by intentionally blocking sky observations from the horizon to a specific elevation. (e.g an elevation mask of 5 degrees means that sensor has been intentionally masked from the horizon to 5 degrees vertical).
+Recent problem came up where I am taking into account the altitude of the sensor, which changes where the horizon is from the viewpoint of the observer. This means as sensor altitude increases, one would need to increase the angle of the elevation mask to block out the same piece of sky.
+I am wondering if there is a universally accepted definition of elevation mask that doesn't use the horizon as the reference?

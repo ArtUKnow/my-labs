@@ -1,0 +1,2 @@
+Could sheets of stacked graphene be used as part of a heat shield, since its melting point is 3000k to 5000 K
+Since graphene material is the strongest manmade material, with "magical" properties, I wonder if it could be considered for use as a heat shield, since its melting point is 3000 to 5000 K stacked at 10 layers thick, which is higher than reentry temperatures.

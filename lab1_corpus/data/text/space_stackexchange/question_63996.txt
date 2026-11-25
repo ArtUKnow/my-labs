@@ -1,0 +1,9 @@
+Contraction Ratio Impact on Performance for Liquid Rocket Engine
+How does one go about calculating the necessary contraction ratio (combustion chamber/nozzle throat cross sectional areas) of an engine with these parameters known...
+thrust
+nozzle throat area
+mass flow rate
+chamber pressure
+chamber temperature
+ratio of specific heats
+Also, how does contraction ratio effect efficiency and performance?

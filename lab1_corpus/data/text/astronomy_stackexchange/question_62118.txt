@@ -1,0 +1,3 @@
+Minkowski vs FLRW coordinate time
+Is $dt$ in the Minkowski metric mathematically equivalent to $dt$ in the FLRW metric for spatially flat, expanding universe? I'll be happy with the answer in comment.
+I already know that the FLRW metric accounts for a case with the constant scale factor $a(t)=\text{const}=1$, which is the equivalent of Minkowski. I'm only interested in zero spatial curvature in all cases. If the time coordinate $t$ in $a(t)=\text{const}$ is not the same $t$ as in $a(t)\neq \text{const}$, then it's also different for a scale factor $b(t)\neq a(t)$ that is also changing in time. It would imply that time coordinate in the FLRW metric depends on the scale factor function.

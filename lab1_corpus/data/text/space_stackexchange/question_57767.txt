@@ -1,0 +1,6 @@
+Are In-Flight Electrically Heated Steam Rockets Possible?
+I wonder if a rocket that uses electricity from internal batteries to heat water in its tanks to high pressure would be able to use that pressure to take off. Is it possible?
+I've researched here and outside on this subject, but I didn't feel the issue was resolved. In none of the questions I looked at, someone considered the rocket carrying water in its tanks and gradually heating that water, turning it into steam, during the flight to maintain the pressure needed for the flight.
+I believe this method is much better than building a rocket with all the pressure inside it before launch. Using electricity from batteries also seems a better idea than using any other type of fuel for heating. And it's less risky than using nuclear power.
+When I think about this type of rocket, powered by water and electricity, I imagine it's just a matter of engineering. It would be as difficult to build it as any other rocket, yet it looks much cheaper and more environmentally friendly.
+Am I right? And would it be possible to build such a rocket?

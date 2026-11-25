@@ -1,0 +1,3 @@
+Noninertial effects a problem in strapdown IMUs?
+Unlike stable-platform IMUs, which are fixed in space and therefore inertial, strapdown IMUs are fixed to the vehicle's body and therefore noninertial.
+Would noninertial effects distort the strapdown IMU's integrating accelerometer's readings? I'm wondering if those would need correcting for or if they could be used as is on a rocket launch (well, after some signal filtering and other processing, sure---but otherwise "as is" without the need for noninertial correction terms).

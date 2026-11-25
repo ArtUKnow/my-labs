@@ -1,0 +1,5 @@
+Rocket dashboard: separation/pyro indicators
+I'm curious about rocket dashboards. Separation events are big things and they depend on pyro bolts detonating and linear charges or pneumatic pushers firing immediately afterward. There must be indicators for these events in case something goes awry.
+Would those indicators be the sort that illuminate when an event is detected? Would they illuminate only while the event is taking place, or would they stay permanently illuminated afterward---or might they start out illuminated and turn off once the pyros fire so they don't create distractions for the crew?
+...Or would the display be of a sort in which none of these questions make sense?
+Huge thanks if you can clarify!

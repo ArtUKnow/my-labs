@@ -28,6 +28,15 @@ def list_text_files(text_dir):
 
 def tokenize_corpus(text_dir, tokens_dir):
     files = list_text_files(text_dir)
+    expected = {(source, name) for source, name, _ in files}
+    if os.path.isdir(tokens_dir):
+        for source in os.listdir(tokens_dir):
+            source_dir = os.path.join(tokens_dir, source)
+            if not os.path.isdir(source_dir):
+                continue
+            for name in os.listdir(source_dir):
+                if name.endswith(".txt") and (source, name) not in expected:
+                    os.remove(os.path.join(source_dir, name))
     total_tokens = 0
     total_length = 0
     total_bytes = 0

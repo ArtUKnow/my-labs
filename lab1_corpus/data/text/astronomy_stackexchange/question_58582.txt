@@ -1,0 +1,4 @@
+How to graphically draw stars using python and AAVSO data
+I have a file containing information about stars that looks like this for each star:
+010001 |R And *|002401.95 +383437.3 |M
+and i need to figure out a way to converted so i can graphically show starts with dots on screen

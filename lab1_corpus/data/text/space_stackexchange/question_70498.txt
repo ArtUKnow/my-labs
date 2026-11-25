@@ -1,0 +1,9 @@
+What early indicators suggest loss of correction capacity in autonomous satellite constellations?
+In a distributed satellite constellation where each node can adjust its behavior based on local data, what measurable indicators would suggest the system is losing its ability to correct itself before any visible failure occurs?
+I’m not asking about final failure modes, but earlier conditions where the system still appears stable while underlying behavior begins to drift.
+Examples of what I’m thinking about:
+increasing overlap in collection windows across satellites
+delayed or inconsistent responses between nodes
+divergence in local prioritization decisions
+propagation of local adjustments across neighboring assets
+Are there established metrics or operational signals that indicate this kind of pre-failure condition in space systems or multi-agent autonomous environments?

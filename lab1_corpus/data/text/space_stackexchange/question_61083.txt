@@ -1,0 +1,6 @@
+Why was a solid fuel rocket chosen as the 3rd stage for the Europa Clipper launch?
+According to Wikipedia https://en.wikipedia.org/wiki/Star_48#Use_on_New_Horizons a solid fuel Star 48 “kick stage” was chosen as the 3rd stage in the launch of Europa Clipper.
+Solid fuel rockets have less precise burns than liquid fueled rockets since they cannot be throttled, stopped or restarted. Solid fuel rockets can only be "throttled" by making self-cancelling wiggles in trajectory. This "unthrottlability" is irrelevant for boosters.
+The burn of a liquid fueled top stage can be fine tuned to correct small errors in the burns of previous stages.
+Why was the Star 48 chosen over a liquid-fueled 3rd stage? The Space Shuttle used Star 48 for launch of GSO satellites to avoid the safety hazards of liquid fuel in the cargo bay, but this obviously doesn’t apply to an uncrewed Falcon Heavy launch.
+Edit: Barry's answer points out that the 3rd stage of Europa Clipper's launch vehicle has been eliminated due to a change in mission profile. So the question could be changed to "Why would a solid fuel rocket be chosen as the 3rd stage for the Europa Clipper launch, or any similar uncrewed launch?"

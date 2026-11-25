@@ -1,7 +1,0 @@
-Palm (unit)
-4 inches = 10.16 cm
-2: Span = 9 inches = 22.86 cm
-3: Palm = 3 inches = 7.62 cm
-]]
-A palm, when used as a unit of length, is usually four digits (fingers) or three inches, i.e. 7.62 cm (for the international inch).
-In English this unit is no longer in use as other units that are based on the human arm: digit (¼ palm), finger (7/24 palm), hand (4/3 palms), shaftment (2 palms), span (3 palms), cubit (6 palms) and ell (15 palms).

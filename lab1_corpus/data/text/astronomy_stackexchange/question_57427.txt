@@ -1,0 +1,4 @@
+Measure the radius of the earth using the sun?
+Can someone tell me why this would or would not work?
+I have a sun spotter device that projects an image of the sun onto a piece of paper using a lens and some mirrors. When you use the device it’s quite clear that the sun moves across the image pretty quickly due to the earths rotation. This got me thinking: I can measure (on the paper) how many inches the sun shifts over some timescale, and divide that timescale by 24 hours. This should be the angle that the earth turned through. Then i can use s = r theta and solve for r, where s is the length that i measured and theta is the angle. Should this work?
+I’m unsure because the earth rotates quite quickly, and the image of the sun only shifts slightly. Perhaps the lens makes things difficult

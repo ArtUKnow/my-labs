@@ -1,0 +1,64 @@
+Finding the smallest time where an object enters the sphere of influence of a celestial body
+I'm working on a 2D solar system simulation in Python using Keplerian elements. I am trying to find the earliest time (in seconds) where an object enters the sphere of influence (SOI) of a planet or a celestial body if there is an encounter with the SOI. But currently my method is not accurate and somehow always fails to find the nearest point that should be on the border of the sphere of influence. It only sometimes gives a point that is somewhere inside or entirely outside the sphere of influence but it is always on the orbit of the first object (obj). Is there anything wrong and how could i improve the method to solve for this encounter time? Here is the relevant portion of the code:
+def search_for_encounter(obj, other_obj):
+def calculate_orbital_position_at_time(obj, dt):
+eccentricity = obj.eccentricity
+initial_mean_anomaly = obj.initial_mean_anomaly
+mean_motion = obj.mean_motion
+trajectory_type = obj.trajectory_type
+if trajectory_type == 0:
+# elliptic
+mean_anomaly = initial_mean_anomaly + mean_motion * dt
+eccentric_anomaly = Universe.calculate_eccentric_anomaly(eccentricity, mean_anomaly)
+true_anomaly = 2 * math.atan2(math.sqrt(1 + eccentricity) * math.sin(eccentric_anomaly / 2), math.sqrt(1 - eccentricity) * math.cos(eccentric_anomaly / 2))
+elif trajectory_type == 1:
+# parabolic
+true_anomaly = 2 * math.atan((3 * mean_motion * dt / (2 * math.sqrt(obj.semi_latus_rectum))) ** (1 / 3))
+elif trajectory_type == 2:
+# hyperbolic
+mean_anomaly = initial_mean_anomaly + mean_motion * dt
+hyperbolic_anomaly = Universe.calculate_hyperbolic_anomaly(eccentricity, mean_anomaly)
+true_anomaly = 2 * math.atan(math.sqrt((eccentricity + 1) / (eccentricity - 1)) * math.tanh(hyperbolic_anomaly / 2))
+nu = true_anomaly
+p = obj.semi_latus_rectum
+i = obj.inclination
+Om = obj.longitude_of_ascending_node
+w = obj.argument_of_periapsis
+a = obj.semi_major_axis
+e = obj.eccentricity
+r = Universe.calculate_orbital_distance_out_of_elements(a, e, nu, p, trajectory_type)
+cos_Om = math.cos(Om)
+sin_Om = math.sin(Om)
+cos_i = math.cos(i)
+w_plus_nu = w + nu
+cos_w_plus_nu = math.cos(w_plus_nu)
+sin_w_plus_nu = math.sin(w_plus_nu)
+x = r * (cos_Om * cos_w_plus_nu - sin_Om * sin_w_plus_nu * cos_i)
+y = r * (sin_Om * cos_w_plus_nu + cos_Om * sin_w_plus_nu * cos_i)
+position = (x, y)
+return position
+def calculate_distance(t, obj, other_obj):
+obj_position = calculate_orbital_position_at_time(obj, t)
+other_obj_position = calculate_orbital_position_at_time(other_obj, t)
+relative_position = (obj_position[0] - other_obj_position[0], obj_position[1] - other_obj_position[1])
+distance = math.sqrt(relative_position[0] ** 2 + relative_position[1] ** 2) - other_obj.soi_radius
+return distance
+max_time_to_search = 1000000
+t0 = Universe.elapsed_seconds
+t1 = Universe.elapsed_seconds + max_time_to_search
+encounter_object = None
+encounter_time = None
+if other_obj is not obj.primary_body:
+try:
+result = minimize_scalar(
+lambda t: calculate_distance(t, obj, other_obj),
+bracket=[t0, t1],
+method="brent"
+)
+if result.success:
+encounter_time = result.x
+encounter_object = other_obj
+except Exception as e:
+print(f"Error: {e}")
+obj.encounter_point = calculate_orbital_position_at_time(obj, encounter_time) if encounter_time is not None else None
+return encounter_object, encounter_time

@@ -1,0 +1,2 @@
+How do you convert from the Gaia photometric system to Johnson-Cousin?
+I have Gaia photometry (G, G_bp, and G_rp) and need to convert it to the Johnson Cousin system. In the Data release 3 (DR3) documentation they provide tables of how to do this but I’m very confused by it and any help would be appreciated.

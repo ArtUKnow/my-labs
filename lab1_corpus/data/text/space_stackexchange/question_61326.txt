@@ -1,0 +1,17 @@
+Dragon as a Lifeboat for Soyuz
+The only serious alternatives I have seen reported for the current Soyuz coolant problem are to either use the existing Soyuz, hopefully patching and testing it enough while attached to ISS to be able to safely use it to transport the crew back to Earth or to send up a an unmanned replacement Soyuz.
+Crew Dragon was originally designed to handle up to 7 people, but the current design only supports 4. From this article:
+[Changing the specification for the crew seat angle] meant SpaceX had to do away with the company’s original seven-seat design for the Crew Dragon.
+"With this change and the angle of the seats, we could not get seven anymore," Shotwell said. "So now we only have four seats. That was kind of a big change for us."
+While I suspect it could be redesigned for 7 people, getting NASA to certify it would be an extensive and time-consuming process, so I will assume that is not a realistic option. Neither is sending up Starship - it will be a while before it is human-rated.
+However, while Soyuz requires custom seat liners for each astronaut, Crew Dragon does not. Since Cargo Dragon can fly without any crew, why can't NASA and SpaceX send up a Crew Dragon with one astronaut (i.e., as Crew Dragon is designed for hands-on controls in an emergency) and a set of appropriately sized flight suits for the 3 stranded Soyuz crew members. Dump the broken Soyuz. Stranded crew comes back to Earth in Dragon. Russia gets to continue with the original plans for the Soyuz that is currently being considered as a rush replacement.
+Alternatively, if Russia determines that the damaged Soyuz is a viable craft, could NASA tell astronaut Frank Rubio to wait on ISS, then send the next Crew Dragon up with only 3 crew members instead of 4, providing him with a possibly safer trip home?
+Just saw this article NASA, Russia's space agency probing cause of Soyuz leak so maybe my idea isn't so wild after all.
+NASA is exploring whether SpaceX's Crew Dragon spacecraft can potentially offer an alternative ride home for some crew members of the International Space Station after a Russian capsule sprang a coolant leak while docked to the orbital lab.
+Another report: NASA asks SpaceX about International Space Station rescue options
+Update - Soyuz and Dragon
+The current plan is to send up Soyuz empty so that it can bring back all 3 crew members. However, in case of emergency, NASA has determined that Crew Dragon could safely carry an astronaut back home in the cargo area.
+https://wccftech.com/nasa-strapped-astronaut-with-cargo-strap-on-spacexs-ship-floor-as-emergency-measure/
+NASA actually indicated they could take up to 3 additional crew members - 7 total - as Crew Dragon was originally designed for 7 crew members. However, the current plan is that in an emergency the 2 cosmonauts would return on the damaged Soyuz as Roscosmos has determined that the damaged Soyuz is capable of safe reentry with 2 crew members instead of the usual 3.
+And now Starliner
+In an interesting twist over the last several months, Dragon has now become the lifeboat for Boeing's troubled Starliner following a test flight.

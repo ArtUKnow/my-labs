@@ -1,0 +1,32 @@
+How can I calculate the geocentric longitude of Pluto in a similar way to VSOP87's algorithm?
+The book "Astronomical Algorithms" teaches a way to calculate the position of any of the planets for almost any date, until you get to Pluto.
+To try to get around that, I attempted to convert the heliocentric coordinates to geocentric, but my formula only gets me so close to the actual geocentric longitude, leaving me with a number that is around 22 minutes off most of the time. Sure I could just add that number and have a very good program that has a ~3 min error margin, but that's too little accuracy for what I'm trying to build. At least the minutes must be accurate.
+Here's my py code using astropy. I'm using it to try to learn to make the conversion from heliocentric to geocentric. There's also another problem that the book only teaches me how to get heliocentric coordinates without corrections, which isn't the case here with the py program...
+from astropy.coordinates import SkyCoord, solar_system_ephemeris, get_body_barycentric_posvel, HeliocentricTrueEcliptic
+from astropy.time import Time
+import numpy as np
+import math
+date = Time("2024-04-06")
+with solar_system_ephemeris.set('de432s'):
+earth_pos, earth_vel = get_body_barycentric_posvel('earth', date)
+pluto_pos, pluto_vel = get_body_barycentric_posvel('pluto', date)
+earth_coord = SkyCoord(earth_pos, obstime=date, frame='icrs')
+pluto_coord = SkyCoord(pluto_pos, obstime=date, frame='icrs')
+earth_ecliptic = earth_coord.transform_to(HeliocentricTrueEcliptic(obstime=date))
+pluto_ecliptic = pluto_coord.transform_to(HeliocentricTrueEcliptic(obstime=date))
+earth_l, earth_b, earth_r = earth_ecliptic.lon.radian, earth_ecliptic.lat.radian, earth_ecliptic.distance.au
+pluto_l, pluto_b, pluto_r = pluto_ecliptic.lon.radian, pluto_ecliptic.lat.radian, pluto_ecliptic.distance.au
+earth_x = earth_r * np.cos(earth_b) * np.cos(earth_l)
+earth_y = earth_r * np.cos(earth_b) * np.sin(earth_l)
+earth_z = earth_r * np.sin(earth_b)
+pluto_x = pluto_r * np.cos(pluto_b) * np.cos(pluto_l)
+pluto_y = pluto_r * np.cos(pluto_b) * np.sin(pluto_l)
+pluto_z = pluto_r * np.sin(pluto_b)
+pluto_geocentric_x = pluto_x - earth_x
+pluto_geocentric_y = pluto_y - earth_y
+pluto_geocentric_z = pluto_z - earth_z
+pluto_geocentric_longitude = np.arctan2(pluto_geocentric_y, pluto_geocentric_x)
+pluto_geocentric_longitude_degrees = np.degrees(pluto_geocentric_longitude)
+if pluto_geocentric_longitude_degrees < 0:
+pluto_geocentric_longitude_degrees += 360
+print("Pluto's geocentric longitude (in degrees):", pluto_geocentric_longitude_degrees)

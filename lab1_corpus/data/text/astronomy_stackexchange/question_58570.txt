@@ -1,0 +1,8 @@
+Code a scatter plot on a region of the sky with a circle
+I am trying to do a scatter plot of a few data points on a region of the sky and then add a circle to the plot. Note, that I don't want a plot of the full sky, just of the region around the data points. The coordinates of the data points in degrees are:
+ra = np.array([248.3, 249.8, 250.2, 250.5, 250.5])
+dec = np.array([68.8, 67.7, 65.7, 72.2, 63.3])
+The centre of the circle should be at
+ra1 = 270
+dec1= 66
+It seems the packages for that (because we need to account for the curvature of the sky!) would be astropy and regions. But I just can't make it work. This post here is almost what I want to achieve, but it works with only one point and I don't see how to add more points. Thx for advice!

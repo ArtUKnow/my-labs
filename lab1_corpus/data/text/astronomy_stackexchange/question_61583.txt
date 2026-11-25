@@ -1,0 +1,3 @@
+Dark Matter Parameter Variation with time
+Can the matter density parameter (also see here) ($\Omega_m$), be dynamic (vary with redshift $z$) instead of assuming a fixed value (currently, 0.28 - 0.32)?
+Are there any models of dynamic dark matter with $z$, as there are models for varying dark energy with red shift?

@@ -1,0 +1,9 @@
+SpaceX Inspiration4 mission cost breakdown
+It is believed that SpaceX Inspiration4 total mission cost was more than 100 million USD. https://twitter.com/DJSnM/status/1439470685064073219
+What could be cost breakdown for this mission ?
+After every F9 flight, SpaceX must rebuild new F9 upper stage and new Crew Dragon service module, because only crew module can be recovered and reused.
+Upper stage have only 1 for vacuum optimize Merlin and it cost shouldn't be higher than 10 million USD.
+Service module (or as SpaceX call it trunk) contain solar panels, heat-removal radiators and fins which provide aerodynamic stability during emergency aborts. How high can be it unit cost. I suspect that crew module with eight SuperDraco engines and life support systems has higher unit cost, but still cost of building new service module should be biggest part of Inspiration4 total mission cost.
+All other mission costs seems relatively minor.
+For example, cost of propellant should be less than 500K USD. Cost of refurbishing of used booster should be maximum of 5-10 ml USD per every flight (Inverse article claimed even lower refurbishment cost of 1 million USD, but didn't publish their source). Cost of refurbishing launch pad after each flight should be also only few million USD. Have no idea how difficult training, medical exams all 4 passengers had, but I don't see reason why it should cost more than few million $ for entire mission.
+So the question is. Was major part of Inspiration4 total mission cost, cost to rebuild new CD service module and if yes, why it cost north to 50 million USD ? Or were other mission costs like passengers training, medical exams, cost of mission insurance higher than I expected ? If yes then why ?

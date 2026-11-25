@@ -1,0 +1,6 @@
+What is boil-off and how to stop it from happening in the vacuum of space?
+Liquids (propellants and other systems and life support) boil off in space, and rockets need to constantly vent them out to prevent explosion.
+What is radioactive heat conduction, which heats the spacecraft, which faces the sun (in vacuum)?
+How is it different from heat transfer across a vacuum flask, which is used to stop conduction of heat?
+Why does boil-off happen in the vacuum of space?
+What are the different methods of stopping boil-off?

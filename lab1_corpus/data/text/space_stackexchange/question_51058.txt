@@ -1,0 +1,3 @@
+Falcon 9: Landing leg helium pressure?
+So it seems the Falcon 9 landing legs are powered by a helium precharge.
+Does anyone know the pressure of that precharge? If no numbers for Falcon 9, is there at least a reasonable range of what the pressure might be?

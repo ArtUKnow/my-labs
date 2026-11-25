@@ -1,0 +1,8 @@
+What was the most inconsequential failure on an STS mission recorded in mission reports?
+Posting a comment over on this question got me thinking as to how insignificant (or not) recorded failures on the Space Shuttle could actually get.
+For example browsing the STS-001 Postflight Mission Report yields:
+Flight test problem report 20 (page 189): Squeal in crews headsets
+(There was acoustic feedback, and not having both the headset microphone and speaker-microphone unit activated simultaneously fixed it)
+Flight test problem report 40 (page 211): Crew reported trouble locking doors on two stowage lockers
+(They basically still forced them shut)
+What recorded problem had the least negative or potentially negative impact on the mission?

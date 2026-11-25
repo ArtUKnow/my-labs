@@ -1,0 +1,8 @@
+VLA configuration locations
+The Very Large Array in New Mexico publishes here a list of antenna configurations and times that when these configurations are active. From this page there seems to be 5 different configurations:
+A, B, C, D, BnA
+Currently the antennas are in the BnA configuration.
+On this other page (PDF) they list the physical locations of the antennas at the current time. Right now, this matches the first VLA page in showing that the BnA configuration is in use.
+My question is where can I find the physical locations for the A, C and D configurations that would be displayed on the equivalent PDF listing? (I have saved the B location PDF from a previous time). I know that the actual antennas at each site will change based on what antenna is in service at the time etc., so what I am looking for would be the site locations for each of the configurations.
+What I am trying to achieve is to predict the antenna locations along with the position of the sun and the moon at future dates in order to take photos of interesting conjunctions. I have the sun and moon data I want from The Photographers Ephemeris, so all I am missing is the antenna location data.
+I'm surprised there is no tag for the VLA, but there is for the VLT in Chile ¯\(ツ)/¯

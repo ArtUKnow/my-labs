@@ -1,0 +1,38 @@
+How do the interferometers on the drag-free satellite LISA receive power without altering their geodesic trajectory?
+LISA is a proposed space probe designed to measure gravitational waves. It aims to measure gravitational waves directly by using laser interferometry. It uses a drag-free satellite design to protect the interferometers from confounding acceleration due to solar wind and light pressure.
+According to Wikipedia,
+drag-free satellites are satellites where the payload follows a
+geodesic path through space only affected by gravity and not by
+non-gravitational forces such as drag of the residual atmosphere,
+light pressure and solar wind.
+A zero-drag satellite has two parts, an outer shell and an inner mass
+called the proof mass. The proof mass floats freely inside the outer
+shell, while the distance between the outer shell and the proof mass
+is constantly measured. When a change in the distance between the
+outer shell and the proof mass is detected, it means that the outer
+shell has been influenced by non-gravitational forces and moved
+relative to the proof mass. Thrusters on the outer shell will then
+reposition the outer shell relative to the proof mass so that its
+distance is the same as before the external influence changed it.
+The outer shell thus protects the proof mass from nearly all
+interactions with the outside that can cause acceleration, except
+those mediated by gravity, and by following the proof mass, the outer
+shell (which is to say, the rest of the spacecraft, carrying
+instruments, etc.) itself follows a geodesic path.
+Examples include Gravity Probe B , DECIGO , LISA and STEP .
+Ground based gravity wave observatories such as LIGO measure spatial distortions of 10^-18m over a path length of 4 km, a fraction of the diameter of a proton. The interferometer must be protected from spurious accelerations, even ground vibration from distant road traffic.
+LISA will require power to run the interferometer lasers and detectors.
+The interferometers themselves must be "surrogate proof masses" (their trajectory must exactly mirror the proof masses). If interferometers were connected to the outer shell, they would be subjected to the same accelerations as the outer shell as it adjusts its trajectory to match the "designated" proof masses (gold cubes).
+LISA needs its interferometers to be active components requiring power. How is this power supplied without transmitting spurious accelerations from the shell spacecraft thrusters?
+Addendum: I was incorrect in my assumption that the interferometer was separated from the spacecraft bus. This paper, (from a comment by @jpa), https://iopscience.iop.org/article/10.1088/1742-6596/154/1/012021/pdf specifically states that
+The S/C (spacecraft) bus structure is designed seamlessly with the scientific
+payload (interferometers).
+I had assumed the interferometers needed to be following a free-fall geodesic trajectory, The “shell” spacecraft around would shield it from solar wind and light pressure. The “shell” would sense relative motion of the 2 proof masses and use thrusters to compensate. Intermittent thruster firing would impose acceleration on the shell. These motions would be transmitted to the interferometer if the two were mechanically connected by power lines.
+However, LISA's design does not use intermittent thrusting.
+LISA requires micronewton thrusters to provide the fine spacecraft
+attitude and position control for drag free flight and beam pointing
+to the distant spacecrafts. The thrusters are operated continuously
+during science operations with their thrust levels set by the
+disturbance reduction system control loops.
+So the "shell" spacecraft continuously follows the geodesic trajectory of the proof masses without intermittent corrections. There are no intermittent thruster effects transmitted to the interferometers.
+Not my first error. Not the last, either.

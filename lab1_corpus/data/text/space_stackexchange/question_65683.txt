@@ -1,0 +1,14 @@
+Why are nitric acid and hydrogen combinations not used as rocket fuel?
+I was recently doing a chemistry assignment about bond energy when I noticed the incredibly low bond energy of nitric acid. Given the high bond energy of a nitrogen triple-bond, this set me wondering about its utility as a rocket fuel, and I quickly wrote out a few equations:
+Methane-Oxygen Combination
+CH4 + 2O2 --> CO2 + 2H2O
+2652 kJ/mol --> 3462 kJ/mol
+yields 810 kJ/mol
+Nitric Acid-Hydrogen Combination
+6HNO3 + 15H2 --> 3N2 + 18H2O
+12492 kJ/mol --> 18596 kJ/mol
+yields 6104 kJ/mol
+*Bond energies from Chemistry LibreTexts
+Nitric acid is famously hazardous. But surely a reaction output an order of magnitude higher than current chemical fuels combined with a completely clean exhaust should make this the leading liquid rocket fuel in the aerospace industry. Why is this particular combination not used? Further research from Ignition (as well as SF's comment below) indicate that nitric acid has been used as an oxidizer in the past, so it's not completely unfeasible. Is my chemistry just wrong?
+Thank you for taking the time to answer this.
+*Fixed error in the second equation, 2N3 was changed to 3N2. 20/3/2024

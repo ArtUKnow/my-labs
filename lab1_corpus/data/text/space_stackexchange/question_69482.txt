@@ -1,0 +1,2 @@
+Is the mean motion measured for the generation of TLEs?
+I know that before generating TLEs with SGP4, there has to be a measurement of some points. What exactly gets measured in these points? Is it the mean motion or the semimajor axis? How is the derivative of the mean motion propagated, does SGP4 calculate it based on a measured mean motion or is this quantity also measured?

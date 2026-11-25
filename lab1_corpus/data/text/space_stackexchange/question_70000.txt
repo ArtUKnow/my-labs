@@ -1,0 +1,2 @@
+How do mission designers quantify acceptable uncertainty in Δv budgets for interplanetary transfers?
+In mission planning, Δv estimates carry uncertainties due to navigation errors, propulsion variability, and orbital perturbations. What statistical methods are used to determine how much Δv margin to include during early mission design?

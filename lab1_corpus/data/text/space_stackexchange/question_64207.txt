@@ -1,0 +1,4 @@
+How often does a CubeSat leverage its ADCS?
+I'm wondering how often an Earth observation-focused CubeSat (6U - 27U) would leverage its onboard Attitude Determination and Control System (ADCS).
+Would it be employing its ADCS to optimize every potential ground station pass or target collect opportunity, or would it be a more rare occurrence (e.g., only reorienting after an orbital transfer or other maneuver)?
+Thanks in advance!

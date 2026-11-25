@@ -1,0 +1,2 @@
+What simulator would I use to create an image of what our solar system looks like from Alpha Centauri?
+The wikipedia article on Alpha Centauri has an image of that system from earth. I'm hoping to make the opposite image. I realize that there are various discussion of roughly what it would look like (e.g., What would our Sun look like from other solar systems?), but presumably one or another of modern simulators can actually essentially take a simulated photo of this at this point. What simulator would you recommend that I try to do this with? Thanks!

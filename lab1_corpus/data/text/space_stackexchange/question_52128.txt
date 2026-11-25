@@ -1,0 +1,7 @@
+Was liquid ozone + fluorine ever tested as an oxidizer? Ever with jet fuel?
+Searching for ozone layer circa 1957 I got Theoretical Rocket Performance of JP-4 Fuel with Mixtures of Liquid Ozone and Fluorine, NACA RM E56K14, Issue 58, Volume 63, Vearl N. Huff, Sanford Gordon. Lewis Flight Propulsion Laboratory, National Advisory Committee for Aeronautics, Cleveland, Ohio, November 26, 1956.
+From what I can understand, the paper takes measured data for oxidizer mixtures of LOX + fluorine and uses math/physics/chemistry to estimate the effect of swapping in liquid ozone for liquid oxygen.
+Question: Did anybody every try this? Was liquid ozone + fluorine ever tested as an oxidizer? Ever with jet fuel? How did it go?
+SUMMARY
+Theoretical rocket performance was calculated for JP-4 fuel with mixtures of ozone and fluorine. The data were estimated by means of a heat-correction equation using data for JP-4 fuel with mixtures of oxygen and fluorine. The estimated values were checked with several direct calculations. The estimated data were based on equilibrium composition during expansion, while the directly computed data were obtained for both equilibrium and frozen compositions during expansion.
+The maximum value of specific impulse was 334.9 pound-seconds per pound for a combustion chamber pressure of 600 pounds per square inch absolute and an exit pressure of 1 atmosphere.

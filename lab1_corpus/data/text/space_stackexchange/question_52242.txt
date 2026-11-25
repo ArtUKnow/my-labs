@@ -1,0 +1,2 @@
+Space Shuttle SRB Hydraulic Power Unit Controller Schematic: "One Shot" block, what is it?
+The space shuttle SRB's Hydraulic Power Unit (HPU) provided hydraulic power to the booster's TVC system. This HPU controller schematic shows "One Shot" blocks that I'm suddenly curious about. Any idea what these might be? I want to guess they are one-time switches to pass and permanently hold a signal once some condition is met? Many thanks if you know and can clarify!

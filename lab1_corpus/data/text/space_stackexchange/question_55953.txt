@@ -1,0 +1,5 @@
+How many solar system bodies have had their magnetic fields directly measured?
+Discussion below this post lead me to wonder:
+Question: How many solar system bodies have had their magnetic fields directly measured?
+Inferences from radio or spectroscopic observations don't count for the purposes of this question, it's got to be some kind of in situ magnetometer, some magnetic field detector that has flown past or around or landed on a body, measured the magnetic field and reported the data back to Earth.
+A measurement of zero, or of tiny fluctuations about zero certainly count as a measurement.

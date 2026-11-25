@@ -1,0 +1,5 @@
+Does NASA's Titan explorer Dragonfly have a microscope? How will it observe potential microbial life?
+One of NASA's stated goals with the Dragonfly mission is to "study astrobiology, prebiological chemistry, and the potential habitability of an extraterrestrial environment."
+I would think it would be useful to directly observe environmental samples at a microscopic level to search for examples of living or dead organisms. When viewing their instrument suite however, I see them mention:
+a mass spectrometer (Dragonfly Mass Spectrometer or DraMS) to identify chemical components relevant to astrobiology [...] and a variety of cameras (DragonCam) to image Titan’s terrain and help Dragonfly navigate and determine landing areas of scientific interest.
+It doesn't seem to me that they have a microscope. Is this correct, and if so, how do they plan to detect and observe microbial life?

@@ -1,0 +1,5 @@
+What Experimental Evidence is there for the Redshift Scale-factor Relation?
+The redshift scale-factor relation $a=\frac{1}{1+z}$ is derived from General Relativity and is fundamental to todays cosmological models.
+However unlike all other predictions of General Relativity, e.g. the shift of the perihelion of Mercury, or gravitational time dilation, there seem to be no experimental tests - and therefore it could be incorrect.
+The Concordance Cosmology, based on the above relation, has many problems, such as the Hubble tension, the unexplained nature of Dark Energy and observations of the James Webb telescope leading to the Impossible early galaxy problem.
+Maybe the standard redshift - scale factor relationship is wrong. Is there is any experimental evidence for it?

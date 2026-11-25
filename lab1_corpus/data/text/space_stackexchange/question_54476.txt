@@ -1,0 +1,14 @@
+What is the Isp of gunpowder likely to be? Could this table be right? Can it even be determined?
+There are some unsourced refutations of the value for the Isp of gunpowder in the table shown below can be found under What kind of engine does this Isp = 1600 refer to? Is it cubesat-friendly?
+Alas the links to the source of the table no longer work. While the values for Kerolox, LH2+LOX, H2+nuclear and H + electrical arc all seem plausible, an Isp of 350 seconds for "gunpowder" does make one scratch one's head.
+update: per comments there's an archived version of the page here: https://web.archive.org/web/20170112071028/http://web.csulb.edu/colleges/coe/ae/engr370i/ch05/ch4.html
+Question: What is the Isp of gunpowder likely to be? Could this table be right? Can it even be determined?
+Fuel Isp(seconds)
+gun powder 350
+kerosene + LOX** 360
+LH2 + LOX** 462
+H2 + Nuclear 800
+H + electrical arc 1600
+*Measured on the surface of the Earth
+**LOX: Liquid Oxygen
+above: Table from this page from California State University Long Beach's course ENGR 370I, Astronautics and Space.

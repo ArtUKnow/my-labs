@@ -1,0 +1,9 @@
+How to calculate the max mass and speed of an asteroid capturable by gravity assist?
+After reading this question and the answers, I am wondering about the limits of slingshot method to capture an asteroid into a planet orbit.
+Is it possible to calculate if an asteroid can be captured depending on following parameters?
+asteroid mass
+asteroid speed w.r.t. planet
+planet mass
+planet gravity
+minimum flyby altitude
+Which would be the apogee and the orbit period depending on these parameters? Are they infinite in case the asteroid cannot be captured? And would a perigee<0 mean "not capturable"?

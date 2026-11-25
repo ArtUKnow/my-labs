@@ -1,0 +1,4 @@
+Is it possible to stay in space without orbiting something?
+Like in the movies a spacecraft just stays in someplace without orbiting anything?
+This is distinct from geo-synchronous orbit, where the object orbits, but looks like it is standing still from the ground.
+With sufficient power, can you hover in place, but not via orbital velocity?

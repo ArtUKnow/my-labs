@@ -1,0 +1,12 @@
+In the event of SRB ignition failure, could jettison of the other “lit” SRB prevent catastrophe?
+Solid Rocket Boosters (SRBs) are popular launch boosters, used on the Space Shuttle, Ariane 5, Atlas V and SLV.
+However, SRBs have a number of failure modes, most of which result in catastrophe.
+Delayed ignition on the launch pad would be a potential catastrophe . The SE question What would have happened if only one Space Shuttle SRB ignited? addresses this problem. Asymmetrical thrust could cartwheel the entire vehicle, destroying vehicle and launch pad.
+Unsubstantiated internet sources describe the Space Shuttle ignition sequence as:
+SSME ignited
+Once main engines are up to 90% thrust, SRB ignition is initiated.
+SRB engines are ignited with redundant igniters. SRB hold-down bolts are blown.
+SRBs must ignite within 100msec of each other to prevent destructive torque on vehicle and launch structure.
+Richard Feynmann, a member of the Rogers Commission (which investigated the Challenger disaster) estimated an all-cause failure rate for solid fuel rockets as 1:100 which is significantly less optimistic than NASA’s 1:100,000 https://www.jstor.org/stable/2684410 . I could find no stats on the risk of SRB ignition failure alone.
+In flight, SRBs cannot be jettisoned before burn-out. However, before lift-off, could the “lit” SRB be jettisoned by firing the hold down bolts, booster separation motors and the strut bolts? There is a chance the vehicle could survive.
+In the event of SRB ignition failure, could jettison of the other “lit” SRB prevent catastrophe? In the case of the Shuttle, the hold down bolts are not strong enough to let the stack "stand on one foot". But if such support was provided in the design of other SRB vehicles, would this strategy allow potential survivability in the event of SRB ignition failure?

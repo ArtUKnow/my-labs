@@ -1,0 +1,3 @@
+Can a Delta IV Medium fairing be put on a Delta IV Heavy for small payloads?
+The Delta IV Heavy has a bigger fairing because it's able to lift heavier/bigger payloads, as we saw in this question. But if a payload is small and still needs a Delta IV Heavy because of its high density or large delta v requirements, can the much smaller fairing from the basic Delta IV Medium on the left be used for an additional performance boost?
+In this diagram it looks like it would fit nicely... but I know that's not a valid argument.

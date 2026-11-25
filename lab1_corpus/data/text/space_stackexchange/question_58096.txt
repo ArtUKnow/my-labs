@@ -1,0 +1,79 @@
+How do you compute horizontal coordinates of a GPS satellite from its broadcast ephemeris?
+I'm not an astronomer by any means, and am trying to extract the horizontal coordinates, azimuth and altitude, of a GPS satellite given its most recent broadcast ephemeris.
+Here is some example ephemeris data that I'm given from one GPS satellite:
+Value
+Units
+Description
+2.5484E-04
+s
+Time polynomial coefficient 0
+6.1391E-12
+s/s
+Time polynomial coefficient 1
+0.0000E+00
+s/s^2
+Time polynomial coefficient 2
+-5.2154E-08
+radians
+Amplitude of cos harmonic correction term to angle of inclination
+7.4506E-08
+radians
+Amplitude of sine harmonic correction term to angle of inclination
+1.4072E+02
+m
+Amplitude of cosine harmonic correction term to orbit radius
+-4.2938E+01
+m
+Crs
+-2.2259E-06
+radians
+Amplitude of cosine harmonic correction term to argument of latitude
+1.2551E-05
+radians
+Amplitude of sine harmonic correction term to argument of latitude
+1.2808E-09
+semicircles/s
+Mean motion difference from computed value
+5.7916E-03
+Eccentricity
+3.0838E-01
+semicircles
+Inclination angle at reference time
+1.8383E-10
+semicircles/s
+Rate of inclination angle
+3.6954E-01
+semicircles
+Mean anomaly at reference time
+3.0715E-01
+semicircles
+Argument of perigee
+1.7677E-01
+semicircles
+Longitude of ascending node of orbit plane at weekly epoch
+-2.4689E-09
+semicircles/s
+Rate of right ascension
+5.1537E+03
+sqrt(m)
+Square root of the semi-major axis
+-1.1176E-08
+s
+Group delay differential
+2.5200E+05
+s
+Clock data reference time
+2.5200E+05
+s
+Reference time of ephemeris
+I'm using python, and my current process is:
+Compute the corrected Keplerian parameters at the current time. I use the equations from this appendix.
+Import the corrected Keplerian parameters into PyEphem using the XEphem format (to find it quickly, search for "object type is Earth satellite" on that page): e = ephem.readdb(line)
+Compute the observer location e.compute(self.observer)
+Check the calculated azimuth and altitude against in-the-sky.org for my location
+But the calculation is always wrong compared to in-the-sky.org. What am I doing wrong? Could I be doing it differently?
+Here is some example output from my program that compares the altitude and azimuth from Celestrak ephemerides to my other ephemerides data source.
+Name: Celestrak GPS Sat 13 (Other Source) GPS Sat 13
+altitude: -6:16:50.0 -41:39:25.2
+azimuth: 235:16:27.9 60:17:06.8
+As of this writing, in-the-sky.org from my location shows that the altitude is -7 degrees, and the azimuth is 234 degrees. Celestrak is usually within 1-2 degrees of in-the-sky.org.

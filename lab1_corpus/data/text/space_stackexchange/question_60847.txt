@@ -1,0 +1,13 @@
+Comparing Newtons 2nd law and Tsiolkovskys
+I've been attempting to simulate a rocket launch, using:
+ΣF= ma + md/dt*v
+If ΣF is simplified to only include F_m, being the rocket's thrust, the equation, if solved for a, is:
+a = (F_m - md/dt*v)/m
+Simulating with
+md/dt*v
+gives a value much higher than using Tsiolkovskys, but if it's dropped, the two values are approximately the same. Why would you drop using variable mass?
+Note: by variable mass I mean m' itself in:
+md/dt*v
+but not entirely, as m is given as
+inital mass - m' * time (in seconds)
+Thanks.

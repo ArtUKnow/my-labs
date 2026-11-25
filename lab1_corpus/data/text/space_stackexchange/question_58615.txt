@@ -1,0 +1,6 @@
+Why do satellite solar arrays misalign from each other?
+Searching for an answer to the title's question, I came across a post (How accurately can solar panels be continuously oriented toward the sun on a typical satellite?), in which someone said that "Twice a year, the solar arrays of a geostationary satellite with one degree of rotational freedom will be misaligned from optimal by at least 23.5 degrees."
+What is a degree of rotational freedom?
+How did he get to the value of 23.5 degrees?
+And finally:
+AFIK, solar arrays also unalign from each other (for instance, the North SA "moving" faster than the South SA). Why does it happen?

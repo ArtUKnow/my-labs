@@ -1,0 +1,2 @@
+Is the life support system on ISS and other used manned spacecrafts fully redundant?
+I just finished watching the Sci-Fi movie Stowaway where the crew of the spacecraft MTS-42 heading to Mars, gets in all kind of troubles after the failure of the single life support system. My question is whether the life support system is in reality completely redundant on the ISS or in previous manned spacecraft (or future ones for which the design has been finalized)? If not, what procedures are in place for dealing with the event of a life support system failure?

@@ -1,0 +1,3 @@
+What Exactly Causes Lunar Nodal Precession?
+I'm trying to understand what exactly causes lunar nodal precession.
+Based on this article, my understanding is that precession of the plane of the moon's orbit is what causes the motion of the Moon's nodes along the ecliptic. Is this a correct understanding? Thinking more deeply about it, it seems that Apsidal precession could also impact the location of the nodes, but I would imagine this motion would have a smaller effect.

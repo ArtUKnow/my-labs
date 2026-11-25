@@ -1,0 +1,14 @@
+Did the QB50 cubesat project actually demonstrate orbit raising via solar sail or solar panels (winning against drag)? If so, at what altitude?
+This answer to Could satellite decommissioning be delayed or prevented with the use of solar sail technology? cites a paywalled Economist article. Most of the quote discusses differential drag (i.e. some drag vs more drag) which is now a well established technique for phasing cubesat constellations like CYGNSS and Planet Labs' Doves.
+this answer to Rocket to launch 8 cubesat to LEO at an equidistant distance
+Wikipedia's Cyclone Global Navigation Satellite System: Use of Differential Drag to Adjust Satellite Spacing
+Differential Drag Control Scheme for Large Constellation of Planet Satellites and On-Orbit Results
+Do all artificial satellites have engines?
+Why is one Starlink satellite not following the adjacent one in this image?
+How will the RADARSAT Constellation Mission (RCM) satellites achieve their final orbital spacing? (currently incompletely answered)
+The paywalled article discusses the QB50 project, which used differential drag.
+But the last paragraph of the block quote from the paywalled article seems to cite Pini Gurfil of Technion University saying that solar panels of cubesats can use solar photon pressure to actually raise altitude!
+Orient a satellite so that its solar panels are hit by the maximum possible amount of light in the part of its orbit when it is receding from the sun, and the minimum amount when it is approaching it, and the spacecraft will gain speed, and therefore altitude. For a CubeSat smaller than a shoebox, with solar panels the size of two old-fashioned record-album sleeves, harnessing sunlight in this way should lift its orbit by several dozen metres a day, according to Dr Gurfil.
+Did that happen? Did any of the QB50 cubesats "lift their orbits" by getting more solar photon raising from the panels than their atmospheric drag lowering?
+One of them had an actual sail, but InflateSail decayed from orbit on 3 September 2017. More information can be found at https://www.qb50.eu/index.php/community
+Different but related: Has propulsion utilizing solar sail / drag effects of solar panels achieved orbital rendezvous? If yes, is there any utility for clearing space junk?

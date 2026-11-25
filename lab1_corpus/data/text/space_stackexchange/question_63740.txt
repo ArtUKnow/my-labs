@@ -1,0 +1,21 @@
+ISS (ZARYA) TLE to Latitude Longitude Conversion
+I am trying to take TLE of ISS (ZARYA) and get the latitude longitude and height. I am aware the TLE is in TEME~(True Equator Mean Equinox) frame. This means that the TLE was generated considering the True Equator as of TLE generation time and X axis pointing to mean equinox. Thus, if I were to calculate instantaneous latitude, longitude and altitude at the TLE generation point I need not worry about the precession and nutation complexity. I am also aware that LLH of ISS is expressed in geodetic coordinates. Now getting the exact sidereal time at the TLE generation time seems to be a little involved process involving UT1 and GMST equations (and UTC!), but I am able to bypass that problem by considering a UT1 time and sidereal time at 1 Jan 2023 12:00PM and then assume them to linearly related for short time. I am assuming within an year deviation will be small enough.
+Anyway, I am first trying to attack the latitude problem, which is indepedent of sidereal angle and must come very close to actual number.
+I am considering this TLE. Which is for date 2023-05-25 07:49:28.500
+I derived the date using tle to date online utility
+ISS (ZARYA)
+1 25544U 98067A 23145.32602431 .00014206 00000+0 25493-3 0 9994
+2 25544 51.6413 81.8570 0005396 18.1967 120.0030 15.50160974398246
+Now using historical ISS data I am able to pull the latitude longitude and height
+at this time ISS Hitorical Data
+Lat: 31.581 deg
+Lon: -127.093 deg
+Ht : 419.88 km
+The inertial vectors I derived using the mathematical equations as defined in kep2cart doc are
+-3498.170819 -4621.733107 3548.392785 2.785672 -5.551759 -4.477993
+Now using this ECEF to LLH online utility I can convert to geodetic lat lon ht:
+Latitude : 31.63493 deg N
+Longitude : 232.87807 deg E (forget this for a while)
+Height : 423939.5 m
+The two latitudes are off by 0.05 degrees. Why there is this difference? Or I am assuming something about precession and nutation that I cannot?
+Another issue is the altitude, using WGS84 system altitude should also come exact. Why is there difference in altitude?

@@ -1,0 +1,8 @@
+Why is the James Webb Space Telescope temperature not shown?
+The Where Is Webb page shows an empty temperature tab:
+Reading the About this Page, it is delayed by 1-2 days after the launch:
+NOTE:
+Temperature data will begin updating 1-2 days after launch.
+Displays will read "---" until that point.
+Screenshot
+Why won't they show the temperatures right away?

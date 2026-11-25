@@ -1,0 +1,12 @@
+Why is Chandrayaan-3 described as the first mission to land in the Moon’s south polar region despite landing at ~69° S latitude?
+Chandrayaan-3 is often described as the first mission to achieve a soft landing in the lunar south polar region.
+However, the Vikram lander touched down at approximately 69° S latitude, which seems well outside what one would define as a “polar region” based on axial tilt considerations.
+For comparison:
+Earth’s axial tilt is ~23.5°, so regions poleward of 66.5° are considered polar (Arctic/Antarctic circles).
+The Moon’s axial tilt is only ~1.5°, which would place the lunar polar circles at roughly ±88.5° latitude.
+By this definition, a landing at 69° S would not fall within a strict polar region.
+My questions are:
+How is “polar region” defined for the Moon in planetary science and mission terminology?
+Is the ≥60° latitude conventionally treated as a lunar polar region, and if so, why?
+Is the designation based more on illumination conditions, permanently shadowed regions (PSRs), and resource relevance rather than axial-tilt-based geometry?
+I am trying to understand whether this is a difference in scientific definition versus public-facing terminology, or if there is a formally accepted lunar standard that differs from Earth-based intuition.

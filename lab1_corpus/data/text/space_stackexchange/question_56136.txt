@@ -1,0 +1,11 @@
+How did Venus Express' periapsis decay so quickly?
+ESA's Venus Express ran out of propellant in late 2014 and has probably decayed out of orbit since then.
+A timeline of events from my research for my answer to Are there currently any spacecraft in orbit around Venus that might (or might not) be at risk of meteoric dust from comet Leonard C/2021 A?:
+In mid July 2014 Venus Express was in a 63,000 km x 460 km orbit.
+By late November the periapsis (or pericytherion if you're posh) had dropped low enough that mission operators elected to try and raise it back up; this is when it ran out of propellant and subsequently lost attitude control.
+By January 2015 the periapsis was predicted to be only ~120 km(!), this is roughly density equivalent to ~100 km on Earth, in a ~53,000 km x 120 km (calculated) orbit. This was the last time ESA was able to detect the spacecraft's carrier signal.
+This dramatic of a periapsis drop relative to the change in apoapsis just doesn't add up in my back of envelope thinking.
+The lowering of velocity at periapsis affects apoapsis height and, minimally, periapsis height. This is seen dramatically in the decay of Komsmos-482 (1972-023E), via Jonathan McDowell:
+The periapsis for Kosmos-482 (1972-023E) drops from 228 km (1972) to 199 km (today, ~50 years later!).
+Though solar cycle 24 did peak in 2014, it wasn't that strong and the MSISE-90 Model puts Earth's density @ ~200km at ~10e-9 $kg/m^3$ during high solar activity. Compare this with actual Venus Express measurements of densities around 10e-12 $kg/m^3$ @ only ~190 km altitude.
+How did Venus Express' periapsis decay so quickly?

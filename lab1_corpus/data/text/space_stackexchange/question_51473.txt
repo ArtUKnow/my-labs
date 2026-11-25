@@ -1,0 +1,4 @@
+Minimum reentry velocity ideal for a spacecraft returning to Earth
+During the return trip from Mars or Moon, SpaceX starship can refuel it's propellant tanks before reentry. It can use these propellants for reverse thrust to bring the spacecraft velocity to near idle velocity before reentry in the Earth atmosphere.
+Reentring the Earth's atmosphere with high velocity and using the spacecraft's heatshield alone to reduce the speed and convert the kinetic energy into heat may be suicidal. If refueling of starship in space is a reality, what is the minimum reentry velocity ideal for a spacecraft returning to Earth?
+Edited: Idle velocity should not be misconstrued as zero velocity, but the minimum velocity required for safe return of spacecraft to Earth without too much heating in the atmosphere during re-entry. Another concern is chasing the spacecraft by the fuel depot craft for the refueling.

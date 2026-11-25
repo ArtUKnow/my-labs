@@ -1,0 +1,42 @@
+Hour angle to Right Ascension correct when the longitude is positive
+I'm developing a Astronomical software using the formulas from the book: "Practical astronomy with your Calculator and Spreadsheet", but I'm having some problems to get the right ascension from the hour angle.
+I'm using these input data:
+Hour Angle: 20:29:20.19999999999999
+Decimal Hour angle: 20.488944000000000
+Longitude -3.9290699958801270
+Time: 18:30:00, July 17th, 2024 UTC+2
+To get the right ascension, I use this algorithm:
+Find the UT and Greenwich calendar date corresponding to the local time and date
+Find the corresponding Greenwich sidereal time
+. . . hence find the local sidereal time
+Subtract the decimal hour angle from the LST. If the answer is negative, add 24. This is the right ascension.
+To find the Local Sidereal Time I use the user's longitude and GST to get it:
+Convert GST to decimal hours.
+Convert the geographical longitude in degrees to its equivalent in hours by dividing by 15.
+Add this to the GST. Bring the result into the range 0 to 24 by adding or subtracting 24 if necessary.This is the local sidereal time (LST).
+With the above data, I get these results:
+UT Time: 16:30:00, July 17th, 2024 UTC+2
+Greenwich sidereal time: 12:13:57.229999999999997
+Local sidereal time: 11:58:14.250000000000000
+Decimal Local sidereal time: 11.970625000000000
+Right Ascension: -8.518319000000000
+15.481681000000000
+Unfortunately, they are wrong.
+But, if I change the sign of the longitude, I get the right one.
+Using the same data, but with longitude positive, Longitude: 3.9290699958801270, I get these results.
+Input
+Hour Angle: 20:29:20.19999999999999
+Decimal Hour angle: 20.488944000000000
+Longitude 3.9290699958801270
+Time: 18:30:00, July 17th, 2024 UTC+2
+Output
+UT Time: 16:30:00, July 17th, 2024 UTC+2
+Greenwich sidereal time: 12:13:57.229999999999997
+Local sidereal time: 12:29:40.210000000000001
+Decimal Local Sidereal Time: 12.494503000000000
+Right Ascension: -7.994441000000000
+16.005558999999998
+Why do I get the correct result when I change the sign of the longitude? Is the algorithm wrong?
+Or maybe, the right right ascension is 15.481681000000000.
+I have also tried to find the formula to compute all of these data, but I haven't found it. Maybe because I'm not English and I haven't used the right key words in Google.
+Do you know if there is a C++ library with all of these formulas implemented? Nasa's SPICE Toolkit?

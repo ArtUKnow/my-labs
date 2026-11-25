@@ -1,0 +1,4 @@
+Why is a seated posture for astronauts preferred over a standing posture?
+Crewed spacecraft for travel to/from Earth, and much speculation for the SpaceX Starship, have seats with the astronauts upper body level in an eyeballs in orientation. This is because this is the orientation human tolerate acceleration best.
+However it is also the case that the astronauts upper legs are vertical like a typical chair rotated 90 degrees, rather than horizontal like a bed. Is there any reason for this posture other than the small size of some spacecraft and varying acceleration direction of the Space Shuttle?
+I have found a NASA report Seating Considerations for Spaceflight: The Human to Machine Interface but it doesn't go into leg orientation.

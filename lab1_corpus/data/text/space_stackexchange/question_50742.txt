@@ -1,0 +1,9 @@
+What are the limitations to using this "trick" to quantitatively relate altitude changes (via their speed) with applied forces that cause them?
+In this comment I used a "trick" to double check a calculation in the post above it.
+Using the vis-viva equation I first determined that if the ISS lost 10 meters of altitude in 86400 seconds it would gain 5.68 mm/sec of orbital velocity over that time period.
+But I then treated the ratio of those two numbers as if it were an acceleration and then equated that ratio to $F/m$:
+$$\frac{\Delta v_{\text{orb}}}{\Delta t} = \frac{F_{\text{retro}}}{m}$$
+where $F_{\text{retro}}$ is any average retrograde force that would have produced that loss in altitude (in this case drag), $\Delta v_{\text{orb}}$ is the change (increase) in orbital velocity and $m$ is the mass of the ISS.
+If you have prograde force then you will raise the orbit and $\Delta v_{\text{orb}}$ will be negative.
+I learned this "trick" a while ago, probably from some @MarkAdler answer, and for nearly circular orbits and small or slow changes in velocity it tends to work well.
+Question: What are the limitations of this "trick"? Can it be extended to elliptical orbits in some way? Can it be used with large impulses? Can it be used with slow spirals seen in solar sail or electric propulsion calculations? Will it work in other universes?

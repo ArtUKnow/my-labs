@@ -1,0 +1,2 @@
+determining lunar eclipse with SPICE toolkit
+Is there any way to determine if the Sun is visible from the Moon at a given latitude/longitude and at a given instant in SPICE toolkit? Specifically, determine if there is lunar eclipse or transit and if so, how much of the solar disk is shaded by the Earth? Or do i have to do it myself from the position vectors?

@@ -1,0 +1,5 @@
+The highest position of the sun at the equinox & solstice
+Is there an easy way to determine the highest position of the sun in a calendar year at one of the two equinoxes? Perhaps with almanac computation (I am using Skyfield)? Unfortunately, 12:00 is not always noon... (Should be around YYYY-03-20.)
+Additionally I am looking for highest position of the sun in one calendar year. (Should be around YYYY-06-21.)
+I am decent with the Skyfield library, which usually gives me the results I am looking for (and I love it very much), but I can't solve this maximum question.
+(It doesn't have to be ultra extra precise.)

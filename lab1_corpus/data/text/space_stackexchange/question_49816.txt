@@ -1,0 +1,13 @@
+What is a Beam Waveguide dish and why do deep space communications stations use them?
+NASA Spaceflight.com's Deep Space Network upgrades and new antennas increase vital communication capabilities says:
+NASA’s Deep Space Network, commonly referred to as the DSN, has welcomed a new dish, Deep Space Station 56, to its family of powerful ground listening stations around the world.
+The now-operational 34-meter antenna joins the network’s Madrid Deep Space Communications Complex located 60 kilometers west of Madrid, Spain while other dishes within the network undergo critical upgrades.
+and
+The network, nonetheless, is showing its age, with upgrades and refurbishments needed to ensure continuous operations. Part of this initiative is the recent addition of the new dish, Deep Space Station 56 (DSS-56), at the Madrid complex
+“After the lengthy process of commissioning, the DSN’s most-capable 34-meter antenna is now talking with our spacecraft,” said Bradford Arnold, DSN project manager at the Jet Propulsion Laboratory.
+The new antenna is a Beam WaveGuide dish and underwent a far more complex commissioning phase than its predecessors due to its novel nature of being the first “all-in-one” antenna capable of communicating with all missions/probes that use the DSN.
+Questions:
+What is a Beam Waveguide dish and why do deep space communications stations use them?
+Ideally would all deep space communications station dishes be Beam WaveGuide dishes, or are there benefits to some of them being more conventional (e.g. feed antenna being at the primary or secondary focus)? I think the 70 m dishes are not Beam Waveguide types.
+Evidence of Prior Research:
+The DESCANSO series' Volume 4: Large Antennas of the Deep Space Network chapters 7 and 8 do cover this topic at length but an answer will need to distill this down for item 1 and I could find no evidence of information for item 2.

@@ -1,0 +1,2 @@
+Does a RTLS (Return To Launch Site) landing deposit more soot on the booster than a drone ship landing?
+First, it performs an extra burn (the boostback burn). Does this burn make a credible source of extra soot? Second, sometimes it appears to have flown through the second stage's exhaust plume. Does this add soot as well?

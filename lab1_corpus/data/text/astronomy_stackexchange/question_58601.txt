@@ -1,0 +1,4 @@
+What element do black dwarf supernovae burn?
+According to wikipedia:
+pycnonuclear (density-based) fusion processes much of the star to iron, which would lower the Chandrasekhar limit for some black dwarfs below their actual mass. If this point is reached, it would then collapse and initiate runaway nuclear fusion.
+but of what element? It most likely can't be iron, since fusion of iron is endothermic, but then what element do black dwarf supernovae hypothetically burn? Is it the residual carbon in the core, or something else created by the pyronuclear reactions?

@@ -1,0 +1,5 @@
+"...extending the Starlink network using longer-range laser comms and relay satellites to reach Mars and Starships in-transit" (Musk & Shotwell)
+I have it on good authority that SpaceX's Elon Musk and Gwynne Shotwell:
+...have talked about extending the Starlink network using longer-range laser comms and relay satellites to reach Mars and Starships in-transit...
+It makes sense; Starlinks are downward-facing and compact. One could put several optical communications spacecraft in LEO that talked to them and pointed out to deep space to have continuous optical coverage.
+Question: What exactly have they said about this so far to date? Have any technical tidbits been suggested by SpaceX or those who follow it closely?

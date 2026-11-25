@@ -1,0 +1,9 @@
+What is or are the official English names for the eventual space station being built by China, and of the first module that's in orbit now?
+China has launched the first module of a space station and plans to have astronauts inside it to start woking in about a month.
+In Astronomy SE they've already started calling it the "Chinese Space Station" or "CSS"
+This answer to Details on the telescope(s) on the Chinese Space Station 天和
+and there's a csst tag for the CSS Telescope
+To my surprise and chagrin, publications by Chinese academics do cite this kind of naming (e.g. CSS-OS and CSST)
+Cosmology from the Chinese Space Station Optical Survey (CSS-OS)
+Testing photometric redshift measurements with filter definition of the Chinese Space Station Optical Survey (CSS-OS)
+Question: In the west, are there official names for the final space station and the current module?

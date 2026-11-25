@@ -1,0 +1,2 @@
+It is possible to perform a simplified version of rpo with GMAT?
+I have one target vehicle and a chaser. How can I perform an orbit transfer with GMAT but, at the end of the transfer this finished maintaining a relative position of 1000 m behind the target and 1000 bellow it.

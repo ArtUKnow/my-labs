@@ -1,0 +1,4 @@
+Did the Curiosity and Perseverance rover brains do the driving from Earth to Mars?
+This interesting answer to Why did NASA intentionally crash-land the Curiosity and Perseverance sky cranes on Mars? leads me to wonder if the Curiosity and Perseverance rover computers were in charge the whole time, that during the long voyage from Earth to Mars it was their computers that JPL was talking to; they received commands from Earth via some high-gain antenna (and amplifier or radio) on the outside, fired the thrusters to spin up/down, processed star-camera data for attitude control, release the tungsten weights before reentry, pop the cover and shield, etc.
+Question: Is this all true? Did the Curiosity and Perseverance rover brains do the driving from Earth to Mars? Or was there a separate flight computer for this work?
+From this answer to Where does MSL end and Curiosity begin?:

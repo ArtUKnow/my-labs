@@ -1,0 +1,9 @@
+What exactly does $k\sigma$ mean in astrophysics and cosmology?
+In statistics, $\sigma$ or $1\sigma$ is the standard deviation. For the normal distribution, approximately $68\%$ of the values lie within $1\sigma$ range, $95\%$ within $2\sigma$, and $99.7\%$ within $3\sigma$. These are the things I know.
+However, as I read papers, I came across two situations, which are:
+Massara2021
+The errors on the neutrino masses from the marked power spectrum are $\sigma_{cb}(M_\nu)=0.5 \ \text{eV}$ and $\sigma_{m}(M_\nu)=0.017 \ \text{eV}$. The latter indicates that marked power spectra on the total matter density can put a $3.5\sigma$ constraint on the minimum sum of the neutrino masses.
+I know that the smaller $\sigma$ is, the tighter the constraints on the parameters. But, what does $3.5\sigma$ mean? How is it calculated to?
+Houliston2022
+In the joint analysis, the Hubble constant found in flat $\Lambda$CDM is $H_0 = 73.3^{+1.7}_{-1.8}\text{km}\cdot \text{s}^{−1} \text{Mpc}^{−1}$. This $2.4\%$ precision value agrees with the SH0Es 2020 value, and is in $3.1\sigma$ tension with the Planck CMB value.
+What does $3.1\sigma$ tension mean?

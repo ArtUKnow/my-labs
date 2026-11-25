@@ -1,0 +1,6 @@
+Why aren't off-axis reflector telescopes more popular for space telescopes? Have there ever been any?
+It seems that:
+The light gathering capabilities would be slightly better without the blocked aperture (clear aperture is a premium for fairing-limited space telescopes)
+The diffraction patterns from the support vanes and central obstruction would be eliminated (the smaller the obstruction, the larger the extent of its diffraction pattern)
+More versatile mechanical configurations would potentially be enabled
+So why aren't off-axis reflector telescopes more popular for space telescopes? Have there ever been any?

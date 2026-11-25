@@ -1,0 +1,11 @@
+If the rotational axis of a theoretical, perfectly spherial Earth wobbled, would an observer visually experience the same effect as on our Earth?
+I am trying to understand the mechanics of planetary precession as experienced visually by an immortal observer located in, say, London.
+Using a stellarium software, I observed the changes in the night sky over London when jumping forward in time in 1 calendar year steps. Result: The sun appears stationary while the 12 constellations of the zodiac rotated one-by-one into the background of the sun, i.e. the celestial sphere appeared to execute a 360° rotation -- apparently due to precession. This is known as the zodiac drift or zodiac shift:
+The apparent position of the Sun relative to the backdrop of the stars at some seasonally fixed time slowly regresses a full 360° through all twelve traditional constellations of the zodiac, at the rate of about 50.3 seconds of arc per year, or 1 degree every 71.6 years. [source]
+I would like to know if this observation would be any different, if Earth were a perfect sphere.
+According to an answer to the question Would the Earth still precess if it were an ideal sphere? no precession would occur:
+The component of Earth's precession attributed to the tidal torques of the Moon and Sun on the oblate Earth is called "precession of the equinoxes". Earth's much smaller and faster torque-free precession is called "Chandler wobble".
+In theory, neither phenomenon would be observed if the Earth was a perfect sphere.
+But both this question and its answer seem to look at the problem from a causal perspective: A spherical Earth would not experience the forces (tidal torques of the Moon and Sun on the oblate Earth, etc.) causing the wobbling of Earth's tilted rotational axis, therefore the precession of the equinoxes would not occur in the first place.
+I am interested in the opposite question: Would the precession of the equinoxes occur for a perfectly spherical Earth, if the wobbling of Earth's rotational axis were artificially generated, say, by Superman or the hand of God ?
+In other words: Taking the wobbling of Earth's rotational axis takes place as a given, would an immortal observer in London on a near-spherical Earth like ours see the same effect like the same observer on a theoretical spherical Earth ?

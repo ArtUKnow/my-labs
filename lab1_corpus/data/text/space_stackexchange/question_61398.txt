@@ -1,0 +1,5 @@
+During spacecraft reentry what makes heat-shield-side-down the most stable orientation?
+During reentry, why is the orientation of the spacecraft where the heat shield side leads the vehicle the most stable?
+I'm not sure how accurate KSP is, but when I reenter the atmosphere headshield side down (picture 1), it is pretty much impossible to reorient the spacecraft any other direction.
+However, if I reenter the atmosphere pointy end first (picture 2), I am able to reorient the spacecraft the way it is in picture 1.
+I am having trouble reasoning why this is the case.

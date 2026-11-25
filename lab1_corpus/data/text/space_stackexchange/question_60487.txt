@@ -1,0 +1,4 @@
+How can we source potassium fluoride outside of Earth?
+Potassium fluoride is the best known terrestrial option to purify the various materials used for the manufacturing of photovoltaic panels. Many of these materials can be found in regolith. The process most commonly used to produce potassium fluoride consists in dissolving potassium carbonate in hydrofluoric acid.
+What would be the easiest way of sourcing such materials in the solar system outside of Earth? Ideally, this should be done using materials found on the Moon or some asteroids, with Mars being a last-resort option.
+Alternatively, are there other options that should be considered?

@@ -1,0 +1,9 @@
+What were/are the stingiest and most generous vacuum nozzle? (records for the smallest and largest expansion ratios)
+Vacuum nozzles are huge compared to their sea-level or atmospheric counterparts, as can be seen by comparing the first stage engines on an Electron or Falcon-9 to their second stages, where a big interstage space is needed for that one, giant vacuum nozzle.
+Ideally or at least simplistically the expansion ratio for a vacuum engine would be infinite, so the final exit diameter chosen depends on how generous designers want to be towards the performance at the expense of other practical issues like total height, diameter, drag, mass, etc.
+Question: What have been the stingiest and most generous vacuum nozzles on the stages of a launch vehicle1? What are the records for the smallest and largest expansion ratios? Candidates don't have to be on the same vehicle, you can mix and match.
+A starting point might be from answers to What is a typical sea-level engine nozzle/expansion ratio? What about vacuum engines?
+From Rocket Performance and Efficiency found here:
+(click for larger)
+1I'm kinda interested in seeing the largest expansion ratio 2nd stage nozzle, but kick stages should count as well since they are "real rocket engines"
+and just as much responsible for getting a spacecraft inserted into its target trajectory as then 2nd stage, conceptually at least.

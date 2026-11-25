@@ -1,0 +1,3 @@
+What does a flight path angle of zero degrees mean at launch?
+Total beginner here so please be gentle. I'm looking at the Apollo 11 flight path angle plot from Apollo Saturn V Postflight Trajectory AS 506 which shows a zero degree angle at launch.
+Isn't path angle measured from the horizontal? In fact, this plot levels back out at zero after orbital insertion. What does this zero degree at launch mean--shouldn't it be 90 degrees for a vertical launch?

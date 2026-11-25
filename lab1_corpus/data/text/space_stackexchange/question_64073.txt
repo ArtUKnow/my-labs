@@ -1,0 +1,4 @@
+What is the beam width of the antenna of Voyager 2?
+There is a communication pause with Voyager 2 since July 21, the antenna points 2 degrees away from Earth. A series of planned commands sent to NASA’s Voyager 2 inadvertently changed the antenna alignment.
+Source Mission Update: Voyager 2 Communications Pause
+How large is the beam width compared to the 2 degrees miss-alignment?

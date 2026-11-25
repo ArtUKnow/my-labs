@@ -1,0 +1,3 @@
+Injector design - LOX vs nitrous oxide
+What will be the main design differences between using liquid oxygen and liquid nitrous oxide as oxidizer in a bi-propellant rocket engine? What liquid/gas properties (vapor pressure etc.) play the biggest role in injector design?
+When considering for example an impinging injector - how does LOX design need to change for nitrous oxide when considering same fuel (like RP-1, ethanol etc.)?

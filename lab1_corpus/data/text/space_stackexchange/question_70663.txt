@@ -1,0 +1,15 @@
+Did the Saturn V’s stage 2 (S-II) use helium for filling space in its tanks? Why or why not?
+Summary
+I revisited the classic xkcd Up Goer Five and remembered something odd that I’d never learned the reason for. Stages 1 and 3 have clearly marked helium tanks (with the memorable euphemism “funny-voice air”). But Stage 2 doesn’t have any helium tanks marked. So my question is multi-part.
+Did the S-II stage use helium for filling up tank space during the burn?
+If yes, where and how was the helium stored?
+If not, why did the other stages need helium, and this one didn’t?
+Attempts to find this information
+The first video I found (Saturn V’s Hidden Plumbing) claimed there to be “six enormous spherical helium tanks that sat directly inside the liquid hydrogen tank” (4:18), but no such tanks appear on any diagram I could find. The first video is contradicted by a second, similar video on that channel (The Hidden Pressure System That Kept Saturn V Alive), which claims helium was used in the LOX tank, but not the LH2 tank, which it claims used hydrogen gas. (1:45) At this point I assume that whole channel has AI hallucinations mixed in with the good information, so I can’t trust any of it. To make matters worse, when I was Googling this question, Google’s AI summary cited that video to say there was helium used for filling space in the S-II.
+Helium was not mentioned in a much more reputable video (The Saturn V Stage II) except for use in testing the stage for leaks.
+I read through the S-II section of this 500-page “technological history” from NASA: Stages to Saturn. There were detailed descriptions of the difficulties in manufacturing and testing the S-II, including the famous Phillips Report, but helium was again not mentioned, except for testing, and purging air from some insulation during manufacture. I was surprised by that, given how many problems they described with making and testing these colossal tanks, surely they needed to protect them during the burn?
+Next I searched for “helium” in that same document. Turns out:
+The S-IC used helium for filling space in the RP-1 tank, and gaseous oxygen for the LOX tank. (p. 122)
+The S-II also used gaseous oxygen for its LOX tank. I could not find any description of space-filling gas for its LH2 tank. (p. 144)
+The S-IVB used helium for its LOX tank. (p. 144) The LH2 tank there used a combination of helium and gaseous hydrogen (p. 178). The S-IVB used in the Saturn V actually used two sets of helium tanks: a cold set for filling space, and an ambient set for operating pneumatic valves (pp. 179, 182). I understand the S-IVB has special requirements, since the flight plan calls for it to stop and coast for several minutes before restarting.
+Unfortunately, I still couldn’t find information on keeping the S-II LH2 tank pressurized. I can assume it also used gaseous hydrogen, but that’s not spelled out anywhere I could find. And why wouldn’t it also need helium like the S-IVB did for that tank? Is the need to restart the only reason?

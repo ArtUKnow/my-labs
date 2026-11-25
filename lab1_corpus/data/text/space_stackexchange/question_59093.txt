@@ -1,0 +1,2 @@
+Do engines in the middle of an engine cluster get impulse benefits?
+Presumably the rocket engines in the center of an engine cluster would be surrounded by lower-pressure exhaust from the outer engines so essentially the "atmospheric pressure" around the center engine would be lower, resulting in a higher specific impulse. Is this correct, and has this phenomenon been observed?

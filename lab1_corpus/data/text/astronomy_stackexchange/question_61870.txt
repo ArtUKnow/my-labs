@@ -1,0 +1,3 @@
+Does an entire flux of neutrinos eventually get absorbed?
+Take for example the normal solar flux of neutrinos which is roughly 1010 neutrinos/cm2/s. This would produce 1038+ neutrinos each second.
+Neutrinos are iconic for their extremely weak interaction with matter. Thus, out of all those neutrinos produced, an absurdly small fraction of them get absorbed by Earth (detected by underground neutrino detectors) whilst almost all of them pass right through the Earth. However, if we were able to estimate, how long would it take for the 1038+ neutrinos to get incrementally absorbed by the universe if we give the flux infinite freedom? Is it even possible for them to get eventually totally absorbed?

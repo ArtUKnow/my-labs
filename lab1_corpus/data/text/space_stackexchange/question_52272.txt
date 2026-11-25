@@ -1,0 +1,9 @@
+Looking for a ballistic projectile technology development company I'd read about a few years(?) ago
+I recall reading a few years(?) ago about a ballistic projectile technology development company that expressed interest in launch capability as well as applications closer to Earth.
+In a comment below Fastest Manmade Object I've written
+I'm sure I have a post about a cannon-launched ballistic device currently under development somewhere; I think they are looking at applications both pointing up towards space, and down for some kind of prospecting or geoengineering applications, but I can't find it right now.
+I think there was some discussion of what kinds of electronics could work inside such a projectile at the very high accelerations involved.
+Question: Does this company sound familiar, can someone find it? If it is done through locating an old post of mine that's fine; I've searched for 20 minutes and have had no success. Please update; are they still seriously looking at launching towards space?
+Startups and small development companies are notorious for waxing optimistically when enumerating potential uses of their technology, so no need to remind in comments that you have to launch something which has a propulsion system of its own if you want to place something in orbit.
+Example:
+How might SpinLaunch actually spin something fast enough to launch it into orbit?

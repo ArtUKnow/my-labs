@@ -1,0 +1,5 @@
+First use of solid-state RAM (memory) in space?
+Most space buffs have seen images of Apollo-era magnetic core memory which served as what we would call non-volatile RAM.
+At some point solid-state (silicon) RAM was introduced.
+What was the first use of solid-state memory in space?
+If there are separate "firsts" for deep space and Earth orbit, those would be good to know.

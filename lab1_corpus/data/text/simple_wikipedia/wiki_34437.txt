@@ -1,4 +1,0 @@
-Twin prime conjecture
-The twin prime conjecture is a mathematical theory. It asks if there are infinitely many twin primes.
-Twin primes are prime numbers that differ by two. For example, 3 and 5 are both prime and differ by two. They are twin primes. 23 is prime, but it is not a twin prime. The primes nearest to 23 are 19 and 29. de Polignac made the general conjecture in 1849.
-References

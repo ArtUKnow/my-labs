@@ -1,0 +1,10 @@
+Puzzler: Why higher solar phase angle (SPA) allows for many more feasible FastKD (kinetic deflection) communications satellite “hijacking” missions?
+Space.com's advert-laden Repurposed communications satellites could help save humanity from an asteroid impact ends with:
+The study results were presented at the Planetary Defence (sic) Conference 2021.
+The paper in the first link says:
+The activity consequently assesses the feasibility of modifying a commercial spacecraft platform in order to perform asteroid kinetic deflection in the shortest possible time. Moreover, the necessary prerequisites to enable the challenging "build and launch of a Kinetic Impactor (KI) deflection system extremely fast".
+The selected approach is outlined by "hijacking" an existing commercial platform with minimal adaptations and the addition of a pre-developed Kinetic Deflection (KD) module, providing in particular GNC impact capabilities, in order to convert it to an asteroid deflection mission.
+Slide 4 of the presentation in the second link says:
+For short warning scenarios: higher allowed Solar Phase Angle (SPA) at impact is required to achieve high deflection performance. And: SPA largely affects the launch opportunities: higher SPA results in many more feasible missions and thus increases the mission flexibility & deflection capabilities. → TIR NAC needed for greatest mission flexibility/applicability!
+and I don't understand the reference to, and the importance of SPA at all.
+Question: Why does higher solar phase angle (SPA) allow for many more feasible FastKD (kinetic deflection) “Hijacking” missions launching communications satellites as impactors to deflect NEOs that would otherwise hit Earth?

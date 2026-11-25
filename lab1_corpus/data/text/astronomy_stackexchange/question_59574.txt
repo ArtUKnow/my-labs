@@ -1,0 +1,3 @@
+Does seeing affect spectral resolution?
+Is the spectral resolution of the diffraction grating (either determined by the slit width or grating) the same with or without atmospheric effects like seeing?
+Are the key reasons that we use space telescopes for spectroscopy only to increase the signal-to-noise ratio and eliminate sky background?

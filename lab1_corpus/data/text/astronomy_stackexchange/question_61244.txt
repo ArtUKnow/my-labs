@@ -1,0 +1,18 @@
+How can I calculate the length of a solar eclipse on a gas giant's moon?
+In a story that I may or may not scrap in the future, a giant planet known as Tinia resides in the habitable zone of a K-type star known as Usil. It's slightly larger than Jupiter and is orbited by dozens of minor moons and four major moons. The second and third of these major moons, which I will provisionally name Tinia B and Tinia C here, are Earth-like in nature. How would I go about calculating the lengths of their solar eclipses?
+Here are the calculations I've made myself so far:
+Tinia
+Radius: 74,355 km (1.04 x Jupiter)
+Semi-major axis: 0.57 AU
+angular diameter of Usil: 0.71° (Should be the same for the moons; Usil is 76% as large as the Sun with a radius of 528,730 km,)
+Orbital velocity: 34.618 km/s
+Tinia B
+Semi-major axis: 1,103,000 kilometers
+Orbital period: 8 days
+Orbital velocity: 10 km/s
+Angular diameter of Tinia: 7.73°
+Tinia C
+Semi-major axis: 2,032,000 kilometers
+Orbital period: 20 days (5:2 MMR with B)
+Orbital velocity: 7.365 km/s
+Angular diameter of Tinia: 4.194°

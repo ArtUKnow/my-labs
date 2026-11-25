@@ -1,0 +1,12 @@
+Apollo mini-bike? For real?
+NASA considered motorcycle style transportation for use on Lunar missions. Apparently, it didn’t make the cut, despite the fact it “got air” in a 1/6-G test run:
+Fig. 4: Test of an Apollo Motorbike prototype flying in the former NASA KC-135 aircraft in parabolic curves to reproduce a 1/6 gravity environment in short 20-second bursts.
+IAC-18,A5,1,12,x47143 69 th International Astronautical Congress (IAC),
+According to https://www.americaspace.com/2012/04/06/how-nasa-didnt-drive-on-the-moon consideration was also given to bicycles and a two-seater quadricycle. The minibike (pictured above)
+was under development in 1969 for use on Apollo 15. It was a backup
+method in case the Lunar Roving Vehicle, the LRV colloquially known as
+the Moon Buggy, wasn’t ready in time for the mission’s launch. There
+was some talk about the mini bikes incorporated into later Apollo
+missions as well.
+Was the Lunar Easy Rider (LER) really certified moon-ready?
+Is there available a formal NASA assessment of alternatives to the rover design than was chosen?

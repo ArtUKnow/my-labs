@@ -1,0 +1,7 @@
+How did error accumulate in the Julian calendar and we needed the corrections of the Gregorian one?
+I was trying to understand the corrections introduced by the Gregorian calendar.
+The sidereal year is 20 mins longer than the tropical year (my assumption is that this is a constant difference).
+The Julian calendar set the year to 365 days and 6 hours which means it is behind the sidereal year by around 10 mins. Due to the precession of the equinoxes the sidereal year shifts and hence each year the Julian year is further 10 mins behind. To adjust they added an extra day every 4 years which means the Julian year catches up the sidereal year (30 mins ahead of the sidereal year).
+Now it appears that this approach accumulated an error since the Julian year is 11 mins larger than the solar/tropical year and had to be corrected. Seems this accumulated around 8 mins per year since after around 1600 years they had to remove 10 days.
+But I don't understand how this happens fully.
+If the tropical year is constantly behind the sidereal year by 20 mins and the Julian year catches up the sidereal year why did error accumulate and we had to make the changes of the gregorian calendar?

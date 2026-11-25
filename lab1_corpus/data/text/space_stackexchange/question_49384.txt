@@ -1,0 +1,2 @@
+Does the displacement angle change after burnout?
+I came across the above image on Nakka's page about fins and what I understood is that rockets will turn into the wind during the thrust phase, and will drift slightly with the wind after burnout. But what is the implication of that? Assuming the wind remains constant, will alpha become larger? If so, is that something that significantly changes the trajectory?

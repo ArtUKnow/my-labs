@@ -1,0 +1,2 @@
+Moon landing with ion thrusters
+In Kerbal space program I built a mini cubesat (similar to NASA’s lunar flashlight probe) and managed to land on the moon only using ion thrusters. However, it was risky because it took a few tries. In the first couple of attempts the cubesat came down too fast. What other issues may appear if such a mission will happen in real life? Or what issues did appear if such a mission has happened?

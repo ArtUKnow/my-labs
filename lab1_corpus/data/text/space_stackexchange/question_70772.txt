@@ -1,0 +1,15 @@
+What effect would a “Starfish Prime” test have on Starlink?
+In 1962 the US detonated a 1.4 megaton device at an altitude of 250 miles above the Johnston Atoll in the Pacific Ocean, the Starfish Prime Test.
+Gamma rays striking the upper atmosphere produce a pulse of electromagnetic radiation which can induce currents in conductors at great distance from such an explosion event. Also, free electrons can populate the Earth’s magnetic field with energetic electrons exposing satellites to prolonged high radiation doses.
+The geographic horizon (the “footprint”) at the Starfish Prime altitude was 2200 miles (3500 km) and included Hawaii, which suffered scattered electrical and communications failures.
+Some of the tests even created artificial radiation belts, akin to the
+natural Van Allen radiation belts, a layer of charged particles held
+in place by Earth’s magnetic fields. The artificially trapped charged
+particles remained in significant numbers for weeks, and in one case,
+years. These particles, natural and artificial, can affect electronics
+on high-flying satellites — in fact some failed as a result of the
+tests.
+https://www.nasa.gov/solar-system/space-weather-events-linked-to-human-activity/
+The “footprint” at the Starlink altitude would be larger than Starfish produced on the ground but the inverse square law would rapidly decrease pulse strength. However, long-lasting artificial radiation belts could potentially affect Starlink satellites at greater distance and at a later date.
+For Starlink satellites I can find no information on radiation hardening to protect against EMP .
+How would a “Starfish Prime” test or similar high altitude EPM affect the Starlink Constellation ?

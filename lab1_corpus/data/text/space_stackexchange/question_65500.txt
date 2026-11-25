@@ -1,0 +1,2 @@
+Why didn't NASA launch communications relay satellites outside the asteroid belt to communicate easily with interstellar satellite?
+I came across with nasa's voyager and other interstellar satellite, just thought that if they build a relay satellite which situated outside asteroid belt or nearby to Saturn & Jupiter, to transmit the signal from that interstellar satellite to that relay satellite and from that it transmit back to earth.

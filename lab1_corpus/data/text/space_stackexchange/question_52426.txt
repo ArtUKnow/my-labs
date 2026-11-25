@@ -1,0 +1,11 @@
+From attitude control malfunction to launch escape Go signal?
+I’ve seen and read about launch failures caused by crossed thrust vectoring wires which fed rock and tilt commands to the wrong engine gimbal actuators (rock command going to tilt cylinder and tilt command going to rock cylinder).
+This has happened both in stage 1 and stage 2 flight.
+And as you can imagine the rocket would go wildly out of control in no time.
+And this has me wondering: suppose this happened on a crewed rocket. There must be logic in place to fire the launch escape system immediately if the rocket is veering wildly out of control.
+And that logic would probably take in some sensor reading, compare it to some critical threshold, and trigger launch escape if the threshold is exceeded.
+But what would that sensor reading be: attitude error (in roll/pitch/yaw)? Attitude error rate (angular velocity for roll/pitch/yaw)? Attitude error acceleration? Other?
+And what would the critical threshold be to fire launch escape? E.g., 30 deg off target? 30 deg/s? 30 deg/s2?
+No, I don’t have a good intuition for what a reasonable threshold would be :D
+Huge thanks if you know and can share or point me to a place where I can find an answer! Any info on public rockets like the space shuttle and Saturn V would be very very welcome.
+Note: this question will seem very very similar to a previous question I’ve asked. But this question is specific to just one narrow type of malfunction—loss of attitude control (as opposed to engine failure or any other failure mode). So here I’m less interested in how to go from malfunction detection to launch escape activation... and more interested in what variable you’d monitor to detect an attitude control malfunction and what the critical threshold might be to fire the launch escape system.

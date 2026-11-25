@@ -1,0 +1,5 @@
+If high-test peroxide is most stable when pure, why are most uses of it in rocketry at lower concentrations?
+Per the Wikipedia article for High-test peroxide:
+Hydrogen peroxide becomes more stable with higher peroxide content. For example, 98% hydrogen peroxide is more stable than 70% hydrogen peroxide. Water acts as a contaminant, and the higher the water concentration the less stable the peroxide is.
+The article then goes on to list various uses of high-test peroxide, most of which are in aerospace applications, either as a monopropellant or as an oxidizer in bipropellants. Most of the hydrogen peroxides used in these applications are around 80%. I would have thought this was due to higher concentrations being impractical due to safety or handling concerns, but per the same page, they're actually more stable. If this is the case, why not just take the performance advantage and use 98-100% everywhere?
+Is 98+% hydrogen peroxide especially expensive or difficult to manufacture? Is there some other concern (storage?) that limits practical usability to the more dangerous, worse-performing 80-85% concentrations?

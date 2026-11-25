@@ -1,0 +1,3 @@
+Why does the proposed Lunar Crater Radio Telescope suggest an optimal latitude of 20 degrees North?
+In the proposal for NASA's Lunar Crater Radio Telescope, it claims that one of the key requirements is a "location on farside near ≈ 20°N and 180° ±45°E to avoid Earth-based radio interference near the lunar limbs".
+I understand the concept of using the Moon as a radio shield to block out signals from Earth, but why is the optimal latitude at 20 degrees North and not the more intuitive 0 degrees North?

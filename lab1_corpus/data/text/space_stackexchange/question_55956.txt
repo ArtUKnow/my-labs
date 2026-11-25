@@ -1,0 +1,5 @@
+Long lived solar powered rovers without radioisotope heater units (like Zhurong), for use beyond Mars
+The Yutu rovers use RHUs to stay warm and survive the two week long lunar nights, every other rover uses nuclear material as well (except Sojourner), but the Zhurong rover uses a novel storage-heating technology based on an exotic hydrocarbon that heats up during the day and releases heat at night.
+China has intentions to perform a sample-return mission on Ceres, land on some other asteroids, and it is considering a landing on Callisto together with an orbital mission.
+I understand that these destinations receive an order of magnitude less solar power than Mars.
+My question is, how much can we stretch this technology? Would it just be a matter of enlarging the solar panels accordingly? Having less science instrumentation? Can this also be adapted for longer nights? Do we currently have realistic alternatives to RHUs for heating on surface missions beyond Mars?

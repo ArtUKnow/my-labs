@@ -1,0 +1,6 @@
+Falcon 9 cold gas thrusters: why in line with grid fins?
+The cold gas thrusters of the Falcon 9 are right in line with the grid fins.
+The grid fins deploy immediately after MECO and stay deployed while the cold gas thrusters fire.
+And it seems the expelled nitrogen is bound to impinge on the deployed grid fins, which would counter some of the torque gained by expelling that nitrogen. The loss must be very small or they wouldn't do it, but still.
+Why, of all locations, should the cold gas thrusters be exactly in line with the grid fins? Why not move them a few feet lower or higher to avoid puffing at the fins?
+Old pic below, but relative placement of cold gas thruster pod (center) and grid fins hasn't changed.

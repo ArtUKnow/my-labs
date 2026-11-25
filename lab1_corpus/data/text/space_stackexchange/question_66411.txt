@@ -1,0 +1,4 @@
+Does an interplanetary trajectory exist to escape the Solar System and impact the Sun "simultaneously"?
+This question is inspired by Do you need 0 km/s velocity to crash into the sun? which brings up the peculiarity (at least to the lay-person) of Solar System escape from 1 AU taking less $\Delta V$ than a direct transfer into the Sun.
+At least one answer mentions using Jupiter to reduce the $\Delta V$ requirement. I have some experience working with the wonders of a Jupiter gravity assist (here), even showing an example trajectory that impacts the Sun.
+I am curious if such an Earth-Jupiter trajectory exists that, depending on the direction of gravity assist at Jupiter, would put a spacecraft on either a Solar System escape trajectory (heliocentric $C3 > 0$) or a Sun impact trajectory.

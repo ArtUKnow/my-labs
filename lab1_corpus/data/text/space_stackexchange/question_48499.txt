@@ -1,0 +1,2 @@
+Does peroxide spontaneously decompose when introduced into hot combustion chambers?
+I understand that hydrogen peroxide (HTP) can be decomposed into superheated steam and oxygen using a catalyst, but I haven't been able to find any information on whether or not it will decompose in extreme heat, such as in a combustion chamber. I am aware that the rate of passive decomposition increases with temperature, but does it become instantaneous and feasible for combustion without instability?

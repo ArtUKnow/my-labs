@@ -1,0 +1,18 @@
+Python Lightkurve Module -- How to combine different TESS sectors into one graph
+I'm building a pipeline to look at several thousand eclipsing binary systems for my master's thesis, and I've run into an issue I am having a hard time fixing. I'm using the Python module Lightkurve.
+I am only able to pull TPFs for some of my targets instead of directly pulling light curves through Lightkurve & MAST. Ideally, I would like to combine all of the TPFS from different TESS sectors into a single TPF so I can graph them all at once.
+I have looked at the "Combining Multiple Quarters of Kepler Data" tutorial, but my issue is arising in creating a function that turns the TPFs to light curves and then into the light curve compendium object.
+I can graph a single sector, but as soon as I try to make a for loop to repeat the process automatically, I get a "scalar divide by zero" error. Here is my code for a sample EB system:
+tpf_list = lk.search_targetpixelfile('TIC 1003831', mission='TESS').download_all()
+def tpf_to_lc_collection(tpf_list):
+tpf = tpf_list[0]
+lightcurve = tpf_list[0].to_lightcurve(aperture_mask = tpf.pipeline_mask)
+lcc = lk.LightCurveCollection(lightcurve)
+for i in tpf_list:
+if i == 0: #prevents tpf_list[0] from being used twice
+continue
+lc = tpf_list[i].to_lightcurve(aperture_mask = tpf_list[i].pipeline_mask)
+lcc.append(lc)
+return lcc
+Line 4 is my solution to not knowing how to create an empty light curve compendium (I tried LightCurveCollection() and got an error along the lines of it not being valid). My original plan was to create an empty collection like I would do a numpy array and then append objects into it. This would create a single lightcurve that I could then graph with Plotly.
+Thank you so much for your help. I am still fairly new to coding, so I will answer any questions to the best of my ability!

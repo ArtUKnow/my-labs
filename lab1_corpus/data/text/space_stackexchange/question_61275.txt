@@ -1,0 +1,3 @@
+Why does the gold reflector of the COWVR on the ISS rotate?
+The answer here What is the rotating gold object on the outside of ISS? describes in detail what the rotating dish is, and what the package is used for. However, it is not clearly explained why specifically the dish needs to rotate.
+Why does the dish need to rotate? Why do the instruments mounted on the dish need to rotate?

@@ -1,0 +1,3 @@
+Is there a detailed breakdown of how much power Voyager's systems use?
+As far as I can work out, the Voyagers have about 201 W of power available at the moment (August 2026). I have RTG data until 2020 which has the RTGs at about 225 W, and extrapolated a loss of 4 W/year from there.
+I'd like to know how that power is used by the various systems. Is such a breakdown available? I haven't found one yet.

@@ -1,0 +1,7 @@
+What is the reason Starlink satellites took 4 days to re-enter during the accident on February 2022?
+I am reviewing the incident that knocked out 39 Starlink satellites earlier this year.
+As I explain in this thread, there was a modest magnetic storm on the 3rd of February, which increased atmospheric drag and the satellites that were orbiting at 210 km altitude at the time, couldn't raise to their final orbit at 340 km.
+After 4 days (on Feb. 7) the satellites entered the atmosphere and the event was even captured in Puerto Rico: video here.
+My questions are:
+Why, if the thrust wasn't enough to raise, the satellites took so long to de-orbit? Did they slowly lose altitude? How does this work?
+What is a formula I could use to calculate how much more thrust the satellite would need with an increase of 50% in atmospheric drag?

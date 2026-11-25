@@ -1,0 +1,5 @@
+Does a set of closed formulas exist for computing the azimuth angles of the Moon and Sun based on an observers position and time?
+To compute the tidal acceleration from the Moon and Sun, I have implemented the equations from this publication: Formulas for computing the tidal accelerations due to the moon and the sun. Unfortunately this publication is not openly available, but below I have added an overview of the variables computed / defined in this publication.
+However, I additionally need to compute the azimuth angles of the Moon and Sun.
+The easiest would be if the azimuth angles could be derived from the variables already computed using the formulas in this publication.
+Any help is greatly appreciated!

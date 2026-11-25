@@ -1,0 +1,9 @@
+What is the payload premium from an equatorial launch, (as compared with Cape Canaveral) to Geostationary Orbit?
+SeaLaunch went to significant expense and effort to launch from sea surface on the equator.
+According to Sea Launch; Advantages of equatorial ocean-platform based launches
+The need for a "plane change" to the zero degree inclination of
+geostationary orbit is eliminated, providing a major extra launch
+"boost". This allows 17.5–25% more mass to be launched to
+geostationary orbit than the same rocket launched from Cape Canaveral,
+which is at 28.5 degrees north latitude.[citation needed]
+Is this payload premium true if the plane change is done at the end of the Geosynchronous Transfer Orbit (GTO) or only if the plane change is done by dog leg or in LEO? I understand there is a significant difference between the two strategies.

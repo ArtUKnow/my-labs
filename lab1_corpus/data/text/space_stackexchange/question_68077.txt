@@ -1,0 +1,2 @@
+During Falcon 9 pre-launch, why does vapor appear to emanate from almost the entire length of the booster?
+The SpaceX Falcon 9 is propelled by kerosene and liquid oxygen; as it stands fueled on the pad, there will be liquid oxygen boil-off, so we should expect to see vapor streaming from one or more vents. But it looks like vapor is emanating from a strip running down almost the entire length of the booster. Why is that? Are there vents down the length of the vehicle, and if so, why? If not, why do we see that effect?

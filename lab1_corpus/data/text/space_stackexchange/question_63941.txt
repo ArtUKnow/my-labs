@@ -1,0 +1,9 @@
+How to calculate physics of interplanetary transit?
+Please note, I know nothing about space technology but am interested in how this works and possibly in writing a simulator for it, so a basic answer, with some links to further math is what I'm looking for.
+In our solar system, a number of planets orbit the sun. To travel from Earth to Mars, as far as I know, vehicles need to launch in a window. How is this calculated? I guess we can take the following as given:
+radius of Earth and Mars orbit
+angular velocities of Earth and Mars
+positions of Earth and Mars
+masses of Earth, Mars, Sun, Vehicle
+In a naive approach, one can run series of calculations of where the vehicle will end up when its launched at a number of times and then just choose the one where it actually hits Mars.
+What is a cleaner way of doing this? Does this problem have a standard name under which I can readup more about it?

@@ -1,0 +1,5 @@
+Satellite Surface Temperature in Orbit
+I am trying to calculate the satellite surface temperature in Orbit for Thermal Tests of our satellite.
+Referring "Space Vehicle Design, D.Griffin, Ch.9, the equations of heat transfer on the surface of the satellite is -
+Resources say Albedo for Earth is 0.3 (average). Should we take albedo as constant or simulate it for the orbit.
+How do I calculate the temperature of Earth (Te) at different time interval in the orbit?

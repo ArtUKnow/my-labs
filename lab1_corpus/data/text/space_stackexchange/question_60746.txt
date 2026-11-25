@@ -1,0 +1,8 @@
+Determining a suitable 'low orbit' for an arbitrary airless body
+A while back, I asked this question here, dealing with finding a standard low orbit for a solar system body. The answer I received was mainly in the context of a body with atmosphere. This answer gave me a useful nudge in the right direction, but I wanted to come back to the question for airless bodies.
+I am looking for a way to arrive at a general-purpose low orbit value, for the sake of my own back-of-the-envelope calculations.
+I want to be able to do this for all airless bodies from Ganymede to irregular 500m wide asteroids. To take advantage of the Oberth effect, these orbits should be as low as possible, while still being stable in the short term (as in tens to hundreds of orbital periods) and suitable for flybys.
+For large, spherical bodies, the (arbitrarily made up) rule of thumb I have at the moment is:
+(The radius of the object's largest axis + height of the tallest mountain) * 1.01
+I think this rule of thumb breaks down for smaller objects like 25143_itokawa.
+Are there any other considerations like mascons and irregular shape that go into deciding on a short-term stable low orbit?

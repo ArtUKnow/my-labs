@@ -1,0 +1,2 @@
+Dragon ballistic/drag coefficients?
+I'm looking for some estimates of Dragon's ballistic or drag coefficients in its reentry (heat shield forward) configuration. Estimates for other spacecraft would be useful also as they would give me some intuition of what's normal and what's not. I know the exact numbers depend on many factors like air density, velocity, etc, but it's OK if you know them for just some (any) particular configuration. Ballpark figures OK. Thanks!

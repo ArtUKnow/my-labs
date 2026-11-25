@@ -1,0 +1,2 @@
+calculating apogee and perigee for moon and sun
+The perigee does not necessarily happen when we have a full moon, using swevents we can easily determine the moon phases. Now can we use python to determine when the Moon and the Sun are the closest and furthest from the Earth for a year lets say?

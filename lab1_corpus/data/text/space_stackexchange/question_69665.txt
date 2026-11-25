@@ -1,0 +1,5 @@
+Artificial Gravity and the Coriolis Effect
+From what I can tell there are 2 main forces operating on a rotating circular spacecraft in zero gravity. One force is the centrifugal force, which pushes an object to the outer wall of the spacecraft. The other main force is the forward force as that object attempts to move forward in a straight line, but is forced to move in a curve. These 2 forces are at 90 degrees to each other. I believe this causes the coriolis effect. I propose that aligning the floors of the wheel to 45 degrees, with respect to the axis,(see illustration) will create a balance between these two forces, which should render the floor as having almost uniform artificial gravity across the entire floor, with almost no coriolis effect.
+The blue circle represents the outer wall of the spacecraft.
+The green lines represent the centrifugal and forward forces.
+The yellow lines represent the two forces balanced by the the angled floor (Purple plane). This would of course mean that the spacecraft would require multiple 45 degree floors connected by ladders and passageways. Am I missing anything?

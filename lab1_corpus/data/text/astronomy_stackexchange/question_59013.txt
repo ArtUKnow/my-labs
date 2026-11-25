@@ -1,0 +1,3 @@
+How to use shift of H1 line to determine recessional velocity with 20m telescope?
+I'm very new to astronomy, trying to find the recessional velocity of galaxies by finding how shifted the H1 line is. The galaxy I am using currently is NGC 7600, which is about 49 Mpc away and should be redshifted, causing the H1 line frequency to be about 1404 MHz. Assuming that the H1 line would appear as a spike on this spectrum (I could be wrong, if I am, please explain), I don't see any form of spike that could be the H1 spectral line, aside from where the H1 line would be if the galaxy wasn't redshifted at all. Here is a link to the observation if that would help: https://www.gb.nrao.edu/20m/idlinks/126042.htm
+Thanks for the help!

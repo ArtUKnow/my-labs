@@ -1,0 +1,2 @@
+Would Starship do a direct descent into the atmosphere and aerobrake or do a capture burn before aero braking
+Due to re-entry heating and the sheer velocity when coming in from solar orbit into the Earth's SOI, will Starship do a capture burn to slow it down before entering the atmosphere or just go for a direct encounter?

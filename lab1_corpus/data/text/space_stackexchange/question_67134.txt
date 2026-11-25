@@ -1,0 +1,5 @@
+Could Starship get a probe to Uranus faster than Falcon Heavy?
+The 2023–2032 Planetary Science Decadal Survey recommended a mission to Uranus as the highest priority new Flagship mission. Wikipedia describes a mission concept (2021) that would launch in 2031 and take 13.4 years to reach Uranus using a Falcon Heavy rocket and a gravity assist at Jupiter.
+NASA has said that plutonium constraints make a launch unlikely before the mid- to late-2030s, but to take advantage of the Jupiter gravity assist, a mission would need to launch by the mid-2030s.
+Given the recent success of Starship, could a SpaceX Super Heavy rocket significantly reduce the travel time to Uranus or reduce the need to rely on a Jupiter/Uranus orbital alignment? What if SpaceX is able to build its orbital propellant depo?
+See also How fast could we go back to Uranus and Neptune? (2022). I'm wondering if Starship/Super Heavy has changed the equation since then.

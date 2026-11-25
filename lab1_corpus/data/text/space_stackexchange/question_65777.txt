@@ -1,0 +1,7 @@
+What are some best practices for coding a satellite orbit propagator and ground track plotter?
+I've seen interesting projects like this and I've been doing a decent amount of orbit propagation (numerically integrating state vectors, accounting for perturbations, etc.) in python and animating some plots with matplotlib to get a bit better at the astrodynamics. I want to build a full, interactive simulator in three.js (really, Next.js and React three fiber) and wanted to check that my plan is sound, and ask for any recommendations.
+I plan to:
+(1) take either classical orbital elements (converting them to r,v) or some initial conditions for a state vector (the components of r and v) and numerically integrate the orbit, then animate it around a 3d model of the Earth.
+(2) find where the satellite intersects the Earth (its SSP) on its vector to the model's center in the course of its orbit and convert the spherical polar coordinates of that intersection to latitude/longitude.
+(3) animate the array of lat/long coords on a Mercator projection.
+I've seen some algorithms for doing the ground track computations, but this seemed like something that would work without issue. Any ideas or resource recommendations?

@@ -1,0 +1,8 @@
+Why does the Apollo LM's Cross-Pointer display have a bulge?
+X-Pointer, top right
+I'm interested in the design of Apollo-era analog flight instruments.
+While there are great resources online about the FDAI, information on the Cross-Pointer seems limited beyond its basic function.
+Why is the Cross-Pointer display shaped with that distinctive bulge?
+Is it for legibility, mechanical design requirements (room for the needle actuators), or does the curve serve some kind of mechanical calculation function?
+Additional question: If anyone has resources about the broader cockpit instrument design process for Apollo missions, I'd be very interested in those as well.
+Thanks for any insights!

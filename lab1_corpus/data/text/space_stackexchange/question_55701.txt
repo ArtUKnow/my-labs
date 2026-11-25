@@ -1,0 +1,29 @@
+Does other orbital parameters change on plane alignment impulsive maneuver?
+I work on small application to apply impulsive maneuver on an orbit.
+I want to align two orbits in the same plane.
+After the execution of the function, original orbit has the same inclination and longitude of ascending node of the target orbit but eccentricity, argument of perigee and perigee altitude have changed and I can't explain it...
+Maybe it's normal but I find it hard to explain it.
+Maneuver is executed where original plane crosses target plane.
+If the longitude of asending node of both orbits are the same, the result is perfect.
+I tried vector and analytics approach but in both cases other orbital parameters change anyway.
+This is my example :
+original orbit :
+Perigee radius = 6700 km
+Eccentricity = 0.3
+Inclination = 40°
+Longitude of Ascending Node = 20°
+Argument of perigee = 10°
+target orbit :
+Perigee radius = 6700 km
+Eccentricity = 0.3
+Inclination = 45°
+Longitude of Ascending Node = 35°
+Argument of perigee = 10°
+After alignment maneuver original orbit becomes :
+Perigee radius = 5027 km
+Eccentricity = 0.47
+Inclination = 45°
+Longitude of Ascending Node = 35°
+Argument of perigee = 4.27°
+Delta V : 1585.35 m/s
+Thank you for your help :)

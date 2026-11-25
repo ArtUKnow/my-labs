@@ -1,0 +1,6 @@
+Is outer space Radioactive?
+We are still receiving cosmic microwave background from the "big bang", and I'm pretty sure that cosmic rays produce gamma rays as mentioned here https://science.nasa.gov/ems/12_gammarays/.
+So there is radioactivity in space of the order, 50-2000 mSv nasa.gov, which is a lethal amount.
+As mentioned in Space Stackexchange for a similar question, it was mentioned that space suits provide limited protection against the radiation, but considering that astronauts make space walks during minimum radiation, still possesses a greater risk of radiation poisoning.
+However, according to the Space Law, all satellites are supposed to fall back to Earth after 25 years of service. There is a hundred percent chance that these are radioactive prior to falling back to Earth, assuming that during the re entry to earth, not all of the equipment are destroyed, and they fall in sea, wont that cause a major risk to us humans and those traveling in cruises to catch radiation poisoning?
+Additionally does integrating a boron layer inside the space suit help the astronauts from the similar radiation poisoning? As boron was used in the nuclear tragedy of 1986 Chernobyl, to cover the exploded part of the reactor to minimize the radiation?

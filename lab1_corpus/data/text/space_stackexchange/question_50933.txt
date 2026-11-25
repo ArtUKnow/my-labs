@@ -1,0 +1,8 @@
+Why don't astronaut helmets fog up? What's the chemistry and thermodynamics behind keeping the field of view clear even during heavy breathing?
+Some space walking involves exercise (e.g. moving heavy stuff around) and the outside surface of a faceplate is constantly radiating its heat out into space. At night that thermal radiation is not reciprocated so there's roughly a kilowatt per square meter of cooling on the outside surface with a background temperature of about 2.7 Kelvin.
+The human face is a direct and almost continuous source of water vapor on the faceplate as one exhales, and humans sweat which could potentially introduce water into the air in the suit. It's got to go somewhere!
+All that's necessary for potential fogging is for the inside surface to be cooled below the dew point of the suit environment, and for some of that water vapor to come in contact with the surface and nucleate.
+Question: Why don't astronaut helmets fog up? What's the chemistry and thermodynamics behind keeping the field of view clear during even heavy breathing? What is actually done?
+Chemistry: Do they put specific chemical coatings that prevent nucleation on the inside surface? (e.g. anti-fogging agents)
+Thermodynamics: Do they manage to keep the inside surface warm enough that it is above the dew point?
+Other: Do they constantly blow dry air across the surface, displacing and removing incident water vapor and encouraging re-evaporation of any nucleated water present?

@@ -1,0 +1,4 @@
+Is the full GPS constellation a Walker Delta constellation?
+Through the extremely rigorous method of looking at the animation on Wikipedia's article about GPS, if this does indeed accurately represent GPS satellite orbits, then it looks like not all of the orbital planes are at the same inclination.
+In trying to look this up online, I see a lot of articles that talk about GPS satellites being at 55 degrees inclination. I know that the GPS constellation has evolved over time, so maybe this isn't the general case anymore.
+For something to be in a Walker Delta configuration, all of the orbits have to have the same inclination. So my question, do all GPS satellites have the same inclination? And do they exist in a Walker Delta configuration?

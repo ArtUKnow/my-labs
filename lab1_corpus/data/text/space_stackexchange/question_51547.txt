@@ -1,0 +1,17 @@
+Why is hydrogen better than helium as remass?
+I just watched a very good YouTube video on why nuclear engines might be useful, and it also goes into why Hall Effect thrusters are super good at squeezing obscene ISP out of things.
+During the video, however, the author talks about using hydrogen as remass (more specifically about how hydrogen is a pain in the ass to store), because it gives better ISP than, say, Helium.
+There is an attempt at explanation (here:
+), which doesn't connect for me, here's my readback of it so that someone can help me understand what's actually going on:
+ISP (gas mileage in space) is maximized by optimizing for the exhaust velocity of your remass.
+Because hydrogen has a lower atomic mass, a given quantity of power dumped into it results in it moving faster than, say, helium. (For the thermal nuclear rocket design being discussed, hydrogen was giving an ISP ~880s while helium was giving ~650s.)
+I can understand why a given kick would make the heavier object move more slowly, that's literally how power and mass work.
+What I don't understand is why that results in less force on the rocket? If I'm pouring a megawatt of power into the propellant to chuck it out the back, regardless of how fast I end up accelerating it, I should have the same equal, opposite reaction on me, no?
+EDIT FOR CLARITY:
+Consider two vehicles, A and B, which have identical, 1MW motive systems but use different remass, A has hydrogen, B has helium.
+Each expends 1 helium atom's worth of fuel (identical mass).
+A exerts 1MW of power on four atoms of hydrogen.
+B exerts 1MW of power on one atom of helium.
+The same force was applied to the same mass, but supposedly A gets 25% more velocity from the burn? Why does the hydrogen have a higher exhaust velocity when it's having to share the force the vehicle exerts on it among four times as many particles?
+I would expect a given kg of fuel to have the same 'push' to it given identical propulsion schemes.
+I'm sure the physics make sense here, but I'm clearly missing something happening so why do I care how fast my propellant is going, relative to me? If I shove on two hydrogen atoms with 1MN of force, and my buddy next to me shoves on the helium atom with 1MN of force, why do we not end up going the same speed?

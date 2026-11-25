@@ -1,0 +1,5 @@
+how to better understand how dawn dusk orbits work?
+I am starting to study orbital mechanics and I have some doubts about the sun-synchronous orbits and particularly about dawn-dusk orbits. I often read phrases like:
+Often, satellites in SSO are synchronised so that they are in constant dawn or dusk – this is because by constantly riding a sunset or sunrise, they will never have the Sun at an angle where the Earth shadows them.
+However, I can't figure it out, perhaps due to the absence of images or animations that make me understand in what sense the satellite rides the terminator and why it never appears to be in shadow.
+I also take this opportunity to ask, if the LTAN is 6.00 am but the orbital period is 90 minutes, will the next LTAN be at 7.30 am? If the LTAN is at 6 a.m. and the orbital period is 90 minutes, how it is possible that the LTDN is at 6 p.m.? Thanks in advance for your explanations.

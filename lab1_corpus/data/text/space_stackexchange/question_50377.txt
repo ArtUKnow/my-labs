@@ -1,0 +1,17 @@
+What was the most intense beam ever sent from Earth?
+By a freak coincidence sensors on a passing alien ship a hundred light years away had picked up a faint artificial blip from Earth, thereby discovering our inhabited planet. But which blip was it?
+Question: What was the most intense beam ever sent from Earth?
+To avoid any ambiguities or confusion introduced by comments, well use radiant intensity with units like W/sr,
+Since we're talking far-field where everything drops as $1/r^2$ I'll define intensity as power per unit solid angle (e.g. kW/sr), though if it turns out to be more helpful, *spectral intensity or W/sr/Hz.
+So we're looking for a lot of power and a large diameter to wavelength ratio.
+Answers don't have to, but can consider issues like instantaneous vs average power and even the dispersion of pulsed signals (slightly different speeds) due to interstellar plasma, the same way they measure the distance to pulsars and FRB's (Just how fast is a Fast Radio Burst thought to be?)
+What radio signals have NASA transmitted to outside our solar system?
+Has DSS-43 ever been used in high power mode (>>20 kW) for an emergency situation?
+Why was the 100m Green Bank dish needed together with DSN's 70m Goldstone dish to detect Chandrayaan-1 in lunar orbit? (radar off the limb of the moon)
+How soon after "The Eagle" landed did they first attempt to bounce a laser off the Moon? When did it first succeed? (I'm sure they missed the Moon at least a few times over the decades)
+How can just making the ground broadcast stronger neutralize a zombie(sat)? (my favorite)
+over the horizon radar
+However, Goldstone’s radar is not as powerful as Arecibo’s, so it does not have the same range into space, meaning that fewer NEOs could be characterized by radar.1
+1 RIP Arecibo
+Are we less safe now that Arecibo is no more?
+What will succeed the Arecibo Observatory?

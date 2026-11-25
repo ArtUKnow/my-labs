@@ -1,0 +1,3 @@
+How much decibels of noise would a person hear when ingenuity is at full speed in martian atmosphere?
+The ingenuity heliccopter's rotors rotate at ~2400 rpm. How much noise would a person hear ( assuming no protective gear is required ) in martian atmosphere from 5 meters from ingenuity?
+How much noise would it similarly generate on earth?

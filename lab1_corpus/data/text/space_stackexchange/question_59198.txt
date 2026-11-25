@@ -1,0 +1,5 @@
+After one year exploring Jezero's crater floor, has there been any investigation into the presence of trace elements with PIXL?
+PIXL instrument chart sample Credit:NASA/JPL-CALTECH
+Of course PIXL has been used already in Jezero crater, but as far as I know only to identify mineral compositions and textures, as described in this Lunar and Planetary Science Conference paper.
+The article How vanadium could be a beacon for Martian life shows that knowledge about the presence and/or quantity of some trace elements could be important.
+According to the page for scientists PIXL could even detect important trace elements such as Rb, Sr, Y and Zr at 10's ppm level.

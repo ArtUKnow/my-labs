@@ -1,0 +1,5 @@
+Is the habitable zone of a moon the same as that of a planet?
+There are (at least) two kinds of habitable objects that could realistically exist:
+Earth-like planets.
+Earth-like moons around a large planet.
+Is the habitable zone the same in both cases? Or will Earth-like moons be expected to spend a significant amount of time in eclipse, thus causing the habitable zone to be further out?

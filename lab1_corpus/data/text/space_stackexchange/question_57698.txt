@@ -1,0 +1,11 @@
+Fjeldbo, Kliore, & Eshleman 1971 Fig. 22 planetary atmosphere index of refraction increasing with altitude; physics insight or convenient abstraction?
+this answer to Is it possible for a spacecraft to communicate with Earth when a planet is in the way? suggesting that atmospheric refraction could be used to get at least some kind of signal around a pesky planet that gets into your line-of-sight communications link got me remembering @TomSpilker's comment under my answer to When did planetary scientists realize Venus' surface pressure was almost 100x that on Earth? How did they find out? which includes:
+...Note that the raypath diagram in Fjeldbo et al. is for a hypothetical situation where the refractive index (and hence N) increases with altitude. In real atmospheres, N decreases with altitude, so the signal's path is bent toward the planet...
+before waxing nostalgic about graduate school and radio astronomy dishes.
+I believe that the comment refers to Figure 22 of Fjeldbo, Kliore, and Eshleman (1971) The Neutral Atmosphere of Venus as Studied with the Mariner V Radio Occultation Experiments shown below.
+Normally we think of the index of refraction of at least a dry, neutral atmosphere as scaling roughly with density, and so should decrease with height, reaching 1 + 0j in a vacuum.
+The high polarizability of water molecules means that the humidity profile of the atmosphere has a big correction for radio and much of the infrared (in terms of angular deflection due to refraction) based on the real part of the index of refraction.
+Absorption due to the imaginary part attenuates, but to first order at least doesn't deflect in the plane wave approximation. (Spatially variable attenuation can lead to diffraction but that's a horse of a different color).
+I'm puzzled why Fjeldbo, Kliore, and Eshleman chose to plot Figure 22 with an index of refraction that increases with altitude away from the planet. So I'd like to ask:
+Question: Why did Fjeldbo, Kliore, and Eshleman 1971 choose to plot Figure 22 with an index of refraction that increases with altitude away from Venus' surface? Is there some physics or insight here, or was it just a convenient abstraction?
+Fig. 22. Refraction of ray path by concentric spherical layers: The illustration is for an increasing refractive index with height.

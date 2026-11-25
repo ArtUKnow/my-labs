@@ -1,0 +1,3 @@
+Will there be a controll mechanism to keep spacex starship in a controlled position during coasting and/or reentry?
+Looking at the really interesting imagery from Starship Flight 3, it is obvious that Starship is rotating (tumbling-ish) during coasting, and also during the initial reentry phase. The plasma streaks looks as if the starship is doing reentry partially sideways, hence not utilizing the heat shield properly… is this by design or can we expect some control mechanism to keep a controlled flight position related to earth during coasting/reentry in coming flight tests?
+I am thinking such rotation/tumbling might be disorientating for future passengers, or am I wrong?

@@ -1,0 +1,25 @@
+Earth to Mars Rocket Project
+I would like to consider a rocket impulse plan from Earth to Mars for my Personal Project (IB-MYP) I am currently working on, and I am a student in high school in Hiroshima, Japan. Could you please help me?
+I define the following constants:$$r1 = 1.4959e11, r2 = 2.2792e11, G = 6.6743e-11, M = 1.9891e30$$
+Let n be the finite number of impulses, and assume that $$Δ\dot{r}_{ik}, Δ\dot{θ}_{ik}$$ are given for the kth impulse.
+Here, since M is the mass of the Sun, we set the origin as the Sun, the positive direction of the r coordinate as the radial direction away from the Sun, and the positive direction of the theta coordinate as the counterclockwise direction.
+Based on the Lagrange equations in polar coordinates, we set
+$$2\dot{r}\dot{θ}+r\ddot{θ} = 0$$
+$$\ddot{r} - r\dot{θ}^2 + GMr^{-2} = 0$$
+By providing the four initial conditions:
+$r_{ok}, θ_{ok}, \dot{r}_{ok}, \dot{θ}_{ok}$
+we can use a numerical solution method in Python to calculate:
+$Δr_{k}(t_k), Δθ_{k}(t_k), Δ\dot{r}_{k}(t_k), Δ\dot{θ}_{k}(t_k)$
+letting $t_{k}$ be the time until the next impulse. The initial conditions can be obtained by summing the functions from the previous k turns.
+Under the conditions that:
+$$\sum_{k=1}^n Δr_{k}(t_k)=r2-r1$$
+$$\sum_{k=1}^n Δθ_{k}(t_k)≡θ_{mo}+\sum_{k=1}^n t_k(GM/{r2}^{3})^{1/2} (mod 2pi)$$
+$$\sum_{k=1}^n Δ\dot{r}_{k}(t_k)+Δ\dot{r}_{ik}=0$$
+$$\sum_{k=1}^n Δ\dot{θ}_{k}(t_k)+Δ\dot{θ}_{ik}=(GM/{r1}^{3})^{1/2}-(GM/{r2}^{3})^{1/2}$$
+What do you think is the best way to determine the number ($n$), content of ($Δ\dot{r}_{ik}, Δ\dot{θ}_{ik}, t_{k}$), and $θ_{mo}$ (Initial angular position of the Mars) to minimise the following expression?
+$$\sum_{k=1}^n Δv_{ik}*\sum_{k=1}^n t_{k}$$
+Note that the impulse $Δv_{ij}$ is given as an angle $α_{ij}$ counterclockwise from the $+r$ direction centred on the rocket's position.
+Therefore,
+$$Δ\dot{r}_{ij} = Δv_{ij}cosα_{ij}$$
+$$Δ\dot{θ}_{ij} = \frac{Δv_{ij}sinα_{ij}}{r1 + \sum_{k=1}^{j-1} Δr_{k}(t_k)}$$
+Or, if you have any comment or advise for my project, please let me know!

@@ -1,0 +1,5 @@
+Initial Yaw Maneuver: Lean into or away from tower?
+Some rockets do an initial yaw maneuver to help avoid contact with the tower.
+I know the yaw is in the plane of the tower: the rocket either leans into or away from the tower... But which of these is it? I've been figuring it leans away (so the nose moves back from the tower while the tail end moves closer), but I have a feeling I might be wrong on this.
+Can someone clarify?
+Thanks!

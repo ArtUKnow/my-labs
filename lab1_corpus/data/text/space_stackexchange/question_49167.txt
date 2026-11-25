@@ -1,0 +1,6 @@
+How many burns does New Shepard have during a descent?
+The Falcon 9 first stage is making two or three burns for descending:
+boostback burn (optional, depends on return to launch site vs ocean landing)
+entry burn
+landing burn
+But how many burns is the New Shepard doing?

@@ -1,0 +1,4 @@
+Has densified hydrogen ever been used as a rocket fuel?
+While reading through Ignition! looking for mentions of methalox, I came across this paragraph:
+A rather interesting recent development is slurried, or "slush" hydrogen. This is liquid hydrogen which has been cooled to its freezing point, 14 K, and partially frozen. The slushy mixture of solid and liquid hydrogen can be pumped just as though it were a homogeneous liquid, and the density of the slush is considerably higher than that of the liquid at its boiling point.
+"Recent" in this case is 1972. Given how painfully low-density liquid hydrogen is, it seems like there would be considerable interest in making this work. Have any engines been developed that use densified hydrogen, or is there some aspect that makes it unworkable?

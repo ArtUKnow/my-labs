@@ -1,0 +1,5 @@
+How does speed telemetry displayed in SpaceX live videos work?
+How is speed value measured and relative to what?
+For instance when looking at ITF5 boost back burn, one can notice the speed reaches a minimum of 1203km/h before increasing again. Booster is still climbing at this point.
+This might indicate the considered velocity vector used for telemetry is not aligned with booster's axis. (otherwise it would have reached zero value when changing direction)
+Is it aligned to an imaginary straight line connecting launch site to booster? Something else?

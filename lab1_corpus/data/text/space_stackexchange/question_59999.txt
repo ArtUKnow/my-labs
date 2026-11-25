@@ -1,0 +1,4 @@
+Growing Mars crops in sunlight vs LEDs
+There is extensive research on growing food on Mars, and I'm particularly interested in optimizing food production.
+Given equal area in a greenhouse, is it more efficient to grow crops on Martian sunlight directly (590 W/m2), or to use solar panels and a grower lamp? There are certainly losses, but this may be offset by the relative efficiency of photosynthesis at varied light intensities.
+As suggested elsewhere, it may even turn out that the most efficient method is through light-concentrating lenses.

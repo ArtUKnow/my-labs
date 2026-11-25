@@ -1,0 +1,7 @@
+How radioactive is surface regolith on the Moon?
+Use of regolith for shielding from cosmic radiation seems the most practical solution for perspective lunar surface bases.
+But lunar regolith should gather some secondary radiation while being bombarded by cosmic rays for millions of years.
+My question is:
+How much of harmful radiation, for humans, does lunar regolith have?
+Has anybody modeled how much "induced radiation" the regolith shielding will produce for a hypothetical lunar base? (in Sieverts)
+I've found several studies about lunar regolith shielding properties, but they don't touch this on aspect. So, is the effect of induced radiation negligible, or a factor to consider?

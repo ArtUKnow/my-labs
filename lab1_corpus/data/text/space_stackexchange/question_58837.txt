@@ -1,0 +1,7 @@
+Cold Gas Thruster to space engineering challenges
+I have seen this question.
+The natural extension of this question would be - could you lift a human or an equivalent payload to LEO with cold gas thruster only? For numbers, take 100 kg mass for the human, and 400 km ( ~ ISS orbit) as the height for LEO.
+No one is currently doing such a thing as far as I could see.
+So, if the answer to my question is negative, I'd also like to know the reason behind it, including engineering challenges and physics limitations please.
+Playing with the rocket equation calculator I see that 3500 kg propellant, exiting at 3000 m/s will bring us to 1st cosmic velocity. So the challenge is now to cause the cold gas thruster to exit at that velocity. But I dont see why that should be a problem.
+Any help is appreciated.

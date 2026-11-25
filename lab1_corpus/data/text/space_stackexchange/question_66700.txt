@@ -1,0 +1,2 @@
+Would it take less thrust overall to put an object into higher orbit?
+Obviously, the engineers put things up to LEO for a reason, but my understanding is that much of the burn is used in getting the object up to orbital velocity. Higher orbits are slower, but is the decrease in orbital velocity overwhelmed by the increase in thrust required to climb out of the gravity well?

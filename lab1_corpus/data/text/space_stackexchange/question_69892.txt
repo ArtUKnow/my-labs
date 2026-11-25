@@ -1,0 +1,2 @@
+For an electric pump rocket engine like the Rutherford engine, is it possible to place the main valve upstream of the pump?
+For electric pump rocket engines like the Rutherford engine, the propellant flow/pressure can be easily controlled by the motor, and the main valve can only play a switching role. So is it possible to put the valve upstream of the pump, so that the pressure on the valve is greatly reduced, which seems to reduce weight.

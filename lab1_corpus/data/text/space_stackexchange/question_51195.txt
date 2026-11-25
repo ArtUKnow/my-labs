@@ -1,0 +1,4 @@
+Are there diagrams, animations, or even actual photographs of the very first "underground cable" on Mars?
+In order to hear earthquakes and other seismic signals better:
+...(the Insight) mission team has begun trying to partially insulate the (seismometer's) cable from the weather. They've started by using the scoop on the end of InSight's robotic arm to drop soil on top of the domed Wind and Thermal Shield, allowing it to trickle down onto the cable. That allows the soil to get as close to the shield as possible without interfering with the shield's seal with the ground. Burying the seismic tether is in fact one of the goals of the next phase of the mission, which NASA recently extended by two years, to December 2022.
+Question: I'm having trouble imagining what this burial process is like. Are there diagrams, animations, or even actual photographs of this very first instance of undergrounding or direct buried cable on Mars?

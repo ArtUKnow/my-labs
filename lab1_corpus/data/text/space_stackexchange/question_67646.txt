@@ -1,0 +1,4 @@
+Using GMAT to determine slant range to a ground station
+There is a post which describes a method to determine the slant range between a satellite and a ground station using the ContactLocator and a topographic coordinate system for the ground station.
+Using GMAT data to determine satellite elevation angle
+I created a ground station, defined a topographic coordinate system for the station and added a report for the ground station. The ground station report object list selects the ground station, the object properties are x, y and z. My question is what coordinate system should be selected for x,y and z?

@@ -1,0 +1,4 @@
+What was the longest Rocketdyne F-1 full power test?
+This number is relevant to the issue of F-1 reusability, as it determines how many flights are required before serious work needs to be done. That is because LOX/Kerosene engines have coking problems that can clog the engine after enough time.
+I understand that the F-1 was rated for an accumulated 2250 seconds. But I'm told that given the limits of test stands, this was done over multiple firings, between which extensive cleaning of coke deposits, as well as other work, may have been done.
+But I do not know what the capacity of these stands were. If they were comparable to the stages that the engines flew with, and I would expect no less, they must have been able to supply enough fuel for 840 seconds of firing. So what was the length of the longest full power test firing?

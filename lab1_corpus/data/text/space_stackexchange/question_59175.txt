@@ -1,0 +1,6 @@
+How to find the hyperbolic angle given the mean anomaly?
+I'm modelling a hyperbolic gravity assist trajectory around Jupiter and trying to calculate the coordinates for each hour interval before/after passing periapsis.
+I've calculated $M_h = 0.0176$ is the mean anomaly 1 hour from periapsis, but how can I determine the corresponding hyperbolic angle, i.e solve this equation for H, given e = 1.3893:
+$$M_h = 0.0176 = e~\rm sinh\it(H) - H$$
+Using iterative calculations I know the answer is approximately $H = 0.04$, but I'm hoping to solve the equation above "precisely".
+Thanks in advance.

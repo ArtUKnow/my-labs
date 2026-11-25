@@ -1,0 +1,13 @@
+How Greeks proved that solar parallax is negligible?
+A quick search on web or books leads to Hipparchus evaluation of the distance to the moon from Earth, as sketched below, where left is the sun, middle is Earth, and right is the moon.
+In the method, it is required to assume that the angular radius of Earth as seen from the sun, $\gamma$, is negligible.
+This is actually true, since $$\gamma = \arctan R/D \approx 0.0024^\circ,$$ where $R \approx 6.4 \times 10^3$ km is Earth's radius and $D \approx 1.5 \times 10^8$ km is the distance from Earth to sun.
+Thus, the value of $\gamma$ is negligible in comparison, for instance, to the angles $\alpha$, $\beta$, and $\delta$.
+The value of $\alpha$ is easy to compute: it is the ratio between the lasting of a sunset or a sunrise to 24h (daily course time).
+The angle $\beta$ is obtained from the measurement of the eclipse duration.
+And $\delta$ is given from the relation between the angles of the triangle: $\delta + \gamma = \alpha + \beta$.
+Wherever this method is explained, all the author simply states that "it is reasonable to assume $\gamma \approx 0$".
+Many of them don't provide a good reason for this to be accepted.
+Some state that the Greeks were convinced of this because the sun rays come almost parallel to us.
+However, this is not a good explanation, since the sun rays are responsible for the conic (and not cylindric!) shadow that causes the lunar eclipse.
+So, my question is: which astrnomic event indicates that $\gamma \approx 0$ previously to the actual evaluation of the distance to the sun from Earth?

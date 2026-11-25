@@ -1,0 +1,10 @@
+How to find Nodal Precession of a moon
+So, I found a formula for finding the Nodal Precession rate of a satellite here
+https://en.m.wikipedia.org/wiki/Nodal_precession
+But the thing is, when I pop in all the numbers in the formula on Desmos for Earth, I don't get 18.6 years per revolution of the nodes, which is what I know it is, I get one revolution every 81260 years. Which is definitely wrong. As I said, I know the value it should get is ~18.6 years per nodal revolution.
+So, I largely came here to ask, is this formula even valid? Or am I just doing something wrong somewhere?
+I copied the formula exactly, and put in all the right values for the Earth-Moon system. Which is why I am left confused and concerned that the formula is just wrong if it is off by that much. The only thing I assumed was that oblateness is defined by:
+((a - b) ÷ a)
+Is that perhaps what I did wrong?
+I got that it precesses by -2.4521097228 * 10^-12 radians per second. Is the formula wrong, or am I just wrong?
+Can you please check the veracity of this formula so I can determine with whom lies the mistake.

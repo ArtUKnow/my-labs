@@ -1,0 +1,2 @@
+When do NLTE and 3D atmosphere effects bias metallicity estimates in extremely metal-poor stars?
+When determining stellar metallicities in extremely metal-poor Population II stars, how do NLTE (non-local thermodynamic equilibrium) corrections interact with 3D hydrodynamic atmosphere models, and under what parameter regimes do 1D LTE approximations bias abundance determinations beyond quoted uncertainties?

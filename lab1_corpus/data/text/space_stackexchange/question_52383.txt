@@ -1,0 +1,9 @@
+Logic sequencing: From fault detection to launch escape?
+So I'm working on fault insertion for my launch simulation.
+It's basic: I flip a switch to kill the booster engines of my choice.
+If two or more engines die, separation is triggered and the launch escape engines fire to carry the crew module away.
+If just one engine dies, my thrust vectoring controller ramps up its PID gains to maintain control authority (or the rocket will veer off course).
+This works, but it has me wondering: how would a real rocket like the space shuttle or Saturn V go from fault detection to launch escape... activation?
+Say a critical engine malfunction occurs. There must have been some logic in place to detect the malfunction, issue an engine kill command, issue a vehicle separation command, fire the launch escape engine, and select the appropriate launch escape attitude control mode (I believe the Apollos had several).
+Is there a description or schematic of this logic somewhere on the web? For a vehicle like the space shuttle or one of the Apollos, maybe? I imagine if the space shuttle and Saturn V controllers are public info, then this bit of logic might be too?
+Thanks if you've seen it somewhere before and can point me to it! I'd love to go from "something that works" to "something in the ballpark of right."

@@ -1,0 +1,4 @@
+How important is the radiator suspected of leaking on the Soyuz?
+NASA has released a rather blithe blog about the Soyuz leak that occurred
+On Wednesday, Dec. 14, an external leak was detected from the Roscosmos Soyuz MS-22 spacecraft docked to the Rassvet module on the International Space Station. The external radiator cooling loop of the Soyuz is the suspected leak source.
+It is believed the system may have leaked all of its coolant. How important is this system on the Soyuz?

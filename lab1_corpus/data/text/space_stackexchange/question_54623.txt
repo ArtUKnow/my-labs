@@ -1,0 +1,8 @@
+How much could a full-blown Starlink constellation contribute to a future Kessler scenario? What would be the worst-case scenario?
+Discussions in comments below this answer to What is the biggest satellite constellation in space right now? have touched on risk vs reward and the Kessler Syndrome in the context of full-blown Starlink, and I don't think that that has yet been fully explored here in depth.
+For example, the current answer to Would SpaceX's Starlink constellation contribute inordinately to space debris? just refers to SpaceX's application to the FCC.
+Question: How much could a full-blown Starlink constellation contribute to a future Kessler scenario? What would be the worst-case scenario?
+"Contribute to" doesn't necessarily mean "cause", it could also include "in some way participate in".
+Worst case scenarios might include total loss of control or even nefarious co-optive operation (e.g. Dr. Evil takes over the Starlink control center demanding "One Million Dollars!")
+This could also be written as a World Building SE question, but I think that Space SE is the right place to review the orbital mechanics as there is already a large body of Q&A here regarding space junk, Kessler, debris fields, rates of deorbit, etc.
+I think a reasonable argument could be made that the low deployment altitude of the Starlink constellation mitigates risk even in the worst Dr. Evil scenarios, but then again there are so darn many of them in full-blown Starlink and collisions can throw debris into orbits with much higher apoapsis.

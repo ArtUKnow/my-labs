@@ -1,0 +1,4 @@
+Newtonian vs General Relativistic light deflection angle
+The Newtonian prediction and GR prediction of light deflection angles are
+$\frac{2GM}{c^2 R}$ vs. $\frac{4GM}{c^2 R}$. One gives 0.8 arcsec and the other 1.7 arcsec for deflection around the Sun, and the observation confirmed it should be 1.7 arcsec as observed during the solar eclipse.
+What value of "R" is used to get the predicted 0.8 or 1.7 arcsec? It seems solar radius is used, but why should it be? R is supposed to be distance between light ray and the sun, which could be at any distance from the Sun. Why do we assume the light is deflected right at the Sun's surface?

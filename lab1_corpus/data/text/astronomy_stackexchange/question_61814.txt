@@ -1,0 +1,2 @@
+What do lithium abundance numbers mean in catalogs like Hypatia?
+I totally understand the meaning of the chemical abundances given for most elements (e.g., [Fe/H], [C/H], [O/H], [C/Fe], [O/Fe], etc.), but values given for lithium don't make sense to me. For instance, in the Hypatia catalog of chemical abundances in nearby stars, they are in the -1, -2, -3 and even -4 range, yet I understand that the Sun has a lower lithium content than most sunlike stars. I tried to find an explanation in the papers but to no avail.

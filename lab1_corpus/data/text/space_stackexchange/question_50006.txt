@@ -1,0 +1,3 @@
+Satellites | Debris & EMR
+Over time we are launching plethora of communication satellites into space, with old ones reaching their lifespan and new ones replacing them. My Question is two folds:
+Are we simply creating more and more space debris making it harder to launch new satellites (ensuring no collision with the others)? and since these satellites communicate by broadcasting, are we also introducing too much of electro magnetic radiation?

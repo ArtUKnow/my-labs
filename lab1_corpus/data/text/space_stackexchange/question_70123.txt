@@ -1,0 +1,21 @@
+What are the dimensions and units of ITRF (or BCRF etc.) coordinates?
+From the IAU Resolutions it seems that the spatial coordinates $X^a$ of a Geocentric Celestial Reference System (GCRS) or also of the International Terrestrial Reference Frame (ITRF), should have physical dimensions of length. See for instance eqn (19), third equation, in the linked document. Is this correct? In that case, what are their units?
+It's funny that if we use "metres" as their units, then obviously these cannot be physical metres as defined by International System of units SI. The SI defines a metre according to radar distance, and radar distance is by definition what the metric $\pmb{G}$ yields along a path, according to the formula
+$$
+\int\sqrt{\dot{X}^{\mu}(\lambda)\,G_{\mu\nu}\bigl(\pmb{X}(\lambda)\bigr)\,\dot{X}^{\nu}(\lambda)}\,\mathrm{d}\lambda\ ,
+$$
+where $\lambda \mapsto \pmb{X}(\lambda)$ is an arbitrary parametrization of the path. Now if we take a path from, say
+$$
+\pmb{X} = (0\:\mathrm{s}, 0\:\mathrm{m}, 0\:\mathrm{m}, 7\,000\,000\:\mathrm{m})
+$$
+(or any other starting event you like) to
+$$
+\pmb{X} = (0\:\mathrm{s}, 1\:\mathrm{m}, 0\:\mathrm{m}, 7\,000\,000\:\mathrm{m})
+$$
+we find from eqn (19) linked above (look at the $G_{11}$ metric component) that this path has length approximately
+$$
+\biggl(1 + \frac{W_{\mathrm{o}}}{c^2}\biggr)\:\mathrm{m}
+$$
+where $W_{\mathrm{o}}$ is calculated at the path's midpoint. This length is not $1\:\mathrm{m}$.
+I've been looking on the ITRF website and checking some questions & answers here, for instance this. It seems like no units are employed, although the coordinates must have dimensions of length. So I'm confused.
+Very grateful for explanations and references where I can dig deeper into the details!

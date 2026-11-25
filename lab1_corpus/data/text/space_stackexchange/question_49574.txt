@@ -1,0 +1,7 @@
+Longest static fire?
+What is the longest duration for a static fire of a complete rocket stage?
+Initially I wanted to ask this for Falcon 9 and Falcon Heavy
+I found a 10 second static fire for Falcon Heavy - https://spacenews.com/spacex-conducts-falcon-heavy-static-fire-test/
+I am asking because the Starship static fire seems very short
+Related question - Longest continuous burning chemical rocket engine? where this answer says:
+In August 1988 an SSME (Space Shuttle Main Engine; RS-25) was fired on the ground for 2017 seconds; over 33 minutes.

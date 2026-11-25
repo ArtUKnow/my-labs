@@ -1,0 +1,4 @@
+Do stars made primarily of carbon exist?
+Do stars made primarily of carbon exist? If so, what would be their properties (brightness, mass, radius, temperature, etc) be?
+I was reading up on Subdwarf O and Subdwarf B stars. They are composed primarily of helium, and have properties that are unusual if you are accustomed to how hydrogen rich stars tend to function. They are typically much more compact, having radii of between 0.15 - 0.25 times that of the sun. Despite this, they are much brighter and hotter, shining at between 10 to 100 solar brightness, with temperatures going from 20,000K to 100,000K.
+This got me to wondering, if there were stars composed primarily of carbon, would they exhibit a similar jump in these properties, being smaller and hotter? Were there any possible means of formation of such stars?

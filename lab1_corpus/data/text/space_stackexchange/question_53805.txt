@@ -1,0 +1,28 @@
+Suppose Hubble needed to be fixed by replacing an accessible module again and NASA called for help, what are the most likely mission proposals?
+Background
+Hubble has had at least a few troubling issues that were resolved from the ground in recent years, a summary can be found in Engadget's NASA struggles to fix a Hubble Space Telescope computer glitch
+Beginning of question post
+There have been several Shuttle missions to Hubble; the first to deploy it, one to fix the optics so it could actually work, others to upgrade, there's a list here: Shuttle Payloads and Related Information - Hubble Space Telescope and Great Observatory Missions
+STS-31 Discovery, April 24 - 29, 1990. The Hubble Space Telescope was deployed to a 380-statute-mile orbit.
+STS-37 Atlantis, April 5 - 11, 1991. The second great observatory, Gamma Ray Observatory (GRO) was deployed. This observatory has since been renamed the Compton Gamma Ray Observatory in honor of Arthur Holly Compton.
+STS-61 Endeavour, Dec. 2 - 13, 1993. The first mission to service and repair the Hubble telescope.
+STS-82 Discovery, Feb. 11 - 21, 1997. The second mission to service and repair the telescope.
+STS-93 Columbia, July 23 - 27, 1999. The third great observatory, Chandra X-ray Observatory was deployed.
+STS-103 Discovery, Dec. 19 - 27, 1999. The third mission to service and repair the Hubble telescope.
+STS-109 Columbia, March 1 - 12, 2002. The fourth mission to service and repair the telescope.
+STS-125 Atlantis, May 11 - 24, 2009. The fifth and final mission to service and repair the telescope.
+Question: Suppose Hubble needed to be fixed by replacing an accessible module again and NASA called for help, what are the most likely mission proposals?
+Is there some space robot under development or at least on a "credible drawing board" that could unscrew and pull out a module on the Hubble and slide in a new one? If Hubble was healthy except for one module and in need of this in order to start doing science again? If NASA or some agency put out a call for proposals to attempt a robotic module replacement, who might the most likely and credible bidders be?
+Related:
+Besides HST, JWST and stations, are there any examples of satellites designed for service in space? note: @Hobbes' answer says "NASA does not consider JWST to be serviceable"
+Is Landsat-7's propellant resupply port "robot-ready"? (Restore-L mission)
+Why Was DARPA's Orbital Express Refueling Program Discontinued?
+The JWST - What happens if/when it breaks?
+What satellites did the Shuttle retrieve from orbit?
+Why Was DARPA's Orbital Express Refueling Program Discontinued?
+What happens to JWST after it runs out of propellant?
+Satellite retrieval, fix and deploy possible remotely?
+Why Orion can't be used to service JWST?
+Is it possible to refuel the James Webb Space Telescope?
+With an external airlock attached, could Commercial Crew Program spacecraft service Hubble?
+On the outreach page (of Restore-L) there is a NASA video Virtual Tours of NASA Goddard's Satellite Servicing Capabilities Office, and an animation there caught my eye. Here is a GIF reconstructed from frames of the video:

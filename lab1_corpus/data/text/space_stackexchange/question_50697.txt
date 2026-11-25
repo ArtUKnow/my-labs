@@ -1,0 +1,8 @@
+Powered Explicit Guidance: Should rocket be pitching down at orbital insertion?
+I simulated an orbital insertion using Powered Explicit Guidance as used in the space shuttle.
+The PEG algorithm works great. I hit all my targets: altitude, velocity, orbital inclination, longitude of ascending node.
+But the algorithm does something I didn't expect: it causes the rocket to pitch down by >10 deg beginning maybe 30 seconds before orbital insertion (depending on altitude target, but generally a few tens of seconds).
+Again, all my targets are hit. And if I try to stop the rocket from pitching down when it does, then I miss my targets. So the algorithm is clearly detecting that the rocket has to pitch down. It's doing its job, sort of.
+But should the rocket be pitching down like this at orbital insertion? I thought it would be pointing at the horizon at the very end, but... no?
+Just wondering if this is normal or (as I suspect) if I need to figure out what's wrong with the PEG algorithm (despite it working flawlessly otherwise, because it always always hits my targets, even when I change them mid-simulation).
+Thanks!

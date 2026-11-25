@@ -1,0 +1,3 @@
+Does the Ingenuity helicopter on Mars have a radio call sign?
+This Deep Space Network page lists some of the call signs of various robotic spacecraft. For example, Curiosity is MSL, and Perseverance is M20. Does Ingenuity have a call sign?
+(Even if it never directly communicates with the DSN, that does not preclude it from being assigned a call sign.)

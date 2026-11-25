@@ -1,0 +1,5 @@
+The thrust in the calculation of specific impulse
+In calculating the specific impulse using the thrust generated as one of the parameters, do we take the total thrust generated or the average thrust over the period of the burn?
+$I_{sp} = \frac{F_{Thrust} \cdot t_{burn}}{m_{fuel} \cdot g}$
+If I am taking readings over a time interval of dt = 0.1 second for a total of 3 minutes, then do I take the thrust at dt=0.1 second or the average of the total thrust over a 3 minute period?
+Also, during a launch, do we use the average thrust generated during the launch test to predict the projectile or do people have another way to find the thrust and make more precise calculation of the speed and position? As I know, the thrust is not steady during the launch.

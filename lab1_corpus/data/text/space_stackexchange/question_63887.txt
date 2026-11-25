@@ -1,0 +1,8 @@
+Difference in using flat earth or round earth model for equation of motion
+according to the book of Mr. Peter H. Zipfel (Modeling and simulation of aerospace vehicles) for high speed or/and long flight applictions kinematic simulations should be done by round rotating earth models. My question: why is it not correct to use flat earth models? Where is the difference?
+Rotation vs no rotation:
+I assume that the "rotation" only plays a role for calculating radial forces (centrifugal, coriolis). Because for the position of the vehicle it does not change anything if the earth rotates or not, because due to the rotation of the atmosphere, vehicle is moving with the rotation of the earth.
+Round vs Flat:
+The flat earth vs. round earth model should also only play a role in using the radial forces as well? Or any other effect? In a flat model the vehicle flies in a straight line, in a round earth model in a circular trajectory where radial forces act.
+What do you think?
+Thanks for your thoughts!

@@ -1,0 +1,4 @@
+Where can the raw data for the PRIME telescope be found?
+I am looking to use the raw data from the recently inaugurated PRIME telescope in a project regarding microlensing events. This slideshow tells me that the data is publicly released, as it states that the team will release the data as soon as possible.
+Looking online, I was unable to find any data repository with the raw PRIME data. I was able to find articles that analyzed this data, but the raw data eluded me.
+Where can I find and download this raw PRIME data? Is there any processed PRIME data available online that I can use too?

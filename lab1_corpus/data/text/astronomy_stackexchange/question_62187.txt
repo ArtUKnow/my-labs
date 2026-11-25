@@ -1,0 +1,3 @@
+I'm having trouble understanding why the Sun rises from the east
+Taking the logic that the Earth spins counterclockwise, the sky above you spins clockwise. For a circle, clockwise is Left -> Up -> Right (West -> North -> East). Shouldn't that mean the Sun rises from the West? I simplified the diagram to a 2D representation because I assumed it would operate the same regardless of the dimension, as so:
+The explanations I've seen online use West -> East terminology, but I feel as though that's ambigious (as you could move either North or South in between).

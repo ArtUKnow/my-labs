@@ -1,0 +1,4 @@
+Are spacecraft star cameras ever used as scientific instruments for research?
+There are quite a lot of spacecraft that have been up there a while and a lot of them have star cameras for attitude determination and for attitude control. Space telescopes (both heavenly and Earth-observational) need to point carefully and these may have especially nice star cameras.
+Those integrated years of observation makes them potentially attractive candidates for secondary science observations, though not all of their systems may allow for extraction of scientifically useful images.
+Question: With all of those eyes intently trained on the stars, are spacecraft star cameras ever used as scientific instruments for research?

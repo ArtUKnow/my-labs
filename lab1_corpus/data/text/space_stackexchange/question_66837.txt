@@ -1,0 +1,14 @@
+Is a complete version of the Lunar Module Systems Handbook available online?
+This excellent answer to the question What does 'Switch SCE to AUX' mean? has a reference that introduced me to the Apollo Command/Service Module Systems Handbook. Surprisingly I'd never seen this before, and although I often say "there was a lot of Apollo DNA in shuttle" looking at this document was like coming home - clearly the flight controllers who started up the Space Shuttle Systems Handbook were Apollo veterans.
+Anyway, the Command/Service Module is well covered; three versions of the Apollo Command/Service Module Systems Handbook are available at the immensely valuable Virtual AGC Home Page:
+CSM 104
+CSM 114
+CSM 116-119
+Now, how about the Lunar Module Systems Handbook? Two versions are found at the AGC site. Unfortunately, unlike the CSM documents which are complete, these two pdfs are only page change notices (PCN), containing a subset of pages that were updated and sent out to users of the documents, who would remove the old pages and insert the new ones.
+LM-1 This is the Rev. C PCN dated 7/7/67 and is a 161 page pdf. The first schematic drawing appearing in it is on pdf page 13 and is drawing number 2.1.1
+LM-5 to LM-9 This is PCN 4 dated 6/2/69 and is a 13 page pdf. The first schematic drawing appearing in it is on pdf page 3 and is drawing number 10.2
+I could not find a complete Lunar Module Systems Handbook anywhere. The same two documents from the Virtual AGC page show up in searches at some other websites, but no additional ones.
+So, finally, the question:
+Is there a complete Lunar Module Systems Handbook out there anywhere for download?
+I'm asking only about a complete (all the schematics) document numbered FC027 in any of its versions, not any other Lunar Module document.
+Obviously (I thought) I am not asking for different places on the internet to obtain the same documents I describe above.

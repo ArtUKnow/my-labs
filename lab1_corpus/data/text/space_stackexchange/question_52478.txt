@@ -1,0 +1,51 @@
+What orbits are Starlink satellites now deployed into? How low to do they go on their first perigee?
+In my answer to Delta-V of Starlink Satellites I ballpark spherical-cow envelope-back estimated 190 m/s with 2 kg of krypton based on raising only from a 445 km circular orbit to a 550 km circular orbit.
+raising 445 to 550 km 58 m/s
+keeping it there 20 m/s
+bringing it down 112 m/s
+Total 190 m/s
+I've just watched SpaceX video for January 20, 2021 Starlink Mission and tabulated the altitude (presumably relative to 6378 km) displayed on the screen. Downlink to ground stations is spotty and sometimes the displayed numbers remain fixed for extended periods (don't update) then jump, so I've only included data that seems "live" i.e. is updating regularly when I record the data.
+What emerged surprised me!
+Callout for SECO-1 at 08:55 was only at 167 km, and at this point altitude was increasing at it's maximum rate until deployment! For such a low eccentricity orbit we can expect altitude to vary roughly sinusoidally with time with a period of about 90 minutes, and to my eye it looks like if nothing is done these satellites will hit the atmosphere in an hour or so.
+But this doesn't really look like a sine wave with a period of 90 minutes. Yes the orbit has an inclination of 53 degrees, and considering $J_2$ maybe these numbers need to be adjusted for Earth's equatorial bulge, so consider all of this as simply evidence of prior research rather than assertion or premise.
+Question: What orbits are Starlink satellites now deployed into? How low to do they go on their first perigee? Do they start raising themselves promptly? Would they "hit the atmosphere" or at least loose a substantial amount of energy on their first perigee if they didn't?
+T+ (minutes) altitude (km)
+10 170
+15 185
+20 201
+25 216
+30 loss of telemetry
+35 loss of telemetry
+40 253
+45 260
+50 loss of telemetry
+55 loss of telemetry
+60 loss of telemetry
+64 286
+Starlink January20, 2021 2nd stage altitude after SECO-1 and before deploy
+import numpy as np
+import matplotlib.pyplot as plt
+info = ((10, 170), (15, 185), (20, 201), (25, 216), (40, 253),
+(45, 260), (64, 286))
+minutes, altitude = np.array(list(zip(*info))).astype(float)
+plt.plot(minutes, altitude)
+plt.plot(minutes, altitude, 'ok')
+plt.xlabel('time since launch (min)')
+plt.ylabel('altitude (above 6378 km?)')
+plt.subplots_adjust(left=0.2, bottom=0.2)
+plt.show()
+"""
+T+ (minutes) altitude (km)
+10 170
+15 185
+20 201
+25 216
+30 loss of telemetry
+35 loss of telemetry
+40 253
+45 260
+50 loss of telemetry
+55 loss of telemetry
+60 loss of telemetry
+64 286
+"""

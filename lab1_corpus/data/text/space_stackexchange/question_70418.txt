@@ -1,0 +1,4 @@
+What reference frame does the Artemis II real-time website use?
+The Artemis Real-time Orbit Website displays, among other things, Artemis II's current distance from Earth, distance from the Moon, and velocity. What reference frame does it use for velocity?
+I thought it was using one centered on Earth and aligned to the Earth-Moon axis, but in that case, velocity would reach a minimum at the Earth-Moon gravitational balance point. It didn't, and continues to fall as Artemis II nears the point of closest approach to the Moon.
+If it helps figure out the reference frame, the minimum velocity occurred during the communication blackout period behind the Moon, and the speed was something less than 925 MPH. Exact speed and time are unknown, since the site doesn't display information during communication blackouts.

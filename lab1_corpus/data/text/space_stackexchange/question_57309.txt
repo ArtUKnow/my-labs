@@ -1,0 +1,8 @@
+How will JWST extract the infrared signal from the desired early sources from all the other infrared it will see?
+JWST will look for an infrared signal as low as 1 photon per second that comes from the earliest sources of infrared. But there will be infrared from any star in its field of view that is not necessarily the signal that JWST is looking for.
+How will JWST extract the desired signal from all the other infrared it will receive from other sources in its field of view?
+Edit:
+I want to clarify the assumptions underlying my question.
+My assumption is that JWST is looking for a series of spectral lines that are red-shifted into the IR. If the stars of interest have a continuum of velocities (ages/distances) the signal will be smeared. There will also be noise from other sources.
+I'm trying to understand the signal extraction problem, but I'm making assumptions about what the signal and noise are. The signal could be as low as one photon per second, but what is the signal? And what will the noise look like?
+Does anyone have a reference to what signal the JWST is looking for?

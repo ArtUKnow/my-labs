@@ -1,0 +1,2 @@
+Why Doesn't the cooling system on a rocket engine burn the fuel?
+The cooling system on a specific rocket engine is usually a type of "pipe" that goes around the nozzle to not only keep the nozzle cool but also pre-heat the fuel. But the nozzle can reach thousands of degrees in heat. So why doesn't this ignite the fuel?

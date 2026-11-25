@@ -1,0 +1,3 @@
+Highest Isp achieved with nitrous oxide as oxidizer
+What is the highest Isp achieved on orbital rocket for an engine that used nitrous oxide as oxidizer? Both hybrid and liquid engines can be considered.
+Not considering nitrous oxide monopropellant since it probably would perform the worst (is that true?).

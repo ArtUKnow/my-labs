@@ -1,0 +1,7 @@
+Did the FAA license the Ingenuity helicopter to fly on Mars?
+This answer to Why is Rocketlab working with a Federal Aviation Administration to investigate an early 2nd stage engine shutdown? says
+The Federal Aviation Administration is the United States' Federal Government organization responsible for every US vehicle that flies. The Electron flies, and it is launched by a US company, hence, it falls under the jurisdiction of the FAA, more precisely under the jurisdiction of the FAA's Office of Commercial Space Transportation.
+I left a comment there that says:
+It must end somewhere, would a Rocketlab third kick stage or a Photon also require consultation with the FAA?
+but lets take this a step further.
+Question: If The FAA is the United States' Federal Government organization responsible for every US vehicle that flies is really accurate as written, did the FAA then license the Ingenuity helicopter to fly on Mars?

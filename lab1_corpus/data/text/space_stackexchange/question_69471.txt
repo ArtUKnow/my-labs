@@ -1,0 +1,30 @@
+What is the current status of the Wingless Electromagnetic Air Vehicle (WEAV)
+From https://en.wikipedia.org/wiki/Wingless_Electromagnetic_Air_Vehicle :
+The Wingless Electromagnetic Air Vehicle (WEAV) is a heavier than air
+flight system developed at the University of Florida, funded by the
+Air Force Office of Scientific Research. The WEAV was invented in 2006
+by Dr. Subrata Roy, plasma physicist, aerospace engineering professor
+at the University of Florida, and has been a subject of several
+patents. The WEAV employs no moving parts, and combines the aircraft
+structure, propulsion, energy production and storage, and control
+subsystems into one integrated system.
+The Wingless Electromagnetic Air Vehicle (WEAV) is a heavier-than-air
+flight system which can self-lift, hover, and fly reliably with no
+moving components.
+According to Demonstration of a Wingless Electromagnetic Air Vehicle from the Air Force Office of Scientific Research, microscale liftoff was achieved.
+a successful liftoff was achieved using an external power supply
+(figure 28). The prototype was able to hover a few millimeters above
+the surface for a sustained duration (~3 minutes).
+From https://en.wikipedia.org/wiki/Ion-propelled_aircraft#Onboard_power
+When the corona wire reaches approximately 30 kV, it causes the air
+molecules nearby to become ionised by stripping their electrons from
+them. As this happens, the ions are repelled from the anode and
+attracted towards the collector, causing the majority of the ions to
+accelerate toward the collector
+…the moving ions diffuse into an expanding ion cloud, and collide
+frequently with neutral air molecules. It is these collisions that
+impart momentum to the neutral air molecules… they continue to travel
+in the same direction, creating a neutral wind.
+The heavier and denser the air, the higher the resulting thrust.
+What is the current status of this design? As a propellant-less electrical propulsion system, does it have promise for use in dense, extraterrestrial atmospheres?
+https://www.scientificamerican.com/article/worlds-first-flying-saucer

@@ -1,0 +1,3 @@
+How do we ensure an orbit of a satellite doesn’t interfere with existing ones?
+How do we ensure a new orbit/route of a LEO satellite or even a swarm of LEO satellites doesn’t collide with currently existing ones when planning a mission?
+I’ve thought about running a simulation calculating positions of every near object in the same time interval, but it would just be time/energy inefficient. Any plausible or does anyone knows how organizations like NASA or SpaceX does this?

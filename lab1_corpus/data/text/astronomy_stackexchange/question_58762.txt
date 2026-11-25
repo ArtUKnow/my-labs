@@ -1,0 +1,5 @@
+When does the mean lunar phase aligns with the actual lunar phase? What's the maximum difference between the two?
+The average length of the lunation is 29.53059 days, but the Moon doesn't go around with an uniform speed with respect to the Sun. Sometimes it's ahead of the mean sometimes it's behind. So there is kind of analemma-like motion, where the Moon appears to swing back and forth around the mean.
+I know the actual formula for lunar phases is way more complex. But if I wish to stick with the simple 29.53059 day constant lunation length, how accurate is it for predicting lunar phases?
+When is the ideal reference point when the actual lunar phase exactly matches the mean, so the errors are roughly the same in both directions?
+I've searched in the topic but the only thing I've found is that the synodic months I sometimes some hours shorter or longer than the average, but no info about what's the maximum error these differences accumulate to.

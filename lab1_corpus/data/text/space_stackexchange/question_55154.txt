@@ -1,0 +1,6 @@
+Lift and Drag of a Model Rocket
+Talking about aerodynamic forces in a model rocket, I believe that Lift and Drag are the components of a net force which acts on the Center of pressure. Knowing this, could I affirm that the net aerodynamic force will always have the opposite direction to the movement of a rocket.
+If this is true then, if the rocket's angle of attack is 0 (It's moving perpendicular to the Earth) would the net aerodynamic force be equal to drag? And, would lift be 0 in that case?
+So in the end, would Drag be equal to the net force times cosα being α the angle of atack?
+And would Lift be equal to the net force times sinα?
+Thank you and have a nice day.

@@ -1,0 +1,9 @@
+Optimal transfer to Jupiter?
+Playing around with the Nasa trajectory tool I noticed that optimal transfers to Jupiter (from 2010 to 2040) all follow the same pattern:
+get into an eccentric orbit (2 AU)
+at aphelion do a deep-space maneuver and reduce speed slightly
+use Earth for a flyby to gain speed
+arrive at Jupiter (close to aphelion)
+Also the JUNO spacecraft was following a similar trajectory.
+For no other Earth-planet transfer I got a similar mission path.
+Why is that 'design' the optimal transfer to Jupiter? Cheers!

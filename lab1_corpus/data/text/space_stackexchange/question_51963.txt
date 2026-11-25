@@ -1,0 +1,3 @@
+Blue Origin BE-3/BE-4 Specific Impulse?
+Wikipedia lists 490 kN (110,000 lbf) thrust for BE-3 at sea level and 710 (160,000 lbf) kN in vacuum. BE-4 is listed at a stupefying 2.4 MN (550,000 lbf) at sea level.
+But no numbers are given for specific impulse. Are there any estimates for this parameter?

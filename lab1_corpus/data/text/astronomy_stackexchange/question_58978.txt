@@ -1,0 +1,36 @@
+Apparent RA-Dec value with geocentric observer didnt match between Skyfield and Horizons
+When I trying to match between Skyfield and Horizons JPL data (with observer in geocentric), I found that the both value have differences. Here's configurations I have:
+MAKE_EPHEM=YES
+COMMAND=10
+EPHEM_TYPE=OBSERVER
+CENTER='500@399'
+START_TIME='2024-Nov-22'
+STOP_TIME='2024-Nov-23'
+STEP_SIZE='1 HOURS'
+QUANTITIES='2,13,20,31'
+REF_SYSTEM='ICRF'
+CAL_FORMAT='CAL'
+CAL_TYPE='M'
+TIME_DIGITS='MINUTES'
+ANG_FORMAT='HMS'
+APPARENT='AIRLESS'
+RANGE_UNITS='AU'
+SUPPRESS_RANGE_RATE='NO'
+SKIP_DAYLT='NO'
+SOLAR_ELONG='0,180'
+EXTRA_PREC='NO'
+R_T_S_ONLY='NO'
+CSV_FORMAT='YES'
+OBJ_DATA='NO'
+In 2024-Nov-22 00:00, for example, the Apparent RA is 15h 51m 59.22s and Apparent Declination of Sun is -20 11 08.4.
+But in Skyfield, it show the apparent RA is 15h 50m 32.61s and apparent declination is -20deg 06' 35.6".
+Here's skyfield code I use:
+from skyfield.api import load
+ts = load.timescale()
+t = ts.utc(2024, 11, 22, 0)
+planets = load('de440.bsp')
+earth, sun = planets['earth'], planets['sun']
+apparent = earth.at(t).observe(sun).apparent()
+ra, dec, distance = apparent.radec()
+print('RA:', ra)
+print('Dec:', dec)

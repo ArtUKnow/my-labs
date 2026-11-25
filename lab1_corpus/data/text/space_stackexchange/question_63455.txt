@@ -1,0 +1,5 @@
+Probability of centimeter scale meteoroids killing astronauts
+The maximum impact velocity for a meteoroid orbiting the Sun is 72km/s at 1AU. At this velocity, it has an energy density of 2,592 MJ/kg, or 620kgTNT/kg.
+This means that a 10cm diameter sphere of ice has the energy of a car bomb. For an iron sphere, it goes up to a respectable truck bomb.
+A more typical velocity is between 51 and 17km/s, at which the energy density is between 1301 and 145MJ/kg. This corresponds to between 311 and 35kgTNT/kg. Our 10cm meteoroid could still easily kill an astronaut.
+It may be said that such a projectile is too small to be detected by radar commonly deployed in manned spacecraft. My question is what are the odds of a projectile too small to be detected blowing up a manned spacecraft or astronaut?

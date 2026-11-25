@@ -1,0 +1,2 @@
+Could a near earth asteroid perturb a satellite out of earth's orbit?
+Given a satellite in GEO or a graveyard orbit, what characteristics of a passing NEO would be required to perturb said satellite out of Earth's influence and into a sun-bound or sun-centered highly eccentric orbit? Or would the required mass be so high that it would itself be disrupted by the moon or be required to impact the earth?

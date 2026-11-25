@@ -1,0 +1,4 @@
+I need clarity on the units in this flux equation
+I have the following equation used to calculate line flux from equivalent width.
+$F_{line}=EW \times F_{cont}$
+If $EW$, the equivalent width of a line is in Angstroms, and $F_{cont}$, the continuum flux density unit is in $ erg\hspace{1pt} s^{-1} cm^{-2}{Hz}^{-1}$, then what would be the units of $F_{line}$? From the equation the units should be $erg\hspace{1pt} s^{-1} cm^{-2}{Hz}^{-1}A$ but the line flux units are $erg\hspace{1pt} s^{-1} cm^{-2}A^{-1}$.

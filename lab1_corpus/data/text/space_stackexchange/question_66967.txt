@@ -1,0 +1,5 @@
+Why do you even need a heatshield - why not just cool the re-entry surfaces from inside?
+Is it conceivable to instead of having a heatshield, to just have some sort of material or mechanism on the inside, that can convert the heat into something else?
+A back of napkin calculation shows that a re-entering vehicle needs to get rid of about 3M joules of energy.
+Eg. Phase change materials. You just fill the inside of the surface with salt, or silicon, and through some convection have it melt to the maxmimum temperature that you can safely confine, so as to keep the temperature on the outer surface under control. It seems that wouldn't need more than 20% of the mass of the spacecraft to make this work. Has this been tried?
+Other ideas that spring to mind: Thermophotovolataics, Magentocalorics, Thermomechanicals.. charge batteries or manufacture something of value as you descend.

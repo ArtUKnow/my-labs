@@ -1,0 +1,9 @@
+On what calculations is Robert Zubrin's assertion that Mars could be warmed by 10 ⁰ C in 50 years with fluorocarbon gases based?
+In this answer to the question "What would the full hypothetical Mars terraforming roadmap look like ?" there's a link to the article "Zubrin on Terraforming Mars" in Universe Today,
+From an interview with Robert Zubrin in that article:
+RZ: If one considers the problem of terraforming Mars from the point of view of current technology, the scenario looks like this:
+A century to settle Mars and create a substantial local industrial capability and population.
+A half century producing fluorocarbon gases (like CF4) to warm the planet by ~10 C.
+(Emphasis by me)
+Part of the main question is: did he sufficiently take into account the extremely large amount of rock that needs to be excavated and processed to extract the required amount of Fluorine ?
+The MSL rover Curiosity detected fluorine containing minerals in Gale crater.

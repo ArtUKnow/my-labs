@@ -1,0 +1,4 @@
+Do EVA suits monitor astronauts' temperature?
+According to https://en.wikipedia.org/wiki/Primary_life_support_system the Primary Life Support System (PLSS) of the ISS EVA suits provides:
+“Telemetry … of the wearer's immediate health (e.g. heart rate)”
+Does that include temperature? If yes, where is there a temperature probe built into it or inside the helmet?

@@ -1,0 +1,2 @@
+Escaping Earth - how could one attempt to find the best solution to this trajectory optimization problem in practice?
+If there is a satellite in low Earth orbit, with a limited delta-v budget (but high enough to escape Earth) and limited delta-v-rate (thrust), how could one find an acceleration schedule and associated trajectory (that can involve gravity assists using various planets/bodies) that optimizes for the largest spacecraft-Earth distance at a certain time (e.g. 10 years after the starting time)?

@@ -1,0 +1,7 @@
+Falcon 9: How many engines on first burn in two-burn reentry?
+Consider a Falcon 9 two-burn reentry maneuver.
+My understanding is that the second, final, burn is always single-engine.
+And I think the first burn can be either single-engine or three-engine. But I'm not sure. Do they ever fire just one engine for this first burn? Or is it always three engines?
+I'm simulating reentry and finding that a single engine does little to slow the rocket stage down. Drag is basically doing most of the decelerating... and because the stage hits the dense atmosphere at high speed, my dynamic pressure is on the high side (100kPa).
+A three-engine burn would help kill off the excess speed before the stage hits the denser atmosphere, and maybe then Q would peak closer to the 30-40 kPa seen during launch.
+But if the first burn is sometimes single-engine, then it seems they must start the burn higher up... or maybe they're cool with much higher max-Q on descent, in the range of 100kPa, maybe?

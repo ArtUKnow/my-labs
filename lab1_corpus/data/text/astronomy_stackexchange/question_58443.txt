@@ -1,0 +1,16 @@
+Number of components in the Mintaka star system?
+According to some recent studies, the star Mintaka in Orion's belt ($\delta$ Orionis) is a multiple star system consisting of 6 stars in total:
+the triple system $\delta$ Ori A, with $\delta$ Ori Aa1, $\delta$ Ori Aa2 and $\delta$ Ori Ab;
+the single component $\delta$ Ori B;
+the spectroscopic binary component $\delta$ Ori C (or HD 36485).
+The studies I'm referring to are mainly a 2023 study by Oplištilová et al., which quotes a 2010 study by Leone et al. with respect to $\delta$ Ori C being a binary star, and states that the system has 6 components overall:
+The bright star δ Ori (HR 1852, HD 36486, HIP 25930, ADS 4134) is a multiple stellar system consisting of six components: Aa1, Aa2, Ab, B, Ca, and Cb, more specifically, the eclipsing binary Aa1+Aa2, the interferometric binary (Aa1+Aa2)+Ab, the faint visual companion B, and the spectroscopic binary Ca+Cb
+(from the Introduction)
+This 2024 study by Malkov et al confirms that $\delta$ Ori C is a spectroscopic binary. On page 2, they say (emphasis mine):
+HD 36486 has remote companions B and C at separation ρ = 33" (V = 14.m 2, O9V) and ρ = 56"
+(V = 6.m 83, B2Vsn), respectively. Companion C (=HD 36485, B2Vsn) is itself a spectroscopic (SB1) binary
+The Simbad database also seems to consider $\delta$ Ori C as a spectroscopic binary, if I'm not mistaken.
+However, this 2015 article by NASA says that $\delta$ Ori B and C are single stars, while $\delta$ Ori A is a triple system, which would bring the total number of components to 5 instead of 6.
+They cite studies conducted by the Chandra X-Ray observatory (a series of papers starting with this one by Nichols et al.). These studies, though, seem more concerned with $\delta$ Ori A than with the other components, but I could be mistaken.
+Can you explain why there is this discrepancy in the total number of stars in the system? Are there more recent studies that report $\delta$ Ori C as a single star and not a spectroscopic binary?
+I'm asking this because it seems that the doubt relates only to the C component, while A and B are established as triple and single, respectively.

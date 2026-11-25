@@ -1,0 +1,14 @@
+How will the Polaris Dawn cabin pressure and oxygen partial pressure dovetail with that of their EVA suits? (100% oxygen?)
+CNN's September 10, 2024 SpaceX’s Polaris Dawn mission just made history. But the riskiest part is still to come says:
+The Polaris Dawn crew’s pre-breathe routine, however, will last about 45 hours, (SpaceX Engineer Sarah) Gillis told CNN, as the oxygen content in the cabin slowly increases while the pressure decreases.
+and a little further down (after the 'can of soda-pop' analogy):
+By lowering the pressure inside Crew Dragon, Gillis said, and putting on their spacesuits just as the ambient pressure equals the suit pressure*...
+At the same time, Wikipedia's Polaris Dawn;p Mission says:
+Over three days, the cabin pressure will gradually decrease from 14.5 to 8.65 pounds per square inch (100.0 to 59.6 kPa) while oxygen levels increase.
+and further down:
+Flight day three is dedicated to the first-ever extravehicular activity (EVA) on a commercial spaceflight mission. After extensive preparations, all four crew members will don their EVA suits, which are pressurized with 100% oxygen at 5.1 pounds per square inch (35 kPa).
+These blurbs have a discontinuity in both total pressure and oxygen partial pressure, probably because there's a discontinuity in time.
+But I'm wondering, will the capsule atmosphere match 5.1 psi at 100% oxygen(!) when they don their suits and close them up?
+It's been a while since crewed capsules have had 100% oxygen; hasn't it?
+Is this a fire safety issue? Does the lower total pressure decrease the danger?
+Do I totally misunderstand what will actually happen?

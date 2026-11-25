@@ -1,0 +1,13 @@
+Which countries could launch a human into space on very short notice
+I’m not sure if it's better to ask this here or on worldbuilding.se
+Which countries except Russia/China/US can launch their own crew into space and return them unharmed (if for some reason this really becomes necessary to do and has to happen quickly) and how long would it take?
+Assuming that Mercury/Vostok-1 level is enough, money is not important and the country really wants it done. Also, crew loss could be tolerated if it's a one time thing. Reusing something which is not human-rated could be used as long as it can get the job done.
+It should be done without direct help from Russia/China/US (so the country must make its own rocket and ship) but it's ok to use "previous" experience with shared space programs.
+Clarifications:
+suborbital hop doesn't count.
+"short notice" - let's say "up to year".
+low earth orbit is enough.
+private companies counts as country X if country X agrees and said company could do everything in this country with personeel from it's country. So Space X is USA (even if Musk decided to move HQ to Nauru). Rocket Lab is likely NZ.
+EU could be seen as "country" for purposes of this question (There is European Parliament after all and different countries could realy contribute).
+MOOSE-style thing could be borderline ok if it's possible to launch pilot with it. There is launch acceleration after all.
+Single orbit is enough. Crew must be consciousness whole flight and must return alive. Ship itself must also return whole (for some definition of "ship" and "whole"). It's not necessary to land in ship (so Gagarin-style land where crew lands on their own parachute is enough).

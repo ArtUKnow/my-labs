@@ -1,0 +1,5 @@
+Has any research been done in deep-cold robotics?
+I'm reading all kinds of things about mining water from the Permanently Shadowed Regions of the moon -- the bottoms of craters near the poles -- and I'm thinking Um, guys? It's 30 degrees Kelvin down there! That's 10 degrees colder than a bad night on Pluto!
+What battery will function at that temperature? What material will not shatter? What lubricant works at thirty degrees from Absolute Zero?!? I have looked around for research and found nothing -- except an article about a bipedal robot in Ann Arbor (Go Blue!) that set a new record by walking for more than an hour at 8 below zero Fahrenheit before it died.
+OK, terrific. Two hundred and twenty degrees to go.
+Does anyone know of any research that has been done in this area? Any reason to believe we could ever do anything at all in such places?

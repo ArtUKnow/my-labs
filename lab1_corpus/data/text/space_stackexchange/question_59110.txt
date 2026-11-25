@@ -1,0 +1,2 @@
+Why did the "Running out of Toes" mission fail?
+On May 15, 2021, Rocket Lab's Electron failed in the "Running Out of Toes" mission. The first stage had a nominal flight. Then, from looking at the launch video published by Rocket Lab, the second stage appeared to ignite and then shut down, and never relight. What happened and why?

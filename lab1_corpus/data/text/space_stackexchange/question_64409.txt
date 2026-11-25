@@ -1,0 +1,3 @@
+Fastest time to Moon for Starship
+What is the fastest time to the Moon possible with Starship in the near future, assuming there is orbital refueling?
+Is sustained acceleration and then deceleration possible at say 0.25G, to reduce this time?

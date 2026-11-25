@@ -1,0 +1,5 @@
+Are bicomplex numbers including tessarines ever used in spaceflight (as an alternative to quaternions)?
+The answer to What are quaternions and how are they used to represent spacecraft dynamics? gives us a thorough overview of the topic and is worth a good read.
+I saw the HNQ Why are quaternions more popular than tessarines despite being non-commutative? and wondered:
+Quesiton: Are bicomplex numbers including tessarines ever used in spaceflight (as an alternative to quaternions)?
+See Bicomplex number for more.

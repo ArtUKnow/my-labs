@@ -1,0 +1,5 @@
+GMAT: LEO to GEO with Electrical Thruster simulation?
+I would like to get a simulation from LEO to GEO with an electrical Kick-Stage.
+GMAT seems to be able to do it.
+Is there any Script/Scenario already written?
+The aim is to perform a parametric study on a basis of the scenario example.

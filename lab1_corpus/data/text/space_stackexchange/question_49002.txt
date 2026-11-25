@@ -1,0 +1,18 @@
+Why shouldn't we illustrate spacecraft trajectories on top of static zero velocity pseudo-potential surfaces?
+Three-body spacecraft orbits1 are regularly discussed here and from time to time someone will include a pseudo-potential plot from Wikipedia in their explanation.
+The discussion often goes south when it tries to reconcile that L4 and L5 sit at potential maxima and yet an object placed there is stable; if you give it a small perturbation or "kick" it will stick around in the general area. It's this kind of stability that allows planets (especially Jupiter) to collect and retain Trojan asteroids associated with their Sun-planet L4 and L5.
+Today I saw the "It's Just Astronomical!" video The Parking Spaces of Space: The Lagrange Points and the explanations provided seem unphysical and wrong.
+It shows a zero velocity pseudo-potential surface and some balls rolling on it, and explains how objects will drift towards the Sun, drift towards the Earth, or drift away into the outer solar system!
+If "into" were scratched out and changed it to "towards" and it were made clear that this is only the initial motion, this might be salvageable.
+But the animations show the balls following paths going well down into those three pseudo-potential "wells" in ways that simply can't happen in reality.
+Question:
+Why shouldn't we illustrate spacecraft trajectories on top of these static zero velocity pseudo-potential surfaces?
+What will really happen to these three objects?
+What will happen to the pseudo-potential surface as soon as they do start moving?
+"bonus points" for any sighting of a proper animation that includes a dynamic pseudo-potential plot and an object moving across or on top of it.
+This graph shows us the effective potential energy and it tells us how objects will move.
+An object who’s orbit starts here will slowly drift towards the Sun.
+An object starting here will slowly drift towards the Earth.
+And an object starting here will slowly drift away into the outer solar system.
+Screen shots from linked video including closed-caption text; click for full size.
+1halo, Lissajous, near-rectilinear halo, etc.

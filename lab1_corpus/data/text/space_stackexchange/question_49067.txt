@@ -1,0 +1,4 @@
+Is Starship aerodynamically stable when travelling nose first?
+Is Starship aerodynamically stable when traveling nose first, or does it require constant gimbaling from the main engines to keep it pointing nose first? Is this part of the explanation for why Space X kept Starship under power for the entire ascent of the SN8 flight?
+If a rocket has fins then those fins are usually at the back. These rear fins put the center of drag behind the center of mass, making the rocket aerodynamically stable. Starship has big fins at the front and looks stable in the bellyflop position, traveling belly first.
+If Space X had attempted an ascent where the Starship accelerated rapidly from the pad, then coasted to it's apogee, would Starship naturally move to a belly up position as it coasts up to it's apogee?

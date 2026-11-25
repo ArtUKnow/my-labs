@@ -1,0 +1,4 @@
+Is the JWST halo orbit period sync'd with earth's elliptical orbit about sun?
+I was looking at the JWST halo and wondering if getting the halo orbit phased with earths elliptical orbit would be a way of keeping gravitational variations regular and periodic so that station keeping burns could be more predicable, preserving fuel and thereby extending useable life of JWST. Right now JWST is near max +Y travel... when earth is just past Periapsis. Is this a coincidence? The halo could be tailored with precision burns to get max Y at Periapsis and min Y at midpoint between Periapsis and Apoapsis. At Apoapsis JWST would be at max Y again, 1 halo orbit in 1/2 year.
+and so the question: Is (or will) the JWST halo orbit period sync'd with earth's elliptical orbit about sun?
+EDIT: More directly about my "Sync'd orbit" question... Is there a need or benefit to have JWST at a specific place in its halo when earth is at a specific place in its orbit.

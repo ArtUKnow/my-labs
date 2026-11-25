@@ -1,0 +1,6 @@
+Could the ascent stage of Apollo 11's Eagle still orbit the Moon?
+This video: Is Apollo 11's Lunar Module Still In Orbit Around The Moon 52 Years Later? claims, based on orbital simulations, that there is a chanche that the lunar module of Apollo 11 might be still orbiting the Moon.
+Is this claim consistent with the wider picture? My questions are about the issue:
+Was the LM able to communicate without humans in it? (I assume yes but I would appreciate a source supporting or disproving this).
+If the above point is true, how come that no one in NASA thought it would be a good idea to check what happened with the ascent stage closer to the time, when it was probably still operational?
+A related but different question in Astronomy SE: Would we have spotted the ascent stage of Apollo 11's Eagle if it was still in orbit around the Moon?

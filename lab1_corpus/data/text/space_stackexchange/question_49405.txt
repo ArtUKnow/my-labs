@@ -1,0 +1,7 @@
+Is space habitation a technology problem or is it really just a mass (cost) problem?
+There are a lot of challenges with space habitation. Gravity, radiation, fuel for reactions to maneuver, water, atmosphere, food, etc. etc.
+NASA and many others are working on all kinds of solutions for these, which makes it seem like a technology problem, but isn't this really a mass (or cost) problem? For example, if I could put as much mass in orbit (with cost not being an issue), wouldn't all of these problems be solved? Radiation -> Super thick walls, maybe water barriers as well
+Gravity -> Sufficient mass for large diameter rotating station
+Fuel or Water -> Plenty can be added/stored
+Food -> With enough mass, enough space can be allocated for food production.
+The list goes on, but the question is, are there problems we can't solve with just extra mass, or are all of the technical problems we have only technology problems because we're limited on cost and thus mass?

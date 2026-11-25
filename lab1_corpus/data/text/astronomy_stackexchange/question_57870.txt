@@ -1,0 +1,2 @@
+How to convert .exp files from NRAO VLA Archive to .fits format
+I recently downloaded some observational data files from the NRAO VLA Archive, and they have the extension .exp. These are old observations. I need to convert these files to .fits format for further analysis and plotting with Python. I know that CASA can be used for this and I have it installed, but I don't know how to proceed and haven't found any forums with clear instructions. Could anyone guide me on this process?

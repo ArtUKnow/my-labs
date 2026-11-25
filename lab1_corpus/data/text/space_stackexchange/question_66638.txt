@@ -1,0 +1,6 @@
+Did the Space Shuttle weigh itself before deorbit?
+Back in the day, it was standard for commercial airlines to calculate the mass of an airliner before takeoff, using assumptions of average passenger weight along with accounts of fuel loaded or burned in previous flights..
+After a crash in 2003 (which was largely due to erroneous assumptions of passenger weight) Onboard Weight and Balance Systems (OWBS) were developed. These systems use compression of the landing gear suspension to measure the actual weight of the loaded aircraft before take-off.
+The idea was to switch from calculating mass to actually measuring mass in order to avoid errors (and accidents).
+Presumably re-entry mass of the Shuttle was an important parameter. The mass of the space shuttle would be lower at the time of deorbit than at take-off. Was the deorbit mass of the space shuttle measured or calculated?
+Obviously landing gear compression could not be used in orbit. But was there an alternate method of measuring mass? F=ma, so a thruster firing accompanied by accurate measurement of thrust and acceleration would do the job. Inertial navigation system accelerometers have 0.001-0.01milli-g accuracy and load cells are available with 0.02% accuracy.

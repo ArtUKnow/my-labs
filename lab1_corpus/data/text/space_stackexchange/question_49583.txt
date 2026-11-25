@@ -1,0 +1,8 @@
+Pressure levels inside rocket liquid oxygen tanks?
+What is the pressure levels inside rocket liquid oxygen tanks, at launch time?
+The question is for the minimum and maximum (known) levels of pressure inside such tanks.
+I am asking for any rocket since such data is not really easy to find.
+If the pressure inside Atlas V is X, then the pressure for Delta V should be similar, or at least in the same order of magnitude.
+Similar questions:
+Pressure level inside Falcon 9 tanks?
+How does tank pressurization work??

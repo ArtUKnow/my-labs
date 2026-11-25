@@ -1,0 +1,11 @@
+What's been going on with the Emirates Mars Mission after it got to Mars?
+China, UAE and US all sending missions to Mars in 2020 (Summer of L̶o̶v̶e Mars); how far apart are their frequencies? notes four missions planned to launch to Mars in that launch-to-Mars window.
+Here in Space SE we have frequent coverage of Perseverance.
+And a little bit about the Tianwen-1 "trifecta" mission with an orbiter, a lander and a rover. Actually if you count the deployable selfie-cam it's four!
+The ExoMars/Rosalind Franklin (rover)/Kazachok mission is delayed
+What about the UAE Orbiter: Hope Mars Mission? What's happening there? Checking the tag al-amal-emmtab=Active) finds only six questions, the last of which was asked in March.
+Going to Wikipedia's Emirates Mars Mission; Trajectory corrections and arrival I only see "It got there":
+The UAE's Hope Mars orbiter successfully executed its first interplanetary course correction maneuver (TCM1), mission officials announced 17 August 2020.
+The orbiter arrived at Mars on 9 February 2021; around 19:42 Gulf Standard Time (UTC+04:00), the craft started firing its thrusters to insert itself into Mars' orbit, a process that took about 27 minutes of thrust burn to complete. The craft then entered radio silence as it swung around Mars, but reported it had successfully entered orbit about 15 minutes later.
+So I'd like to ask:
+Question: What's been going on with the Emirates Mars Mission after it got to Mars?

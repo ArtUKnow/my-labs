@@ -1,0 +1,4 @@
+Planet Orbit "swept Area" Vs halo orbit "swept area"
+After plotting the JWST halo orbit to a flat plane, and finding that the halo appears to closely approximate an ellipse (yes, the halo has some 'potato chip' warping) I began to wonder. A planetary orbit sweeps out an equal area for a given time period. Would a halo orbit do the same? Since there is no equivalent gravitational center for the halo,(EDIT: should have said 'gravitational center AT the halo') I'd guess 'NO'. Since I have no means to crunch the numbers in a supportable manner I'd like the community here to look at this!
+Question: In a Rotating Libration Point framework, would a "swept area per time unit" be the same?
+came across this today.

@@ -1,0 +1,4 @@
+Spinlaunch Safety
+How could the Spinlaunch concept ever be made so that, in the event of an anomaly where it is released at the wrong angle, it wouldn't obliterate a small town or city center?
+Launch sites at Cape Canaveral and Vandenberg have range safety requirements for traditional rockets, requiring abort systems to detonate the vehicle if it goes off course.
+Does anyone know how it is proposed to cover this hazard for the Spinlaunch concept? I could see surrounding the launcher, all but a small exit slot, with a mountain of concrete, but the energy involved seems so high to be infeasible to guarantee safety.

@@ -1,0 +1,59 @@
+Is it possible for LEO satellites to detect a usable signal from regular mobile phones on the ground?
+Background
+Recently I came across a company called ASTS that claims they will be able to launch LEO satellites with the capability to talk with regular mobile phones. I initially wrote their claims off, thinking their claims to be kind of preposterous. After all, if it was possible, why hasn't anyone done it yet?
+After looking into it a bit more though, the claims didn't sound as outlandish anymore. I came across this post: How to calculate data rate of Voyager 1? and at least in terms of signal strength, it seems feasible! Using the link budget equation in that post:
+$$ P_{RX} = P_{TX} + G_{TX} - L_{FS} + G_{RX} $$
+$ P_{TX} $ seems to be about 200 mW. According to 5G NR UE Power Classes, Power Class 3 seems to be for Handheld User Equipment, which has a max TRP of 23 dBm, which converts to about 200 mW. I've read online that cellphones can apparently go as high as 1W, but wasn't able to verify that in any standards, so let's be pessimistic and only use 200mW. Converted, that's about -7 dBW.
+$ G_{TX} $ I'm not exactly sure how to calculate. Optimistically this would be 0 or higher, but reading up on Planar Inverted-F Antennas, which I believe are used in most modern handsets seem to have poor gain. These are also onmi-directional antennas and I feel like they'd probably radiate in a donut-pattern. Maybe -5dBi to be on the safe side?
+$ L_{FS} $ would depend on the frequency used, but it seems like 4G/LTE commonly uses band 1 which is 1920-1980MHz for uplink. The satellites seem to be around 500km in LEO orbit, which gives us a free space path loss of 152.1dB for 1920MHz.
+We can calculate $ L_{FS} $ with $ 20 \times \log_{10} (\frac{4 \pi df}{c}) $ where $d$ is distance in meters, $f$ is frequency in Hz, and $c$ is the speed of light.
+$ G_{RX} $ is still somewhat up in the air, but the company's next satellite, BlueWalker 3, supposedly has a phased array antenna that's 330m² with a maximum gain of up to 36dBi. Supposedly the real satellites will be even bigger and have gains of 40dBi+ depending on the frequency.
+Adding all this up, we get $ -7 \text{ dBW} - 5 \text{ dBi} - 152.1 \text{ dB} + 36 \text{ dBi} = -128.1 \text{ dBW} $, which converts to $ -98.10 \text{ dBm} $.
+-98.10 dBm doesn't seem like a good signal the satellite would be getting, but it does seem usable. Wikipedia states that -100dB is the "Minimal received signal power of wireless network (802.11 variants)" and other sources rate anything above -110 dBm on LTE networks to be fair to poor.
+Question
+And ok. That's about as far as I got into the calculations and ran into trouble with the next part of uhoh's answer on calculating the data rate.
+Regarding noise, the post says:
+When receiving the signal, the limit to the data rate is the ratio of received signal power to the total noise power (received plus system).
+What does total noise power (received plus system) mean? Does this mean that, given how sensitive the satellite is, it may pick up two signals of the same frequency from hundreds of kilometers away on Earth's surface? Considering that those signals normally wouldn't see other, does this make it effectively impossible for the satellite to distinguish between a signal that was intended for the satellite versus dozens others that were intended to reach a cell tower? Is that received noise or system noise?
+Then the calculation
+the noise equivalent power will be about $k_B T \times \Delta f$ where $k_B$ is the Boltzmann constant.
+What the heck is $ \Delta f $? From a comment below that post it seems like $ \Delta f $ is the bandwidth, but how did the OP decide on a arbitrary number of 1kHz? Can I pick any number I want for bandwidth and just keep plugging it into this equation:
+$$ 10 \times \log_{10} \left( (1.38 \times 10^{-23} \text{ J/K}) \times \text{ Satellite Temp (K) } \times \text{ Bandwidth (Hz)} \right) $$
+until I get something that's bigger than 10dB after subtracting it from −128.1dBW? How do I convert bandwidth into bits per second? Additionally, does anyone know what's a good value I can use for temperature for a satellite in space?
+But yeah, I think the first part of my question is asking if this technology is scalable (since I feel like there'd be a lot of noise from phones that don't want to talk to satellites), and the second is determining how fast the the uplink connection is going to be.
+If anyone can help that'd be great, thanks! I'd love to see this technology work - it'd be amazing to always get a signal when you're driving on the highway or when doing more remote activities like hiking.
+Update
+Thanks for the current responses! From what I've gathered so far:
+Q1. Will the satellite be able to deal with noise and interference from other handsets or base stations while in orbit?
+It seems like yes. Beamforming and spot beams from the phased away will keep the individual cell areas away from terrestrial cell towers.
+Q2. What would the uplink data rate be?
+Following the answer from @Ng Ph's post, assuming no interference, a full calculation would be:
+Asumptions:
+using LTE band 3 / 1710 – 1785 MHz (changing from 1920 MHz above due to band 1 only supporting a minimum bandwidth of 5 MHz)
+using a bandwidth of 1.4 MHz
+assuming that the satellite temperature is 70ºC / 343.15ºK (The Earth's average noise temperature is 300K, but going to assume unfavorable circumstances, and that the solar panels behind the antenna will generate a lot of heat)
+First, calculate the link budget:
+$ P_{TX} = 7\text{dBW} $ (calculated from 200mW)
+$ G_{TX} = -5\text{dB} $ (best guess)
+$ L_{fs} = 20 \log{10} (\frac{ 12.566 \,\times\, 5 \times 10^5\text{m} \,\times\, 1.71 \times 10^9\text{Hz}} {3 \times 10^8}) = 151.1\text{dB} $
+$ G_{RX} = 36\text{dB} $ (gain of ASTS satellite phased array)
+Link budget: $ -7 \text{ dBW} - 5 \text{ dBi} - 151.1 \text{ dB} + 36 \text{ dBi} = -127.1 \text{ dBW} $
+Second, calculate the signal-to-noise ratio:
+Take a best guess at the noise power with $ P_n = k_B TB $ where
+$k_B$ = Boltzmann constant
+$T$ = Temperature in K
+$B$ = Channel width
+$ P_n = 1.38 \times 10^{−23} \times\, 343\text{K} \times 1.4 \times 10^6\text{Hz} $
+$ P_n = 6.63×10^{−15}\text{W} $
+$ P_n $ in dBW $ = 10 \times log_{10}(6.63×10^{−15}\text{W}) = -141.79\text{dBW} $
+Subtract received power from noise power:
+$ -127.1 \text{ dBW} - ( -141.79\text{dBW} ) = 14.69 \text{dB} $
+Signal-to-Noise (dB): $ 13.69 \text{dB} $
+Reduce SNR by 1 as modern LTE networks follow Shannon's bound to within 1dB. Additionally, Shannon's equation expects SNR in linear terms, so we need to convert from dB.
+Convert to Linear Signal-to-Noise:
+$ \text{SNR linear} = 10^{\frac{13.69}{10}} = 23.44 $
+Finally, compute the channel capacity:
+Shannon's capacity formula: $ C = B \times log_2 (1+\text{SNR linear}) $
+$ C = 1.4 \times 10^6\text{Hz} \times log_2(1 + 23.44) $
+$ C = 6,454,000\text{bps} $
+Therefore it seems like a possible uplink transfer speed could be $ 6.45 \text{ Mb/s} $, given the assumptions above.

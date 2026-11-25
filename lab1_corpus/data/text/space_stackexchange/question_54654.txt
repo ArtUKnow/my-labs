@@ -1,0 +1,12 @@
+Exactly why does Starship need to be this big for interplanetary travel?
+As discussed in several answers to Isn't Starship way too big? Starship's unusual size is due to it being intended for missions to the Red Planet. But why?
+Even a smaller ship could satisfy the delta-V for a crewed interplanetary mission.
+Surely a ship need not carry 100 people to prevent psychological problems. Surely, a more modest number such as 10 would satisfy.
+A larger fleet of smaller ships could carry the same payload as one large ship
+Pros:
+Economies of scale drives production costs down.
+Safety due to multiplied experience over several vessels and flights.
+Reduced development cost and risk.
+Cons:
+Not everything scales. For example, regardless of size, each individual ship needs a fixed amount of avionics, at least one commander, etc.
+Some large items of cargo may not be carried.

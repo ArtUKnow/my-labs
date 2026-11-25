@@ -1,0 +1,10 @@
+Optimal Propulsion Strategy for a Mars Mission
+I am designing a mission to Mars for a class project aimed at studying Mars' space weather. The mission is constrained to use a single Vega-C launch.
+I need to determine whether using a propulsion module would allow for a greater payload. The Vega-C injection orbit is elliptical with a perigee of 250 km, an apogee of 5700 km, and an injection mass of 1580 kg. The Delta-V required to move from this orbit to a transfer orbit towards Mars is 3.1846 km/s, while the Delta-V required to enter a 250x7500 km Mars orbit is 1.2505 km/s.
+The goal is putting around 30kg of instruments in mars orbit, ideally splitted in two spacecrafts, a spacecraft containing a 10kg radio occultation instrument in a 250km x 10000 km orbit, and another larger spacecraft in a 250km x 7500 km orbit containing another20kg of instruments.
+The transfer phase shouldn't be longer than 5 years. Cost is also a constraint as the whole mission shouldn't cost more than 200M euros.
+I am considering two approaches:
+Use a propulsion module for the first manoeuvre and the large satellite's engine for the second.
+Use the large satellite's engine for both manoeuvres.
+How can I determine which option allows for a greater payload?
+Understanding how the payload-to-dry-mass ratio correlates to Delta-V for interplanetary missions might help. Additionally, I am open to suggestions for solutions that maximize payload mass, such as using an electric propulsion module, or the use of aerobraking.

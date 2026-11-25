@@ -1,0 +1,9 @@
+Atlas V RD-180 Analysis
+I was tasked with researching certain properties of the RD-180 engine. I am finding contradictory information, or I am unable to find it at all.
+I am looking for the following information
+Mixture Ratio(chamber and preburner)
+Pump and Turbine Types
+Pump and Turbine Speeds
+Pump and Turbine Mass flows and head gains
+Does anyone know this information? Or know of where I can find this information? I found Mixture ratio of both 2.72(source) and 2.6(source), not sure which is correct, or if it is for chamber or preburner.
+My googling skills are not enough for me to find this info, so any guidance would be greatly appreciated!

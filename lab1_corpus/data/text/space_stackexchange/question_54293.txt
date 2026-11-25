@@ -1,0 +1,7 @@
+Is there any demonstrated or even proposed technology that can sterilize a spacecraft with 100% certainty and yet leave it electronically functional?
+In this answer to Why are there no robotic missions on Europa or Enceladus I wrote:
+Missions going through the ice and into the ocean are currently hypothetical and problematic. You need a lot of energy to get through 10 km of ice no matter how you do it, and unless your spacecraft is absolutely completely 100% certain sterile you may contaminate a lifeless ocean or disastrously infect it with Earth organisms. To my knowledge there is not yet documented capability that spacecraft can be absolutely sterilized and yet still functional.
+Some life is easy to sterilize, but some isn't. We can say that Earth viruses and bacterial spores probably won't pose a threat to alien life and would be inert, but that's just wishful thinking and hand-waving.
+There are even single protein molecules that can infect and kill animals and humans, something that was dismissed out of hand as impossible until enough people died.
+So I'd like to ask:
+Question: Is there any demonstrated or even proposed technology that can sterilize a spacecraft with 100% certainty and yet leave it electronically functional?

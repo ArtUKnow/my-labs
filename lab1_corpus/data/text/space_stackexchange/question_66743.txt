@@ -1,0 +1,2 @@
+What is the terminal velocity of the Falcon 9 at sea level (on Earth)?
+What is the terminal velocity of the Falcon 9 at sea level (on Earth)? Has SpaceX released enough information that this could be calculated with reasonable accuracy? Assume that the Falcon 9 is completely empty of fuel. It is a Falcon 9 Block 5. It has the landing gear used for a drone ship landing, and the landing legs are extended.

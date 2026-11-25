@@ -1,0 +1,9 @@
+How does the power output of the 33 Raptors on SpaceX's Superheavy compare to the power distributed on America's electrical grid?
+I recall hearing somewhere that the Space Shuttle's power was similar to that of the US electrical grid at some point in the past - but that might have been a myth.
+If anyone thinks that they know how to do the calculation for Superheavy's power output (with reasonable accuracy) I'd be interested in learning the answer.
+For answer-to-answer consistency, let's assume the theoretical maximum ISP for a sea-level MethylOx engine is 299 s, which I found through a link on the Specific Impulse Wiki Page in this article on ROCKET PROPELLANTS.
+Let's also assume that the Raptors are 98% efficient (this is a SWAG).
+In case this is helpful, I also fit a curve to Starship's orbital flight test 2 data (lift-off to MECO):
+Speed(kph) = 6.2e-4t^3 + 1.55e-2t^2 + 1.75e1*t (0<=t<=160)
+(Note: I am not affiliated with any of the links in this post.)
+Update: I have subsequently learned that the suggested "98% efficient" assumption is in the original question was way off. There's combustion efficiency and nozzle efficiency. Combustion efficiency might be 98%. Nozzle efficiency needs to be considered too. Not all of the combustion energy is converted into forward kinetic energy. Some of it is lost because it ends up being used to spin the exhaust molecules, jiggle the intermolecular bonds of the exhaust molecules, heat up the nozzles, pre-heat the propellants, pump propellants through the engine, and cause molecules of exhaust gas to travel sideways rather than straight aft. An answer below suggests that the overall efficiency of a rocket engine is more like ~70%.

@@ -1,0 +1,2 @@
+Solar-system origin of interstellar bodies (like 1I/ʻOumuamua)?
+I understand that 1I/ʻOumuamua and the other two bodies (2I/Borisov and 3I/ATLAS) are classified as interstellar objects based on their distance from the Sun and their speed. In other words the sum of their kinetic and gravitational potential energy is not negative. Given that solar system is actually a N-body problem could their extra energy come form a close encounter at periphery of the solar system rather that a close encounter in a extrasolar system? Why?

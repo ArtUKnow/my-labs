@@ -1,0 +1,2 @@
+What would the shadow path of a geostationary object be?
+If we managed to put an object into geostationary orbit over the Earth that was large enough to cast a noticeable shadow on the ground, what path would that shadow take? I’m wondering both about the day-to-day track of the shadow as well as how it would precess over time. My intuition is that the precession would be similar to an analemma, but I don’t have anything to back that up.

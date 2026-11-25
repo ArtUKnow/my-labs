@@ -1,0 +1,2 @@
+Why aluminum is added in Multi Layer Insulation?
+Aluminum is a highly conductive material. Instead of insulating the system from heat, it conducts. Multi-Layer Insulation aims to protect spacecraft from extreme heat by acting as a thermal barrier. Gold plating is used to reflect solar radiation but what about aluminum? Isn't using aluminum coated on MLI decreases the thermal insulating property?

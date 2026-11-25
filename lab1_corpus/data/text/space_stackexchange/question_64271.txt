@@ -1,0 +1,7 @@
+Are there any gaseous monopropellants?
+There are numerous liquid monopropellants: Hydrazine, Hydrogen Peroxide, Nitrous Oxide, Isopropyl Nitrate, and more.
+There are of course also solid monopropellants. (Edit: composite propellants not monopropellants.) The Space Shuttle used APCP in its solid boosters, but there are many other solid chemicals possible, even "Rocket Candy" using sugars.
+However, I have never heard of a gaseous monopropellant.
+Do they exist? Is there something in chemistry that makes this highly unlikely? Cannot imagine how or why and I am extremely curious about this.
+Edit Note: Any substance can be a gas at the right temperature and pressure. I'm looking for gaseous substances at normal temperatures, and stored at relatively high pressure.
+Note, cold gas thrusters don't count. Those have no chemical reaction whatsoever. A gaseous monopropellant has to decompose from a catalyst or else burn more conventionally like Isopropyl Nitrate.

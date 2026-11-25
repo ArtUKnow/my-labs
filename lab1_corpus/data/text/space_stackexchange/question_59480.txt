@@ -1,0 +1,2 @@
+basis for designing fins of a space launch vehicle
+What was the basis for deciding the size, shape, location and number of fins for the Saturn V (or any other rocket for that matter)? Does it have any calculations or were they designed based on empirical data / previous experience?

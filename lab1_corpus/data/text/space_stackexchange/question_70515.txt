@@ -1,0 +1,5 @@
+"EECOM Arthur" -- an Apollo-era mission control shift designation?
+In the film Apollo 13, most of the controllers are identified in the credits by their controller role and shift, not by name: FIDO Gold, RETRO White, etc. The different working shifts in the control room are labeled White, Black, Gold, and Maroon.
+The character who seems intended to be John Aaron, who's working closely with Ken Mattingly in the latter part of the film on command module startup procedures, played by actor Loren Dean, is named in the credits as "EECOM Arthur". None of the other characters are so identified.
+Arthur's not one of the controller shifts, so what does EECOM Arthur signify?
+My best guess is that the "back room" support teams had their own shift or team identifiers and that Arthur might be one of these, but I can't find any support for that hypothesis.

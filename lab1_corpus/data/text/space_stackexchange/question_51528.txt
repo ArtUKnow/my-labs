@@ -1,0 +1,18 @@
+Isn't Starship way too big?
+The Shuttle was designed with a huge payload of 20 tons. This was supposed to not be a problem since:
+the reusability would drive down costs until satellite operators dropped expensive space hardware and built large low-cost machines.
+And if that didn't cut it, the cost would still be so low that wasted capacity would not matter.
+That worked out very well.
+Now, Elon Musk wants to make money off a vehicle that, at a payload of 100 tons, is several times more capacity. And that too, with a launch price on par with today's smallest rockets — \$2 to \$7 million.
+Even if we allow Musk to be off by an order of magnitude, such that his launch price is \$20 to \$70 million — in the same range as Falcon 9 — where is he going to get the payload?
+Sure,
+Starship is not forcibly crewed
+Its design makes for much less maintenance
+and thus faster turnaround
+Where are the 100-ton satellites?
+Especially with that fast turnaround time. Does he really think he can get a 50-ton launch once a week?
+We haven't even started talking about how he wants to mass-produce them!
+I am looking for justifications for the above based on
+factual information on design aspects of Starship,
+past experience with these aspects
+scientifically plausible predictions on how these would b have on Starship to achieve the above-mentioned results.

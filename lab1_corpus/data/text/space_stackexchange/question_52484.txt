@@ -1,0 +1,6 @@
+Space shuttle MECO condition: velocity threshold or fuel level?
+I've read in a place I can no longer remember that MECO would happen when fuel is depleted or, if the separating stage is returning, when fuel reaches some preset threshold---15%, say.
+But now... reading the space shuttle Booster Systems Brief JSC-19041 (1, 2), I've come across the snippet below, which suggests that at least in the case of the space shuttle, MECO would normally happen when velocity, not fuel mass, hits an I-LOAD threshold value.
+Nominal MECO is initiated when the vehicle reaches a desired I-loaded velocity. If an off-nominal condition causes the propellant supply to be...
+(screenshot)
+Can someone confirm this? Is velocity really the variable that triggers MECO? I don't imagine any fuel left would be substantial (it would probably just safety margin of a few percent, tops). But still, it would be nice to know for sure if fuel mass or velocity is the controlling variable for MECO.

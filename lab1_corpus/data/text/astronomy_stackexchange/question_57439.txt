@@ -1,0 +1,5 @@
+The sun path angle of elevation
+It is well known that the formula for the sun path azimuth $\alpha_\text{s}$ (assuming that $\alpha_\text{s} = 0$ for noon) is
+$$\alpha_\text{s}(\gamma_\text{s}) = \arccos \frac{\sin\gamma_\text{s} \, \sin{\varphi} - \sin \delta}{\cos\gamma_\text{s} \, \cos{\varphi}}$$
+where $\varphi$ is latitude, $\delta$ is solar declination and $\gamma_\text{s}$ is sun path angle of elevation.
+I wonder, is there a reverse formula, that is the formula that gives the angle of elevation from the azimuth, $\gamma_\text{s}(\alpha_\text{s})$?

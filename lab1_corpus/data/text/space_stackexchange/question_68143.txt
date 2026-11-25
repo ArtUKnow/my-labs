@@ -1,0 +1,3 @@
+Would this simple fuel depot work?
+The second stage (Starship) with an extra load of fuel gets to LEO, opens a double-layer rubber bag (with sun-reflection), and pumps fuel into it. Then disconnects and lends back at the launch tower?
+Isn't it easier to collect 10 fuel bags in orbit than to conduct 10 fuel transfers as SpaceX proposes?

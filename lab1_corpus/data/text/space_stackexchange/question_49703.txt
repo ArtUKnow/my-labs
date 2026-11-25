@@ -1,0 +1,5 @@
+What specific device failed, causing engine #4 in the Core Stage Green Run to report a Failure Identification?
+(See this Q&A for context if needed: What is a "Major Component Failure" referred to in news reports about the unsuccessful Space Launch System core stage test firing?)
+In the post-test briefing John Honeycutt (SLS Program Manager) confirmed that during the Green Run, the Core Stage engine #4 reported a Failure Identification (FID) along with its Engine Self Test Status switching to "Major Component Failed".
+What specific device failed, causing the FID?
+Not looking for answers giving vague generalities that have already been reported such as "a redundant sensor" or "the loss of one leg of redundancy". Looking for a solidly-referenced answer stating the exact device or sensor that failed.

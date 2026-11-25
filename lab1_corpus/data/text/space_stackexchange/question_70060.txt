@@ -1,0 +1,15 @@
+Criterion for capture or escape orbit
+Consider a planet and a small body move on Keplerian orbits around a central mass and
+their trajectories intersect such that both approach each other.
+Three-body considerations aside, what would be a simple criterion such that the body is captured by the planet?
+And if it got captured what are peri- and apoapsis of the resulting elliptical orbit around the planet?
+Example:
+Assuming the relative velocity of the body w.r.t. planet $v_\infty$ is smaller than the escape velocity at SOI distance
+$$v_\infty < v_\text{esc}(SOI) = \sqrt{2} v_\text{orbit}(SOI),$$
+then if the apoapsis equals the SOI radius the body is captured with periapsis given by
+$$\frac{\mu v_\infty^2}{v_\text{orbit}^2(SOI) \left(v_\text{esc}^2(SOI)- v_\infty^2\right)}. $$
+Addendum: Elliptical capture
+As long as the relative speed of the body w.r.t. planet $v_\infty$ is not too low, i.e.,
+$$v_\infty^2 > \frac{2 v_\text{orbit}^4(SOI)}{v_\text{orbit}^2(R)+v_\text{orbit}^2(SOI)}, $$
+where $R$ is the planet radius, an elliptical
+capture orbit around the planet does exist such that we have speed $v_\infty$ at SOI distance = apoapsis.

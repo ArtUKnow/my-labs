@@ -1,0 +1,4 @@
+Why do double neutron stars remain bounded?
+I read that in principle, the formation of a double neutron star requires that at the time of the second supernova explosion the binary consists of a $\sim$ $\mathrm {1.4 _{\odot}}$ neutron star, and a second star whose initial mass was $\mathrm {8 _{\odot}}$.
+But it can be shown that a binary will become unbound should it lose more than 50% of its mass. This is equation 9.17 in https://www.astro.ru.nl/~fverbunt/binaries/compbin.pdf
+I know that neutron stars have masses of around $\mathrm {2.5 _{\odot}}$. If I take for example that at the time of the second explosion the masses are $\mathrm {1.4 _{\odot}}$ and $\mathrm {9 _{\odot}}$ and later the neutron starts are $\mathrm {1.4 _{\odot}}$ and $\mathrm {2.5 _{\odot}}$ there is a mass loss of more than 50%. So how can such a system ever remain bound?

@@ -1,0 +1,8 @@
+Astronauts on the Moon or Mars, and the potential for lunar silica dust in lungs; health issues or concerns, and mitigation plans?
+I have read that the dust on the Moon is composed largely of silica (silicon dioxide; $\require{mhchem}$ $\ce{SiO_2}$) and breathing lots of silica can lead to silicosis which is similar to black lung disease experienced by miners on Earth. I have also read that this dust is electrically charged and clings to everything.
+I would think this would be very hazardous to any future astronauts living for extended periods of time on the Moon (provided there was repeated surface activity) and they would need better ways of dealing with this dust being "tracked in" when returning to "base" after activity on the lunar surface.
+If we are talking about having Moon and Mars bases, what has been written or discussed in terms of health issues or concerns, and mitigation plans for human exposure to surface dust?
+For reference, images of Apollo 17 astronauts Harrison Schmitt and Eugene Cernan inside their lunar lander with suits clearly dirty from grayish regolith picked up from the lunar surface.
+click images for full size
+Portrait of NASA astronaut Harrison Schmitt, taken by Eugene Cernan, inside the Lunar Module on the surface of the Moon following the final moonwalk (EVA-3) of Apollo 17, the most recent mission to the Moon. December 1972. Note lunar dust on his suit.
+Eugene Andrew Cernan in Apollo Lunar Module, is photographed inside the lunar module on the lunar surface following the third (EVA-3) of his mission. Note lunar dust on his suit.

@@ -1,0 +1,6 @@
+What is the shape of the envelope of all orbits with velocity of equal magnitude at their intersection?
+Also known as: where can I go with my delta-v budget?
+For parabolic trajectories in uniform gravity, the answer is a parabola.
+Thats why I'm surprised that the same envelope for elliptical orbits around a point mass seems to have a more complicated shape.
+Numerical approximation of the envelope for orbits around a point mass $A$, passing through $B$ with velocity $v=1$:
+Some kind of egg shape? Rather curious.

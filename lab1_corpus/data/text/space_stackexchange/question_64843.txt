@@ -1,0 +1,32 @@
+Object slowest at periapsis - despite correct position calculation
+I'm coding up a simulation of celestial bodies using patched conics. At the moment I'm stuck with calculating the velocity of the object in the perifocal frame.
+For the position I'm simply using the orbit equation
+$$
+r = \frac{h^2}{\mu}\frac{1}{1 + e\cos{v}}
+$$
+where $h$ is the angular momentum, $\mu$ is the standard gravitational parameter, $e$ is eccentricity, $v$ is true anomaly.
+I then take the cosine and sine of $v$ to get the exact point in the perifocal frame, so
+$$
+p = r\sin v
+$$
+$$
+q = r\cos v
+$$
+It makes sense to me then that $\frac{dp}{dv}$ and $\frac{dq}{dv}$ would give me the velocity components.
+So I take the derivative (using Wolfram Alpha) and arrive at the following
+$$
+\frac{dr\sin v}{dv} = \frac{h^2(\cos v + e)}{\mu(1 + e \cos v)^2}
+$$
+$$
+\frac{dr\cos v}{dv} = -\frac{h^2\sin v}{\mu(1 + e\cos v)^2}
+$$
+which simplify to
+$$
+\frac{dr\sin v}{dv} = \frac{r (\cos v + e)}{1 + e\cos v}
+$$
+$$
+\frac{dr\cos v}{dv} = -\frac{r \sin v}{1 + e\cos v}
+$$
+But putting these to use the positions appear to work as expected. But velocity is the lowest at the periapsis and highest at the apoapsis. Which I know shouldn't be the case.
+The same behaviour appears if I just approximate the velocity as $p(v) - p(v + 0.001)$
+Is there anything wrong with my calculations or assumptions?

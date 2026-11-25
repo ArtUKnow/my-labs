@@ -1,0 +1,6 @@
+Why did the Apollo 13 tank #2 have a heater and a vacuum?
+While reading the accident report of Apollo 13, I came across this diagram:
+Diagram by NASA
+The report was just explaining the SM oxygen tank, and I have two questions looking at his diagram.
+Why is there a heater in an O2 tank?
+The report explains how a "Vacuum between the shells prevent heat leak", Where exactly is the vacuum present and how does it prevent a heat leak?

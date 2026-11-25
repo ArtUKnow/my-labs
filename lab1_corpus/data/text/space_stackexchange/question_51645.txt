@@ -1,0 +1,3 @@
+How much oxygen can MOXIE produce?
+So MOXIE is using solid oxide electrolysis to produce Oxygen.
+I assume the amount of oxygen MOXIE can produce is limited so how much can it produce before the solid oxide electrolyzer cell stops working?

@@ -1,0 +1,6 @@
+How do you design a spacecraft with a spinning section for "artificial gravity"?
+Science fiction spacecraft sometimes have a section that spins to provide "artificial gravity" through centrifugal forces. I'm thinking in particular of the Discovery spacecraft from the 1968 Stanley Kubrick film 2001: A Space Odyssey.
+Most of the spacecraft is inertially fixed ("despun"), the exception being a rotating ring in the spherical bow section.
+I can see how one could get power and electrical signals from the spun to despun sections, and the design put RF communications on the despun section. But how do you cool that spinning ring? The ISS does it with circulating fluids like water and ammonia and dumps the heat through gimbaled radiators. If there is a way to get coolants and other liquids across a rotating joint, especially one moving around and around at good clip, I'm not aware of it.
+I know there are other ways of providing g-forces for long duration spaceflight, like having two sections connected by a tether and having them spin around each other. My question is whether a design like Discovery (or Wehner von Braun's spinning space stations) would really work.
+Thanks in advance.

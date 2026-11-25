@@ -1,0 +1,5 @@
+Open air dock to space in a rotating space station?
+Suppose you had a very large pipe, say 20 meters in diameter, open to space at the hub of a spinning station, and leading off radially from the hub towards the rim, where the pipe is sealed. After which some air is pumped in the rim side of the pipe.
+Would the centrifugal force (or centripetal force requirement .. whatever) keep the air in the pipe so that you could have an open dock for, say, repairing satellites? (e.g. the satellite is brought to the station by a tug, grabbed and dragged down the pipe, where some tech refuels it or replaces the batteries or whatever).
+Also how much of a problem would heat loss be? and what other problems are there with this idea? (would the air quickly dissipate?)
+Assume that the station is spinning at a speed which departs a force equivalent to gravity on earth or a significant fraction thereof. Temperature kept at something comfortable to work at .. e.g. 20°C or 70° Fahrenheit. Air pressure at something equivalent to Earth surface air density.

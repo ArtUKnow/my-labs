@@ -1,0 +1,4 @@
+Has the Event Horizon Telescope measured the redshifts of M87* and Sgr A*?
+In 2019 the Event Horizon Telescope (EHT) produced the first image of a black hole (BH), at the centre of galaxy Messier 87 - a BH called M87*. Later they unveiled a similar image of Sgr A*, the supermassive black hole at the centre of the Milky Way.
+I wonder if the EHT (or anyone else) measured the redshift for these sources (their accretion disks). For these two (M87*, Sgr A* that have nice photo press releases) or for any other BH in our vicinity.
+I would be curious if proximity to the BH adds a significant gravitational component to the redshift.

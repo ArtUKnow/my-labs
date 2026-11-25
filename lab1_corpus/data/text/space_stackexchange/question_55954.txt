@@ -1,0 +1,6 @@
+Has ion propulsion ever been used in a deep space trajectory correction maneuver proper?
+Answer(s) to What types of propulsion are used to adjust an orbit? lead me to wonder if electric propulsion has ever been used for a proper TCM or "trajectory correction maneuver" in deep space. I am sure that the long propulsive periods (months or years) have had integrated fine tunings as their progress has been monitored,
+Thrust vectoring for ion propulsion - any plans or current research?
+but here I'm asking about a "burn" or maneuver using an ion engine that was implemented strictly as a calculated correction to a trajectory; it was perhaps listed as an option on the mission plan but it was uncertain if it would be needed or if so how much (how long) would be needed until that point in the trajectory arrived.
+Question: Has ion propulsion ever been used in a deep space trajectory correction maneuver proper?
+A specific example is necessary for a "yes" answer, but I suspect the answer might be "no" or "not really in a separate TCM as they are currently recognized, but definitely integrated into long propulsive burns".

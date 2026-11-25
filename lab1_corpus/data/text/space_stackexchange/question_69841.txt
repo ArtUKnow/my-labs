@@ -1,0 +1,21 @@
+Explain Lunar Orbiter image artifacts
+Many Lunar Orbiter missions photos exhibit a strange set of patterns superimposed on them, like for example this one
+As expected, UFO cranks started saying that these were cities on the Moon or fungus like aliens as soon as Google Moon made these images widely available in a user-friendly interface.
+People on reedit, gave a few different explanations in the past; like for example
+...as the film was being developed onboard the spacecraft sometimes
+the emulsion would not flow smoothly and this is the result.
+or
+the reason for the artifacts was because of inconsistent application
+or smudging of the fluid used to develop the film prior to imaging
+back to earth.
+I'm very interested in understanding the specific process that generated these artifacts on the images. To me, they look like Turing patterns (implying there is some sort of chemical interaction between substances playing the roles of promotors and inhibitors).
+The Lunar Orbiter official documentation offers some explanations:
+The Bimat technique introduced several development imperfections...
+"Lace" (shown in plate 116) appears as a spotted area of unprocessed
+film arranged in a random manner. The areas vary in size and location
+on the film and do not follow any pattern.
+Bimat refers to the film development unit onboard the spacecraft;
+Bubbles or streaking across the film appear in some frames as a result
+of Bimat processing errors.
+So what is it? Problems with the emulsion? Bubbles? Or other problem?
+I would like to have the most detailed explanation possible with current knowledge as to disprove some stupid claims I've been hearing for years about aliens on the Moon.

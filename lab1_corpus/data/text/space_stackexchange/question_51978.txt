@@ -1,0 +1,5 @@
+Moment of inertia data for rocket stage?
+I'm modeling a rocket launch and would like to compare my calculated moments of inertia to actual real-world data from other rockets.
+Any rocket would do, though those similar in size to Falcon 9 would be best. Not looking to match numbers precisely---just trying to build some intuition so I can tell if at least my orders of magnitude are right.
+Maybe Saturn V, since so much about it is public these days?
+Thanks if you have a good reference for rocket mass properties and can point me to it!

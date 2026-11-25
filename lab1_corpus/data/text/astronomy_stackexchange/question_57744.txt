@@ -1,0 +1,6 @@
+IRAF mask images with sigma clipping
+I have a school homework which MUST use IRAF
+First I have to produce a median background from this image
+but before fmedian image x y I need to mask out all the stars
+I am going to do this from a sigma clipping, for example mask out all pixels with sigma>3
+How to mask images with sigma clipping in IRAF?

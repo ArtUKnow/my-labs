@@ -1,0 +1,12 @@
+Can someone please clarify why the angle KPX is (90+alpha)?
+Question:
+In the standard geometric construction of ecliptic coordinates on the celestial sphere, let
+K be the north ecliptic pole,
+P the north celestial pole,
+X is the position of an object on the celestial sphere,
+α the object’s right ascension,
+and the zero point defined by the vernal equinox.
+When forming the spherical triangle
+KPX, many derivations state, without much explanation, that the angle at
+P satisfies ∠KPX = 90∘+α.
+I am having trouble understanding geometrically why this angle is so.

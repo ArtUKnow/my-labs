@@ -1,0 +1,10 @@
+Has the ISS ever "flown upside down"? Has the cupola ever "looked up"?
+For a spacecraft in low Earth orbit let's call the zenith direction (vector away from Earth) "up".
+For most of its life I think the ISS has orbited with it's "up side" pointed "up" and it's "down side" pointed "down". See answers to Does the ISS have a rotational motion in addition to its translational motion?
+This answer to Could the ISS stop rotating wrt the stars for a few days, then start again? begins:
+I don't think it's happened in a long time, but in the early stages of assembly, the ISS sometimes flew in a "XPH" attitude when the beta angle* was between 10 and 75 degrees.
+But let's take this a step farther.
+Questions:
+Has the ISS ever "flown upside down"?
+Has the cupola ever "looked up"?
+These are different because the cupola wasn't always present. It would be quite a different experience for ISS crew if the cupola faced a hemisphere of space rather than one with Earth so dominating the view.

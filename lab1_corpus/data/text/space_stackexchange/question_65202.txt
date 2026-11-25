@@ -1,0 +1,8 @@
+Will ISS astronauts be able to observe the 2024 solar eclipse?
+Observing a total solar eclipse is an amazing experience, but observing it from orbit would be truly spectacular. The ISS astronauts could potentially have an opportunity in 2024, but will the ground track of the ISS cross the eclipse path at the right time?
+https://en.wikipedia.org/wiki/Solar_eclipse_of_April_8,_2024
+Edit: I made an error assuming the ground tracks of the ISS and eclipse need to coincide. The ground track of the ISS is projected along the Earth’s radius, while the eclipse ground track is projected along the Sun’s (and the Moon’s) radius. Due to the ISS altitude, these do not coincide except over the subsolar point.
+Edit: To clarify, I mean observe the eclipse from within the umbra:
+https://www.nationalgeographic.com
+As opposed to outside the umbra:
+https://en.wikipedia.org/wiki/File:ISS-52_Eclipse_2017_Umbra_Viewed_from_Space_(4).jpg

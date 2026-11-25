@@ -1,0 +1,5 @@
+Velocity range of the Special Relativity line in Davis and Lineweaver paper
+Expanding Confusion: common misconceptions of cosmological horizons and the superluminal expansion of the Universe contains the Velocity vs Redshift plot:
+If the Special Relativity line is not the Relativistic Doppler Effect line, then I don't know what it is. The problem is that its proper velocity range is $(-c, c)$, not $(0, c)$. Proper Doppler's plot with the logarythmic scale on the redshift axis looks like this:
+The left vertical asymptote is at $v=-c$ and the right is at $v=c$.
+Can you explain this disrepancy?

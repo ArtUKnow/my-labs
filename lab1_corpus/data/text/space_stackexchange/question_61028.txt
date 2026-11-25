@@ -1,0 +1,5 @@
+Could a Robert Goddard style motor mount be used for powered landing of SLS solid boosters?
+The thought of pairing SLS solid boosters on just about anything one wants into orbit led to the thought of recovering them on barges at sea.
+We all remember Robert Goddard's top mounted rocket engine from the 1920's, which lived on as the aborted launch escape system for manned space capsules.
+Since solid rockets burn to exhaustion from the bottom, could a controllable liquid fueled system be placed on top for a controlled powered landing.
+As technology exists far beyond parachute recovery of solid boosters at sea in the 1980s, would such a system be technologically and economically feasible?

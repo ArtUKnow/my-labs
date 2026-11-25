@@ -1,0 +1,4 @@
+What is the area of the SSME nozzle knowing only thrust at sea level and in vacuum?
+Looking at the SSME Wikipedia RS-25 Space Shuttle Engines, the data shown that the thrust at sea level ($F_{sl}$) is 1.816*10$^6$ N, while the thrust in vacuum ($F_{vac}$) is 2.278*10$^6$ N. Knowing only these two pieces of information, I need to find out the exit plane area of the Nozzle.
+I understand $\dot{m}_{sl} = \dot{m}_{vac}$, but I cannot find the correct relationship to include the formula of Thrust $F_{*} = \rho*A_e*v^2_{e}$.
+I found this question in the book I am currently studying. It is problem 1.2 of "Astronautics. The Physics of Space Flight", Second Edition, Ulrich Walter.

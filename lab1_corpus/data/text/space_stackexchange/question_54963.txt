@@ -1,0 +1,4 @@
+what is revisit rate
+I want to understand what the revisit rate is. If the payload is required to make the revisit rate of 5 hours. The orbit is LEO (altitude less than 2000 kms). What does this mean?
+Revisit time - the time gap between the satellite to revisit the same area again.
+What is the revisit rate?

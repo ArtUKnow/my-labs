@@ -1,0 +1,8 @@
+Why does there appear to be a straight line of red stars in this image of the Large Magellanic Cloud?
+In this image of the Large Magellanic Cloud from the Spitzer space telescope, there's a straight line of red stars in the bottom right corner (much easier to see if you go to the link and open the full resolution, but that's a 58 MB image):
+This seems to me unlikely to be represent the actual physical reality. The description states
+This picture is a composite of infrared light captured by Spitzer.
+Light with wavelengths of 3.6 (blue) and 8 (green) microns was
+captured by the telescope's infrared array camera; 24-micron light
+(red) was detected by the multiband imaging photometer.
+Is this just an effect due to the underlying images which were composed together covering different areas?

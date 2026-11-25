@@ -1,0 +1,8 @@
+Why are distant type Ia supernovae dimmer than expected?
+Why are the (extremely) distant type Ia supernovae dimmer than expected?
+Relative to what? Their cosmological red shift? Well, what else.
+Please don't just say "Because the expansion is accelerating".
+Of course I accept that but what's the actual mechanism?
+Is it simply because the CRS\z increases linearly and
+the intensity decreases as the inverse-square with distance,
+so it gets affected more, by the increased distance?

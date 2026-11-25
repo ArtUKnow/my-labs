@@ -1,0 +1,11 @@
+Wien's law gives two different results?
+Say I have a star with radius $R$ and luminosity $L$. I want to find the frequency of its peak emission.
+Taking the star as a perfect blackbody, we can use Stefan-Boltzman to see that
+$$L = 4\pi R^2\sigma T^4 \iff T = \sqrt[4]{ \frac{L}{4\pi R^2\sigma} }$$
+Wien's law for wavelength is $\lambda_\text{peak} = \frac{hc}{xkT} = \frac{b}{T}$. Here, $x = 4.965114231744276303...$. We can invert this for frequency, where $\nu_\text{peak} = {cT\over b}$ since $\lambda = \frac{c}{\nu}$.
+Wien's law for frequency is $\nu_\text{peak} = \frac{xkT}{h}$, where $x = 2.821439372122078893...$.
+They should be equivalent.
+Let's say the star in question has a radius of $2R_☉$ and a luminosity of $3L_☉$. Then, it has a temperature of 5371 K.
+By the wavelength formula, I get a peak frequency of 555.62 THz. With the frequency formula, I get a peak frequency of 315.86 THz.
+Why do I get different things?
+Much thanks!

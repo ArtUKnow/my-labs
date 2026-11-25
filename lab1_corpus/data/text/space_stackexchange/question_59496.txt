@@ -1,0 +1,4 @@
+Is there any orbital launcher capable of removing the second stage from orbit after inserting the payload satellite into LEO?
+The Space Shuttle was able to place a satellite into orbit and to return to Earth.
+Is there any second stage that may deliver the payload satellite into LEO and do a deorbit burn after that using its RCS and remaining propellants? At least going to a very low orbit with a short lifetime of some months?
+Not necessarily to reuse the second stage but to remove it from the orbit and to reduce space junk.

@@ -1,0 +1,8 @@
+Where is the Wind going? Where has it been? (Global Geospace Science spacecraft 1994-071A)
+This excellent answer to Why put DSCOVR in a Lissajous orbit? Wouldn't a halo orbit completely avoid the Sun exclusion zone? explains that the Global Geospace Science or Wind spacecraft 1994-071A was originally put in a Lisajous orbit about the Sun-Earth L1 point as a propellant-saving choice over a halo orbit (the difference is explained in the linked question).
+It goes on to explain that in 2020 during a mission extension, the decision was made to use >14 kg of fuel and move it to a halo orbit about Sun-Earth L1.
+Wikipedia's take seems to be that it was moved to a Sun-Earth L1 halo orbit in 2004, and clicking through from https://wind.nasa.gov/ to https://spdf.gsfc.nasa.gov/data_orbits.html to https://hpde.io/SMWG/Observatory/Wind leads to the image below which makes my head spin.
+Question: Where is the Wind going? Where has it been? (Global Geospace Science spacecraft 1994-071A)
+Is there a tabular breakdown of what orbit's it has been in from launch until to today, and the plans for the future?* Something with dates and simple phrases that best describe its orbital status?
+That of course might not be possible! I don't know if the image shows two halo orbits and to high elliptical orbits, or a single 3-body trajectory.
+Source: https://pwg.gsfc.nasa.gov/wind.shtml

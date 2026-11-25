@@ -1,0 +1,6 @@
+Equations used in reentry capsule shape optimization and trajectory design
+I am working on a research project on shape optimization of a reentry capsule using an algorithm. For this, I need governing equations related to aerodynamics, heating, trajectory, and stability. Specifically, I am looking for formulations for aerodynamic coefficients, corner heat flux, ground track length, heat load, landing accuracy, pitch stability, stagnation heat flux, g-load, and volumetric efficiency.
+So far, I have already collected equations for volumetric efficiency, g-load, stagnation heat flux, and corner heat flux from different research papers and books, but I have not been able to find reliable formulations for aerodynamic coefficients, ground track length, heat load, landing accuracy, and pitch stability.
+My research workflow involves generating optimal design parameters constructing the shape of the capsule, and then using these shapes for CFD analysis and trajectory design in MATLAB.
+Question:
+Could anyone suggest standard references, papers, or textbooks that provide equations or formulations for the parameters I am missing in the context of reentry capsule design?

@@ -1,0 +1,8 @@
+Can pyroxene and other silicon compounds be used as a theoretical spacecraft fuel?
+I have been reading this patent, which led me to this paper.
+The first uses polysilane, which basically replaces the $\text{C}$ in a $\text{-R-C-R-}$ group, making an $\text{-R-Si-R-}$ group. I also read that carbon and silicon are quite similar in chemistry. The second paper goes into detail. We find that silanes burn with $\text{N}_2$ and produce solid silicon nitride.
+My question :
+How do you get thrust, if you are producing solid silicon nitride? Or is the trust coming only from the $\text{H}_2\text{O}$?
+Please consider a common silicon compound: pyroxene : $\text{XY(Si,Al)}_2\text{O}_6$. It has silicon and aluminum in it, as well as oxygen. Can you burn similar common minerals as well to produce thrust?
+Can we use solar energy to basically vaporize the silicon solids? How much delta-v can we realistically generate out of that?
+Thank you.

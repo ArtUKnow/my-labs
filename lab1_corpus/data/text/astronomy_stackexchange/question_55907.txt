@@ -1,0 +1,22 @@
+Kepler to Cartesian and Cartesian to Kepler inaccuracies
+I am programming a computer simulation set in a star system. I've used Rene Schwarz's wonderfully concise memorandi explaining converting from Kepler orbital elements into cartesian coordinates and vice-versa. I've written a function for each memorandum (called kep2cart() and cart2kep(), respectively. I'm using double-point floats to maintain accuracy, and all units used are in meters, seconds, and kilograms (including gravitational constant).
+When I test these functions, kep2cart works seemingly without any problems. However, when I test cart2kep, there seem to be errors...
+The test I'm running goes as follows:
+i have a set of orbital elements which describe a satellite body in orbit, as well as the masses of the satellite and the primary. inclination ranges from 0 to PI, eccentricity ranges from 0.0001 to 0.9999, semimajoraxis is underneath $1.54 × 10^{11}$ meters (less than 1 AU), and ArgPeriapsis and AscNode and MeanAnomaly are all in ranges from 0 to TAU.
+i input this set of orbital elements and masses into kep2cart(), and get back a position vector r and a velocity vector v
+i then input r and v into cart2kep(), and get back a set of orbital elements.
+this should supposedly return from cart2kep() the same orbital elements as given previously to kep2cart(). Or at least an equivalent orbit (described differently but essentially identical).
+the problem is that the orbital elements returned from cart2kep() aren't equivalent. The inaccuracies aren't trivial either:
+the Mean Anomaly found by cart2kep() is often off by around PI radians, but frequently enough by smaller amounts. this causes the body to "leap" in its orbit.
+the inclination found by cart2kep() is frequently off by around PI/2 radians as well
+the longitude of ascending node OR the argument of periapsis is frequently off by PI (it seems if ONE is off by PI, the other is accurate...)
+the eccentricity becomes higher and higher...
+In my software, the body's position is constantly being updated by using the kep2cart() function, which seems to work just fine. When I actually update the body's orbital elements with those gotten from cart2kep(), instead of it orbiting like it should beforehand, the body's position leaps, and the orbit gets all wonky. if i keep updating it like that eventually it seems to become extremely eccentric and also grow in semi-major axis...
+the end-goal of this software i'm writing is to simulate a spacecraft moving in orbit, and anytime the user changes the spacecraft's velocity, the orbit must change accordingly. naturally, this cart2kep() inaccuracy is a big problem.
+i've checked my work using an online orbital mechanics textbook which is also fantastic, and it uses pretty much the same equations as the memorandi. it's also been a fantastic resource for understanding celestial mechanics. I've also tried using an ECI cartesian coordinates to kepler orbit elements conversion instead of memorandum 2 (to no avail, i also can't find the link to it anymore...)
+I'm at my wits end trying to figure out what might be going wrong or how to compensate or account for this error. Does anyone have any insight as to what to do to get accurate enough orbital parameters from cartesian coordinates? Is this a common problem in orbit determination that there are known practical fixes for? i'm not practiced with universal variable formulation: will that fix these problems if implemented somehow? i'd ask this on a software development stack, but i think this has more to do with the practice of celestial mechanics than programming techniques.
+Much appreciated, to any and all for reading.
+here are the resources i've been using, they've been very helpful to a novice
+Memorandum 1
+Memorandum 2
+Online Orbital Mechanics Textbook

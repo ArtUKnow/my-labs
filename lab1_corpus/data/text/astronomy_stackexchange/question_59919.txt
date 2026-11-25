@@ -1,0 +1,9 @@
+Does the terrain around the South Pole interrupt the circle the Sun makes on the equinox?
+A recent answer stated that
+if you stand at the poles you'll see the Sun hover eerily slightly above the horizon due to refraction and circle all the away around you 360°!
+To which I commented that
+Well, at the North Pole, anyway. At the South Pole, there’ll be mountains in the way for a lot of that circle, I believe.
+And this got a counter-point from Michael MacAskill,
+There are substantial mountain ranges in Antarctica, but the South Pole itself is on a massive plateau – I’m not sure that mountains impact much on the view from that particular spot.
+I’ve been trying to find information about this, but all I can find is discussions of the refraction issue, how far the Sun sits above the horizon, etc., without any discussion of what the terrain around the South Pole looks like. I also found plenty of photos of the Sun just above the horizon, as seen from the South Pole, but I don’t know if that would go all the way around the circle. I’ve also seen photos showing the Sun behind/just above the South Pole Telescope, so that might also break up the circle, depending.
+Also, I do realize that height above the ground could have an effect, though I’m not sure it’ll matter with this geometry. I’d be happy with an answer addressing the height of a human being standing at the Pole, but an answer that covers how height does or doesn’t affect things would be ideal (does it actually matter? is there a cut-off where you can’t see the Sun anymore?).

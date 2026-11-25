@@ -1,0 +1,5 @@
+plotting light curve for x ray data
+how can I plot the light curve for Chandra X-ray data? I want to extract the counts within the specified energy range from the light curve.
+e.g., I have to extract the counts within the energy range of 0.3 to 1 keV. This extraction has to be done with the lc
+how can I proceed
+What is the difference between extracting the counts from energy data and light curve data?

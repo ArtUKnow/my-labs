@@ -1,0 +1,5 @@
+Can ISS trash be used as reaction mass for orbital maintenance
+There have been a number of videos posted about trash being hand-pitched out the back of the ISS. This seems like a waste of potential reaction mass, especially since it cost $20,000/kg to get it up there.
+Taking trash back to Earth sounds as boring as… well, taking out the trash. The ISS needs thrust to counter orbital decay. Trash has to be thrown out retrograde to prevent an unwelcome rendezvous. Why not throw it real fast and get a little delta-v for the ISS? This would also shorten time to re-entry for the trash
+A trash compactor mated to a rail gun? A potato gun fueled by CH4 from the ECLSS?
+Could ISS trash be usefully employed as reaction mass?

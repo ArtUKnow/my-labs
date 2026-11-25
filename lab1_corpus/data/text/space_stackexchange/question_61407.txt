@@ -1,0 +1,4 @@
+Were the Apollo astronauts constrained in how they could set their PLSS cooling?
+During EVA 2 of Apollo 17, Gene Cernan pointed out that having his PLSS on the "min cooling" setting was a little warm for him. That's probably because driving the lunar rover made his metabolic rate ~10% higher than Jack Schmitt's. Cernan even asked mission control if his cooling was working fine.
+Why didn't he simply increase the cooling setting of his PLSS while driving? If the astronauts had to follow a strict cooling water rationing protocol (e.g. only use the "min cooling" setting while riding the LRV), where can I read more about it?
+I understand that the astronauts had to ration cooling water (and other resources), but was there a protocol in place forcing them to use the "min cooling" setting on the while riding the LRV? (This particular EVA was the longest of all Apollo missions).

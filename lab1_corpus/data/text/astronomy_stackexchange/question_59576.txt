@@ -1,0 +1,3 @@
+How is it determined what celestial objects are considered to be part of the milky way galaxy
+How is it determined whether an object is considered in the milky way galaxy or outside of it. I would speculate that the volume of the milky way is located on a coordinate system and an object is either within that volume or external to it.
+This assumption would lead to asking how is the extent of what is considered to be the milky way galaxy determined? Perhaps this is done by looking at what objects are moving as a group relative to their surroundings.

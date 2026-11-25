@@ -1,0 +1,4 @@
+Exact speed/distance of JWST (& others in L1/L2 halo) from Earth; is it measured any differently than for more distant deep-space missions?
+How is the exact speed and distance from Earth of the JWST or any spacecraft in a Sun-Earth L1/L2 halo orbit determined?
+While deep space missions require ranging at hundreds of millions of kilometers to billions, these spacecraft always remain less than 2 million kilometers from Earth.
+Does this "relatively short" distance (on a deep space scale) lead to tracking strategies different than those used for much more distant missions?

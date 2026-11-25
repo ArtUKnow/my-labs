@@ -1,0 +1,2 @@
+How large is the AoA during the ascent and descent of a Falcon 9?
+If we divide the mission into ascent, descent before reentry burn, and descent after that, how large is the AoA (Angle of Attack) in each of these three phases? Is there any difference between the landing on a landing pad or on an ASDS ?

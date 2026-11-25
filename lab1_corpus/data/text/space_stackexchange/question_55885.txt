@@ -1,0 +1,34 @@
+What are the primary business challenges for Firefly Aerospace to capturing a large enough market share of the 1-ton payload market to be successful?
+The recent CNBC video How Ex-SpaceX Engineers Are Fueling The Space Race With Firefly (linked below) is worth a watch, and notes include the following:
+a team comprised of industry veterans, Firefly Aerospace wants to be a dominant launch provider in the growing small satellite market.
+The video says that their two stage expendable carbon fiber rocket will put a 1000 kg payload into LEO, with plans to extend that capability to 1,500 kg.
+In the screen shot below a graphic lists this together with three competitors for mass to LEO (defined there as 160 to 1000 km).
+Question: What are the primary business challenges for Firefly Aerospace to capturing a large enough market share of the one-ton payload market to be successful?
+These numbers suggest abl Space Systems is very competitive on paper, but a lot can change in the next few years. Is there a big one-ton payload market out there; what would factors prevent a simple, cheap, throw-away one-ton launcher company from being able to capture this market and hold on to it?
+Provider
+up to (kg)
+cost (\$million)
+ratio (\$million/100 kg)
+Firefly Aerospace
+1,000
+15
+1.5
+Rocket Lab
+300
+7
+2.3
+ASTRA
+100
+2.5
+2.5
+abl Space Systems
+1,350
+12
+0.9
+SpaceX F9 (for context)
+22,800
+62
+0.3
+related:
+What fire will Firefly fly, and when? (update/clarification on planned launch vehicle)
+click for larger

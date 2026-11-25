@@ -1,0 +1,5 @@
+Why was the Orion spacecraft slower after the return powered flyby burn?
+I'm closely following NASA's Artemis 1 mission and all the broadcasts. This week the return powered flyby burn took place, the Orion spacecraft flew around the moon and started its way back home.
+Since I don't have a M.Sc. in orbital mechanics, a dumb question came to my mind: before the loss of signal and burn, Orion had a velocity of 4842 mph (see here in the NASA's broadcast before the burn). But after the burn Orion travels with a velocity of 2472 mph (see here in the NASA's broadcast after the burn).
+I naively assumed that Orion uses this maneuver to gain speed from the Moon's gravitational force and therefore should be faster afterwards.
+Where is my faulty reasoning?

@@ -1,0 +1,12 @@
+Flat curvature and decelerated expansion in wCDM models
+Strong progenitor age bias in supernova cosmology – II. Alignment with DESI BAO and signs of a non-accelerating universe
+6 November 2025
+Previous paper: Strong progenitor age bias in supernova cosmology. I. Robust and ubiquitous evidence from a larger sample of host galaxies in a broader redshift range
+8 November 2024
+In the last paper the authors are calling both their models flat and consider them under the assumption of flat curvature.
+We consider two cosmological models under the assumption of flat curvature: the wCDM model (see Section 4.2), where the dark energy equation-of-state parameter $w$ is constant, and the $w_0w_a$CDM model (see Section 4.3), parametrized via the Chevallier–Polarski–Linder (CPL; M. Chevallier & D. Polarski 2001; E. V. Linder 2003) form, in which $w$ evolves with time.
+4.2 Flat wCDM model
+The wCDM model extends the ΛCDM model by introducing the dark energy equation-of-state parameter $w$, which is assumed to be constant. In this subsection, we examine how the parameter estimates in the flat wCDM model are affected by applying the age-bias correction to the SN data.
+4.3 Flat $w_0w_a$CDM model: a new concordance
+The CPL parametrization, expressed as $w(a)=w_0+w_a(1−a)$, provides the simplest framework for describing dynamical dark energy. Here, $w_0$ represents the present-day value of the dark energy equation of state, while $w_a$ quantifies its variation with respect to the scale factor. Motivated by the findings of the A. G. Adame et al. (2025) and DESI Collaboration (2025), we analyse the behaviour of the constrained parameters $w_0$, $w_a$ and $q_0$ within the CPL parametrization when the age-bias correction is applied to SN Ia data.
+Is their flatness given by zero spatial curvature density $\Omega_k$ throughout the whole expansion? Regardless of the answer, would $\Omega_k=0$ throughout the whole expansion imply both spatial and temporal flatness and therefore zero Ricci curvature tensor? If that was the case, would the Einstein field equations reduce to $\Lambda(t)\eta_{\mu\nu}=\kappa T_{\mu\nu}$ where $\eta_{\mu\mu}=(1,-1,-1,-1)$ and $\Lambda(t)$ is decreasing? It would obviously imply $\rho=-p$ in $T_{\mu\mu}$.

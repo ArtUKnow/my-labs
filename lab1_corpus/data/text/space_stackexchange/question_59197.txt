@@ -1,0 +1,4 @@
+Low-thrust maneuver validation in GMAT
+I'm working on a LEO-to-LEO transfer with low-thrust propulsion. I've generated a control sequence with a direct optimization implemented by me and I would like to use GMAT to validate the maneuver.
+I tried to model an object Electric Thruster with all the burns, but this approach seems a bit too complex with respect to my problem. I'm wondering if it's possible to insert just the acceleration acting on the center of the S/C in LVLH reference frame.
+Is there a way to load from file the control history in terms of accelerations acting on the center of the S/C in each time instant and use it directly in GMAT? Or is it mandatory to add an Electric Thruster object with several burns?

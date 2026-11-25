@@ -1,0 +1,2 @@
+Which distortion polynomial does the astrometry.net platesolver use?
+I am investigating whether it is feasible to predict the distortion of a widefield image platesolved by Astrometry.net and. its documentation says it uses the Simple Image Polynomial to estimate distortion, but does not specifically say if its output file of SIP coefficients can be used to remove distortion manually, or if it does it by itself. This paper, Geometrical Analysis of Polynomial Lens Distortion Models, is a resource for estimating camera distortion with polynomials, but I'm afraid I'm stuck.

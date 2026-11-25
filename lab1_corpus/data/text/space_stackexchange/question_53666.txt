@@ -1,0 +1,10 @@
+How do we get to Mars in a week (7 days)?
+Looking at the times that are quoted to go to Mars (months) makes me wonder what speed do we need to get there in a week?
+Chemical rockets can get to ~4.5 Km/s, thermal nuclear rockets is about twice that (~8 Km/s). Electric can be between ~15 Km/s to 100 Km/s ...not sure if range is right.
+I'm taking about transit time from Earth orbit to Mars orbit. I'm not looking to deploy a bunch of refueling tanks in the way before leaving Earth (even if that helps). Or make a chemical rocket huge either (again ...even if that helps). I'm talking something somehow efficient. I understand that if we go really fast we need to break so if we accelerate half the way or more and then turn the vehicle around and start breaking that's fine. BTW I'm still thinking to go there the way we go there now where there is a window when Earth and Mars are closer. No direct travel at any point in Earth and Mars orbit yet. We'll do that later ...lol.
+It looks like 50 Km/s gets us there in 39 days (vasimr engine?
+)
+What speed does it take to get to Mars in 7 (Earth) days? Thanks.
+https://en.wikipedia.org/wiki/Nuclear_thermal_rocket
+https://www.sciencedirect.com/topics/earth-and-planetary-sciences/nuclear-electric-propulsion
+https://www.lanl.gov/science/NSS/issue1_2011/story5full.shtml

@@ -1,0 +1,8 @@
+How to avoid big nozzle lengths in high altitude?
+I am currently designing a serial staged rocket with 3 stages. The first stage brings me up to 10 km. When I do my calculations for the required expansion ratio and nozzle length (Rao Nozzle) for the second nozzle I get a length of nearly 350 mm. This will shrink the amount of fuel I can carry in my second stage. What is the drawback if I design my nozzle for 3 km (only 250 mm long) and use this nozzle in 10 km altitude? So I will use a underexpanded nozzle .
+If I calculate the Isp of a nozzle designed for 10 km it is: Isp= 276 s
+If I calculate the Isp of a nozzle designed for 3 km and use it in 10 km: Isp=274 s
+So there should be not a big performance difference?
+The easiest thing to shorten the nozzle is to use several nozzles. But I want to avoid this.
+Thanks for your feedback
+Lucas

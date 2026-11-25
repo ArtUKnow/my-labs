@@ -1,0 +1,7 @@
+What is the smallest object our current technology is capable of launching into space?
+Well, I'm quite ignorant about space exploration in general, but I hope I don't make too many misconceptions.
+So, from what I could find on the internet, there is a certain type of spacecraft propulsion called "solar sails" that it simply is a reflective film that is pushed by solar light. Therefore, you could push things using only lasers, and in fact, there is a project that aims to launch micro-satellites the size of a coin into Alpha Centauri, called "Breakthrough Starshot" that uses this same idea. But I doubt it would be possible to launch things from here to orbit using lasers in a practical and efficient way.
+Well taking this into consideration, and the fact that it costs thousands of dollars per kilogram of payload to simply launch into orbit, it makes me wonder if there is any way of launching reeeeally small objects into space using as little energy as possible.
+For example, even though the current record of smallest satellite launched into space (Kicksat) was launched in big numbers inside a bigger container.
+And I could think that launching a coin of material every hour (or minute) to the International Space Station in order to build bigger stations would be the most efficient way, but I think that maybe launching a bullet in the direction of a space station is not the safest way of launching material to space.
+There are any kind of projects and/or researchs in this field?

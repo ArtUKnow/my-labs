@@ -1,0 +1,4 @@
+How big will a space billboard have to be to be visible?
+So recently there's been the news story about how SpaceX is launching a billboard to space (space billboards are an approximately bi-annual occurrence). This "billboard" is a cubesat that will just display ads on a livestream of Earth, similar to what NASA was doing with HDEV. However, what people are imagining is a billboard, visible from orbit on the ground.
+Ignoring the fact it's already illegal, to do what they're imagining feels to me like a borderline physical impossible, simply because of how big the billboard would have to be; the ISS is basically a point source and it's the size of a football field. Writing out even just visible plain text feels like it would be hard.
+So how big would a space billboard have to be? (and is it reasonably possible to construct one?)

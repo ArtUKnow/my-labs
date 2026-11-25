@@ -1,0 +1,9 @@
+Nose-to-nose docking of Orion and Starship for the Artemis mission TLI burn
+During Starship Flight Test 13, at approximately the 27:30 mark, one of the commentators stated that the revised Artemis architecture has Starship HLS performing the translunar injection (TLI) burn while docked to Orion, rather than Orion performing the burn itself.
+If I understood correctly, this appears to be a significant departure from the previously described mission profile in which Orion travels independently to a Near-Rectilinear Halo Orbit (NRHO), where it rendezvous with Starship HLS.
+What changes does this revised mission architecture require? In particular:
+Does Orion still enter NRHO, or is the mission now using a different lunar orbit?
+Does the change affect the planned landing site near the lunar south pole?
+How is crew acceleration during the Starship-performed TLI burn handled, given Orion's seating orientation?
+How does carrying Orion through TLI affect Starship HLS's propellant budget and its ability to complete the lunar landing, lift-off, and lunar-orbit rendezvous?
+If there is an official description of the revised architecture, I'd also appreciate a reference.

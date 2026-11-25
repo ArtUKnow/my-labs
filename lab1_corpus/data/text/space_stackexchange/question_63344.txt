@@ -1,0 +1,4 @@
+When lower stages explode, can upper stages just fire and escape?
+If Superheavy fails during launch (or even fails to launch in an unsafe way) the Starship itself might well be able to just light its engines and fly a suitable suborbital trajectory to a safe landing spot (assuming it wasn't hit by too much shrapnel).
+https://space.stackexchange.com/a/46080/36625
+Is it normal for upper stages to survive having a lower stage go boom beneath them? Are there any recorded instances of sn upper stage emerging unharmed (only to be destroyed by the fall/range safety)?

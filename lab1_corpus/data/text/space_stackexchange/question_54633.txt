@@ -1,0 +1,23 @@
+Can mascons have Lagrange-like points? In principle? At the Moon?
+Background
+Lagrange points are a mathematical consequence of the The Circular Restricted Three Body Problem (CR3BP or CRTBP); two massive bodies orbiting around their center of mass and a third massless "test particle" that responds to their gravity.
+In addition to these there are halo orbits and Lissajous orbits associated with these points and a heck of a lot of other three-body periodic, closed orbits including rectilinear halo orbits of Artemis fame.
+Mass concentrations or "mascons" were first dealt with orbital-mechanically after an object in lunar orbit crashed into the surface much sooner than expected. The lumpy gravity field of the Moon is caused by concentrations of enhanced mass below the lunar surfac.
+Begin question
+Instead of the CR3BP's $m_1$ and $m_2$ being mathematical points, they could be replaced by uniform density spheres (or even spheres of only radially-varying density) as Newton's shell theorem tells us.
+As long as the third body's orbit doesn't intersect one of the surfaces, it wouldn't know the difference.
+Suppose the large radius of say $m_1$ became so large that it enveloped the small radius of $m_2$. At this point it's a uniform density sphere with a small, higher density sphere just under the surface.
+Question: Could a body with a very large mascon have Lagrange-like points and halo-like orbits in principe? If so, what are the contrainst on the problem? Could this happen at the Moon?
+Q: Why do you say "Lagrange-like" and "halo-like"?
+A: The rotation rate of the planet is not necessarily equal to the orbital period of free $m_1$ and $m_2$ so this needs thought. Proper, classical Lagrange points won't apply to a rigid rotor with a different rotation rate than free-orbiting bodies.
+Further reading:
+What sort of orbital elements are used to describe halo orbits?
+Why is a near rectilinear halo orbit proposed for LOP-G (formerly known as Deep Space Gateway?)
+What is a near rectilinear halo orbit?
+How does a butterfly orbit move in 3D? Way to generate or visualize?
+Is the Gateway's halo orbit bound to Earth? Would the Gateway remain in Earth orbit if the Moon disappeared?
+Difference between approach maneuvers to the insertion points of halo and Lissajous orbit?
+What is the difference between halo orbits and Lissajous orbits?
+What is a near rectilinear halo orbit?
+Are some Halo Orbits actually Stable?
+How to use "patch points" to make a continuous halo orbit?

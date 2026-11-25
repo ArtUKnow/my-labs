@@ -1,0 +1,4 @@
+Hypothetical Internet on Phobos
+If there was a ground base on the surface of Phobos, with current or developing technology, would it be viable to have an internet connection?
+Even with optical communication like DSOC, would it be hard to keep the signal since it requires line of sight with Earth?
+Where on Phobos would be best to locate the station so it can communicate with Earth? Or would you need satellites to relay...?

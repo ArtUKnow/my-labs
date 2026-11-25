@@ -1,0 +1,2 @@
+do launch vehicles fly at negative angle of attacks after pitch over maneuver?
+At early seconds of flight, launch vehicle goes up vertically. at the beginning of pitch over, it has vertical velocity and simultaneously pitching which makes the wind to flow from upward direction. is this an actual situation in launch vehicles? does the angle of attack change to positive, that means wind flow from below the vehicle?

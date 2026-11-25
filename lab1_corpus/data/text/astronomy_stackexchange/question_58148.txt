@@ -1,0 +1,2 @@
+What does Colossus cosmology.sigma() return
+Can anyone tell me if the Colossus cosmology.sigma() function returns variance, which is sigma^2, or sigma and I have to square it to get variance? All of the documentation regarding this is completely ambiguous and I cannot find an answer. I want to pass the return value to EPS calculation function and don't know if I need to square it first. In the Colossus documentation, the function is called "sigma" but the verbiage says it is "variance". Which is it? Please help.

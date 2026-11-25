@@ -1,0 +1,5 @@
+UTC Time, navigation. Why are the time zones not following perfect meridian circles for longitude?
+Why are these meridian lines for time not following straight up and down every n (15 deg) from the poles of earth?
+Does it have something to do with making time zones easier to understand by country? Perhaps traversing terrain horizontally along latitude is slower in certain geographic locations, hence the sea is closer to 15 degrees, while land specifically with mountain ranges, the vertical lines are spaced more degrees apart (many times over 15 deg)?
+I’m trying to navigate using a sextant and find time relative to GMT. One way I thought of was using speed traveling East or west and days of Sun at high noon to estimate distance. With this I could estimate my time relative to GMT which is required for using the Sun at high noon for longitude. It’s confusing because it looks like now I need a map of time zones to complete measurement. I was hoping to perform some measurements just using my body and some math equations.
+Ref wiki

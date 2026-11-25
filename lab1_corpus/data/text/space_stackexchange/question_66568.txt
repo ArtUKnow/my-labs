@@ -1,0 +1,4 @@
+Does the injector plate experience the same combustion temperature and pressure as the rest of the chamber? If so, how is it cooled?
+The question is explained pretty well in the title itself: Does the injector plate experience the same combustion temperature and pressure as the rest of the chamber? If so, how is it cooled?
+However, the how is it cooled aspect of the question was for if the the propellants were both room temperature. If the injection plate does experience the combustion temperatures, how would it cool in the situation that both propellants are room temperature.
+Thank you

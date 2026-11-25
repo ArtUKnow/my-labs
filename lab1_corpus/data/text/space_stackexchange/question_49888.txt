@@ -1,0 +1,5 @@
+Coord. system:collection of charts (local homeomorphisms to ℝ𝑛) for differentiable manifold 𝑀, frame:section of tangent vector fiber bundle over 𝑀
+This answer to Are ECI and ECEF both frames and/or coordinate systems? Is there a difference? (which asks about the difference between coordinate systems and frames) says:
+In the language of pure mathematics, I would say that a coordinate system is a collection of charts (the local homeomorphisms to $\mathbb{R}^n$) for a differentiable manifold $M$, and a frame is a section of the tangent vector fiber bundle over $M$.
+Question: How in the language of those who are not mathematicians might a coordinate system be seen as a collection of charts (the local homeomorphisms to $\mathbb{R}^n$) for a differentiable manifold $M$, and a frame seen as a section of the tangent vector fiber bundle over $M$?
+Is it possible to explain what a collection of charts, a local homeomorphism, and tangent vector fiber bundles are? I'm guessing that $\mathbb{R}^n$ is a coordinate space based on real numbers where $n$ is the number of dimensions, but I don't know what the $n$ being a superscript versus a subscript means.

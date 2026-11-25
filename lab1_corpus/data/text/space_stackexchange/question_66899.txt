@@ -1,0 +1,5 @@
+What would happen today if a spacecraft failed in orbit with astronauts inside?
+Some spaceship - like a Dragon, a Soyuz or a Starliner - leaves the ISS and is doing the orbital maneuvers needed to land where it wants to. And, at this point... they have a problem. The spacecraft propulsion system stops working and there is no way to fix it by remote commands. It remains on the orbit where the failure occurred.
+What would happen?
+As far as I know the only way to save the astronauts is if another spaceship - either from the ISS or from the Earth - is launched, docks to the stranded spaceship, gets the astronauts out and then it comes back.
+Is there any plan for this type of failure? Imagine the nightmare listening to the astronauts as their air supply slowly runs out.

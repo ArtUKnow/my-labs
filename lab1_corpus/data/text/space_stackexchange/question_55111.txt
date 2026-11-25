@@ -1,0 +1,17 @@
+Modifying Starlink / Dragon for orbital communication
+In this answer @uhoh notes:
+The Starlinks currently have three types of internet-related communication:
+downwards with customers fixed on the Earth's surface below the satellites (except an occasional individual exception one can read about)
+sideways with other nearby Starlink satellites
+downwards with Starlink ground stations for connecting to the internet.
+On 2021-09-17, Musk tweeted
+From what I can gather, most space-based orbital communication is currently in the S-band, and Musk is talking about the Ka band or lasers to connect to Dragon. But I assume that a new transceiver on Dragon is fairly straightforward.
+However, I'm not clear on what would be involved for the satellite network. Musk doesn't appear to indicate any changes needed to the satellites themselves.
+Longer term there's talk of extending the network for Mars communication, but I doubt that's in play here?
+Similarly, I doubt that satellite signal leakage would play much role.
+I could, for example, imagine "flipping" some satellites to point their communication dishes spaceward then laser linking to other satellites pointing earthward, for some reduction in earth based available bandwidth.
+Or I could imagine launching some number of satellites with an additional dish for spaceward communication.
+Or perhaps just add additional space satellites in the "spaceward" orientation. (Though I've no idea how many would be needed)
+Or do the orbits just work out that the dragon would be able to point to a laser port "horizon-ward" and reach a Starlink satellite?
+Or to summarize the above visually:
+Question: Beyond a new transceiver for Dragon, what kind of changes might be done to the Starlink Constellation itself?

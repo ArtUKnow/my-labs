@@ -1,0 +1,3 @@
+James Webb orbit insertion
+Webb will issue a final course correction burn to insert it into the orbit around L2. It arrives from earth so the approach velocity should be higher than the desired orbit velocity and the vector should point away from earth and sun. It needs negative delta-v.
+How can JWST brake without turning around? Turning around is not an option, because the telescope's dark side may not be exposed to solar radiation. The engine is located on the hot side, pointing to where Webb came from. So how can it decrease velocity?

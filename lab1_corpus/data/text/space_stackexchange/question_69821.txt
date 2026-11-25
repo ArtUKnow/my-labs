@@ -1,0 +1,4 @@
+If we want to plan a mission to the moon, do we need to take into account the Sun?
+When we use a Hohmann transfer orbit to move a potential spacecraft from the Earth to the moon, can we assume that the effect of the Sun is negligible?
+More specifically for the lunar missions, I assume the 2-body system of Earth and Moon. Without the Sun's gravity taken into consideration we can find the reduced mass and the center of the Earth-Moon system and calculate what speed ups or speed downs to launch a spacecraft from Earth and land it on the Moon.
+However, the gravity of the Sun is still there. I was wondering if the effect of the Sun's gravity is small enough to be negligible.

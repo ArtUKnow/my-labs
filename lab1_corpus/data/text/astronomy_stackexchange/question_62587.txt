@@ -1,0 +1,7 @@
+how to save data into file from queries in the ViZieR database
+I am new to this. I am dabbling in the light curves from the database at:
+trying to get all the data from https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=J%2FA%2BA%2F519%2FA12
+I would like all the 1318 entries in the form of a table.
+I see that there is a python client vizquery.py which can do this (perhaps).
+./vizquery.py -l https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=J%2FA%2BA%2F519%2FA12
+which gives me a link to lots of the databases. How do I get the exact fields that I want (as in the link) for all 1318 variable stars?

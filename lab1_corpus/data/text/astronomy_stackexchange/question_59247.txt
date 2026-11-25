@@ -1,0 +1,5 @@
+How can electron configuration 2p2 yield term symbol 3P2?
+I apologize for all of my recent questions. I'm a retired EE 50 years out of school who is trying to get my brain around electron configurations to help me understand the science behind my astrophotography. If I go to this site: https://physics.nist.gov/cgi-bin/ASD/energy1.pl?de=0&spectrum=O+III&submit=Retrieve+Data&units=0&format=0&output=0&page_size=15&multiplet_ordered=0&conf_out=on&term_out=on&level_out=on&unc_out=1&j_out=on&lande_out=on&perc_out=on&biblio=on&temp= I get this table for term symbols for OIII:
+To me, that says, for example, that the 1D2 term symbol means electrons in the 2s22p2 level are arranged like this:
+So how are the electrons arranged for the 3P2 term symbol? I assume they are NOT in the n=3 level, as the table is pretty clear they are in the 2s22p2 level.
+Thanks for your help with this.

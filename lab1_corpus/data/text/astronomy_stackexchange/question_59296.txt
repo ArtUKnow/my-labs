@@ -1,0 +1,3 @@
+Using astrophotography for positioning and timekeeping
+I know plate solving is common method in astrophotography for determining where the telescope/camera is pointing at. My question is, can this data (series of plate-solved observations) be used to determine the ground position and date/time of the observation?
+I'm thinking hypothetical situation where you are dropped in a random place on Earth with basic amateur telescope with no knowledge of current time or date, can you somehow figure out your location and time? What different approaches are available, and what equipment is needed? I'm primarily interested in stuff that does not rely on having accurate Greenwich time as reference and instead are based solely on observation data.

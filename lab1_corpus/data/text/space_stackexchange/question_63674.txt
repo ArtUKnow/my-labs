@@ -1,0 +1,2 @@
+How much did the duralumin structure of the Shuttle weigh?
+I am trying to understand the benefit of a Shuttle type "cold structure" Vs a Starship type structure. Google tells me that the Shuttle TPS weighed 8,574.4kg, and the duralumin has a 50-80% greater strength to weight than stainless steel. But how much duralumin was in the Shuttle?

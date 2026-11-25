@@ -1,0 +1,7 @@
+How is New Shepard the first suborbital booster to successfully perform a powered vertical soft landing?
+I saw this on wikipedia
+On 23 November 2015, after reaching 100.5 km (62.4 mi) altitude (outer space), the suborbital New Shepard booster successfully performed a powered vertical soft landing, the first time a suborbital booster rocket had returned from space to make a successful vertical landing
+https://en.wikipedia.org/wiki/New_Shepard
+This was the first such successful rocket vertical landing on Earth after travelling higher than 3,140 m (10,300 ft) that the McDonnell Douglas DC-XA achieved in the 1990s, and first after sending something into space. Jeff Bezos was quoted as saying that Blue Origin planned to use the same architecture of New Shepard for the booster stage of their orbital vehicle.
+https://en.wikipedia.org/wiki/New_Shepard#First_vertical_soft_landing
+Didn't the Falcon 9 first stage also softly land from that height after putting something into space? Why do they say that New Shepard is the first one to do so?

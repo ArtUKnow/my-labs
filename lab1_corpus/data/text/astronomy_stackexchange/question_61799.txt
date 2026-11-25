@@ -1,0 +1,3 @@
+In professional practice, how are unresolved binaries statistically accounted for when deriving stellar mass functions?
+Many surveys note that unresolved binary stars can bias stellar mass function estimates. I understand that they can make single stars appear more massive, but I’m curious about the methodological correction. How do astronomers quantitatively model and correct for unresolved binaries when fitting observed luminosity distributions to derive the IMF?
+(I’m not asking for an equation from a single paper, rather, what is the current professional consensus on handling this systematically in modern surveys?)

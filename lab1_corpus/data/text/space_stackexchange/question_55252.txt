@@ -1,0 +1,5 @@
+When was the last single-junction single crystal silicon solar cell launched into space?
+I'm pretty sure the ISS's all-silicon solar cells are polycrystalline but I've just asked Are the original ISS solar panels single or polycrystalline silicon? What about the new ROSA roll-out arrays? to double check.
+These days double or triple junction photovoltaics are used to optimize efficiency on many if not most spacecraft, which use multiple semiconductor materials stacked together to absorb different wavelengths for higher efficiency.
+Question: When was the last single-junction single crystal silicon solar cell (for providing solar power to a spacecraft) launched into space?
+The premise of my question is that nobody launches single-junction single crystal silicon solar cells any more since processes for the growth of thin but high quality polycrystalline silicon on surfaces have been developed for the terrestrial PV industry.

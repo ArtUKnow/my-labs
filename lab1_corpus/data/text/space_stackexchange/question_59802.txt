@@ -1,0 +1,18 @@
+Python orbit simulation using TLE-tools and poliastro
+I have a source of satellite TLE data - similar to space-track.org. For testing purposes I would like to create a simulation that doesnt rely on the real source of data. I was able to download a json file containing TLEs for all the satellites I am interested in.
+My plan was to read in the json file with TLE data and create a python TLE object using TLE-tools and the from_lines() method. Once I have a TLE object I can convert it to a poliastro two body orbit using the to_orbit() method.
+So far so go. I'd like my simulation to produce live data - rather than just static TLEs - I created a separate process to propagate all of the orbits using the number of elapsed seconds since the previous update.
+I set up a flask REST api to serve the data up. When you request TLE data my intention was to "stop-the-world" temporarily and produce TLE data from the current state of all the orbits that have been nicely ticking along in the backgorund.
+I am having trouble generating TLEs from the poliastro two body orbits that I have - there is some canned data that I will need to store along with the orbit but that should be okay. What I am struggling with is I dont know how to get some of the parameters I need to generate my new TLEs. Here is an excerpt of the doco from TLE-tools:
+class tletools.tle.TLE(name, norad, classification, int_desig, epoch_year, epoch_day, dn_o2, ddn_o6, bstar, set_num, inc, raan, ecc, argp, M, n, rev_num)
+A few of the most confusing parameters are described as shown below:
+dn_o2 (float) – First time derivative of the mean motion divided by 2.
+ddn_o6 (float) – Second time derivative of the mean motion divided by 6.
+bstar (float) – BSTAR coefficient (https://en.wikipedia.org/wiki/BSTAR).
+I can get the mean motion from the poliastro two body orbit that I have but I have no idea about getting the first and second time derivates. Do you guys have any suggestions on how to get those values ?
+In the picture below describing the TLE format it seems to be suggesting the second derivative of mean motion is usually set to 0.0.
+Do you foresee any problem if I:
+Set 2nd derivative of mean motion to 0
+Set BSTAR to the value in the original TLE for 1st derivative of mean motion or ballistic coefficient
+Set 1st derivative of mean motion to the same value as BSTAR ?
+I think I can get all the remaining parameters from the poliastro orbit directly.

@@ -1,0 +1,59 @@
+What do these instructions for use of the Rudolphine Tables mean?
+I've been playing around with this English translation of the Rudolphine Tables. To get comfortable with doing calculations for my own dates of interest, I've been following the examples given at the end of this work in the "The Use of the Tables" section.
+The example given for finding the true longitude and latitude of the moon for the date March 1, 1653, has me a bit confused (Problem V, which starts on page 99).
+I get how the work arrives at the numbers it does for the moon's feigned place, the distance of the moon from the sun, and the distance of the sun from the moon's apogee. I am a bit confused about how it arrives at the numbers it does for the equation of light and thereafter. The instructions read:
+Likewise from the Sun's true place subtract the Moon's Apogaon, the remainder is the distance of the sun from the Moon's Apogaon, which if it be less than six signs, with each distance enter the Table Intituled Tabula Æquationis Luminis composita, as the Head, and Side of the Table directs; but if this distance be more than six signs, subtract six signs from it, as also six signs from the other distance of the moon's feigned place from the sun; and if subtraction cannot be made, add six signs to it.
+Thirdly, From these distances, changed or not, by the foregoing directions in the above mentioned Table, you may easily find the Æquation in the Angle of meeting; and according to the Title near the Margent in the Table, must be Added, or Subtracted to, or from the Moon's feigned place above found; and so you have the Moon's place in her Orb.
+But if the black Line, marked in the Table, be intercepted between the Angle of meeting and the Margent which the distance of the Moon from the Sun is found then the distance of the Sun from the Moon's Apogaon must be sought: in the Foot, and the distance of the Moon from the Sun in the further right, or left Margent; for those for which entrance is made in the bottom of the Table, and the Common Angle gives the Æquation, as the Title directs to be Added, or Subtracted to, or from the feigned place of Luna; and by this means you have the Moon's true place in her Orb
+How to correctly navigate the "Tabula Æquationis Luminis composita" has me most puzzled. If anyone with experience using the Rudolphine Tables can offer help, it would be much appreciated. Also, I know sometimes the tables in the version of this work that I linked to get a bit cut off. Here is a clearer version of the lunar tables if that helps. For convenience, below is a transcription of the values that the example problem is working with:
+s
+d
+m
+s
+Lune locus fictus
+04
+27
+13
+58
+Locus Solis ante
+11
+21
+57
+37
+Distance of the moon from the sun
+5
+5
+16
+21
+Locus Solis ante
+11
+21
+57
+37
+Apogaeon moon subtract
+6
+12
+20
+45
+Distance of the Sun from the Moon's Apogee
+5
+9
+36
+52
+Aquatio luminis Add
+29
+49
+Locus of Moon in Orbit
+04
+27
+43
+47
+Reductio
+5
+1
+11
+Locus of Moon in Ecliptic
+04
+27
+48
+48

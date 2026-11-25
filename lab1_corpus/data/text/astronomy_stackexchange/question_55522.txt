@@ -1,0 +1,5 @@
+Is there a specific area on the far side of the moon, directly below the L2 Lagrange point in the Earth/Moon system?
+It seems like there should be, and if so I wonder how large an area it is, if it changes size over time, and if it moves or wobbles in some way. On the latst point, I imagine it would certainly wobble if the Moon didn't rotate around the axis defined by it's center and L2, but maybe there are more complicated reasons such as non-uniform mass distribution, the Earth's influence, etc.
+I'm not asking for a specific solution, please don't work that hard! I am looking for insight onto the factors involved, and nuances based on these factors.
+Thank you!
+Nick

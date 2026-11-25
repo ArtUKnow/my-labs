@@ -1,0 +1,46 @@
+Does the ISS currently use "night glider mode" as part of its solar array positioning plan?
+I've seen several references on the site to a mode of ISS solar array position management called "night glider" where the solar arrays are turned to minimize drag when the ISS is on the night side of the Earth and power production isn't happening.
+How are the orientations of the ISS' eight independent solar arrays optimized?
+https://space.stackexchange.com/a/3843/6944
+(The above two links reference a Wikipedia article)
+https://space.stackexchange.com/a/50768/6944
+The source used by the Wikipedia article is...pretty general, sort of a broad brush overview of the ISS. The images it uses when discussing night glider show a very, very old ISS configuration, when the P6 truss was still pointing up to the zenith and was the only USOS solar array present.
+The only really good publicly available and fairly current general description of ISS systems and operations that I know of, The ISS - Operating an Outpost in the New Frontier, doesn't use the term, and its description of solar array operations doesn't seem to describe its use.
+Another constraint that has been
+applied to the USOS solar arrays is
+their use in reducing (or increasing)
+atmospheric drag on the ISS. Even
+at the orbital altitude of the ISS,
+there is enough of an atmosphere for
+the large surface area of the USOS
+solar arrays to cause drag on the ISS,
+especially when facing the direction
+of motion. This drag, although small,
+adds up over time, thus lowering the
+ISS attitude and causing the need
+for reboosts (see Chapter 7). To
+combat this constraint, the software
+used to calculate solar array angles
+to track the sun allows for biases to
+be applied. Biasing the solar array
+position can turn it more edge on to
+the velocity vector to reduce drag.
+Of course, this also turns it away
+from the sun, thereby reducing power
+generation and potentially causing
+longeron shadowing. This constrains
+when and how much bias can be
+used. As the ISS software developed
+over time, this biasing strategy was
+automated, which subsequently
+reduced the workload for ground
+controllers. Although uncommon,
+this strategy has occasionally been
+reversed to increase drag on the
+ISS to meeting visiting vehicle
+phasing constraints, as discussed in
+Chapter 14 (i.e., being in the right
+place at the right time for rendezvous
+or departure) without needing to burn
+propellant to deboost the ISS.
+Is "night glider mode" currently used?

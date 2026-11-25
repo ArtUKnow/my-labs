@@ -1,0 +1,5 @@
+Why do we have this ratio equation?
+In this video, they just throw us this equation below.
+$$\frac{\text{2 minutes}}{\text{24 hours}} = \frac{2R_M}{2\pi D_M}$$
+I can understand the earlier equation about the radius of earth and the distance from earth to moon. But I can't wrap my head around this one. What exactly happens in that 2 minutes?
+The video notes that everything appears to move because the Earth rotates, but also mentions quickly that the Moon moves relative to the stars because it rotates around the Earth. So what exactly does the 2 minutes represent for the purposes of this example?

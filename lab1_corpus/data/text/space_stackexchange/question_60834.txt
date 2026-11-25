@@ -1,0 +1,5 @@
+New to GMAT. Where do I start to build an orrery?
+The goal would be an animated, variable-speed, 2-D view from celestial north of the Sun and planets. A stretch goal would be showing photorealistic rotations of CelestialBodys as a function of time.
+I have been using SPICE and have the ephemeris files that (I think) GMAT will need.
+Which tutorials are most on-topic for such a project? There seem to be a lot. I've found OrbitView but there's mention that it's deprecated in favor of OpenFrames.
+Answers which don't exactly address that question but which do bear on the project will be welcome.

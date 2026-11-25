@@ -1,0 +1,25 @@
+Could an astronaut with a jump and a "jet pack" "jump" off of the Moon?
+The initial naïve question was:
+"Could an astronaut with a jump and a "jet pack" "jump" off of the Moon?" :)
+For fun, let's assume the optimal circumstances:
+Gemini era AMU ("jet pack") with a capability ($\Delta v$ I guess?) of about 250 feet per second (76.2 meters per second).
+Source is this Wikipedia article about astronaut propulsion unit.
+I can't find any weight for it but I assume it would, in the first place, be to heavy for a man to carry on the Moon - but let's ignore that.
+$\Delta v$ for Moon ascent seems to be in the range of $1600 \frac{\text{m}}{\text{s}}$ to $2600 \frac{\text{m}}{\text{s}}$ - depending on the acceleration.
+These are calculated for around $15 \frac{\text{m}}{\text{s}^2}$ acceleration I read.
+So I conclude:
+a high jump and the strongest, most dangerous jet pack ever built wouldn't be nearly enough to ascent from the Moon to the lowest possible orbit for an astronaut, would it? :)
+Did I miss something?
+EDIT:
+I learned a lot from other discussions and an online $\Delta v$ calculator:
+The astronaut (90kg) with empty jetpack (50kg) would weigh fueled (100kg) 240kg on Earth.
+The distinction between mass and weight seems unimportant as the $\Delta v$ calculator states:
+"Mass units are arbitrary; use whatever you like, as long as you're consistent."
+It seems to depend only on the ratio.
+This is backed by the fact that I get the same $\Delta v$ values, regardless of which I use: mass or weight.
+The best online sources I can find for $v_{exhaust}$ is $1800 \frac{\text{m}}{\text{s}^2}$ (which equals $183\ \text{I}_{sp}$).
+But these seem to be values from Earth.
+$\text{I}_{sp}$ seems different if there is no atmosphere.
+So the information to find is:
+What would be the $\text{I}_{sp}$ / $v_{exhaust}$ of the jetpack on the Moon?
+Maybe I can find a more popular vehicles information and interpolate the difference.

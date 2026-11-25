@@ -1,0 +1,4 @@
+Why are fins located on stage 2 of Iranian rocket Zol Janah?
+Iranian launch vehicle Zol-Janah has fin like structure on the second stage of the vehicle. Does aerodynamic characteristics of vehicle improve with fins near the centre of mass? Also will the fins cause delta-v penalty when added to second stage?
+Info: Zol-Janah is a 3 stage, 220kg to LEO capable launch vehicle.
+Youtube video of the Zol-Janah suborbital launch

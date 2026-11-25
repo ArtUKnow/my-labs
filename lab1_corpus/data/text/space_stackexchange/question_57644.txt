@@ -1,0 +1,17 @@
+JWST Halo Orbits for Dummies: can halo orbits be usefully approximated by Simple Harmonic Motion?
+Halo Orbits for Dummies: can halo orbits be usefully approximated by Simple Harmonic Motion?
+I am an undergraduate in the Kerbal Academy of Astrodynamics. Patched conics have given me an intuitive understanding of 2-body orbital mechanics. But 3-body problems (like halo orbits) are as mysterious as quantum physics.
+I’m hoping that, for small perturbations, an established L2 halo orbit can be treated as a simple harmonic oscillator. This would allow “orbital rules of thumb” that resolve some of the 3-body mystery.
+To qualify as a radial harmonic oscillator, we only need to show the restoring force (towards L2) is linearly proportional to displacement from L2.
+To demonstrate, consider an idealized 3-body system of Earth, Sun and JWST orbiting at L2. No Moon or Jupiter is present to make 4-body complications.
+Our rotating frame of reference has the Earth and Sun stationary. Since the frame of reference is rotating, we deal with centrifugal force (which we know is nonexistent in inertial frames.) Centrifugal acceleration acts parallel to the Sun-Earth axis (at right angle to the frame’s rotational axis). Centrifugal acceleration is equal to the sum of Sun and Earth gravitational accelerations because that is the definition of a Lagrange point.
+To simplify, we will only consider Earth’s gravity since similar results arise when the Sun’s gravity is included. The example uses the Z/X plane, but similar results arise from other planes of rotation around the X axis.
+The centrifugal force acts parallel to the X axis, but gravitational attraction acts radially towards the Earth’s center. This generates a radial restoring force R towards the L2 point. R is proportional to sin a. For small values of angle a, R is proportional to angle a.
+A restoring force proportional to displacement is the central requirement for Simple Harmonic Motion, and for a 2 dimensional Radial Harmonic Oscillator as described by Bertrand's Theorem.
+The condition of proportional radial restoring force only holds for the Y/Z plane at L2. Deviations closer (P1) or further (P3) from Earth create a destabilizing component to the R vector along the X axis as in the sketch below
+If this Simple Harmonic Oscillator model is valid, the following rules of thumb should apply to small, established halo orbits:
+All halo orbits at a given L2 will have the same orbital period, analogous to all swing periods of a pendulum being equal.
+Any circular halo orbit can be transferred to any other halo orbit by two tangential burns separated by 90* orbital phase angle. This is analogous to Hohmann Transfers, but in Hohmann Transfers the burns are 180* apart.
+Z and Y deviations are reasonably stable
+X deviations are destabilizing, particularly deviations towards earth since the instability is driven by an inverse square function.
+Question: Can Simple Harmonic Motion usefully model established L2 Halo Orbits?

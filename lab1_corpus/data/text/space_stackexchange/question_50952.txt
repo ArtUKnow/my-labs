@@ -1,0 +1,13 @@
+Rocket launch: closed vs. open loop?
+I've seen many comments that pitchover and gravity turn are "open loop" and that powered explicit guidance (PEG) leading up to orbital insertion are "closed loop."
+And this has me wondering what exactly is meant by open and closed loop.
+Because engine nozzle actuators are normally controlled with feedback loops that may themselves receive tracking commands from guidance feedback loops.
+This would be the case in PEG flight, where:
+Guidance is continuously using navigation data to revise its prediction of the rocket's state vector at orbital insertion to then update the required thrust vector to get there, and
+The lower-level thrust-vectoring controllers are continuously monitoring the rocket's deviation from the commanded thrust vector in order to then calculate the required engine nozzle actuator deflections to correct the deviation.
+So as you can see, there are two feedback loops, and it's unclear which of them people are referring to when they the rocket is flying "open loop."
+For sure I know that in PEG flight both guidance and thrust-vector control must be closed loop.
+What about pitchover and gravity turn?
+My original guess here was that guidance was open loop (just a preloaded "trajectory" that would give the rocket's attitude as a function of time), while the lower-level thrust vector controller remained closed loop (taking in the real-time deviation of the rocket from the preloaded attitude profile in order to calculate and issue corrective commands to the engine nozzle actuators).
+But it's also possible that instead of preloading the rocket's attitude profile, they would preload the engine nozzle actuator commands required to follow that path. In that case, there would be no guidance loop (as no attitude profile would have been loaded and none would be calculated during pitchover/gravity turn), and the lower-level thrust vector controller would be open loop (as it would be issuing preloaded engine nozzle actuator commands instead of calculating those on the fly from the deviations from some desired attitude profile).
+So I'm wondering which of these is meant when it's said that a rocket's flying "open loop"?

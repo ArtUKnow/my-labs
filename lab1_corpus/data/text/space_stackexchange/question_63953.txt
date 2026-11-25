@@ -1,0 +1,10 @@
+Perifocal to ECI using Argument of Latitude
+Suppose a satellite is orbiting Earth in a circular orbit.
+I know the following orbital elements:
+Inclination i,
+RAAN (Ω),
+Semi-major axis a (or orbit radius given that it is a circular orbit)
+Argument of latitude (u)
+I know that the rotation matrices used to obtain the ECI coordinates from Perifocal coordinates require RAAN, Inclination, and Argument of Periapsis.
+Since for circular orbits, the argument of periapsis and true anomaly are undefined, we make use of the argument of latitude. IS there a way to do the transformation from Perifocal to ECI frame using the Argument of Latitude instead of the Argument of Periapsis?
+I apologize for the noob question but I am new to these topics.

@@ -1,0 +1,3 @@
+What systems onboard the JWST are redundant and which are not?
+Examining the capabilities of the JWST I figured that a lot of systems, e.g. the rotation wheels are redundant in order to avoid/reduce risks of failure.
+Right now as I write this the Gimbaled Antenna Assembly Step happened and I wondered if there is a second antenna in case this step fails for whatever reason, and if not, what are the criteria applied when deciding whether backup systems are installed?

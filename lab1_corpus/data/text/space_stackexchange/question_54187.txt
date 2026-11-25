@@ -1,0 +1,14 @@
+Does transmitting from a few dishes significantly improve the performance of radar surveillance from Earth at GEO and beyond? If so, how exactly?
+The BBC's US wants giant radar in UK to track space objects says:
+Lt Col Jack Walker of the US Space Force told the BBC the US was "in discussion" with the UK about putting the radars "possibly in Scotland or further south".
+He said the site would house "anywhere from 10 to 15 parabolic antenna (large satellite dishes) for tracking and four to six for transmitting" and cover an area of about 1km square.
+Each radar dish will be 15 metres in diameter.
+Col Walker said the purpose of the system would be to "detect and track targets which could potentially be threats to our high-value assets".
+and this answer to How can we install a radar on radio telescopes like FAST or GMRT? in Astronomy SE discusses a similar-sounding cluster of mixed transmitting and receiving dishes for "China's near-Earth asteroids radar system" and the phasing of the dishes as discussed in the paper it links to.
+Radar surveillance is heating up!
+Question: Does transmitting from a few dishes significantly improve the performance of radar surveillance from Earth at GEO and beyond? If so, how exactly?
+Related:
+What would be a "big picture" understanding of how the orbits of Earth satellites are monitored?
+Detailed radar imaging of Tiangong-1; how do they do that? ("It was done with one single dish")
+Why is this astronaut placing a radar reflector?
+How does the SpaceBEEs' experimental passive radar reflector work?

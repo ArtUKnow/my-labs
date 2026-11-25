@@ -1,0 +1,10 @@
+Why "quiet cruise" of a spacecraft would cost NASA 30 mln $ a year?
+The 2022 Planetary Decadal Survey (Chapter 22) states that "quiet cruise" phase of an interplanetary spacecraft will cost about 30 million dollars a year for NASA. "Quiet cruise" means flight between launch an arrival to destination, with limited communication (about once in a couple of weeks) an no scientific activities.
+https://nap.nationalacademies.org/catalog/26522/origins-worlds-and-life-a-decadal-strategy-for-planetary-science
+Examination of recent Discovery and NF cruise costs indicates that a representative quiet cruise phase costs approximately $30 million per year.
+I was surprised it costs so much.
+What are the main factors for such high cost?
+Are official documents avalable for public where the costs are detailed?
+In my current view, the costs for small egineering team and communication can't be so high. The engineers don't do so much while there are no techinical problems with the spacecraft. DSN communication is expensive, but is done sparsely in cruise phase.
+Currently I can guess. First, reserves are needed for a case of technical problem. Second, on-Earth analogs of the equipment should be stored and maintained for this case. Example is the recent Lucy mission and its solar array deployment problem, that requires larger engineering team to analyse and model the solutions.
+Is 30 mln $ a worst-case estimate, or an average from previous missions?

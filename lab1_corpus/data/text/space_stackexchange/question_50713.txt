@@ -1,0 +1,6 @@
+Which orbital elements are normally targeted at launch?
+Say you launch a rocket for rendezvous with the ISS.
+You'll want to set the target orbital inclination and longitude of ascending node. These will ensure the rocket is in the plane of the ISS.
+You'll also want to set the target altitude and velocity. These will ensure your rocket enters a stable orbit from which to transfer closer to the ISS.
+Are there any other parameters you'd want to set? Would orbital eccentricity be important? If so, any comments on how you'd determine its appropriate value?
+What about the argument of periapse and true anomaly? Would you set any of these? Comments on how to set them?

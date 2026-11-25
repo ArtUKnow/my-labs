@@ -1,0 +1,11 @@
+How does ECOSTRESS measure both temperature and emissivity of the Earth's surface simultaneously? (Science package aboard the ISS)
+The This Week at NASA video A U.S. Commercial Spacecraft Departs the Space Station on This Week @NASA – July 2, 2021 includes the following quote:
+Data from NASA’s Ecosystem Spaceborne Thermal Radiometer Experiment on Space Station was used to map the extreme heat in the Pacific Northwest. The deep reds in the map illustrate the 120 degree Fahrenheit land surface temperatures recorded on June 25 (2021) in Seattle Washington.
+All time temperature records have fallen in multiple cities in the US and Canada during this heat wave, which the National Weather Service called historic and dangerous.
+and references and shows images of ECOSTRESS:
+ECOSTRESS (Ecosystem Spaceborne Thermal Radiometer Experiment on Space Station) is an ongoing scientific experiment in which a radiometer mounted on the International Space Station measures the temperature of plants growing in specific locations on Earth over the course of a solar year. These measurements give scientists insight into the effects of events like heat waves and droughts on crops.
+Wikipedia lists the various science data products for the spacecraft, and one of them is:
+Data Product Description Pixel Size
+ECO2LSTE.001 Land Surface Temperature and Emissivity 70 x 70 km
+Question: How does ECOSTRESS measure both temperature and emissivity simultaneously?
+It's a hard problem because a radiated spectrum will be the product of the Planck distribution and the spectral emissivity, and it is looking at the ground through Earth's atmosphere which is both radiating and absorbing thermal infrared light with its own complicated spectrum.

@@ -1,0 +1,56 @@
+Accuracy Comparison between VSOP87 and JPL DE441. What would be needed to be very exact in planetary predictions (Mercury to Mars) over 10,000 years?
+Especially in predicting a fourfould planetary syzygy (with Mercury, Venus, Earth and Mars) with a Mercury transit. The syzygy is on one side of the Sun (best explained and shown in the link I provide below).
+The question is is the JPL DE441 parameters needed to predict that accurate 6000 years or longer into the future or would the VSOP87 theory be sufficient (the differences are quite well understood).
+It would be very helpful if someone with expertise can look at the JDE dates I provide below (they were computed with VSOP87) and compare them to the JPL DE441 results.
+Links
+Planetary Syzygy: https://www.researchgate.net/figure/Approximate-true-to-scale-representation-of-the-positions-of-Mercury-Venus-Earth-and_fig2_397886954
+The computed astronomical dates are found on page 49-50
+JDE Dates for Comparison
+Year 7261 JDE 4373097.00488
+Year 12445 JDE 6266755.55351
+As Iam aware VSOP2013 was not used because problems arrived with it and because VSOP87 is only very accurate 2000 years into the past and future, there is the possibility that on other dates the fourfold planetary syzygy with a Venus or Mercury transit can be happening theoretically.
+Update for Mars:
+Hans Jelitto's P5 Program Syzygy Dates with Mars AU from JPL Horizons
+JDE Year Mars AU
+=====================================
+-1818813.77667 -9691.845 1.416
+-1790778.08803 -9615.086 1.432
+-1463199.29860 -8718.206 1.561
+-1135613.28929 -7821.306 1.646
+-1045106.26361 -7573.506 1.568
+-492135.45751 -6059.523 1.495
+-150537.15060 -5124.259 1.646
+-15654.33423 -4754.962 1.517
+60834.13961 -4545.544 1.426
+311928.64773 -3858.071 1.634
+402434.40305 -3610.274 1.607
+613802.18908 -3031.569 1.389
+641837.19908 -2954.812 1.475
+746366.77815 -2668.619 1.390
+969416.60704 -2057.930 1.611
+1297003.80471 -1161.026 1.661
+1387510.46824 -913.228 1.521
+1940480.90518 600.754 1.444
+1954490.74930 639.112 1.661
+2044997.03231 886.909 1.560
+2191576.37670 1288.230 1.621
+2282079.86037 1536.020 1.632
+2493450.15754 2114.732 1.390
+2521489.41998 2191.501 1.437
+2849066.01327 3088.376 1.587
+2939566.30702 3336.157 1.654
+3176650.26922 3985.271 1.667
+3178981.57686 3991.654 1.400
+3267156.02956 4233.067 1.554
+3820126.65275 5747.049 1.473
+3834138.13217 5785.411 1.657
+3836472.36564 5791.802 1.379
+3924642.67733 6033.204 1.593
+4161725.56802 6682.315 1.655
+4296612.30826 7051.623 1.530
+4373097.00488 7261.031 1.403
+4624193.65495 7948.510 1.654
+4819212.51626 8482.453 1.671
+4926065.39990 8775.007 1.373
+4954105.08050 8851.777 1.477
+5281682.80510 9748.654 1.628

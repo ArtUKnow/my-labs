@@ -1,0 +1,14 @@
+What is an "octet" in the context of NASA's LunaNET Interoperability Standard? ("internet on the Moon")
+The PDF Draft LunaNet Interoperability Specification, LN-IS Baseline V001 September 2, 2021 (found at https://esc.gsfc.nasa.gov/projects/TEMPO?tab=lunanet) has found its way to the popular press.
+4.2 LNSP-User Proximity Interfaces
+Table 10 provides a summary of the different interfaces for transmitting AOS (Advanced Orbiting Systems) frames across proximity links. PFS5 and PRS5 are designed to allow for the implementation of one-to-many interfaces, such as a forward link broadcast and a user to multiple provider return.
+In "Table 10 - LNSP–User Proximity Link Layer Service Interfaces" the coding and frame size columns contain the word "octets" and this term is not present anywhere else in the document, not even in the "Detailed Signal Definitions" section.
+There is substantial discussion of codings and high priority messages will be "notionally formatted in Concise Binary Object Representation (CBOR) formatting to allow
+for increased processing and transfer speeds between LunaSAR users and LunaNet users."
+Is "octet" just a fancy word for "byte" or is there a more rigorous, specific or technical definition?
+Question: What is an "octet" in the context of NASA's LunaNET Interoperability Standard? ("internet on the Moon")
+Related material and goodreads:
+LunaNet Interoperability Specifications
+Delay/Disruption Tolerant Networking; Reliable Solar System Internet Connection
+LunaSAR: An Astronaut's Lunar Lifeline; NASA Developing Search and Rescue Capabilities for Artemis Moon Missions
+Using the Moon to Address Earth’s Digital Inequality (NASA Artemis and the Greater Cleveland Partnership; it seems that "Cleveland (Moon) Rocks!" and original)

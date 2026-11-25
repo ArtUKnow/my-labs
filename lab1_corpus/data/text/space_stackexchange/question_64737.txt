@@ -1,0 +1,2 @@
+What is the feasibility of High Resolution (< 5m) Hyper spectral Imaging satellite?
+Many companies are coming up with claim of less than 5m resolution of hyper spectral imagery, although the payloads of such caliber could be built, I have come to the understanding that SNR would be too poor to extract any useful analytics. Does anyone know of a payload with high resolution imaging capabilities, while the detectors are providing good SNR. Do any techniques exist to make it viable.

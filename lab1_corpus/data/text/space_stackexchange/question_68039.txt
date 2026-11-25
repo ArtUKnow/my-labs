@@ -1,0 +1,7 @@
+Do we have any known examples of the "harmonic response" phenomenon causing structural failures in spacecraft?
+Engineers determined the most likely cause of the propellant leak was
+a harmonic response several times stronger than predicted, suggesting
+the vibrations during the ship’s climb into space were in resonance
+with the vehicle’s natural frequency. This would have intensified the
+vibrations beyond the levels engineers expected.
+https://www.wired.com/story/the-starship-program-hits-another-speed-bump-with-second-consecutive-failure/

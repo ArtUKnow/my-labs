@@ -1,0 +1,3 @@
+Will spaceX crewed boosters have a self-destruct mechanism?
+SpaceX's most recent launch went awry and they triggered the self-destruct. Crewed missions have a launch escape system which is a high-thrust rocket that can get the capsule clear of the main rocket body in emergencies.
+After the launch-escape, self-destructing the crippled rocket would reduce downrange threats to the ground. But for every safety feature you must consider what happens if it is accidentally activated. So presumably it's not worth the risk to include a detonate-booster feature on crewed missions?

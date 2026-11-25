@@ -1,0 +1,14 @@
+Why is Sirius wandering and how do we find it in the long term?
+I have recently been getting into astronomy because of the planetary parade.
+I just noticed that Sirus is nearly directly above the UTC +0 longitude on the 1st of January. That would make it very convenient to calculate your longitude in a pinch, if you have a clock and something to measure the Az-Alt with.
+But, then I looked far in the future and in the past and it is not the same.
+Why is it changing? My guess is that it's something about the way that all stars move in our sky, and all of them are changing by the same force (by which I mean that our frame of reference is changing).
+Otherwise, is it possible that Sirius is moving so drastically? If so, is there way to approximate the longitude offset for a given decade for a few thousand years into the past or future?
+A bonus question: if it is just Sirus changing so dramatically, what other stars visible from most of earth are good candidates for calculating longitude? I am specifically thinking of ones that change their location very little or very predictably over centuries.
+Update
+Some examples:
+2025-01-01 00:00 Sirius is at 23h57m
+2000-01-01 00:00 Sirius is at 23h54m -- not too different
+1583-01-01 00:00 Sirius is at 00h13m
+Then suddenly in 1582-01-01 00:00 it's at 00h53m
+If you jump back a millennium, it changes even more. By the year -12000, it's on the other side of the sky.

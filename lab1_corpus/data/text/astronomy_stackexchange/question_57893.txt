@@ -1,0 +1,8 @@
+Does the inclination of an orbital plane change due to pull from other orbiting objects?
+I don't mean precession. That's drift in the orbit around the center. I'm asking about drift of the tilt in the z-direction.
+Saturn's ring particles are held in a tight disk because when they drift above it. they are pulled back like sheep wandering from a herd.
+I thought that was what kept the sun in the galactic plane, but there was a fistfight about that in another thread.
+Each particle is in its own orbit, and that orbit exists in a plane. That plane is inclined relative to the mean plane. When the plane rotates, that's precession, though I see it as the orbit not being long enough to contain one summer-winter year, from a planet's point of view.
+I'm asking about the orbital plane rotating around one of the other 2 axes.
+QUESTION: Is it the case that over time, a lower-energy state would be tumbled into, in which all the objects' orbital planes align (after infinite time)?
+Is there a name for that parameter?

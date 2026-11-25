@@ -1,0 +1,98 @@
+Calculating Earth-Sun distance only using trigonometry and terrestrial measurements
+I have an interest in mathematics and astronomy, and my curiosity was piqued by the methodologies employed in contemporary solar distance measurement. Current practices use sophisticated instruments and celestial events, such as the transit of Venus, to calculate this distance. But then, how is the distance to Venus determined initially? Motivated by this inquiry, I undertook the challenge of calculating the Earth-Sun distance using only terrestrial measurements that are readily verifiable, coupled with basic trigonometry. However, as you will observe, there is a significant discrepancy between my findings and the accepted value of 1 Astronomical Unit (AU), which is approximately $\approx 150,000,000$ km. I am eager to understand and explain this variation. Below, I explain exactly what I did and what formula I derived.
+Method
+Start the process by selecting two points along the equator, separated by a distance $d$, and proceed to measure the solar altitudes $\alpha$ and $\beta$ (the angular height of the sun above the horizontal plane) simultaneously, using Coordinated Universal Time (UTC) on March 20th, 2023, during the spring equinox. The choice of the spring equinox is deliberate, aimed at simplifying the calculations, as the sun is positioned directly above the equator at this time. By incorporating these measurements with known terrestrial distances, its possible to derive a formula that can calculate the distance to the sun. This site was used to obtain the solar altitudes at different times at the two locations on Earth.
+Mathematical derivation
+I've drawn a figure in LaTex to explain the system and the measurements needed. The quantity of interest is the length $|CS|$.
+Figure 1:
+The notations are explained below.
+$A$ is the first location on the equator
+$B$ is the second location on the equator
+$C$ is the center of the earth
+$D$ is the intersection of $\overline{CS}$ and Earth's surface
+$E$ is NOT NEEDED
+$S$ is the position of the sun
+$\alpha$ is the angle between $\overline{AS}$ and the Earth-tangent at point $A$
+$\beta$ is the angle between $\overline{BS}$ and the Earth-tangent at point $B$
+$\alpha'$ is the angle between $\overline{AB}$ and the Earth-tangent at point $A$
+$\beta'$ is the angle between $\overline{AB}$ and the Earth-tangent at point $B$
+$\varphi$ is the angle $\angle{BSA}$
+$\theta$ is the angle $\angle{ABC} = \angle{BAC}$
+$d$ is the distance between $A$ and $B$ along Earths surface (NOT IN FIGURE)
+$r$ is the radius of Earth (NOT IN FIGURE)
+CALCULATIONS
+From figure 1, it's evident that $\alpha'=\frac{\pi}{2}-\theta$ and $\beta'=\frac{\pi}{2}-\theta$, so $\alpha' = \beta'$. The triangle $\triangle ACB$ is an Isosceles triangle since two of it's sides have the same length, $|AC|=|BC|=|DC|=r$. Thus $\gamma = \frac{d}{r}$ radians and $\theta = \frac{\pi-\gamma}{2}$. Moreover, $\angle{BAS} = \frac{\pi}{2}-\theta+\alpha$ and $\angle{ABS}=\frac{\pi}{2}-\theta+\beta$, so
+$$\varphi = \pi-(\angle{BAS}+\angle{ABS})=2\theta-\alpha-\beta. \tag 1$$
+Using the Law of Sines on the triangle $\triangle{ABS}$ we obtain the length $|AS|$ as
+$$\frac{\sin{\varphi}}{|AB|}=\frac{\sin{\angle{ABS}}}{|AS|}\Longleftrightarrow |AS|=\frac{|AB|\sin{\left(\frac{\pi}{2}+\beta-\theta\right)}}{\sin{\left(2\theta-\alpha-\beta\right)}},\tag 2$$
+where $|AB|$ is found using the Law of Cosines on the triangle $\triangle{ACB}$ as follows
+\begin{align}
+|AB|^2 &= r^2+r^2-2r^2\cos{\gamma} \tag 3 \\
+&= 2r^2-2r^2\cos{\gamma} \tag 4\\
+&= 2r^2(1-\cos{\gamma}) \tag 5 \\
+&\Leftrightarrow |AB|=r\sqrt{2(1-\cos{\gamma})}. \tag 6
+\end{align}
+It follows that
+\begin{align}
+|AS| &= \frac{r\sqrt{2(1-\cos{\gamma})}\sin{\left(\frac{\pi}{2}+\beta-\theta\right)}}{\sin{\varphi}} \tag 7 \\
+&= \frac{r\sqrt{2(1-\cos{\gamma})}\sin{\left(\frac{\pi}{2}+\beta-\theta\right)}}{\sin{(2\theta-\alpha-\beta)}}. \tag 8
+\end{align}
+Since $\theta=\frac{\pi-\gamma}{2}$ we can rewrite equation $(8)$ as
+$$|AS|=\frac{r\sqrt{2(1-\cos{\gamma})}\sin{\left(\frac{\pi}{2}+\beta-\frac{\pi-\gamma}{2}\right)}}{\sin{\left(\pi-\gamma-\alpha-\beta\right)}}. \tag 9$$
+At this stage, in triangle $\triangle{ACS}$ we have expressions for the side length $|AS|$ as well as the angle $\angle{CAS}=\frac{\pi}{2}+\alpha.$ We can now calculate the length of the line segment $|CS|$ using, again, the Law of Cosines. It follows that
+\begin{align}
+|CS|^2 &= |AS|^2+r^2-2|AS|r\cos{(\triangle{CAS})} \tag {10} \\
+&= |AS|^2+r^2+2|AS|r\sin{\alpha} \tag {11} \\
+&\Leftrightarrow |CS| = \sqrt{|AS|^2+r^2+2|AS|r\sin{\alpha}} \tag {12}.
+\end{align}
+Equation $(12)$ is the complete formula for calculating the distance $|CS|$ which is the sought distance. This expression is expressed in terms of the constant parameters $r,d$ and the solar altitude variables $\alpha,\beta$. We can therefore write the solar distance as a two dimensional function of $\alpha,\beta$ as
+$$\boxed{f(\alpha,\beta) = \sqrt{|AS|^2+r^2+2|AS|r\sin{\alpha}},} \tag {13}$$
+where
+$$|AS|=\frac{r\sqrt{2(1-\cos{\left(\frac{d}{r}\right)})}\sin{\left(\beta+\frac{d}{2r}\right)}}{\sin{\left(\frac{d}{r}+\alpha+\beta\right)}}.\tag{14}$$
+Implementation and results
+The the solar angle data was meticulously collected from this site and the coordinates of the locations chosen were precisely $(0.00^{\circ} \ N \ \& \ 38.00^{\circ} \ E)$ in Kenya and $(0.00^{\circ} \ N \ \& \ 102.00^{\circ} \ E)$ in Indonesia.
+The following Python function was implemented to compute the distances.
+def TrigSunDistCalc(alpha, beta, r=6371, d=7022) -> float:
+alpha = np.radians(alpha)
+beta = np.radians(beta)
+AS = (r*np.sqrt(2-2*np.cos(d/r)) * np.sin(beta + d/(2*r)))/np.sin((d/r) + alpha + beta)
+return np.sqrt(AS**2 + r**2 + 2*AS*r*np.sin(alpha))
+The data collected is listed below. The first three columns are the data collected, and the last column are the distance computations using formula $(13)$.
+UTC timestamp alpha (deg) beta (deg) f(alpha,beta) (km)
+2023-03-20 04:00:00 70.09 6.23 12473.79
+2023-03-20 04:15:00 73.84 9.93 14330.11
+2023-03-20 04:30:00 77.59 13.66 17240.05
+2023-03-20 04:45:00 81.34 17.39 22501.05
+2023-03-20 05:00:00 85.09 21.13 35126.19
+2023-03-20 05:15:00 88.81 24.88 107257.45
+2023-03-20 05:30:00 87.39 28.62 401439.37
+2023-03-20 05:45:00 83.65 32.37 420292.46
+2023-03-20 06:00:00 79.9 36.12 432584.44
+2023-03-20 06:15:00 76.15 39.86 437796.79
+2023-03-20 06:30:00 72.41 43.61 451547.27
+2023-03-20 06:45:00 68.66 47.36 458162.22
+2023-03-20 07:00:00 64.91 51.11 462815.52
+2023-03-20 07:15:00 61.16 54.86 465487.26
+2023-03-20 07:30:00 57.41 58.61 466165.98
+2023-03-20 07:45:00 53.66 62.36 464848.77
+2023-03-20 08:00:00 49.91 66.11 461541.28
+2023-03-20 08:15:00 46.16 69.86 456257.67
+2023-03-20 08:30:00 42.41 73.61 449020.59
+2023-03-20 08:45:00 38.66 77.36 439861.03
+2023-03-20 09:00:00 34.92 81.11 434005.34
+2023-03-20 09:15:00 31.17 84.85 415976.26
+2023-03-20 09:30:00 27.42 88.59 396617.94
+2023-03-20 09:45:00 23.68 87.64 63259.84
+2023-03-20 10:00:00 19.94 83.89 29524.81
+2023-03-20 10:15:00 16.2 80.14 20407.52
+2023-03-20 10:30:00 12.46 76.39 16140.45
+2023-03-20 10:45:00 8.74 72.64 13652.85
+2023-03-20 11:00:00 5.05 68.89 12010.82
+Below, the computed distances are plotted in a graph with varying UTC timestamps.
+Figure 2:
+Conclusions & Questions
+Clearly my results differ a lot from today's accepted 1 AU. The distances are symmetrical around 07:30 UTC and there is a lot of variation, from roughly 12 000 km to 466 000 km. I want to explain why this is. I've listed some potential error sources:
+Error in my calculations. However I want to believe that they are all correct unless I'm missing some detail. I've also asked 2 other people with math knowledge to verify the derivation and none of them could find any error.
+Angular measurements and their precision. The accuracy of the angles of elevation (alpha and beta) is crucial. Small errors in angle measurement can lead to large errors in the calculated distance. This is especially true for trigonometric functions, which can vary significantly with small changes in the input angles. This I can't verify since I do not know how these angles were measured but at least they are given with two decimals. Could a slight variation/error in these cause the distance to jump from 12 000km to 150 000 000 km? Even if there are minor errors in the angles, it seems far fetched and quite unbelievable that the distance should suddenly drop down to 0.00008 %. If this is the case, I'd want to know how.
+Atmospheric refraction. However accounting for this, the distances computed should be closer since the perceived position is further away (larger solar angle) than the true position and the $\alpha,\beta$ are calculated based on the perceived position according to the website. So atmospheric refraction can't be the answer to the large discrepancy.
+Eventually, my question boils down to: why are my results so far away from 1 AU?

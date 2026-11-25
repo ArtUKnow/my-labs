@@ -1,0 +1,2 @@
+How is the turbine in a rocket engine started?
+I know that liquid rocket engines use a turbine to drive pumps that lead the Oxidizer and Fuel into the combustion chamber and that this turbine has a combustion chamber called the pre-burner. According to my knowledge, the Oxidizer and Fuel are first pumped into the pre-burner to start the turbine. But how is this Oxidizer and Fuel pumped in the first place with the turbine being off for engines like the RS - 25? do they have separate methods? and if so, what are they?

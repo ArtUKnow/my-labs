@@ -1,0 +1,2 @@
+Star Tracker Absolute Accuracy
+Blue Canyon Technologies states their standard nano star tracker accuracy is about the cross-axis (6 arcsec) and boresight (40 arcsec). How do I calculate the absolute accuracy the star tracker would provide?

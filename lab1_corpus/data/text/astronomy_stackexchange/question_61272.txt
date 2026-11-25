@@ -1,0 +1,17 @@
+What fraction of the sky are Hubble ultra-deep field and JWST deep field?
+The Wikipedia articles for Hubble ultra-deep field and JWST deep field give a field of view of 2.4 arcminutes x 2.4 arcminutes.
+Hubble ultra-deep field:
+the rectangular image is 2.4 arcminutes to an edge, or 3.4
+arcminutes diagonally
+JWST deep field:
+covering an area of sky with an angular size of 2.4 arcminutes
+With a lot of search, I confirmed that it matches with the primary sources:
+Hubble:
+Dimensions This image is roughly 2.4 arcminutes wide.
+JWST:
+Dimensions Image is about 2.4 arcmin across
+Now, the entire sky is $360*60 = 21600$ $arcminutes^2$.
+Therefore, the fraction of sky covered by the deep fields should be: $(2.4/21600)^2 = 1/81000000$.
+However, the same Hubble ultra-deep field wikipedia article goes on to mention:
+equal to roughly one twenty-six-millionth of the total area of the sky
+Is this a mistake? What are the correct values?

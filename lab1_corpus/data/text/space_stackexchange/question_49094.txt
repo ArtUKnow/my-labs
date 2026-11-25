@@ -1,0 +1,17 @@
+Ion thrusters don't need to neutralize ions?
+EDITED: According to the answer of @asdfex, since the ions leave with a velocity = escape velocity so when they approach an infinite distance the net thrust is 0, this means that:
+The total net thrust is 0 only when the ions approach infinite distances?
+The ion thruster expels the ions for a few seconds or minutes (depending on the mission) but after this event the satellite returns to a potential 0, this means that the ions are no longer attracted to the satellite, so there is constant net thrust without sending the electrons with the ions?
+...........
+From the book "Fundamentals of Electric Propulsion: Ion and Hall Thrusters " the ion ion velocity leaving the thruster is:
+$$v_i=\sqrt{\frac{2eV_b}M}.$$
+But this is equal to the escape velocity (that is, the minimum velocity that the ion should take to avoid returning to the satellite), demonstration:
+First you set the potential energy at $R$ equal to the kinetic energy at infinity:
+$$KE(r=∞)=PE(r=R)$$
+Or,
+$$\frac{mv^2}2=\frac{k_eQq}R$$
+(assuming escape from a spherical charge)
+$$v=\sqrt{\frac{2k_eqQ}{mR}}$$
+assuming escape from a spherical charge, the potential grid of the accelerator is $V=\frac{kQ}R$.
+This means that the objective of the electron gun is not to neutralize the ions so that they don't return to the satellite (as I have seen and read in several articles and videos) but rather to expel them from the satellite so as not to charge the satellite negatively (since in the ionization process, 2 electrons are obtained per ion and the accumulated electrons would charge the satellite negatively), am I correct?
+If I am correct, that could mean that it doesn't matter to expel the electrons on the opposite side from which the ions come out, the objective is not to charge the satellite.

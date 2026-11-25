@@ -1,0 +1,4 @@
+How to convert the heliocentric gravitational constant into astronomical units?
+I've written a fortran program to pass from orbital elements to state vector of an asteroid database within an heliocentric reference frame. The semi-major axis (SMA) in orbital elements vector data is in AU. My subroutine requires that SMA and heliocentric gravitational parameter (MU) are in the same measure unit.
+To avoid other conversion when I will plot my data x,y,z (where I will use AU) I want to convert MU into AU.
+I do the following computations, can you tell me if they are correct? Do you know an online converter?

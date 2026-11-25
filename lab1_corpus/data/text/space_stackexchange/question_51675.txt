@@ -1,0 +1,13 @@
+At the end of the test campaign, could Ingenuity be programmed to fly fully autonomously to the planned sample cache depot location?
+From an interview with Tim Canham, Mars Helicopter Operations Lead at JPL in the article How NASA Designed a Helicopter That Could Fly Autonomously on Mars:
+It has a sequencing engine on board, and we write a set of sequences, a series of commands, and we upload that file to the helicopter and it executes those commands. We plan the guidance part of the flights on the ground in simulation as a series of waypoints, and those waypoints are the sequence of commands that we send to the guidance software. When we want the helicopter to fly, we tell it to go, and the guidance software takes over and executes taking off, traversing to the different waypoints, and then landing.
+But in this case Ingenuity doesn't need waypoints, just direction and distance !
+We use a cellphone-grade IMU, a laser altimeter (from SparkFun), and a downward-pointing VGA camera for monocular feature tracking. A few dozen features are compared frame to frame to track relative position to figure out direction and speed, which is how the helicopter navigates. It's all done by estimates of position, as opposed to memorizing features or creating a map.
+(Emphasis by me)
+So Ingenuity doesn't need (and has not) a terrain database and thus will not need the processing power to consistently match images with that !
+From Guidance and Control for a Mars Helicopter:
+The camera is used together with the laser rangefinder to determine the height above ground and the translational velocity; this information is fused with the IMU solution to limit drift over time. Details of the navigation design will be published in a future paper.
+Fig.6 in that article shows us the sequence of Mode Commander states and transitions, and that in the Idle state command from ground station is awaited.
+Could not somehow in the last file upload the exit of the command signal from the ground station be replaced by the exit of an internal signal, for instance from a temperature control unit or from a unit that monitors the battery voltage ?
+Or the exit from a signal from an internal timer so that the flight could take place at a certain time each (other) day ?
+Looking at Possible Path for Perseverance Rover and MARS 2020 ROVER Depot Caching Strategy, the sample cache depot might be at the entrance of Neretva Vallis, about 10 km away from the current position of Ingenuity. So if the helicopter could fly in that direction a hundred meters every other day, it would arrive at the depot location in 200 days, well before Perseverance could show up there.

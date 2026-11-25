@@ -1,0 +1,6 @@
+Why are Starship's tanks curved the way they are?
+Since Starship has to feed its engines in two kind of situations :
+-during ascent, acceleration is colinear to Starship's longitudinal axis.
+-at the end of the belly dive, acceleration is normal to Starship's longitudinal axis.
+Why is the bottom of both LOX and LCH4 tanks curved the way they are? At first glance it looks like having a central piping/engine feeding, is the most efficient and safest solution to feed engines during ascent, yet it requires using header tanks to restart after belly dive.
+Wouldn't a reversed curvature combined with radial feeding allow the engines to work in both configurations, without needing header tanks? (radial feeding located at belly side)

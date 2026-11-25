@@ -1,0 +1,9 @@
+How close were Starlink-1095 and Starlink-2305 to the Tiangong Chinese Space Station?
+Various news outlets reported on the Chinese government complaining about SpaceX Starlink satellites (#1095 and #2305) getting so close to their Tiangong Space Station that they had to initiate evasive maneuvers to avoid a collision. The Chinese government requested the United Nations draw attention to this incident in the context of the responsibilities of states parties to the Outer Space Treaty.
+The incidents are described as follows:
+1. The first collision avoidance
+As from 19 April 2020, the Starlink-1095 satellite had been travelling stably in orbit at an average altitude of around 555 km. Between 16 May and 24 June 2021, the Starlink-1095 satellite manoeuvred continuously to an orbit of around 382 km, and then stayed in that orbit. A close encounter occurred between the Starlink-1095 satellite and the China Space Station on 1 July 2021. For safety reasons, the China Space Station took the initiative to conduct an evasive manoeuvre in the evening of that day to avoid a potential collision between the two spacecraft.
+2. The second collision avoidance
+On 21 October 2021, the Starlink-2305 satellite had a subsequent close encounter with the China Space Station. As the satellite was continuously manoeuvring, the manoeuvre strategy was unknown and orbital errors were hard to be assessed, there was thus a collision risk between the Starlink-2305 satellite and the China Space Station. To ensure the safety and lives of in-orbit astronauts, the China Space Station performed an evasive manoeuvre again on the same day to avoid a potential collision between the two spacecraft.
+The full text can be found here.
+Question: how close did Starlink-1905 and Starlink-2305 get to the Tiangong space station?

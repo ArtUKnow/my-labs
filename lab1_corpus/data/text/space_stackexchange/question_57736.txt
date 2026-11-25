@@ -1,0 +1,7 @@
+Has a cubesat ever caused a problem for another spacecraft? Examples? Close calls?
+Cubesats can pose some unique challenges; they are small and so potentially a little harder to track, have larger area/mass so more subject to forces that can change their trajectories, are often less reliable and are more frequently DOA or "go dark" more often, and usually have little or no ability to maneuver.
+At the same time they do undergo substantial scrutiny before launch and except for some special ones built by space agencies are put into predetermined low Earth orbits where they'll decay and reenter in a relatively short period of time.
+Question: Has a cubesat ever caused a problem for another spacecraft?
+For example, I remember somewhere on this site a mention of a problem with magnets in one cubesat causing trouble from an adjacent cubesat during deployment, and that would count if someone can find it.
+But it would be more interesting to hear about a pranksat or one that accidentally hit a spy satellite on it's way to reenter the atmosphere.
+And problems don't have to involve contact; if a cubesat's trajectory forced another spacecraft to undergo an unplanned collision avoidance maneuver, that would count as well.

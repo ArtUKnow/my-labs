@@ -1,0 +1,9 @@
+Ablative heat shield and conservation of energy, how much does ablated matter in fact "carry away" versus re-radiate the absorbed heat?
+I saw
+Most heat shields ablate, that is they sacrifice material to carry heat away...
+in a comment under this answer and started writing:
+I think that shields ablate to produce a layer of complex organic molecules that are opaque to infrared radiation, decreasing the heat load from the hot plasma in the shock wave in front of the heat shield. There is way too little material to "carry away" one hundred billion Joules.
+but then I stopped because of course if the ablated and gasified material is opaque to thermal IR then it must absorb the power in the IR and all that absorbed power has to go somewhere.
+I assumed an Apollo-like 5,000 kg capsule and 11 km/s reentry and assigned 1/3 of the kinetic energy to absorbed energy in the absorbing ablated layer as just a guess.
+But instead of leaving that comment I thought I'd ask for some real insight in the form of a question.
+Question: How much heat does ablated matter in fact "carry away" as heated material? How much does it simply re-radiate back towards the plasma sheath? Can these be expressed as a fraction of the total energy dissipated stopping the capsule? Can they also be expressed in Joules/kg of ablated material?

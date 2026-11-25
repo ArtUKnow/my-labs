@@ -1,0 +1,2 @@
+Why do cryogenic fuels want an extra pressure tank?
+I do see the need to provide pressurizing gas with non cryogenic fuels (like RP-1) but if you require to have it at very low temperatures anyway to keep it liquid and the pressure in the tank drops, all you'd have to do is make the cryogenic fuel a bit warmer to increase pressure again?

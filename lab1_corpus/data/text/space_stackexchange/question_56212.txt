@@ -1,0 +1,5 @@
+How much delta-v could be saved with a Hohmann-like transfer orbit to the aphelion of Mercury 's orbit instead of its perihelion?
+I wrote "Hohmann-like" of course because Mercury's orbit is rather eccentric and has an inclination of 7 ⁰.
+From this factsheet I've learned that perihelion is at 46 million km and aphelion at about 70 million km from the Sun with velocities at those points of 59 km/sec. and 39 km/sec. respectively.
+Because there's such a big difference in the delta-v's for transfer orbits to Venus and Mercury of 2.5 km/sec. and 7.5 km/sec. respectively, I suppose the difference for the perihelion and aphelion of Mercury's orbit could also be considerable !
+An additional factor to determine the most economic transfer orbit could be the choice of the best possible launch window for the aphelion, if there are such windows in the first place.

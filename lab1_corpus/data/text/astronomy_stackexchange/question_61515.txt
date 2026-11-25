@@ -1,0 +1,4 @@
+Getting Stellarium to show 16th magnitude stars?
+How do I get Stellarium to show mag 16 stars? I have changed star magnitude in the viewing options to 16 but nothing changes, no extra stars.
+I took images last night (hopefully on Comet 3I/ATLAS) but need Stellarium so show fainter objects.
+I am currently using version V25.2

@@ -1,0 +1,9 @@
+Could the Columbia crew have survived if the RCS had not been depleted?
+I ask this question because of a comment made by John Connolly, NASA engineer and director of the International Space University.
+To quote Connolly, "..when he (Rick Husband) saw that the RCS was saturated, he knew they were dead."
+This suggests two things to me-
+The commander and pilot realised that the reaction control system (RCS) was firing constantly and the only thing maintaining reentry profile.
+If the RCS had enough propellants left to maintain the orbiter within its flight corridor for a while longer, there was the possibility that the crew could have bailed out.
+This bailout scenario would involve the orbiter descending to an altitude of 25,000 feet (from 200,000 feet), maintaining a nominal deceleration profile, the left wing, or a large part of it, (for drag not lift) remaining attached to the vehicle and the RCS having enough thrust (and fuel) to control the disintegrating orbiter.
+Apparently the RCS was able to maintain correct drag profile and its saturation was the immediate cause of loss of control, of course along with a lot of other things occurring at that time.
+That's a lot of "ifs" I know and without one of them (and probably a lot of others) breakup, ballistic reentry and loss of crew is the only other alternative.

@@ -1,0 +1,3 @@
+RCS thruster temperature
+How fast does an RCS thruster heat up if it's fired continuously? Will it stabilize at a maximum temperature? Does it need to be shut off before it melts itself? What would that temperature be if so? And how fast does it cool down once firing has stopped?
+Let's assume a medium sized (100N?) UDMH+N204 thruster.

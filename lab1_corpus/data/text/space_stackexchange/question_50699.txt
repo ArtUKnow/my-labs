@@ -1,0 +1,2 @@
+Will the Starship skirt envelope heat during landing?
+Starship lands on the pad using the landing burn of 1-2 raptor engines. The landing legs offer little vertical clearance from the ground, whereas during lift off, the suborbital launch pad provides enough ground clearance. During landing, the heat from the landing burn can be enveloped by the Starship skirt and put the craft in danger. How far does this theory of mine hold true?

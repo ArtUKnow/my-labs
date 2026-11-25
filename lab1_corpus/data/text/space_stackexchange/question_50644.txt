@@ -1,0 +1,9 @@
+Did the rovers' cruise balance masses have a noticeable impact on Mars?
+Perseverance (2021) and Curiosity (2012) each ejected, among many other things, two tungsten "cruise balance masses" before reaching Mars's atmosphere, each about 70 kg.
+Were their impacts on the surface noticeable, either by craters visible from orbiting cameras, or by Insight's seismometer?
+Some sizeable fragments should have reached the surface intact:
+Tungsten's melting point is 3700 K, while Perseverance's heat shield encountered at most 2400 K.
+Tungsten is twice as dense as the nickel-iron meteors that penetrate even Earth's atmosphere.
+They would hit the surface at a speed not much less than the approach speed of 5 km/s; the full 70 kg would pack a wallop of almost a gigajoule, about half of "the kinetic energy of a Airbus A380 at cruising speed" per Jalopnik.
+Seismometers recorded on 2007 Sept 15 a 17 GJ
+meteorite impact in Peru whose crater was 14 m wide, so it seems plausible that a 1 GJ impact would be both seismographically noticeable (Mars is much more quiescent than Peru) and visible (MRO never ceases to amaze).

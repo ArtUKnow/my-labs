@@ -1,0 +1,31 @@
+Saving fuel by capturing the spacecraft with a vehicle at arrival
+Let's say a spacecraft (SC) reached a planet but does not have any fuel left for orbit insertion around it and aerobraking is not possible.
+Another spacecraft already on this orbit, call it arrival vehicle (A) carrying additional fuel, is accelerated to rendevous with SC and dock such that both can now get into orbit.
+Investigating, when this catching maneuver can save fuel, compared to the usual way where the SC itself carries the fuel for insertion, I found that this is beneficial if and only if
+$$\Delta v_\text{start} > \Delta v_\text{insert},$$
+where $\Delta v_\text{start}$ is the $\Delta v$ required to reach the planet (all the burns that happend before the insertion along its trip) and $\Delta v_\text{insert}$ to only get into orbit.
+Is my result legit? Has a similar maneuver ever been considered or are there better ways to save fuel during orbit insertion?
+Calculations:
+Assume instant burns, let $c=\frac{1}{g_0 I_\text{sp}}$, where $g_0$ is standard gravity and $I_\text{sp}$ the specific impulse. According to the rocket equation the fuel mass $f$ required, for a spacecraft of dry mass $M$, to execute a maneuver with given $\Delta v$ is
+$$f = M (\exp(c \Delta v )-1).$$
+Let $M_\text{SC}$, $M_\text{A}$ be dry mass of the spacecraft and the arrival vehicle.
+Doing this the conventional way we get for the fuel mass required
+\begin{align}
+f_\text{old} &= f_\text{SCinsert} + f_\text{wetstart}\\
+f_\text{SCinsert} &= M_\text{SC} (\exp( c\Delta v_\text{insert} )-1)\\
+f_\text{drystart} &= M_\text{SC} (\exp(c \Delta v_\text{start} )-1) \\
+f_\text{wetstart}&= f_\text{SCinsert} (\exp(c \Delta v_\text{start})-1) + f_\text{drystart}
+\end{align}
+Using the catching we have
+\begin{align}
+f_\text{new} &= f_\text{rendevous} + f_\text{Ainsert} + f_\text{SCinsert} + f_\text{drystart} \\
+f_\text{Ainsert} &= M_\text{A} (\exp(c\Delta v_\text{insert})-1) \\
+f_\text{rendevous} &= (f_\text{Ainsert} + f_\text{SCinsert}) (\exp(c\Delta v_\text{insert})-1) + f_\text{Ainsert}
+\end{align}
+In comparison
+\begin{align}
+f_\text{old} - f_\text{new} &= f_\text{wetstart} - f_\text{rendevous} - f_\text{Ainsert} - f_\text{drystart}\\
+&= f_\text{SCinsert} (\exp(c \Delta v_\text{start})-1) - 2f_\text{Ainsert} - (f_\text{Ainsert} + f_\text{SCinsert}) (\exp(c\Delta v_\text{insert})-1) \\
+&= f_\text{SCinsert} \left(\exp(c \Delta v_\text{start}) - \exp(c\Delta v_\text{insert})\right) - f_\text{Ainsert} (\exp(c\Delta v_\text{insert})+1),
+\end{align}
+which means for negligible vehicle dry mass, we save fuel if and only if $\Delta v_\text{start} > \Delta v_\text{insert}$.

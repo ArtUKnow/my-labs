@@ -1,0 +1,4 @@
+Does the SpaceX Falcon 9 first stage fleet, fly in order?
+SpaceX by the end of 2020, made it very clear that they have solved the first stage reflight problem. Two cores have flown 7 times. Several are over 4 flights. At the beginning of 2021 they have about 8 active flown cores.
+Thus the question I am trying to ask revolves around the ordering of reuse of cores. Are they simply using the cores in order as they finish refurbishment?
+Obviously this is a bit tricky, as some customers require (demand?) a new core for missions, so every so often a new core is introduced into the fleet. Every so often a core is lost on landing (twice in 2020 I believe).

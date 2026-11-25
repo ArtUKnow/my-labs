@@ -1,0 +1,16 @@
+Is there a word for an object orbiting a brown dwarf?
+In my answer to this question someone posed somewhere:
+If an Earth-massed moon orbits a planet that has 74-83 times Jupiter’s
+mass, would the Earth massed moon still be a moon, or a planet?
+I wrote:
+A planetary mass object is an object with a mass large enough to be gravitationally rounded and less than about 13 times the mass of Jupiter or about 4,131.4 times the mass of Earth.
+A planet is an object orbiting a star and having a mass in the range of a planetary mass object - large enough to be gravitationally rounded and less than about 13 times the mass of Jupiter or about 4,131.4 times the mass of Earth.
+An object which orbits around a planet is called a natural satellite or a moon.
+A brown dwarf is an object with a mass of at least about 13 times the mass of Jupiter or about 4,131.4 times the mass of Earth and less than about 75 times the mass of Jupiter or about 23,835 times the mass of Earth.
+A star is an object with a mass at least about 75 times the mass of Jupiter or about 23,835 times the mass of Earth, and less than a few hundred times the mass of the Sun.
+An object which orbits around a star and has a mass large enough to be gravitationally rounded and less than about 13 times the mass of Jupiter or about 4,131.4 times the mass of Earth is a planet.
+An object which has a mass of 74–83 times Jupiter’s mass is not a planet. By definition it is near the dividing mass between brown dwarfs and low mass stars. So since by definition the Earth-massed object in the question is not orbiting a planet but either a brown dwarf or a star, it must not be classified as a moon orbiting a planet but must be classified as an object orbiting a brown dwarf or a star.
+The word for a planetary mass object orbiting a star is planet.
+And so far as I know there is no word for an object orbiting a brown dwarf, which is illogical as long as brown dwarfs are considered to be objects different from planets and from stars.
+There should be a word for objects orbiting brown dwarfs. Like planoon or moonet or ooabd (object orbiting a brown dwarf) or nsoabd (natural satellite of a brown dwarf) or something.
+So is there an astronomical word for objects that orbit brown dwarfs?

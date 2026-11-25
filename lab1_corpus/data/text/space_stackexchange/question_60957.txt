@@ -1,0 +1,3 @@
+"Semi" hybrid rocket? Throttleable solid fuel rocket?
+Are there any published examples of "hybrid" rockets that used a propellant grain of mixed solid fuel and oxidizer where the injected component was only needed to sustain the burn without providing the majority of either component?
+I'm thinking of a solid propellant grain that is just a bit too oxidizer (or fuel) poor to sustain burning on its own but can burn with just a little of what's missing being injected. By playing with the mixtures, I'm thinking it might be possible to make such a design throttleable (or at least allow it to turn off and possibly re-light) while retaining much of the advantage of a solid fuel rocket.

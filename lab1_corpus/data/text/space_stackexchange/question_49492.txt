@@ -1,0 +1,14 @@
+Why is the LOX header tank on Spacex Starship at the front of the vehicle?
+At the moment, the design of Spacex's Starship is roughly, from bottom to top:
+Engines
+Liquid Oxygen (LOX) tank
+Liquid Methane (CH4) header tank
+Liquid Methane tank
+Payload
+Liquid Oxygen header tank
+(See the diagram below for an illustration)
+In this configuration the LOX header tank is quite far from the engines. Isn't this detrimental to the quick restarts the header tanks are designed for?
+In addition, the LOX header tank at the front seems quite vulnerable to micrometeorites and other impacts, while the CH4 header tank is better protected as there are multiple sheets of steel separating it from space.
+Why aren't both header tanks below the payload?
+It seems to me that there is sufficient space to have both header tanks next to theirs main tanks counterparts, all while ensuring the header tanks are at a safe distance from each other.
+Image source

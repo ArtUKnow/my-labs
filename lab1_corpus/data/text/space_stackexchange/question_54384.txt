@@ -1,0 +1,7 @@
+What is this block of long, skinny rectangles in this New Horizons trajectory/operations simulation?
+This answer to What do all these vectors point to in this New Horizons trajectory/operations simulation? begins:
+The software is definitely AGI's STK (notice the font and the states at the left top corner). There seem to be two or maybe three frames attached to the spacecraft.
+Also shown are a block of long, skinny rectangles drawn against the celestial sphere, and these move around as the spacecraft's attitude changes.
+Question: What is this block of long, skinny rectangles in this New Horizons trajectory/operations simulation?
+Lower your volume before playing!
+Video cued at 02:30; there is loud music at this point

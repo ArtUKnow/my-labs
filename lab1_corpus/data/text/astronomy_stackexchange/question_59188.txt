@@ -1,0 +1,8 @@
+Calculating the Moon's phase angle by lunar parallax
+I would like to compute the difference in lunar phase angle between two locations on Earth.
+Assuming, that we have the general phase angle of 90 degrees, corresponding to the Moon's first or last quarter, we shall assume that this value won't be the same on the entire Earth, as our planet has a diameter of 12756 km.
+As a result, we have the phenomenon called lunar parallax, which influences on observable Moon's declination in the sky and surely impacts the lunar phase angle.
+Let's imagine an example:
+The full Moon during a major lunar standstill: the phase angle will be at most 175 degrees (the difference between the ecliptic and lunar orbit is about 5 degrees), although this Moon's phase angle for the latitude of 70 degrees north will be different than for the latitude of 70 degrees south.
+Is there any way of computing it from lunar parallax? The average value of lunar parallax is 53'. How could it impact the Moon's phase angle? Where can I find some solution for it?
+Calculating lunar parallax based on a distance between two objects at certain latitude

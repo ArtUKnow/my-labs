@@ -1,0 +1,6 @@
+How did Sputnik 1's antennas couple to its body, electrically and mechanically?
+Looking at https://www.britannica.com/technology/satellite-communication/Development-of-satellite-communication I found the image of a model of Sputnik 1 below.
+It shows details of its four rod antennas and the fixtures that connect each to the body of the spacecraft mechanically. The connections appear to have both shiny and black parts and possibly a little coil of wire dangling near the base. It looks much more complicated than I'd originally envisioned.
+Question: How did Sputnik 1's antennas couple to its body, electrically and mechanically?
+Are there insulators, hinges, springs, electrical vacuum feedthroughs, coils, capacitors or matching networks or other important parts? It looks like a lot of work went into designing and building these antennas!
+A model of Sputnik 1, the first artificial satellite. Sputnik I was launched October 4, 1957. NASA History Office

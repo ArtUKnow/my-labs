@@ -1,0 +1,11 @@
+Calculate approx date that sun's altitude is 60 degrees at a given latitude
+I was reading some sort of exercise which asks the following:
+If the altitude of the pole star at X location is 53 degrees and
+considering that the sun rose earlier the previous day what is the
+approximate date that the sun's altitude was 60 degrees?
+Since the sun rose earlier the previous day this means that it has to be after June 21st.
+The latitude is 53 degrees (based on the altitude of the pole star) and so the sun's zenith distance on 21/6 is 53 - 23.5 = 29.5 degrees and hence the sun's altitude on 21/6 is 60.5 degrees.
+Since it takes 365 days for 1 full rotation around the sun we have $\frac{360}{365}\approx 0.98$ degrees and so it would take about a day for the altitude to go about 60 degrees. So my approximation was Jun 22nd (I am assuming that after the summer solstice the very next day and on the sun comes up a bit later).
+Also on the autumn equinox which is 95 days after the June 21st the sun's altitude is $90^\circ-53^\circ=37^\circ$ in 95 days and hence the 0.5 degrees would be done in around 1.2 days and hence again at approx 22nd of June.
+But the solution (without explanation) says July 3rd.
+So what am I messing up?

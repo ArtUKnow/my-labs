@@ -1,0 +1,2 @@
+What caused the jitter in the DART video as it approached Dimorphos?
+If you look at the series of images DART took as it approached Dimorphos, the asteroid jumps around a bit as you approach. Does this mean small corrections were being made right up till near the end? Assuming that's correct, why is my intuition wrong that you should be able to get it perfectly lined up from further away than that, considering the predictability of the space environment?

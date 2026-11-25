@@ -1,0 +1,13 @@
+Was Starship 28 equipped with a "black box" designed to enable the recovery of flight data after a RUD during reentry?
+Other terms used to describe a "black box" include Flight Data Recorder (FDR), Cockpit Voice Recorder (CVR), MADS (Modular Auxiliary Data System), and OEX (Orbiter EXperiments) recorder. Other spacecraft have used them. What about Starship?
+It should be noted that Elon mentioned during a Starbase Tour video that cameras inside the tanks would be able to observe excessive heating due to a failure of the thermal protection system tile during reentry...
+[Elon] So, hopefully, we at least find out where the crack in the armor is...
+[Tim] How will you know? What if something just goes... What if the first orbital attempt just goes totally, it doesn't even make it in for reentry and it's just a million pieces of the bottom of the ocean? How will you know where it failed?
+[Elon] We have temperature sensors. (long pause) Probably need some thermal images inside the tanks. So, just like IR cameras.
+[Tim] So you can see if a certain section's getting real hot.
+[Elon] Yeah, IR cameras on the inside will show you what the backside temperature is.
+[Tim] Yeah, yeah, it'll let you know if a leak propagated.
+[Elon] It's only gonna pop if the backside temperature... Frankly, I'm not sure. In fact, I take that back. If you just have a camera-camera ... if something's glowing white-hot, okay, that's bad. That's the bad part, right there. So, you don't even need a thermal image, frankly. The steel will glow white-hot before it melts.
+[Tim] Right, right, right. You'll know.
+[Elon] You'll know. It's not subtle.
+This conversation suggests to me that a black box of some kind would have been needed.

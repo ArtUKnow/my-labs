@@ -1,0 +1,4 @@
+Which instrument did astronauts use to measure their position?
+I once read up about astronauts measuring their position on the moon, or perhaps it was on the way to the moon and I would like to know more.
+What I remember reading was they used an instrument that by using some star as some fixed point then twisting it so that a marked line eventually crosses this star. Based on the angle needed to be twisted the position was then read off. Crucially, the marked line was some form of spiral.
+What instrument was this, how was it used and what are the advantages of using a spiral instead of simply a straight line. I assume the use of a spiral is for increased accuracy.

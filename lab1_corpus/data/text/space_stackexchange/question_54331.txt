@@ -1,0 +1,2 @@
+Does anyone know the stay time, or what characteristic length should be used, for a LOX/LCH4-fuelled rocket engine?
+Just what it says on the tin. I need to know either the "stay time" (Ts) or characteristic length (L*) that would be used to figure combustion chamber dimensions used with a LOX/LCH4-fuelled rocket engine. I'm having a difficult time finding this little datum, online or in the literature (although I admit, I'm still collecting "the literature.")

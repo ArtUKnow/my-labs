@@ -1,0 +1,2 @@
+What keeps the pressure stable inside the ISS?
+I'm doing research on life support systems for the design of a Martian scientific base, and I'm having trouble finding information about the specifics racks that keep pressure stable inside the ISS. I know the modules are sent to space already pressurized, but what keeps that pressure stable over time? I'm interested in the size and capabilities of the equipment. Is it similar to an airplane?

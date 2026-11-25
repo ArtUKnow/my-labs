@@ -1,0 +1,2 @@
+Where can i find ELSETS with Co-Variances?
+For Special Permutations (I'm a novice), an ELSET with covariance is more accurate than without covariance. A TLE doesn't have room for any covariance. However, I can't seem to find a catalog that provides this. In CCSDS's OEM, the 3x3 or 6x6 covariance is optional. I've looked at Gunter's, Johathan's (mostly), space-track and esa.int but no covariance. Does anybody know of a publicly accessible catalog that has this information?

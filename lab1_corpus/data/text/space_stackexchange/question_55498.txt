@@ -1,0 +1,2 @@
+What are the specifications for electrical connectors that can be used for repeated mating in space?
+We’re working on an interface between satellites that when docked has to transmit power and data. The interface needs to have a port for transmitting power and data. Majority of the connectors available online consists of connecting it on earth. What happens to the connectors when exposed to the harsh temperatures while in space? I’m trying to find connectors which can withstand the space environment and function well when it’s plugged.

@@ -1,0 +1,4 @@
+Why is Starlink able to deliver gate-to-gate Internet in planes while other systems are only working above 10,000 feet?
+I read on https://arstechnica.com/information-technology/2024/09/free-starlink-internet-is-coming-to-all-of-uniteds-airplanes/ (mirror):
+United says it will start testing Starlink equipment early in 2025, with the first use on passenger flights later that year. The service will be available gate-to-gate (as opposed to only working above 10,000 feet, a restriction some other systems operate under), and it certainly sounds like a superior experience to current in-flight Internet, as it will explicitly allow streaming of both video and games, and multiple connected devices at once. Better yet, United says the service will be free for passengers.
+Why is Starlink able to deliver gate-to-gate Internet in planes while other systems are only working above 10,000 feet?

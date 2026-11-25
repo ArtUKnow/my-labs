@@ -1,0 +1,7 @@
+Do voids expand faster at dark energy domination era or not?
+I asked one of the authors of a paper about the expansion of voids and filaments in the cosmic web whether voids expand faster when dark energy started to dominate in the universe. But I am confused about what he said, as it seems contradictory...
+This is what he said:
+The Universe is expanding faster (exponentially actually) when dark-energy dominated. Voids are expanding due to this effect, so their evolution is not dynamical per se, but rather a consequence of the frame of the Universe stretching out. As a consequence, voids don’t percolate faster with dark energy compared to during the matter-dominated era (the first half of the history of the Universe). The main effect of DE is to dilute structures, and thus, to change which structures are dense enough to overcome the expansion of the Universe and collapse under their own gravity.
+Also, in his paper, Evolution of cosmic filaments in the MTNG simulation, they say:
+Powering the increased expansion of voids at late times, DE (Dark Energy) can also act on the merging and disconnection of cosmic filaments
+So, on the one hand the co-author says that the universe is expanding faster due to dark energy and that voids expand due to this effect on spacetime, but on the other hand he also says that voids don't percolate faster due to this compared to when the universe matter-dominated era. Isn't this a contradictory statement? Do voids expand faster or not due to dark energy?

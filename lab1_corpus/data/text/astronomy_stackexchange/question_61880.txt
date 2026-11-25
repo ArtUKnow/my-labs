@@ -1,0 +1,2 @@
+What is meant by the 'King core radius'?
+While looking for a parameter that represents the extent of a star cluster, I came across the King core radius ($r_c$). However, even after reading papers, I still don’t understand it. What does the King core radius actually mean, where is it used in practice, does it simply indicate the region of high density, and on what criterion is this radius defined?

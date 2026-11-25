@@ -1,0 +1,17 @@
+How did the ancient Greeks measure celestial angles?
+I'm reading about how Hipparchus measured the earth's precession; I basically understand the theory involved—you wait for a lunar eclipse, which allows you to infer the sun's position exactly, at night when the stars are out. I understand that you measure the angle between the sun and a nearby identifiable star, and if you check those angles a century later, you'll find that they've shifted.
+What I don't know about are the practicalities of:
+What tools one uses to perform these measurements,
+How those tools are built and calibrated,
+How the user aligns with the proper coordinate system
+And how one arranges the lighting so that one can take notes while still looking at the stars.
+(Basically, the sorts of things I would need to know if I wanted to re-enact Hipparchus's measurements using no modern equipment.) I'm curious about the answers to these questions, and especially about references that I could use to learn more in depth about the practicalities of these measurements.
+From Wikipedia:
+Hipparchus gave an account of his discovery in On the Displacement of
+the Solsticial and Equinoctial Points (described in Almagest III.1 and
+VII.2). He measured the ecliptic longitude of the star Spica during
+lunar eclipses and found that it was about 6° west of the autumnal
+equinox. By comparing his own measurements with those of Timocharis of
+Alexandria (a contemporary of Euclid, who worked with Aristillus early
+in the 3rd century BC), he found that Spica's longitude had decreased
+by about 2° in the meantime.

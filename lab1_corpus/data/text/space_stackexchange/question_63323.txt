@@ -1,0 +1,3 @@
+Why are some satellite solar arrays arranged in a zig-zag pattern
+Some of the solar panel arrays I've seen on satellites are arranged in this weird zig-zag pattern.
+Even when they're fully deployed they still have this arrangement. Why? What's the benefit from doing this?

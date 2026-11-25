@@ -1,0 +1,32 @@
+How would "MicroGEO" satellite orbits be safely managed if they proliferate?
+Currently
+There are several plans to build constellations of communications satellites in LEO with hundreds to thousands of spacecraft in each.
+Constellations provide service "everywhere" or at least over large bands centered on the equator of necessity, because each sub-satellite point on Earth's surface is constantly moving.
+Geostationary orbits allow for (nearly) fixed sub-satellite points on Earth's surface, so they can be dedicated to specific regions or countries.
+How do commercial broadcast satellites in GEO produce such carefully shaped signal footprints?
+However, Geosynchronous orbits for communications satellites, though much bigger in size, occupy a much smaller amount of phase space than LEO orbits for communications satellites, because they need to "stay in their place" or assigned slots in longitude for two important reasons
+signals interference
+collision avoidance
+The first one is of course extremely important - it affects commercial viability. Without clean signals the big expensive satellites become useless. The second one is super-important for two reasons, one is of course avoiding loss of the two expensive satellite that collide, and the other is avoiding populating GEO with debris.
+So most (but not all) communications satellites in GEO occupy a very skinny little "tube" around Earth's equator. It's thin in the radial direction in order to stay put in longitude, and thin in the vertical (polar, latitude) direction so that receiving dishes on Earth can be "set and forget" - they can be pointed towards a satellite manually, the screws tightened, and they just stay linked.
+This skinny little tube is divided up into longitude slots. There are schemes to populate a slot with more than one satellite, in cases where this doesn't cause interference, but only a few occupants can "safely" do this
+How does the "eccentricity-inclination vector separation" technique work for colocated GEO satellites?
+So for each modern communications satellite parked in GEO to make good spectral and monetary use of its slot, they need to be pretty big in terms of solar power and in terms of bandwidth and, these days, coverage granularity.
+How do Inmarsat 5 F4's beams correspond to all of these antennas and feeds?
+Introducing MicroGEO
+SpaceNews.com's April 15, 2025 Astranis clinches $115 million Taiwan deal despite satellite setback includes the following:
+The Ka-band satellite for Taiwanese telco Chunghwa Telecom joins a batch of five spacecraft that SpaceX is slated to launch on a Falcon 9 rocket by the end of the year, collectively called Block 3.
+It is the California-based manufacturer’s largest commercial deal yet, Astranis spokesperson Christian Keil said via email, with Chunghwa paying more than others because of “a mix of a very fast delivery time & a mission-critical use case.”
+Alex Chien, Chunghwa’s chair, said the dishwasher-sized spacecraft would bring more flexibility and resilience to the telco’s multi-orbit satellite strategy, which includes the aging Japan-built ST-2 geostationary satellite, medium Earth orbit capacity from SES and OneWeb’s low Earth orbit services.
+and later:
+Joining Chunghwa in Block 3 are two satellites for Mexican telco Apco Networks, one for Thailand’s Thaicom and another for Orbits Corp of the Philippines, which also has a Block 2 satellite slated to come online later this year.
+Five GEO spacecraft on one Falcon-9 may be a record.
+What is the largest number of individual spacecraft bound for GEO that have been launched together?
+I believe that all spacecraft in "Block 3" above use their own electric propulsion to reach GEO, but to put five in one F9 fairing means they are smaller than typical GEO telecommunications payloads.
+One can read more about MicroGEO satellites in:
+Four-satellite Astranis launch signals shift toward scaled GEO deployments
+Astranis secures $250 million to accelerate small GEO satellite development
+Andesat and Astranis Sign Landmark Two-satellite Agreement to Expand Broadband Access in Peru
+If this catches on...
+If a trend starts, and it becomes popular to populate GEO with many smallsats, the nature of responsible station keeping in GEO for safety and signals interference reasons may change, the same way that it has for LEO.
+Question: How would "MicroGEO" satellite orbits be safely managed if they proliferate?

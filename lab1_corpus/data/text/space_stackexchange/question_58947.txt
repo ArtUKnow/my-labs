@@ -1,0 +1,4 @@
+Do two objects with intersecting orbits have to collide given enough time?
+If I have two objects orbiting a central body, both in elliptical orbits, with an intersection at their shared periapsis, is it inevitable that they collide?
+I think the answer is no, but I'm wondering if there's a clear way to express that or constrain the problem so the answer is yes.
+I'm thinking of "collide" as in they come very close to each other, so within some small distance $\epsilon$.

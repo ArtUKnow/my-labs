@@ -1,0 +1,4 @@
+How do you calculate the reddening corrections for photometry?
+I have photometric data from Gaia for a star and am trying to de-redden the colors. I need to find the reddening corrections for the photometry. I have photometry for G, BP, and RP.
+To start I am using the equation $E(B_P-R_P)=(B_P-R_P)-(B_P-R_P)_0$. I have values for $E(B_P-R_P)$ and $(B_P-R_P)$ and have solved for $(B_P-R_P)_0$. (ex.: $E(B_P-R_P)=0.5$, $(B_P-R_P)=1.1$ and so using the equation $(B_P-R_P)_0=0.6$
+I am confused on what to do next with the $(B_P-R_P)_0$ value to calculate the de-reddened colors. Any help would be appreciated.

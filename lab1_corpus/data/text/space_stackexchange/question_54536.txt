@@ -1,0 +1,13 @@
+Can an orbit rotate around a non-orthogonal axis?
+I'll attempt to draw a mental example, in case images are not kind (if they are kind, you can likely skip this first paragraph). Let us say that the Earth is at it's aphelion (arbitrary choice), and that the moon is at the midpoint of it's perihelion and aphelion. That is, the moon is at the point in its orbit about Earth that is perpendicular to the line drawn from the Sun to the Earth. Now, let us take the orbit of the moon and rotate it pi/2 radians about the axis that is perpendicular to the line drawn from the Sun to the Earth (an inclination of 90 degrees). The result is an orbit that will have the moon in perpetual sunlight, never being hidden behind the Sun.
+Now if the Earth orbits the sun and reaches an equinox (the midpoint between its aphelion and perihelion), the moon will instead be blocked by the earth for (somewhat less than) half its orbit, and directly in sunlight for the other half. The questions then is this: is it possible for the moon's orbit to rotate during the Earth's orbit, such that the moon is always perpendicular to the line drawn from the Sun to the Earth (or alternatively tangential to the orbit of the Earth around the Sun).
+To my knowledge, it is possible for an elliptical orbit to effectively rotate in a manner that makes a "flower petal"-like pattern, so if it were orbiting on the "x/y" axes (about the "z" axis), it could also rotate on the "z" axis. However, I'm curious if it's possible for such an orbit to rotate on the "x" or "y" axis, effectively changing the axes upon which it's orbiting. (An orbit revolving around the "z" axis, but rotating around the "x" axis, would inevitable shift to revolving around a combination of the "z" and "x" axes, then solely "x", then a combination again, then solely "z" again, cyclically)
+Simply, is is possible for an orbit to rotate about a non-orthogonal axis.
+Here are some images to hopefully shed further light on my query.
+First is the "start state" of the aforementioned orbital system.
+Is it possible to have an orbit that has an inclination of pi/2 radians (90 degrees), such as this:
+that then rotates to one of the following states: perpendicular to the Sun,
+or tangential to the Earth's orbit,
+ending up with an orbit at its perihelion that is effectively a mirror of the aphelion.
+As far as I'm aware (and I could be mistaken), a rotation that is orthogonal to the orbit is possible, such as this:
+The question is whether non-orthogonal rotation of an orbit is possible.

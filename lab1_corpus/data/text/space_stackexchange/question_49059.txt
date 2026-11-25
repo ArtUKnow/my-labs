@@ -1,0 +1,4 @@
+Burning Up Hydrazine and N2O4 for Safety
+Sadly, all the "good" (storable, hypergolic, and having good performance) rocket fuels and oxidizers -- Hydrazine, methylated hydrazine, nitrogen tetroxide, and fuming nitric acid -- are highly toxic.
+The theoretical combustion products of these -- N2, H2, and H2O -- are pretty harmless. But incomplete combustion and the potential for leaks means that when spacecraft land, their crews (or recovery crews) often are limited in the ability to approach due to the risk of propellant fumes (as prominently seen when the first manned Dragon landed). And having hypergolic-fueled rockets fly on earth near personnel is right out.
+Is there potentially a way to make combustion complete enough that this risk will be vastly mitigated?

@@ -1,0 +1,14 @@
+How do TARTs work (Transient Array Radio Telescopes), and can anyone build one and join the effort?
+In the Space SE question Any updates on the purported space debris ring that fell near a remote village in Kenya? the NY Times cites the Kenya Space Agency. I went to the KSA's News and Updates page, and while I didn't find anything about the debris I found a link dated 17th September 2024 to Kenya Advances in Space Science with Installation of TART.
+Kenya is making significant strides in space science, highlighted by a week-long workshop hosted by the Kenya Space Agency (KSA) that brought together astronomers and researchers from top universities. The event, held in collaboration with the SARAO - South African Radio Astronomy Observatory, and the Electronic Research Foundation of New Zealand introduced participants to the Transient Array Radio Telescope (TART)—a groundbreaking piece of equipment that enhances Kenya's role in the field of radio astronomy.
+There are some photos, which show a five-armed spiral supporting small circular items at irregular intervals along the arms, reminiscent of antenna placement patterns I've seen for ALMA. This certainly looks like a phased array radio telescope geometry with relatively low angular resolution.
+For example, I don't know:
+if the small black discs at each site are low gain omnidirectional antennas, or just connectors for something larger and more directional
+nor the designed wavelength range
+nor how the signals within one array are combined interferometrically
+nor how timing between distant TARTs coordinated for transient identification and possibly for VLBI.
+So I'd like to ask how specifically TART works from a fairly technical point of view, or at the very least, what exactly to read that covers these questions.
+Collaboration in Space Science: The workshop highlighted the strong partnership between Kenya, South Africa, and New Zealand in advancing space research. With the TART network to be deployed in eight African countries, this collaboration fosters continental cooperation in space exploration and research.
+Also, since TARTs are popping up in many countries, (New Zealand seems to be the originator) I was wondering how one generates local academic (or citizen?) interest, how much it costs to purchase the (likely standardized) hardware, and to which organization one approaches to enquire about joining outside of Africa.
+click images for full size
+Source: Kenya Advances in Space Science with Installation of TART

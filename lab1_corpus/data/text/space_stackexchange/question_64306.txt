@@ -1,0 +1,4 @@
+How will the DAVINCI probe manage its temperature during the descent to Venus' surface?
+The DAVINCI mission, arriving at Venus in 2031, includes a probe that will collect data as it descends through the planet's atmosphere.
+The descent will take about an hour and Stephanie Getty, deputy principal investigator from Goddard says: “If we survive the touchdown at about 25 miles per hour (12 meters/second), we could have up to 17-18 minutes of operations on the surface under ideal conditions.”
+The mean temperature on the surface of the planet is 464°C, has NASA explained how the probe will keep the temperature low enough for the instruments to function for this time?

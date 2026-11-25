@@ -1,0 +1,2 @@
+What would it take to bring VSS Unity over the Kármán line?
+There's been a great deal debate about Virgin Galactic calling 50 miles "space", while most use a 100 km Kármán line definition for the term. VSS Unity has exceeded 89 km altitude on two occasions, including its latest flight. This seems awfully close to 100 km. So, being that Virgin does not use a vertical trajectory, what would it take to bring their vehicle another 11 km up?

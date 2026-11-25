@@ -1,0 +1,23 @@
+Horizons ephemeris - how did they calculate that “Keplerian GM” value?
+I’ve been playing with the NAIF’s SPICE library for some time (CSPICE in particular). In order to obtain the state vector of an asteroid from its osculating elements, I’m calling the “conics_c” function. I have to provide the extended set of conics elements where the 8th of them is a GM parameter (presumably of the primary body). In backwards in order to obtain the osculating elements for an asteroid from its state vector by calling the “oscltx_c” function, I have to provide the GM parameter of the primary body as well. For the record, I’m working with the “ECLIPJ200” reference frame and “Solar System Barycenter” (SSB) as an observer. So far, so good.
+Unfortunately the data that I was getting back didn’t match the data given by Horizons system. At some point I realized my mistake. I was providing the SUN's barycenter GM parameter instead of the SSB’s GM (plus the needed set of GMs for the heaviest asteroids perhaps?). While I was digging around through different kernels in order to find what I needed, I noticed something strange.
+When you request an Ephemeris data of Type “ELEMENTS” with Center SSB (500@0) from Horizon’s system, inside the result set there is a parameter called “Keplerian GM” with a value of:
+Keplerian GM : 1.3289051881323761E+11 km^3/s^2
+When I replaced my variables with this particular instance of SSB’s GM, everything fell into place.
+Then I start looking how I can obtain that value from the data provided with the kernels from JPL.
+It turns out that the most recently updated source of the GM parameters for all the planets, moons, planetary systems, sun and major asteroids could be obtained from a file named gm_Horizons.pck (by the time I'm writing this, its last modified date was pointing to the date of “10/01/2020 09:15”).
+Unfortunately no sum of those parameters gives the same value as the one mentioned in the Horizon’s result set. If I sum all the GMS for the Barycenter of the Planetary system + the Sun + the asteroids (which are 17 in counts by the way) I’m getting for the SSB:
+BODY1_GM + ... + BODY10_GM + BODY2000001_GM + ... + BODY2000704_GM (found inside gm_Horizons.pck)
+= Keplerian GM #1 : 1.3289051872300468e+11 km^3/s^2
+Then I tried with the sum of the barycenter of the Sun + all the planets and their moons + the asteroids. I’m getting for the SSB:
+BODY10_GM + BODY199_GM + ... + BODY905_GM + BODY2000001_GM + ... + BODY2000704_GM
+= Keplerian GM #2 : 1.3289051879295906e+11 km^3/s^2
+As you can see both values differ from the Keplerian GM given inside the Horizon’s results.
+So my question is: how did they calculate that “Keplerian GM” value and what am I doing wrong?
+Any help is appreciated.
+Thanks.
+P.S. These are the rest of the kernels I was using for this case:
+Leap seconds kernel naif0008.tls.pc
+DE431: de431t.bsp
+SB431-N16: sb431-n16s.bsp
+Radii: pck00010.tpc

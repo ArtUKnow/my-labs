@@ -1,0 +1,5 @@
+What does a final letter I mean in a New General Catalogue (NGC) identifier?
+I've just encountered (in an article about the detection of 2-methoxyethanol in interstellar space) references to an object called NGC 6334I. It seems that the object is a protostellar cluster.
+When I Google "NGC 6334I," it turns up a few papers, like this and this, but these sources only use the name; they don't explain its construction.
+Similarly, when I search for "NGC 6334I" in The Interactive NGC Catalog Online, it returns the entry for NGC 6334. So their search mechanism seems to strip off the trailing letter 'I', but my intuition tells me that these papers' authors would not have included the suffix if it weren't significant. To put it differently, I am not comfortable assuming that "6334" and "6334I" refer to the same object.
+I've tried all sorts of Google searches to learn about the format (syntax) for the identifiers used in the NGC, but have turned up nothing.

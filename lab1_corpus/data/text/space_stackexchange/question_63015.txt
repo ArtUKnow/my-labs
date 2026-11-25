@@ -1,0 +1,7 @@
+Google maps for Space exploration
+Google Maps
+Can Google Maps for Space Exploration be defined similar to our planet Earth? I.e Planet Mars exploration, Moon exploration, International Space Station (ISS) journey and other planets of the Solar System.
+I.e Plotting Maps for visiting Mars, Moon, ISS & other Planets of the Solar System.
+Map will show Manned and UnManned Crew Spaceship / SpaceShuttle, Distance, Route, Space points, Shortest distance available to reach the destination from Planet Earth.
+If Yes, Are they publicly accessible on the "World Wide Web"?
+If Not, Will this be considered as a Science Fiction Novel to be written for the Topic "Google Maps for Space exploration"?

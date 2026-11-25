@@ -1,0 +1,2 @@
+How Ingenuity ensures it does not fly away from the range of connection from Perseverance?
+There must be a range after which Ingenuity cannot communicate with Perseverance. I am not sure what that distance is. How Ingenuity ensures it does not fly away out of that distance? If inadvertently Ingenuity flies away, what’s the back up plan to regain connection?

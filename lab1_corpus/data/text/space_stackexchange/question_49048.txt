@@ -1,0 +1,21 @@
+Saturn V launch footage from in/on first S-IC stages
+There first launches of each Saturn-class rocket were instrumented with, among other sensors, video cameras to learn about the vehicles’ behavior. The cameras were jettisoned at some point and then retrieved (see e.g. this question and references therein).
+The most well-known footage is perhaps from the S-IC/S-II staging. However, there is (supposedly) also footage from inside the LOX tanks and from the engine area.
+The first two flight stages of the S-IC also carried visual
+instrumentation that yielded some unique and striking images. A pair
+of TV cameras covered the fiery environment of engine start and
+operation. The cameras were tucked away above the heat shield-safe
+from the heat, acoustic shock, and vibration of the open engine
+area-and the lenses were connected to serpentine lengths of fiber
+optic bundles, focused on the engine area, and were protected by
+special quartz windows. Fiber optic bundles also provided a field of
+vision into the LOX tank, with a pair of motion picture cameras using
+colored film to record behavior of the liquid oxygen in flight. The
+system offered a means to check on wave and sloshing motions in the
+huge tank, as well as the waterfall effects of LOX cascading off
+internal tank structures during the boost phase. Another pair of color
+motion picture cameras captured the spectacular moment of separation
+from the S-II stage.
+(Stages to Saturn, chapter 7)
+Is any of this footage still available?
+I did find this footage from inside an LOX tank of a S-I stage on Saturn I. The description implies this footage is hard to find...

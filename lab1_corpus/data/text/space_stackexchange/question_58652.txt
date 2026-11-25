@@ -1,0 +1,16 @@
+Reference request: Rocketdyne Document R-3896-4 "F-1 Rocket Engine Illustrated Parts Breakdown"
+Various sections of the Rocketdyne F-1 document R-3896 can be found scattered about the web, but I can't find R-3896-4. It's described as
+R-3896-4 F-1 Rocket Engine Illustrated Parts Breakdown
+This manual contains illustrative
+and columnar listings of all parts
+of the engine that can be disassembled, reassembled, repaired, replaced, or overhauled. This
+manual locates and identifies the
+interrelationship of parts, aids
+in the requisition of replacement
+parts, and indicates part usage and
+inter changeability and recommended
+repair or replacement for the F-1
+engine and its individual components
+and parts.
+I am looking for a .pdf of this document.
+Screenshot from R-3896-1 INTRODUCTION page xii

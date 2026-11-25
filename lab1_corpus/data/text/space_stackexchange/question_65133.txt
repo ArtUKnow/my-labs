@@ -1,0 +1,5 @@
+What should be the fuel mass of a hypersonic (Mach 7) rocket using APCP fuel that would deliver a 50 gram payload?
+Well, I used this rocket calculator besides asking ChatGPT and BingGPT and both gave me similar answers where the amount of fuel would be around 300 to 4000 grams of APCP fuel. And 30 to 100 grams for a 5 gram payload to at least 500 meters in less than a second from start point.
+The rocket doesn't have guidance, no control system, the structure is supposed to be carbon fiber tube, lighter than the payload itself.
+But being honest, right now I feel like that this final result isn't that great and must be wrong in some way.
+It doesn't account how long it would take to accelerate to that speed (which I thought to be less than a second), nor does it take the air resistance (but I think it would be very hard to approximate an answer to that).

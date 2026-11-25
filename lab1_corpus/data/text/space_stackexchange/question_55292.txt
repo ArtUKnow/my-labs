@@ -1,0 +1,3 @@
+Field of view from Antenna
+I am trying to calculate the revisit rate for my satellite constellation. My satellite hosts software-defined radios as its payload. Hence, I need to find the field of view from antenna. My S-band patch antenna has a half-power beamwidth as 71 degrees.
+I am using ceos tool to calculate the revisit rate. For the acquisition forecaster, I am trying to create a custom mission for which I need to define my payload. The payload definitions have a field of view with limits from 0 degrees to 60 degrees. Pointing angle, -60 degrees. I don't know how to convert this half-power beam width into the field of view. Can someone please help?

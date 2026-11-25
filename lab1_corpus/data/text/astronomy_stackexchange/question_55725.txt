@@ -1,0 +1,33 @@
+How to Determine Absolute Magnitude of a Galaxy using HST FITS Image
+I'm attempting my first serious research project but due to... various circumstances, I am going to mostly be solving problems like this on my own with minimal outside help.
+As for the actual problem, I'm planning to use astropy (and the other important python modules) to determine the measured magnitude (or luminosity or something similar) of a galaxy between JWST and the HST. The galaxy is called 2dFGRS TGS360Z233 if any are interested. It has a really intruiging structure and I'd like to stick to this galaxy if possible while also still being open to changing to another target (maybe one that has enough data from SSDS9 to compare to HST's optical data).
+All the same right now I've thus far figured out how to center and zoom the image in on our galaxy using the Cutout2D module of astropy, but I have no idea how to maintain ALL header data (notably the important 'PHOTOMETRY KEYWORDS' part of it) and I have no idea how to transform that information in the header into... flux, magnitude or whatever.
+Here's what one of the FITS files comes with in the science header:
+XTENSION= 'IMAGE ' / Image extension
+BITPIX = -32 / array data type
+NAXIS = 2 / number of array dimensions
+NAXIS1 = 4130
+NAXIS2 = 4389
+PCOUNT = 0 / number of parameters
+GCOUNT = 1 / number of groups
+...
+BUNIT = 'ELECTRONS/S' / Units of science product
+...
+/ PHOTOMETRY KEYWORDS
+PHOTMODE= 'WFC3 UVIS2 F225W MJD#59172.1106' / Obser
+PHOTFLAM= 4.632454625E-18 / Inverse sensitivity, ergs/cm2/A/e-
+PHTFLAM1= 4.715093700000E-18 / Ch1 Inv Sens, use PHOTFLAM for UV filters
+PHTFLAM2= 3.8279528E-18 / Ch2 Inv Sens, use PHOTFLAM if FLUXCORR=COMPLETE
+PHTRATIO= 8.118508440246E-01 / PHTFLAM2/PHTFLAM1 ratio
+PHOTFNU = 7.975719775E-07 / Inverse sensitivity, Jy*sec/e-
+PHOTZPT = -2.1100000E+01 / ST magnitude zero point
+PHOTPLAM= 2365.22155 / Pivot wavelength (Angstroms)
+PHOTBW = 175.29026 / RMS bandwidth of filter plus detector
+I'm aware that the photometry values are important and can be used to determine magnitude, however I cannot find a single thing talking about how one uses this information to begin determining the absolute magnitude of a galaxy, much less a star.
+The current plan is to take an average (or gaussian or similar thing) of all the pixels in the cut down version of the FITS file that's focused on our galaxy and somehow turn that into magnitude using the data above. The problem is that I'm very new to... all of this, and can't find any concrete information on how one would use any of the above to get Absolute Magnitude. I know there's multiple methods to determine absolute magnitude but honestly I do not care which one I end up using because I did find a reasonable amount of documentation on conversion.
+So my question is, how does one turn the data given in the photometry keywords to... I think convert pixel values into magnitude to then use a bunch of math on. I have no idea what the value of each pixel ACTUALLY represents and I am trying to avoid some methods I've seen for regular photos as I don't think that would match the data I would get using actual magnitude. So, if anyone knows either:
+How to turn the data given in the PHOTOMETRY KEYWORDS (notably the PHOTZPT and the PHOTFNU values) into magnitude given pixel brightness and whatnot
+OR
+How one can calculate this magnitude without even looking at these values and instead taking advantage of some feature I don't know about using FITS files to practically do it automatically (you know, so I can automate this process for the many images I want to measure)
+... I'd be very grateful for your help.
+(Of potentially important note, I do know how to determine distance of an object using astropy.cosmology and I am aware that I'll need this when calculating but I can't get started on doing any of that until I know how to convert ONLY the pixel values of our galaxy into the data needed to begin determining abs mag.)

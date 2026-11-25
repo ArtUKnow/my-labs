@@ -1,0 +1,21 @@
+Rocket equation with Drag factor
+For the
+avg Thrust of 2 kN,
+burn time = 3.5 s,
+burn rate= 1.4,
+over the time diff of
+dt = 0.1 sec
+Isp = 140 sec
+Cd for the Ogive nose cone C-section = 0.75
+Cross-sec Area of the ogive nose cone = 0.155 m2.
+I am using the equations
+Velocity, $$v = I_{sp}\cdot g \cdot ln(m_o/m_f) - g \cdot t$$
+acceleration $$ a= Thrust/V_(exhaust) $$
+height $$h= I_{sp}\cdot g \cdot t \cdot (1-ln(m_o/m_f)/[(m_o/m_f) - 1 ]) - 0.5g\cdot t^2$$
+When I add the drag force to this calculation:
+Can I use the net velocity attained as:
+net velocity,$$ v_n = v - a_d \cdot t $$
+where, deceleration due to drag, $$ a_d = Drag-force/mass $$
+Similarly, how do I update the equation for the height? Do I just find the net acceleration and use equations of motion instead
+$$ h= (v^2 - u^2)/(2a_n)$$ an = net acceleration
+Thank you all, for being so helpful with responses. I have been stuck for a while on it and the launch is nearing. :)

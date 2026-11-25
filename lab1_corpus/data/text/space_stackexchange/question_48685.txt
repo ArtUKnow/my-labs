@@ -1,0 +1,4 @@
+Geolocalizing photographs on astronomical bodies
+In Are pictures taken from ISS geolocalized? I was considering photos taken on the Moon by astronauts. How can I determine a photographer's position and lens direction?
+And further, since there isn't any GPS system around Mars, how are the rovers' exact position determined? (Relatively to their landing bases?)
+If we (humans) land on Mars (or any other astronomical body), how can photographs be geolocalized?

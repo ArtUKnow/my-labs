@@ -1,0 +1,3 @@
+Why is the Deep Space Network now testing an asteroid redirection mission that hasn't launched yet?
+The Double Asteroid Redirection Test is a planned demonstration of the ability of a spacecraft to impact into and redirect the path of an asteroid. The test is part of plans to develop a system to defend the Earth from asteroids, comets, and other hazards.
+DSN Now shows the mission being tested (see snapshot below), even though it isn't even planned to be launched until November 2021. What is this test doing right now? (Reputable sources please, not speculation.)

@@ -1,0 +1,6 @@
+HAKUTO-R Mission length after landing?
+I was unable to find sources about what will happen to the current HAKUTO-R lunar lander after it lands in ± 4.5 months.
+There are two possibilities coming to mind:
+The lander won't survive the lunar night, meaning a surface mission of about 14 days.
+The lander has heating elements that will keep it warm during the 14 day lunar night - those would need to be radioactive and Falcon 9 can't launch those.
+So I assume it's option 1, is that correct?

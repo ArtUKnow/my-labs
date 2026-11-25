@@ -1,0 +1,2 @@
+What is a rocket engine spin up test?
+Recently I came across internet about SpaceX's Booster 7 explosion in a ball of fire during an engine spin up test. I searched Google about rocket engine spin up test but I got no hit. What is a rocket spin up test and how it differs from tests like static fire, pre-burner test?

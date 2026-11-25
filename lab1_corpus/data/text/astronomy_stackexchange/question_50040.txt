@@ -1,0 +1,3 @@
+Easy curve modeling package for transits that fits the data, not just the parameters
+Does anyone have any recommendations for easy-to-use exoplanet transit light curve model fitting packages like batman, but that fits the data, not just the model parameters?
+I need it to be really easy. I'm really bad at coding and need to learn easy things first with coding.

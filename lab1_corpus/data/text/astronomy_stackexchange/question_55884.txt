@@ -1,0 +1,10 @@
+Convert GST to UT while avoiding ambiguity
+Duffett-Smith, in 'Practical Astronomy With Your Calculator', says of converting a given Greenwich mean sidereal time into the corresponding universal time.
+The problem is complicated, however, by
+the fact that the sidereal day is slightly shorter than the solar day so that
+on any given date a small range of sidereal times occurs twice. This range
+is about 4 minutes long, the sidereal times corresponding to UT Oh to
+Oh 4m occurring again from UT 23h 56m to midnight (see Figure 3). The
+method given here correctly converts sidereal times in the former
+interval, but not in the latter.
+What is a solution for arriving at the correct UT from GST for both cases?

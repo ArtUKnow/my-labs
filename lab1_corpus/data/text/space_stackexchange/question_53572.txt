@@ -1,0 +1,3 @@
+Do geodesics close on an ellipsoid?
+I want to calculate the shortest distance between two points (Point A and Point B) on the ellipsoid surface. For this I need to use geodetic passing through these two points. Well, if I continue this geodesic that I defined between 2 points along the ellipsoid, will the geodetic converge at point A again?
+In some sources it was said that only meridians and equator are closed geodesics, this confused me.

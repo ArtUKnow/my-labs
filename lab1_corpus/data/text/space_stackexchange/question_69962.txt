@@ -1,0 +1,18 @@
+Have metamaterials been utilized in space exploration?
+Wikipedia https://en.wikipedia.org/wiki/Metamaterial :
+A metamaterial … is a type of material engineered to have a property,
+typically rarely observed in naturally occurring materials, that is
+derived not from the properties of the base materials but from their
+newly designed structures. ... usually arranged in repeating patterns,
+at scales that are smaller than the wavelengths of the phenomena they
+influence.
+Those that exhibit a negative index of refraction for particular
+wavelengths have been the focus of a large amount of research.
+Potential applications of metamaterials are diverse and include ..
+super-lenses. Such a lens can allow imaging below the diffraction
+limit that is the minimum resolution … that can be achieved by
+conventional lenses
+Meta materials have been proposed for remote sensing applications measurements of tiny airborne particles
+and 6G antennae https://www.sciencedirect.com/science/article/pii/S2666950123001207#:~:text=In%20fact%2C%20Metamaterial%20antennas%20are,et%20al.%2C%202022)
+Do metamaterials have “flight time” in space?
+[2]: https://www.sciencedirect.com/science/article/pii/S2666950123001207#:~:text=In%20fact%2C%20Metamaterial%20antennas%20are,et%20al.%2C%202022).

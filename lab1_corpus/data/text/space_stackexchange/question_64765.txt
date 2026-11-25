@@ -1,0 +1,3 @@
+Can coking be avoided by pumping fuel after shutdown?
+As I understand it, coking in kerolox engines occurs when the engine shuts down and fuel flow stops, causing fuel still in the coolant channels to overheat and decompose.
+Can this problem.be avoided by using a battery powered pump to keep the fuel flowing for a few seconds after shutdown? If so, how much fuel would be required, and how heavy would the additional equipmemt?

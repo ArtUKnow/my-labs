@@ -1,0 +1,115 @@
+Why is my C++ code for an orbit propagator wrong?
+I tried making an orbit propagator C++ code. Its values seem to be propagating evenly but still I get a straight line orbit instead of an elliptical one. Why?
+#define _USE_MATH_DEFINES
+#include <bits/stdc++.h>
+#include <math.h>
+using namespace std;
+ofstream pos("position.txt");
+typedef struct{
+float i,j,k;
+}Vector;
+double dotProduct(Vector a, Vector b)
+{
+return a.i*b.i+a.j*b.j+a.k*b.k;
+}
+Vector crossProduct(Vector a,Vector b)
+{
+Vector c = {a.j*b.k - a.k*b.j, a.k*b.i - a.i*b.k, a.i*b.j - a.j*b.i};
+return c;
+}
+Vector scalerMultiplication(double d,Vector a)
+{
+Vector c ={a.i*d,a.j*d,a.k*d};
+return c;
+}
+Vector scalerDivision(double d,Vector a)
+{
+Vector c ={a.i/d,a.j/d,a.k/d};
+return c;
+}
+Vector Subtraction(Vector a,Vector b)
+{
+Vector c = {a.i - b.i, a.j - b.j, a.k - b.k};
+return c;
+}
+double scalarTripleProduct(Vector a,Vector b,Vector c)
+{
+return dotProduct(a,crossProduct(b,c));
+}
+Vector vectorTripleProduct(Vector a,Vector b,Vector c)
+{
+return crossProduct(a,crossProduct(b,c));
+}
+void printVector(Vector a)
+{
+printf("( %f, %f, %f)",a.i,a.j,a.k);
+}
+float f(double x,double E) {
+return x-E*sin(x);
+}
+float derivative(double x,double E) {
+return 1-E*cos(x);
+}
+int main()
+{
+Vector h,n,p,e;
+double ii,L,O,P;
+Vector r={-5236.84,4124.117,-1262.94};
+Vector v={-3.8628,-3.12848,5.83839};
+Vector I={1,0,0};
+Vector J={0,1,0};
+Vector K={0,0,1};
+double M=3.986004418*pow(10,5);
+h=crossProduct(r,v);
+n=crossProduct(K,h);
+double R=sqrt(dotProduct(r,r));
+double V=sqrt(dotProduct(v,v));
+double H=sqrt(dotProduct(h,h));
+double N=sqrt(dotProduct(n,n));
+e=scalerDivision(M,Subtraction(scalerMultiplication((V*V-M/R),r),scalerMultiplication(dotProduct(r,v),v)));
+double E=V*V/2-M/R;
+double a=-M/(2*E);
+double E1=sqrt(dotProduct(e,e));
+double hK=dotProduct(h,K);
+double nI=dotProduct(n,I);
+double rK=dotProduct(r,K);
+ii=acos(hK/H);
+L=acos(nI/N);
+O=acos(dotProduct(n,e)/(N*E1));
+P=acos(dotProduct(e,r)/(E1*R)); //value of ν
+printf("Value of a is: %lf \n",a); printf("Value of e is: "); printVector(e); printf("\n"); printf("Value of i is: %lf \n",ii); printf("Value of Ω is: %lf \n",L); printf("Value of ω is: %lf \n",O); printf("Value of ν is: %lf \n",P);
+double N1,MA,EA,Y;
+int t;
+for (t=1;t<=6000;t++)
+{
+N1=sqrt(M/pow(a,3));
+double T=(2*3.14/M)*pow(a,1.5);
+MA=N1*(t-T);
+double x;
+int i = 1, n;
+x=MA;
+n=4;
+double EA=0;
+while(i <= n) {
+x = x - f(x,E1)/derivative(x,E1);
+EA=EA+x;
+i++;
+}
+double v1=2*atan(sqrt((1+E1)/(1-E1))*tan(EA/2));
+double rr=a*(1-(cos(EA)*E1));
+double pp=rr*(1+E1*cos(v1));
+double hh=sqrt((M*a*(1-E1*E1)));
+double X=((cos(L)*cos(O+v1)-sin(L)*cos(O+v1)*cos(ii))*rr);
+double Y=((sin(L)*cos(O+v1)-cos(L)*cos(O+v1)*cos(ii))*rr);
+double Z=((sin(ii)*sin(O+v1))*rr);
+double X1=(X*hh*E1/(rr*pp)*sin(v1)-hh/rr*(cos(L)*sin(O+v1)+sin(L)*cos(O+v1)*cos(ii)));
+double Y1=(Y*hh*E1/(rr*pp)*sin(v1)-hh/rr*(sin(L)*sin(O+v1)-cos(L)*cos(O+v1)*cos(ii)));
+double Z1=(Z*hh*E1/(rr*pp)*sin(v1)-hh/rr*(sin(ii)*sin(O+v1)));
+//printf("Position of Satellite: %lf,%lf,%lf \n",X,Y,Z);
+//printf("Velocity of Satellite: %lf,%lf,%lf \n",X1,Y1,Z1);
+printf("%lf,%lf,%lf \n",X,Y,Z);
+//printf("%lf,%lf,%lf \n",X1,Y1,Z1);
+pos<<X<<" "<<Y<<" "<<Z<<endl;
+}
+return 0;
+}

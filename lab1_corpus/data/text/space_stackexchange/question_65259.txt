@@ -1,0 +1,4 @@
+Propulsion options for orbital transfers after release from space elevator
+In a recent discussion of cost estimates of hypothetical space elevators it was mentioned that a space elevator is (obviously) well suited to bring payloads to a geosynchronous orbit while reaching other orbits would still need major delta v. This restriction in easily available orbits is a major disadvantage of space elevators; it is not very well suited to serve the huge market of low Earth orbits.
+But we are outside the atmosphere and have as much time as the payload permits; we can use high-efficiency, low-mass, low-thrust drives like ion propulsion. Such systems are already routinely used for orbital transfers of payloads launched by chemical rockets.
+Would low Earth orbits, at various inclinations, be within reach of non-chemical propulsion for spacecraft released from a space elevator (probably from half-way up)?

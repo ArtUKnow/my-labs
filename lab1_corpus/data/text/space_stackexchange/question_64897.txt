@@ -1,0 +1,26 @@
+Objects move clockwise instead of counter-clockwise
+I'm trying to write an orbital simulation with patched conics. For my sources I'm using https://orbital-mechanics.space/ and Fundamentals of Astrodynamics (Second Edition).
+Both sources suggest to use the following method for determining the position with orbital elements and true anomaly.
+Calculate the position in the perifocal frame
+$$
+r = \frac{h^2}{\mu} \frac{1}{1 + e\cos{v}}
+$$
+$$
+p = r \cos{v}
+q = r \sin{v}
+$$
+Rotate the perifocal coordinates by performing 3 rotations:
+By performing 3 rotations in order:
+Around the Z (up) axis by $-\omega$ (argument of periapsis)
+Around the X (right) axis by $-i$ (inclination)
+Around the Z (up) axis by $-\Omega$ (longitude of the ascending node)
+Now using these methods - no matter what I do I can't get my orbits to look right. I'm comparing them using NASA Orbit Viewer - mostly looking at Mercury and Mars orbits due to their high eccentricity.
+And either my orbits are flipped or moving clockwise.
+For comparison here's how they should look like:
+And here's how they actually look like (Mercury orbit is white, Mars orbit is red):
+Cleary flipped.
+The obvious solution seems to be to flip $\sin$ and $\cos$ in the perifocal position calculation. But this then breaks in other palces (i.e. calculating the position of the ascending node as the position at $v = \omega$) and I would rather not stray away from the literature.
+What am I missing here?
+The project in question is open source, the relevant pieces of code are:
+Calculating position at true anomaly
+Conversion from perifocal to equatorial

@@ -1,0 +1,19 @@
+Calculating Ephemeris from JPL Osculating Element
+I've built some open source software that calculates Ephemeris from JPL osculating elements to simplify imaging and tracking of Comets, Asteroids, and Near-Earth bodies. This works very accurately a vast majority of the time, but one recent case for the comet "62P/Tsuchinshan 1" is so far off, I think I'm missing something fundamental.
+Here are the orbital elements provided by JPL:
+IAU76/J2000 helio. ecliptic osc. elements (au, days, deg., period=Julian yrs):
+EPOCH= 2456747.5 ! 2014-Mar-31.0000000 (TDB) RMSW= n.a.
+EC= .5979618781895422 QR= 1.382607510700522 TP= 2455743.3820518344
+OM= 90.29719656740598 W= 30.26606286639662 IN= 9.714058444838786
+A= 3.438996044639659 MA= 155.1819802019812 ADIST= 5.495384578578796
+PER= 6.3775770874135 N= .15454557 ANGMOM= .025569021
+DAN= 1.45692 DDN= 4.56909 L= 120.2043443
+B= 4.8785127 MOID= .40888399 TP= 2011-Jun-30.8820518344
+and the upcoming ephemeris.
+2460302.500000000 = A.D. 2023-Dec-24 00:00:00.0000 TDB
+EC= 6.245127137515316E-01 QR= 1.892313964563497E+08 IN= 4.737627331312055E+00
+OM= 6.866852445432606E+01 W = 4.729722200318292E+01 Tp= 2460303.610740428325
+N = 1.844936882516244E-06 MA= 3.598229451470649E+02 TA= 3.590192456781422E+02
+A = 5.039621936257275E+08 AD= 8.186929907951052E+08 PR= 1.951286265733974E+08
+All of my calculations match up except one - the mean anomaly. This ephemeris reveals it is 359.8 degrees, which I am interpreting as just about at perihelion. However, if I combine the periapsis date (2455743.3820518344) and the orbital period (6.3775770874135 Julian years), then I believe I should expect the next perihelion to be at 2455743.38 + 2 * 6.38 Julian Years = ~April 1, 2024. My ephemeris calculations line up with the expectation, so I think this is the part I am missing.
+What would be the correct way to calculate the mean anomaly given these elements? Is this comet's mean velocity increasing over time?

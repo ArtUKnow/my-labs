@@ -1,0 +1,4 @@
+Does cosmic radiation have a predominant 'direction of origin'?
+Considering some speculative designs, and am going through radiation-shielding options. It seems that, other than during solar flare activity, the main thing to protect against on a day-to-day basis is cosmic radiation.
+Now I know about water / hydrogen rich plastics being the ideal shielding material, but it's the location that I'm working on. And I wondered if there was any need/benefit to focusing the protection layers in one place - eg. if the cosmic radiation predominantly comes from the galactic core, then you could get away with having most of your shielding on the 'side' that faces that direction.
+Was just a thought. I've seen conflicting data on this, none of which seemed all that reliable, so thought I'd ask as I'm sure someone knows of an actual paper that would help :)

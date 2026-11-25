@@ -1,0 +1,4 @@
+Why is China's Tiangong space station inaccessible from Russia's launch sites?
+I was reading Ars Technica's 9/21/2024 "NASA has a fine plan for deorbiting the ISS—unless Russia gets in the way". The article states:
+Russian and Chinese leaders have fostered closer ties in space in recent years, but China's Tiangong space station is inaccessible from Russia's launch sites.
+Is the rocket fuel required to reach the Tiangong space station when launched from a Russia site more than the rocket has the problem or is it something else?

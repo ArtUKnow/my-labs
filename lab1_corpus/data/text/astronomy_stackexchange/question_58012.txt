@@ -1,0 +1,2 @@
+Metallicity of Celestial Objects: Why "Metal = Non-metal" Source
+This is an existing question with good answers at Metallicity of Celestial Objects: Why "Metal = Non-metal"? , but one thing is missing in the answers: a specific source that states that it came from Kirchoff & Bunsen. So far I have not found one, and quoting a stack exchange page won't work in a manuscript even if it is correct. Can one of the people who answered such as https://astronomy.stackexchange.com/users/1862/aaron or https://astronomy.stackexchange.com/users/2531/profrob perhaps respond.

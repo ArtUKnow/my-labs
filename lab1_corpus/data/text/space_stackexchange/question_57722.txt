@@ -1,0 +1,8 @@
+Curvature of the JWST mirrors
+The JWST has four mirrors.
+The large primary mirror made of 18 hexagonal mirrors
+The secondary mirror
+The fixed tertiary mirror
+The flat fine steering mirror
+I found very little information about the curvature of these mirrors. Obviously the primary mirror is concave, the secondary mirror seems to be convex.
+Which of these mirrors are spherical, parabolic, hyperbolic, ellipsoidal, flat, aspheric, concave or convex?

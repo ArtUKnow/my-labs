@@ -1,0 +1,6 @@
+Pressurant gas line design considerations
+I am trying to understand the constraints on pressurant gas line sizes and lengths.
+For a static volume, the lines can be small in diameter because there is no significant flow velocity and therefore no significant pressure drop along the line.
+But when pressuring fuel tanks or other large volumes that change over time, the pressurant will need to support a substantial flow rate, and so there will be a pressure drop. The larger diameter of the line, the smaller the drop.
+I would like to understand the relationship between length, diameter and pressure drop for gaseous helium when used as the pressurant, including any design considerations that may be important in rocketry and spaceflight scenarios.
+I have been looking for some standards including in the NASA but so far I've found nothing.

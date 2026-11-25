@@ -1,0 +1,5 @@
+Righting JAXA's SLIM Lunar lander using RCS
+The SLIM lander was supposed to roll onto the side as part of the landing process but ended flamey end up. Which has impacted the ability of the vehicle to collect solar power, and probably other operations.
+source: JAXA
+The solution in the game KSP would be to rock around using RCS and Gyros until right way up, but in the real world control systems are sized just large enough for slow/precise control while free floating. In particular for SLIM the press kit appears to indicate that the 12 RCS nozzles are around the base pointing down, ideal for controlling a landing but producing little/no righting torque as they are now pointing up. The RCS plumbing is also probably not designed to feed against lunar gravity.
+All that aside, if we take the mass of SLIM (200kg dry) and RCS thrust (22 Newtons) is it possible to work out how many times more powerful the RCS system would need to be to right SLIM in lunar gravity if ideally positioned on the vehicle?

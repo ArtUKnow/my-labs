@@ -1,0 +1,6 @@
+Is the following configuration possible in the three-body problem?
+Suppose two celestial bodies $B_1$,$B_2$ orbit a central star (hereinafter CS).
+Each body has a mass $m_1$, $m_2$, an orbital radius $R_1$, $R_2$, and a rotational velocity $\omega_1$, $\omega_2$ around the CS.
+The rotational velocity of one body around the CS is always strictly greater than the rotational velocity of the other body, i.e. $\omega_1 > \omega_2$ or $\omega_1 < \omega_2$.
+Additional parameters are taken into account as needed.
+Question: when the bodies approach each other as close as possible, $B_1$ temporarily becomes a satellite of $B_2$, completes one ore more rotations around $B_2$, and as $B_2$ moves further and moves away, $B_1$ returns to its original orbit. In other words, the motion curve of one of the bodies in this case is a trochoid in polar coordinates. Is it possible movement configuration in such a system and what are the strict mathematical conditions for this?

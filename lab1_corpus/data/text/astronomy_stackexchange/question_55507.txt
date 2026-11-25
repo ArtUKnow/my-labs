@@ -1,0 +1,6 @@
+Do we know two neighbor galaxies that are parallel?
+Do we know two galaxies where the plane of their orbit is (almost) parallel and one is the neighbor galaxy of the other, or doesn't that exist?
+Almost co-planar: +/- 5°
+Neighbor galaxy: one galaxy is the closest galaxy of the other one, no matter of an absolute distance.
+Galaxy: I'm looking for two big galaxies, like Milky Way and Andromeda. Not a small satellite galaxy.
+Ideally something like this, where both objects are galaxies and their axes are co-linear:

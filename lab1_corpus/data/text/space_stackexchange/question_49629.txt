@@ -1,0 +1,13 @@
+Does apsidal precession rate have any dependence on the argument of periapsis? Perhaps higher order?
+Writing this comment got me thinking, which invariably leads to confusion in my case.
+@DavidHammen's answer to show that for Juno's near 90° polar orbit the major precession is apsidal; periapsis is moving away from the equator towards the north pole. Part of that answer is:
+$$\begin{aligned}
+\dot\omega &= \phantom{-} \frac 3 4 J_2 \left(\frac R p\right)^2 n\,(5 \cos^2 i -1) \\
+\dot\Omega &= - \frac 3 2 J_2 \left(\frac R p\right)^2 n \cos i
+\end{aligned}$$
+where $R$ is the equatorial radius of the planet in question, $J_2$ is the planet's second dynamic form, $p=a(1-e^2)$ is the semi-latus rectum, $a$ is the semi-major axis length of the orbit, $e$ is the eccentricity of the orbit, $n$ is the mean motion, and $i$ is the inclination of the orbit.
+The JPL News item NASA’s Juno Mission Expands Into the Future is accompanied by an interesting graphic shown below using the steady advance of periapsis towards the pole both as a "calendar" to map out events in mission history and to show when this advance will naturally bring Juno's orbit to intersection with some of Jupiter's moons; flyby(s) of which are an important component of Juno's extended mission.
+What surprises me is that the equation suggests that for a purely polar orbit ($i=\pi/2$) around a pure ellipsoid the rate of apsidal precession $\dot{\omega}$ seems to be constant even though the orbit spends different times near the poles and equator and at different distances as it precesses around.
+Question: Is this true exactly for these conditions? Is the rate of apsidal precession $\dot{\omega}$ really constant and independent of the argument of periapsis $\omega$, or is this just a first order term and there are smaller higher order corrections to $\dot{\omega}$ that depend on $\omega$ explicitly?
+I am sure that there are $\dot{e}$ terms so I'm not asking about long term evolution of a given orbit. Instead suppose one starts a set of otherwise identical orbits that differ only in initial $\omega_0$, would $\dot{\omega}$ be exactly the same for all of them?
+below: From Juno's Mission Goes On

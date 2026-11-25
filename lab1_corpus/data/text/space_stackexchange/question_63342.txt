@@ -1,0 +1,10 @@
+sentinel 2A MSIL2a - transformation -
+I am working with Sentinel-2 satellite imagery and have downloaded a Level-2A product in the MSI2A format. I am trying to determine whether the reflectance values in this product need to be transformed, and if so, how to do so.
+The reason I am unsure whether a transformation is needed is because the reflectance values I am working with are reported in large values that are not in the range of 0 to 1. when I read the data using rasterio in Python, the values are reported as large numbers, such as 2000 and 6000.
+I have read online that for Sentinel-2 , surface reflectance values need to be divided by 10,000(Quantification_value) to convert the values to the expected range of 0 to 1. However, I am not sure if this is applicable to the product I am working with, or if there are other factors that I need to consider because i have information that sentinel 2A MSIL2A is already corrected for atmospheric effects and is considered to be bottom-of-atmosphere (BOA) reflectance data but why reflectance values are not within the expected range of 0 to 1 . The metadata for this product indicates a Quantification_value of 10000. Should I divide the reflectance values by this factor?
+file name that i have S2A_MSIL2A_20190720T100031_N0213_R122_T32SPB_20190720T161032.SAFE
+references :
+Copernicus Sentinel-2: Major Products Upgrade Upcoming - Sentinel Online 1
+Sentinel-2 Products Specification Document
+Sentinel hub
+edit : response : https://forum.step.esa.int/t/sentinel-2a-msil2a/39214

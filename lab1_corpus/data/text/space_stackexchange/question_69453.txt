@@ -1,0 +1,9 @@
+Atmospheric turbulence modeling for LEO-to-ground optical links — is free-space propagation beyond 20 km a valid assumption?
+I'm studying how an optical field evolves due to atmospheric perturbations in a Low Earth Orbit (LEO) satellite to ground optical communication system. Specifically, I'm simulating the field propagation using Fresnel diffraction combined with a split-step method.
+To model atmospheric turbulence, I generate phase screens representing turbulence-induced phase distortions for discrete atmospheric slices. These are based on the modified von Kármán power spectral density (PSD), which captures the eddy size distribution and turbulence strength at different altitudes.
+However, I'm unsure how to treat the atmosphere above ~20 km altitude. In particular:
+Does turbulence above 20 km significantly affect optical propagation?
+Is it valid to assume vacuum (i.e., no phase screens) above 20 km, and perform only free-space propagation?
+If not, what is the typical turbulence strength and eddy scale above 20 km? I’m struggling to find reliable models or studies covering this region.
+I found this paper: https://opg.optica.org/copp/abstract.cfm?uri=copp-8-4-382. In Figure 1, it appears that turbulence is not represented beyond 20 km, possibly suggesting it’s negligible there.
+Is this a common assumption in simulations of LEO-to-ground optical links? Or should I incorporate weak but non-zero turbulence layers beyond 20 km?

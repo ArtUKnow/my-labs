@@ -1,0 +1,5 @@
+Why do we want to normalize the solar abundance of elements to Si?
+When discussing nucleosynthesis, there is typically a line graph of atomic number vs. relative abundance, like the ones shown in this Wikipedia article. The relative abundance is normalized to a certain element, such as H or Si. I have seen many such graphs where the Si abundance is set to $10^6$. Is there any advantage or convenience to this choice?
+For example, the vertical axis label of the "elemental abundance" plot in the figure from the linked Wikipedia article is
+Abundance, atoms of element per 106 atoms of Si
+source: Elemental abundances.svg

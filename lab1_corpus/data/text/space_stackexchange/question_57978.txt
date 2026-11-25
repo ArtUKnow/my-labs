@@ -1,0 +1,43 @@
+Difficulties with higher order Runge-Kutta implementations
+I've been trying to implement a higher order Runge-Kutta numerical integrator in MATLAB for a bit now with ambitions of n-body trajectory fun. Unfortunately, I have not had success in reaping the rewards of such higher order methods.
+I have (I believe) a good grasp of how Runge-Kutta methods work and have ample experience with lower order methods like an RK4 or Dormand Prince.
+Various answers on the site have suggested RK78 and RK89. I found Fehlberg's Technical Report (NTRS ID: 19680027281) describing both, as well as C++ source code from Trick and GMAT giving the Butcher tableaus (in a C++ structure) for each method. This gives me confidence that my coefficients are correct as I copied them into my MATLAB script (and only "translated" to MATLAB).
+My simple test case is an object in a 2D 185 km orbit above "Earth", that is, a point mass with no atmosphere. I used a fixed 30 second time step (just trying to get one of the orders to work!).
+For both of my RK78 & RK89 implementations I get nearly identical erroneous outputs of this growing spiral-like trajectory:
+Edit: my specific energy plots were not correct, I have fixed those, the problem(s) still remain with the trajectory.
+RK78:
+RK89:
+These results occur regardless of whether I select the 7th or 8th (or 8th or 9th) order output.
+Compare these to a much more reasonable result from a Dormand Price integration programmed in the same structure (trajectory plot excluded because it's expectedly benign):
+Here is a code snippet of the core iteration scheme:
+% k is a m x 4 matrix where m is the number of stages, 16 for RK89 (shown), 13 for RK78.
+% multiplying the weights (C, m x 1, transposed) by k (m x 4) gives the output 'slopes' (1 x 4)
+while 1
+% Runge-Kutta Slopes
+for j = 1:16 % k_j (individual k slopes)
+input = zi(i,:);
+for jj = 1:16 % (component of k slopes, B matrix)
+input = input + B(j,jj)*k(jj,:);
+end
+k(j,:) = dz(input,G,M_E)'; % call physics model for j'th node
+end
+% Forward local extrapolation
+i = i+1; % move time forward
+% Break Conditions
+...
+% Integrate
+zi(i,:) = zi(i-1,:) + dt*(C'*k); % next state
+end
+% force model function 'dz':
+function dzdt = dz(z,G,M_E)
+aG_E = G*M_E/(z(1)^2 + z(2)^2); % gravitational acceleration (m/s^2)
+% State Variable Definitions:
+% z1 = x, z2 = y,
+% z3 = Vx, z4 = Vy
+% 'slopes':
+dzdt(1) = z(3);
+dzdt(2) = z(4);
+dzdt(3) = -aG_E*z(1)/sqrt(z(1)^2 + z(2)^2);
+dzdt(4) = -aG_E*z(2)/sqrt(z(1)^2 + z(2)^2);
+end
+Does anyone have any clues as to what is going (so horribly) wrong?

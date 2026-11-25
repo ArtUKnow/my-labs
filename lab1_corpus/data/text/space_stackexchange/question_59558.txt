@@ -1,0 +1,3 @@
+Would it be practical to fly a probe to Mars using gravitational assistance from Venus?
+I decided to fly to Mars in KSP using a slingshot of Venus to see if I could save fuel. Since Venus is closer to Earth, you need less fuel to get there. When I tested it I used less fuel, but the amount I saved in comparison with going directly to Mars was minor because of the Hohmann effect.
+I was just wondering if it would be more practical to do a flyby to Mars using a bit less fuel, or just directly flying to Mars?

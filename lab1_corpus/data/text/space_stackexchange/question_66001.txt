@@ -1,0 +1,8 @@
+Units of "pixels" in a research paper on digital streak formation for optical payloads
+I am trying to wrap my head around how a single bright event might spill over and streak across pixels in a sensing array (CMOS) if your exposure time is high enough at some orbital velocity.
+In the 2023 paper Design of an optical system for a Multi-Cubesats debris surveillance mission (similar here), Pineau and Felicetti state the following equation:
+$$L_{st} =\frac{f \ v_{t, a} \ \tau}{\cos(\theta_{obj}) \ d \ p}$$
+where $\tau$ is the exposure time, $f$ is the focal length, $v_{t,a}$ is the averaged value of the object's tangential velocity in the CubeSat frame over $\tau$, $p$ is the size of each pixel of the sensor, the cosine of the angle is apparent from the image (see below), and $d$ is the distance to the object in real life.
+What is the unit of "pixel?" Why do they refer to it as the size of each pixel of the sensor, when that implies dimensions such as square meters [m^2]. If it is square meters or even just meters do you not get either inverse meters or a dimensionless number - neither of which make any sense?
+It must be that pixel is just a pure number of pixels on the sensing array, correct?
+(Apologies for not using proper math formatting.)

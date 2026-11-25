@@ -1,0 +1,12 @@
+Why is there a black donut in Perseverance's SkyCam? Is it always used to block the Sun? (sky cameras on Earth don't) How does it work?
+At mars.nasa.gov/mars2020/multimedia/raw-images I found Mars Perseverance Sol 258: SkyCam Camera which shows a sky camera (180° FOV fisheye view of the sky) image. I've included it below along with its complete caption.
+The caption contains a SkyCam link to a page that does not even mention it.
+Terrestrial sky cameras for weather research just let the Sun hit the sensor all day. Point-and-shoot cameras, including cell phones have no problem with the Sun being in the picture (at least for seconds or minutes) and outdoor security cameras are exposed to the Sun regularly. I don't know how but the problem of image sensor damage from even long term pointing at the Sun seems to have been solved.
+Will long-term viewing of a sunny sky hurt the Pi Camera?
+Are there industry standards or specs for image sensor resistance to damage from intense light?
+So seeing this large black annulus in Perseverance's SkyCam's FOV blocking out a large range of elevation angles surprised me.
+Question(s):
+Why is there a black donut in Perseverance's SkyCam?
+Is it always used to block the Sun (sky cameras on Earth don't) ?
+How does it work? Does it change inner and outer radius to track the Sun's motion?
+NASA's Mars Perseverance rover acquired this image using the SkyCam, an upward-facing camera located on the top deck of the rover. This image was acquired on Nov. 10, 2021 (Sol 258) at the local mean solar time of 08:51:41. Image Credit: NASA/JPL-Caltech/CAB

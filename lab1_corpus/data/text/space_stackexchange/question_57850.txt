@@ -1,0 +1,2 @@
+How does the James Webb Space Telescope take images with individual mirror segments?
+It says here (and elsewhere) that during mirror alignment the James Webb Space Telescope will take $18$ “individual images” of a star, “one from each mirror segment”. I’m wondering how this is possible. Can they direct light from one mirror segment at a time onto the sensors, and if so, how? Or do they mean that the data from the sensors is analyzed into $18$ separate images, and if so, how?

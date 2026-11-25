@@ -1,0 +1,19 @@
+How "specularly" and therefore spectacularly will JWST reflect sunlight? Will we be watching for JWST flares?
+JWST has a giant sunshield made from mostly parallel layers of metalized polymer film that are sufficiently tensioned so as not to touch each other, though I'm not sure how taut or flat they are:
+Could you bounce a tennis ball off of the James Webb sunshield? (currently unanswered)
+I think it will be much, much more directionally reflective than white paint, but due to ripples and the metalization process itself, and the shape of the sail (is it nominally planar?) it will not behave optically as one giant perfectly flat mirror either.
+Questions:
+How "specularly" and therefore spectacularly will JWST reflect sunlight?
+Will we be watching for JWST flares? If so, in what areas of the sky will JWST be looking at these times?
+and if so, with what will we be watching? Telescopes? Binoculars? Cameras? Naked eyes?
+The first part is about the angular pattern of reflected light from the half-degree wide incident sunlight, the second is more about geometry; will and how often will the reflected light pattern intercept Earth.
+The third part requires some quantitative treatment.
+there's a discussion of calculations of reflections from wrinkly films on spacecraft in
+this answer to Did New Horizons also demonstrate the "Pioneer Anomaly"?
+also see:
+Can any other telescopes see the James Webb Space Telescope?
+What goes into an Iridium Flare prediction model besides the ephemerides?
+Will the James Webb Space Telescope be visible from earth?
+What would JWST's apparent magnitude be?
+What would the James Webb telescope see if it looked at itself from Earth?
+Predicting non-Iridium flares and Why NOSS satellites flare? (currently unanswered)

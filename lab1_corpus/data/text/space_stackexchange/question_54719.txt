@@ -1,0 +1,7 @@
+Is the Hubble Space Telescope on its last legs, or "back to normal"?
+Hubble was designed to accommodate regular servicing and equipment upgrades while in orbit. Instruments and limited life items were designed as orbital replacement units. Five servicing missions (SM 1, 2, 3A, 3B, and 4) were flown by NASA space shuttles, the first in December 1993 and the last in May 2009.
+Source: Wikipedia's Hubble Space Telescope: Servicing missions and new instruments
+Currently at least there's no imminent capability to carry out further repairs on HST; whatever can be done must be implemented from the ground via radio commands.
+Recently (June 2021) there was a "scare" the HST stopped working and it seemed at first like there may not be an available fix. Happily it is now up and running again.
+Astronomy SE: What (if any) capabilities of Hubble are unique and irreplaceable? What can it do that can't be done by any other ground or space-based telescope?
+Question: Is the Hubble Space Telescope on its last legs, or "back to normal"? Are some spacecraft capabilities or configurations, or at least back-ups thereof now permanently no longer available for example?

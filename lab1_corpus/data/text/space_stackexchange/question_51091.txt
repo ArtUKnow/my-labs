@@ -1,0 +1,2 @@
+Rocket engine test bed structure
+Rocket engine thrust will eventually "lift" a certain amount of weight, to a certain height. For Saturn V, they used 5# F1 engines, each of which produced a thrust sufficient to lift approximately 690 tons. During testing of these F1 on the test bed, how did they "counter" / "contain" this thrust? Was the weight of the test bed in itself more than 700 tons (so that it could not be lifted) or was the test structure, bolted down to the ground by grouting etc?

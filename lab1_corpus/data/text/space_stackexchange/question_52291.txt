@@ -1,0 +1,12 @@
+Why were Bion 6, Bion 7 and Bion 9 launched at the times they were? Was it related to thermal management for their living cargo?
+An answer to Have any living organisms been intentionally launched into polar orbits? says (in its entirety currently):
+Yes. The highest inclination orbit with animals I could find are Bion 6, Bion 7 and Bion 9. They orbited at an 82 degree inclination and carried monkeys, rats and newts into space.
+Launch times/dates were
+14 December 1983, 07:00:00 UTC
+10 July 1985, 03:15:00 UTC
+15 September 1989, 06:30:00 UTC
+These were launched from the Plesetsk Cosmodrome which is north and slightly east of Moscow and in terms of local sidereal time about UTC + 3
+So the solar times of these launches were very roughly 10 AM, 6:15 AM and 9:30 AM
+Altitudes were quite low, so if there was a window for a dawn/dusk orbit to maintain a constant, predictable level of solar heating, I don't know if all three could have done that. The months and therefore seasons varied, so maybe that's a clue.
+It wouldn't have to be a proper Sun-synchronous orbit and precess once per year of course since the missions were for only about a week each.
+Question: Why were Bion 6, Bion 7 and Bion 9 launched at the times they were? Was it related to thermal management for their living cargo?

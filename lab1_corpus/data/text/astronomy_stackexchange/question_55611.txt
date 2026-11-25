@@ -1,0 +1,5 @@
+Where can I find the $\mu$ value in galaxy clusters for ideal gas law?
+I am studying hydrostatic equilibrium in galaxy clusters and encountered the following expression:
+$P=(kT/\mu m_p)\rho$
+The interpretation of this formula is obvious. It is just the ideal gas law expressed slightly differently. It is apparent that $\mu m_p$ here is the average mass of molecules in galaxy clusters, where $m_p$ is the mass of proton. However, the problem is that I do not know what $\mu$ is called or where to look to find the value of $\mu$.
+Could somebody help me?

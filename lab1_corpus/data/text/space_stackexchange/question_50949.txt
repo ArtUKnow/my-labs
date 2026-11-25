@@ -1,0 +1,15 @@
+How do you "make" a soliton? (recent peer-reviewed theoretical work in FTL travel)
+I've just read an Article on the new approach on Warp Drives Dr. Erik Lentz describes. Instead of creating a bubble with negative energy density, he describes a Soliton in spacetime, which he apparently calculated based on General Relativity. Using huge amounts of energy, the gravitational forces should bend space in such a way that it compresses in front and dilates behind a spacecraft. I was wondering how that would work "in practice".
+Obviously it wouldn't. But, for example, it is entirely possible to create wormholes, and the step by step instructions are basically:
+Get yourself a black hole. If you can't make one, storebought is fine.
+Use an equal but not as dense amount of exotic matter, and pour it into the black hole.
+This will neutralize the gravitational forces, but will still "force" the hole in spacetime the black hole originally created open.
+Now depending on which branch of physics you ask, this hole will either lead into the past, another universe, or to the same point in spacetime. You can freely move these wormholes by applying charges to them.
+Again, purely theoretical, but if we had the means, even a little kid could build a wormhole, so to speak. So, while I get the theory behind this new approach, I don't quite get how exactly this would be applied in the real world. As far as I know, extremely dense bodies don't move above c, so how would the warp drive accomplish this?
+Press Release
+The peer-reviewed paper (paywalled): Erik W Lentz 2021 Class. Quantum Grav. 38 075015 Breaking the warp barrier: hyper-fast solitons in Einstein–Maxwell-plasma theory
+Discussions in the popular press:
+Physics World: Spacecraft in a ‘warp bubble’ could travel faster than light, claims physicist,
+Centauri Dreams: FTL: Thoughts on a New Paper by Erik Lentz
+Sci News: Faster-Than-Light Travel is Possible, Theoretical Study Suggests
+Futurism: Peer-Reviewed Paper Claims Faster-Than-Light Travel is Possible; The New Model Relies on Conventional Physics to Achieve Warp Speed, and That's a Big Deal

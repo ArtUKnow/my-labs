@@ -1,0 +1,4 @@
+Has a rocket ever detonated before?
+In the aftermath of the AMOS-6 failure, Elon Musk pointed out that it was "really a fast fire, not an explosion". Most rocket failures are similar, involving a rapid but subsonic combustion of the fuels involved.
+The recent failure of a New Glenn booster, on the other hand, was a detonation, as shown dramatically by the atmospheric shock wave visible in videos of the incident. (Commentators have used that to estimate the explosive yield at around a kiloton.) Has any bipropellant rocket ever detonated before, as opposed to energetic combustion at the fuel-oxidizer interface?
+(I'm excluding solid-fuel and monopropellant rockets since some of those have used actual high explosives such as HMX or nitroglycerine.)

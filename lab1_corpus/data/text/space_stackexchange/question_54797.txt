@@ -1,0 +1,7 @@
+How does a returning Falcon first stage decide when to end its re-entry burn?
+When a Falcon 9 first stage is returning to Earth to land, it performs a brief re-entry burn in order to slow down.
+My question is, what criteria does the first stage control software use to decide when to stop the re-entry burn? I can think of several possibilities:
+It's set to simply stop the burn after a fixed amount of time, regardless.
+It's measuring its velocity and stops the burn when its velocity has decreased to the desired target value.
+It's measuring its altitude and stops the burn when it reaches the specified altitude.
+Some combination of the above, or (more likely) something more sophisticated that I haven't thought of

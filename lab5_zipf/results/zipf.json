@@ -1,1892 +1,1868 @@
 {
-  "unique_terms": 1057037,
-  "total_tokens": 25950087,
-  "hapax_legomena": 543426,
-  "hapax_share": 0.5141,
+  "unique_terms": 866451,
+  "total_tokens": 19758970,
+  "hapax_legomena": 443245,
+  "hapax_share": 0.5116,
   "zipf": {
-    "c": 52312619.705,
-    "s": 1.3099,
-    "error": 0.04904
+    "c": 33298147.947,
+    "s": 1.2954,
+    "error": 0.04709
   },
   "zipf_simple": {
-    "c": 805185,
+    "c": 558518,
     "s": 1.0,
-    "error": 0.17935
+    "error": 0.25313
   },
   "mandelbrot": {
-    "c": 52933868.362,
-    "s": 1.3108,
+    "c": 33750340.613,
+    "s": 1.2964,
     "b": 10.0,
-    "error": 0.04876
+    "error": 0.04678
   },
   "top_terms": [
     {
       "term": "в",
-      "freq": 805185
+      "freq": 558518
     },
     {
       "term": "и",
-      "freq": 596006
+      "freq": 423679
     },
     {
       "term": "the",
-      "freq": 408239
-    },
-    {
-      "term": "на",
-      "freq": 241253
+      "freq": 363298
     },
     {
       "term": "of",
-      "freq": 220459
+      "freq": 193297
     },
     {
-      "term": "с",
-      "freq": 216451
+      "term": "на",
+      "freq": 169138
     },
     {
       "term": "and",
-      "freq": 175410
+      "freq": 149005
     },
     {
-      "term": "in",
-      "freq": 156162
+      "term": "с",
+      "freq": 148766
     },
     {
       "term": "a",
-      "freq": 149345
+      "freq": 129980
     },
     {
-      "term": "по",
-      "freq": 112109
+      "term": "in",
+      "freq": 119383
     },
     {
       "term": "to",
-      "freq": 111374
+      "freq": 111208
     },
     {
       "term": "is",
-      "freq": 103992
+      "freq": 85333
     },
     {
-      "term": "года",
-      "freq": 91746
+      "term": "по",
+      "freq": 77635
     },
     {
       "term": "из",
-      "freq": 90536
+      "freq": 63856
+    },
+    {
+      "term": "года",
+      "freq": 62706
     },
     {
       "term": "к",
-      "freq": 87407
+      "freq": 60476
     },
     {
       "term": "не",
-      "freq": 86457
+      "freq": 58988
     },
     {
       "term": "а",
-      "freq": 84535
+      "freq": 57199
     },
     {
       "term": "году",
-      "freq": 78233
+      "freq": 54057
     },
     {
       "term": "для",
-      "freq": 75829
+      "freq": 53182
     },
     {
       "term": "что",
-      "freq": 70433
-    },
-    {
-      "term": "как",
-      "freq": 68917
+      "freq": 48261
     },
     {
       "term": "от",
-      "freq": 68906
+      "freq": 48085
     },
     {
-      "term": "его",
-      "freq": 56622
+      "term": "как",
+      "freq": 47874
+    },
+    {
+      "term": "for",
+      "freq": 46845
+    },
+    {
+      "term": "that",
+      "freq": 45212
     },
     {
       "term": "также",
-      "freq": 55654
+      "freq": 39985
     },
     {
-      "term": "was",
-      "freq": 51467
+      "term": "i",
+      "freq": 39600
     },
     {
-      "term": "о",
-      "freq": 49841
+      "term": "b",
+      "freq": 38712
     },
     {
-      "term": "до",
-      "freq": 49382
-    },
-    {
-      "term": "был",
-      "freq": 48461
-    },
-    {
-      "term": "при",
-      "freq": 47945
+      "term": "его",
+      "freq": 37475
     },
     {
       "term": "are",
-      "freq": 45302
+      "freq": 36873
+    },
+    {
+      "term": "it",
+      "freq": 36689
     }
   ],
   "points": [
     {
       "rank": 1,
-      "freq": 805185,
-      "zipf": 52312619.705,
-      "mandelbrot": 2283842.432
+      "freq": 558518,
+      "zipf": 33298147.947,
+      "mandelbrot": 1507193.436
     },
     {
       "rank": 2,
-      "freq": 596006,
-      "zipf": 21100172.275,
-      "mandelbrot": 2037663.801
+      "freq": 423679,
+      "zipf": 13566477.902,
+      "mandelbrot": 1346412.618
     },
     {
       "rank": 3,
-      "freq": 408239,
-      "zipf": 12405758.258,
-      "mandelbrot": 1834704.089
+      "freq": 363298,
+      "zipf": 8023414.871,
+      "mandelbrot": 1213698.979
     },
     {
       "rank": 4,
-      "freq": 241253,
-      "zipf": 8510704.923,
-      "mandelbrot": 1664861.223
+      "freq": 193297,
+      "zipf": 5527314.1,
+      "mandelbrot": 1102516.986
     },
     {
       "rank": 5,
-      "freq": 220459,
-      "zipf": 6353641.351,
-      "mandelbrot": 1520904.546
+      "freq": 169138,
+      "zipf": 4139780.64,
+      "mandelbrot": 1008183.521
     },
     {
       "rank": 6,
-      "freq": 216451,
-      "zipf": 5003833.452,
-      "mandelbrot": 1397531.608
+      "freq": 149005,
+      "zipf": 3268934.978,
+      "mandelbrot": 927260.743
     },
     {
       "rank": 7,
-      "freq": 175410,
-      "zipf": 4088923.285,
-      "mandelbrot": 1290771.638
+      "freq": 148766,
+      "zipf": 2677217.762,
+      "mandelbrot": 857171.715
     },
     {
       "rank": 8,
-      "freq": 156162,
-      "zipf": 3432772.839,
-      "mandelbrot": 1197596.238
+      "freq": 129980,
+      "zipf": 2251962.623,
+      "mandelbrot": 795949.292
     },
     {
       "rank": 9,
-      "freq": 149345,
-      "zipf": 2941983.002,
-      "mandelbrot": 1115658.242
+      "freq": 119383,
+      "zipf": 1933296.299,
+      "mandelbrot": 742067.537
     },
     {
       "rank": 10,
-      "freq": 112109,
-      "zipf": 2562726.314,
-      "mandelbrot": 1043112.301
+      "freq": 111208,
+      "zipf": 1686647.637,
+      "mandelbrot": 694325.787
     },
     {
       "rank": 11,
-      "freq": 111374,
-      "zipf": 2261943.613,
-      "mandelbrot": 978488.962
+      "freq": 85333,
+      "zipf": 1490748.755,
+      "mandelbrot": 651767.224
     },
     {
       "rank": 12,
-      "freq": 103992,
-      "zipf": 2018284.469,
-      "mandelbrot": 920604.597
+      "freq": 77635,
+      "zipf": 1331843.868,
+      "mandelbrot": 613620.588
     },
     {
       "rank": 13,
-      "freq": 91746,
-      "zipf": 1817386.71,
-      "mandelbrot": 868495.869
+      "freq": 63856,
+      "zipf": 1200667.159,
+      "mandelbrot": 579257.726
     },
     {
       "rank": 14,
-      "freq": 90536,
-      "zipf": 1649257.602,
-      "mandelbrot": 821371.315
+      "freq": 62706,
+      "zipf": 1090763.837,
+      "mandelbrot": 548162.222
     },
     {
       "rank": 15,
-      "freq": 87407,
-      "zipf": 1506744.245,
-      "mandelbrot": 778575.072
+      "freq": 60476,
+      "zipf": 997508.258,
+      "mandelbrot": 519905.864
     },
     {
       "rank": 16,
-      "freq": 86457,
-      "zipf": 1384600.861,
-      "mandelbrot": 739559.347
+      "freq": 58988,
+      "zipf": 917504.517,
+      "mandelbrot": 494130.789
     },
     {
       "rank": 17,
-      "freq": 84535,
-      "zipf": 1278898.885,
-      "mandelbrot": 703863.291
+      "freq": 57199,
+      "zipf": 848206.931,
+      "mandelbrot": 470535.754
     },
     {
       "rank": 18,
-      "freq": 78233,
-      "zipf": 1186641.933,
-      "mandelbrot": 671096.602
+      "freq": 54057,
+      "zipf": 787672.082,
+      "mandelbrot": 448865.491
     },
     {
       "rank": 19,
-      "freq": 75829,
-      "zipf": 1105507.528,
-      "mandelbrot": 640926.673
+      "freq": 53182,
+      "zipf": 734392.346,
+      "mandelbrot": 428902.351
     },
     {
       "rank": 20,
-      "freq": 70433,
-      "zipf": 1033669.639,
-      "mandelbrot": 613068.44
+      "freq": 48261,
+      "zipf": 687181.399,
+      "mandelbrot": 410459.699
     },
     {
       "rank": 21,
-      "freq": 68917,
-      "zipf": 969674.126,
-      "mandelbrot": 587276.274
+      "freq": 48085,
+      "zipf": 645093.8,
+      "mandelbrot": 393376.639
     },
     {
       "rank": 22,
-      "freq": 68906,
-      "zipf": 912349.643,
-      "mandelbrot": 563337.472
+      "freq": 47874,
+      "zipf": 607367.415,
+      "mandelbrot": 377513.774
     },
     {
       "rank": 23,
-      "freq": 56622,
-      "zipf": 860742.806,
-      "mandelbrot": 541066.981
+      "freq": 46845,
+      "zipf": 573381.496,
+      "mandelbrot": 362749.774
     },
     {
       "rank": 24,
-      "freq": 55654,
-      "zipf": 814070.3,
-      "mandelbrot": 520303.103
+      "freq": 45212,
+      "zipf": 542625.687,
+      "mandelbrot": 348978.571
     },
     {
       "rank": 25,
-      "freq": 51467,
-      "zipf": 771682.983,
-      "mandelbrot": 500903.962
+      "freq": 39985,
+      "zipf": 514676.785,
+      "mandelbrot": 336107.063
     },
     {
       "rank": 26,
-      "freq": 49841,
-      "zipf": 733038.66,
-      "mandelbrot": 482744.6
+      "freq": 39600,
+      "zipf": 489181.095,
+      "mandelbrot": 324053.211
     },
     {
       "rank": 27,
-      "freq": 49382,
-      "zipf": 697681.174,
-      "mandelbrot": 465714.553
+      "freq": 38712,
+      "zipf": 465840.872,
+      "mandelbrot": 312744.464
     },
     {
       "rank": 28,
-      "freq": 48461,
-      "zipf": 665224.18,
-      "mandelbrot": 449715.835
+      "freq": 37475,
+      "zipf": 444403.8,
+      "mandelbrot": 302116.442
     },
     {
       "rank": 29,
-      "freq": 47945,
-      "zipf": 635338.436,
-      "mandelbrot": 434661.249
+      "freq": 36873,
+      "zipf": 424654.741,
+      "mandelbrot": 292111.828
     },
     {
       "rank": 30,
-      "freq": 45302,
-      "zipf": 607741.752,
-      "mandelbrot": 420472.956
+      "freq": 36689,
+      "zipf": 406409.202,
+      "mandelbrot": 282679.441
     },
     {
       "rank": 31,
-      "freq": 45183,
-      "zipf": 582190.965,
-      "mandelbrot": 407081.272
+      "freq": 35094,
+      "zipf": 389508.132,
+      "mandelbrot": 273773.44
     },
     {
       "rank": 32,
-      "freq": 44668,
-      "zipf": 558475.505,
-      "mandelbrot": 394423.636
+      "freq": 34578,
+      "zipf": 373813.726,
+      "mandelbrot": 265352.66
     },
     {
       "rank": 33,
-      "freq": 43452,
-      "zipf": 536412.166,
-      "mandelbrot": 382443.737
+      "freq": 34552,
+      "zipf": 359206.036,
+      "mandelbrot": 257380.033
     },
     {
       "rank": 34,
-      "freq": 41828,
-      "zipf": 515840.861,
-      "mandelbrot": 371090.76
+      "freq": 34373,
+      "zipf": 345580.199,
+      "mandelbrot": 249822.098
     },
     {
       "rank": 35,
-      "freq": 39777,
-      "zipf": 496621.125,
-      "mandelbrot": 360318.742
+      "freq": 34256,
+      "zipf": 332844.165,
+      "mandelbrot": 242648.578
     },
     {
       "rank": 36,
-      "freq": 39303,
-      "zipf": 478629.236,
-      "mandelbrot": 350086.012
+      "freq": 33789,
+      "zipf": 320916.824,
+      "mandelbrot": 235832.016
     },
     {
       "rank": 37,
-      "freq": 39299,
-      "zipf": 461755.822,
-      "mandelbrot": 340354.708
+      "freq": 32535,
+      "zipf": 309726.442,
+      "mandelbrot": 229347.455
     },
     {
       "rank": 38,
-      "freq": 38394,
-      "zipf": 445903.864,
-      "mandelbrot": 331090.358
+      "freq": 31976,
+      "zipf": 299209.36,
+      "mandelbrot": 223172.167
     },
     {
       "rank": 39,
-      "freq": 37433,
-      "zipf": 430987.022,
-      "mandelbrot": 322261.512
+      "freq": 31810,
+      "zipf": 289308.906,
+      "mandelbrot": 217285.408
     },
     {
       "rank": 40,
-      "freq": 36883,
-      "zipf": 416928.221,
-      "mandelbrot": 313839.423
+      "freq": 31790,
+      "zipf": 279974.468,
+      "mandelbrot": 211668.214
     },
     {
       "rank": 41,
-      "freq": 35733,
-      "zipf": 403658.457,
-      "mandelbrot": 305797.766
+      "freq": 31233,
+      "zipf": 271160.721,
+      "mandelbrot": 206303.211
     },
     {
       "rank": 42,
-      "freq": 35588,
-      "zipf": 391115.781,
-      "mandelbrot": 298112.394
+      "freq": 30941,
+      "zipf": 262826.954,
+      "mandelbrot": 201174.46
     },
     {
       "rank": 43,
-      "freq": 33723,
-      "zipf": 379244.431,
-      "mandelbrot": 290761.115
+      "freq": 29511,
+      "zipf": 254936.511,
+      "mandelbrot": 196267.306
     },
     {
       "rank": 44,
-      "freq": 32649,
-      "zipf": 367994.085,
-      "mandelbrot": 283723.506
+      "freq": 28684,
+      "zipf": 247456.304,
+      "mandelbrot": 191568.261
     },
     {
       "rank": 45,
-      "freq": 31651,
-      "zipf": 357319.227,
-      "mandelbrot": 276980.738
+      "freq": 28331,
+      "zipf": 240356.389,
+      "mandelbrot": 187064.885
     },
     {
       "rank": 46,
-      "freq": 31398,
-      "zipf": 347178.589,
-      "mandelbrot": 270515.429
+      "freq": 28268,
+      "zipf": 233609.611,
+      "mandelbrot": 182745.691
     },
     {
       "rank": 47,
-      "freq": 31249,
-      "zipf": 337534.674,
-      "mandelbrot": 264311.508
+      "freq": 26337,
+      "zipf": 227191.289,
+      "mandelbrot": 178600.055
     },
     {
       "rank": 48,
-      "freq": 30862,
-      "zipf": 328353.343,
-      "mandelbrot": 258354.093
+      "freq": 25755,
+      "zipf": 221078.944,
+      "mandelbrot": 174618.139
     },
     {
       "rank": 49,
-      "freq": 30218,
-      "zipf": 319603.448,
-      "mandelbrot": 252629.39
+      "freq": 25003,
+      "zipf": 215252.06,
+      "mandelbrot": 170790.818
     },
     {
       "rank": 50,
-      "freq": 29221,
-      "zipf": 311256.518,
-      "mandelbrot": 247124.59
+      "freq": 24826,
+      "zipf": 209691.88,
+      "mandelbrot": 167109.62
     },
     {
       "rank": 51,
-      "freq": 28533,
-      "zipf": 303286.482,
-      "mandelbrot": 241827.788
+      "freq": 24188,
+      "zipf": 204381.22,
+      "mandelbrot": 163566.667
     },
     {
       "rank": 52,
-      "freq": 28404,
-      "zipf": 295669.422,
-      "mandelbrot": 236727.906
+      "freq": 21916,
+      "zipf": 199304.313,
+      "mandelbrot": 160154.628
     },
     {
       "rank": 53,
-      "freq": 28160,
-      "zipf": 288383.358,
-      "mandelbrot": 231814.621
+      "freq": 21433,
+      "zipf": 194446.667,
+      "mandelbrot": 156866.669
     },
     {
       "rank": 54,
-      "freq": 28145,
-      "zipf": 281408.063,
-      "mandelbrot": 227078.304
+      "freq": 21404,
+      "zipf": 189794.937,
+      "mandelbrot": 153696.412
     },
     {
       "rank": 55,
-      "freq": 27772,
-      "zipf": 274724.886,
-      "mandelbrot": 222509.962
+      "freq": 21141,
+      "zipf": 185336.819,
+      "mandelbrot": 150637.904
     },
     {
       "rank": 56,
-      "freq": 27539,
-      "zipf": 268316.61,
-      "mandelbrot": 218101.189
+      "freq": 21103,
+      "zipf": 181060.951,
+      "mandelbrot": 147685.575
     },
     {
       "rank": 57,
-      "freq": 25546,
-      "zipf": 262167.317,
-      "mandelbrot": 213844.119
+      "freq": 20379,
+      "zipf": 176956.823,
+      "mandelbrot": 144834.213
     },
     {
       "rank": 58,
-      "freq": 25534,
-      "zipf": 256262.266,
-      "mandelbrot": 209731.381
+      "freq": 19671,
+      "zipf": 173014.702,
+      "mandelbrot": 142078.933
     },
     {
       "rank": 59,
-      "freq": 25130,
-      "zipf": 250587.792,
-      "mandelbrot": 205756.068
+      "freq": 19248,
+      "zipf": 169225.563,
+      "mandelbrot": 139415.157
     },
     {
       "rank": 60,
-      "freq": 24994,
-      "zipf": 245131.208,
-      "mandelbrot": 201911.692
+      "freq": 19074,
+      "zipf": 165581.025,
+      "mandelbrot": 136838.583
     },
     {
       "rank": 61,
-      "freq": 24533,
-      "zipf": 239880.722,
-      "mandelbrot": 198192.163
+      "freq": 18878,
+      "zipf": 162073.294,
+      "mandelbrot": 134345.171
     },
     {
       "rank": 62,
-      "freq": 23761,
-      "zipf": 234825.358,
-      "mandelbrot": 194591.751
+      "freq": 18776,
+      "zipf": 158695.116,
+      "mandelbrot": 131931.123
     },
     {
       "rank": 63,
-      "freq": 23302,
-      "zipf": 229954.892,
-      "mandelbrot": 191105.066
+      "freq": 18591,
+      "zipf": 155439.732,
+      "mandelbrot": 129592.86
     },
     {
       "rank": 64,
-      "freq": 22622,
-      "zipf": 225259.783,
-      "mandelbrot": 187727.031
+      "freq": 18129,
+      "zipf": 152300.833,
+      "mandelbrot": 127327.016
     },
     {
       "rank": 65,
-      "freq": 22430,
-      "zipf": 220731.124,
-      "mandelbrot": 184452.858
+      "freq": 17379,
+      "zipf": 149272.526,
+      "mandelbrot": 125130.411
     },
     {
       "rank": 66,
-      "freq": 22262,
-      "zipf": 216360.587,
-      "mandelbrot": 181278.033
+      "freq": 17237,
+      "zipf": 146349.303,
+      "mandelbrot": 123000.051
     },
     {
       "rank": 67,
-      "freq": 22118,
-      "zipf": 212140.379,
-      "mandelbrot": 178198.294
+      "freq": 17077,
+      "zipf": 143526.007,
+      "mandelbrot": 120933.103
     },
     {
       "rank": 68,
-      "freq": 22095,
-      "zipf": 208063.2,
-      "mandelbrot": 175209.611
+      "freq": 16988,
+      "zipf": 140797.805,
+      "mandelbrot": 118926.893
     },
     {
       "rank": 69,
-      "freq": 21763,
-      "zipf": 204122.203,
-      "mandelbrot": 172308.176
+      "freq": 16783,
+      "zipf": 138160.165,
+      "mandelbrot": 116978.891
     },
     {
       "rank": 70,
-      "freq": 21754,
-      "zipf": 200310.964,
-      "mandelbrot": 169490.386
+      "freq": 16684,
+      "zipf": 135608.834,
+      "mandelbrot": 115086.704
     },
     {
       "rank": 71,
-      "freq": 21682,
-      "zipf": 196623.448,
-      "mandelbrot": 166752.829
+      "freq": 16311,
+      "zipf": 133139.813,
+      "mandelbrot": 113248.064
     },
     {
       "rank": 72,
-      "freq": 21579,
-      "zipf": 193053.978,
-      "mandelbrot": 164092.271
+      "freq": 16227,
+      "zipf": 130749.344,
+      "mandelbrot": 111460.822
     },
     {
       "rank": 73,
-      "freq": 21548,
-      "zipf": 189597.214,
-      "mandelbrot": 161505.646
+      "freq": 16076,
+      "zipf": 128433.887,
+      "mandelbrot": 109722.941
     },
     {
       "rank": 74,
-      "freq": 21163,
-      "zipf": 186248.126,
-      "mandelbrot": 158990.046
+      "freq": 15876,
+      "zipf": 126190.109,
+      "mandelbrot": 108032.487
     },
     {
       "rank": 75,
-      "freq": 20885,
-      "zipf": 183001.971,
-      "mandelbrot": 156542.709
+      "freq": 15702,
+      "zipf": 124014.867,
+      "mandelbrot": 106387.624
     },
     {
       "rank": 76,
-      "freq": 20704,
-      "zipf": 179854.276,
-      "mandelbrot": 154161.013
+      "freq": 15393,
+      "zipf": 121905.193,
+      "mandelbrot": 104786.608
     },
     {
       "rank": 77,
-      "freq": 20654,
-      "zipf": 176800.817,
-      "mandelbrot": 151842.463
+      "freq": 15298,
+      "zipf": 119858.289,
+      "mandelbrot": 103227.779
     },
     {
       "rank": 78,
-      "freq": 20493,
-      "zipf": 173837.603,
-      "mandelbrot": 149584.689
+      "freq": 14656,
+      "zipf": 117871.507,
+      "mandelbrot": 101709.561
     },
     {
       "rank": 79,
-      "freq": 19969,
-      "zipf": 170960.86,
-      "mandelbrot": 147385.433
+      "freq": 14647,
+      "zipf": 115942.343,
+      "mandelbrot": 100230.451
     },
     {
       "rank": 80,
-      "freq": 19766,
-      "zipf": 168167.018,
-      "mandelbrot": 145242.546
+      "freq": 14553,
+      "zipf": 114068.429,
+      "mandelbrot": 98789.02
     },
     {
       "rank": 81,
-      "freq": 19703,
-      "zipf": 165452.696,
-      "mandelbrot": 143153.982
+      "freq": 14390,
+      "zipf": 112247.522,
+      "mandelbrot": 97383.905
     },
     {
       "rank": 82,
-      "freq": 19286,
-      "zipf": 162814.69,
-      "mandelbrot": 141117.788
+      "freq": 13846,
+      "zipf": 110477.494,
+      "mandelbrot": 96013.807
     },
     {
       "rank": 83,
-      "freq": 18791,
-      "zipf": 160249.963,
-      "mandelbrot": 139132.103
+      "freq": 13753,
+      "zipf": 108756.329,
+      "mandelbrot": 94677.487
     },
     {
       "rank": 84,
-      "freq": 18574,
-      "zipf": 157755.632,
-      "mandelbrot": 137195.152
+      "freq": 13743,
+      "zipf": 107082.114,
+      "mandelbrot": 93373.761
     },
     {
       "rank": 85,
-      "freq": 18510,
-      "zipf": 155328.961,
-      "mandelbrot": 135305.238
+      "freq": 13517,
+      "zipf": 105453.031,
+      "mandelbrot": 92101.502
     },
     {
       "rank": 86,
-      "freq": 18454,
-      "zipf": 152967.35,
-      "mandelbrot": 133460.742
+      "freq": 13209,
+      "zipf": 103867.355,
+      "mandelbrot": 90859.629
     },
     {
       "rank": 87,
-      "freq": 17911,
-      "zipf": 150668.33,
-      "mandelbrot": 131660.116
+      "freq": 12880,
+      "zipf": 102323.444,
+      "mandelbrot": 89647.112
     },
     {
       "rank": 88,
-      "freq": 17846,
-      "zipf": 148429.55,
-      "mandelbrot": 129901.882
+      "freq": 12800,
+      "zipf": 100819.736,
+      "mandelbrot": 88462.965
     },
     {
       "rank": 89,
-      "freq": 17667,
-      "zipf": 146248.773,
-      "mandelbrot": 128184.622
+      "freq": 12779,
+      "zipf": 99354.745,
+      "mandelbrot": 87306.244
     },
     {
       "rank": 90,
-      "freq": 17420,
-      "zipf": 144123.871,
-      "mandelbrot": 126506.983
+      "freq": 12621,
+      "zipf": 97927.057,
+      "mandelbrot": 86176.048
     },
     {
       "rank": 91,
-      "freq": 16662,
-      "zipf": 142052.814,
-      "mandelbrot": 124867.668
+      "freq": 12466,
+      "zipf": 96535.322,
+      "mandelbrot": 85071.511
     },
     {
       "rank": 92,
-      "freq": 16609,
-      "zipf": 140033.668,
-      "mandelbrot": 123265.434
+      "freq": 12433,
+      "zipf": 95178.255,
+      "mandelbrot": 83991.805
     },
     {
       "rank": 93,
-      "freq": 16501,
-      "zipf": 138064.59,
-      "mandelbrot": 121699.093
+      "freq": 12373,
+      "zipf": 93854.629,
+      "mandelbrot": 82936.138
     },
     {
       "rank": 94,
-      "freq": 16393,
-      "zipf": 136143.818,
-      "mandelbrot": 120167.502
+      "freq": 12315,
+      "zipf": 92563.274,
+      "mandelbrot": 81903.747
     },
     {
       "rank": 95,
-      "freq": 16349,
-      "zipf": 134269.673,
-      "mandelbrot": 118669.568
+      "freq": 12280,
+      "zipf": 91303.072,
+      "mandelbrot": 80893.904
     },
     {
       "rank": 96,
-      "freq": 16183,
-      "zipf": 132440.55,
-      "mandelbrot": 117204.241
+      "freq": 12011,
+      "zipf": 90072.956,
+      "mandelbrot": 79905.908
     },
     {
       "rank": 97,
-      "freq": 16104,
-      "zipf": 130654.914,
-      "mandelbrot": 115770.514
+      "freq": 11995,
+      "zipf": 88871.904,
+      "mandelbrot": 78939.087
     },
     {
       "rank": 98,
-      "freq": 16101,
-      "zipf": 128911.3,
-      "mandelbrot": 114367.419
+      "freq": 11722,
+      "zipf": 87698.941,
+      "mandelbrot": 77992.795
     },
     {
       "rank": 99,
-      "freq": 16020,
-      "zipf": 127208.305,
-      "mandelbrot": 112994.027
+      "freq": 11669,
+      "zipf": 86553.134,
+      "mandelbrot": 77066.413
     },
     {
       "rank": 100,
-      "freq": 15984,
-      "zipf": 125544.586,
-      "mandelbrot": 111649.445
+      "freq": 11646,
+      "zipf": 85433.588,
+      "mandelbrot": 76159.345
     },
     {
       "rank": 105,
-      "freq": 15210,
-      "zipf": 117771.996,
-      "mandelbrot": 105329.783
+      "freq": 11155,
+      "zipf": 80201.062,
+      "mandelbrot": 71894.408
     },
     {
       "rank": 110,
-      "freq": 14628,
-      "zipf": 110809.637,
-      "mandelbrot": 99614.592
+      "freq": 10891,
+      "zipf": 75510.742,
+      "mandelbrot": 68034.998
     },
     {
       "rank": 115,
-      "freq": 13718,
-      "zipf": 104541.717,
-      "mandelbrot": 94424.333
+      "freq": 10372,
+      "zipf": 71285.455,
+      "mandelbrot": 64527.969
     },
     {
       "rank": 120,
-      "freq": 13121,
-      "zipf": 98873.097,
-      "mandelbrot": 89692.569
+      "freq": 9868,
+      "zipf": 67461.749,
+      "mandelbrot": 61328.903
     },
     {
       "rank": 126,
-      "freq": 12720,
-      "zipf": 92751.765,
-      "mandelbrot": 84541.591
+      "freq": 9477,
+      "zipf": 63329.939,
+      "mandelbrot": 57844.306
     },
     {
       "rank": 132,
-      "freq": 12105,
-      "zipf": 87268.535,
-      "mandelbrot": 79890.195
+      "freq": 9170,
+      "zipf": 59626.277,
+      "mandelbrot": 54695.675
     },
     {
       "rank": 138,
-      "freq": 11847,
-      "zipf": 82332.211,
-      "mandelbrot": 75671.756
+      "freq": 8947,
+      "zipf": 56289.822,
+      "mandelbrot": 51838.388
     },
     {
       "rank": 144,
-      "freq": 11456,
-      "zipf": 77867.869,
-      "mandelbrot": 71830.773
+      "freq": 8726,
+      "zipf": 53270.473,
+      "mandelbrot": 49235.247
     },
     {
       "rank": 151,
-      "freq": 10746,
-      "zipf": 73173.752,
-      "mandelbrot": 67764.956
+      "freq": 8445,
+      "zipf": 50093.65,
+      "mandelbrot": 46478.065
     },
     {
       "rank": 158,
-      "freq": 10313,
-      "zipf": 68956.661,
-      "mandelbrot": 64088.032
+      "freq": 8072,
+      "zipf": 47237.739,
+      "mandelbrot": 43983.046
     },
     {
       "rank": 165,
-      "freq": 9949,
-      "zipf": 65150.064,
-      "mandelbrot": 60748.827
+      "freq": 7980,
+      "zipf": 44658.165,
+      "mandelbrot": 41715.833
     },
     {
       "rank": 173,
-      "freq": 9754,
-      "zipf": 61232.274,
-      "mandelbrot": 57291.619
+      "freq": 7626,
+      "zipf": 42001.494,
+      "mandelbrot": 39367.058
     },
     {
       "rank": 181,
-      "freq": 9495,
-      "zipf": 57711.682,
-      "mandelbrot": 54166.811
+      "freq": 7390,
+      "zipf": 39612.561,
+      "mandelbrot": 37242.776
     },
     {
       "rank": 190,
-      "freq": 9043,
-      "zipf": 54157.357,
-      "mandelbrot": 50994.284
+      "freq": 6973,
+      "zipf": 37199.099,
+      "mandelbrot": 35084.678
     },
     {
       "rank": 199,
-      "freq": 8851,
-      "zipf": 50971.695,
-      "mandelbrot": 48135.3
+      "freq": 6796,
+      "zipf": 35034.478,
+      "mandelbrot": 33138.608
     },
     {
       "rank": 208,
-      "freq": 8560,
-      "zipf": 48102.259,
-      "mandelbrot": 45547.284
+      "freq": 6693,
+      "zipf": 33083.448,
+      "mandelbrot": 31375.892
     },
     {
       "rank": 218,
-      "freq": 8419,
-      "zipf": 45232.687,
-      "mandelbrot": 42946.727
+      "freq": 6565,
+      "zipf": 31131.035,
+      "mandelbrot": 29603.526
     },
     {
       "rank": 228,
-      "freq": 8118,
-      "zipf": 42651.824,
-      "mandelbrot": 40596.989
+      "freq": 6326,
+      "zipf": 29373.884,
+      "mandelbrot": 28001.092
     },
     {
       "rank": 239,
-      "freq": 8018,
-      "zipf": 40098.947,
-      "mandelbrot": 38262.435
+      "freq": 6120,
+      "zipf": 27634.628,
+      "mandelbrot": 26408.005
     },
     {
       "rank": 250,
-      "freq": 7755,
-      "zipf": 37803.733,
-      "mandelbrot": 36154.592
+      "freq": 5947,
+      "zipf": 26069.87,
+      "mandelbrot": 24968.711
     },
     {
       "rank": 262,
-      "freq": 7524,
-      "zipf": 35551.944,
-      "mandelbrot": 34078.261
+      "freq": 5819,
+      "zipf": 24533.694,
+      "mandelbrot": 23550.034
     },
     {
       "rank": 275,
-      "freq": 7313,
-      "zipf": 33366.775,
-      "mandelbrot": 32055.275
+      "freq": 5640,
+      "zipf": 23041.935,
+      "mandelbrot": 22166.895
     },
     {
       "rank": 288,
-      "freq": 7077,
-      "zipf": 31407.822,
-      "mandelbrot": 30234.813
+      "freq": 5501,
+      "zipf": 21703.69,
+      "mandelbrot": 20921.407
     },
     {
       "rank": 302,
-      "freq": 6872,
-      "zipf": 29514.461,
-      "mandelbrot": 28468.981
+      "freq": 5413,
+      "zipf": 20409.375,
+      "mandelbrot": 19712.51
     },
     {
       "rank": 317,
-      "freq": 6662,
-      "zipf": 27698.633,
-      "mandelbrot": 26769.507
+      "freq": 5254,
+      "zipf": 19167.198,
+      "mandelbrot": 18548.265
     },
     {
       "rank": 332,
-      "freq": 6444,
-      "zipf": 26070.959,
-      "mandelbrot": 25241.082
+      "freq": 5049,
+      "zipf": 18052.968,
+      "mandelbrot": 17500.509
     },
     {
       "rank": 348,
-      "freq": 6167,
-      "zipf": 24512.129,
-      "mandelbrot": 23772.745
+      "freq": 4876,
+      "zipf": 16985.143,
+      "mandelbrot": 16493.288
     },
     {
       "rank": 365,
-      "freq": 5892,
-      "zipf": 23027.574,
-      "mandelbrot": 22370.146
+      "freq": 4688,
+      "zipf": 15967.498,
+      "mandelbrot": 15530.525
     },
     {
       "rank": 383,
-      "freq": 5736,
-      "zipf": 21620.386,
-      "mandelbrot": 21036.77
+      "freq": 4472,
+      "zipf": 15002.217,
+      "mandelbrot": 14614.665
     },
     {
       "rank": 402,
-      "freq": 5527,
-      "zipf": 20291.76,
-      "mandelbrot": 19774.31
+      "freq": 4291,
+      "zipf": 14090.189,
+      "mandelbrot": 13746.928
     },
     {
       "rank": 422,
-      "freq": 5306,
-      "zipf": 19041.386,
-      "mandelbrot": 18583.021
+      "freq": 4114,
+      "zipf": 13231.271,
+      "mandelbrot": 12927.553
     },
     {
       "rank": 443,
-      "freq": 5107,
-      "zipf": 17867.797,
-      "mandelbrot": 17462.029
+      "freq": 3936,
+      "zipf": 12424.532,
+      "mandelbrot": 12156.004
     },
     {
       "rank": 465,
-      "freq": 4903,
-      "zipf": 16768.667,
-      "mandelbrot": 16409.602
+      "freq": 3785,
+      "zipf": 11668.444,
+      "mandelbrot": 11431.152
     },
     {
       "rank": 488,
-      "freq": 4758,
-      "zipf": 15741.059,
-      "mandelbrot": 15423.382
+      "freq": 3654,
+      "zipf": 10961.06,
+      "mandelbrot": 10751.437
     },
     {
       "rank": 512,
-      "freq": 4501,
-      "zipf": 14781.628,
-      "mandelbrot": 14500.572
+      "freq": 3523,
+      "zipf": 10300.146,
+      "mandelbrot": 10114.995
     },
     {
       "rank": 537,
-      "freq": 4348,
-      "zipf": 13886.781,
-      "mandelbrot": 13638.093
+      "freq": 3362,
+      "zipf": 9683.293,
+      "mandelbrot": 9519.76
     },
     {
       "rank": 563,
-      "freq": 4137,
-      "zipf": 13052.805,
-      "mandelbrot": 12832.704
+      "freq": 3222,
+      "zipf": 9108.006,
+      "mandelbrot": 8963.553
     },
     {
       "rank": 591,
-      "freq": 3997,
-      "zipf": 12248.764,
-      "mandelbrot": 12054.755
+      "freq": 3071,
+      "zipf": 8552.981,
+      "mandelbrot": 8425.934
     },
     {
       "rank": 620,
-      "freq": 3851,
-      "zipf": 11503.785,
-      "mandelbrot": 11332.644
+      "freq": 2985,
+      "zipf": 8038.367,
+      "mandelbrot": 7926.562
     },
     {
       "rank": 651,
-      "freq": 3683,
-      "zipf": 10791.574,
-      "mandelbrot": 10641.101
+      "freq": 2884,
+      "zipf": 7546.044,
+      "mandelbrot": 7448.003
     },
     {
       "rank": 683,
-      "freq": 3569,
-      "zipf": 10134.137,
-      "mandelbrot": 10001.689
+      "freq": 2779,
+      "zipf": 7091.264,
+      "mandelbrot": 7005.216
     },
     {
       "rank": 717,
-      "freq": 3449,
-      "zipf": 9509.328,
-      "mandelbrot": 9393.057
+      "freq": 2681,
+      "zipf": 6658.751,
+      "mandelbrot": 6583.456
     },
     {
       "rank": 752,
-      "freq": 3355,
-      "zipf": 8933.806,
-      "mandelbrot": 8831.602
+      "freq": 2600,
+      "zipf": 6260.079,
+      "mandelbrot": 6194.122
     },
     {
       "rank": 789,
-      "freq": 3224,
-      "zipf": 8389.055,
-      "mandelbrot": 8299.416
+      "freq": 2492,
+      "zipf": 5882.459,
+      "mandelbrot": 5824.835
     },
     {
       "rank": 828,
-      "freq": 3109,
-      "zipf": 7875.283,
-      "mandelbrot": 7796.818
+      "freq": 2410,
+      "zipf": 5526.066,
+      "mandelbrot": 5475.84
     },
     {
       "rank": 869,
-      "freq": 3008,
-      "zipf": 7392.171,
-      "mandelbrot": 7323.604
+      "freq": 2286,
+      "zipf": 5190.706,
+      "mandelbrot": 5147.024
     },
     {
       "rank": 912,
-      "freq": 2880,
-      "zipf": 6938.997,
-      "mandelbrot": 6879.169
+      "freq": 2170,
+      "zipf": 4875.907,
+      "mandelbrot": 4837.993
     },
     {
       "rank": 957,
-      "freq": 2776,
-      "zipf": 6514.743,
-      "mandelbrot": 6462.611
+      "freq": 2092,
+      "zipf": 4580.992,
+      "mandelbrot": 4548.148
     },
     {
       "rank": 1004,
-      "freq": 2654,
-      "zipf": 6118.187,
-      "mandelbrot": 6072.819
+      "freq": 2023,
+      "zipf": 4305.138,
+      "mandelbrot": 4276.74
     },
     {
       "rank": 1054,
-      "freq": 2561,
-      "zipf": 5740.831,
-      "mandelbrot": 5701.506
+      "freq": 1938,
+      "zipf": 4042.456,
+      "mandelbrot": 4018.023
     },
     {
       "rank": 1106,
-      "freq": 2415,
-      "zipf": 5389.875,
-      "mandelbrot": 5355.823
+      "freq": 1868,
+      "zipf": 3797.98,
+      "mandelbrot": 3776.998
     },
     {
       "rank": 1161,
-      "freq": 2292,
-      "zipf": 5057.894,
-      "mandelbrot": 5028.517
+      "freq": 1774,
+      "zipf": 3566.56,
+      "mandelbrot": 3548.628
     },
     {
       "rank": 1219,
-      "freq": 2184,
-      "zipf": 4745.01,
-      "mandelbrot": 4719.755
+      "freq": 1683,
+      "zipf": 3348.298,
+      "mandelbrot": 3333.048
     },
     {
       "rank": 1279,
-      "freq": 2091,
-      "zipf": 4455.573,
-      "mandelbrot": 4433.884
+      "freq": 1623,
+      "zipf": 3146.25,
+      "mandelbrot": 3133.313
     },
     {
       "rank": 1342,
-      "freq": 2001,
-      "zipf": 4183.6,
-      "mandelbrot": 4165.042
+      "freq": 1553,
+      "zipf": 2956.262,
+      "mandelbrot": 2945.348
     },
     {
       "rank": 1409,
-      "freq": 1919,
-      "zipf": 3924.954,
-      "mandelbrot": 3909.174
+      "freq": 1483,
+      "zipf": 2775.455,
+      "mandelbrot": 2766.329
     },
     {
       "rank": 1479,
-      "freq": 1834,
-      "zipf": 3683.424,
-      "mandelbrot": 3670.058
+      "freq": 1419,
+      "zipf": 2606.495,
+      "mandelbrot": 2598.916
     },
     {
       "rank": 1552,
-      "freq": 1751,
-      "zipf": 3458.15,
-      "mandelbrot": 3446.879
+      "freq": 1355,
+      "zipf": 2448.796,
+      "mandelbrot": 2442.552
     },
     {
       "rank": 1629,
-      "freq": 1679,
-      "zipf": 3245.618,
-      "mandelbrot": 3236.181
+      "freq": 1302,
+      "zipf": 2299.912,
+      "mandelbrot": 2294.831
     },
     {
       "rank": 1710,
-      "freq": 1601,
-      "zipf": 3045.728,
-      "mandelbrot": 3037.89
+      "freq": 1233,
+      "zipf": 2159.786,
+      "mandelbrot": 2155.713
     },
     {
       "rank": 1795,
-      "freq": 1523,
-      "zipf": 2858.207,
-      "mandelbrot": 2851.755
+      "freq": 1192,
+      "zipf": 2028.238,
+      "mandelbrot": 2025.032
     },
     {
       "rank": 1884,
-      "freq": 1466,
-      "zipf": 2682.651,
-      "mandelbrot": 2677.396
+      "freq": 1145,
+      "zipf": 1904.997,
+      "mandelbrot": 1902.535
     },
     {
       "rank": 1978,
-      "freq": 1407,
-      "zipf": 2516.898,
-      "mandelbrot": 2512.684
+      "freq": 1102,
+      "zipf": 1788.557,
+      "mandelbrot": 1786.735
     },
     {
       "rank": 2076,
-      "freq": 1349,
-      "zipf": 2362.416,
-      "mandelbrot": 2359.091
+      "freq": 1058,
+      "zipf": 1679.956,
+      "mandelbrot": 1678.677
     },
     {
       "rank": 2179,
-      "freq": 1286,
-      "zipf": 2217.222,
-      "mandelbrot": 2214.662
+      "freq": 1016,
+      "zipf": 1577.815,
+      "mandelbrot": 1576.996
     },
     {
       "rank": 2287,
-      "freq": 1238,
-      "zipf": 2081.083,
-      "mandelbrot": 2079.178
+      "freq": 973,
+      "zipf": 1481.976,
+      "mandelbrot": 1481.546
     },
     {
       "rank": 2401,
-      "freq": 1183,
-      "zipf": 1952.614,
-      "mandelbrot": 1951.269
+      "freq": 930,
+      "zipf": 1391.472,
+      "mandelbrot": 1391.371
     },
     {
       "rank": 2521,
-      "freq": 1136,
-      "zipf": 1831.774,
-      "mandelbrot": 1830.905
+      "freq": 892,
+      "zipf": 1306.283,
+      "mandelbrot": 1306.455
     },
     {
       "rank": 2647,
-      "freq": 1081,
-      "zipf": 1718.409,
-      "mandelbrot": 1717.942
+      "freq": 852,
+      "zipf": 1226.307,
+      "mandelbrot": 1226.705
     },
     {
       "rank": 2779,
-      "freq": 1025,
-      "zipf": 1612.287,
-      "mandelbrot": 1612.155
+      "freq": 815,
+      "zipf": 1151.388,
+      "mandelbrot": 1151.969
     },
     {
       "rank": 2917,
-      "freq": 981,
-      "zipf": 1513.114,
-      "mandelbrot": 1513.26
+      "freq": 774,
+      "zipf": 1081.325,
+      "mandelbrot": 1082.054
     },
     {
       "rank": 3062,
-      "freq": 936,
-      "zipf": 1419.951,
-      "mandelbrot": 1420.328
+      "freq": 738,
+      "zipf": 1015.463,
+      "mandelbrot": 1016.309
     },
     {
       "rank": 3215,
-      "freq": 898,
-      "zipf": 1332.095,
-      "mandelbrot": 1332.66
+      "freq": 704,
+      "zipf": 953.307,
+      "mandelbrot": 954.244
     },
     {
       "rank": 3375,
-      "freq": 859,
-      "zipf": 1249.988,
-      "mandelbrot": 1250.703
+      "freq": 674,
+      "zipf": 895.178,
+      "mandelbrot": 896.183
     },
     {
       "rank": 3543,
-      "freq": 822,
-      "zipf": 1172.925,
-      "mandelbrot": 1173.76
+      "freq": 645,
+      "zipf": 840.582,
+      "mandelbrot": 841.635
     },
     {
       "rank": 3720,
-      "freq": 789,
-      "zipf": 1100.366,
-      "mandelbrot": 1101.295
+      "freq": 613,
+      "zipf": 789.14,
+      "mandelbrot": 790.226
     },
     {
       "rank": 3906,
-      "freq": 751,
-      "zipf": 1032.241,
-      "mandelbrot": 1033.24
+      "freq": 587,
+      "zipf": 740.808,
+      "mandelbrot": 741.912
     },
     {
       "rank": 4101,
-      "freq": 718,
-      "zipf": 968.427,
-      "mandelbrot": 969.475
+      "freq": 565,
+      "zipf": 695.502,
+      "mandelbrot": 696.612
     },
     {
       "rank": 4306,
-      "freq": 689,
-      "zipf": 908.484,
-      "mandelbrot": 909.566
+      "freq": 537,
+      "zipf": 652.914,
+      "mandelbrot": 654.022
     },
     {
       "rank": 4521,
-      "freq": 660,
-      "zipf": 852.313,
-      "mandelbrot": 853.413
+      "freq": 516,
+      "zipf": 612.978,
+      "mandelbrot": 614.074
     },
     {
       "rank": 4747,
-      "freq": 628,
-      "zipf": 799.557,
-      "mandelbrot": 800.664
+      "freq": 492,
+      "zipf": 575.443,
+      "mandelbrot": 576.521
     },
     {
       "rank": 4984,
-      "freq": 599,
-      "zipf": 750.124,
-      "mandelbrot": 751.228
+      "freq": 470,
+      "zipf": 540.248,
+      "mandelbrot": 541.303
     },
     {
       "rank": 5233,
-      "freq": 571,
-      "zipf": 703.719,
-      "mandelbrot": 704.811
+      "freq": 451,
+      "zipf": 507.185,
+      "mandelbrot": 508.212
     },
     {
       "rank": 5494,
-      "freq": 546,
-      "zipf": 660.253,
-      "mandelbrot": 661.327
+      "freq": 428,
+      "zipf": 476.194,
+      "mandelbrot": 477.19
     },
     {
       "rank": 5768,
-      "freq": 519,
-      "zipf": 619.475,
-      "mandelbrot": 620.526
+      "freq": 407,
+      "zipf": 447.099,
+      "mandelbrot": 448.061
     },
     {
       "rank": 6056,
-      "freq": 493,
-      "zipf": 581.173,
-      "mandelbrot": 582.196
+      "freq": 388,
+      "zipf": 419.752,
+      "mandelbrot": 420.678
     },
     {
       "rank": 6358,
-      "freq": 470,
-      "zipf": 545.282,
-      "mandelbrot": 546.273
+      "freq": 369,
+      "zipf": 394.108,
+      "mandelbrot": 394.998
     },
     {
       "rank": 6675,
-      "freq": 448,
-      "zipf": 511.613,
-      "mandelbrot": 512.571
+      "freq": 352,
+      "zipf": 370.035,
+      "mandelbrot": 370.887
     },
     {
       "rank": 7008,
-      "freq": 428,
-      "zipf": 480.006,
-      "mandelbrot": 480.928
+      "freq": 336,
+      "zipf": 347.419,
+      "mandelbrot": 348.234
     },
     {
       "rank": 7358,
-      "freq": 407,
-      "zipf": 450.32,
-      "mandelbrot": 451.206
+      "freq": 320,
+      "zipf": 326.164,
+      "mandelbrot": 326.941
     },
     {
       "rank": 7725,
-      "freq": 387,
-      "zipf": 422.505,
-      "mandelbrot": 423.353
+      "freq": 305,
+      "zipf": 306.234,
+      "mandelbrot": 306.973
     },
     {
       "rank": 8111,
-      "freq": 371,
-      "zipf": 396.363,
-      "mandelbrot": 397.173
+      "freq": 289,
+      "zipf": 287.489,
+      "mandelbrot": 288.192
     },
     {
       "rank": 8516,
-      "freq": 353,
-      "zipf": 371.855,
-      "mandelbrot": 372.628
+      "freq": 275,
+      "zipf": 269.904,
+      "mandelbrot": 270.57
     },
     {
       "rank": 8941,
-      "freq": 336,
-      "zipf": 348.874,
-      "mandelbrot": 349.609
+      "freq": 261,
+      "zipf": 253.403,
+      "mandelbrot": 254.033
     },
     {
       "rank": 9388,
-      "freq": 318,
-      "zipf": 327.277,
-      "mandelbrot": 327.975
+      "freq": 247,
+      "zipf": 237.884,
+      "mandelbrot": 238.481
     },
     {
       "rank": 9857,
-      "freq": 302,
-      "zipf": 307.032,
-      "mandelbrot": 307.693
+      "freq": 235,
+      "zipf": 223.326,
+      "mandelbrot": 223.889
     },
     {
       "rank": 10349,
-      "freq": 286,
-      "zipf": 288.054,
-      "mandelbrot": 288.68
+      "freq": 223,
+      "zipf": 209.671,
+      "mandelbrot": 210.202
     },
     {
       "rank": 10866,
-      "freq": 272,
-      "zipf": 270.235,
-      "mandelbrot": 270.827
+      "freq": 211,
+      "zipf": 196.84,
+      "mandelbrot": 197.34
     },
     {
       "rank": 11409,
-      "freq": 259,
-      "zipf": 253.513,
-      "mandelbrot": 254.071
+      "freq": 200,
+      "zipf": 184.79,
+      "mandelbrot": 185.261
     },
     {
       "rank": 11979,
-      "freq": 247,
-      "zipf": 237.83,
-      "mandelbrot": 238.356
+      "freq": 190,
+      "zipf": 173.481,
+      "mandelbrot": 173.923
     },
     {
       "rank": 12577,
-      "freq": 233,
-      "zipf": 223.127,
-      "mandelbrot": 223.623
+      "freq": 181,
+      "zipf": 162.872,
+      "mandelbrot": 163.287
     },
     {
       "rank": 13205,
-      "freq": 221,
-      "zipf": 209.331,
-      "mandelbrot": 209.797
+      "freq": 171,
+      "zipf": 152.909,
+      "mandelbrot": 153.299
     },
     {
       "rank": 13865,
-      "freq": 210,
-      "zipf": 196.376,
-      "mandelbrot": 196.814
+      "freq": 162,
+      "zipf": 143.547,
+      "mandelbrot": 143.912
     },
     {
       "rank": 14558,
-      "freq": 199,
-      "zipf": 184.222,
-      "mandelbrot": 184.633
+      "freq": 153,
+      "zipf": 134.758,
+      "mandelbrot": 135.1
     },
     {
       "rank": 15285,
-      "freq": 189,
-      "zipf": 172.83,
-      "mandelbrot": 173.215
+      "freq": 145,
+      "zipf": 126.515,
+      "mandelbrot": 126.834
     },
     {
       "rank": 16049,
-      "freq": 180,
-      "zipf": 162.133,
-      "mandelbrot": 162.494
+      "freq": 137,
+      "zipf": 118.768,
+      "mandelbrot": 119.067
     },
     {
       "rank": 16851,
-      "freq": 170,
-      "zipf": 152.101,
-      "mandelbrot": 152.438
+      "freq": 130,
+      "zipf": 111.498,
+      "mandelbrot": 111.777
     },
     {
       "rank": 17693,
-      "freq": 162,
-      "zipf": 142.69,
-      "mandelbrot": 143.006
+      "freq": 123,
+      "zipf": 104.673,
+      "mandelbrot": 104.934
     },
     {
       "rank": 18577,
-      "freq": 153,
-      "zipf": 133.862,
-      "mandelbrot": 134.157
+      "freq": 117,
+      "zipf": 98.267,
+      "mandelbrot": 98.51
     },
     {
       "rank": 19505,
-      "freq": 145,
-      "zipf": 125.582,
-      "mandelbrot": 125.857
+      "freq": 111,
+      "zipf": 92.254,
+      "mandelbrot": 92.48
     },
     {
       "rank": 20480,
-      "freq": 138,
-      "zipf": 117.809,
-      "mandelbrot": 118.066
+      "freq": 105,
+      "zipf": 86.605,
+      "mandelbrot": 86.816
     },
     {
       "rank": 21504,
-      "freq": 130,
-      "zipf": 110.515,
-      "mandelbrot": 110.754
+      "freq": 99,
+      "zipf": 81.3,
+      "mandelbrot": 81.497
     },
     {
       "rank": 22579,
-      "freq": 123,
-      "zipf": 103.674,
-      "mandelbrot": 103.897
+      "freq": 93,
+      "zipf": 76.322,
+      "mandelbrot": 76.504
     },
     {
       "rank": 23707,
-      "freq": 117,
-      "zipf": 97.261,
-      "mandelbrot": 97.468
+      "freq": 88,
+      "zipf": 71.651,
+      "mandelbrot": 71.821
     },
     {
       "rank": 24892,
-      "freq": 110,
-      "zipf": 91.241,
-      "mandelbrot": 91.434
+      "freq": 83,
+      "zipf": 67.264,
+      "mandelbrot": 67.422
     },
     {
       "rank": 26136,
-      "freq": 104,
-      "zipf": 85.595,
-      "mandelbrot": 85.774
+      "freq": 78,
+      "zipf": 63.146,
+      "mandelbrot": 63.292
     },
     {
       "rank": 27442,
-      "freq": 98,
-      "zipf": 80.298,
-      "mandelbrot": 80.465
+      "freq": 74,
+      "zipf": 59.281,
+      "mandelbrot": 59.417
     },
     {
       "rank": 28814,
-      "freq": 93,
-      "zipf": 75.327,
-      "mandelbrot": 75.482
+      "freq": 70,
+      "zipf": 55.65,
+      "mandelbrot": 55.776
     },
     {
       "rank": 30254,
-      "freq": 87,
-      "zipf": 70.666,
-      "mandelbrot": 70.81
+      "freq": 66,
+      "zipf": 52.244,
+      "mandelbrot": 52.36
     },
     {
       "rank": 31766,
-      "freq": 82,
-      "zipf": 66.293,
-      "mandelbrot": 66.426
+      "freq": 62,
+      "zipf": 49.045,
+      "mandelbrot": 49.153
     },
     {
       "rank": 33354,
-      "freq": 78,
-      "zipf": 62.189,
-      "mandelbrot": 62.313
+      "freq": 58,
+      "zipf": 46.042,
+      "mandelbrot": 46.142
     },
     {
       "rank": 35021,
-      "freq": 73,
-      "zipf": 58.341,
-      "mandelbrot": 58.455
+      "freq": 55,
+      "zipf": 43.223,
+      "mandelbrot": 43.315
     },
     {
       "rank": 36772,
-      "freq": 69,
-      "zipf": 54.729,
-      "mandelbrot": 54.835
+      "freq": 51,
+      "zipf": 40.576,
+      "mandelbrot": 40.661
     },
     {
       "rank": 38610,
-      "freq": 65,
-      "zipf": 51.342,
-      "mandelbrot": 51.439
+      "freq": 48,
+      "zipf": 38.092,
+      "mandelbrot": 38.17
     },
     {
       "rank": 40540,
-      "freq": 61,
-      "zipf": 48.164,
-      "mandelbrot": 48.254
+      "freq": 45,
+      "zipf": 35.759,
+      "mandelbrot": 35.832
     },
     {
       "rank": 42567,
-      "freq": 57,
-      "zipf": 45.182,
-      "mandelbrot": 45.265
+      "freq": 42,
+      "zipf": 33.569,
+      "mandelbrot": 33.636
     },
     {
       "rank": 44695,
-      "freq": 54,
-      "zipf": 42.385,
-      "mandelbrot": 42.462
+      "freq": 40,
+      "zipf": 31.513,
+      "mandelbrot": 31.575
     },
     {
       "rank": 46929,
-      "freq": 50,
-      "zipf": 39.762,
-      "mandelbrot": 39.833
+      "freq": 37,
+      "zipf": 29.584,
+      "mandelbrot": 29.641
     },
     {
       "rank": 49275,
-      "freq": 47,
-      "zipf": 37.301,
-      "mandelbrot": 37.366
+      "freq": 35,
+      "zipf": 27.772,
+      "mandelbrot": 27.825
     },
     {
       "rank": 51738,
-      "freq": 44,
-      "zipf": 34.992,
-      "mandelbrot": 35.052
+      "freq": 32,
+      "zipf": 26.072,
+      "mandelbrot": 26.12
     },
     {
       "rank": 54324,
-      "freq": 41,
-      "zipf": 32.826,
-      "mandelbrot": 32.882
+      "freq": 30,
+      "zipf": 24.476,
+      "mandelbrot": 24.52
     },
     {
       "rank": 57040,
-      "freq": 39,
-      "zipf": 30.794,
-      "mandelbrot": 30.845
+      "freq": 28,
+      "zipf": 22.977,
+      "mandelbrot": 23.017
     },
     {
       "rank": 59892,
-      "freq": 36,
-      "zipf": 28.888,
-      "mandelbrot": 28.935
+      "freq": 26,
+      "zipf": 21.569,
+      "mandelbrot": 21.607
     },
     {
       "rank": 62886,
-      "freq": 34,
-      "zipf": 27.099,
-      "mandelbrot": 27.143
+      "freq": 25,
+      "zipf": 20.249,
+      "mandelbrot": 20.283
     },
     {
       "rank": 66030,
-      "freq": 32,
-      "zipf": 25.422,
-      "mandelbrot": 25.462
+      "freq": 23,
+      "zipf": 19.009,
+      "mandelbrot": 19.04
     },
     {
       "rank": 69331,
-      "freq": 30,
-      "zipf": 23.848,
-      "mandelbrot": 23.885
+      "freq": 21,
+      "zipf": 17.844,
+      "mandelbrot": 17.873
     },
     {
       "rank": 72797,
-      "freq": 28,
-      "zipf": 22.372,
-      "mandelbrot": 22.405
+      "freq": 20,
+      "zipf": 16.752,
+      "mandelbrot": 16.778
     },
     {
       "rank": 76436,
-      "freq": 26,
-      "zipf": 20.987,
-      "mandelbrot": 21.018
+      "freq": 19,
+      "zipf": 15.726,
+      "mandelbrot": 15.75
     },
     {
       "rank": 80257,
-      "freq": 24,
-      "zipf": 19.688,
-      "mandelbrot": 19.716
+      "freq": 17,
+      "zipf": 14.763,
+      "mandelbrot": 14.785
     },
     {
       "rank": 84269,
-      "freq": 22,
-      "zipf": 18.469,
-      "mandelbrot": 18.495
+      "freq": 16,
+      "zipf": 13.859,
+      "mandelbrot": 13.879
     },
     {
       "rank": 88482,
-      "freq": 21,
-      "zipf": 17.326,
-      "mandelbrot": 17.349
+      "freq": 15,
+      "zipf": 13.01,
+      "mandelbrot": 13.028
     },
     {
       "rank": 92906,
-      "freq": 19,
-      "zipf": 16.253,
-      "mandelbrot": 16.275
+      "freq": 14,
+      "zipf": 12.213,
+      "mandelbrot": 12.23
     },
     {
       "rank": 97551,
-      "freq": 18,
-      "zipf": 15.247,
-      "mandelbrot": 15.267
+      "freq": 13,
+      "zipf": 11.465,
+      "mandelbrot": 11.48
     },
     {
       "rank": 102428,
-      "freq": 17,
-      "zipf": 14.303,
-      "mandelbrot": 14.321
+      "freq": 12,
+      "zipf": 10.763,
+      "mandelbrot": 10.777
     },
     {
       "rank": 107549,
-      "freq": 16,
-      "zipf": 13.418,
-      "mandelbrot": 13.434
+      "freq": 11,
+      "zipf": 10.104,
+      "mandelbrot": 10.116
     },
     {
       "rank": 112926,
-      "freq": 15,
-      "zipf": 12.587,
-      "mandelbrot": 12.602
+      "freq": 10,
+      "zipf": 9.485,
+      "mandelbrot": 9.496
     },
     {
       "rank": 118572,
-      "freq": 14,
-      "zipf": 11.808,
-      "mandelbrot": 11.821
+      "freq": 10,
+      "zipf": 8.904,
+      "mandelbrot": 8.914
     },
     {
       "rank": 124500,
-      "freq": 13,
-      "zipf": 11.077,
-      "mandelbrot": 11.089
+      "freq": 9,
+      "zipf": 8.359,
+      "mandelbrot": 8.368
     },
     {
       "rank": 130725,
-      "freq": 12,
-      "zipf": 10.391,
-      "mandelbrot": 10.402
+      "freq": 8,
+      "zipf": 7.847,
+      "mandelbrot": 7.855
     },
     {
       "rank": 137261,
-      "freq": 11,
-      "zipf": 9.748,
-      "mandelbrot": 9.758
+      "freq": 8,
+      "zipf": 7.367,
+      "mandelbrot": 7.374
     },
     {
       "rank": 144124,
-      "freq": 10,
-      "zipf": 9.144,
-      "mandelbrot": 9.153
+      "freq": 7,
+      "zipf": 6.915,
+      "mandelbrot": 6.922
     },
     {
       "rank": 151330,
-      "freq": 9,
-      "zipf": 8.578,
-      "mandelbrot": 8.586
+      "freq": 7,
+      "zipf": 6.492,
+      "mandelbrot": 6.498
     },
     {
       "rank": 158896,
-      "freq": 9,
-      "zipf": 8.047,
-      "mandelbrot": 8.054
+      "freq": 6,
+      "zipf": 6.094,
+      "mandelbrot": 6.099
     },
     {
       "rank": 166840,
-      "freq": 8,
-      "zipf": 7.549,
-      "mandelbrot": 7.555
+      "freq": 6,
+      "zipf": 5.721,
+      "mandelbrot": 5.726
     },
     {
       "rank": 175182,
-      "freq": 8,
-      "zipf": 7.082,
-      "mandelbrot": 7.087
+      "freq": 5,
+      "zipf": 5.371,
+      "mandelbrot": 5.375
     },
     {
       "rank": 183941,
-      "freq": 7,
-      "zipf": 6.643,
-      "mandelbrot": 6.648
+      "freq": 5,
+      "zipf": 5.042,
+      "mandelbrot": 5.045
     },
     {
       "rank": 193138,
-      "freq": 7,
-      "zipf": 6.232,
-      "mandelbrot": 6.236
+      "freq": 5,
+      "zipf": 4.733,
+      "mandelbrot": 4.736
     },
     {
       "rank": 202794,
-      "freq": 6,
-      "zipf": 5.846,
-      "mandelbrot": 5.85
+      "freq": 4,
+      "zipf": 4.443,
+      "mandelbrot": 4.446
     },
     {
       "rank": 212933,
-      "freq": 6,
-      "zipf": 5.484,
-      "mandelbrot": 5.488
+      "freq": 4,
+      "zipf": 4.171,
+      "mandelbrot": 4.173
     },
     {
       "rank": 223579,
-      "freq": 5,
-      "zipf": 5.145,
-      "mandelbrot": 5.148
+      "freq": 4,
+      "zipf": 3.916,
+      "mandelbrot": 3.917
     },
     {
       "rank": 234757,
-      "freq": 5,
-      "zipf": 4.826,
-      "mandelbrot": 4.829
+      "freq": 4,
+      "zipf": 3.676,
+      "mandelbrot": 3.677
     },
     {
       "rank": 246494,
-      "freq": 4,
-      "zipf": 4.527,
-      "mandelbrot": 4.53
+      "freq": 3,
+      "zipf": 3.451,
+      "mandelbrot": 3.452
     },
     {
       "rank": 258818,
-      "freq": 4,
-      "zipf": 4.247,
-      "mandelbrot": 4.249
+      "freq": 3,
+      "zipf": 3.239,
+      "mandelbrot": 3.24
     },
     {
       "rank": 271758,
-      "freq": 4,
-      "zipf": 3.984,
-      "mandelbrot": 3.986
+      "freq": 3,
+      "zipf": 3.041,
+      "mandelbrot": 3.042
     },
     {
       "rank": 285345,
-      "freq": 4,
-      "zipf": 3.738,
-      "mandelbrot": 3.739
+      "freq": 3,
+      "zipf": 2.855,
+      "mandelbrot": 2.855
     },
     {
       "rank": 299612,
-      "freq": 3,
-      "zipf": 3.506,
-      "mandelbrot": 3.507
+      "freq": 2,
+      "zipf": 2.68,
+      "mandelbrot": 2.68
     },
     {
       "rank": 314592,
-      "freq": 3,
-      "zipf": 3.289,
-      "mandelbrot": 3.29
+      "freq": 2,
+      "zipf": 2.516,
+      "mandelbrot": 2.516
     },
     {
       "rank": 330321,
-      "freq": 3,
-      "zipf": 3.086,
-      "mandelbrot": 3.086
+      "freq": 2,
+      "zipf": 2.362,
+      "mandelbrot": 2.362
     },
     {
       "rank": 346837,
-      "freq": 3,
-      "zipf": 2.894,
-      "mandelbrot": 2.895
+      "freq": 2,
+      "zipf": 2.217,
+      "mandelbrot": 2.217
     },
     {
       "rank": 364178,
       "freq": 2,
-      "zipf": 2.715,
-      "mandelbrot": 2.716
+      "zipf": 2.081,
+      "mandelbrot": 2.081
     },
     {
       "rank": 382386,
       "freq": 2,
-      "zipf": 2.547,
-      "mandelbrot": 2.548
+      "zipf": 1.954,
+      "mandelbrot": 1.954
     },
     {
       "rank": 401505,
       "freq": 2,
-      "zipf": 2.39,
-      "mandelbrot": 2.39
+      "zipf": 1.834,
+      "mandelbrot": 1.834
     },
     {
       "rank": 421580,
       "freq": 2,
-      "zipf": 2.242,
-      "mandelbrot": 2.242
+      "zipf": 1.722,
+      "mandelbrot": 1.722
     },
     {
       "rank": 442659,
-      "freq": 2,
-      "zipf": 2.103,
-      "mandelbrot": 2.103
+      "freq": 1,
+      "zipf": 1.616,
+      "mandelbrot": 1.616
     },
     {
       "rank": 464791,
-      "freq": 2,
-      "zipf": 1.973,
-      "mandelbrot": 1.973
+      "freq": 1,
+      "zipf": 1.517,
+      "mandelbrot": 1.517
     },
     {
       "rank": 488030,
-      "freq": 2,
-      "zipf": 1.85,
-      "mandelbrot": 1.85
+      "freq": 1,
+      "zipf": 1.424,
+      "mandelbrot": 1.424
     },
     {
       "rank": 512431,
-      "freq": 2,
-      "zipf": 1.736,
-      "mandelbrot": 1.736
+      "freq": 1,
+      "zipf": 1.337,
+      "mandelbrot": 1.337
     },
     {
       "rank": 538052,
       "freq": 1,
-      "zipf": 1.628,
-      "mandelbrot": 1.628
+      "zipf": 1.255,
+      "mandelbrot": 1.255
     },
     {
       "rank": 564954,
       "freq": 1,
-      "zipf": 1.528,
-      "mandelbrot": 1.527
+      "zipf": 1.178,
+      "mandelbrot": 1.178
     },
     {
       "rank": 593201,
       "freq": 1,
-      "zipf": 1.433,
-      "mandelbrot": 1.433
+      "zipf": 1.106,
+      "mandelbrot": 1.106
     },
     {
       "rank": 622861,
       "freq": 1,
-      "zipf": 1.344,
-      "mandelbrot": 1.344
+      "zipf": 1.038,
+      "mandelbrot": 1.038
     },
     {
       "rank": 654004,
       "freq": 1,
-      "zipf": 1.261,
-      "mandelbrot": 1.261
+      "zipf": 0.975,
+      "mandelbrot": 0.974
     },
     {
       "rank": 686704,
       "freq": 1,
-      "zipf": 1.183,
-      "mandelbrot": 1.183
+      "zipf": 0.915,
+      "mandelbrot": 0.915
     },
     {
       "rank": 721039,
-      "freq": 1,
-      "zipf": 1.11,
-      "mandelbrot": 1.109
-    },
-    {
-      "rank": 757090,
-      "freq": 1,
-      "zipf": 1.041,
-      "mandelbrot": 1.041
-    },
-    {
-      "rank": 794944,
-      "freq": 1,
-      "zipf": 0.977,
-      "mandelbrot": 0.976
-    },
-    {
-      "rank": 834691,
-      "freq": 1,
-      "zipf": 0.916,
-      "mandelbrot": 0.916
-    },
-    {
-      "rank": 876425,
       "freq": 1,
       "zipf": 0.859,
       "mandelbrot": 0.859
     },
     {
-      "rank": 920246,
+      "rank": 757090,
       "freq": 1,
       "zipf": 0.806,
       "mandelbrot": 0.806
     },
     {
-      "rank": 966258,
+      "rank": 794944,
       "freq": 1,
-      "zipf": 0.756,
+      "zipf": 0.757,
       "mandelbrot": 0.756
     },
     {
-      "rank": 1014570,
+      "rank": 834691,
       "freq": 1,
-      "zipf": 0.709,
-      "mandelbrot": 0.709
+      "zipf": 0.711,
+      "mandelbrot": 0.71
     }
   ]
 }

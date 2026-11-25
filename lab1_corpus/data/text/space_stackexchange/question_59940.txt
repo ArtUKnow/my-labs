@@ -1,0 +1,2 @@
+Why does the hot side of the JWST seem so much hotter than any other satellite?
+The JWST has a hot side of 125$^\circ$C, according to NASA. Is it the only space vessel to get that hot? This site talks about many aspects concerning the temperature of satellites, but none of them mention such inhospitably high values. Indeed, we often read that the Hubble enjoys an "earth-like" temperature. That is not the most scientific of terms, but it is a phrase often repeated on official web pages. Is the big difference caused by the JWST being in more absolute vacuum?

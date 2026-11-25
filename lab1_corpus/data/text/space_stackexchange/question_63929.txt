@@ -1,0 +1,4 @@
+How to screen commercial electronics components for radiation tolerance
+How would I actually go about qualifying COTS components for use in space, especially re radiation tolerance. I found some good stuff on the requirements for doing so, especially:
+How to test the impact of radiation on cubesat's electronics?
+but how do I actually go about doing the qualification? I find a test lab, ok, how many parts should I send? Do I assemble a half-dozen test boards and send them? I can't test them without having them mounted on a board, after all.

@@ -1,0 +1,4 @@
+Existing tools to generate a realistic distribution of TLEs for debris 1 cm and up?
+I'm new to this field so sorry if this is a dumb question.
+I could take the flux from ORDEM and extrapolate but I don't want to re-invent the wheel here. This is for ground to space LIDAR simulation which will guide our prototype configuration.
+Surely there's a tool to do this already?

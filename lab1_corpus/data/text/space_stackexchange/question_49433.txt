@@ -1,0 +1,13 @@
+What ever happened to 6Q0B44E - potentially the "artificial satellite (with) the farthest orbit around the Earth"?
+I just started flipping through Handbook of Space Engineering Archaeology, and Heritage Space Hardware Ann Darrin & Beth L. O'Leary, Eds. 2009, CRC Press, Boca Raton, 1035 pages
+It looks as though it's going to be a wonderful read!
+On page 452 of Chapter 22 Space Hardware: Mystery Solving I see mention of the object 6Q0B44E. That Wikipedia article has a 7 MB GIF which suggest a chaotic three-body orbit in cis-lunar space. The last frame of that GIF (made from Horizons output with the Moon's orbit included) is shown below.
+JPL's Horizons will show a simulated trajectory between 2004-Jan-1 and 2009-Jan-1 and the output says:
+Revised: Mar 09, 2007 6Q0B44E -997
+Data arc : 2006-Aug-28 to 2007-Mar-07
+# of obs : 48
+Time-span: 2004-Jan-1 to 2009-Jan-1
+Soln # : 32 (from JPL/P. Chodas)
+Question: What happened? Why are there no observations shown in the Horizons database after it's seven month observation arc ended? Did it escape? Did people loose interest in looking for it or tracking it? It seems like the three-body chaotic orbit would have been quite a fun "science project" to track and to compare to calculations!
+It could also be a new answer to What artificial satellite has the farthest orbit around the Earth?
+related: Have there been any documented mini-moons since 2006 RH120?

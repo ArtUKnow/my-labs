@@ -1,0 +1,5 @@
+What is the highest minor planet provisional designation "repeat number"?
+According to one website, as of 2012, the highest "repeat number" (i.e., the numeral that follows a provisional designation - think the "69" in $2014 \space MU_{69}$) was 531 ($2005 \space UA_{531}$).
+To investigate what the largest number is now, I tried to look up the number of new minor planets by month (see MPC), but this was last updated in 2019. This was also complicated by the skipping of certain designators (I think by retraction), so the obvious method of converting from, e.g. the 14208 discoveries in H2 of January 2015 to $2015
+\space BJ_{568}$ (since 14208=25*568+8) did not work, as $2015 \space BV_{619}$ (among many others later in the sequence) exist.
+What is the largest repeat number for provisional designations?

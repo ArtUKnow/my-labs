@@ -1,0 +1,7 @@
+Falcon 9 TVC: Which engines participate in roll control?
+Stage 1 of Falcon 9 uses its gimballed engines during launch to control roll, pitch, and yaw.
+Only the eight peripheral engines can be used for roll control since the center engine couldn't possibly exert a significant counter torque about the rocket's length axis.
+But eight engines seems overkill for roll control... Do they all participate in roll control or is it just a subset of the eight that do?
+It seems four engines would suffice, or maybe even just two (in pairs of diametrically opposed engines).
+Sources would be appreciated, but if you don't have them handy, a comment pointing me in the right direction would still do.
+Would be curious also if all engines participate in pitch and yaw control, or if again only some of them do. Thanks!!!

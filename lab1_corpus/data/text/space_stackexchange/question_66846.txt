@@ -1,0 +1,8 @@
+How cheap would rocket fuel have to be to make Mars colonization feasible (according to Musk)?
+Elon Musk tweeted recently:
+SpaceX created the first fully reusable rocket stage and, much more importantly, made the reuse economically viable.
+Making life multiplanetary is fundamentally a cost per ton to Mars problem.
+It currently costs about a billion dollars per ton of useful payload to the surface of Mars. That needs to be improved to $100k/ton to build a self-sustaining city there, so the technology needs to be 10,000 times better. Extremely difficult, but not impossible.
+Currently, launching Falcon Heavy costs \$90M. \$0.5M of this cost is fuel. But if technology costs were reduced by a factor 10,000, as Musk wants (through reuse, economies of scale, etc.), then fuel cost would dominate by a large margin.
+Reaching Mars requires energy. On top of this, rockets waste most of their propellant accelerating the remaining propellant (rather than the payload).
+Taking that into account (and ignoring the rocket's dry mass, for simplicity), I wonder how cheap the propellant would have to be to make the cost of reaching Mars equal $100k/ton?

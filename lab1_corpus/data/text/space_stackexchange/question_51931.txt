@@ -1,0 +1,4 @@
+Are the delta-V requirements for outgoing Hohmann transfer the same as for incoming between two specified semi-major axes?
+From a specified circular orbit it is often said that it is easier to go out than in, referring to the fact that achieving escape velocity from a circular orbit takes less delta-V than achieving zero velocity.
+I originally thought this would apply as well to transfers between orbits, i.e., given two orbital radii $A$ and $B$, with $A<B$, it would take less delta-V to perform a Hohmann transfer from a circular orbit with radius $A$ to radius $B$ (with circularization at $B$) than for the inverse. But then I realized these two transfers are time-reversible and so the delta-Vs should be same in magnitude while inverted in sign.
+I just wanted to check that my second thought is correct: delta-V requirements for Hohmann transfers, with circularization at the end, is the same whether going out or in between two specified circular orbits.

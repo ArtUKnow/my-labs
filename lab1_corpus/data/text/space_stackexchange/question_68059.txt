@@ -1,0 +1,23 @@
+Does the Moon really need its own atomic clocks and timescales, separate from those used on and around Earth?
+Recently there was a flurry of "The Moon needs it's own atomic clocks" popular news items (see a sampling, below). The premise is that since "time works differently there" and Earth's GPS time is hard to receive cis-lunar and looses time wrt lunar time (due to being lower in a gravitational potential well) cis-lunar space and the lunar surface need their own timescale and time infrastructure (atomic clocks on the surface and/or in orbit).
+But I really don't understand why these are needed.
+The GNSS satellites around the Earth are at nowhere near the same gravitational potential as the Earth's surface for which they provide ultra-accurate time, and yet it all works out because we have general relativity, math, antennas, and floating point operations on little computer chips.
+Where in the world does GPS time proceed at one second per second? Is there a map?
+So I think the argument that you gotta have all new atomic clocks on or around the Moon because it's a different gravitational potential are moot.
+One might instead argue that you can't get signals from Earth because GNSS satellites are too far away and point towards Earth's surface are similarly moot, because 1) it's already being done:
+How far up have satellites used a GNSS for positioning, and how does the precision degrade with altitude?
+GPS/GNSS at cis-lunar and the Moon; what exactly did LuGRE do, and how did it do it?
+and 2) because it wouldn't be so hard to add a few more satellites pointing towards the Moon all the time, instead of the occasional times the ground-pointing signals spill over towards the Moon.
+Can someone punch enough holes in my logic (or perhaps just bias) and point out the rock-solid arguments why a new timescale and new atomic clock infrastructure is really needed for cis-lunar space and the lunar surface?
+Why can't math, chips, and antennas be used to just bootstrap from Earth? What are the quantitative arguments against that?
+I mean, due to fifty years of laser range finding via those Apollo corner cube arrays, we've got the Moon's position and libration down to centimeters. So "too far away to be accurate" doesn't seem valid either.
+Is the need real, or is it "space pork"?
+Related:
+What are the likely issues and challenges in developing LTC: Coordinated Lunar Time?
+How would a spacecraft figure out its own orbit, without help from earth?
+per request, a gratuitous sampling from the "flurry of 'The Moon needs it's own atomic clocks' popular news items"
+Why the Moon needs its own time
+What time is it on the moon? Researchers develop a plan for precise timekeeping
+The Moon Needs Its Own Time Zone. Relativity Says It Also Needs Its Own Clocks
+Why scientists say we need to send clocks to the moon — soon
+Scientists Say The Moon Needs Its Own Lunar Time Zone. Here's Why.

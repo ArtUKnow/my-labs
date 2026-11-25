@@ -1,0 +1,3 @@
+How large can heatshield holes be?
+The tiles on the underside of the STS Orbiter had gaps between them to allow for the frame underneath to shift slightly. However, if the gaps were too large fillers were used.
+What controls the acceptable size of a gap, and is it related to the depth of the gap?

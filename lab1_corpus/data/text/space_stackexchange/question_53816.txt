@@ -1,0 +1,3 @@
+Can Mars orbiters be disposed in the atmosphere, as it is done on Earth?
+There are a fair number of spacecraft currently orbiting Mars, and each will eventually reach the end of its useful life. Satellites in low Earth orbit are routinely de-orbited at the end of their life, burning up in Earth's atmosphere. Is de-orbiting a similarly reliable way to dispose of satellites in Mars orbit? Can a re-entering object without a heat shield be expected even in the worst cases to burn up, vaporize, or at least be broken up into pieces that cause no greater impact to equipment, future astronauts, or natural features than the endogenous dust storms?
+Related: If I drop a feather from orbit, would it burn up or "hit" the ground?

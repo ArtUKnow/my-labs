@@ -1,0 +1,2 @@
+What are QPOs (Quasi-Periodic-Oscillations)?
+I am struggling to understand how QPOs detected in X-ray binaries look different from bursts or pulses when I look at the light curve. I read they are mainly studied using the power density spectrum, but I don't get the point. Why can't I just use the light curve? And how would they appear in it? Any suggestion is appreciated.

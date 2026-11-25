@@ -1,0 +1,13 @@
+Last Thursday's mile-wide asteroid that missed: what angle would it have hit?
+Last Thursday, the Planetary Defense Force(!) watched not one, but TWO asteroids miss us again. The same day.
+They were each improbable for different reasons: one was closer than the moon, and one was a mile-wide dinosaur killer (4 times as far as the Webb telescope). But even the small one (below) was 500 feet wide:
+They weren't a threat. You multiply probabilities: small x small = teeny.
+My question is not about the danger; it relates to the angle of entry into the atmosphere.
+in videos, I noticed that all the meteors appear to be entering almost parallel to the Earth's surface (tangent to the planet). That always seemed to me to be an amazing coincidence. Why aren't they raining down from overhead?
+One explanation is that if it came from overhead, it wouldn't cover very much sky.
+But it occurred to me that if you see a meteor, it will almost always shoot across the sky approximately parallel to the surface, because the percentage of the hemisphere that is a specific angle away from dead center increases with the angle. There's much more land (and population) near the earth's limb than there is directly below the Rock of Doom.
+HOWEVER, from the point of view of the asteroid, most of the target is close to dead center. The asteroid can barely see the cities on the horizon, but Hawaii looms large.
+This seems a contradiction.
+MY QUESTION IS: what function describes the probability of the angle at which a meteor enters the atmosphere (it would involve a cosine), given that most asteroids orbit near the ecliptic?
+Except, the ecliptic clustering doesn't affect the entry angle, it would only tend to make meteors more likely to come from that direction in the sky.
+Right?

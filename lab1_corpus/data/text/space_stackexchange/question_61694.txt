@@ -1,0 +1,9 @@
+Calculating momentum exchange of rotating skyhook
+I am struggling to understand how momentum is exchanged during a rotating skyhook's interaction with a payload, during capture and after release. I am a layman in physics, please be forgiving if I've made any glaring errors.
+Here is what I've got:
+In an ideal case, the suborbital vehicle matches speed with the hook and thereafter all the forces are directed along the tether's length. Because there is no net torque acting on the tether during and after the hooking (disregarding drag forces), angular momentum is unchanged. If angular momentum is the same while the mass of the tether system increases, then angular velocity must decrease. (I am unsure how to calculate this.) When the vehicle reaches the apex of the tether's swing, it simply lets go and again no net torque is applied. The tether system's mass decreases so angular velocity must increase, presumably back to what it was earlier.
+Initially, I thought the vehicle would depart at the tether's own tangential velocity, but now I'm not so sure. Suppose the tether has a tangential speed of $v$ km/s at the hook. The vehicle was caught when the hook was moving at -$v$ km/s and later was released when the hook was moving at +$v$ km/s, for a total of $2v$ km/s. If the vehicle leaves the tether with speed $2v$, then it has gained momentum $2mv$ from the tether. Because there is no net torque, that momentum should come from the linear/orbital momentum of the tether's center-of-mass, so the tether system gains -$2mv$.
+Basically:
+$$-mv + M(0) = mv + Mu;$$
+where $M(0)$ is the initial momentum of the tether (in its own COM frame), $-mv$ is the initial momentum of the vehicle, and $u$ is the final velocity of the tether after release.
+Is my understanding correct, or am I wildly off track? If the latter, then how should I go about calculating the exchange between the rotating tether satellite and payload?

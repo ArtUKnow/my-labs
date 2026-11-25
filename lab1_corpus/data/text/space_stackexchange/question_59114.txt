@@ -1,0 +1,2 @@
+Do monopropellants have a characteristic length?
+I was reading about calculating thrust chamber geometry, and a key tool seems to be the characteristic length, L*. The engine I'm modelling (hypothetically! please don't take down the question) uses HTP, and not only have I found no values for a corresponding characteristic length, but that, as it is defined, the minimum length for complete combustion, doesn't really apply as there is none. Does this concept still apply to monopropellants, and if not, are there any other means to approximate combustion chamber geometry?

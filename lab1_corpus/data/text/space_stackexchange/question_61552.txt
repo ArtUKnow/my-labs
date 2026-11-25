@@ -1,0 +1,4 @@
+What does "pogo bleed" entail?
+At around T-3:00 on every Falcon 9 countdown, we hear the following:
+Stage 1 pogo bleed verification
+I assume they are referring to pogo oscillation, but what exactly does "pogo bleed" mean and what does it entail?

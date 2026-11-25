@@ -1,0 +1,2 @@
+Disadvantages of a short radius centrifuge for gravity simulation in space
+For a free-floating space colony, what problems would the residents encounter if the radius of the centrifuge would be significantly less? I recently saw a video on this. It said that after a 10 day training course, people could adapt to low-radius centrifuge going as fast as 17 rpm. So, what are some other disadvantages? And to combat these problems, what would be an ideal radius?

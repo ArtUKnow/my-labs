@@ -1,0 +1,11 @@
+What phenomenon could produce the luminous spots that Herschel took for lunar volcanoes?
+In April 1787, astronomer William Herschel observed luminous spots on the Moon. His observations were communicated to the Royal Society. Herschel interpreted his observations as volcanic eruptions:
+I perceive three volcanoes in different places of the dark part of the
+new moon. [...] The third shews an actual eruption of fire, or
+luminous matter.
+It was not a short-lived phenomenon, as he observed it again the next night:
+The volcano burns with greater violence than last night.
+Herschel's interpretation was latter dismissed. 19th century astronomers thought these bright spots were just lunar features illuminated by earthshine, although there were some voices questioning this, like Thomas Gwyn Elger in this letter:
+Are we quite justified in assuming that Sir William Herschel was
+"deceived"?
+More recently, it has been proposed that Herschel's observation was indeed molten rock, although not of volcanic origin, but impact melt produced by a meteor shower. Other than that, it does not seem that astronomers have put much thought into this (or I missed something while searching). In light of our current knowledge (of the Moon, of optical phenomenons...), what could have caused the bright spots observed by Herschel?

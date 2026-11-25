@@ -1,0 +1,4 @@
+Hohmann transfer using GMAT software
+I am trying to plot an orbit using gmat. I fixed apogee(RadApo) and perigee(RadPer) for the inner orbit(green) and inserted an impulsive burn.
+I got the desired shape of the outer orbit but I am unable to know how do I find relation between the velocity on impulsive burn (element-1) and the apogee of the second orbit.
+It would be very helpful of anyone if I can get this relation or If I can know what is the RadApo(apogee) for the second orbit(Red)

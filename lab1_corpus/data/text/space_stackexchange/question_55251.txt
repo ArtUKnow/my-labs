@@ -1,0 +1,9 @@
+Are the original ISS solar panels single or polycrystalline silicon? What about the new ROSA roll-out arrays?
+Most silicon photovoltaic arrays on Earth are silicon (no layers of III-V material for added efficiency) and they are grown as polycrystalline silicon rather than sliced from single crystal silicon lowering the cost substantially.
+Answer(s) to Why does the ISS not use the most efficient solar panels available? tell us that the ISS' original panels are single junction silicon rather than dual or triple junction stacks for reasons of weight.
+The ease of breakage of the individual elements in the original arrays described in this answer to How are the silicon PV cells constructed in the ISS's solar panels? Are they as flexible as they appear here? suggest they are polycrystalline silicon (a good silicon wafer without scratches is surprisingly durable) but it's not yet definitively established.
+My guess is that for practical reasons both original and ROSA silicon will be polycrystalline, which is far cheaper to manufacture than thin single crystal, but so far I don't have a source that establishes this with certainty.
+Question:
+Related:
+How does ROSA unroll? (Roll Out Solar Array)
+Total Mass of the ISS Solar Array

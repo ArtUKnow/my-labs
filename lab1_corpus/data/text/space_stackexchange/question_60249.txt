@@ -1,0 +1,9 @@
+Could we use Mars as as an asteroid mining base?
+After getting a lot of helpful feedback I've arrived at a question:
+What if we setup base on Mars:
+I) Mine water, and split it for propellant.
+II) Load up light weight (expandable?) rockets with it.
+III) Send them in-ward towards an asteroid belt.
+IV) Capture asteroids and tug them to earth orbit
+V) If possible, setup a space elevator to slingshot rockets to asteroids.
+Would the speed difference (with an asteroid) of a rocket launched from Mars (vs a rocket slingshot back around Jupiter) be small enough to successfully capture an asteroid?

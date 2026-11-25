@@ -1,0 +1,2 @@
+Why does the Global Positioning System include particular numbers of satellites?
+The Global Positioning System (GPS) includes at least 24 satellites operating approximately 20,200 kilometers above the earth and distributed in six orbits. Why 24 satellites, six orbits, and 20,200 kilometers?

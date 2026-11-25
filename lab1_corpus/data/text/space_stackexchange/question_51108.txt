@@ -1,0 +1,7 @@
+Are Perseverance's wheels really this big?
+Business Insider's What is it like to drive the Perseverance rover remotely? A NASA engineer explains the challenges of piloting the vehicle's journey across Mars. includes the following:
+(Heather Justice, a NASA engineer from the Perseverance rover team) said: "An example of that would be the autonomous navigation where we've done a lot of improvements on the software so that the rover can drive further on its own. Hopefully in the long term that will make it easier for us to get longer drives in which will let us get to the places that science really wants us to go to."
+"There have also been hardware improvements, where the wheels are different from Curiosity so that they are more robust to drive over sharp rocks," she added.
+The quote is accompanied by the image and caption below.
+Question: The wheel looks a lot bigger than I'd thought it was. Could this possibly have been a 2x model? How large are these wheels exactly?
+Adam Steltzner, Perseverance chief engineer, shows a rover wheel during a NASA Perseverance rover mission engineering and technology overview.

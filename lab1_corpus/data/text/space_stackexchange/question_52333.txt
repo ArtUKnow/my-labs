@@ -1,0 +1,3 @@
+How were winds measured for ascent trajectory calculations and checks for the Space Shuttle?
+The Space Shuttle's ascent trajectory was calculated on the day of launch based on measured winds to avoid structural load exceedances. The winds continued to be measured until shortly before launch in order to run simulations that continued to check for load exceedances.
+How were the winds measured?

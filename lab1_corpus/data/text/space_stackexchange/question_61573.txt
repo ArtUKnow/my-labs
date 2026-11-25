@@ -1,0 +1,3 @@
+Could you observe air-drag on an ISS spacewalk?
+The ISS orbits in the thermosphere and needs periodic re-boosts because of air-drag. At the other extreme, the slowest(?) fixed-wing aircraft are f1d planes made out of 2 grams of balsa wood, microfilm, and rubber bands.
+How would an F1D plane, built for low-speed dense air, react to the tenuous but hypersonic wind outside the ISS? Would the plane be visibly buffeted and slowed down?

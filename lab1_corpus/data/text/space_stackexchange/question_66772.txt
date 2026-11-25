@@ -1,0 +1,2 @@
+Hypothetical Shuttle tank sep with SRBs firing
+Hypothetically, say you had 5 secs warning of a SRB destruction event in the SRB ascent phase of Shuttle. My understanding is that there was no abort possible during the SRB phase, so no RTLS, no ocean water landing, nothing. But say it was a disconnect or blow up situation... would you rather do a tank sep or blow off both SRBs mid burn? Would there be any escape path for Shuttle without collision?

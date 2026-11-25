@@ -1,0 +1,2 @@
+Request for Information on how to make a FITS Image
+I know that at the end of the Receivers in Radio Telescopes, after the final Amplifier the analog signal will be given to the ADC. Now this ADC converts the analog signal into a stream of binary bits. I want to how do we convert this stream of binary bits into a FITS image of the area of the sky that I'm observing. I'm asking this with respect to a single dish observation and not with interferometers.

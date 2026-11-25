@@ -1,0 +1,7 @@
+Does Tianwen-1 have a near-repeat ground track orbit in order to scan the same general area on each of its low altitude passes?
+Though it's not as easy1 to get details on Chinese missions in English, it seems that Tianwen-1 is in a 12,000 x 256 km highly eccentric orbit around Mars, with its hi res cameras able to resolve 0.5 meters during "periMars"2. If so that makes the semimajor axis $(256 + 3396 + 12,000 + 3396)/2 = 9524$ km and with $GM=4.283 \times 10^{4} \ km^3/s^2$ that makes the period 7.8 hours, or not quite Mars' sidereal day of 24.62 hours divided by three.
+Question: Does it turn out that the period is a little longer than the number above and the orbit is much closer to repeat ground track3 over the proposed landing site than this envelope-back estimate suggests?
+Or are the weeks or months of orbit before landing enough to scan the area over time by "filling in the blanks" over successive passes?
+1 Where can I find access to information provided by CNSA and Chinese scientists and reputable science authors?
+2 this answer to Will the HiRes camera of the Chinese orbiter be capable of seeing the shadows of the landers and rovers on Mars?
+3 Are there terms for Earth orbits with rational number multiples of 1 sidereal day?

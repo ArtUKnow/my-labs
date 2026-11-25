@@ -1,0 +1,10 @@
+Are there any proposals for propulsive debris deorbiting which address basic requirements for efficiency?
+This illustration shows many of the challenges using propulsive deorbiting:
+https://www.smithsonianmag.com/air-space-magazine/34_aug2017-cleaning-up-space-junk-180963932
+The trust line of the tug is aimed nowhere near the center of mass of the debris. The majority of thrust will produce angular momentum, not retrograde thrust.
+The trust direction has a radial component , which is a waste for deorbiting. Useful thrust is retrograde. Out-of-plane thrust is a complete waste. Radial thrust is inefficient.
+If this is a single-use tug, it will re-enter with the debris, an inefficient use of its launch costs.
+If this is a multi-use tug, it will need to prograde burn to climb back up to service altitude.
+Single-point grapple makes for unreliable thrust alignment during burn.
+If propulsive junk deorbiting is to be worthwhile, it must make economical use of resources. Propulsion must be retrograde and through the center of mass. Multi-use “motherships” for rendezvous must not be put on a re-entry orbit by the retrograde burn.
+Are there any propulsive deorbit proposals which answer these challenges?

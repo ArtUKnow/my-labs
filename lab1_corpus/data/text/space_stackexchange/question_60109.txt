@@ -1,0 +1,4 @@
+Revisit time estimation for a SAR constellation
+I am studying satellite coverage analysis and I have read something about revisit time I did not understand.
+you can increase and increase the number of satellites to further improve the revisit time, but there is a limit if you use one plane constellation. The maximum revisit time you can achieve is 1 day, because you have to wait for the earth to rotate. Even if you put infinite satellites, you have to wait one day for EO sensors or 12 hours for SAR.
+I do not understand or rather I cannot visualize how the increase in the number of satellites on the same orbital plane cannot bring about an improvement in the revisit time. On the other hand I have also read that the maximum number of satellites for which there is an improvement in the revisit time is 6 (always on the same orbital plane). Could someone clarify this concept for me, perhaps using animations or images? Thanks in advance

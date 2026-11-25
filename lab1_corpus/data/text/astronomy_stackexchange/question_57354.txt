@@ -1,0 +1,5 @@
+Can Neutron Star merger remnants solve the black hole mass gap? Why can't we observe them?
+The mass of neutron stars is generally agreed to be anywhere between the Chandrasekhar limit of $1.39M☉$ and the Tolman–Oppenheimer–Volkoff limit, which ranges from $2–2.16M☉$. Anything above is believed to collapse into either exotic stars or black holes. The mass gap lies in the fact that the lowest mass black hole detected to date stands only at $5M☉$, while exotic stars are unconfirmed and have yet to be observed.
+This made me question if we could observe the remnants of Neutron star mergers to observe what's really happening in this mass gap. Even accounting for mass loss to gravitational waves, these remnants should easily exceed even the largest Neutron star discovered.
+Put it another way, why can't we observe these merger remnants?
+Related: What is the current understanding of the results of the merger associated with GW190425? Black hole? Neutron star? Something else?

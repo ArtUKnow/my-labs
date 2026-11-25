@@ -1,0 +1,14 @@
+Propellantless propulsion in gravity field
+I have a proposal for a following propellantless maneuver. It is propellantless in sense that no mass is lost from spacecraft.
+It is not reactionless as spacecraft interacts with planet through gravity field. Also law of conservation of energy stands and spacecraft needs an energy source.
+Lets assume spacecraft is orbiting planet on an elliptic orbit(orbit is in plane z=0). Spacecraft consists of ejectable reaction mass and main spacecraft - both are of same mass.
+At some place in the orbit spacecraft ejects the reaction mass perpendicular to original orbital plane. As both are of same mass following observations can be made:
+both new orbits are symmetric around original orbital plane
+because of symmetry both new orbits will intersect, and the point of intersection will be on the original orbital plane
+because of symmetry both spacecraft and reaction mass will meet at the same the same time at this point
+Lets now assume that the spacecraft captures the reaction mass at this point. Because of symmetry Vx and Vy components of both parts(main spacecraft and reaction mass) will be the same. Vz vectors will be in opposite directions with equal magnitudes, so for capturing Vz has to be absorbed. After capture new orbit will be formed and spacecraft will have the same mass as in the beginning. Also the new orbit will be in the same plane as original orbit.
+Now if the speed of ejection is greater than the speed of capture it means that some energy from ejection is left in the orbit. Opposite is true for case when energy absorbed at capture is greater than ejection energy.
+Same maneuver can also be completed with hyperbolic escape trajectories(and if capture point tends to infinity efficiency tends to 1 - all energy of ejection is transferred into the new trajectory).
+For specific examples tools like NASA GMAT can be used.
+Any comments?
+Edit: I created a demonstration for the maneuver: https://andrisa1.github.io/propellantless.html

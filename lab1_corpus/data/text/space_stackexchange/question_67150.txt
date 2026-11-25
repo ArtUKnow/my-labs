@@ -1,0 +1,4 @@
+How does changing the elevation angle allow starlink to improve line of sight communications
+According to this article: https://arstechnica.com/tech-policy/2024/10/spacex-claims-starlink-can-offer-gigabit-speeds-if-fcc-approves-new-plan/
+SpaceX seeks to lower its minimum elevation angle from 25 degrees to 20 degrees for satellites operating between 400 and 500 km altitude," SpaceX told the FCC. "Reducing the minimum elevation angle in this way will enhance customer connectivity by allowing satellites to connect to more earth stations directly and to maintain connections with earth stations for a longer period of time while flying overhead
+Why would this improve the communications ?

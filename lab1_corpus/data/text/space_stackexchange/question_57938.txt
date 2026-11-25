@@ -1,0 +1,9 @@
+Has any piston machine been used on a space mission?
+Inspired by question about engine lubrication in space.
+Piston engines are not used for propelling spacecraft, but there are some possible uses for especially Stirling engines and compressors:
+Stirling radioisotope generator
+Gas compressors, for cooling or otherwise
+Power generation from low temperature or pressure differences
+But I didn't find a reference of any such being actually used in space, even as a demonstration. It appears that even air conditioning heat pumps used in space applications are not using the piston compressors that are common on Earth.
+I guess the answer is no, but I'll ask anyway:
+Has any reciprocating piston machine (either engine or compressor) been operated in space?

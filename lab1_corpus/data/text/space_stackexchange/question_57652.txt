@@ -1,0 +1,4 @@
+Travelling close to speed of light
+I have theoretical questions about inter-stellar travel at very high speeds (e.g. 0.9c). The inter-stellar medium is not a perfect vacuum, there are about 1 atom per cm3. This causes some friction. I tried to estimate this and it ended with about 30kW/m2.
+Can this be correct, could it be more or less than this? Also, could it be possible to use rudders similar to planes at these speeds? What would the surface temperature be like?
+Thanks for answers

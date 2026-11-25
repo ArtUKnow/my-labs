@@ -1,0 +1,11 @@
+If gravity was repulsive inside a black hole event horizon would black holes merge?
+To an outside observer, matter falling into a black hole stays in the vicinity of the event horizon because of infinite time dilation.
+A spherical shell around the horizon is the logical conclusion.
+But what if gravity suddenly became repulsive just inside the horizon - that would cause a spherical shell too.
+Can two black holes merge with repulsive gravity inside the horizon?
+Some information on repulsive gravity here:
+Repulsive gravity
+From this link:
+In the gravitational collapse (due to that complete expenditure of its nuclear fuel, which leaves it with pressure inadequate to balance its mass) of any large rotating star that's not unrealistically isolated, tidal effects will separate the particles of many virtual particle-antiparticle pairs between the opposite sides of the outward-propagating event horizon, with this separation materializing those on the EH's inboard side. As particles spin, their contact with the larger fermions of the star itself would accelerate some of them to the speed of light, which would not be consistent with their mass. Maupertius' Principle of Least Action would make an expansion of space infinitely more likely than any instantaneous addition of a comparable mass to all photons everywhere, so space expands. (This conformal change equates to a simple change in the viewpoint of all of its inhabitants everywhere, which affects them only upon the arrival of the resulting image within their particle horizons, and might, in our terms and through use of our current technology, be observationally indistinguishable from gravitational repulsion.)
+And this:
+A repulsive force in the Einstein theory

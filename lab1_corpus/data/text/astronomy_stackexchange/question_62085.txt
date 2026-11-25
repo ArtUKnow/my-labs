@@ -1,0 +1,5 @@
+Is there a term to describe the direction of a planet's axial tilt?
+The Earth's axis is tilted at 23.5 degrees. This number is very well known. This describes how far the axis is deflected away from the vector perpendicular to the ecliptic plane. If you drew a celestial sphere such that the ecliptic represented this sphere's equator, you would find that the Earth's axis points at a location that has a latitude of 66.5 degrees.
+But the point that the axis is pointed at also has a longitude. We know that the Earth's axis is pointed toward Polaris - it could have otherwise been tilted in a different direction, but also 23.5 degrees.
+Is there a numerical parameter that describes where it is pointed?
+My primary field is orbital dynamics - we describe an orbit's tiltednesss with the Inclination parameter, and if we need to describe which direction it is tilted, we use Right Ascension of the Ascending Node. I feel that a tilted axis should similarly be described with two parameters but I have failed to find any such second parameter in my research.

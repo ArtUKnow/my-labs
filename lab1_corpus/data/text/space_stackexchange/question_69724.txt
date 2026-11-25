@@ -1,0 +1,5 @@
+Use of NaK as a possible bipropellant/tripropellant rocket fuel?
+Recently I asked this question about tripropellant rocket engines. In an effort to avoid dealing with hot molten metal or powdered metal as the additive, I turned to NaK as a possible solution.
+Wikipedia states that it has been used as coolant on nuclear-powered satellites (so it probably already has some safety standards for storage). It also reacts violently with water to release hydrogen gas, which could be combined with LOX for an interesting combination. Unlike other tripropellants, such as fluorine, NaK is easy to store under a noble gas atmosphere, which is already standard in rocketry with helium pressurization.
+However, combustion of NaK with some other fuel combination may result in undesirable exhaust products like $\text{Na}_2\text{O}$ and $\text{K}_2\text{O}$, which are solids and could build up on the nozzle similar to carbon soot in kerolox engines.
+Have any studies been conducted on the usage of NaK as a fuel in a bipropellant or tripropellant rocket engine?

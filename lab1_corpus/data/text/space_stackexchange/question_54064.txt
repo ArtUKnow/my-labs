@@ -1,0 +1,23 @@
+How will NEO Surveyor manage 82 gigabits/day of data? How will it process it, what fraction will be sent to Earth and how it compares to TESS & GAIA?
+Wikipedia says says:
+NEO Surveyorformerly called Near-Earth Object Camera (NEOCam), then NEO Surveillance Mission, is a planned space-based infrared telescope designed to survey the Solar System for potentially hazardous asteroids
+and later:
+The detector array is 2,048 × 2,048 pixels and will produce 82 gigabits of data per day.31
+Mainzer, Amy K. (18 November 2009). NEOCam: The Near-Earth Object Camera (PDF). 2nd Small Bodies Assessment Group Meeting 18–19 November 2009 Boulder, Colorado. Archived from the original (PDF) on 24 June 2016. Retrieved 13 January 2018.
+From slide 10:
+NEOCam spends all of its time surveying the low elongation regions where hazardous NEOs spend most of their time (Chesley & Spahr 2003)
+Current survey region: 40 - 125º elongation, ±45º latitude
+Observation method: step and stare, 182 sec integration
+time, 30 sec slew/settle time; 4500 sq deg/day
+2 visits per “night”; entire search region every ~5 days for
+maximum efficiency at linking tracks and tracklets
+On-sky time = >23 hrs/day
+Question(s): What will NEO Surveyor do with 82 gigabits of data per day?
+How will it process it?
+What fraction will be sent to Earth,
+How will this data size management compare to the way TESS and GAIA do it?
+Further reading:
+Planetary Society: NEO Surveyor, Protecting Earth from Dangerous Asteroids
+U. Arizona: NEO Surveyor | Near-Earth Object Surveyor Mission
+IPAC: NEO Surveyor; Near-Earth Object Surveyor
+JPL: NEO Surveyor

@@ -1,0 +1,5 @@
+Would Li-Ion batteries for a lunar base energy storage system be transported to the base charged or uncharged?
+I'm investigating lunar base power systems and energy storage systems (ESS). One option is photovoltaics (PV) and Li-Ion batteries. A large mass of batteries would be required to power the base during the extended lunar night, but let's assume that this is OK. Let's assume that the PV system is a number of 10 kW portable arrays.
+To set up the base, it may be necessary to unload and set-up the arrays and power management and distribution center. If you're using a robotic, battery powered system to move these elements, then you'll need to monitor the battery level of that system and make sure the base power is online before the robotic system is out of battery.
+To that end, I'm wondering if my robotic system could first unload the battery packs and use those to charge up if the arrays aren't in-place yet.
+So, if a large mass of Li-Ion batteries was transported to the moon for the establishment of a lunar base, is there any reason those batteries couldn't be transported in a fully charged state?

@@ -1,0 +1,4 @@
+How did the Carbon Dioxide gauges work on Apollo?
+The book Lost Moon by Jim Lovell and Jeffrey Kluger had this interesting description in Chapter 10 (page 254 in my copy) regarding the CO2 gauges (emphasis added):
+Carbon dioxide concentrations in the command module and the LEM were tracked with a non-power-consuming instrument resembling a thermometer, which measured the pressure of the toxic gas in the overall atmosphere.
+How did this passive device work, such that it didn't draw any power?

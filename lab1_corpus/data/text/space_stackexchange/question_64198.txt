@@ -1,0 +1,8 @@
+Calculating the elevation and azimuth angles of satellites with location information obtained from sp3 ephemeris files
+I'm trying to calculate elevation and azimuth angles of a satellite for a ground GPS receiver. I downloaded the SP3 file for the day '12-01-2015'. The ephemeris files are in the link below.
+https://drive.google.com/drive/folders/1g0dMCTDHwfuKI5x-I4mh97c7pTvDgMPF?usp=sharing
+The ground station location is lat_receiver= 37.0;%degree, lon_receiver= 35.34;%degree.
+Are SP3 ephemeris files format ECEF?
+How can I found the elevation and azimuth angles for that station for all 32 GPS satellite?
+I need to find the satellittes and times with an elevation greater than 40 degrees?
+I am trying to write this code in Matlab.

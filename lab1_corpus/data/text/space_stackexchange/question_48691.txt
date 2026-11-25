@@ -1,0 +1,22 @@
+Identify these mission photos
+My grandfather who was involved with the DFVLR (now DLR) had all sorts of space-memorabilia in his basement, including a roll of pictures I've found. Does anyone know what mission they are from and what planet/body is shown (I assume it's probably from a lunar lander)?
+Here's the text from next to one of the pictures in case it's too hard to read:
+A2906 (What I assume is the name of the photo increments with each photo)
+006 11 17 054 (the "054" number increments each photo)
+316 071400.992 (This number seems to be a timestamp, increases)
+MISSION F
+STN DSS11
+CAM 3
+AZ -45.0° (Camera azimuth and elevation change as what appears to be a panorama is taken)
+EL -55.0°
+FOC 2.4M
+F.L. NARROW
+IRIS 6.5f
+SHTR NORMAL
+I.S OFF
+ELEC 67.4°C
+VID 51.5°C
+CAL 4.78V
+EREC 45° (This number changes from photo to photo)
+FILE 05637 (This number increments per photo)
+EDIT: This seems to be from one of the Surveyor missions, here is a project where very similar images are being digitized.

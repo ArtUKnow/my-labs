@@ -1,0 +1,3 @@
+How to protect Mars/Moon mission crews against meteors?
+Humans are expected to return to the Moon (see Artemis) and maybe go to Mars (see this and this) within a decade or two.
+Meteors frequently strike the surface of both the Moon and Mars (one can't really count on a thick atmosphere to burn them up). How much of a danger would this be for the mission's crew and how are Nasa/SpaceX/etc. mitigating the risks?

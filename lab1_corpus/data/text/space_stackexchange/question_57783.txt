@@ -1,0 +1,4 @@
+What was the first spacecraft intentionally moved from GEO to the graveyard orbit to die? (just a bit above geosynchronous)
+Why “super” for supersynchronous orbits? Why not “trans”? and discussions and answers there got me wondering:
+Question: What was the first spacecraft intentionally moved from GEO or geosynchronous to a "graveyard orbit" to die?
+Here "graveyard orbit" would be a bit higher in altitude than geosynchronous.

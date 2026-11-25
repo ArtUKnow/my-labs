@@ -1,0 +1,2 @@
+For launch vehicles, during atmospheric stages, are there constraints on the yaw angle?
+Most of the literature discusses the pitch angle and constraints on it, namely, trying to keep it zero for load relief. This leads to the gravity turn. I understand that ideal trajectories are within the pitch-plane alone. However, I would expect certain constraints to be present for yaw angle as well - perhaps to change inclination, or to reduce atmospheric load. But no discussion was found in this regard. Would there be any such constraints?

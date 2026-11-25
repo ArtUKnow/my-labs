@@ -1,0 +1,9 @@
+Cepheid Variables - why doesn't the raw data show pulsation?
+I searched for a Cepheid Variable on this database, and selected, at random, the C01 Cepheid in the NGC 4548 / M 91 galaxy. C01 has a period of 33.2 days, according to this original database.
+I then searched by its coordinates in Vizier to find raw observation data from the Hubble catalogue.
+I expected that, if I plotted MJD on the x-axis with apparent magnitude on the y-axis, I would get a typical Cepheid light curve and would be able to read-off the period of pulsation and compare it with the 33.2 days originally quoted.
+However, when I make this plot, I get something more like this:
+So then I thought I should perhaps average the given apparent magnitudes for the observations on the same day and the characteristic light curve would emerge.
+However, when I tried this, I also produced an underwhelming result which doesn't seem to me to align with a Cepheid of period 33.2 days.
+My question is really - what am I missing here? What reasons would there be for the raw data from a star classified as a Cepheid with a period of 33.2 days not showing a pulsating apparent magnitude with that period?
+Thanks for your help!

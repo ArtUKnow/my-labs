@@ -1,0 +1,8 @@
+What is the maximum possible delta v we could achieve from assembling a chemical rocket in orbit (not launching a final stage from the ground)?
+To clarify, this is about an orbital assembly. I am not asking the maximum weight of launch vehicles or anything relating to that.
+This is a pure hypothetical scenario in which we have an infinite budget and can send whatever we want into orbit at whatever cost with todays technology.
+Theoretically lets say we had this infinite budget, and used all of the current launch vehicles and fuel tanks we have with modern tech for some arbitrary measure of propellant assembled in orbit like the ISS.
+Lets say we are just trying to send a voyager-type probe to some far off location in deep space or perhaps interstellar space with similar weight and dimensions, but much faster including gravity assists.
+Also lets include an arbitrary number of the highest ISP chemical rocket motors we currently have for an appropriate thrust-weight ratio.
+What would be the maximum dV achievable by this hypothetical vehicle? and why?
+I am trying to wrap my head around the tyranny of the rocket equation and exactly how it limits our currently usable technology.

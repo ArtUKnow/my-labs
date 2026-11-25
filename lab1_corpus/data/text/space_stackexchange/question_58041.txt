@@ -1,0 +1,15 @@
+How to calculate Azimuth/Elevation of a satellite?
+I have a ground stations' lat/lon as well as a satellite's lat/long. I want to calculate the azimuth/elevation of the satellite relatively to the ground station.
+Currently, I am using these formulas (read from here) to derive the values:
+For azimuth:
+and for elevation:
+To calculate the elevation/azimuth, the formulas from the mentioned website specifies/needs:
+EARTH STATION NORTH LATITUDE
+EARTH STATION WEST LONGITUDE
+SATELLITE WEST LONGITUDE
+What confuses me, what if my ground station is in the SOUTH latitude and EAST longitude? or rather NORTH latitude and EAST longitude?
+For example, if we take Berlin as the ground station location. Berlin is in NORTH latitude and EAST longitude. How do I then calculate the azimuth and elevation of the satellites?
+EDIT: Just as an additional information, which I suspect might the problem:
+The latitude/longitude of both the satellite and ground station, I get them from the range of:
+[-90, 90] LAT
+[-180, 180] LON

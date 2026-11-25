@@ -1,0 +1,2 @@
+If Crew Dragon can dock autonomously, why is there a crew aboard when they change from docking port to another?
+I was watching the redocking the other night and they kept mentioning that it can redock autonomously. If so, why is the crew there? Is it there as a backup in case the autonomous system fails? Is it so in case something happens and the capsule has to be deorbited, there aren't more people left on the ISS than can be evacuated in an emergency with the available vehicles?

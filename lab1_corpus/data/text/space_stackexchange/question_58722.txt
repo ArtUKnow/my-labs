@@ -1,0 +1,11 @@
+JWST - batteries?
+I am interested in how batteries might be used on the JWST. A few questions come to mind:
+Does the JWST have onboard batteries?
+If so,
+What kind of batteries are they?
+Are they rechargeable?
+If so,
+How are they recharged? … from solar panels? … from reclaiming dumped energy from reaction wheels?
+Finally,
+If there are batteries in use on the JWST, what major (and/or minor) systems depend on them?
+Another way of asking (5) might be, if there weren’t batteries on the JWST, what wouldn’t work??

@@ -1,0 +1,12 @@
+What is the max height I can achieve with my solid prop rocket?
+For a rocket of:
+mass, $m$ = 25kg,
+dry mass $m_f$ = 19 kg,
+Thrust = 2.1 KN,
+total powered burn time, $t_b$ = 3.5 s,
+$I_{sp}$ = 129
+I get powered burn height = 549 m and total time to max ht of 5506 m in 35 sec. Is this correct? Assuming no drag and vertical liftoff.
+I am using:
+$$h = {I_{sp} \cdot g \cdot t_b} \cdot (1-ln(m_o/m_f)/(m_o/m_f -1)) - 0.5\cdot g \cdot t^2$$
+Also, to calculate the burn rate I divided fuel_wt by total burn time. Is that roughly ok?
+Can anyone help with this please? If possible, the relations/formulae that are to be used. Anyone know where can I get a mentor for rocketry.

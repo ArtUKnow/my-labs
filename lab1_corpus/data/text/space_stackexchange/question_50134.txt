@@ -1,0 +1,7 @@
+What is "mission design"? What do mission designers do (if such a designation exists)?
+The question in meta Is the mission-design tag description wrong? Should the trajectory-design tag be somehow nixed? needs some attention, so I thought I'd turn to our "panel of experts" here in Space SE to get to the bottom of what the term "mission design" is taken to mean by its various members.
+Are there people either officially known as, or informally understood to be mission designers?
+Have there been "Departments of Mission Designs"?
+Has there ever been a "Mission Designer's Handbook"?
+If so, or anything even close, from those contexts what would knowledgeable people infer to be an approximate definition and/or scope of "mission design"? What all is it seen to encompass?
+Right now our mission-design tag wiki excerpt is probably under-scoped, and the full Wiki is hard for me to understand, but those are topics to be discussed at the linked meta question. I've placed an answer there as well but I'm no expert in the field so I'm grasping as straws.

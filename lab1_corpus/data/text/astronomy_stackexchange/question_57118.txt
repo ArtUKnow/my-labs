@@ -1,0 +1,6 @@
+Multiply Earth's orbital speed with square root of 2
+Earth's escape velocity is 11.18 km/s.
+If I multiply Earth's orbital speed with the square root of 2,
+29.7827 km/s x 1.41 = 42.11 km/s
+How is this speed called?
+I found this equation in an old German meteor book, but I don't understand.

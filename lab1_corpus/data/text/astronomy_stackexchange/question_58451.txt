@@ -1,0 +1,2 @@
+Can satelite polar orbits be stable with a space elevator?
+One issue with a space elevator, if all other hurdles are overcome, is that satellites on most orbits will crash into the cable. It has been suggested that satellites use polar orbits. However, the elevator spins with the equator. Can any passive satellite polar orbit be stable?

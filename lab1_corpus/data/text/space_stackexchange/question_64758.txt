@@ -1,0 +1,8 @@
+Do ISS astronauts have a preference for when EVA tasks are scheduled with respect to lighting conditions?
+Given the choice, do ISS astronauts prefer to schedule EVA tasks on the “day light” side of the ISS, the “shadow" side of the ISS or in the shadow of Earth’s night side?
+I suspect the intense, direct solar illumination of full sunlight would produce very deep shadows, while reflected Earthlight would produce very diffuse, even, (dare I say, “pleasant”?) lighting.
+I would guess that harsh artificial lighting in Earth’s night time shadow would make tasks more challenging.
+Day light Gemini
+Shadow side ISS
+Earth nightside
+The same question of lighting is likely even more applicable to robotic operations.

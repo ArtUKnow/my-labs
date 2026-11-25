@@ -1,0 +1,6 @@
+Creating a classroom tool for satellite location
+I would like to create a sun-dial type project for seventh graders which they can use to locate their favorite geostationary satellite. These are the kids who will probably hear about satellites for the first time and I want a way to engage them. I am hoping to make something like the following:
+Here, the leaning side of the triangle should point to the satellite.
+Let's say my target satellite is Bangabandhu-1. The parameters are as follows.
+Let's say the base has a diameter of 6 inch. I am doing it assuming I am located at Dhaka, Bangladesh. The distance between Dhaka and Jakarta is 5345.8 km. The altitude is about 35789 km. So, the angle of the leaning side will be 81.505 degree according to this calculation.
+Am I correct?

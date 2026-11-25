@@ -1,0 +1,7 @@
+Difference between different numerical propagators
+As a school project, I'm trying to model the evolution of a space-debris population orbiting around Earth. By doing researches, I found several numerical propagators.
+Though, I couldn't find any article clearly explaining the difference between some of them, especially between the SGP4 and the J2 one.
+Here is my question:
+Which -if any- parameters are taken into account in the SGP4 and not in the J2 that makes it more accurate?
+Is it possible to find somewhere NASA Break Up Model's equations?
+And is it possible for someone who only knows Python to implement an orbit propagator (such as 2 Bodies or J2) and Break Up model?

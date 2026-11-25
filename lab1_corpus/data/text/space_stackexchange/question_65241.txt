@@ -1,0 +1,3 @@
+Would Starship be able to lift mass to orbit (both low and geo-stationary) cheaper than "any" space elevator?
+A comment to an answer to a question about Mars missions stated that using Starship to launch mass to orbit would be cheaper than a space elevator. I didn't imagine that. I know that space elevators are speculative, including their predicted cost; additionally, the Starship operating cost will depend on the actual re-usability and required maintenance, if it ever succeeds in the first place.
+But still: Is that plausible?

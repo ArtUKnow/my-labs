@@ -1,0 +1,3 @@
+Deorbit first stage?
+I have read the answers about deorbiting second/upper stage. But since the lastest launch of Long March 5B raised concern about its uncontrolled reentry (yeah, too big).
+Unlike SpaceX's Falcon, other rockets are not designed for reuse, do people still care about intentionally deorbiting the first stage, and how?

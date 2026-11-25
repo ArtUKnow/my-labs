@@ -1,0 +1,3 @@
+Wouldn’t Super Heavy flip following stage seperation, even without help from its 3 lit engines?
+At 1:40 on the SpaceX launch commentary, the announcer said that after hot staging, “the three engines still firing on Super Heavy will flip the booster around”.
+With empty tanks, the center of mass is at the engine end of the booster. The grid fins are at the other end. The engines weigh over 50 tons and the density of empty tanks is less than an empty Budweiser. Aerodynamically, isn’t the booster flying backwards at 5600+km/hr after separation? Isn’t it going to flip regardless? For that matter, could the 3 lit engines stop it from flipping?

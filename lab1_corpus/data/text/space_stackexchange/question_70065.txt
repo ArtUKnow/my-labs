@@ -1,0 +1,4 @@
+Astrodynamics for gas giant moons - SOI flawed
+Following this answer here the sphere of influence (SOI) asks which of two gravitating bodies should be used as the origin for purposes of modeling the behavior of some third body such as a spacecraft in a patched conic approximation.
+The problem is for the innermost moons of our gas giants this concept breaks down as in this case the SOI is inside the moon such that it could never be used as the frame of reference.
+Can we fix the patched conic approach or is there some other concept to model trajectories in this case (full 3-body aside)?

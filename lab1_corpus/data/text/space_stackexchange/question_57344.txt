@@ -1,0 +1,7 @@
+Why does JWST need "a carefully designed series of oscillations" to avoid overheating during the 2nd stage burn? Why not rotate "rotisserie style"?
+The Northrop Grumman video James Webb Space Telescope Launch and Deployment describes the trajectory from launch to orbital insertion and illustrates several key maneuvers and incremental steps in the deployment of the telescope.
+After about 03:00 just after 2nd stage ignition the narrator says:
+The exposed telescope is delicate, and must be protected from the Sun's fierce heat. To avoid overheating and damage, a carefully designed series of oscillations are performed that provide the necessary protection.
+Question: Why does JWST need "a carefully designed series of oscillations" to avoid overheating during the 2nd stage burn? Why not rotate "rotisserie style"?
+From Spaceflight Now's Europe’s spaceport, flagship launcher ready for historic Webb mission:
+The rocket’s French-made core stage will perform roll maneuvers to keep the observatory in thermal balance, ensuring parts of the telescope don’t get too hot or too cold. Webb’s control team at the Space Telescope Science Institute in Baltimore, Maryland, expects to receive the first signals from the spacecraft as soon as the fairing separates from the rocket.

@@ -1,0 +1,8 @@
+What difficulties still exists in astronomy that could be solved (partially) with Machine Learning?
+A reminder of Machine Learning :
+ML is used to approximate a function, so we can use it to :
+Approximate a function in order to accelerate a calculation but with less quality
+If we don't have a calculation for a certain task, we can show it some example and the model can recreate the task.
+The question
+In Astronomy, is there some tasks that are still too complicated/slow to be done ?
+We have petabytes of data, what can we do with these ?

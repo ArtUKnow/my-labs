@@ -1,0 +1,4 @@
+How to generate TLEs based on a set of observation points (location, azimuth, elevation... no range)
+I'm interested in generating a "corrected TLE1" based on observation data. I would have observed azimuth and elevation, site location, and time. All of those data fields are observed with high quality (0.1 degree for pointing angles, GPS locked location and time). I would have an array of these observations for let say several minutes at 1 second intervals or less. Range would be unknown.
+Is there any open source software to do this?
+1Two Line Element set, a common orbital ephemeris format described here: https://celestrak.org/NORAD/documentation/tle-fmt.php

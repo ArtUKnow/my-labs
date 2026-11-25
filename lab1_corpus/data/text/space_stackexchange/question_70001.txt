@@ -1,0 +1,2 @@
+How do I get spherical coordinates out of JPL Horizons?
+I'm trying to calculate when Uranus is at a specific angle relative to the Earth, but found no way to get spherical coordinates out of JPL Horizons, it's just giving me X Y Z VX VY VZ RR RG and one other that I forgot. I'm using the browser interface, and have no clue how to use any of the others. How do I get spherical coordinates and longitudes and such out of it?

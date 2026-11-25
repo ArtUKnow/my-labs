@@ -1,0 +1,9 @@
+Going over the Apollo fuel numbers and I have many questions
+I was reading through Apollo by the numbers and I noticed the LM descent to the moons surface consumed 17,414kg of fuel out of a total of 18,184kg leaving only 770kg of fuel.
+But then in the very next table it says LM ascent consumed 4,836kg of fuel... when there's only 770kg available. This is with all the extra weight of rocks btw, that they somehow took off with nearly 1/5th the fuel it took to land, which was also somehow more fuel than was on the ship.
+Is the data being presented badly? Is it just plain wrong?
+Would love some explanation, new to this level of detail. Hoping there's a better explanation for the crazy numbers than "they had a fuel tank for descent and a separate one for ascent and for some inexplicable reason the fuel in the ascent tank isn't counted as being on board during descent".
+I'm also pretty sure they didn't preemptively drop fuel tanks on the moon so.... Help?
+I'd like to add that I would love more resources on detailed research. All the numbers, for absolutely everything. Museum of science and industry doesn't get that detailed.
+KSP, which takes place at miniaturized scale, makes it really clear just how insanely difficult landing on, then returning from the moon is. According to the numbers just the fuel in the LM weighed 53,000lbs. I'm intimately familiar with delta-V, so big???Roughly 6380 gallons, which would require a tank 4ft high by 90ft long to store. I've touched the LM... it's maybe 15ft diameter.
+I have many, many more questions, numbers aren't making sense. Send help.

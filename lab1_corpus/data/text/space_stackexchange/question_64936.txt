@@ -1,0 +1,3 @@
+What are the "insect antennae" on the MMU (Manned Maneuvering Unit)?
+What are the “insect antennae” structures in front of the astronaut’s visor? They appear to be attached to the MMU, but do not appear in the MMU User Guide, static displays or Weightless Environment Training Facility photos.
+https://ntrs.nasa.gov/api/citations/19790008382/downloads/19790008382.pdf

@@ -1,0 +1,2 @@
+Design a cold gas ACS nozzle
+I have the total thrust required to be F=16.9 KN. I am using nitrogen gas, and the stored temperature in the nitrogen gas cylinder is 155 bars with a temperature of 325k. How would I design the nozzle and determine the exit area, assuming its in space?

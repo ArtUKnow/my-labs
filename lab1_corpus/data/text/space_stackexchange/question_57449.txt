@@ -1,0 +1,13 @@
+Required Orbital Components to Fully Define Orbit
+As a follow-up to this question.
+I have this JSON coming back from the ESA's DISCOSweb API:
+"inc": 52.0,
+"raan": 0.0,
+"epoch": "1999-10-22",
+"sma": 7791700.0,
+"ecc": 0.00011,
+"aPer": 0.0,
+"mAno": null,
+"frame": "J2000"
+Which of these parameters (if any) aren't required to fully define an orbit?
+I suspect the answer is epoch and mAno, but I'm not certain.

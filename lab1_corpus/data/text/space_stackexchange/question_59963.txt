@@ -1,0 +1,5 @@
+How did the cost of delivery of cargo into orbit change with technology maturation?
+I had an argument with my friend recently about the effect of technology maturation on spaceflight cost. In the process, I managed to find this infographic:
+Image source
+The trend for cost reduction was clear to me, even discounting recent data, but my friend pointed out that: a) this picture seems to only have first launches, while, for example, Soyuz spacecraft modifications were in use for all of the relevant period, b) it collates very different vehicles, which affects the spread (for example, Space Shuttle and Saturn V), and c) majority of data points still fall in a relatively narrow price range that seems to be present over all of the covered timeframe.
+My question is: do we observe that spaceflight costs are indeed reduced with technology improvement? I would like to find data on how cost of operation of long-running programs like Soyuz or Apollo and Space Shuttle changed over their lifetime, preferrably both with and without adjuctment for inflation.

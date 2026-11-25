@@ -1,0 +1,16 @@
+Why don’t ISS EVA suits monitor the astronaut’s blood oxygen?
+according to https://en.wikipedia.org/wiki/Primary_life_support_system the Primary Life Support System (PLSS) of the ISS EVA suits provides
+“Telemetry … of the wearer's immediate health (e.g. heart rate)”
+As well, PLSS also provides telemetry on its own performance: total suit pressure, oxygen partial pressure and suit CO2 levels. This gives diagnostic information on the PLSS, but not the astronaut. The suit could be worn by a manikin (or a corpse) and these sensors would still all read "nominal"
+However, I could find no information on the presence of monitors for the astronaut’s blood gasses. Unreferenced sources said there were no hemoglobin saturation sensors, and that such sensors will be incorporated into future Artimus EVA suits.
+It is obviously prudent for the PLSS to monitor suit gasses since that’s what the astronaut is breathing. However, there are medical conditions which can produce hypoxemia (low blood oxygen) despite normal breathing gasses and adequate ventilation. Atelectasis (lung collapse) and pulmonary embolism (blood clot in the lung circulation) are examples. Although astronauts are screened for risk factors for such conditions, they are in a very hostile environment and subject to extreme pressure and breathing gas alterations as they switch from sea level pressure air in the ISS to low pressure pure oxygen in the EVA suit.
+A condition which is particularly relevant is absorption atelectasis. This condition is caused by a breathing gas mixture which lacks nitrogen, as in anesthetic machines, diving rebreathers and EVA PPLS. See answer in
+Why is the breathing atmosphere of the ISS a standard atmosphere (at 1 atm containing nitrogen)?
+Another condition of concern is deep vein thrombosis (blood clot) with pulmonary embolus (clot in a lung artery). Deep vein thrombosis classically presents after long airplane flights due to lack of leg activity. EVA astronauts are at risk as well as EVAs can last up to 8 hours. Mortality for untreated pulmonary embolus is around 30%, but about 5% with prompt treatment. Pulmonary embolus produces a V/Q mismatch and low hemoglobin saturation, which would be picked up by an IR hemoglobin monitor but not the PLSS monitors.
+If such medical conditions occurred, the astronaut may be asymptomatic until decreased oxygen caused mental impairment.
+It would be preferable to detect early hypoxemia before mental impairment occurs so the EVA could be aborted.
+Infrared hemoglobin saturation monitors are cheap, compact and reliable. They have been in wide use for 40 years. They can be clipped to a finger (or built into a glove) or clipped onto an ear lobe. They can also be incorporated into helmets and earmuffs:
+https://www.mdpi.com/2079-6374/10/4/34
+or applied to the forehead:
+https://opentextbc.ca/vitalsignmeasurement/chapter/why-is-pulse-oximetry-used/
+Are these sensors already part of the PLSS? If not, why not?

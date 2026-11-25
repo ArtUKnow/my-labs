@@ -1,0 +1,6 @@
+Difference between distance from Mars (Rmag) and B-plane R coordinate
+I am running some GMAT simulations on Mars 2020 trajectory to Mars, following the ephemerides published by JPL.
+I create a target sequence and target the planet using the b-plane coordinates B and T. I noticed that when setting T=0 and B=24000km (or any other value, for that matter), the spacecraft ends up at a distance from the centre of Mars that is smaller than this value, about 4000km.
+The GMAT help file doesn't go into detail about the B parameters but mentions that w x r effects of rotating systems might not be simulated in some implementations. I tried changing the martian coordinate system from MJ2000Eq to ICRF and the results are identical.
+I don't understand how this difference is created or how to configure the goal commands so that I can target a specific distance from the centre reliably, using the B-plane?
+Rmag can be used in place of B or T, but it doesn't convey the side of the planet in which the spacecraft will be inserted

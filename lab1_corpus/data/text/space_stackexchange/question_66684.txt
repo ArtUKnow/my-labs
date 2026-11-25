@@ -1,0 +1,4 @@
+How can flyby missions work?
+I understand that a small object (Spacecraft) which approaches a large body (planet) will be accelerated.
+But as the gravitational field is a gradient field, the small object should lose all the velocity gained during approach when it departs again from the planet.
+So my question is how a spacecraft can draw a positive resulting amount of energy from a planet when doing a flyby operation so that it can leave the planet system with a velocity higher than the velocity when entering the planet system.

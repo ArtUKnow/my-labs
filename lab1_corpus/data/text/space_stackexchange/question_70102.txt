@@ -1,0 +1,8 @@
+How to patch arcs in the patched-conic model?
+Assume we are in a patched conics model.
+A planet ($GM=\mu$) on a prograde orbit (green) around the Sun is orbited by a probe on a prograde circular orbit (blue) of radius $r$.
+At time $t$ the probe fires a burn to get into a prograde hyperbolic orbit (orange, planet frame) around the planet. After leaving the planet SOI we'd like to get on a smaller given prograde elliptical arc (red) around the Sun.
+How to get time $t_\text{burn}$ and the starting point $P_\text{burn}$ of the hyperbolic arc such that the conics patch together, i.e., that the velocities (direction & speed) of the hyperbolic & elliptical arc match?
+How to get the point $P_\text{SOI}$ and time $t_\text{SOI}$ of intersection with the SOI?
+Note: Especially in the non-coplanar case things seem to get difficult. In any case the only way I see is using an iterative procedure to refine positions and times until all arcs match.
+Example when all orbits are in the same plane.

@@ -1,0 +1,6 @@
+General range of maximum RPMs used in reaction wheels in spacecraft?
+I was wondering what would be the general range of RPMs used in Reaction Wheels (RW) on a satellite, and I have several closely related questions on this topic:
+It would definitely depend on the max and min range of the actual RW used but is there any guideline on what RPM would be used for what action (for eg: a certain RPM for turning)?
+Are there certain formulae or relations that describe such dependence? Would smaller angle changes need higher rotation rates or vice versa?
+I would assume that the highest RPM would cause a lot of noise in the satellite for other instruments but is this a rare/worst case?
+If I had to generally test effects of RW noise on satellites, what range of RPMs and what increment of RPM would be better to use depending on if is relevant or not?

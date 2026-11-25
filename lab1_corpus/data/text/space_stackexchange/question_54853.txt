@@ -1,0 +1,3 @@
+What is the theoretical smallest size limit for a phased array antenna that can reach LEO?
+Now that one provider is operating a phased array ground-to-satellite internet comm system, others will follow. A frequently asked question is "When can we use Starlink with a sat phone?". Does physics allow such a thing? I can believe the current dish can be shrunk, but what are the theoretical and practical limits?
+The current Starlink constellation orbits at 540 to 590 km and Kuiper plans to use 590 to 630 km. However, Starlink proposed a later shell would orbit at 340 km, although idk if that is in their current planning. Nevertheless, 340 km could be used in your calculations of the ground antenna size limit.

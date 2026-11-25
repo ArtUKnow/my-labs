@@ -1,0 +1,13 @@
+When searching pulsar data using PRESTO, what does this warning about makewisdom mean?
+(This is an amalgamation of several versions of the same question that I keep seeing people ask when getting started in pulsar research; I figured I'd put together a question and answer on the subject.)
+I'm processing some radio search-mode data, searching for a pulsar. I'm using the popular PRESTO package to do several things:
+Generate a mask file to remove radio frequency interference (RFI) using the rfifind routine
+Perform a periodicity search using prepfold
+Dedisperse the data at a bunch of different trial dispersion measures using prepsubband
+Search the dedispersed time series from step 3 using the script single_pulse_search.py
+I've gone through all of these and obtained the expected results; I've recovered the pulsar's known period and dispersion measure, and I've detected a number of single pulses. However, after the first, second and fourth bits, I get a warning message along with the output:
+Warning: Couldn't open '/path/to/presto/presto/lib/fftw_wisdom.txt'
+You should run 'makewisdom'. See $PRESTO/INSTALL.
+where /path/to/presto/ is the directory in which I have PRESTO installed.
+From some Googling, I think that "fftw" might have something to do with Fast Fourier transforms (FFTs). It’s not clear how that could possibly be involved in the code, though – particularly when it comes to things like removing RFI or searching for single pulses.
+What does this warning mean and do I need to do anything about it?

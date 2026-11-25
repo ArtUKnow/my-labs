@@ -1,0 +1,3 @@
+Did IFT 3's Starship attempt re-entry with its payload bay door open?
+Yesterday, contact was lost with SpaceX's Starship as it attempted to re-enter the atmosphere. One of things it tested was the payload bay door. In this video, at nine minutes and eleven seconds (T+ 30:18), the door seems to jolt backwards into the payload bay. I couldn't find any video or other indication that it had latched correctly. Scott Manley (in the video) offers the opinion that the door 'failed' but nothing further.
+Has SpaceX said, or is there any other suggestion, that the payload bay door was open when Starship began to enter the atmosphere?

@@ -1,0 +1,23 @@
+Correct scaling of coma/tail comet in a simulation model
+I'm working on a 3D mathematical model in Godot 4.4 (a popular game engine) that simulates the trajectory of particles emitted by a comet based on a set of input parameters.
+Since the particles follow a trajectory described by a specific physical formula, the values are quite big (thousand or even milion of kms), so I need to scale them down so that they have the same scale of the telescope image of the comet I'm trying to simulate
+To scale them, I compute a certain scale factor determined by:
+Telescope resolution in arcsec/pixel
+Telescope image (of the comet I'm trying to simulate) in pixel (i.e: 2000x2000 pixels)
+Delta AU: Distance from the earth to the comet measured in Astronomical Units
+Window size: basically my viewport (rendering area), which has a fixed size of 900x900 pixels
+Window FOV: fov of the viewport measured in meters
+Specifically, the scale formula is:
+var window_image_scale_factor: float = Util.tel_image_size / Util.window_size
+var fov_full_zoom: float = Util.visible_area / 1000 * window_image_scale_factor
+var pixel_resolution_full_zoom: float = fov_full_zoom / Util.window_size
+Util.scale = Util.tel_res_km_pixel / pixel_resolution_full_zoom * window_image_scale_factor * 1000
+where tel_res_km_pixel is equal to sin(Util.tel_resolution / 206265) * Util.earth_comet_delta * (Util.AU / 1000) and Util.visible area is the Window FOV.
+The scale is then applied to the position( X,Y,Z) of each particle:
+var scaled_final_pos := final_global_position / (Util.scale)
+This however doesn't seem to work that well
+(This is a formula the one I'm working with gave me, so I don't really know if it's correct)
+Edit:
+The resulting simulation should somehow overlap with the original image.
+To the left, an image of a comet found online (I can't really divulge the images I'm currently working on) with a simulation correctly overlapped (the black dots), to the right a typical output of my simulation tool: as you can see, the scale is definitely wrong.
+Note: this is not the actual output of my software, I just made it on paint

@@ -1,0 +1,2 @@
+Why does Interstellar Probe need 2 TB of memory
+This article says that Interstellar Probe is supposed to have two terabytes of memory(which I assume means storage, not RAM). What does it need so much for? New Horizons had 8 gigabytes of storage, mainly because it was doing a flyby and caching data to be transmitted later. According to the same infographic, it would take about 30 years to transmit all of the data from 150 AU, which is possible, but why couldn't they cache smaller amounts and transmit more often?

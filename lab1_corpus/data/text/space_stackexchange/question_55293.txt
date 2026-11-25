@@ -1,0 +1,2 @@
+What can be determined about an orbit if it passes through two points
+Using a 3D Cartesian coordinate system if we know for certain that a craft will pass through two points in it's orbit (let's call them p1 and p2) and we also know the mass of the central body it is orbiting what parameters (such as Keplerian orbital elements) can we know about an orbit if at all any?

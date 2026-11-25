@@ -1,0 +1,2 @@
+Different astrodynamics propagation errors depending on starting point; why?
+I am modelling an interplanetary transfer between earth and mars, and comparing the position difference between the lambert arc (no perturbations) and numerical integration arc (perturbations included). When I propagate forwards and backwards from the midpoint of the arc, the resulting position error is lower than when I start from earth and propagate forward, why is this?

@@ -1,0 +1,4 @@
+How do vibrational isolators reduce the g-forces of a payload on a launch vehicle?
+Launch vehicles often use vibrational isolators to reduce g-forces to protect delicate payloads. How are g-forces reduced on the payload while both the payload and the launch vehicle maintain the same velocity?
+If the launch vehicle and payload are experiencing different g-forces, does that not mean they are experiencing different accelerations and therefore cannot be moving together?
+Here is a link to flight data of acceleration of a payload on a launch vehicle

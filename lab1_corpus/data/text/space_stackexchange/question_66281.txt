@@ -1,0 +1,3 @@
+Whats the time dependency of r and angle in Hohmann transfer?
+Reading Bate Muller White and trying to find time dependency of angle and distance of Hohmann transfer orbit.
+Basically I'd like to plot how the vehicle flies from earth to mars and where it is in transfer during over time. I'd expect a function $\nu(t) = ...$ or something but mostly see only $t-t_0 = ...$ expressions, giving the time of flight from Earth to Mars (eq. 4.2.4).

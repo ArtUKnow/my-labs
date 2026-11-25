@@ -1,0 +1,5 @@
+Meaning of superscript letters in sidereal time calculation
+I'm following along with Dr Kelso's columns on CelesTrack and I've come across this equation.
+$$θ_g(0^h)=24110^s.54841+8640184^s.812866T_u+0^s.093104T_u^2- 6.2\times10^{-6} T_u^3$$
+As you can see, there are superscript $^s$s right before the decimal point on some of these values and a superscript $^h$s next to the 0 argument in the function definition.
+What do these signify? Is it the unit of the terms? If so, it's weird notation I've never seen before.

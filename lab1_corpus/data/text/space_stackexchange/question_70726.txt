@@ -1,0 +1,4 @@
+Why haven't we designed a larger docking port?
+The planned commercial space stations (Axiom, Orbital Reef, etc) are likely going to be built Mir/Tiangong style, where modules independently rendezvous and dock, as opposed to being robotically berthed by a manned vehicle. The International Docking System is limited to 0.8 m hatch diameter [1] like its predecessors, while the Common Berthing Mechanism uses a roomier 1.2 m hatch to accommodate larger equipment racks and crew more easily. While the purpose and mechanism differ, ISPR payload racks require roughly a 100x86 cm cross-sectional area to fit through the hatch.
+Why not develop a larger docking mechanism, or is it feasible for a new module rendezvous with the station (Mir-style) close enough to be grappled by a robotic manipulator (as done with the CBM modules, but without a Shuttle)?
+[1] https://ntrs.nasa.gov/citations/20190027372

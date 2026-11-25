@@ -1,0 +1,10 @@
+How to read this Cassini Main Engine Operating Box (oxidizer vs fuel tank pressures)?
+The extremely cool NASA JPL video Triumph at Saturn (Part I) is really worth a watch and/or listen.
+At about 34:32 it covers the period just before SOI (Saturn Orbit Insertion, July 1, 2004, 02:48 UTC) when the fear of the engine not starting or burning long enough was maximum, the first images started coming in of Saturn's rings.
+Earl Maize, Cassini-Huygens Deputy Program Manager (2003-2013) says
+Something we've been preparing for four or five years, testing and testing, awfulizing all of the possible things that could go wrong. And this was one of those moments when you're either in orbit, or you're a billion dollar flyby.
+During this voiceover, there is a cut to a projection of a slide showing "Cassini Main Engine Operating Box; Wide-Open PR1 (initial dm/dt = 3.34 g/s) w/ Optimal OP-2 Threshold
+".
+It shows a plot of oxidizer tank pressure versus fuel tank pressure. There are nested six-sided "boxes" (labeled "qual operating box" and "flight operating box") and a lot fo annotations.
+Question: How to read this Cassini Main Engine Operating Box (oxidizer vs fuel tank pressures)?
+What do the limits of each box mean, why are they six-sided, and (if possible) what do some of the other annotations indicate?

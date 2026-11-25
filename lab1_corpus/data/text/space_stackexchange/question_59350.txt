@@ -1,0 +1,3 @@
+GMAT Python API No Convergence
+I’m currently using the GMAT Python API in order to set and run my GMAT scripts, but am running into a problem where my scripts do not converge based on certain inputs.
+Is there a way in the Python API to exit if the script doesn’t converge? I have read over all the API documentation I can find and the closest I can find is the gmat.GetSummary() command, but it only gives info, not whether or not the convergence fails at any point.

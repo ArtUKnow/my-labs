@@ -1,0 +1,4 @@
+What does it mean to tune the Saturn F-1 engine to a frequency, and how is the tuning done?
+Chapter 10 of Chariots For Apollo remarks the following in discussing the pogo problem of Apollo 4 and 6 and the role of the first stage F-1 engines in that:
+The mission analysts later discovered that two of the Saturn engines had been inadvertently tuned to the same frequency, probably aggravating the problem. (Engines in the Saturn V cluster were to be tuned to different frequencies to prevent any two or more of them from pulling the booster off balance and changing its trajectory during powered flight.)
+What does it mean to "tune the engine to a frequency"? How is the tuning done? Was this only a thing for the F-1 engines or is this common procedure (then and now)?

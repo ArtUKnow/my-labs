@@ -1,0 +1,4 @@
+Main engine gimballing in Saturn V
+The first stage of Saturn V has 5 main F-1 engines, but only 4 of the outer engines can gimbal and the engine at the center was fixed (Source : https://youtube.com/clip/UgkxCWZFo19a9Af_N1bcg9XuMjkJLNRzPTzB).
+I was thinking about this for a while about why 4 and not 2 gimballing engines?
+I was thinking if redundancy was the problem, if that's the case, they could've gone with gimballing 2 of the outer engines which are diametrically opposite to each other. But, why 4?

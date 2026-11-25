@@ -1,0 +1,4 @@
+What size hole in the International Space Station would be catastrophic?
+I was reading "Russia threatens criminal charges against a NASA astronaut" in arstechnica.com. Somewhere in the article it says: " At the time, a 2 mm breach was discovered in the orbital module of the Soyuz MS-09 vehicle docked with the International Space Station" and later it says: "Left unchecked, the small hole would have depressurized the station in about two weeks."
+I'm thinking there must be either enough air to leak out so slow or something can compensate for the leak or both.
+The question is what size of a small hole would cause a catastrophic failure? Meaning that astronauts would need to evacuate International Space Station (ISS). I'm talking about a small hole big enough to cause the evacuation ... I'm sure a foot size hole would be catastrophic but I'm talking small hole or holes. Thanks.

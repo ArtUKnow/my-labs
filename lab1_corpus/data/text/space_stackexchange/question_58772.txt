@@ -1,0 +1,4 @@
+How to attain an equatorial orbital inclination from a non-equatorial launch site?
+The orbital inclination of a satellite is limited to inclinations roughly equal or greater than the latitude of the launch site, unless additional energy is expended for an orbital plane change.
+In practice, what strategies are used to place satellites in equatorial LEO from a non-equatorial launch site? Is this done during orbital insertion, or at the orbital node? Are orbits temporarily raised to a higher apogee to reduce delta-v?
+In practice, what strategies are used to place a satellites in geostationary orbit from a non-equatorial launch site?

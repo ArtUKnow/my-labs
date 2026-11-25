@@ -73,7 +73,7 @@ def existing_titles(source):
     if path.exists():
         for line in path.read_text(encoding="utf-8").splitlines():
             url = line.split("\t", 1)[0]
-            title = urllib.parse.unquote(urllib.parse.urlsplit(url).path.removeprefix("/wiki/"))
+            title = urllib.parse.unquote(urllib.parse.urlsplit(url).path[len("/wiki/"):])
             titles.add(title.replace("_", " ").casefold())
     return titles
 
@@ -87,9 +87,10 @@ def import_dump(input_path, source, target, output_dir, manifest_path):
     manifest_path.parent.mkdir(parents=True, exist_ok=True)
     excluded = existing_titles(source)
     seen_page_ids = set()
+    written = set()
     added = 0
     with manifest_path.open("w", encoding="utf-8", newline="") as manifest:
-        writer = csv.writer(manifest, delimiter="\t")
+        writer = csv.writer(manifest, delimiter="\t", lineterminator="\n")
         writer.writerow(["file", "pageid", "title", "url", "text_sha256"])
         try:
             with bz2.open(input_path, "rb") as stream:
@@ -117,6 +118,7 @@ def import_dump(input_path, source, target, output_dir, manifest_path):
                     content = title + "\n" + cleaned + "\n"
                     destination = output_dir / name
                     destination.write_text(content, encoding="utf-8")
+                    written.add(name)
                     url = SOURCE_HOSTS[source] + "/wiki/" + urllib.parse.quote(title.replace(" ", "_"))
                     writer.writerow([name, pageid, title, url, hashlib.sha256(content.encode("utf-8")).hexdigest()])
                     added += 1
@@ -127,6 +129,9 @@ def import_dump(input_path, source, target, output_dir, manifest_path):
             raise RuntimeError("dump ended before %d valid articles: %d imported" % (target, added)) from error
     if added != target:
         raise RuntimeError("dump contained only %d valid articles, expected %d" % (added, target))
+    for stale in output_dir.glob("wiki_*.txt"):
+        if stale.name not in written:
+            stale.unlink()
     return added
 
 

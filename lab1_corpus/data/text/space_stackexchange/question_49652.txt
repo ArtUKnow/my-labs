@@ -1,0 +1,3 @@
+Which RS-25s are on the Artemis 1 rocket?
+The SLS core to be used for the Artemis 1 flight will use four RS-25 engines. These reusable engines were used on the Space Shuttle Orbiter previously.
+Is there a listing of which SSMEs are planned for each Artemis flight, and which STS missions they had previously flown? We are specifically interested in this first Artemis flight.

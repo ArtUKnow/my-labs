@@ -1,0 +1,8 @@
+What is the lowest viable circular orbit around Mars that can last at least one week?
+Supposing you wanted to launch a spaceship from the surface of Mars into orbit around Mars. It would stay in orbit for up to one week while you prepared a second rocket that would dock with it to transfer fuel. After transferring fuel, the second rocket would land, and the first rocket would fly away from Mars.
+In the absence of atmosphere, to have a circular orbit, you just need gravity = velocity^2/orbit_radius. So, in that case, radiuses all the way to the ground are valid solutions mathematically.
+So, this questions probably comes down to atmospheric drag as the limiting factor.
+The Martian atmosphere is like 2% as dense as Earth's at ground level, so one would expect that the lowest possible orbital height is much less than that of Earth.
+Mars' gravity is only 3.71m/s^2 at ground level. So with less gravity the atmosphere spreads out more vertically, which would tend to increase the minimum required orbital height.
+What is the lowest viable circular orbit around Mars that can last at least one week?
+"Last one week" means that the ship doesn't fall to the ground, but its altitude may decrease a bit.

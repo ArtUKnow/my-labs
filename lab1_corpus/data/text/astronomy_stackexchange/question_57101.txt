@@ -1,0 +1,5 @@
+Stacking of frames drizzled using the AURA drizzle implementation hosted on github/spacetelescope (NOT PixInsight drizzle integration)
+Note: this question is not about PixInsight's drizzle integration module, it's specifically about the mentioned drizzle implementation. Answers describing PI functionality are automatically off topic.
+When drizzling frames using drizzle (gitlab: spacetelescope/drizzle, a drizzled output image plus an output_counts array is generated.
+I'm looking to understand the correct way to stack the output. For a given drizzled image, some pixel values may be determined by a "droplet" from the input image that completely covers the pixel in the drizzled image whereas others may be determined by a droplet that only overlaps a little.
+When stacking the drizzled images, should the pixel values from the drizzled images be weighted according to the corresponding output count in the corresponding output_counts array in order to ensure that the droplet that completely covers the pixel is weighted higher than the one that barely overlaps? My hunch is yes, but I can't find anywhere in the documentation that confirms this.

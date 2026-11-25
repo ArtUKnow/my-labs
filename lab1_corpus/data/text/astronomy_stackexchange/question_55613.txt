@@ -1,0 +1,3 @@
+When was the last time a total solar eclipse on Neptune courtesy of Triton occured, and when will be the next?
+If Triton had an equatorial orbit, then solar eclipses would occur around the Neptunian equinox - same as with Saturn and Uranus. But Triton's orbit is infamously inclined to Neptune's equator, so common intuition doesn't help in guessing when an eclipse will happen.
+Googling this issue leads nowhere apart from articles on Triton occulting background stars. I'm pretty sure an easy way to see this would be to the set the location in Stellarium as the Sun itself, observe Triton, and note when it passes over Neptune. Unfortunately, I am unable to do so now or in the near future.

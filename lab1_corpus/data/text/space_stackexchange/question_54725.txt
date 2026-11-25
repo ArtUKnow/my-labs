@@ -1,0 +1,4 @@
+Why do recent launch vehicles like that of Space X and Rocket Lab have far fewer umbilicals than before? What has changed?
+Launch vehicles using mobile launch pads have many umbilical connections, whereas the ones using TEL launch structure with strongback, don't. Why is that?
+As seen in the picture, Electron has just one main umbilical:
+Source.

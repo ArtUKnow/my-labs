@@ -1,0 +1,7 @@
+What are ephemerides? (SPICE software)
+I want to use the SPICE software, but there is something than I don't understand:
+The purpose of the SPK---which stands for S(pacecraft) and P(lanet)
+Kernel---file is to allow ephemerides for any collection of solar
+system bodies to be combined under a common file format, and accessed
+by a common set of functions.
+What are ephemerides here? Are they a table with all of the positions of a celestial body in a period of time? Do I have to use the SPK to find out where a planet is at any given time?

@@ -1,0 +1,3 @@
+Can operators put their satellites to sleep temporarily?
+I’ve read a bit about “safe mode” and “passivation”. While one seems to be triggered autonomously, the other is used to decommission the satellite.
+How does one put the mission in a temporary safe mode? Is there a term for it?

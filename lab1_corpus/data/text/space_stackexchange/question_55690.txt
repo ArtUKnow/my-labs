@@ -1,0 +1,7 @@
+What is the current status of space laser communication (lasercom) in Russia and China?
+Space-based laser communications (Free Space Optics) is making a dent in the field of satcom, but as always news from the East doesn't seem to make much appearance in English-speaking media.
+From states, there is lasercom research coming out of NASA JPL, NASA Goddard, Japan's JAXA/NICT agencies, and ESA (notably with their EDRS: European Data Relay Satellite system).
+In the military world, the US Department of Defense (DoD) is building its Tranche 1 communications layer, and contractors such as Lockheed Martin, Raytheon, General Atomics and Airbus Defense & Space are all operating in the field.
+In the commercial world, Amazon's about to launch Kuiper, SpaceX has already launched Starlink with the capability for intersatellite optical links (IOSL), and Mynaric offers standardised HAWK and CONDOR terminals for air and space lasercom.
+In the research world, lasercom research is notably being carried out at the Australian National University (ANU), University of Western Australia, and MIT Lincoln Laboratory to name a few.
+What's happening in Russia and China?

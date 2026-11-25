@@ -1,0 +1,21 @@
+Are there any efforts towards producing 148-Gd as an alternative to 238-Pu for RTGs?
+After 05:16 in Real Engineering's March 22, 2025 video NASA'S Plutonium Problem there's a discussion of how the various radioisotope options for Radioisotope Thermoelectric Generators (RTGs) was historically narrowed down to plutonium-238. It mentions three criteria with which to narrow down the thousands of radioactive isotopes available:
+half-life between 15 and 100 years (not too fast but not too heavy)
+emit (almost) only alpha particles, so easy to shield. Almost no gamma, higher energy beta, or neutrons from spontaneous fission (Does curiosity's RTG generate neutrons as this NASA CheMin X-ray detection system webpage suggests? If so, how?)
+must be cost-effective, and producible in sufficient quantities.
+Decades ago, with a half-life of ~88 years, only a tiny rate of neutron production, and cold-war-associated production, plutonium-238 was easily the winner.
+Now, the cupboards are bare, and sourcing from Russia has been stopped. There has to be a big and expensive push to start ramping up production.
+The video briefly points out that while gadolinium-128 was an excellent contender:
+...the only way to produce it, was to bombard targets with very high energy protons, requiring very expensive particle accelerators.
+Of course the programs and facilities to produce kilograms of plutonium-238 might also be considered expensive.
+Wikipedia's Isotopes of gadolinium; Gadolinium-148 says
+With a half-life of 86.9±3.9 year via alpha decay alone, gadolinium-148 would be ideal for radioisotope thermoelectric generators. However, gadolinium-148 cannot be economically synthesized in sufficient quantities to power a RTG.(8)
+and it's reference (8) is from 2009: "Council, National Research; Sciences, Division on Engineering Physical; Board, Aeronautics Space Engineering; Board, Space Studies; Committee, Radioisotope Power Systems (2009). Radioisotope Power Systems: An Imperative for Maintaining U.S. Leadership in Space Exploration." not paywalled: Prepublication Copy Subject to Further Editorial Correction Radioisotope Power Systems An Imperative for Maintaining U.S. Leadership in Space Exploration (also archived)
+That 2009 report says, seemingly without sourcing, that:
+The five remaining radioisotopes are alpha emitters. Gadolinium-148 (148Gd) is ideal in terms of emissions, because it decays directly to a stable nuclide (144Sm) and emits no secondary radiation. However, 148Gd can only be produced using a proton accelerator, rather than a reactor. Even if an accelerator were devoted full-time to the production of 148Gd, the output would only be a few grams per year. There is no known or projected method for making kg quantities of this isotope in a year’s time.
+Then in 2022 A new production route of Gadolinium-148 for use in Radioisotope Thermoelectric Generators (also arXiv) was published. It explores various routes by which beams of hydrogen, deuterium or helium on various natural targets could be optimized to produce gadolinium-148. The beam energy ranges (10 to 100 MeV) are typical for commercial accelerators for both isotope production and proton radiation therapy in hospitals.
+This suggests (to me at least) that there might be a competitive route to making RTG radioisotopes compared to ramping up plutonium production, especially in view of how accelerator technology continues to improve.
+So I'd like to ask:
+Question: Are there any efforts towards producing 148-Gd as an alternative to 238-Pu for RTGs?
+These could be serious research efforts and studies, or commercial efforts to just go for it.
+screenshot from Real Engineering's March 22, 2025 video NASA'S Plutonium Problem

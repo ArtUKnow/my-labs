@@ -1,0 +1,5 @@
+About measuring the thrust of an electric thruster
+I read in some papers, for example this one: https://www.researchgate.net/publication/316444395_Recommended_Practice_for_Thrust_Measurement_in_Electric_Propulsion_Testing
+That the best way to measure thrust is to use the pendulum thrust stands, why just not use a simple pendulum with a dynamometer?
+If we have a heavy object hanging from a pendulum and we make a small force perpendicular to the weight, it will move and we can measure the force with a dynamometer.
+I want to experiment with an ion thruster and measure its thrust and I want to avoid building complex equipment

@@ -1,0 +1,121 @@
+Osculating conic orbital elements: Comparing SPICE's oscelt to MATLAB's ijk2keplerian functions
+I have been using the SPICE Toolbox and wanted to derive orbital elements from a state vector $X$ in ECEF coordinates [1] in order to define a circular orbit around Earth. To do so I need first transform $X$ from ECEF to ECI coordinates [2] and then compute the osculating conic orbital elements in the inertial J2000 frame.
+Using the Aerospace Toolbox in MATLAB for instance, this calculation is straightfoward with the combination of the ecef2eci function [3] for the transformation and the ijk2keplerian function [4] to get the corresponding orbital elements.
+I have tried to do the very same using SPICE functions: sxform [5] for the transformation and oscelt [6] for the orbital elements. The code is available below.
+In both cases the transformation returns states that are similar in order of magnitude and direction. However, the orbital elements, and the eccentricity in particular are very different. In the Table below, one can see that oscelt returns an eccentricity well above 1 whereas ijk2keplerian returns an eccentricity very close to 0, which is expected (circular orbit).
+The eccentricity should be close to 0 but it is instead closer to 10^9 which does not make any sense for a circular orbit, or any realistic near-earth orbit. I come to you for help. How does one use this SPICE oscelt function to get realistic orbital elements from an inertial state vector? This tool is well known and proven across many languages, so I fail to see my misuse of this function on such an easy example.
+My code and a few references are shared below.
+Table: states and orbital elements (2019-01-04 12:00:00 TDB)
+Note that oscelt doesn't return the semi-major axis $a$ but the perifocal distance $r_p$ [6] so I compute the following $r_p = a(1-e) \Leftrightarrow a=r_p/(1-e)$.
+oscelt
+ijk2keplerian
+ECEF position, m
+[-5762640, -1682738, 3156028]
+[-5762640, -1682738, 3156028]
+ECEF velocity, m/s
+[3832, -4024, 4837]
+[3832, -4024, 4837]
+ECI position, m
+[-2955502.97, 5222045.35, 3161547.77]
+[-2981832.85, 5207026.89, 3161595.09]
+ECI velocity, m/s
+[-3408.35, -4869.82, 4843.08]
+[-3383.73, -4887.01, 4843.02]
+Eccentricity, 1
+1000141343.24
+9.1967e-4
+Semi-major axis, m
+-0.01
+6784305.30
+Inclination, deg
+51.75
+51.75
+RAAN, deg
+94.97
+95.26
+Argument of periapsis, deg
+36.46
+108.10
+Table EDIT: states and orbital elements (2019-01-04 12:00:00 UTC)
+oscelt
+ijk2keplerian
+ECEF position, m
+[-5762640, -1682738, 3156028]
+[-5762640, -1682738, 3156028]
+ECEF velocity, m/s
+[3832, -4024, 4837]
+[3832, -4024, 4837]
+ECI position, m
+[-2981051.212, 5207475.188, 3161593.826]
+[-2981832.847, 5207026.890, 3161595.092]
+ECI velocity, m/s
+[-3384.446, -4886.498, 4843.036]
+[-3383.732, -4887.009, 4843.022]
+Eccentricity, 1
+8.843e-04
+9.196e-04
+Semi-major axis, m
+6783301.6
+6784305.3
+Inclination, deg
+51.7540
+51.7539
+RAAN, deg
+95.2502
+95.2586
+Argument of periapsis, deg
+117.2369
+108.1022
+Code
+close all;
+clear all;
+clc;
+format bank
+%% Add paths to src/mice and lib directories of MICE toolkit
+% Source: https://naif.jpl.nasa.gov/naif/toolkit_MATLAB_PC_Windows_VisualC_MATLAB9.x_64bit.html
+addpath ('.\mice\lib');
+addpath ('.\mice\src\mice');
+%% Load SPICE Kernels
+% Source: https://naif.jpl.nasa.gov/pub/naif/generic_kernels
+cspice_furnsh('.\kernels\de440.bsp');
+cspice_furnsh('.\kernels\naif0010.tls');
+cspice_furnsh('.\kernels\earth_latest_high_prec.bpc');
+cspice_furnsh('.\kernels\Gravity.tpc');
+%% Parameters in ECEF
+utc_0 = [2019 1 4 12 0 0];
+date_0 = sprintf('%i-%i-%i %i:%i:%i UTC', utc_0(1), utc_0(2), utc_0(3), utc_0(4), utc_0(5), utc_0(6)); % EDIT: TDB to UTC
+t_0 = cspice_str2et(date_0); % Ephemeris time, s
+r_ecef = [-5762640 -1682738 3156028]; % Position in ECEF, m, EDIT: km to m
+v_ecef = [3832 -4024 4837]; % Velocity in ECEF, m/s, EDIT: km/s to m/s
+%% MATLAB
+[r_eci, v_eci] = ecef2eci(utc_0, r_ecef, v_ecef, 'pm', polarMotion(mjuliandate(utc_0), 'action', 'none')*180/pi) % State in ECI, m and m/s
+[a_1, ecc_1, incl_1, RAAN_1, argp_1, ~, ~, ~, ~] = ijk2keplerian(r_eci, v_eci); % MATLAB orbital elements
+ecc_1 % Eccentricity, 1
+a_1 % Semi-major axis, m
+incl_1 % Inclination, deg
+RAAN_1 % Longitude of the ascending node, deg
+argp_1 % Argument of periapsis, deg
+%% SPICE
+STM = cspice_sxform(char("ITRF93"), char("J2000"), t_0); % State Transformation Matrix from ECEF to ECI
+% EDIT: STM for states in m|m/s
+% ITRF93 more accurate than IAU_EARTH for ECEF data
+X_eci = STM*[r_ecef'; v_ecef'] % State in ECI, m and m/s
+mu = cspice_bodvrd( 'EARTH', 'GM', 1 ); % Gravitational parameter for Earth, km^3/s^2
+elts = cspice_oscelt(X_eci, t_0, mu*1e9); % SPICE orbital elements, EDIT: GM from km^3/s^2 to m^3/s^2
+ecc_2 = elts(2) % Eccentricity, 1
+a_2 = elts(1)/(1-ecc_2) % Semi-major axis, m
+incl_2 = elts(3)*cspice_dpr % Inclination, deg
+RAAN_2 = elts(4)*cspice_dpr % Longitude of the ascending node, deg
+argp_2 = elts(5)*cspice_dpr % Argument of periapsis, deg
+%% Clearing SPICE kernels
+cspice_kclear;
+References
+Earth-centered Earth-fixed frame of reference: https://en.wikipedia.org/wiki/Earth-centered,_Earth-fixed_coordinate_system
+Earth-centered inertial frame of reference: https://en.wikipedia.org/wiki/Earth-centered_inertial
+ecef2eci documentation: https://de.mathworks.com/help/aerotbx/ug/ecef2eci.html
+ijk2keplerian documentation: https://de.mathworks.com/help/aerotbx/ug/ijk2keplerian.html
+sxform documentation: https://naif.jpl.nasa.gov/pub/naif/toolkit_docs/IDL/icy/cspice_sxform.html
+oscelt documentation: https://naif.jpl.nasa.gov/pub/naif/toolkit_docs/MATLAB/mice/cspice_oscelt.html
+SPICE wrapper for MATLAB: https://naif.jpl.nasa.gov/naif/toolkit_MATLAB_PC_Windows_VisualC_MATLAB9.x_64bit.html
+Kernel data: https://naif.jpl.nasa.gov/pub/naif/generic_kernels/
+cspice_dpr documentation (simply equals to 180/pi): https://naif.jpl.nasa.gov/pub/naif/toolkit_docs/MATLAB/mice/cspice_dpr.html

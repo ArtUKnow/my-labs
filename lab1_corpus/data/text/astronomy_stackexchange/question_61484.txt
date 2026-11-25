@@ -1,0 +1,9 @@
+Kepler's first law proof error - can anyone help me see what the error is?
+(P.S. this is my first time on this website, so please be nice)
+So I read this article by the University of Glasgow about the proof of Kepler's first law using basic dynamics, so I decided to solve it using my own method shown below:
+$$\begin{aligned}E=\frac12m(\dot r^2+r^2\dot\theta^2)-\frac{GMm}r\\\text{Since }\dot r=\frac{\text dr}{\text dt}=\frac{\text dr}{\text d\theta}\cdot\frac{\text d\theta}{\text dt}=r'(\theta)\dot\theta\\E=\frac12m\dot\theta^2(r'(\theta)^2+r^2)-\frac{GMm}r(\dot\theta=\frac L{mr^2})\\\cdots\\r'(\theta)=\frac1{r\sqrt{2Emr^2+2GMm^2r-L^4}}\\\frac{\text dr}{r\sqrt{2Emr^2+2GMm^2r-L^4}}=\frac1{L^2}\text d\theta\\\\\text{After integrating the left side and solving for r: }\\r=\frac{L^4}{GMm^2-\sqrt{G^2M^2m^4+2EL^4m}\sin(\theta+C)}\end{aligned}$$
+However, this does not align with Kepler's first law, if so, the function $r(\theta)$ should describe the ellipse in the form of $r=\frac a{1+e\cos\theta}$
+Can someone suggest the error behind this proof, maybe it was the integral calculator I used, the $\dot r=r'(\theta)\dot\theta$ statement, or even $r=\frac1{a+e\cos\theta}$
+Also, I am not very active on this website, so if anyone wants to see my full workings, it would take a long time. But I hope this can provide some useful answers for my future knowledge.
+Article : https://radio.astro.gla.ac.uk/a1dynamics/keplerproofs.pdf
+Integral calculator : https://www.integral-calculator.com/

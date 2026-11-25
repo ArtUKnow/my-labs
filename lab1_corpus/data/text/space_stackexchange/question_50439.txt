@@ -1,0 +1,10 @@
+What would be the disadvantages in Ingenuity accompanying Perseverance at a safe distance when the flight test program has been a success?
+This answer to the question "How long could the Mars helicopter Ingenuity keep up with the Perseverance rover if it wanted to?" reasons that indeed it could for years !
+But according to the INGENUITY MARS HELICOPTER landing press kit, as soon as the 30 sols spanning flight test program is complete the Mars 2020 rover will transition into its science operations phase and it's not revealed what would happen to the helicopter.
+From that same article:
+The helicopter is designed to fly, land, communicate, manage its energy, and keep warm autonomously.
+(emphasis by me)
+So once the technology demonstration has been a success, I guess not much time would have to be asked from the helicopter operations team to ensure that Ingenuity could accompany the rover day by day at a save distance.
+That would be a matter of loading the flight computer with new surface data for the next flight, so would not need much time for communication to and from Earth.
+But since currently NASA has not published a plan for Ingenuity accompanying Perseverance after a successful demonstration, a reason for this could be that accompanying would have disadvantages for Perseverance's science operations.
+What are the disadvantages in Ingenuity accompanying Perseverance at a safe distance ?

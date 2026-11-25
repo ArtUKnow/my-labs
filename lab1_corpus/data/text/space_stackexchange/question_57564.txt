@@ -1,0 +1,3 @@
+Are LHCP L-Band antennas for Cubesats available?
+I am designing a cubesat to carry out GNSS reflectometry or GNSS-R. To collect the earth reflected signals, I need a nadir pointing array of patch antennas, with Left Hand Circular Polarisation (LHCP) and operating in L1 and L2 bands.
+Does anyone know if these can be sourced off-the-shelf, or are these custom build? Would it be possible to modify a readily available RHCP antenna into a LHCP antenna, and increase the frequency that it operates at? Appreciate any help.

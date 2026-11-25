@@ -1,0 +1,5 @@
+Why is the filter needed for low resolution GMOS spectroscopy?
+I am considering writing a proposal for using the GMOS with the R150 grating. I want to measure the redshift of multiple systems from the strong lensing effect of some clusters, so the redshift range is wide (1<z<5). Therefore, it is better if the wavelength coverage is broad. However, when I use any filter as shown in the figure below, the wavelength range becomes narrower. Additionally, there is a loss in Signal-to-Noise (S/N) ratio if I use any filter.
+For example, when I use the 'GG455 G0329' filter, there is a loss of the blue wavelength range and S/N compared to when I use no filter.
+For me, it seems the best option is not to use any filter. Am I right?
+P.S. I also add the grating efficiency of R150 below.

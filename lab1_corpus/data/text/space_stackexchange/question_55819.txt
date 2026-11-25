@@ -1,0 +1,3 @@
+How well does wood thermally perform in space applications?
+Wondering if there are any studies about using wood as a material for insulation in spacecraft? My specific question is does anyone have any experience with it working as an insulator? I remember a specific type of hardwood (Jarrah) being used as a thermal insulator for large scale LNG tanks, but jarrah is super heavy. Are there any good examples of wood used in space?
+We made a cubesat mockup out of wood recently, and it prompted all sorts of other ideas.

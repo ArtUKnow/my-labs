@@ -1,0 +1,11 @@
+How do I convert lux to temperature?
+My question:
+I have a similar question to Is Jupiter bright enough to be seen in color by the naked eye from Jupiter orbit? but from a different perspective:
+(Sorry in advance if I use any incorrect terms or get the science slightly wrong)
+Assume we wanted to generate 100mW electricity above the atmosphere of Io using a Sterling engine (a satellite) and parabolic mirrors (more satellites). I'm trying to calculate the amount of heat I could generate with a comparable number of mirrors in the same position above Earth's atmosphere.
+From reading through the responses on the above posted similar question, I understand that sunlight has brightness with a unit measurement in lux.
+Sunlight also has radiation that we experience as heat, measured in Kelvin (and some others)
+In the 130,000 lux environment described above, let's say the temperature we feel is 311 Kelvin (100°F).
+Assuming IO has an atmosphere, what's the corresponding temperature (work with the assumption that the atmosphere has the exact same diluting factors as ours does, same insulating properties, same reflectivity, and if breathable air is necessary, etc)
+Maybe stated another way if, as described in an earlier answer, the luminosity is 1/25th of Earth's at Jupiter, does that mean that the total thermal impact would be about 1/25th, too?
+Thanks for any help in understand how to approach this problem.

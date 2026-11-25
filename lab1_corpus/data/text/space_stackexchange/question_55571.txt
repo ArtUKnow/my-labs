@@ -1,0 +1,7 @@
+Spin-stabilization of a NASA rover en route to Mars. What and why?
+This NASA's site describes a launch sequence of a rover towards Mars, from which we can read:
+Before the third stage's rocket is fired to get the spacecraft out of Earth orbit and on its way to Mars, it has to be "spun up". Small rockets are used to make the third stage spin about its long axis. Actually, the third stage will spin on a turntable attached to the second stage.
+and then, before 3rd stage separation
+Now, the third stage, with its solid rocket fuel exhausted, and with the spacecraft attached, are on their way to Mars. However, the spinning upper stage and the attached Mars Exploration Rover must now be despun so that the spacecraft can be separated and acquire its proper cruise orientation.
+But on this NASA's animation explaining Perseverance's entry-descent-landing sequence, we also learn that the spacecraft has a spin stabilisation during its cruising journey. Before entering Mars atmosphere, it executes a de-spin by releasing 2 "balance masses" (on the video, about 90 seconds from separation of the cruise stage).
+Can somebody give some enlightening explanations/links/calculations about the necessity of these "spin/de-spin" operations, the amount of energy spent, the rationale for the technologies chosen by NASA to spin and de-spin, the weights of the balance masses that were carried by Perseverance all along its journey from Earth?

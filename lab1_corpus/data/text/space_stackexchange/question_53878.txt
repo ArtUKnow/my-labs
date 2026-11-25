@@ -1,0 +1,9 @@
+Was there any launch vehicle possible that could have been used for a heavier New Horizons with enough fuel to enter Pluto orbit? (adding ~10 years)
+Answers to the Astronomy SE question Can New Horizons probe turn back and start orbiting Pluto are of course no, it would have to have been a different mission with a lot more fuel and a bigger launch vehicle.
+Question(s):
+Roughly how much more of a flying fuel tank would New Horizons have to have been (i.e. how many more kg of fuel) in order to slow down and match Pluto's orbit rather than fly past it. note: The new mission design can be very different, the launch vehicle can be very different, but add only fuel to the spacecraft and add no more than roughly a decade to the arrival time at pluto.
+If the what looks like it's an Atlas 551 were swapped out for a hypothetical Atlas HLV or whatever else earthlings could have put together for a juicy contract at the time, could it have even done the job?
+Source
+I'm asking that we keep the payload and instrumentation of New Horizons the same, and just make the fuel tank's kilogramage bigger for a back of the spherical cow's envelope estimate.
+Source
+The Atlas V rocket used to launch the New Horizons spacecraft.

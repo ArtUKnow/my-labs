@@ -1,0 +1,5 @@
+How could I find the pressure and/or the Isp at the exit of a rocket nozzle if I have data for the throat and comb. chamber?
+I've been looking at this for some time and working with CEA which will only give me data points for the pressure, temperature, Isp, etc. for the Injection, Combustion Chamber End, and the Throat; but I need this data for the Exit of the Nozzle since I need to find the thrust.
+Is there any way I can use the data from the Throat to find the ones at the Exit?
+Is there any way I can activate the Exit output in CEA?
+Thank you

@@ -1,0 +1,9 @@
+Do rockets headed to ISS get delta V benefit from Earth's rotation
+A rocket on the launchpad moves Eastward with the rest of the earth as it rotates about its polar axis.
+This means that on launch, the rocket already has a sizable eastward velocity component: ~460 m/s.
+That value is:
+$$\frac{2 \pi \times 6,378,000 \text{ m}}{24 \times 60 \times 60 \text{ s}}$$
+where the big number is the radius of the Earth in meters and the denominator is a day in seconds.
+That's about 5% of the delta-V a typical rocket has to gain to reach low Earth orbit (LEO). This is useful if you can launch straight East.
+But if you're heading to the ISS in its orbital inclination of 51.6 degrees, don't you normally roll to the target inclination immediately after launch to avoid a costly orbital transfer?
+Does this mean you don't get the full benefit of Earth's free delta V during launch?

@@ -1,0 +1,2 @@
+Characterization of Starlink Direct-to-Cell Satellites In Brightness Mitigation Mode
+The mean apparent magnitude of Starlink Mini Direct-To-Cell (DTC) satellites observed in brightness mitigation mode is 5.16, while the mean of magnitudes adjusted to a uniform distance of 1,000 km is 6.47. The DTCs have faded since early in 2024 because SpaceX subsequently adjusted the spacecraft attitudes to dim them. A physical model for satellite brightness that fits the observations is described.

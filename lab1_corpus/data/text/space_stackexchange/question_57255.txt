@@ -1,0 +1,4 @@
+Why doesn't JWST use ion thrusters?
+Since the L2 point is unstable, JWST needs engines to maintain its orbit. It uses mono-propellant engines which have given it a 5-year minimum lifespan.
+Why weren't ion engines used instead? Wouldn't they provide much more Delta-v for the same mass of fuel?
+Are they not reliable enough? Or is it just too much extra complexity?

@@ -1,0 +1,6 @@
+Does the Proton-M have a launch termination system?
+I was under the assumption that, in contrast to the oft-repeated "oh, those Russians", Protons actually do have launch termination systems which can be used to destroy the vehicle, akin to American "range safety" systems.
+However, I was under the impression that those Russian/Soviet launch termination systems were not activated until a certain distance from the pad/time after launch, due to the incredibly carcinogenic fuels (N$_2$O$_4$/UDMH) used in the Proton.
+The reasoning being, I believed, that it's considered better for the vehicle to blow up after clearing the pad, some distance away, rather than to be blown up directly on it, as the absence of red death clouds floating over the pad would aid recovery and cleanup efforts.
+However, I've been recently informed I may be completely wrong, and there is no launch termination sequence present at all on the Proton-M (and, I assume, earlier Protons).
+Am I wrong? Does the Proton-M have a launch termination system?

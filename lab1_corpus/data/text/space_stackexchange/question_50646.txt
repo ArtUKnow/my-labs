@@ -1,0 +1,2 @@
+ISP losses associated with exhaust vane TVC
+What is the impact of exhaust vanes, such as those in the A4 and Redstone rockets, on exhaust velocity and overall ISP? As well as this, what is the relationship between ISP losses and the width of the exhaust vane? Does it change with the angle of attack of the exhaust vane?

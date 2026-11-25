@@ -1,0 +1,2 @@
+What is the "mass" of a Lagrange point?
+Of the five Lagrange points, L4 and L5, as stable points, can be orbited by asteroids, satellites, and any other useful or interesting object. Assuming two-body motion however, calculating orbits with all the equations I'm familiar with relies on knowing the mass of the body being orbited. Obviously, a point in space where gravity perfectly balances out doesn't exactly have a mass, so what would be used as the "mass" of the L4 or L5 Lagrange points?

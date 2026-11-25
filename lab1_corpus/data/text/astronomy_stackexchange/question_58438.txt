@@ -1,0 +1,6 @@
+Hypothetical effect on a gas giant's radiation belt if its innermost moon had a magnetic field
+Please consider the following scenario:
+A gas giant of about 7 jupiter masses and a radius of 1.37 Jupiter Radii (calculated using Universe Sandbox) orbits the habitable zone of a main sequence F5 star at about 2.11 AUs leading to most of its moons being terraformable (and the most massive one being habitable). Most of said moons would orbit beyond the edge of the inner radiation belt, with the innermost moon orbiting at about 8 to 10 planetary radii for an orbital period of 40 hours.
+Taking into account the spacing factor I applied to the system, it would be possible for a moon to be present at about 6 planetary radii, which is just far enough to prevent catastrophic tidal heating, but that would also cause it to be in the middle of the most radioactive zone of the gas giant.
+If said moon had it's own magentic field protecting it (due to a sufficiently large iron core) would it be enough to prevent the formation of a torus of radioactive particles like that of Io? And could it still be livable or at least terraformable?
+For full context most of the moons would have a mass of around 0.3 to 0.15 earth masses, which should be enough for at least a magnetic field to be present, and have a density comparable with that of planet mercury.

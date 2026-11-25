@@ -1,0 +1,3 @@
+When objects fall from the far Solar System does that usually make the orbit more or less eccentric?
+In general, when an object falls from the far Solar System and swings around the Sun, does that usually make the orbit more or less eccentric? Or, assuming it doesn't get ejected from the Solar System entirely, does the eccentricity not change
+I'm trying to figure out a reason for the circularity of planetary orbits. This mechanism might tend to make the orbits more circular over time.

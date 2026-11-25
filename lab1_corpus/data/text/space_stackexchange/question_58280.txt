@@ -1,0 +1,2 @@
+Why is monopropellant used?
+The most efficent fuel, liquid hydrogen, is a bipropellant. So, why don't we just use bipropellants? Some monopropellants, such as hydrazine, are toxic. Wouldn't it be easier to just use bipropellants like hydrogen and oxygen?

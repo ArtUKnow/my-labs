@@ -1,0 +1,13 @@
+Why did a solar eclipse of the sun as seen from Apollo 11 appear to have an elliptical corona?
+When asked to recount an experience from the Apollo program, Neil Armstrong stated:
+[My] most indelible memory was approaching the moon and flying through
+the moon shadows so that the moon was eclipsing the sun and we could
+see the corona all around the moon. It was not circular, it was
+elliptical which was a big surprise, I didn't understand that. And
+then we could see the moon - the dark side of the moon of course,
+illuminated by earth-light...
+This quote was taken from podcast StarTalk Radio, S1:EP9, "Anniversary of Apollo 11" starting at about 11:35. (Did my best to transcribe accurately).
+In the quote, it seemed like Armstrong was referring to an unaided-eye observation. So why would the eclipse look different from his unique vantage point than an eclipse would have looked from Earth, which seemed to be what he was comparing to?
+Here's what seems to be a typical solar eclipse as seen from Earth (source):
+which overall seems to be circular; the irregularities don't seem obviously elliptical to me.
+Presumably from Armstrong's vantage point, it didn't look like this.

@@ -1,0 +1,6 @@
+What kind of technology is required for Alpha Centauri communication?
+Let's assume we already colonised Alpha Centauri.
+What kind of technology we need in order to send and receive 1kbps?
+Radio satellite orbiting the sun? How much power, antenna size and solar panel size? What frequency?
+Related questions
+How powerful an antenna needs to be to signal Earth from other solar systems?

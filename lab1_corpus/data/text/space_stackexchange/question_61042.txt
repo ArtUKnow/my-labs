@@ -1,0 +1,4 @@
+Which STS mission had the most accidents or failures?
+This question was prompted by articles mentioning that a majority of Space Shuttle launches had scrubbed launches.
+Which STS mission had the largest amount of accidents and/or failures?
+If relevant, this question may be separated into categories like on-pad scrubs and in-flight issues that did not result in mission aborts.

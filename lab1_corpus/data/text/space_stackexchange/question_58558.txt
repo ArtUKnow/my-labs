@@ -1,0 +1,12 @@
+How is the maximum data rate of the Psyche mission's Deep Space Optical Communications (DSOC) system expected to scale with distance?
+NASA's Mission Page Deep Space Optical Communications (DSOC) includes the following:
+Key DSOC technologies developed for the project include: a low-mass spacecraft disturbance isolation and pointing assembly; a high-efficiency flight laser transmitter; and a pair of high-efficiency photon counting detector arrays for the flight optical transceiver and the ground-based receiver. These technologies are integrated into the DSOC flight laser transmitter and ground-based receiver to enable photon-efficient communications with the capability to discern faint laser signals from background "noise" contributed by solar energy scattered by the Earth's atmosphere.
+Two previous questions and their answer highlight that for conventional optical communications schemes based on photodiode conversion of modulated optical intensity to likewise-modulated electrical signals the achievable data rate scales as (surprisingly) $1/r^4$ rather than the familiar $1/r^2$ for conventional deep-space radio communications systems.
+It is possible that an optical system based on photon counting will have a more favorable scaling of data rate versus distance than $1/r^4$ so I'd like to ask:
+Question: How is the maximum data rate of the Psyche mission's Deep Space Optical Communications (DSOC) system expected to scale with distance?
+Further reading:
+Receiver and transmitter in RF/optic satellite communication: distance vs data rate v2
+this answer to Quantitatively, why will optical communication be better than X-band for deep-space communications?
+Are direct conversion optical receivers being looked at for future deep-space communication?
+From SPIE.org's news item Optical communications work best over relatively short distances in space (06 April 2006 Morio Toyoshima, Walter Leeb, Hiroo Kunimori, and Tadashi Takano)
+Figure 1. Maximum data rates for optical and RF communication systems versus link distance. GEO stands for geostationary earth orbit, and arrows show distances to GEO, Moon, and Mars.

@@ -1,0 +1,9 @@
+How much space could be freed up on New Horizons "once the spacecraft's flyby software is no longer needed"?
+A comment below New Horizons current mission links to the Johns Hopkins University Applied Physics Laboratory page 2019 Onward which includes the following:
+It is possible that another flyby target can be found and reached with New Horizons' remaining fuel supply. And after that? Another exciting possibility is that we can dramatically augment New Horizons' capabilities by uploading new observing and onboard data-reduction software once the spacecraft's flyby software is no longer needed. If NASA approves such a plan, New Horizons could survey the Kuiper Belt population in ways that no other mission or telescope on Earth or in Earth orbit can, and possibly even detect and hunt down its own next flyby target.
+Future New Horizons extended missions, if funded by NASA, could explore even farther out. The spacecraft is on an escape trajectory from the Sun, traveling about three astronomical units per year. (An astronomical unit, or AU, is the average distance from Earth to the Sun, about 93 million miles or 149 million kilometers.) Moreover, New Horizons and its payload sensors are healthy and operating perfectly. The spacecraft has enough power and fuel to operate into the mid-2030s or longer, perhaps enough to reach the boundary of interstellar space.
+Question: How much space could be freed up on New Horizons "once the spacecraft's flyby software is no longer needed"? I don't know but I assume it could be reinstalled by the same type of procedure at a later date if it finds a target.
+Potentially related and helpful answers can be found to:
+How are New Horizons images sent back to Earth?
+What drives the choice of onboard memory size for the New Horizons probe?
+Can New Horizons be used to measure the distance to Betelgeuse (despite its fickle photocenter)? (Astronomy SE)

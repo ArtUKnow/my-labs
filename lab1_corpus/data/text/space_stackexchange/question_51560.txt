@@ -1,0 +1,2 @@
+Up to what Mach/Reynolds numbers will Ingenuity be tested?
+From an aerodynamics perspective, velocity alone is insufficient to describe the flow regime experienced during flight. For the Ingenuity helicopter, what specific Mach numbers and Reynolds numbers are planned to be exercised during test flights on Mars?

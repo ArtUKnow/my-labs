@@ -1,0 +1,4 @@
+Is it possible to detect if orbits intersect or not and positions where they intersect if you know Keplerian elements (2D)?
+I have two orbits and I know their Keplerian elements. Is it possible to find positions where two orbits are crossing if those positions exist?
+Is it possible to do it if spacecrafts are on orbits of different bodies: i.e. orbit of a spacecraft around the sun and orbit of spacecraft around earth, moon orbit and earth orbit, hyperbolic trajectory of asteroid and spacecraft's orbit around planet.
+I need it to create spacecraft collision avoidance algorithm in 2D top down.

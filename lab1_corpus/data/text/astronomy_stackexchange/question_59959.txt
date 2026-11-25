@@ -1,0 +1,80 @@
+Conversion from TAN- projection to SIN- projection
+I have an SDSS r-band image as fits file which uses TAN- projection as per its header.
+EQNX_SCN= 2000.00 / Equinox of the scan great circle. (years)
+NODE = 95.00000 / RA of the great circle's ascending node (deg)
+INCL = 10.00000 / Great circle's inclination wrt cel. eq. (deg)
+XBORE = -22.74 / Boresight x offset from the array center (mm)
+YBORE = 0.00 / Boresight x offset from the array center (mm)
+SYSTEM = 'FK5 ' / System of the TCC coordinates (e.g., mean)
+RADECSYS= 'ICRS ' / International Celestial Ref. System
+CTYPE1 = 'RA---TAN' / Coordinate type
+CTYPE2 = 'DEC--TAN' / Coordinate type
+CUNIT1 = 'deg ' / Units
+CUNIT2 = 'deg ' / Units
+Now I am trying to convert this image coordinates to match with another image that uses SIN projection.
+CTYPE1 = 'RA---SIN' / Right ascension, orthographic/synthesis project
+CTYPE2 = 'DEC--SIN' / Declination, orthographic/synthesis projection
+RADESYS = 'FK5' / Equatorial coordinate system
+EQUINOX = 2000.0 / [yr] Equinox of equatorial coordinates
+SPECSYS = 'BARYCENT' / Reference frame of spectral coordinates
+I tried looking up any conversion formulae or methods for this but could not find a straightforward method. I have some previous python code snippets somebody else wrote but they produced different results from each other and without a proper conversion formula i have no way of knowing for sure.
+So my question is, is this conversion possible? And if so, could anyone point me towards the accurate conversion formula?
+Addition: the two different methods I previously tried using astropy:
+method1
+wcs = WCS(header)
+# Extract reference coordinates
+ra_ref = header['CRVAL1']
+dec_ref = header['CRVAL2']
+# Convert to new coordinate system
+skycoord = SkyCoord(ra_ref, dec_ref, frame='fk5', unit='deg', equinox='J2000')
+# Update header to RA---SIN, DEC--SIN
+header['CTYPE1'] = 'RA---SIN'
+header['CTYPE2'] = 'DEC--SIN'
+header['CRVAL1'] = skycoord.ra.deg
+header['CRVAL2'] = skycoord.dec.deg
+# Recompute CD matrix values
+cd11 = header['CD1_1']
+cd12 = header['CD1_2']
+cd21 = header['CD2_1']
+cd22 = header['CD2_2']
+# Approximate transformation (small-angle assumption)
+factor = np.cos(np.radians(dec_ref))
+header['CD1_1'] = cd11 * factor
+header['CD1_2'] = cd12 * factor
+header['CD2_1'] = cd21 * factor
+header['CD2_2'] = cd22 * factor
+And
+# Create WCS object from the TAN projection header
+wcs_tan = WCS(header_tan)
+# Get the shape of the image
+ny, nx = data.shape
+# Generate pixel grid
+x_pixels, y_pixels = np.meshgrid(np.arange(nx), np.arange(ny))
+pixel_coords = np.column_stack([x_pixels.ravel(), y_pixels.ravel()])
+# Convert pixel coordinates to world coordinates (RA, DEC)
+ra_dec_coords = wcs_tan.all_pix2world(pixel_coords, 0)
+ra_coords = np.radians(ra_dec_coords[:, 0]) # Convert to radians
+dec_coords = np.radians(ra_dec_coords[:, 1])
+# Get reference coordinates
+ra0 = np.radians(header_tan['CRVAL1'])
+dec0 = np.radians(header_tan['CRVAL2'])
+# Convert (RA, DEC) from TAN projection to SIN projection
+x_tan = np.cos(dec_coords) * np.sin(ra_coords - ra0) / (
+np.cos(dec0) * np.cos(dec_coords) * np.cos(ra_coords - ra0) + np.sin(dec0) * np.sin(dec_coords)
+)
+y_tan = (np.sin(dec_coords) * np.cos(dec0) - np.cos(dec_coords) * np.sin(dec0) * np.cos(ra_coords - ra0)) / (
+np.cos(dec0) * np.cos(dec_coords) * np.cos(ra_coords - ra0) + np.sin(dec0) * np.sin(dec_coords)
+)
+x_sin = np.cos(dec_coords) * np.sin(ra_coords - ra0)
+y_sin = np.sin(dec_coords) - np.sin(dec0)
+# Define the new SIN projection header
+header_sin = header_tan.copy()
+header_sin["CTYPE1"] = "RA---SIN"
+header_sin["CTYPE2"] = "DEC--SIN"
+header_sin["CRPIX1"] = nx // 2
+header_sin["CRPIX2"] = ny // 2
+header_sin["CRVAL1"] = np.degrees(ra0)
+header_sin["CRVAL2"] = np.degrees(dec0)
+# Interpolate data onto the new SIN projection grid
+sin_data = griddata((x_tan, y_tan), data.ravel(), (x_sin, y_sin), method='cubic', fill_value=0).reshape(ny, nx)
+But as i said, they give same point two different co-ordinates and I have no way of confirming.

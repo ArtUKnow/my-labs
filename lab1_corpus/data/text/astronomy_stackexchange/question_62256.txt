@@ -1,0 +1,3 @@
+Negligible Correction of Parallax in Azimuth
+Meeus in Astronomical Algorithm said if correction of parallax in azimuth is about $\Pi/300$ where $\Pi$ is horizontal equatorial parallax of an object. (My guess, denominator of 300 is come from flattening factor $f$ about 298.25 and rounded into nearest hundreds become 300). However, for larger $\Pi$ like Moon (about 0.9-1.1 degrees), should we include it into calculation?
+Because if we look correction of parallax in altitude for Sun, still take into account even the value was about 9 arcseconds near horizon. While, for $\Pi_{moon} = 0.9^\circ - 1.1^\circ$, the correction of parallax in azimuth for moon is about 1.33 times than Sun's equatorial horizontal parallax and parallax near horizon itself.

@@ -1,0 +1,14 @@
+Is JWST Halo orbit prograde or retrograde and why?
+There is confusion in my mind over the direction of JWST’s halo orbit, depending in the source of graphics.
+Observing from the Earth, does JWST orbit clockwise or counterclockwise around the antisolar point? Looking "down" from the celestial north in a rotating frame of reference, does it orbit prograde or retrograde around the Z axis?
+The first graphic shows the transfer trajectory above the ecliptic and an oblique retrograde halo orbit:
+https://jwst-docs.stsci.edu/jwst-observatory-characteristics/jwst-orbit
+The next one, from Astronomy Magazine, shows the opposite, prograde orbit:
+https://astronomy.com/magazine/news/2021/10/the-james-webb-space-telescope-lives
+Scientific American also votes for prograde:
+https://www.scientificamerican.com/article/what-is-a-lagrange-point
+But the Planetary Society says retrograde:
+https://planetary.s3.amazonaws.com/web/assets/pictures/webbs-orbit.png
+Which way is JWST going?
+Does it matter from a science observational point of view?
+Was the orbital direction picked for launch convenience? Fuel consumption?

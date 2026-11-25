@@ -1,0 +1,8 @@
+How is the stainless-steel tubing in rocket engines brought into the correct shape?
+Some American rocket engines have TCA's (thrust chamber assemblies) built after a certain scheme:
+A combustion chamber, including part of the nozzle, made of several dozens of stainless steel tubes running alongside the exhaust gas, brazed together (also referred to as longitudinal tubewall chamber) plus sometimes an nozzle extension.
+However, one thing that left me baffled is: How were these tubes brought into a proper shape to be made into a nozzle? As the cross-section of the combustion chamber varies, so has the tubing, and as seen in Hazel and Huang below, the cross-section may not even remain circular.
+Hazel and Huang make a comment about the manufacturing of these tubes here in their book, but unfortunately, details are left out.
+NASA SP-8087 also describes the process, but again, no details.
+What I'd like to know is: Do we have video footage / images or a more detailed description of this manufacturing process and/or the tooling that was used in it? One source which I'm unfortunately not able to recall claimed that this process was very difficult and prone to failure, thus for each engine they wanted to build an order was placed for three times the tubes necessary, all of them had their performance estimated by undergoing flow-tests and two thirds with the worst performance were simply discarded.
+Edit: This is a question specifically regarding the manufacturing process of stainless steel tubing with varying cross-section.

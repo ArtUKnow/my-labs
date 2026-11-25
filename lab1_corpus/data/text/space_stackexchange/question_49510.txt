@@ -1,0 +1,3 @@
+Antares yaw maneuver: how many degrees?
+The Antares rocket begins launch with a very noticeable yaw maneuver that seems to rotate it more than the 1.25 degrees documented for the Saturn V. Am I being misled by perspective? Does anyone know how many degrees they target for the Antares yaw, or even if it is for sure more than 1.25 degrees?
+See video below for Antares launch with yaw. Notice how much it shifts away from the tower in those few seconds...

@@ -1,0 +1,24 @@
+Which Launching State HASN'T breached its obligations under the 1976 Registration Convention?
+(the wording of my question above is voluntarily provocative, but the actual question below may be even more)
+The context:
+The 1976 Registration Convention is part of a set of Treaties that constitutes the backbone of what we can call “Space Law”.
+The convention requires states to furnish to the United Nations with details about the orbit of each space object.
+Some on this site have accused India for breaching this Convention in the particular Swarm’s SpaceBEE satellites case of 2018.
+We could even wonder whether for each SpaceX “ride-share” launch, the US actually fulfill its obligations, reading the following story SpaceX’s record-setting rideshare mission a challenge for space traffic control.
+If we believe Jonathan McDowell, the list of states in the Table that he calls "Table of Shame" is astonishingly long. The US is not absent from that list, as other major space-using states.
+My actual question: On reflection, and especially from a lawyer’s perspective, has ANY state violated this Convention, to date?
+The relevant text of the “law” (Article IV) reads as follows:
+Each State of registry shall furnish to the Secretary-General of the United
+Nations, as soon as practicable, the following information concerning each
+space object carried on its registry:
+(a) Name of launching State or States;
+(b) An appropriate designator of the space object or its registration
+number;
+(c) Date and territory or location of launch;
+(d) Basic orbital parameters, including:....
+Each State of registry may, from time to time, provide the Secretary-General
+of the United Nations with additional information concerning a space object
+carried on its registry.
+Each State of registry shall notify the Secretary-General of the United
+Nations, to the greatest extent feasible and as soon as practicable, of space
+objects concerning which it has previously transmitted information, and which have been but no longer are in Earth orbit.

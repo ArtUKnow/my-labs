@@ -1,0 +1,2 @@
+Why is 51.8° inclination standard for Soyuz?
+Soyuz flights are mostly around 51.8° inclination, and the Soyuz manual gives this as a reference value. Why is 51.8° the standard inclination? That's not the latitude of Baikonur, and I couldn't find any explanation on Google.

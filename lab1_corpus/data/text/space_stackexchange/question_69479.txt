@@ -1,0 +1,58 @@
+Valid results? Hohmann analog with gravity assist
+Consider three circular and coplanar orbits. For a transfer between the inner to the outer orbit, igniting only two impulses, it is known that a Hohmann-transfer is the optimal maneuver.
+Performing a gravity assist using the body on the middle orbit I got the following results/questions:
+Assuming a tangential burn at departure and at destination orbit (similar to Hohmann) (see Appendix) the $\Delta v$ optimal transfer requires zero angle of approach in some cases. But, this means (near) parallel encounters with the assist body. Would that even work in practise?
+A comparison with the usual Hohmann reveals $\Delta v$ savings up to 50% as shown below. ($\mu = R =1$)
+But, can we do even better with other trajectories? (In particular as the optimal tangential-start-end transfers do not seem to gain/lose much speed during assist.)
+Appendix: (mathematical derivation)
+2-impulse transfer
+assuming a tangential burn at the start to get speed $\|\vec{V}_0\|=\sqrt{\frac{2\mu}{r_1}-\frac{2\mu}{r_1+r_2}}$
+the speed before the assist is $\|\vec{V}_1\|=\sqrt{\frac{2\mu}{R}-\frac{2\mu}{r_1+r_2}}$, where $R$ is the radius of the assist orbit
+in order to reach the outer orbit tangential we need a speed after assist of $\|\vec{V}_2\|=\sqrt{\frac{2\mu}{R}-\frac{2\mu}{R_1+R_2}}$
+such that the speed at the target is $\|\vec{V}_3\|=\sqrt{\frac{2\mu}{R_2}-\frac{2\mu}{R_1+R_2}}$
+for the velocity at the assist orbit $\vec{U}$ it is $\|\vec{U}\| = \sqrt{\frac{\mu}{R}}$
+for the angle of approach $\theta$ between $\vec{V}_1$ and $\vec{U}$ it holds
+$$\cos^2(\theta) = \frac{r_1 r_2}{R (r_1+r_2 -R)}\tag{1}$$
+for the angle $\beta$ between $\vec{V}_2$ and $\vec{U}$ it is
+$$\cos^2(\beta) = \frac{R_1 R_2}{R (R_1+R_2 -R)}\tag{2}$$
+in the assist body reference frame the assist does not change speeds so we have the conservation equation
+$$\|\vec{V}_2 -\vec{U}\| = \|\vec{V}_1-\vec{U}\|$$
+taking the square and using the scalar product this can be written as
+$$\langle \vec{V}_2 -\vec{U}, \vec{V}_2 -\vec{U}\rangle = \langle \vec{V}_1 -\vec{U}, \vec{V}_1 -\vec{U}\rangle$$
+or
+$$\|\vec{V}_2\|^2 - 2\langle \vec{V}_2, \vec{U}\rangle + \| \vec{U}\|^2 =\|\vec{V}_1\|^2 - 2\langle \vec{V}_1, \vec{U}\rangle + \| \vec{U}\|^2 $$
+which is
+$$\|\vec{V}_2\|^2 - 2 \|\vec{V}_2\|\| \vec{U}\| \cos(\beta) =\|\vec{V}_1\|^2 - 2 \|\vec{V}_1\|\| \vec{U}\| \cos(\theta) \tag{3} $$
+plugging (1) & (2) in (3) and simplifying leads to
+$$\frac{R^{\frac{3}{2}}}{R_1+R_2} + \sqrt{\frac{2R_1 R_2}{R_1+R_2}} = \frac{R^{\frac{3}{2}}}{r_1+r_2} + \sqrt{\frac{2r_1 r_2}{r_1+r_2}} \tag{4}$$
+with $r_1 < R < r_2$ and $R_1 < R < R_2$
+finally, with (4) as constraint it remains to minimize
+\begin{align}\Delta v &= \left|\|\vec{V}_0\| - \sqrt{\frac{\mu}{r_1}} \right| + \left| \|\vec{V}_3\| - \sqrt{\frac{\mu}{R_2}}\right|\\
+&= \sqrt{\frac{2\mu}{r_1}-\frac{2\mu}{r_1+r_2}} - \sqrt{\frac{\mu}{r_1}} + \sqrt{\frac{\mu}{R_2}} - \sqrt{\frac{2\mu}{R_2}-\frac{2\mu}{R_1+R_2}} \end{align}
+or equivalently (since $\mu, r_1, R_2$ are constant)
+$$\min_{r_2>R, R_1 < R} \left(R_2\sqrt{\frac{2r_1 r_2}{r_1+r_2}} - r_1 \sqrt{\frac{2R_1 R_2}{R_1+R_2}}\right) \tag{5}$$
+analytically, the optimum is attained at
+$$(r_2, R_1) = R\left(\max\left\{1, f\left(\frac{r_1}{R},\frac{R_2}{R}\right)\right\} , \min\left\{1, f\left(\frac{R_2}{R},\frac{r_1}{R}\right)\right\}\right)$$
+where
+$$f(x,y) = \frac{x^2 + g(y) - x g(y)^2 + \text{sign}(y-x) \sqrt{x (2 +x^3 -2 x g(y))}}{ g(y)^2 -2 x} $$
+and $$g(y)=\frac{1}{y+1} + \sqrt{\frac{2y}{y+1}}. $$
+This means $r_2$ or $R_1$ is equal to $R$.
+Remark: For two assists and two burns, surprisingly, things are actually a hell of a lot easier since no optimization is needed. There's two conservation equations (one per assist) and exactly two variables $r_1, r_2$ the periapse/apoapse lengths of the arc between the assists (green) if we assume initial (blue) and final arc (red) to be Hohmann (minimal semi-major axis length) as shown below.
+The conservation equations are
+\begin{align}
+\|\vec{V}_1-\vec{U}_1\| &= \|\vec{V}_2 -\vec{U}_1\| \\
+\|\vec{V}_4 -\vec{U}_2\| &= \|\vec{V}_3-\vec{U}_2\|,
+\end{align}
+where $U_i$ is the velocity of the assist body at assist $i$. With given $R_i$, $i=0,1,2,3$ for the orbit radii involved we can simplify the equations to
+\begin{align}
+\frac{R_1^{\frac{3}{2}}}{R_0+R_1} + \sqrt{\frac{2R_0 R_1}{R_0+R_1}} &= \frac{R_1^{\frac{3}{2}}}{r_1+r_2} + \sqrt{\frac{2r_1 r_2}{r_1+r_2}} \\
+\frac{R_2^{\frac{3}{2}}}{R_2+R_3} + \sqrt{\frac{2R_2 R_3}{R_2+R_3}} &= \frac{R_2^{\frac{3}{2}}}{r_1+r_2} + \sqrt{\frac{2r_1 r_2}{r_1+r_2}} \tag{6}
+\end{align}
+leading to only one solution (since $r_1 < r_2$)
+\begin{align}
+r_1 &= \frac{x_2-x_1}{2}\left(1-\sqrt{1-\frac{2(c_1 x_2 - c_2 x_1)^2}{(x_2-x_1)^3}}\right) \\
+r_2 &= \frac{x_2-x_1}{2}\left(1+\sqrt{1-\frac{2(c_1 x_2 - c_2 x_1)^2}{(x_2-x_1)^3}}\right),
+\end{align}
+where $x_i = \frac{R_i^{\frac{3}{2}}}{c_2-c_1}$ and $c_i$ is the left side of the $i$-th eqn. in (6). Thus, we have
+\begin{align}\Delta v &= \sqrt{\frac{2\mu}{R_0}-\frac{2\mu}{R_0+R_1}} - \sqrt{\frac{\mu}{R_0}} + \sqrt{\frac{\mu}{R_3}} - \sqrt{\frac{2\mu}{R_3}-\frac{2\mu}{R_2+R_3}}.
+\end{align}

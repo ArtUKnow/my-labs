@@ -1,0 +1,2 @@
+High Order and Degree Gravitational Potential and correlation with Orbit Propagation Error
+I am trying to get a good understanding of when to use higher order/degree gravitational terms in orbit propagation, but I am coming up short on any literature that measures or highlights the resolution regions of these terms. Essentially, if I am trying to resolve to the meter scale at LEO, is 30x30 good enough? If anyone can point me to literatures that essentially tests this, that would be great.

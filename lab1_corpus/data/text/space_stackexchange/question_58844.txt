@@ -1,0 +1,8 @@
+How much energy would be required to launch a 10km x 10km x 10km cube into LEO?
+I know this is a bit of a ridiculous scenario, I am just looking for a very conservative estimate as to how much force would be required to get something orders of magnitude bigger and more awkard than a normal payload into orbit.
+Basic Assumptions:
+Per the title, the object is a 10km x 10km x 10km cube
+Density of the cube is 3 g/cm^3.
+Starting position is such that the top of the cube is at sea level. Just assume there is a pit big enough to accommodate this without hitting the sides.
+Orientation is flat side up rather than a corner (terrible aerodynamic profile).
+Located on the 35th parallel north.

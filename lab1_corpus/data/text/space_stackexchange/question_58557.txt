@@ -1,0 +1,9 @@
+What's this small source of glowing blue plasma next to Psyche's Hall effect thruster for? What does it do and why does the plasma curve and connect?
+PV Magazine's NASA’s 1.5 billion-mile Psyche asteroid mission will be solar-powered includes the image below which is PIA24030 and the relevent part of the NASA caption is:
+The photo on the left captures an operating electric Hall thruster identical to those that will propel NASA's Psyche spacecraft, which is set to launch in August 2022 and travel to the main asteroid belt between Mars and Jupiter. The xenon plasma emits a blue glow as the thruster operates. The photo on the right shows a similar non-operating Hall thruster. The photo on the left was taken at NASA's Jet Propulsion Laboratory in Southern California; the photo on the right was taken at NASA's Glenn Research Center.
+The right image shows the business end of a large Hall effect thruster with an annular opening from which the bright glow of plasma can be seen in the left image.
+Immediately above the thruster is a small cylindrical device with a small central opening, and the image on the left shows a similar but more purplish glow from it. If we follow the glow out of this small device it suddenly takes a 90 degree turn towards the ion engine's "exhaust plume" and joins the big glow from the engine, with a color gradient from purplish to blue.
+At least that's how it appears to me.
+Question:: What's this small source of glowing blue plasma next to Psyche's Hall effect thruster for? What does it do and why does the plasma take a right-angle turn and connect to the main engine's glowing plasma "exhaust plume"?
+A solar-powered Hall thruster uses xenon gas as propellant. Image: NASA
+Original image linked above.

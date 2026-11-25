@@ -1,0 +1,2 @@
+Why not crash the ICPS into the Moon?
+The Wikipedia article on Artemis 1 says that an ICPS disposal burn was performed after spacecraft separation. This was intended to send the ICPS into heliocentric orbit after passing the Moon. Why didn't the flight profile call for the ICPS to impact the moon instead, like the S-IVBs on the last 5 Apollo missions?

@@ -1,0 +1,6 @@
+Was Dart antenna tested using a DSN antenna located in Australia?
+So recently a tweet by a bot which tracks communications by the Deep Space Network stated that:
+DSS 43 receiving data from Double Asteroid Redirection Test at 312.5kb/s.
+IN LOCK IN LOCK 1 TURBO
+11:11 PM · Feb 17, 2021 from Paddys River, Canberra·Deep Space Network
+This raises the question of was DART, a spacecraft currently located in the Applied Physics Laboratory in the US, antenna tested using an Antenna in the DSN located in Australia? If so, is this sort of testing common in testing spacecraft antenna?

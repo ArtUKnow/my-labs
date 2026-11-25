@@ -1,0 +1,14 @@
+Orbital planes of stars in the S-cluster; is any edge-on (or close)?
+The S-cluster of stars that move around the Milky Way’s supermassive black hole SgrA*.
+S4716 is an interesting one, suggested in the second answer to related S2 "has an orbital period of just 4.02 years". S4716 has just passed through periastron this summer, possibly too early for publication of new findings(?)
+This 2020 paper was suggested in the initial comments. Unfortunately S4716 is not there. The good news, 112 S-stars studied, they all seem to be edge-on! or very close anyway, see section 3 Discussions
+The distribution of inclinations clustering around 90°. This shows that stellar orbits are seen preferentially edge on.
+Is that a fair conclusion? (all edge-on, more or less).
+Then looking at Table 2, I can see inclination i and $\omega$, that I'm familiar with (from wiki/Orbital_elements List of stars similar table). But no Period. There is a $t_{clos}$ - (year) all in the past, how can I know which S-star will hit periastron in the next future?
+PS. My main goal is to understand how, in what measure, the gravity of the star contributes to the (gravitational) redshift alongside the gravity of the black hole (SgrA*).
+Notes.
+[probably no longer relevant to edited question, make initial comments have some sense]
+(a) My initial take was looking at inclination parameter of the orbit but turns out the definition of Orbital_elements on Wikipedia is not what I need (?) - see comments.
+(b) I'm more confident now that the definition of inclination in wiki Orbital_elements is not generally accepted, or at least not outside the Solar System? (which is not clear in wiki).
+I found this Orbital_inclination which starts with the same Figure (i.e. "reference plane") but then section Exoplanets and multiple star systems
+describes a reference plane of the sky: a plane perpendicular to the line of sight from Earth to the object. Also face-on orbit, edge-on orbit.

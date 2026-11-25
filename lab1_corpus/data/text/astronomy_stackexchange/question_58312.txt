@@ -1,0 +1,2 @@
+Is it correct to say that a meteor shower's radiant depends on the motion of the meteoroid stream that produces it?
+Every meteor shower has its own radiant. Does it depend only on the motion of the corresponding meteoroid stream? If yes, why it's said that after midnight, when we face the direction of Earth motion around the Sun, the number of observable meteors increase? Shouldn't the best time to see them coincide with the time when the radiant is highest in the sky?

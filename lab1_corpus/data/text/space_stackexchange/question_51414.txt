@@ -1,0 +1,2 @@
+Are these good specifications for a X-Band High Gain Antenna?
+Currently, I have that for a X-Band High Gain Antenna functioning at 8Ghz, diameter of 3 meters, and a power transmission of 13.1dBW(20Watts) at a distance of about 8.5AU has a Gain of 52.44dBi, free path loss of 292.59dBi, and a total received power from transmitter of -152.13dBw. I am very new to the realm of telecommunications, so I'm not sure if these are acceptable values for the distance. I am trying to find specifications that would allow for a decent transmission rate from Enceladus to DSN.

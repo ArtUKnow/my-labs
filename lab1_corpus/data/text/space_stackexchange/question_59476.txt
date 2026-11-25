@@ -1,0 +1,3 @@
+What would happen during an inflight abort in a Falcon 9 if the booster engines did not shut down?
+During the SpaceX'S Crew Dragon In Flight Abort Test on a Falcon 9 Launch System, as soon as the abort system was triggered Falcon 9 booster engines was shut down and crew dragon's super dracos ignited and pulled it out to safety.
+What if the booster engines did not shut down? Would the super dracos have the TWR to pull the capsule to safety especially at later stages of flight?

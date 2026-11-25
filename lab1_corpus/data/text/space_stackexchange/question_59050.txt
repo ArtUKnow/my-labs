@@ -1,0 +1,14 @@
+Is the Beagle fixable?
+We have since learned that Beagle 2 failed to operate successfully, potentially because its solar panels didn't open properly.
+Now, a collaboration between De Montfort University Leicester (DMU)
+and the University of Leicester has used 3D modelling technology to
+reveal for the first time that Beagle 2 did not crash land as
+previously thought.
+Instead analysis by DMU’s visualisation specialist Teodora Kuzmanova
+found Beagle 2 deployed at least three of the solar panels it was
+supposed to after touching down on the planet’s surface.
+It may be that the antenna may have been transmitting as planned - but
+the signal could not get through because the fourth panel had not
+opened properly.
+Assuming the faulty panel was the sole malfunction and the rest of the Beagle was otherwise intact, and assuming the Perseverance Rover (or something similar) could get to the Beagle, is it possible that it would start to operate correctly if the errant solar panel was prodded open?
+Or are there now other factors that would prevent it from working, such as depleted fuel resources or consumables?

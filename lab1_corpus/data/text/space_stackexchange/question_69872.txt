@@ -1,0 +1,4 @@
+What makes SpaceX's Starship more promising in terms of rapid reusability than Space Shuttle?
+In your answer I would ask to reference known facts.
+Original Space Shuttle design also promised efficient reusability. But in practice it was never realized.
+What is so drastically different this time?

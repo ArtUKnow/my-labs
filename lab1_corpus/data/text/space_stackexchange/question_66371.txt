@@ -1,0 +1,32 @@
+Does human sensitivity to radiation impose a maximum distance on interstellar voyages regardless of radiation shielding or speed?
+The duration of crewed interstellar voyages is potentially limited by exposure to interstellar radiation.
+radiation dose obtained in a non-relativistic space module moving in
+interstellar space would be, approximately, 70 rems/year
+https://arxiv.org/pdf/physics/0610030
+The dose of radiation expected to cause death to 50 percent of an
+exposed population within 30 days ... is in the range from 400 to 450 rem
+https://www.nrc.gov/reading-rm/basic-ref/glossary/lethal-dose-ld.html
+Although estimates of lethal chronic doses of radiation are based on scant evidence, the duration of interstellar voyages would appear to be limited to a decade or two unless radiation exposure can be reduced or radiation tolerance increased.
+Increasing the spacecraft’s shielding mass reduces acceleration, which prolongs a voyage of a given distance and therefore prolongs radiation exposure duration. This produces a trade-off where increasing shielding does not extend the maximum distance of a radiation-limited voyage.
+The strategy of shortening the voyage duration by increasing the spacecraft to relativistic velocity suffers from a similar trade-off.
+The most dangerous is interstellar gas, which acts as a flow nucleonic
+radiation bombarding a relativistic starship. Radiation flux is
+extremely high even for moderate relativistic velocities … The
+presence of a neutral component in interstellar gas excludes the
+implementation of magnetic shielding alone.
+https://arxiv.org/pdf/physics/0610030
+The strategy of increasing crew radiation tolerance by genetic engineering does not suffer these trade-offs.
+Genetic engineering of humans is obviously a complex undertaking, on the same level of difficulty as developing interstellar propulsion. If the effective range of interstellar voyages is limited by both radiation sensitivity and delta-v, it makes sense to pursue solutions to both problems.
+Humans are obviously not yet ready for interstellar voyages, but enhanced radiation resistance would be an advantage even within the solar system.
+Tardigrades are small aquatic animals with remarkable resistance to radiation.
+https://www.newscientist.com/article/2106468-worlds-hardiest-animal-has-evolved-radiation-shield-for-its-dna
+Tardigrades apparently owe a large part of their radiation tolerance to “Dsup”, a protein which protects DNA from a variety of damaging agents. The gene coding for Dusp was genetically engineered into cultured human kidney cells. This markedly reduced radiation-induced DNA damage.
+Other studies https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6770827 suggest DNA repair mechanisms present in Tardigrades enhance the radiation resistance provided by Dusp.
+Recent studies show that stress-related tardigrade genes may be
+transfected to human cells and provide increased tolerance to osmotic
+stress and ionizing radiation. With the recent sequencing of the
+tardigrade genome, more studies applying tardigrade omics to relevant
+aspects of human medicine are expected.
+These findings hint at the possibility of genetically engineered space-faring humans with significantly improved radiation tolerance. For multigeneration voyages, the proposed genetic changes would be transmitted to succeeding generations.
+The most common malignancy induced by radiation is leukemia, particularly AML. If myeliod stem cells could be genetically engineered to be more radiation resistant (perhaps by the production of Dusp) there is the potential for reduced incidence of leukemia or, perhaps, more robust recovery from the treatment of leukemia.
+The proposed genetic engineering could be performed in vitro, with the enhanced cells returned to the donor. Germ cells (reproductive cells) would not be modified in this process.

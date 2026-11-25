@@ -1,0 +1,17 @@
+Copernican model for motion of Mars in Solar Ecliptic Coordinate System
+I want to model the orbit of Mars, pretending that it is a circle around the Sun at the origin of my coordinate system, with the Earth being at (1,0,0) in terms of AU on March 19, 2024, at the vernal equinox when the Earth intersects the positive x-axis. I know the angle of inclination from wikipedia (1.85 degrees) for Mars' orbital plane. I also know where Mars' orbit intersects Earth's ecliptic plane (my xy-plane): the longitude of the ascending node is approximately 50 degrees, so roughly the longitude where Earth is on May 9, 2024. That means I can find the orbital plane for Mars.
+I have its period of 687 days and its distance from the Sun at 1.52 AU (this is, of course, where my Copernican model is quite unrealistic since Mars has a much more elliptical orbit, but never mind that -- I'll continue to assume a Copernican solar system with this given data set). Now I just need to know where on its orbit Mars is on March 19, 2024, my starting point for the model, more specifically I need to know its longitude.
+So, I consult NASA's Horizon Systems, but that's where I am running into a problem. I will illustrate this with a different date, because I can use it to doublecheck that my method works. On August 28, 2003, Mars and Earth were in opposition (see here), so they should roughly share the same longitude (none of what I am doing needs a great degree of precision). I go to a unix terminal and telnet into NASA
+telnet horizons.jpl.nasa.gov 6775
+I choose Mars (499) as my target and Sun (10) as my centre, "eclip" as my reference plane. Here is the output
+Ephemeris / PORT_LOGIN Mon Mar 25 20:45:29 2024 Pasadena, USA / Horizons
+*******************************************************************************
+Target body name: Mars (499) {source: mar097}
+Center body name: Sun (10) {source: DE441}
+Center-site name: BODY CENTER
+2452880.000000000 = A.D. 2003-Aug-28 12:00:00.0000 TDB
+EC= 9.355312089520743E-02 QR= 1.381147225168036E+00 IN= 1.849314524891231E+00
+OM= 4.954277154097554E+01 W = 2.865131129215714E+02 Tp= 2452881.961196269374
+N = 5.240318916530542E-01 MA= 3.589722706089496E+02 TA= 3.587546846786007E+02
+A = 1.523693508142538E+00 AD= 1.666239791117040E+00 PR= 6.869810897660884E+02
+This is perfect, because as you can see, the "Tp", which is the time of Mars' perihelion, is on the next day, and TA, the True Anomaly, is almost 365 degrees, as it should be. Here is my problem: to find out where Mars is on some day where it is not aligned with Earth, I need to know where it is at its perihelion. Wikipedia appears to have this information. It gives the "argument of perihelion," which is the angle from the ascending node to the perihelion, 286 degrees for Mars. But if my ascending node was at 50 degrees and the argument of perihelion is 286 degrees, then Mars should be in the neighbourhood of 336 degrees longitude at its perihelion, which definitely didn't happen on August 28 (sounds more like February 23). Where is the flaw in my reasoning?

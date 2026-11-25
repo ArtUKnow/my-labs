@@ -1,0 +1,6 @@
+How orbital debris' density affects damage, everything else being equal?
+If considering one gram of steel and one gram of foam, which one is the biggest threat and would cause most or least damage to the orbital structure it hits?
+Radii of these debris is the only thing that will differ, yet depending on impact velocity, damage should differ too.
+How does relation between relative impact velocity and damage caused by impact evolve for the gram of steel and the gram of foam, since there is a wide range of possible impact velocities?
+(for instance at 15 km/s (prograde vs retrograde LEO frontal impact) the foam should punch a bigger hole in a solar panel or a hull.
+At 0.1 km/s the steel may produce a small bump on a hull while the foam may do nothing).

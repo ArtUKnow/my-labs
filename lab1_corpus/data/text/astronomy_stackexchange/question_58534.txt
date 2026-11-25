@@ -1,0 +1,4 @@
+How do I locate satellites in the sky using on-line predictions for my location?
+Me and my friends are trying to watch the ISS in the night sky and I need help. I cannot make sense of the numbers n2yo is giving me. Could anyone explain how this works?
+This is what n2yo is showing me
+And this is my interpretation of it (also how do you measure elevation i.e which path is correct in the drawing because there can be 2 elevations)

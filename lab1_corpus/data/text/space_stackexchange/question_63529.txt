@@ -1,0 +1,5 @@
+Will this homopolar motor self rotate in a vacuum?
+Is it convenient to ask about the motor from the link:
+Roller Homopolar Motor
+When it is on the table, the motor rotates freely, together with the attached conductor.
+Will the upper motor in the picture self rotate in a vacuum?

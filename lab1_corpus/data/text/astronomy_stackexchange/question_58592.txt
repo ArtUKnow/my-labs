@@ -1,0 +1,5 @@
+How to get Stellarium for Mojave?
+What's the newest version of Stellarium that will run on macOS 10.14 Mojave?
+And where can it be downloaded?
+I can't find system requirements for older versions anywhere on stellarium.org or GitHub.
+Thanks.

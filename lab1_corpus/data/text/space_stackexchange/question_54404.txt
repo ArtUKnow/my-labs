@@ -1,0 +1,4 @@
+Is there an API for accessing old TLEs of non-historic objects?
+There are various APIs online for accessing TLEs for a satellite object from CelesTrak. However, the APIs retrieved are usually the most recent ones generated.
+There are also a lesser number of APIs for accessing stored TLE data for old historical satellites, such as those operated by NASA, ESA or Roscosmos.
+Are there any APIs out there that provide access old (as old as possible) TLEs for non-historical satellites? I think Space-Track has some data, but I believe the only way to access that data is manually via the UI on the website?

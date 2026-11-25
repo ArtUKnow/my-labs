@@ -1,0 +1,2 @@
+Rediscovering the Milky Way with orbit superposition approach and APOGEE data I. Method validation
+We introduce a novel orbit superposition method designed to reconstruct the stellar density structure, kinematics, and chemical abundance distribution of the entire Milky Way by leveraging 6D phase-space information from its resolved stellar populations, limited by the spatial coverage of APOGEE DR17.

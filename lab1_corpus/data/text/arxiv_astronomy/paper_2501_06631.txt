@@ -1,0 +1,2 @@
+Gravitational collapse in the expanding Universe
+We use the Tolman metric to describe gravitational collapse of a sphere of a fluid without pressure in spacetime with the Hubble parameter $H$ related to the cosmological constant. We show that the largest radius of a galaxy formed from such a fluid with mass $M$ is given by $(GM/H^2)^{1/3}$.

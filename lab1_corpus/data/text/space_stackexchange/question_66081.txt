@@ -1,0 +1,6 @@
+Is a dome really the most efficient way to contain gas in a vacuum?
+It's pretty common to see some artist or even engineer come up with an idea of a lunar or Martian colony with a big ol' glass dome up top. And we seem to have been doing this since the 60's.
+But barring other engineering issues like meteor vulnerability, radiation, etc. is it really sensible to use a dome? Balloons are stable because the pressure outside is interacting with the pressure inside to keep them rigid. Inflatable habitats can be rigid with only fractions of Earth's atmosphere.
+But we would be containing an entire atmosphere of air in a structure with an apparent single weak point (the dome's zenith). Structurally, arches (e.g. masonry arches and dams) point the peak of their curve towards the source of the pressure, in order to redirect it towards the ends of the arch.
+To that end, what about something like an inverted dome? Would this contain the pressure better?
+EDIT Since I forgot how specific questions need to be on here, let me elaborate with some, uh, "diagrams":

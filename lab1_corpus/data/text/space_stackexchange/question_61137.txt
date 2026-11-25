@@ -1,0 +1,5 @@
+Which method STK uses to compute Umbra or Penumbra time intervals?
+someone knows in which way STK computes the eclipse times for a satellite?
+I use a Matlab code taken from D.Vallado's library (ALGORITHM 34) but even if I use a PVT provided by STK (1 sec time step) with information about satellite and Sun position, there is a difference in seconds between the times computed by the code with respect the time listed in STKs report. I don't care about the milliseconds difference because it depends on the time sampling but I expect at least the start and end seconds to be similar.
+I attach an image of the two results.
+Thank you in advance

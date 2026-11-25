@@ -1,0 +1,8 @@
+Why does the Curiosity rover camera image resolution have "milliradians" as a unit?
+NASA's published specs for the Curiosity rover cameras says that the image resolution is in milliradians per pixel. Which is odd because image resolution is measured in physical size units, i.e. millimetres.
+Could it be referring to angular resolution?
+To check I tried to see if the 0.82 milliradians could be used to accurately get the field-of-view (FoV) angle.
+So the Navcam has 45 degree FoV and has 1028 pixel resolution.
+0.82 milliradians is 0.047 degrees, so one pixel is 0.047 degrees.
+0.047 degrees x 1028 pixel is 48.29 degrees, not 45 degrees.
+It doesn't really match up, but maybe I messed something up, because I am not confident in math.

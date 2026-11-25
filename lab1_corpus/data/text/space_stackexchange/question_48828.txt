@@ -1,0 +1,3 @@
+What are the most popular sun-synchronous orbits?
+There are different kinds of sun-synchronous orbits (SSO) that differ in their right ascension of the ascending node and are usually named after the local solar time at the ascending node (LTAN), e.g. 9h LTAN.
+I am trying to find information or statistics about how the SSO satellites (I am mainly interested in active satellites) are distributed in relation to LTAN, but I couldn't find anything so far. I am looking forward to any kind of advice, links and help!

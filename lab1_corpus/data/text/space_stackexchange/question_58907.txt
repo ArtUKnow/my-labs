@@ -1,0 +1,3 @@
+cross parachute - drag coefficient
+I would like to know whether there is a mathematical formula which gives the drag coefficient of a parachute. I suppose that the drag coefficient is a constant depending only on the geometry of the parachute. I'm in particularly interested in cross parachutes.
+I know that the drag coefficient (usually denoted by $C_d$) for cross parachutes is about $0.8$ but I could not find a specific formula describing $C_d$ in terms of the geometrical figures of the parachute.

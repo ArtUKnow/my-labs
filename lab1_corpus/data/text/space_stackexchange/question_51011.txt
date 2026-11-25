@@ -1,0 +1,16 @@
+How do cubesat owners first find out their cubesat's initial trajectory? How do they point antennas at it before official TLEs start to appear?
+When cubesats are first deployed it can sometimes take several days before they start appearing in official TLE distributions, and even then if many were deployed it may take a lot more work to decide which one is which.
+ISRO's PSLV-C37 with 104 satellites - after 56 hours only six TLEs, which factor is greatest challenge?
+It's been over two weeks now, will the real Humanity Star please stand up?
+What is "OBJECT BS"?
+Where can I find the TLE of ExseedSat 1, India's first ever private LEO satellite?
+What can be done in future mass-cubesat deploys to make them "less irksome" to orbital space debris experts?
+Do deployments of multiple cubesats obey proposed guidelines such as 20 seconds or more between deployments at 5 m/s or faster?
+CubeSat Orbit Determination
+Other Problems keeping track of satellites:
+How are military satellites with (apparently) classified TLEs still showing up on sat map websites?
+Has NORAD ever experienced a catastrophic event and "lost track of" a bunch of objects?
+Are SpaceBEEs actually hard to track?
+As far as I know, cubesats don't (yet) have digital license plates that can be read from the ground (easily). So in some cases it may be necessary to exchange some data before some TLE's can be associated with a specific satellite name. One way to establish that is to make radio contact with a given cubesat.
+There may be other operational reasons as well for why you might want to start trying to talk to your cubesat as soon as possible.
+Question: How do cubesat owners first find out their cubesat's initial trajectory? How do they point antennas at it before official TLEs start to appear? Do the launch providers share any trajectory informaion? If so, what is the format?

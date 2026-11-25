@@ -1,0 +1,4 @@
+Why does Earth's North Pole RA flip by ~180 deg around AD2000 relative to SSB? (JPL Horizons data)
+Using JPL's Horizons API I see that the Earth's North Pole RA flipped by ~180 degrees quite suddenly around AD 2000. It was pretty stable around 180deg for at least 1000 years prior, and then remains stable around 360 deg for at least 1000 years more.
+Why is this? Is this an artifact to do with J2000 and ICRF ?
+You can see this here - from AD 1000 to AD 3000

@@ -1,0 +1,4 @@
+At what point does an object lose 50% of escape velocity?
+I find the kalman line an unsatisfactory definition of space. Instead, I will use 50% of escape velocity.
+At what distance does this happen? If escape velocity is 11 km s and gravity is 9.81, I am guessing that space starts at a 560 second flight or about 2000 miles.
+On the ground pointing up.

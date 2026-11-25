@@ -1,0 +1,5 @@
+At some point far from the Sun does the output of solar panels start dropping much faster than inverse square? If so, how fast?
+I recall reading somewhere that solar power - already marginal at Jupiter - will cease to produce any power whatsoever at distances much further out than Saturn. Unfortunately I can not now find the source of that, so I'd like to explore it here.
+As far as I understand the photoelectric effect (which is, I think, related to how PV cells work), the intensity of radiation does not affect whether an electron is released, only the wavelength of the light. Because of this, it didn't make sense to me why photovoltaics might cease to produce light altogether at distances far from the sun.
+So I'd like to ask, whether, at some point far from the Sun, the output of solar panels starts dropping much faster than the inverse square law suggests. If it does, is this due to a lack of light intensity, or some other effect?
+As a bonus, what would the shape of that drop-off look like?

@@ -1,0 +1,18 @@
+What image compression algorithm did the Voyagers use?
+Recently, Reed-Solomon error correction codes were discussed: How is stacking oranges in 24 dimensions related to receiving and decoding signals from the Voyagers?
+Whilst the craft were between Saturn and Uranus the onboard software was upgraded to do a degree of image compression and to use a more efficient Reed-Solomon error-correcting encoding.
+But being passionate about image compression, the second part of this upgrade interested me.
+The above is supported by a reference to Voyager Telecommunications
+Uncompressed Voyager images contain 800 lines, 800 dots (pixels) per line, and 8 bits per pixel (to express one of 256gray levels). However, much of the data content in a typical planetary or satellite image is dark space or low-contrast cloud features. By counting only the differences between adjacent pixel gray levels, rather than the full 8-bit values, image data compression reduced the number of bits for the typical image by 60% without unduly compromising the information. This reduced the time needed to transmit each complete image from Uranus and Neptune to Earth.
+So it's a form of predictive coding.
+However, this description is incomplete, because predictive coding does by itself not reduce bitrates. The residuals from a predictor extends the range to 9 bits per sample, though only the 8 least significant bits are necessary to recover the sample.
+A wide range of residual coding options would have been available in the the early 1980s:
+Arithmetic coding (doubtful)
+Fixed tables of precalculated prefix codes (quite reasonable since residuals are known to be approximately Laplace distributed)
+Huffman coding
+Run length codes for near-zero residuals.
+Clamping residuals to a smaller range (crude lossy compression).
+And even if not mentioned, chronologically this is also recent enough that some Lempel–Ziv variant could have been involved. Those are normally not all that great for photographic images, but if most of the image is dark space and no other entropy coding is used, it would have been a reasonable choice.
+Even the choice of spatial predictor is left out, it just says "adjacent pixel gray levels".
+Conceptually, I doubt anything more advanced than a LEFT predictor was used, but it could easily have been a NONE/TOP/LEFT mix. I don't think any gradient predictor were used, as this predates both the paper by Alan Paeth, and the general knowledge of the excellent ClampedGrad (LOCO) predictor.
+Q: How did Voyager image compression work, in addition to being some form of predictive coding?

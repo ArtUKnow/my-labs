@@ -1,0 +1,14 @@
+${}^{3}$He based fusion propulsion, linear magnetic confinement with MeV protons out one end; new or old idea, and what are major challenges/concerns?
+CNN's April 3, 2025 Nuclear-powered rocket concept could cut journey time to Mars in half describes a commercial effort to build a form of nuclear space propulsion based on fusion of very light isotopes (e.g. those of hydrogen and/or helium) rather than the more familiar fission of very heavy isotopes (e.g. uranium, plutonium, thorium, etc.)
+The article nicely points out that:
+this is not fusion power generation, it doesn't need the same "breakeven" point that we hear about for economical electricity generation on Earth.
+it will operate in the vacuum of space, so no vacuum chamber or chamber wall interactions to worry about.
+It will use magnetic confinement as opposed to inertial confinement, (cf. Boeing US pat. 9,068,562: inertial confinement fusion engine (D-T pellet gun))
+but rather than a ring configuration like a tokamak the confinement region will be linear, reminiscent of magnetic mirror confinement geometries.
+and rather than nuclear thermal propulsion where the energy released superheats the propellant (e.g. hydrogen) that then expands through a nozzle, one end of the magnetic confinement field will have an opening, allowing energetic protons from the reaction to exit at very high energy (and therefore momentum) at several percent the speed of light (several to well over ten million electron volts per proton).
+Also, by fusing ${}^3$He with ${}^3$He or deuterium (${}^2$H), ideally no neutrons are released, so one particularly serious source of radiation exposure to an adjacent crew is avoided.
+Sounds great!
+But I wonder:
+Did this seemingly wonderful idea suddenly pop in out of nowhere, or has this been seriously investigated in the past?
+Besides the obvious question of whether sufficient confinement can be achieved or not, are there other serious challenges or concerns, especially for crewed interplanetary missions?
+note: there are other schemes for fusion propulsion (as well as several for fission) I'm primarily asking about the techniques described above.

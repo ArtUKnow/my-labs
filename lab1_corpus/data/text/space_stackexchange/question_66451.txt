@@ -1,0 +1,8 @@
+Why don't rocket engines use heat tiles on the inside?
+I asked in chat about rocket engines not melting @ 3300°C despite steel melting at 1400°C. The two excellent answers were:
+thermal mass was one answer
+the propellants are often piped through tiny tubes or channels within the bell was a more sustainable(suitable for actually going high) one
+What I don't get is why isn't ceramic insulation used on the inside of nozzles and even the combustion chamber. Could be extremely thin(like the orange paint-like foam on the main tank of the STS' but for heat instead of cold) but will still reduce ablative wear on the heat-transmitting metal alloy.
+I would appreciate answers to the literal question(floor tiles hehe) as much as answers as to alternative solutions and most of all - an explanation why none of that seems to transpire. What the question is not about are load bearing material selection, active heat management, feasibility of using just a piece of iron for simple missions(bombing people).
+In addition to @Uwe's comment pointing out Inconel is used instead of steel, I just now landed on the following Wikipedia quote:
+Often, heat-resistant carbon-based materials are used, such as amorphous graphite or reinforced carbon–carbon.

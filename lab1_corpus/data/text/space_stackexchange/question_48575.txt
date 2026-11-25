@@ -1,0 +1,10 @@
+How did Scott Horowitz "hoist" the Mars Society's flag up STS-105's "mast"?
+The medium.com's Retired NASA Astronaut Joins Crew That’s Building 21st Century Transportation Network says:
+At NASA, (Scott J. Horowitz) was responsible for selecting SpaceX — the company run by Elon Musk when he isn’t busy building the industry’s most thrilling quasi-autonomous electric vehicles — as contractors to develop Dragon. That was the world’s first commercial spacecraft to deliver cargo to the International Space Station. Like Musk, our new advisor Horowitz is a leading advocate of establishing permanent human outposts on Mars. On his 2001 space shuttle flight, when he served as commander, he ordered the Mars Society’s flag to be hoisted up the mast of the shuttle’s payload bay.
+Per that Wikipedia link, of the four shuttle missions on which H flew (STS-75, STS-82, STS-101, STS-105) only STS-105 was in 2001.
+Question: How did Scott Horowitz "hoist" the Mars Society's flag up STS-105's mast?
+Side notes:
+Mars Society and logo, don't know what the flag looks like exactlyyet.
+The "21st Century Transportation Network" references the DAV Foundation... a blockchain-based open source global transportation company:
+DAV Foundation has a decentralized transportation network, which enables different kinds of transportation companies to join the network. This network can work with autonomous vehicles, trucks, drones, cars, and rovers.
+How would blockchain be integrated into spaceflight? Have any methods been proposed yet?

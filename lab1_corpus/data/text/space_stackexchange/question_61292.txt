@@ -1,0 +1,3 @@
+Why does this image from Artemis 1 have horizontal stripes?
+This image (crop shown below) from Wikipedia's article on the the Artemis I mission has some unexpected artifacts: horizontal stripes across the image that look like missing data. I'd expect that from something like an early Pioneer probe where the spacecraft lacks the ability to store images for later transmission, but not from something modern. Further, this is described as being from the closest approach. Both close approaches happened above the lunar farside with no line-of-sight to Earth, so it can't be dropped data from a streaming transmission.
+What's the cause?

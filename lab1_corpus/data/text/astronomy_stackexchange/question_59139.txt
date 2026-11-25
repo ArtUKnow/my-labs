@@ -1,0 +1,6 @@
+Should Hour Angle be calculated from Local Apparent Sidereal Time?
+So, the book from where I'm basing my calculations (Astronomical Algorithms) takes Local Hour Angle as:
+H = LST - RA
+However my question is, shouldn't it use LAST instead? I mean, for context, I'm calculating the Sun's Azimuth and Altitude. For that I have calculated Right Ascension and Declination which are affected by nutation.
+Shouldn't the Hour Angle be affected by it as well?
+Or, since RA is already taking them into account there's no necessity of using LAST?

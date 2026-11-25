@@ -1,0 +1,7 @@
+James Webb telescope; limits to propellant lifetime?
+There is a comprehensive article on Wikipedia on the James Webb telescope. It includes a statement regarding the operational lifetime being nominally five years and optimistically ten years. However the two following statements still seem contradictory.
+"JWST needs to use propellant to maintain its halo orbit around L2, which provides an upper limit to its designed lifetime, and it is being designed to carry enough for ten years.[141]"
+versus later in the same article...
+"This requires some station-keeping: around 2–4 m/s per year[144] from the total budget of 150 m/s.[145]"
+The latter statement sounds more like 40 years of fuel!
+Maybe the fuel is also used for some other purposes like initially entering the halo orbit or for attitude control, etc.?

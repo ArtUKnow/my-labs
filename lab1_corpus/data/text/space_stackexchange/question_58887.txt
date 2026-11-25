@@ -1,0 +1,3 @@
+Soyuz thruster placement
+I notice that the Soyuz uses two high-thrust thrusters to translate in one direction along an axis, however some of the thrusters are located at a slight angle on either side of this axis, rather than both being exactly on it.
+Why are they angled like this? Some of the translation thrusters below are angled through the center of mass (21/22 and 25/26), and some are parallel (19/20 and 23/24), and some are even angled inwards (13-16).

@@ -1,0 +1,4 @@
+Did the Mercury capsules really recycle urine?
+The Wikipedia article about Project Mercury currently states in a note (#7)
+Moisture and urine was recycled into drinking water.
+Is that really true? The referenced document, This New Ocean A History of Project Mercury, p. 47, seems to refer to a completely different entity. Considering the relatively short-duration flights of Mercury, it doesn't seem reasonable to implement a heavy and energy-consuming recycling system when a canteen would do as well.

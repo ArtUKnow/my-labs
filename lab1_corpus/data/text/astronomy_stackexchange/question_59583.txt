@@ -1,0 +1,8 @@
+Determining the axial tilt of the Earth on a day other than a solstice?
+I am attempting to find a value for the Earth's obliquity $\varepsilon$ through measuring the Sun's altitude $\theta$ at solar noon.
+I have been able to derive that $\varepsilon = 90^{\circ} - \lambda - \theta$, where $\lambda$ is the latitude at which measurements were taken, using simple geometry, but this is only true when taking measurements on a winter solstice.
+For a day that's not a winter solstice, I believe that value calculated will be a 'component' of the actual tilt which I call $\varepsilon_x$. The angle that the Earth sweeps out in its orbit from winter solstice to the day of measurement, $\phi$, can be found with Kepler's Equation, so I feel like there should be a way to account for it?
+The equation that I arrived at using spherical trigonometry is
+$\tan \varepsilon_x = \cos \phi \tan \varepsilon$, but I haven't been able to find any reference to anything like this which makes me doubt if it's correct. Particularly, it was the assumption that the inner angle opposite $\varepsilon$ is $90^{\circ}$, which is what allowed me to arrive at that equation.
+Here is a diagram I made to help visualise it. I am not fully convined about the angle marked 90 degrees.
+Sorry that the diagram is not in 3D I have no experience in making 3D diagrams in LaTeX yet.

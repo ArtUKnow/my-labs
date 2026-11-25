@@ -1,0 +1,4 @@
+Can I redistribute the SGP4 lib?
+I'm writing a C# library to make working with orbits easier.
+Given I plan on being able to input data from space-track elsats, which uses TEME SGP4 orbital elements, it's looking increasingly likely that I'm going to need to use their SGP4 lib for reference frame conversions.
+It's not clear to me under what license the SGP4 lib has been released, so it's not entirely clear to me whether or not I can package this as part of my lib.

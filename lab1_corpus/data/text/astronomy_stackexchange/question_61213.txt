@@ -1,0 +1,4 @@
+Has sonification been successful in screening light curves data in the search for exoplanets?
+Complex data can be converted to sound so observers can use their auditory pattern recognition skills to pick periodic signals from messy data. This technique is called “sonification”. It has been applied to pulsar signals and gravitational wave detection as well as in seismology and genomics.
+I first heard of sonification in the movie “Hunt for Red October” when the submarine sonar operator detected a novel propulsion system by speeding up the playback.
+Has sonification been successfully applied to light curve data in screening for exoplanets?

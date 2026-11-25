@@ -1,0 +1,7 @@
+What does the world look like to astronauts in a neutral buoyancy pool?
+This photo of Samantha Cristoforetti in NBL training shows the distorted minification of her head through the curved visor. Cropped head photos of her and a nearby diver give an approximately 25% minification of interpupilary distance and vertical head size.
+Another photo during a “parabolic” flight shows she does not have a Lilliputian head.
+The minification of her head in the NBL photo is due to distortion from the visor which has the effect of a very strong “minus diopter” lens. This distortion would not be present in an actual EVA since the refractive index of air is almost the same as vacuum, unlike the water in the NBL pool
+This begs the question of what the world looks like to astronauts in the NBL pool and how it differs from an EVA. Are distances and depth perception distorted? If so, why doesn’t NASA use less curved faceplates that give a more realistic view?
+The flat faceplates of traditional scuba masks provide a small degree of magnification. On the other hand, the high minus curve of a NBL helmet provides minification. Presumably some curvature in between would cancel out both.
+Kirby Morgan 37 commercial dive helmet

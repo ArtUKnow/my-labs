@@ -1,0 +1,20 @@
+Are there uses for these 'quasi iso-propic' supersynchronous transfer orbits?
+In my answer to What are the benefits of supersynchronous transfer orbits? I stumbled upon an interesting outcome when considering the total $\Delta V$ cost from an inclined low altitude parking orbit to geostationary orbit using a supersynchronous transfer orbit. The maneuver profile is detailed below, requiring 3 burns:
+supersynchronous transfer orbit injection burn:
+perigee @ low parking orbit height
+apogee > geosynchronous height (> 35786 km, supersynchronous)
+no change in inclination
+$\Delta V_1 = \sqrt{\mu (\frac{2}{r_{park}}-\frac{1}{\frac{r_{park}+r_{Apo}}{2}})} - \sqrt{\frac{\mu}{r_{park}}}$
+combined plane change + perigee raising burn @ transfer orbit apogee:
+raise perigee to synchronous height (35786 km)
+change inclination to 0°
+$V_{Apo1} = \sqrt{\mu (\frac{2}{r_{Apo}}-\frac{1}{\frac{r_{park}+r_{Apo}}{2}})}, V_{Apo2} = \sqrt{\mu (\frac{2}{r_{Apo}}-\frac{1}{\frac{r_{sync}+r_{Apo}}{2}})}$
+$\Delta V_2 = \sqrt{V_{Apo1}^2 + V_{Apo2}^2 - 2V_{Apo1} \cdot V_{Apo2}\cos{i}}$ (cosine law)
+circularize @ perigee:
+$\Delta V_3 = \sqrt{\mu (\frac{2}{r_{sync}}-\frac{1}{\frac{r_{sync}+r_{Apo}}{2}})} - \sqrt{\frac{\mu}{r_{sync}}}$
+The total $\Delta V$ is the sum of all 3 burns (though typically the satellite is on its own for the final 2). Plotting the total $\Delta V$ over a wide range of inclinations and transfer orbit apogees yields this (250 km parking orbit assumed):
+Around ~40° it looks like the contours go vertical, indicating a sort of iso-propic line (if you will) where the total $\Delta V$ cost is independent of transfer orbit apogee (!wow). But, note that the $\Delta V$ required of the satellite (final 2 burns) decreases with increased transfer orbit apogee.
+Upon closer inspection there is no proper vertical line/invariant inclination, but these 5 m/s contours show that there is a region of quasi iso-propicness around 39° inclination (5 m/s in the scheme of 4+ km/s seems pretty invariant to me):
+There is no benefit for a traditional upper stage + payload combination because while the total $\Delta V$ stays the same, the distribution between launcher and payload changes by as much as ~20% for the apogee scale shown in the plots.
+Consider though, a single spacecraft responsible for all of the (admittedly high) $\Delta V$. Only one transfer orbit apogee can be used per mission, of course. However, is there any reason why sitting in a ~39° inclined low Earth orbit with the ability to target geostationary orbit from any transfer orbit apogee would make sense? Even if it does make sense, are there more practical solutions?
+Re: Comments, here are the 3 burns individually. The first and last don't deal with inclination and thus only depend on transfer orbit apogee (click to enlarge):

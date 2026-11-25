@@ -1,0 +1,7 @@
+Host star mass dependance on planet frequency (KEPLER data)
+I am currently studying for my exam on extrasolar planets and I got very confused when they talked about the KEPLER data:
+First, they quote a planet frequency of 1.23 planets /star, but they define it as (total # of planets)/(total # of stars), which kind of doesn't make sense to me as this doesn't correlate the specific planets with their host stars, but it seems to mix it all up?
+Furthermore, they state that there is an anti-correlation between the planet frequency and the stellar mass. Colder, less massive stars (4000-5000 K) show a frequency of 3.3 for planets in the radius range of 1-20 R_earth and P < 400 days.
+But I thought that more massive stars have a larger protoplanetary disk and hence more solid material for planet formation?
+Also, the planet frequency is dominated by small, short-period planets, since this was easier to detect for KEPLER. How can we be sure that this is then not an observation bias?
+Can somebody explain this to me? Many thanks!

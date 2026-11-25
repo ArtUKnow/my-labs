@@ -1,0 +1,24 @@
+Is my code correct to get six Keplerian parameters?
+Is my code correct to get six Keplerian parameters?
+function calculateKeplerianParameters($angle, $speed, $mu)
+{
+$radius = ($mu / pow($speed, 2)) * (1 / (1 + $speed * $speed / $mu * pow(cos($angle), 2)));
+$radialSpeed = sqrt($mu / $radius) * cos($angle);
+$angularSpeed = $mu / pow($radius, 2);
+$angularMomentum = $radius * $radialSpeed;
+$inclination = acos($angularMomentum / sqrt($mu * $radius));
+$altitude = $radius - $mu / $speed;
+return array(
+'Radius' => $radius,
+'RadialSpeed' => $radialSpeed,
+'AngularSpeed' => $angularSpeed,
+'AngularMomentum' => $angularMomentum,
+'Inclination' => $inclination,
+'Altitude' => $altitude
+);
+}
+$angle = deg2rad(45);
+$speed = 1000;
+$mu = 398600;
+$keplerianParameters = calculateKeplerianParameters($angle, $speed, $mu);
+print_r($keplerianParameters);

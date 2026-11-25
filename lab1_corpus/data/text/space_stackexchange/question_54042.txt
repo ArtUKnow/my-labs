@@ -1,0 +1,7 @@
+What would be the trajectory and initial speed of a chunk launched from Phobos to get as close as possible to any pole of Mars?
+Credit: NASA / JPL-Caltech / University of Arizona
+Phobos has a nearly circular orbit almost parallel with the equator of Mars.
+It orbits the planet in only 7h.39 min. at a height of 6000 km above the surface with a speed of about 2.1 km/sec.
+I suspect that when launching a chunk from Phobos into the direction of any martian pole ( so perpendicular to the orbital plane ) it would be difficult to reach it because of the orbital speed of this moon.
+Question: Could the launching direction and speed be adapted in such a way that the chunk could reach any of the poles ?
+I would like to have an answer that shows the necessary equations and calculations for verification.

@@ -1,0 +1,4 @@
+For Shuttle SRB solid fuel perforations, what is the shape of the double-truncated-cone?
+I understand the 11-point star perforations in the solid fuel in the top-most SRB section. Several articles say that the remaining sections had a double-truncated-cone perforation.
+Is my illustration correct for that shape-name? If it is, was there one of these per SRB fuel section? Were the top and bottom of the illustration the top and bottom of each fuel section?
+I would have thought that they would have been simple right-circular cylinders, since that would be their shape as they were burning. Can someone enlighten me on this? It's merely out of interest since there is the whole discussion of the 11-point star perforation for the first section to give the rockets the most thrust at lift-off.

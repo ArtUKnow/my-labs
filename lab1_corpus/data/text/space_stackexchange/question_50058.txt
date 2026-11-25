@@ -1,0 +1,5 @@
+Why not land SpaceX's Starship like a plane?
+I get the reasoning behind designing Starship to land upright. It doesn't require landing gear and the turnaround is expected to be much faster. But I'm beginning to question that logic.
+I think the cost/benefit of an upright landing is acceptable for unmanned vehicles like the booster. Most of the time it will land just fine, and if it craters once in a while, that's ok. But for a manned vehicle, it's far too risky. If those engines don't light in time, you and your 100+ fellow passengers are dead.
+Is the turn-around time that much better? The main difference is that it's horizontal, right? Surely SpaceX can find a quick and easy way to get Starship vertical and in position for the next launch.
+Is it really saving any weight? How much more or less does landing gear weigh compared to header tanks? Could you remove an engine or two if you don't need any to land with? How much could you save in fuel weight?

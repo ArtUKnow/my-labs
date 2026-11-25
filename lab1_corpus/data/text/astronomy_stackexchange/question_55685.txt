@@ -1,0 +1,2 @@
+Lifespan of neutron stars and black dwarfs in terms of mass in years
+Stars have a lifespan scaling as $1/M^{2.5}_\star$ for sunlike stars or more generally $t\sim 1/M^3$ for general stars (more or less), black holes have a lifespan (according to simple Hawking evaporation scenarios) of $t\sim M^3$. What we know about the lifetime span of neutron stars and black dwarfs? How do they (the time of life of those degenerate stellar systems) scale with mass? References would be welcome too!

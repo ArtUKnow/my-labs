@@ -1,0 +1,40 @@
+How to get from SED to mag [AB]?
+NGC 5406 has the following mag in SIMBAD g (AB) 13.104, r (AB) 12.215, i (AB) 11.803
+I wrote a little python snippet to fetch the spectrum of NGC 5406 and compute the mags, but I've hit a wall. I'm getting different values and I think it has something to do with instrumental vs calibrated magnitudes but I'm not sure.
+Here is the code:
+from astropy.coordinates import SkyCoord
+from astropy import coordinates as coords
+from astroquery.simbad import Simbad
+from astroquery.sdss import SDSS
+from matplotlib import pyplot as plt
+from astropy import units as u
+from spextra import Spextrum
+from synphot import SourceSpectrum, Empirical1D
+from synphot import units as units
+import numpy as np
+Get the coords and fetch the spectra
+galaxy = SkyCoord.from_name("NGC5406")
+pos = coords.SkyCoord(galaxy.ra, galaxy.dec, frame='icrs')
+xid = SDSS.query_region(pos,spectro=True)
+print(xid)
+spectra = SDSS.get_spectra(matches=xid)
+Data is in here
+spectra_data = spectra[0][1].data
+Wave in AA and Flux in nanomaggy
+wave = 10**spectra_data['loglam']
+flux_nanomaggy = spectra_data['flux']
+Convert nanomaggy to FLAM
+to_FLAM = (3.631e-6 * u.Jy).to(u.erg / u.cm**2 / u.s / u.AA, equivalencies=u.spectral_density(wave * u.AA))
+flux_flam = spectra_data['flux'] * to_FLAM
+Use speXtra library to make a spectrum object from the wave and flux arrays
+sp = Spextrum.from_arrays(waves=wave,flux=flux_flam, flux_unit=units.FLAM)
+Make an observation with g,r,i filtes and get the mags
+gMag = sp.get_magnitude(filter_curve="./filters_ascii/SLOAN_SDSS.g.dat", system_name="AB")
+rMag = sp.get_magnitude(filter_curve="./filters_ascii/SLOAN_SDSS.r.dat", system_name="AB")
+iMag = sp.get_magnitude(filter_curve="./filters_ascii/SLOAN_SDSS.i.dat", system_name="AB")
+print(f'g mag:{gMag}, r mag: {rMag}, i mag: {iMag}')
+Results:
+g mag:18.747706539101564 mag(AB), r mag: 16.565777072614736 mag(AB), i mag: 16.588555150926215 mag(AB)
+Expected:
+g (AB) 13.104, r (AB) 12.215, i (AB) 11.803
+You can get the filter transmission profile from here

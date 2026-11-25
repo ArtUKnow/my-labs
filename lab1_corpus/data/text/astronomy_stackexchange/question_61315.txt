@@ -1,0 +1,9 @@
+Why is Jupiter's rotational angular momentum so much greater than its orbital momentum?
+Alexa what is the ROTATIONAL angular momentum of Jupiter from stackexchange.com the rotational angular momentum of Jupiter is estimated here to be about 7 E + 38 kilograms square meter per second based on uniform density
+"Rotational angular momentum" distinguishes it from orbital angular momentum which, surprisingly(?), is 10,000 times less:
+the orbital angular momentum of Jupiter is approximately 1.7 by 10 to the power of 33 KG square meter per second which is about sixty times greater than the total angular momentum of all the other planets in the solar system combined
+You might think, with that huge radius and a 10-hour day, mass might be moving faster around the center than it is around the sun. However:
+jupiter rotates at a speed of 28,273 mph making it the fastest rotating planet in the solar system
+But that's virtually identical to its orbital velocity:
+Jupiter orbits at 29,220 mph
+So what accounts for the 5 Mag excess of angular momentum?

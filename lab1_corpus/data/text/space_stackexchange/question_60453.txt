@@ -1,0 +1,12 @@
+Discrepancies in thrust chamber dimensions for RL10
+I've recently been developing some automated scripts in Python for the purpose of calculating engine parameters. I've been using the RocketCEA interface library, which links to NASA's Chemical Equilibrium with Applications (CEA) code and produces combustion data. I've been developing these scripts for a separate application, but I decided to run it using the data for the RL10A-3-3A as a sanity check.
+I'm using Barrére et al. (1960) as well as Huzel & Huang (1991), which gives the following steps:
+$$\begin{align}
+\Gamma &= \sqrt{\gamma} \Big( \frac{2}{\gamma + 1} \Big)^{\frac{\gamma + 1}{2(\gamma - 1)}} \\[5pt]
+c^* &= \frac{\sqrt{\mathfrak{R}T_c}}{\Gamma} \\[5pt]
+C^{\circ}_{F} &= \Gamma \sqrt{\frac{2\gamma}{\gamma - 1}\Big[1 - \Big(\frac{p_e}{p_c}\Big)^{\frac{\gamma - 1}{\gamma}}\Big]} + \varepsilon \Big(\frac{p_e - p_a}{p_c}\Big) \\[5pt]
+A_t &= \frac{F}{C^{\circ}_{F} \cdot p_c}
+\end{align}$$
+I used CEA to obtain the frozen-equilibrium thermodynamic parameters for the RL10A-3-3A at a chamber pressure of 475 psia, a mixture ratio of 5.00:1 and an expansion ratio of 61.0:1. Computing the above equations gives $\Gamma = 0.6389$, $c^* = 2,364.4 \,\text{m/s}$, and $(C^{\circ}_{F})_{vac} = 1.9844$. These result in a (purely theoretical, efficiency-unadjusted) $I_{sp}$ of 478.4 s, which is in the ballpark of the RL10A's 440.3 s real-world $I_{sp}$.
+However, when I go to calculate the throat dimensions, I obtain values which are not in agreement with published sources. Applying the final throat-area equation for the stated inputs gives an area of 112.9 cm2 or a diameter of 11.99 cm (4.72 in). However, Binder, Tomsik, & Veres (1997) (p. 6, Table 2.5.1) give values of 2.47 in for the throat diameter (a 91% difference between the two). However, calculations in an archived sci.space.tech posting is within 10% agreement of my calculated diameter values here for the same RL10 variant (13.1 cm as opposed to 12.0 cm).
+Is there an error in my calculations, and if so, how do I rectify it to get better agreement with published engine data?

@@ -1,0 +1,3 @@
+JWST Gravitational lensing
+In the JWST deep field image we see gravitational lensing but it is not there in stefans quintent image of much more massive galaxy cluster.
+What are the criteria for seeing magnified images of objects via gravitational lensing (apart from the mass of the object which creates the gravitational field causing the lensing effect).

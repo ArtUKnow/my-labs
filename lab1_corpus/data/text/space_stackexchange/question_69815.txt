@@ -1,0 +1,3 @@
+What was the point of Nova expendable SSTOs?
+Encyclopedia Astronautica lists several designs proposed by contractors for NASA's Nova million pound lifter project. This includes 4 expendable SSTOs - including one air-augmented vehicle.
+But why would they want an expendable SSTO? It seems like the worst possible design.

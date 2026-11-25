@@ -1,0 +1,16 @@
+How would an n-body numerical orbit simulator use hierarchy in its Jacobian?
+This question is about techniques to calculate orbits.
+The Github post On the dynamical stability of Principia's modified Jool system (cited in this answer) says:
+Principia computes the trajectory of the celestial bodies by integrating the equations of motion1; as a result, if the system is unstable, it may break down in-game. This is in fact the case of the stock system: while the specifics depend on how KSP's Keplerian orbital elements are translated into a Cartesian initial state, with Principia's interpretation as hierarchical Jacobi elements, the Jool system breaks down within 19 days, with a close encounter between Vall and Laythe.
+Per Wikipedia:
+In vector calculus, the Jacobian matrix of a vector-valued function in several variables is the matrix of all its first-order partial derivatives. When this matrix is square, that is, when the function takes the same number of variables as input as the number of vector components of its output, its determinant is referred to as the Jacobian determinant. Both the matrix and (if applicable) the determinant are often referred to simply as the Jacobian in literature.
+When I do numerical integration for problems that I am currently facing I used to use the old scipy.integrate.odeint but am switching to scipy.integrate.solve_ivp and the latter says:
+Parameters: fun callable: Right-hand side of the system. The calling signature is fun(t, y). Here t is a scalar, and there are two options for the ndarray y: It can either have shape (n,); then fun must return array_like with shape (n,). Alternatively, it can have shape (n, k); then fun must return an array_like with shape (n, k), i.e., each column corresponds to a single column in y. The choice between the two options is determined by vectorized argument (see below). The vectorized implementation allows a faster approximation of the Jacobian by finite differences (required for stiff solvers).
+update: I think that this might be a clue; a hierarchical system might be useful when estimating interactions between objects that vary inversely with the square of distance; you might want to only evaluate interactions when orbiting bodies pass close to each other.
+I've never used a Jacobian myself but I'd like to understand this more.
+In the document the stiffness of the problem during a close approach is a central issue.
+The matrix shown in the Wikipedia definition looks flat, not hierarchical:
+$$\mathbf{J_{ij}} = \frac{\partial f_i}{\partial x_j}$$
+or as the article suggests a bunch of transposed gradients.
+Question: What exactly does an n-body numerical simulator's "interpretation as hierarchical Jacobi elements" mean? How would some kind of hierarchy be used in a Jacobian used by an n-body problem solver; this one or anything similar?
+Would this be used in the case of a swarm or constellation of small Earth satellites who's gravitational interaction is not considered, or would the bodies need to interact with each other in some way (gravitationally or responsively) before said hierarchy has any utility?

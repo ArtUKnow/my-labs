@@ -1,0 +1,3 @@
+How to get the reduction in Heat Flux due to Barbecue Roll on Spacecraft?
+As we know, to keep the surface of the spacecraft relatively cool, we spin the spacecraft so that not just one side of the spacecraft is heated.
+Due to this what is the effective Heat Flux encountered by the spacecraft?

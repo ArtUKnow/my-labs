@@ -1,0 +1,6 @@
+How would an Apollo LM crew have determined which abort mode to use when attempting to land?
+I have read a great deal about procedures for Apollo missions, and read much of the online Apollo Flight Journal and Apollo Surface Journal transcripts. When discussing the decision to abort a landing, the comments (and flight plans) say something like
+"Check Guidance switch", then select either "Abort Stage" to detach the descent stage and use the ascent engine, or "Abort" to abort using the descent engine.
+Other than in obvious cases, like too close to the surface, how would they have procedurally selected which mode/engine to use for the abort?
+Thanks,
+Tom

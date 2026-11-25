@@ -1,0 +1,14 @@
+Can a black hole hide another black hole "inside"?
+This question is not about a BH colliding with another BH
+and not about which coordinate system is the best to
+represent a BH geometry
+On the earth surface in 3D we see every day
+that a mountain can hide another mountain.
+A mountain behind a mountain.
+In spacetime in 4D, can a black hole hide another black hole i.e. "inside"?
+A black hole inside a black hole.
+Is it possible for another black hole to appear inside an existing BH. Is it possible to have embedded BH even if we
+cannot observe this situation outside of the larger blackhole?
+This is rather a logical question which could also be asked as:
+is there any rule in GR or computation which demonstrate that
+a black hole inside another black hole cannot appear?

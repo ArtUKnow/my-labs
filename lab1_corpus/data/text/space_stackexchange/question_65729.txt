@@ -1,0 +1,5 @@
+Obtain all the points of the orbit of a celestial body in the solar system
+How can I render (or plot) the orbit of a planet using SPICE? Sorry, I'm not English and I don't know how to say to draw the path that the planet follows around the Sun (their orbit or, maybe, trajectory).
+I want to do something like this:
+I only need to get the data for the orbit, and then I have the method to drawing it.
+And I think I can use oscelt and conics.

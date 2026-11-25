@@ -1,0 +1,25 @@
+Why don't robotic spacecraft have "general purpose" companions?
+TL;DR: Why don't we have minion bots with WD-40 and duct tape, alongside every robotic mission?
+I am a software engineer, but I also enjoy and am good with using manual or power tools. Therefore I know you can get a lot done, built or fixed with great tools, OR approximate tools and a lot of time.
+For years, I've been watching the space industry as closely as my free time permits. I've been wondering, and failed to answer, why space engineers do not come up with general purpose robotic companions?
+For that question is in my backburner, it did not escape my attention when InSight used it's arm to clean solar array, or hammer the mole.
+I am also aware of the Canadarm, it's Russian version, and ESA's upcoming ERA. And all, especially ERA looks quite logical and useful.
+Now, being an engineer for years, I know if some idea sounds like a no brainer to an outsider of the domain, it is usually due to lack of knowledge or historical context of the outsider.
+Then I have here something that appears to be a no brainer to me, and I shall explain it to ask what am I missing, for I was not able to shake the idea that it is a no brainer, as an outsider to space engineering:
+Let's imagine an ERA like symmetrical arm robot species, varied for each mission, but same on the main principles;
+they have a central "body", where they have a "toolbox"
+they achieve locomotion much like ERA, on predefined ports, or using suctions
+they have cameras at various spots
+they can be programmed or remote controlled
+hydra ends: they might have smaller arms at each end, for example main arm could hold a piece while small one applies glue, cranks a bolt, etc.
+I think it is a perfect time to ask this question, as JWST has just went up with some 300+ single point failures.
+So, Imagine JWST, Hubble, or a rover on mars has failed or stuck somehow. And you are personally there, with a toolbox. I feel like you can fix a lot. So why not put a robotic member and remotely control it as a mechanic?
+What is preventing every robotic mission from having such a utility companion? Is it just weight? Would it actually not be that useful? Are there technical difficulties that I'm unaware of?
+For example, how much of the Hubble servicing missions could have been done remotely with such robots, if we had such robots?
+Update for Clarification
+What I meant for "general purpose" was something like a surgery robot mixed with an assembly line robot, except there would be many bits or attachments in it's toolbox. There could be a brush, one soft and one heavy hammer, a scraper, several drill bits, and some screwdriver bits, one tiny one strong grip tool etc. I imagine that could have helped with the "mole" issue of the InSight, dust over solar panels issue there and many other missions.
+For example, Curiosity has a quite multifunctional arm, so why not a standalone version of it? And why it has to carry it's toolbox at the end of the arm? What kind of problems would picking up attachment when necessary from the rover body have caused? It picks and drops sample tubes with an arm, for example.
+And as I tried to point out, I know if there's no such thing already, there would be good reasons for it. So, the question is: What am I missing?
+Would it not be practical? If you aware of any papers prospecting utility of robot maintenance, would be great to point out.
+Would the added weight not justify the utility?
+Would such a robot have many points of failure itself?

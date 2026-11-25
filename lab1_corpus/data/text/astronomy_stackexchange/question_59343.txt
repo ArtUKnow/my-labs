@@ -1,0 +1,6 @@
+Why no public anouncements of LIGO O4 run discoveries? Have the publication policy changed?
+LIGO fourth observational run O4 for gravitational waves started in May 2023, paused in January 2024, and resumed in April 2024. It's planned to continue until February 2025.
+I notice almost complete lack of information about discoveries of the first part of O4 run. It contrasts with the experience from O1, O2 and partly O3 runs, from which some preliminary results have become public even before the run's end.
+What are the reasons of this lack of information?
+Have the publication politics changed for O4 run? According to Caltech 81 significant events have been identified during first part of O4, but not even basic details are available except GW230529. Are the researchers prohibited to publish preprints about other GW events? My guess is the "pop-sci authors army" of journalists, bloggers, vloggers would definitely find the preprints and observe them. But I, an avid reader/watcher of such media content, don't see any, and it looks srange :)
+If preprints about O4 run results are available, what is the best strategy to search for them?

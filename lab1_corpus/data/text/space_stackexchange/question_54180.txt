@@ -1,0 +1,2 @@
+Can ion Thrusters be used for Reaction Control System?
+As RCS (Reaction Control System) mainly required less thrust than regular rocket engine can ion Thrusters be used for attitude determination in spacecraft(Orion, Dragon), satellites or even during propulsive landing of booster/first stages ?

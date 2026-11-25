@@ -1,0 +1,9 @@
+Looking for photos of spacecraft/probes while not in orbit around a planet
+I'm on a hunt for photos of man-made objects taken when they are not in orbit around a planet and they seem to be few and far between. My guess is that most spacecraft can't take selfies and no-one bothers to point near-visible-light telescopes at them. That said, the recent Curiosity and Perseverance rovers have cameras on arms and have taken selfies, so I'm curious as to what other spacecraft have done this
+The images I've managed to find so far are:
+The Tianwen-1 ejected a small camera capsule while in flight to mars
+Another ejectable camera capsule on IKAROS
+A partial shot of Maven
+A shot of Rosetta's solar panel while still somewhat distant from it's destination comet
+I would have expected a few from the Apollo missions, but it seems like most of the operations where they had an opportunity to take this sort of image (eg rendezvous/docking) occurred near either the earth or the moon
+My aim for these photos is to examine the lighting/material appearance on them (I am in the process of making a computer game set in space). My understanding is that there should only be a highly directional light and self-reflections and I want to see what that looks like!

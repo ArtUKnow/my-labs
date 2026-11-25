@@ -1,0 +1,2 @@
+Radio pulsars -- two old questions (in blessed memory of Ya.N.Istomin)
+We draw attention to two unanswered questions in radio pulsars' theory. The first one concerns the inclination angles between magnetic and rotation axes. We show that the very existence of interpulse pulsars indicates that all possible angles are realized. The second one is the question of the break of the death line on the PPdot-diagram. We show that this break can be easily explained by a very mechanism of secondary plasma generation.

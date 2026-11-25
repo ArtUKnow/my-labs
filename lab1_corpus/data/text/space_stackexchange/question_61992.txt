@@ -1,0 +1,2 @@
+Why do the Falcon 9 fairings have soot on them?
+On nearly every SpaceX webcast since 2020 they explain that the Falcon 9 booster has soot on it because, during the entry burn, it flies through its own exhaust plume very quickly depositing the carbon based fuel on the booster. Recently, on this webcast at 7:25 i noticed that the fairing also has soot. Why is this? They don't perform on burn while flying through an exhaust plume. So, what deposits the soot there?

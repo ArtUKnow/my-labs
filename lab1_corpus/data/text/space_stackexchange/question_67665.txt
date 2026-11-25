@@ -1,0 +1,5 @@
+Conjunction Data Messages Starlink
+I collect Conjunction Data Messages (CDMs) for a research project. I have access through space-track.org. However, I noticed that there is no conjunction with Starlink satellites. I am aware that they have their own approach (starlink.com) but those CDMs seem not to be publicly available. Is there a way to find the cdms involving Starlink satellites from somewhere?
+Also, does this mean that commercial satellite providers all need to register on the starlink page to get cdms?
+edit: I use the following API call (last 30 days) but also received historical data from an orbital data request
+https://www.space-track.org/basicspacedata/query/class/cdm_public/format/csv

@@ -1,0 +1,2 @@
+Sea-level nozzles
+I understand that there are sea level-optimised and vacuum-optimised nozzles, but why optimise for sea level when the rocket doesn't spend much time there? I would expect the first stage nozzles to be optimised for maximum specific impulse over the mission profile. Is "sea level nozzle" a misnomer, or is there only a slight difference between my expectation and a true "sea level nozzle", or is there a real need to get a bit better specific impulse for the first minute or so?

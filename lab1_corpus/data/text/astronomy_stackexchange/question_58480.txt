@@ -1,0 +1,27 @@
+Stability of this complex gas giant moon system
+Let us consider this gas giant moon system:
+Gas giant:
+7 Jupiter masses
+1.37 Jupiter radii
+Moon 1
+0.317 earth masses
+775332 km semi-major axis
+40 hrs orbital period
+Moon 2
+0.2 earth masses
+1015972 km semi-major axis
+60 hrs orbital period
+Moon 3
+0.25 earth masses
+1331300 km semi-major axis
+90 hrs orbital period
+Moon 4
+0.2 earth masses
+1744497 km semi-major axis
+135 hrs orbital period
+Moon 5
+0.1 earth masses
+2285938 km semi-major axis
+202.5 hrs orbital period
+As you can see each moon is in a 2:3 orbital resonance with it's neighbor, which as far as I am aware should be one of the most stable. That being said I tried running this simulation in universe sandbox and the system loses stability rather quickly at a speed of 1 year per second. Given that I cannot dismiss it being an inaccuracy error caused by the speed, I'd like if you could help me shed some light on this.
+Would this moon system remain stable in the long term? And in case it isn't would having all the moons in a laplace resonance be better?

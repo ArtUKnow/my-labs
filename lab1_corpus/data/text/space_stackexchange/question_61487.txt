@@ -1,0 +1,63 @@
+How to use David Vallado's AstroLib to do reference frame conversions
+Given a Keplerian Orbit description such as that in here:
+[
+{
+"CCSDS_OMM_VERS": "2.0",
+"COMMENT": "GENERATED VIA SPACE-TRACK.ORG API",
+"CREATION_DATE": "2022-12-22T18:47:50",
+"ORIGINATOR": "18 SPCS",
+"OBJECT_NAME": "TBA - TO BE ASSIGNED",
+"OBJECT_ID": "",
+"CENTER_NAME": "EARTH",
+"REF_FRAME": "TEME",
+"TIME_SYSTEM": "UTC",
+"MEAN_ELEMENT_THEORY": "SGP4",
+"EPOCH": "2022-12-22T09:47:18.097440",
+"MEAN_MOTION": "12.95271318",
+"ECCENTRICITY": "0.00298554",
+"INCLINATION": "90.2548",
+"RA_OF_ASC_NODE": "337.7299",
+"ARG_OF_PERICENTER": "225.6432",
+"MEAN_ANOMALY": "134.2241",
+"EPHEMERIS_TYPE": "0",
+"CLASSIFICATION_TYPE": "U",
+"NORAD_CAT_ID": "270288",
+"ELEMENT_SET_NO": "999",
+"REV_AT_EPOCH": "12946",
+"BSTAR": "0.00171121940000",
+"MEAN_MOTION_DOT": "0.00000489",
+"MEAN_MOTION_DDOT": "0.0000000000000",
+"SEMIMAJOR_AXIS": "7658.811",
+"PERIOD": "111.174",
+"APOAPSIS": "1303.541",
+"PERIAPSIS": "1257.810",
+"OBJECT_TYPE": "UNKNOWN",
+"RCS_SIZE": null,
+"COUNTRY_CODE": null,
+"LAUNCH_DATE": null,
+"SITE": null,
+"DECAY_DATE": null,
+"FILE": "3719197",
+"GP_ID": "221188557",
+"TLE_LINE0": "0 TBA - TO BE ASSIGNED",
+"TLE_LINE1": "1 T0288U 22356.40784835 .00000489 00000-0 17112-2 0 9990",
+"TLE_LINE2": "2 T0288 90.2548 337.7299 0029855 225.6432 134.2241 12.95271318129469"
+}
+]
+How would I calculate the parameters needed to use the teme_eci function in David Vallado's AstroLib?
+The signature for the function is:
+public void teme_eci
+(
+ref double[] rteme,
+ref double[] vteme,
+EOPSPWLib.iau80Class iau80arr,
+Enum direct,
+double ttt,
+double ddpsi,
+double ddeps,
+EOpt opt,
+ref double[] rgcrf,
+ref double[] vgcrf
+)
+Now I think rteme and vteme contain the position and velocity of the object at an arbitrary number of points around the orbit. Which I would assume can be calculated from the keplerian elements. However, I'm not sure what the position would be relative to (as it's just a single number), perhaps the centre of orbit? The same goes for the velocity, perhaps it's prograde velocity?
+As for the rest, I have absolutely no idea what the parameters are so I've got even less idea how to calculate them.

@@ -1,0 +1,4 @@
+Would max-Q coincide with the loudest/roughest part of the flight?
+Say you're an astronaut on a ride to the ISS, and you have with you a very accurate clock, an automatic pressure sensor, and a high quality microphone.
+If you synchronized the sensor and microphone with the clock (taking measurements with the computers for resolution), would the amplitudes of the two signals be maximized at the same point in time?
+If not that, what about "roughest" part of the flight (where the aircraft is shaking the most from colliding with the atmosphere)?

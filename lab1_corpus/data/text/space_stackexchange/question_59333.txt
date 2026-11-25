@@ -1,0 +1,3 @@
+Gravitational field of the Moon and Earth
+Is there any method to find a point or plane in space where the gravitational field of the Moon and Earth are the same?
+And if so, what happens to a spacecraft if it passes through that point or crosses the plane (in engine shut-off condition with zero acceleration)?

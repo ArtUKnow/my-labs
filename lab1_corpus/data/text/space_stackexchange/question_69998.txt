@@ -1,0 +1,4 @@
+How to get the Sun and Moon positions from the GMAT Python API? Is using “proxy spacecraft” the correct method?
+I’m using the GMAT Python API to propagate a spacecraft in an Earth-centered frame, and I need to get the Sun and Moon positions at each propagation step.
+However, the Python API doesn’t seem to include any direct functions.
+Does anyone know how to obtain this at each step?

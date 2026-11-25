@@ -1,0 +1,2 @@
+What is the purpose of eccentric, parabolic and hyperbolic anomaly?
+I am currently reading David Vallado's 'Fundamental of Astrodynamics and Applications' and I have this doubt on the 2nd chapter named 'Kepler's Equation and Kepler's Problems'. Although I understand what true anomaly and mean anomaly (also, here is a good explanation) mean, I don't clearly understand the purpose of eccentric, parabolic and hyperbolic anomalies. Are they only for relating true and mean anomaly in different cases of eccentricity?

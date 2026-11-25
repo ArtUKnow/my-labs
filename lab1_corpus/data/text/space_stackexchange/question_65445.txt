@@ -1,0 +1,4 @@
+Propellant consumption of Starship trip from NRHO to Mars
+People, I am trying to estimate the amount of propellant (liquid oxygen+ liquid methane) required by Starship to reach Mars from NRHO (Near-rectilinear halo orbit).
+Also the propellant consumption profile will look different if starship wants to just orbit around Mars vs actually land on Mars.
+Any estimated calculations or references on both the scenarios will be very helpful.

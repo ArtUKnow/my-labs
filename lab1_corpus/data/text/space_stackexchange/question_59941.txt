@@ -1,0 +1,5 @@
+Is adiabatic flame temperature the same as nozzle stagnation temperature?
+I am trying to understand whether these two concepts are in fact, the same parameter.
+The way I see it, the adiabatic flame temperature is the highest temperature achieved by stoichiometric combustion in the combustion chamber, which I am assuming is the same temperature at the exit of the chamber, or similarly, the inlet of the nozzle.
+If this is correct, then we can say that the nozzle stagnation temperature is indeed the adiabatic flame temperature.
+Anybody with clear ideas on this who can help?

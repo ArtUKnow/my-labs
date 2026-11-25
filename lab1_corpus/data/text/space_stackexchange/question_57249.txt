@@ -1,0 +1,6 @@
+Thrust needed for Ion Thruster Lift off from Earth surface
+I've been calculating the needed mass flow rate for a hypothetical ion rocket, lifting off from Earth's surface and propelled with a Dual-Stage 4-Grid ion thruster. Data given: mass of the spaceship /inkl. propellant/ is 1000 t, Isp=19300s.
+So, the thrust I need is F=mg=9,81m/s2 x 1000000kg=9810000 N. For the exhaust velocity I come to Ve=Isp*g=19300s x 9,81m/s2=189333 m/s.
+Finally, for the mass flow rate I come to F/Ve=(9810000kgm/s2)/(189333m/s)=51.813 kg/s.
+This mass flow rate of approx. 52 kg/s seems pretty low to me, even considering the high Isp. Is there any error in the logic and calculations?
+Thanks guys!

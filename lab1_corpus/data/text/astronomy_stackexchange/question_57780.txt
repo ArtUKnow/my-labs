@@ -1,0 +1,9 @@
+How does azimuth of moonrise/moonset vary by longitude?
+I found a useful formula for calculating the azimuth of moonrise/moonset, which can be found in this post:
+How does moonrise/moonset azimuth vary with time?
+However the formula refers to the fixed lunar declination, which can be found i.e. here:
+https://astropixels.com/ephemeris/moon/moondec2001.html
+We cannot assume, that the declination of the Moon will be the same over a whole day. Even by visiting the link above you are informed about the greatest declination at the given day.
+If we consider the major lunar standstill on March 7 2025 the maximum declination of +28°43.0' N is to be reached at 15:56 UTC. In practice, it means that this declination will be different at the moonset occurring about 6 hours earlier. Indeed, the same applies to the Sun, but it's less noticeable. As a result, it can be omitted. In the case of the Moon not necessarily, as the declination especially during the major lunar standstill might change up to 11,6' every 12 hours! Thom has already mentioned it in 1971 in the Megalithic lunar observations book.
+The live example you can see below. I've selected 4 places separated by just 1 degree of longitude and the changes are noticeable on the small distance such as this.
+Therefore I am kindly asking about the formula, which could easily compute the lunar declination correctness against its most extreme point.

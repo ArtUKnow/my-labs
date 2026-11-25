@@ -1,0 +1,4 @@
+What are the black stripes on Kepler's image sensor?
+Kepler Focal Plane Array with each tile partly covered by something looking like a bar chart.
+If real, what is it?
+EDIT: I do not mean the seam between the two CCDs of each tile but the slighly curved stripes partly "covering" (if real) one CCD of each 2-CCD tile. The pattern occurs on the CCD that is closer to the camera and (EDIT 2) the stripes are oriented ~parallel to the seam between the two CCDs. Clearly not a reflection of roof structure as proposed by blobbymcblobby, Uwe, and uhoh.

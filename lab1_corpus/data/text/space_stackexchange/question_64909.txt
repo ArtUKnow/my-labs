@@ -1,0 +1,13 @@
+How do Inertial Navigation Systems compensate for their inability to measure gravitational acceleration?
+Inertial Navigation Systems calculate position by measuring acceleration. But they are unable to measure gravitational acceleration since gravity always acts equally on the test mass and the instrument platform.
+Inertial Navigation Systems use Inertial Measurement Units (IMUs) to sense acceleration. Essential components of IMUs include triads of
+• Accelerometers to measure linear acceleration
+• Gyroscopes to measure angular acceleration
+An IMU consists of two triads: 3 accelerometers and 3 gyroscopes. This provides 6-axis measurements of linear and angular acceleration, from which the state vector can be calculated by a Computational Unit (CU).
+The combination of IMU and CU is used to determine the attitude, position, and velocity of the system based on the raw measurements from the IMU and a known initial starting position.
+Apollo Inertial Measurement Unit
+The accelerometers measure the combined linear acceleration plus the pseudo-acceleration caused by gravity. To obtain the system's linear acceleration due to motion, the gravitational pseudo-acceleration must be subtracted from the accelerometer measurement using assumptions of the local gravitational acceleration.
+For instance, if the system was sitting on the kitchen table, the vertical axis accelerometer would report a 1g vertical acceleration despite the fact it is stationary, while if it were in free-fall it would report zero acceleration despite the fact it is accelerating.
+The CU could easily compensate for gravity if the system were in a known uniform gravitational field. But spacecraft operate in variable gravitational fields. Think of a satellite in Low Lunar Orbit or NRHO
+An IMU in free-fall will always "think" it is travelling in a straight line at a constant velocity despite the fact it is travelling in a curved path.
+How do Inertial navigation Systems compensate for their inability to measure gravitational acceleration? Do they carry a “Gravitational Ephemeris”?

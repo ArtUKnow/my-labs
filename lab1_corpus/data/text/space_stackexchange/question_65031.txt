@@ -1,0 +1,23 @@
+MATLAB Simple Elliptical Orbits with J2 perturbation and drag
+For some reason I need to build a Elliptical Orbits satellite dynamic model by myself, in here I am using MATALB.
+The model its fine before (I think the J2 effect part works well) I add drag effect on it, the Altitude became ascent, it should descent by time right?
+Here are some equation I am using:
+And the simulator result:
+Drag part code:
+% Calculate the drag acceleration
+v_rel_mag = norm(v_rel);
+rho = atmospheric_density(norm(r_icrf) - RE); % call to your atmospheric density function
+a_drag = -0.5 * Cd * A / m * rho * v_rel_mag^2 * (v_rel / v_rel_mag)
+% Total acceleration
+a_total = a_gravity + a_J2 + a_drag;
+% Output derivative of state vector
+Ydot = [vvector; a_total];
+end
+function rho = atmospheric_density(altitude)
+% Simple exponential atmosphere model (or use a more complex model)
+rho0 = 3.614*10^-14; % kg/m^3 at sea level
+H = 8500; % scale height in meters
+rho = rho0 * exp(-((altitude-700) / 88.667));
+end
+[Full code][4] https://pastecode.io/s/pcw2mvjb
+Can anyone help me? thank you!

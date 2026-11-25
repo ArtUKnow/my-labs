@@ -1,0 +1,6 @@
+Determining Time Based on Arc Seconds
+So our arc day starts at 20°41'32 which is midnight (0:00) and ends 24 hours later at 21°42'42. According to my calculations it traveled 0 degrees, 59 minutes, and 30 seconds or 3570 arc seconds in 24 hours. What I am looking for is, what time it will reach 21°15'30.32. For the love of God I have a brain freeze on how to get this.
+This is what I came up with:
+3570 arcseconds / 24 hours = 148.75 arcseconds/hour
+1758.32 arcseconds / 148.75 arcseconds/hour ≈ 11.82 hours
+but I do not think its accurate as the time I am looking for is 13:19:43.

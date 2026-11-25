@@ -1,0 +1,31 @@
+A question about the improvement points for the simulation（GMAT)
+Sorry for my English. I'm not a native speaker. I am using a software called GMAT from NASA to conduct various simulations, but I failed this time while trying to move a satellite from low Earth orbit to geostationary orbit, so I would like to hear about improvement points.
+First, let me introduce the tabs and parameters I used.
+<<spacecraft>>
+<Orbit tab>
+Epoch format;UTCGeorgian Epoch;01 Jan 2000 11:59:59.999 Coordinate System;EarthMJ2000Eq
+State type;Keplarian Elements;(SMA 6718km)(ECC,INC,RAAN,AOP,TA 0)
+<Ballistic/Mass>
+Spherical(Dry Mass;900kg)
+<Tanks>
+ChemicalTank1
+<Actuators>
+ChemicalThruster1
+<Power System>
+SolarPowerSystem
+<<HardWare>>
+<Chemical Tank1>;(Fuel mass 450kg)(Fuel Density 1260kg/m^3)(Pressure 5000kPa)(Volume 1m^3)
+<Chemical Thruster>;(Mass change→Chemical Tank1 is selected)
+<SolarPowerSystem>; default
+<<Burns>>
+<Impulsive Burn1>;(Delta-V Vector Element1;1.2km/s)(Mass change;Chemical Tank1 is selected and 300 is typed in the Isp section)
+<Impulsive Burn2>;(Delta-V Vector Element1;2.5km/s,Element;1km/s)(The Mass Change section is the same as before)
+<<Propagators>>
+<ELO(renamed)>(Min Step Size;0)(Max Step Size;2160)(Point Masses;Luna is selected)
+<Mid(renamed)>(Initial Step size;600sec)(Min step size;0)(Max step size;12500)(Point Masses;Luna and Sun is selected)
+<GEO(renamed)>(Initial step size;600sec)(Min step size;0)(Max step size;8640)( point masses;Luna and Sun is selected)
+<<<Mission Folder>>>
+<Propagate1(appended from Mission Sequence)>(stopping conditions; DefaultSC.Elapsed.Days(parameter) and 2(condition))
+<Maneuvr1(Inserted after Propagate1)> we don't have any change here.
+<Propagate2(Inserted after Maneuver1)>(DefaultSC.Elapsed.Days(Paramete) and 4(condition)
+That's everything. I'm not very familiar with GMAT, and after finishing the tutorial, I tried this simulation. I think there might be many things that are unclear, but I kindly ask for your help.

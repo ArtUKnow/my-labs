@@ -1,0 +1,3 @@
+Soyuz: Do you know the coefficient drag and lift to drag ratio are during reentry?
+I've been learning Python as a hobby the last two years. I like spaceflight too. Therefore I wrote this code to simulate the reentry of a Soyuz. I'd appreciate some feedback: https://github.com/fra-mar/soyuz_reentry
+But what I couldn't find was reliable data about the Soyuz's drag coefficient or the lift to drag ratio. For the Cd I found values ranging from 0.188 to 1.26 and for the L/D 0.38 to 0.5.

@@ -1,0 +1,6 @@
+Crew Dragon: How thick is the skin?
+Auto body panels are about 20-gauge, or just under 1 mm thick. This is fine for many reasons: thin panels are light for good fuel economy and crumple easily for shock absorption without unnecessary mass---especially since body panels aren't normally part of a car's load-bearing structural frame.
+But what about a spacecraft, like Dragon? Are the body panels thin or thick? On one hand, you want the lightest cheapest part you can make, and thin panels would help. On the other hand, you have peak dynamic pressures of 30 kPa to worry about.
+And I don't know if spacecraft panels might serve a structural function also---like helping transmit the thrust force from RCS thrusters. Try as I might, I can't seem to find a good picture of the load-bearing support that should join an RCS thruster to the spacecraft's structural frame.
+Can someone clarify how thick Dragon (or other spacecraft) body panels are, and what material they're made of? How would they compare to auto body panels on these points? And do they serve a structural purpose? Are they lined on the inside with more filler material for strength?
+A cross-section view of a Dragon's or similar spacecraft's body panel would be greatly appreciated. Thanks!!

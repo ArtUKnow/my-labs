@@ -1,0 +1,5 @@
+What is the velocity of the ISS relative to the Earth's surface?
+This was asked once before, but I believe there was no clear answer given and accepted.
+The ISS has an orbital period of 92.9 minutes, or 5574 seconds. If it were in a completely equatorial orbit, this would give it a surface speed of 7190 m/s (40,075,000 / 5574). However, the ISS also has an orbital inclination of 51.64 degrees, meaning as it moves the surface of the earth also moves at a speed of roughly 464 m/s.
+I've tackled this problem several times but my high school trigonometry fails me. How would one go about calculating this?
+EDIT: Since asking this question I've realized the surface speed depends on the ISS's latitude, and varies quite a bit over an orbit. A more clear question to ask would be - how would one derive a function for surface velocity dependent on latitude?

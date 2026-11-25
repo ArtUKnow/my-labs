@@ -1,0 +1,3 @@
+Is 3I/Atlas’ live trajectory publicly available?
+3I/Atlas has had it’s trajectory estimated but is there anywhere online I can view plots of its measured positions and of updated trajectory projections?
+Alternatively is there anywhere I can view plots of its “live” position?

@@ -1,0 +1,10 @@
+Using EAZY as photometric redshift estimation tool
+I am new to JWST data analysis and currently trying to extract redshift of high redshift sources from the catalogue I created from SExtractor. I'm using EAZY (Brammer et al. 2008) for this purpose.
+I am using this model 'templates/fsps_full/tweak_fsps_QSF_12_v3.param' template in the .param file. Below is the code Im using to run eazy
+translate_file = 'inputs/high.translate'
+parameter_file = 'input/ceersnr2_high.param'
+photoz = eazy.photoz.PhotoZ(param_file=parameter_file, translate_file=translate_file, zeropoint_file=None,
+params=params, load_prior=False, load_products=False, n_proc=3)
+photoz.fit_catalog(photoz.idx, n_proc=4)
+zout, _ = photoz.standard_output()
+But I am not able to get the redshift value accurately by this. Am I dropping something important here? I tried with a redshift less than 1 catalogue and then it seems to give quite a good result. What extra considerations do i need to give for high redshift cases(z~12 to z~ 17). What more could I do here?

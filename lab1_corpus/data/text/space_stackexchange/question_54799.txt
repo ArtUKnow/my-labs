@@ -1,0 +1,11 @@
+Was CloudSat hit by debris? If so, when, how bad was it, and where was it reported?
+Anton Petrov's new video Another Satellite Collided in Space, But Everyone Missed It Until Now (below) is fun to watch, and links to Jonathan McDowell's tweet string which begins
+Space-Track catalog updated today with a note for object 48078, 1996-051Q: "Collided with satellite".
+This is a new kind of comment entry - haven't seen such a comment for any other satellites before. Let's look a bit closer:
+which (somehow) led me to Scott Tilley's tweet
+The mysterious YUNHAI 1-02 continues to send wide band data perhaps saying "reports of my death are greatly exaggerated"
+below which I found references to "It's only a flesh wound" and then a SpaceflightResearch tweet saying
+I think that the US satellite Cloudsat also shed pieces and kept working, its one of the A Train
+Wikipedia's CloudSat doesn't mention a collision.
+Question: Was CloudSat hit by debris? If so, when, how bad was it, and where was it reported?
+Perhaps just an otherwise unexplained drop in power output of one of the solar panels?

@@ -1,0 +1,4 @@
+Tradeoff between a LEO-LEO vs LEO-GEO data relay
+For both commercial and government entities alike, the need for reduced turnaround time in payload delivery (e.g. for optical or synthetic aperture radar images) has led to the development of data relay systems, where both mission tasking and payload downlink can be done outside of a ground station's communication cone.
+On a LEO to GEO scale, we have NASA's Tracking and Data Relay Satellite System (TDRSS), ESA's European Data Relay System (EDRS) and more recently a commercial solution of Intersatellite Data Relay System (IDRS). Are there any LEO to LEO solutions out there?
+What are tradeoffs in using each?

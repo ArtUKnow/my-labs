@@ -1,0 +1,3 @@
+What caused these plumes errupting from the 2026 New Glenn rocket explosion?
+A static test firing of Blue Origin's New Glenn launch vehicle recently resulted in an explosion, destroying the rocket and its launch pad. The accident is shown in the picture below.
+There are several plumes streaking from the main fireball of the explosion, some of which I have annotated with green arrows. What is the cause of these plumes? Tanks of flammable chemicals? The still-burning engines? They aren't cargo, as it was not loaded during the test (see last paragraph of this article).

@@ -1,0 +1,6 @@
+When was Apollo 11 scheduled for July 1969?
+I recently read on Wikipedia about Apollo 8's interesting schedule history. Basically, a lunar orbital mission was supposed to be an F mission for 1969, with the LEM tested in lunar orbit. But they decided to bump it up to the D mission spot (1968 Dec) without any LEM because that hardware was way behind schedule.
+It also says this schedule change took place in August 1968, and the general article says this was kept secret until after Apollo 7 was finished successfully (1968 Oct).
+So now I would like to know when the July 1969 target for Apollo 11 was chosen/finalized. I searched for this but could not even find when it was first announced publicly in newspapers.
+I've also seen this other SX.SE question on the scientific reason for the landing date. I'm operating under the assumption that, for a given landing site, there is one launch window per month, and I'm not interested in the physical constraints of why. I'm interested in why/when July, as opposed to June, May, etc.
+Of course hardware readiness plays a role but that is part of why I'm asking this. I want to know when NASA put 1969 July on the books, how far ahead of time they "knew", or were pretty sure, they would be ready by July.

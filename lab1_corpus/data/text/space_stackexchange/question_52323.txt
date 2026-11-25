@@ -1,0 +1,56 @@
+Why is it so cold in the nighttime (-130 C at 25.1 degree North) at the location where the Chinese rover landed on Mars?
+Jia Yang, a Chinese engineer, announced that the Zhurong rover rolled cautiously, about 10 m in 3 days. One reason for this slow progress is the temperature that drops to -130 C and freezes the carbon dioxide in the atmosphere, covering the ground with a layer of hazardous dry ice.
+As a remark, Viking II landed at 47.64° N and, regarding the temperatures it recorded, NASA said:
+"the diurnal temperatures at the northern landing site (Viking Lander
+2) during midwinter dust storms varied as little as 4 degrees C (7
+degrees F) on some days. The lowest predawn temperature was -120 C
+(-184 F), about the frost point of carbon dioxide. A thin layer of
+water frost covered the ground around Viking Lander 2 each winter."
+(Viking Mission to Mars)
+On Earth, it is much hotter at 25° N than at 47° N.
+May 22, 2021; 8:10 AM EDT
+China says Martian rover takes first drive on surface of Red Planet
+Chinese rover Zhurong of the Tianwen-1 mission drives down the ramp of
+the lander onto the surface of Mars, in this screenshot taken from a
+video released by China National Space Administration (CNSA) May 22,
+2021.
+Zhurong, named after a mythical Chinese god of fire, drove down to the
+surface of Mars at 10:40 a.m. Beijing time (0240 GMT), according to
+the rover's official Chinese social media account.
+The 240-kg (530-pound) Zhurong, which has six scientific instruments
+including a high-resolution topography camera, will study the planet's
+surface soil and atmosphere.
+Powered by solar energy, Zhurong will also look for signs of ancient
+life, including any subsurface water and ice, using a
+ground-penetrating radar during its 90-day exploration of the Martian
+surface.
+Zhurong will move and stop in slow intervals, with each interval
+estimated to be just 10 metres (33 feet) over three days, according to
+the official China Space News.
+"The slow progress of the rover was due to the limited understanding
+of the Martian environment, so a relatively conservative working mode
+was specially designed," Jia Yang, an engineer involved in the
+mission, told China Space News.
+Jia said he would not rule out a faster pace in the later stage of the
+rover's mission, depending on its operational state at the time.
+Jia said the rover was designed to be highly autonomous because the
+distance to Mars, at 320 million km (200 million miles), means a
+signal takes 40 minutes to travel both ways, posing a hurdle for
+real-time control of the rover.
+Martian temperatures are also a problem, he said: a nighttime drop to
+minus 130 degrees Celsius (minus 200 degrees Fahrenheit) freezes carbon
+dioxide, covering the uneven ground with a layer of dry ice - a
+terrain risk for the rover.
+Zhurong has an automated suspension system that can lift and lower its
+chassis by 60 centimetres (2 feet), the only rover with such a
+capability, according to China Space News.
+The rover is covered by nano-aerogel plates to protect its body from
+the cold.
+Dust storms could also affect the rover's ability to generate power
+through its solar panels, Jia said. To overcome this, the panel
+surface is made with a material that cannot be easily stained by dust
+and can easily shake dust off by vibration, he said.
+The first images taken by the rover were released by the Chinese space
+agency on Wednesday.
+The coordinates of the landing site are 109.9 degrees east and 25.1
+degrees north, China Space News said.

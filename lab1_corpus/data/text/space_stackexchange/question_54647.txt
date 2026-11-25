@@ -1,0 +1,4 @@
+How practical was the suggestion to cut the lanyards on the Gemini 9A mission?
+The Gemini 9A mission was supposed to rendezvous with an Agena target vehicle, but due to lanyards not being removed before launch the conical nose shroud was still attached and docking was impossible.
+Buzz Aldrin suggested that Cernan space walk over to the vehicle and cut the lanyards with scissors that were aboard the Gemini spacecraft. Tests on the ground showed that the scissors could indeed cut the lanyards, but it was deemed too risky.
+Was NASA just being risk averse or was there a significant chance of any rescue attempt going wrong? Was there anything that could have been done to mitigate the risk?

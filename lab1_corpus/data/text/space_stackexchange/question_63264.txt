@@ -1,0 +1,13 @@
+Do rocket exhausts produce an electromagnetic signature to allow remote sensing of said rocket?
+Rocket exhaust contains ions, the composition of which varies depending on temperature and fuel. https://arc.aiaa.org/doi/10.2514/3.27825 and https://www.eucass.eu/doi/EUCASS2017-434.pdf
+Figure 12 : Top: Mean value of electron number density computed with RANS approach and with LES approach on
+8.4 M and 20 M grids (time and azimuthal average).
+Bottom: standard deviation of electron number density, and Abel transform of electron number density, on the axis
+Source: A Guy et al. (2017) Ionized Solid Propellant Rocket Exhaust Plume:
+MiLES Simulation and Comparison to Experiment 7th European Conference for Aeronautics and Space Sciences (EUCASS)
+These ions exit the nozzle at high speed along the axis of the exhaust plume. If this stream is discharged in a planetary magnetic field, positive and negative ions will be accelerated in opposite directions, at right angles to both the external magnetic field and the plume’s axis.
+Acceleration of charged particles will generate an electric field across the plume, and will also generate electromagnetic radiation.
+Generation of an electric field by an ion stream passing through a magnetic field is demonstrated by a Magnetohydrodynamic generator
+Source:https://en.wikipedia.org/wiki/Magnetohydrodynamic_generator
+Does this process generate a detectable electromagnetic signature which would allow remote sensing to identify the rocket’s design, distance or velocity?
+Given Jupiter’s strong magnetic field, would this process have any significance for space exploration using chemical rockets in Jupiter’s vicinity?

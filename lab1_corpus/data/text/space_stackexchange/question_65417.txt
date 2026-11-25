@@ -1,0 +1,5 @@
+Could a deadly fire start within a spacesuit?
+At the end of S02E08 of the TV show "For All Mankind", a cosmonaut is shot on the moon and a fire erupts within his suit.
+My understanding is that the pressure of pure oxygen within a spacesuit is 4.3 psi - just a little bit higher than the partial pressure of oxygen at sea-level on Earth (3.1 psi). The main difference is the absence of nitrogen. So while the space suit may be a pure oxygen environment, the concentration of oxygen is similar to a 20/80 oxygen/nitrogen environment at a pressure of one earth atmosphere. Therefore, one would expect that it would be only around 1.39 times more flammable.
+The interior of Apollo 1, on the other hand, was pure oxygen at 16.7 psi, a bit higher than sea-level pressure of 14.7 psi. Thus the partial pressure of oxygen inside Apollo 1 was 5.39 times higher than the partial pressure of oxygen in Earth's atmosphere at sea-level.
+Assuming that somehow a spark inside the suit initiates combustion, is it plausible that a fire could rapidly break out inside a shuttle-era Russian space suit?

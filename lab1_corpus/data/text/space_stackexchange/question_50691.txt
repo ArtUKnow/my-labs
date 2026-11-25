@@ -1,0 +1,15 @@
+Calculating angular deviation from LEO magnetic field
+The situation
+I need to calculate pointing errors for a satellite that points along Earth's magnetic field. The satellite's position and orientation are given to me w.r.t ECI J2000. The orientation is in Quaternions.
+Magnetic field vector comes from IGRF13 coefficients and is w.r.t a local NED frame located at an Earth Fixed geocentric lat/long/alt.
+Where I'm stuck
+ECEF to ECI accuracy
+I've gotten as far as converting the NED magnetic field vector to ECEF, but I'm getting stuck at the conversion from ECEF to ECI. I am planning to naively rotate my ECEF frame about Z as a function of time:
+Is this commonly attributed ECI (Earth-Centered Inertial) to ECEF (Earth-Centered Earth-Fixed) transformation accurate?
+Given that I'm working in LEO in the 2020-2025 time frame and I care about pointing offset from Earth's magnetic field, what magnitude of error can I expect from not accounting for precession, nutation, or polar motion?
+Confusion about what vectors represent
+I'm assuming that taking the inner product of my attitude (converted to Euler) and magnetic field vectors won't give me any information about the angle between them because the field vector is in Cartesian coordinates. Is this a correct assumption? If so, what would the process be to get this vector into a form where the inner product does provide angle information?
+Other assumptions I've made
+Time is given to me in TAI seconds since 1 Jan 2000. The tool I'm using to calculate the magnetic field vector takes what I assume to be UTC time in the form of fractional years to formulate an estimate. However, this tool also linearly interpolates the coefficients between 2020 and 2025.
+Given that the potential discrepancy between TAI and UTC seconds since J2000 is on the order of 5 seconds, I'm assuming that attempting to account for it will ultimately be inconsequential.
+Thanks in advance for any guidance you guys can give me

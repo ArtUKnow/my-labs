@@ -1,0 +1,23 @@
+Calculating body frame X vector's look direction in GEO (NED) frame from roll, pitch and yaw data, is this correct?
+I have roll, pitch and yaw angle values for a LEO satellite. Satellite orbit frame and spacecraft body frame are defined as LVLH. The satellite position and velocity are given in ECI/GEI frame. I have to find where the satellite x unit vector looks in GEO frame.
+For this, I am first rotating the unit vectors in LVLH according to the given roll, pitch, yaw angles (the attitude sequence is X-Y-Z: roll-pitch-yaw). Then convert the LVLH frame vectors to ECI(GEI) frame with Z-X-Z sequence and continue to the coordinate transformations:
+ECI-->ECEF-->NED
+LVLH to ECI: Z-X-Z sequence
+sat_raan = raan*(math.pi/180) #right ascencion of ascending node in radians
+sat_inc = inc*(math.pi/180) #satellite inclination in radians
+sat_ap = ap*(math.pi/180) #argument of perigee in radians
+body_GEIx[:, i]=R_z(sat_raan) @ R_x(sat_inc) @ R_z(sat_ap) @ body_x[:, i]*GEIx[i]
+body_GEIy[:, i]=R_z(sat_raan) @ R_x(sat_inc) @ R_z(sat_ap) @ body_y[:, i]*GEIy[i]
+body_GEIz[:, i]=R_z(sat_raan) @ R_x(sat_inc) @ R_z(sat_ap) @ body_z[:, i]*GEIz[i]
+ECI to ECEF: Only Z rotation: Theta: Greenwich sidereal time + Earth's rotation
+body_ECEFx[:, i]=R_z(Theta) @ body_GEIx[:, i]
+body_ECEFy[:, i]=R_z(Theta) @ body_GEIy[:, i]
+body_ECEFz[:, i]=R_z(Theta) @ body_GEIz[:, i]
+ECEF to NED: Z-Y rotation
+rlon= -1*(math.pi/2+ (lon[i]* (math.pi/180))) #convert to radians
+rlat= lat[i]*(math.pi/180) #convert to radians
+body_NEDx[:, i]=R_z(rlon) @ R_y(rlat) @ body_ECEFx[:, i]
+body_NEDy[:, i]=R_z(rlon) @ R_y(rlat) @ body_ECEFy[:, i]
+body_NEDz[:, i]=R_z(rlon) @ R_y(rlat) @ body_ECEFz[:, i]
+However, in North-East-Down(NED) frame, the body unit vectors do not look like they are orthogonal to each other, and there are some abrupt changes in look direction where I don't see any abrupt changes in roll, pitch and yaw. The satellite should be slewing for the interval that I'm interested in. However, I do not see any slewing.
+I am so confused now: Should those vectors be orthogonal in the end? And am I doing the right thing by rotating the unit vectors in LVLH. Is it correct to multiply with the position vectors in ECI/GEI frame after transforming the body vectors to GEI?

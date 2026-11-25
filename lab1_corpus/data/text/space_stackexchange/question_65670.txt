@@ -1,0 +1,8 @@
+NASA GMAT sample script providing deltaV above analytical result when aiming to GEO Height
+I am using the GMAT example script available at \samples\Ex_GEOTransfer.script (R2022a) to compute de deltaV from LEO to GEO including change plane maneuver.
+The problem is that the script seems to be aiming for a supersynch RMAG of 85000km:
+Achieve 'Achieve RMAG' DC(geoSat.RMAG = 85000, {Tolerance = .1});
+But when I try to use this example to compute a simple LEO to GEO aiming directly to 42164 the scripts returns a total deltaV above 5km/s.
+For example LEO_height=500km, LE=_ecc=0, LEO_inc=45 to GEO > 5.1km/s, 10% above the expected value from analytical formulae.
+Did anyone experienced the same issue and could you provide a workarround?
+Thanks in advance!

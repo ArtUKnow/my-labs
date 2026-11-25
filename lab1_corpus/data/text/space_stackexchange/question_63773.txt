@@ -1,0 +1,5 @@
+Is specific impulse and thrust maximum in vacuum or for exit pressure equals atmospheric pressure?
+According to the thrust formulation of a rocket one can show, that maximum thrust is not delivered for pambient= 0 but for pambient=pnozzle_exit since then the momentum term is maximized.
+But then I read that the specific impulse is maximum for a nozzle for vacuum, how does this match?
+Specific Impulse = Thrust / (massflow * g0 )
+So if thrust is maximized for pambient=pnozzle_exit then Isp_max should not be in vacuum?

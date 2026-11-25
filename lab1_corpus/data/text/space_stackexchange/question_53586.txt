@@ -1,0 +1,4 @@
+What's the exact location (lat/lon) of Zhurong?
+Thus far, CSNA has announced the landing location as 109.7 E, 25.1 N. On Mars, 0.1 degree is about five km.
+Most Mars landers/rovers have been found in orbital imagery, and their lat/lon measured to considerably greater precision. I can't find any indication on the Interwebs that that has happened here.
+Edit: @BrendanLuke15 points to a PDS link for current Mars Reconnaissance Orbiter (MRO) HiRISE imagery which says that the current 2021 June 1 release (057C) covers up to May 1 2021. Roughly a month latency, so we might get imagery of the May 2021 Zhurong landing later in 2021.

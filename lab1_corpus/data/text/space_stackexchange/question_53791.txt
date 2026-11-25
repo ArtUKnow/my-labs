@@ -1,0 +1,13 @@
+What does "m Δv" stand for in the rocket equation?
+I'm currently trying to understand how the Rocket Equation works.
+I've gotten this far:
+mv = (m+Δm)(v+Δv) − Δm(v−ve)
+Left side is the momentum of the rocket+fuel BEFORE, and right side is the momentum of the entire system AFTER the fuel has been expelled out the back.
+After this, the brackets are removed causing the equation to become this:
+mv = mv + Δmv + Δmv + ΔmΔv - Δmv + Δmve
+ΔmΔv is ignored due to it being too small, and when we clean up the equation, it becomes:
+mΔv = -Δmve
+Now, what is mΔv in the equation? I can see that -Δmve is "momentum of the expelled fuel", since -Δm is the mass of the expelled fuel (still a positive number) and ve is the velocity of the fuel being expelled.
+If we just calculate it, mΔv is [original mass]*[change in velocity for rocket]. That.. doesn't really result to anything important, does it?
+So, the question summed up is: Is mΔv an important part that I should understand, or should I simply skip over that as-is and start integrating?
+I'm sure this must have a simple answer, but I can't wrap my head round it! Right after this is integration. I'd like to go forward but can't, because I can't understand this one bit! Can someone help? :)

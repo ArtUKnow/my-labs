@@ -1,0 +1,4 @@
+GMAT Orbit Designer
+I start to work with GMAT. I am looking into the API capabilites and I found several functions e.g. for the calculation of SSO Orbit Parameters, or Repeating Ground Tracks.
+So apart from this, is there a mechanic implemented allowing to generate orbit parameters for specific requirements. Like the "Orbit Designer" which was presten in release version 2012 (!), where you could enter some parameters aimed for and GMAT calculated a suitable orbit.
+Thanks in advance!

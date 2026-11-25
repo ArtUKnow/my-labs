@@ -1,0 +1,5 @@
+What is the increase in drag by adding a space station module?
+Imagine a cylindrical space station module, orbiting at an arbitrary height - the same as the ISS say.
+Another identity cylindrical module docks on the end. Real station cross section hasn't changed - the same surface area is pointing in the direction of travel.
+How does this effect the total drag caused by the atmosphere? If zero impact, what if we add a third? A fourth? A fifth?
+At what point would we materially change the drag experienced?

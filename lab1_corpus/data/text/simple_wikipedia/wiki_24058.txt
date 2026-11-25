@@ -1,5 +1,0 @@
-70 (number)
-Seventy is the natural number that comes after sixty-nine and before seventy-one.
-The prime factors of seventy are 2, 5, and 7. (2 * 5 * 7 = 70) and a central binomial coefficient.
-70 is the smallest weird number, because it is an abundant number but it is not semiperfect.
-References

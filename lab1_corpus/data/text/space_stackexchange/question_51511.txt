@@ -1,0 +1,2 @@
+Transmission and Receiving Rate of a X-Band Antenna
+What would be a typical transmission and reception rate range for a X-Band Low Gain Antenna for say 300Km from an orbiter? I figured a High Gain Antenna would be difficult to use since it requires accurate transmission rate paths, whereas the Low Gain is omnidirectional.

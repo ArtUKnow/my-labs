@@ -1,0 +1,2 @@
+How can you calculate the distance to an object knowing its cosmological redshift? (without Hubbles law)
+Given some redshift z, how do we find the distance using the cosmological red shift formula (and presumably the Friedmann equations)? a = 1/(1+z), and we can assume that omega_0 = 1. I know a reasonable answer can be achieved using Hubbles law, but was looking for the specific method going via a. Thank you! (all the necessary cosmological parameters can be assumed to be known..)

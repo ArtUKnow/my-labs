@@ -1,0 +1,2 @@
+Mars helicopter ingenuity stress testing at end of mission?
+Ingenuity is mainly a proof-of-concept to the main Perseverence mission. It worked very well considering the challanges. When the helicopter is done being "useful", will it be stress-tested with i.e. faster/longer flights, more difficult terrain, etc to see how much it can take before crashing?

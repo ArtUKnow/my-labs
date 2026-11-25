@@ -1,0 +1,85 @@
+Efficient method for generating combined spectra from N-body simulation data using Python (convolution)
+(I asked this same question also in StackOverflow, due to being both astronomy/coding problem, here link : https://stackoverflow.com/questions/78166419/efficient-method-for-generating-combined-spectra-from-n-body-simulation-data-usi )
+I'm working with some N-body simulation data, and attempting to generate a combined spectrum from particles within a specific region (i.e. inside one 'pixel' or voronoi bin). Each particle has associated line-of-sight (LOS) velocities. My current approach involves Doppler shifting a stellar template spectrum (see top panel of figure below) for each particle and interpolating it back to original wavelenght points to sum up the fluxes. This method works, but it is a bit slow when applied to the full dataset of about 8 million particles.
+Example of stellar template (obtained from Miles ). The template includes 4300 wavelenght points. The lower panel represent the combined spectrum of 112,866 particles.
+Example stellar template and combined spectrum
+Current method :
+# Variables used in this method
+template_wavelength_ln # Wavelengths of the template spectra with even intervals in ln scale
+template_flux_ln # Fluxes of this template spectra
+LOSv # Line-Of-Sight velocities of particles corresponding to certain 'pixel'
+# --------------
+# The coding method itself
+wavelengths_shift = DPF.doppler_shift(np.e**template_wavelength_ln, LOSv.reshape(-1,1))
+# This calculates the doppler shift of the template wavelengths for each particle.
+# Returns 2d array. Due to high particle number, I have used some chunking method here but I took it off here as its not relevant to the problem itself. (i think)
+df_tot = pd.DataFrame({'lambda': np.e**template_wavelength_ln, 'Flux_tot':np.zeros_like(template_flux_ln), 'Flux_1':np.zeros_like(template_flux_ln),
+'Flux_2':np.zeros_like(template_flux_ln)})
+# The above is just data frame which would include the spectrum infos. Currently I'm doing this for two different stellar templates, thus Flux_1 and Flux_2, but for the sake of example we use only one template.
+for wave in wavelenght_shift:
+flux_1 = np.interp(df_tot['lambda'], wave, template_flux_ln) #interpolate the shifted wavelenghts back to the original positions
+df_tot['Flux_1'] += flux_1
+# df_tot['Flux_tot'] += (flux_1 + flux_2)
+# -----------------
+And this generated the nice combined spectrum of the particles. However, its quite slow when the doing 8 million particles, mainly due to np.interp() I guess.
+where DPF.doppler_shift is
+def doppler_shift(wavelenghts, velocity, c=299792.458):
+...
+lambda_shifted = wavelenghts * (1 + velocity/c)
+return lambda_shifted
+Method 2
+This method would use the advantage of convolution. Here is a link to a paper which describes how one could generate the spectrum of galaxy using a template and LOSVD (line of sight velocity distribution) Improving the full spectrum fitting method: accurate convolution
+with Gauss-Hermite functions by Cappellari equation 1.
+So, what I have done so far :
+Obtained LOSVD of the particles in form of a Gauss-Hermite function. First I do a histogram of the LOS velocity particles, and then fit the Gauss-Hermite function to that histogram.
+from scipy.optimize import curve_fit
+# Same initial variables are used here as in the code above
+# Initial guess for the Gauss-hermite parameters
+initial_guess = [LOSv.mean(), LOSv.std(), 0, 0] # V_mean, sigma, h3, h4
+# Histogram binning
+bin_width = 10 # km/s
+bin_edges = np.arange(LOSv.min() , LOSv.max() + bin_width, bin_width)
+bin_centers = (bin_edges[:-1] + bin_edges[1:]) / 2
+hist_density = np.histogram(LOSv, bins=bin_edges, density=True)[0]
+params_fit_total, error_fit_total = curve_fit(DPF.gauss_hermite, bin_centers, hist_density, p0=initial_guess, maxfev=10000)
+# ---------------
+# where DPF.gauss_hermite is
+from scipy.special import hermite
+def gauss_hermite(v, v_mean, sigma, h3, h4):
+...
+w = (v - v_mean) / sigma
+H3 = hermite(3, monic=True)(w)
+H4 = hermite(4, monic=True)(w)
+# One could also use these, I think
+# H3 = (2*np.sqrt(2)*w**3 - 3*np.sqrt(2)*w)/np.sqrt(6)
+# H4 = (4*w**4 - 12*w**2+3)/np.sqrt(24)
+L = 1/(sigma*np.sqrt(2*np.pi)) * np.exp(-0.5*w**2) * (1+h3*H4 + h4*H4)
+return L
+# and then the LOSVD function i.e.
+LOSVD_func = lambda v : DPF.gauss_hermite(v, *params_fit_total)
+Now this params_fit_total includes the v0, sigma, h3 and h4 parameters of the LOSVD. Below is plot of the histogram and the LOSVD, including the v0 sigma h3 and h4 values in the legend.
+LOSVD histogram and Gauss-Hermite function
+The challenge now is to generate the 'total' spectrum using the initial stellar template and this LOSVD function via convolution. However I have some difficulties on understanding how to do this, as I have not used convolution very much. I believe that the units of 'parameters' within the convolution factors have to match, so one might need to convert everything to either wavelengths or velocities. I remember that I have heard/read somewhere that
+"uniform sampling in the logarithm of the wavelength corresponds to a uniform sampling in velocity", which suggests a method for converting the units, but I'm not entirely sure how to implement this in practice.
+Here are some equation algebra how I tried to justify the statement:
+Doppler shift
+$$\lambda_0 = \lambda_e (1+\frac{v}{c})$$
+$$\rightarrow \lambda_0 - \lambda_e = \lambda_e \frac{v}{c}$$
+$$\rightarrow \frac{\lambda_0-\lambda_e}{\lambda_e} = \frac{\Delta \lambda}{\lambda_e} = \frac{v}{c}$$
+which for small changes in $\lambda$ , thus small change in $v$ yields into
+$$\Delta \ln(\lambda) = \frac{v}{c}$$
+meaning that small and uniform change in the ln scale indeed relates to uniform sampling in velocity.
+Yet... i'm not completely sure how to implementate this information to the convolution. I feel like this is close to the answer, but I have not got the convolution working...
+I have tried something like
+from scipy.signal import fftconvolve
+step_h_log = wave_log[1] - wave_log[0]
+c = 299792.458 # km/s
+# step_h_log = 0.0001717861122...
+# so this would mean velocity bin of 51.5 km/s (step_h_log * c)
+vel_space = np.arange( np.min(LOSv.min()), np.min(LOSv.max())+ step_h_log*c, step_h_log*c )
+test_convo = fftconvolve( DPF.doppler_shift(np.e**wave_log, vel_space), LOSVD_func(vel_space), mode='same' )
+but indeed this gives error as the shapes differs... I have tried different ways but none gave the correct output.
+If one is interested where to obtain the stellar templates, one can get them i.e. from here
+http://research.iac.es/proyecto/miles/pages/webtools/tune-ssp-models.php .
+I am not sure if I could paste the .txt files here which contain the wavelengths and fluxes
+Any ideas? I would greatly appreciate the help for both coding aspect and perhaps understanding how the convolution actually works in this context (unit conversion).

@@ -1,0 +1,4 @@
+Dimension and mass of space debris
+I am doing a project on space debris management. I wanted to know the size and shape of common space debris (like rocket upper rocket stages). Is there a website which has data on debris? I know websites like https://www.n2yo.com/satellite/?s=25861 contains data regarding the orbit of objects in space. I was wondering if there was something similar for the shape of these objects.
+Kind regards,
+Rohit

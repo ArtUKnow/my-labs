@@ -1,0 +1,2 @@
+Sourced RSO catalogs and CDMs
+I often go to space-track.org and download the latest space catalog on Resident Space Objects (RSO) and also like to look at the Conjunction Data Messages to check out the probabilities. what other catalogs are out there? I'm assuming Celestrak.com gets most if not all of its information from space-track. Are there other open to the public RSO catalogs out there? there are a lot of commercial ones catalogs, some which require $$, but are they all sourced to space-track? I'm an American and can't even view the EUSST catalog.

@@ -1,0 +1,3 @@
+What books, papers, or other references discuss spacecraft GNC software architecture?
+I am seeking reference material not necessarily on the principles of GNC itself (I already own most popular books on it), but on the actual software architecture for onboard GNC. I am having trouble finding almost anything about it. What materials exist?
+To be clear, I'm not looking for references that come with code snippets, like Vallado's Fundamentals of Astrodynamics and Applications. I'm looking for materials that address the architecture.

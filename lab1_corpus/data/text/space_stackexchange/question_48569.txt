@@ -1,0 +1,7 @@
+Skyfield, how to use https:// instead of ftp://?
+Using skyfield I get the error :
+OSError: cannot get ftp://cddis.nasa.gov/products/iers/deltat.data because <urlopen error ftp error: TimeoutError(10060, 'Ein Verbindungsversuch ist fehlgeschlagen, da die Gegenstelle nach einer bestimmten Zeitspanne nicht richtig reagiert hat, oder die hergestellte Verbindung war fehlerhaft, da der verbundene Host nicht reagiert hat', None, 10060, None)>
+I found this message:
+US Government security requirements no longer permit CDDIS to offer data via traditional unencrypted anonumous ftp; this service was discontinued on October 31, 2020. All data are still available, however access must be via HTTPS or ftp-ssl.
+So how to use HTTPS instead of FTP?
+Should I install PycURL – A Python Interface To The cURL library?

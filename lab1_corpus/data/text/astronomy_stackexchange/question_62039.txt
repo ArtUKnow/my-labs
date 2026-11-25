@@ -1,0 +1,4 @@
+Measuring angular diameter of a galaxy using DS9
+Hi! I want to measure angular diameter of some galaxies.
+The assignment states, "Measure the maximum angular diameter of each galaxy in your sample, using the edge of the spiral arms to define the extent of the galaxy in the image. Use the ‘multiple measurements’ approach to estimate errors on your angular diameters"
+earlier, I used line shape for region and drew 6 to 8 lines in various directions to get an averaged diameter. and then calculated error using standard deviation. Was that correct approach? If yes, then in which direction, I should draw lines for accurate angular diameter and to get whole spiral arms in account. And next how to calculate angular distance.

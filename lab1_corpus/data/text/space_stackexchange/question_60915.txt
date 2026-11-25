@@ -1,0 +1,8 @@
+Time of satellite passing overhead
+Curious lay person here...
+I download and analyze Sentinel-2 imagery for a variety of mapping tasks. According to the Sentinel mission description webpage:
+The Sentinel-2 mission orbit is sun-synchronous. Sun-synchronous orbits are used to ensure the angle of sunlight upon the Earth's surface is consistently maintained. Apart from small seasonal variations, anchoring of the satellites orbit to the angle of the sun minimises the potential impact of shadows and levels of illumination on the ground. This ensures consistency over time and is critical in assessing time-series data.
+If I understand the quote, the satellites (there are two of them, orbitally offset by 180 degrees) will pass overhead at my area of interest throughout the year when the sun angle is the same (plus or minus a few minutes). Since the sun angle varies from day-to-day, this also means that the clock time that the satellites pass overhead will shift from day-to-day.
+Am I correct so far?
+But here's where I'm confused: My area of interest is in Washington State, USA, at approximately 48 degrees north, 121 degrees west, utilizing imagery tile 10UGU. I download tiles that were acquired on a variety of dates throughout the year, yet each downloaded file contains the same acquisition time, which is always 19:00Z, +/- 10 minutes, regardless of the day of the year.
+If the satellite's orbital mechanics are engineered to pass overhead at a different clock time each day, how can the acquisition time (Zulu) be the same each day throughout the year?

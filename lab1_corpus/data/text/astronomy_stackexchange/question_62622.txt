@@ -1,0 +1,7 @@
+Are these M67 "chemical twins" actually real?
+I’m an independent student researcher cross-matching APOGEE DR17 spectroscopy with Gaia DR3 astrometry, specifically comparing open cluster M67 members against field stars.
+I’ve identified several high-SNR field stars whose chemical abundances match M67 member 2M08512618+1153520 almost identically across multiple elements, yet their radial velocities and Galactic orbits are completely different. Before going further, I want to make sure I haven't missed a known pipeline artifact or selection effect. Could someone familiar with APOGEE/ASPCAP or Gaia kinematics check these pairs?
+M67’s current escape velocity is only ~1 km/s, so standard two-body evaporation wouldn't eject stars with a 40 km/s offset unless dynamical heating (like spiral arm or giant molecular cloud interactions) altered their orbits over the last ~4 Gyr, or unless they are unrelated field stars ("chemical doppelgängers").
+Are these legitimate chemical doppelgängers in the solar neighborhood, or is there an ASPCAP parameter degeneracy (Teff / log g) I might be overlooking?
+👉 Dataset (Top 150 Pairs CSV)
+I’d really appreciate it if anyone could take two minutes to glance at these numbers and let me know if my cross-match holds up!

@@ -1,0 +1,2 @@
+What is the temperature in space at 650 km in altitude?
+What would the environmental temperature be for a 3u cubesat satellite at an altitude of 650 km? When I look this question up online, I am given many different temperature ranges, so I am not sure what is accurate or which to use. Thanks.

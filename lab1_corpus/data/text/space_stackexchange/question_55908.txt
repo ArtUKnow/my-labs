@@ -1,0 +1,23 @@
+How will DART be able to hit a 170 meter rock dead-center at over 6000 m/s? What technologies will be use and how will they work together?
+The DART spacecraft will ultimately be a kinetic energy impactor, using its 500 kg mass at a relative velocity of over 6000 m/s to slightly change its target 65803 Didymos's companion Dimorphos's velocity. The degree of success will be the momentum transfer fraction (actual vs theoretical maximum) as observed from Earth by the slight change in the orbital period of the pair.
+Dimorphos (aka "Didymos B", "Didymoon") has a diameter of about 170 meters as measured by delay-doppler radar by Arecibo R.I.P. and careful photometric light curve analysis and modeling of the pair.
+DAMIT how do they get 3D shape and rotational trajectory of a tumbling asteroid from photometry?
+What causes "North-South ambiguity" when doppler radar imaging a planet surface equator on?
+Is delay-doppler radar imaging of NEO asteroids possible only if it spins fast enough?
+Are we less safe now that Arecibo is no more?
+What will succeed the Arecibo Observatory?
+Trying to implement a near-direct hit of a 170 meter target for maximum momentum transfer as it wobbles circling every 12 hours around another asteroid while approaching with a relative velocity of >6000 m/s (>21600 kph) is certainly quite a challenge!
+Many asteroid missions have established near-osculating intercept orbits, then fallen in to gravitationally bound orbits about the asteroid, then successively lowered those orbits.
+This is the opposite of that, you come up on a tiny rock at heliocentric velocity, so fast that it's as wide as the Moon (0.5 degrees) only 3 seconds before impact. This is roughly ABM or ASAT-like performance!
+But it's in deep space, millions of kilometers from Earth and by a ion-engine propelled spacecraft.
+Question: How (the heck) will DART be able to hit a 170 meter rock dead-center at over 6000 m/s? What technologies will be use and how will they work together?
+Here's an attempt to find some previous examples of spaceflight marksmanship or ways of calculating it. Since the target is only 85 meter in radius and the goal would be to hit somewhere near the middle the target B or impact parameter here is probably 10 or 20 meters!
+Gravitational keyhole for spacecraft flyby?
+Why would Cassini need to reach 64 degrees inclination before "threading the needle"?
+Gravitational keyhole for spacecraft flyby?
+Understanding gravitational keyhole analysis for Near-Earth Objects
+What's the planetary exploration word for "impact parameter" (distance of closest approach if gravity were "turned off")?
+How the B-Plane parameters are generally determined
+click for larger
+Fig. 21. Definition of target or arrival B-plane coordinates
+Source Interplanetary mission design handbook. Volume 1, part 2: Earth to Mars ballistic mission opportunities, 1990-2005 page 20, found in @MarkAdler's answer

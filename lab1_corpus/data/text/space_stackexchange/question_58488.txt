@@ -1,0 +1,14 @@
+Satellite Revisit Time Analysis
+I am currently making up my mind about revisit analysis. I am searching for clever algorithms to implement this in Matlab. I want to define targets on Earth surface and get the revisit times for each of these targets individually.
+The current idea is this:
+define x targets on earth surface, defined in geodetic coordinates
+1.1. transform the targets in cartesian coordinates earth fixed
+propagate the satellite's orbit, and get the state vectors in cartesian coordinates
+2.1 transform them into cartesian coordinates earth fixed
+calculate the connecting vector between each target and the satellite position vector.
+3.1. calculate the angle between this connecting vector and the satellite position vector.
+3.2. check if this angle < off-nadir angle -> if yes, the target is visibile from this satellite position.
+So this is roughly the idea, which I also already implemented and it works. The problem is, that it is very costy in terms of performance. As it needs to iterate through all satellite position vectors, and for each of them it needs to iterate through all targets.
+So if the orbit propgagation delivers 20e^3 orbital states and we have 1e^06 targets on Earth's surface, the algo has to iterate (calculate and compare the angles) 20e^3 * 1e^06 times. Which doesn't seem to be the way to go.
+So I would love to here your inputs and ideas on this. There has to be a more clever way then just iterating through all possible combinations.
+Thanks and Cheers, af_ab

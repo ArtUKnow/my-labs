@@ -1,0 +1,15 @@
+Pen and paper apogee estimation
+I have calculated the apogee of a 2.5kN avg. thrust sounding rocket once ignoring drag and then assuming maximum constant (magnitude and direction) drag after burnout.
+Here are the figures I used in my calculations:
+Rocket:
+Carbon body and payload: 6 000 g
+Propellant: 8 496 g
+Motor (N2501) at burnout: 4 604 g
+Average thrust: 2501.8 N
+Burn time 6.09 s
+Total drag coefficient: 0.54
+Other constants:
+Nominal launcher elevation angle: 75°
+Frontal area 𝐴 ≈ 0.0103 m2
+Constant air density of 𝜌 ≈ 0.631 kg m−3
+To my surprise, the results were dramatically different (~47km vs ~4km). Where should I expect the actual apogee to be within this range and why?

@@ -1,0 +1,3 @@
+How close could a star get to our solar system without disrupting the planets' orbits?
+Is there an easy way to calculate how close a star of given mass could get to our solar system without disrupting the orbits of the planets? Just looking for a rough estimate, nothing too involved
+Mostly looking for the relationship between solar mass and distance from our star. What percentage of our star's gravity is required to "override" the external influence of the other star?

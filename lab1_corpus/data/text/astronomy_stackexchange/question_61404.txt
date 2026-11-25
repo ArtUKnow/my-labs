@@ -1,0 +1,7 @@
+Could this be gravitational lensing with no visible lensing object? could it be dark matter or an artifact?
+While exploring SkyViewer.app, I noticed something that might resemble gravitational lensing — a distortion or bending of light that looks similar to a lensing effect (marked by a yellow arrow in the attached image).
+However, I couldn’t identify any visible star, galaxy, or cluster at the location that might act as the lens. To investigate further, I checked the same coordinates across surveys in both SkyView NASA and Aladin Lite , but there still appears to be no visible object that could explain the effect.
+My question is:
+Is it possible to observe gravitational lensing caused by something that emits no detectable light like dark matter halo or black hole, Or is it more likely that this is just an artifact or imaging anomaly?
+Coordinates: 183.89763 +6.16091
+https://skyviewer.app/explorer?target=183.89763+6.16091&fov=0.05

@@ -1,0 +1,13 @@
+How hard does atmospheric drag push on the ISS? Is it more than one pound?
+A comment under this question has me thinking; with it's huge main structure and giant solar panels the ISS presents a very large cross-section to Earth's rarified atmosphere at 400 km altitude. So much so that I have heard that every time the ISS goes into Earth's shadow the solar panels rotate to present a minimum drag surface, and some of them may do this even in the sunny parts of the orbit if full power is not needed to charge the batteries and run the systems currently drawing power.
+How are the orientations of the ISS' eight independent solar arrays optimized?
+Drag is bad because the ISS would soon reenter if not for regular shipments of rocket fuel from Earth to power engines that are burned to regularly re-raise the orbit, which sits at around 400 km these days.
+What is the orbital boost acceleration of the ISS?
+How do orbital boosts affect the structural integrity of the ISS?
+How often does ISS require re-boosting to higher orbit?
+How do orbital boosts affect the structural integrity of the ISS?
+Question: Roughly how hard does atmospheric drag push on the ISS? Is it more than one pound? The ISS is about 400,000 kg and so I'm guessing that the drag force must be quite substantial to make a dent in its velocity, even over months.
+How precisely do we know mass of the ISS?
+Does any site track the mass of the ISS?
+ISS Mass breakdown
+From here click for larger.

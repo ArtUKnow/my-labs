@@ -1,0 +1,8 @@
+Coordinate axes of Falcon 9 on launchpad 39A
+Can someone please correct me on the orientation of the Falcon 9 rocket as it sits on launchpad 39A at Kennedy? Looking at the image below, which way should X (red), Y (green), and Z (blue) face? I just realized I probably got my axes all wrong all along. Thanks!
+Below is an (older bust still useful) image of Falcon 9 on the strongback in the context of the launchpad, if it helps. The Falcon manual says +Z faces away from the strongback, and I hear that the launch tower would be north of the rocket, meaning the roll axis would be up, the pitch axis would be toward you (south), and the yaw axis would point to your right (east). This would give a right-handed coordinate frame. Does this seem right?
+EDIT:
+From the 2020 Falcon 9's user manual:
+"Falcon vehicles use a right-hand X-Y-Z coordinate frame centered 440.69 cm (173.5 in.) aft of the first-stage radial engine gimbal, with +X aligned with the vehicle long axis and +Z opposite the transporter-erector strongback (Figure 2-4).
+X is the roll axis, Y is the pitch axis, and Z is the yaw axis. Additional coordinate frames may be defined with reference to the payload interface (Section 5.1.1) for specific missions."
+This should help clarify what I mean by roll, pitch, and yaw axes if the terms seem confusing. They're actually fairly standard in the field, I've found from the papers I've read.

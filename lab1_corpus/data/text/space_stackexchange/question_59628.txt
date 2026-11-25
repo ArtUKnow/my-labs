@@ -1,0 +1,9 @@
+Why would you want a low turbine temperature in an expander bleed cycle engine?
+In a paper by Sippel et al. [1] the following statement is made on page 2: "Consequently the LE-5B turbine drive gas
+temperature has been successfully reduced [w.r.t. the LE-5A engine]."
+However, I was under the impression that you'd want your turbine drive gasses to be as hot as allowed by the turbine. Since every kilogram of fuel you route to the turbine instead of the chamber contributes little to the thrust, you'd want to get the most out of each kilogram. And higher turbine temperatures give more power per kilogram looking at the following formula for turbine power:
+$$P_{output} = \eta\ \dot{m}\ T_{in}\ c_p \bigg(1- \Big(\frac{p_{out}}{p_{in}}\Big)^{\frac{\gamma-1}{\gamma}} \bigg)$$
+With $P_{output}$ the output power of the turbine, $\eta$ the turbine efficiency, $\dot{m}$ the mass flow through the turbine, $c_p$ the specific heat capacity of the turbine drive gas, $T_{in}$ the inlet temperature of the turbine drive gas, $p_{out}$ the turbine outlet pressure, $p_{in}$ in the inlet pressure and $\gamma$ the heat capacity ratio.
+So the question is: is my understanding correct? And if so, why would they be happy about a reduced turbine temperature?
+I guess it would be good for the turbine and allow for more restarts, but I wouldn't say that is enough of a reason to use the fuel less efficiently
+[1] Sippel et al. 2003, Studies on Expander Bleed Cycle Engines for Launchers

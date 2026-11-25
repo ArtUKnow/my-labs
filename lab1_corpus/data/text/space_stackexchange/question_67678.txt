@@ -1,0 +1,16 @@
+Why the unusual architecture of the Saturn IB booster?
+There are two unusual features of the Saturn IB booster which were not carried forward to the Saturn V: the multi-tank layout and the eight flamboyantly huge fins.
+http://www.astronautix.com/s/saturnv2.html
+I understand from https://en.wikipedia.org/wiki/Saturn_IB that the Saturn 1B tanks were made with tooling from the Jupiter and Redstone missiles. This “off the shelf” design was chosen to expedite development since tooling was not available in the much larger diameter needed for stacked tandem tanks.
+With stacked (tandem) tanks, the denser of the two tanks (oxidizer or fuel) is usually mounted above the less dense tank to keep the center of gravity high. This improves the control authority of the gimbaled main engines. What are the criteria to put the oxygen tank above or below the fuel tank for a given stage of a rocket? This rational can be intuitively understood by trying to balance a shovel on your fingertip, heavy end up verses heavy end down.
+Clustered tanks produce a lower center of mass during the burn and lose the option of mounting the denser tank above the less dense tank (the norm with tandem stacked tanks).
+It is possible the large multiple fins were used to provide the stability lost to the cluster tank design. This fin layout was not needed for the Saturn V since tooling was created for the large diameter stacked tanks.
+Is it reasonable to assume the fin design was necessitated by the clustered tanks ?
+It has been suggested (in jest) the fins were a design preference of Chrysler Corp, who manufactured the propellant tanks.
+Addendum:
+The tail fins provided a measure of passive stability during certain
+abort modes; engine-out or steering malfunctions could induce
+sufficient pitch or yaw as to prevent a successful launch escape; the
+fins would keep this pitch or yaw within limits to allow for a
+successful launch escape.
+Did von Braun have "a thing" for fins? Why did Saturn I block 2 get fins because it's a "von Braun" rocket?

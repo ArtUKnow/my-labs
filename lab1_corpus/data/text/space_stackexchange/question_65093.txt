@@ -1,0 +1,10 @@
+What would be the doppler effect in the a 2.42GHz signal coming from a satellite in orbit around Mars, received on Earth ground station?
+Say there is a satellite in orbit around Mars, and it sends a signal at such a time that it is more or less behind the Sun. In that case, Mars would be "Occulted" by the Sun.
+That signal is then received on Earth at a ground station. (Place won't matter)
+What would be the doppler effect introduced to the signal if the signal is of 2.4 GHz?
+Here, there are a lot of things to consider, as not only the relative motion between the planets and satellite matters, but also the relativistic doppler due to Sun's mass would as well, if the signal is anywhere between 5 to 10 Solar radii from the Sun at its point of closest approach.
+How do I calculate the "Theoretical Doppler" the signal will have in the above scenario?
+This is a schematic of the geometry -
+Date: 24 July 2012 Satellite: Mars Express Depicts: Artist's
+impression of radio sounding of the solar corona with Mars Express
+Copyright: ESA/AOES Medialab

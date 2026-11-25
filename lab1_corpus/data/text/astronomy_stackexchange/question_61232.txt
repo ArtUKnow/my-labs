@@ -1,0 +1,3 @@
+why do i keep seeing the shadow of seconday mirror when i point my reflector telescope at a planet or a star?
+I tried pointing my telescope at Mars. But all I could see was the secondary mirror along with the crosshair. I focused it to get a sharp image, but I was not able to see the prominent features of Mars. The only thing that was visible was the secondary mirror in focus or out of focus. I was able to see the moon and its craters.
+My telescope has a focal length of 1000mm and an aperture of 114mm. I tried both 25mm and 10mm eyepieces with it.

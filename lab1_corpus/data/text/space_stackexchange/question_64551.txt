@@ -1,0 +1,12 @@
+GMAT SGP TLE Propagator and maneuver
+So this time I try to use GMAT(2022 ver).
+I am using the SPICESGP4 TLE Propagator to simulator ISS's orbit.
+For now it work well.
+However when I try to use the burn to change its orbit altitude, it did not work.
+I already try the burn in default mission, and it works, so that I wonder is that SGP cant be changed orbit by using burn?
+SGP Propagator codes:https://pastecode.io/s/vmnwzefv
+Result
+Adding burn to default mission:https://pastecode.io/s/k58btbxw
+Result
+And if SGP4 Propagator cant do it, how should I try to simulator ISS's orbit in GMAT?
+Thanks for helping!!

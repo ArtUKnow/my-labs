@@ -1,0 +1,2 @@
+How much power does each component of the ISS use?
+The ISS gets 100 kilowatts on average cycling between sunlight and shade. That electricity is divided between different components and systems such as the life support system (CO2 management, heat management,..), scientific equipment, waste management, lighting,.. etc. How many watts does each thing use?

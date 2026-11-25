@@ -1,0 +1,7 @@
+Is Perseverance's heat shield's thickness radially symmetric?
+I came across this video1 about the Mars 2020 Perseverance rover mission, especially the atmospheric entry phase.
+It says between about 03:50 and 05:00 that the atmospheric lifting entry at an angle of 16 degrees is achieved by dropping weights on one side of the spacecraft (two 75kg tungsten weights) offsetting center of mass where it has to be, to reach this 16 degrees angle of attack.
+One region of the ablative heat shield, always the same region, must dissipate more heat, whatever the roll attitude of the spacecraft.
+Is the heat shield a perfect body of revolution? Or is the thickness of the ablative material varying depending on the areas that dissipate more or less heat? If so or not, why or why not?
+1Comment le rover Perseverance va se poser sur Mars video is en Français but with Google auto-translated closed captions in English available, viz. https://i.sstatic.net/RWcIT.jpg
+underlying concern here is : since two sets of tungsten weights are dropped, one just before atmospheric entry, and the other just after reaching subsonic velocity, optimising heat shield's thickness could reduce heat shield (and first and second ballast) total mass.

@@ -1,0 +1,5 @@
+Given the measured positions of an object, how to retrieve its latest TLE?
+I'm working on a simulation space project, in which I simulate the positions of all the Low Earth Orbit objects at any time.
+For the moment I have a 3LE database of LEO objects, and each time a ground based telescope detects an object, I can compute its position and velocity.
+I now want to be able to retrieve the 3LE of this detected object, and update (if it exists) the old object's corresponding TLE with the new computed positions and velocity. To achieve this, I want to predict (using the SGP4 prediction model) the position of each object of my 3LE database at the time when the positions of the detected object have been measured, and compare the resulting positions (and velocities) with the actual position and velocity of the object (and see which one is closer).
+I know the SGP4 model has a growing error over time, which complicates the whole process. I have then very few ideas to achieve this TLE recovery taking errors into account. Moreover, I can't find any literature on the subject. Has this topic already been discussed (in any articles/papers)?

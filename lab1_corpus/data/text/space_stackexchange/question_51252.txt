@@ -1,0 +1,6 @@
+How do grid fins actually work? Which aerodynamic mechanism(s) produce the torque on the spacecraft?
+I’m trying to model the steering force that grid fins exert on a falcon 9.
+I know these things are not just grid-shaped fins but actually grids of fins.
+And each of those fins will experience drag and lift forces from which the steering force will ultimately arise.
+Do lift and drag both contribute to the steering force on the rocket? Does one dominate over the other or are they both significant?
+If you consider the grid fins at a small angle of attack, am I right that drag will act in the direction of the flattened axis (thickness of the grid of fins) and that lift will act perpendicular to it?

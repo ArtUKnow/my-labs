@@ -1,0 +1,14 @@
+How will the LICIACube cubesat transmit DART impact images back to Earth? What kind of antenna and radio will it use?
+MarCO
+The Mars Cube Ones or MarCOs were 6U cubesats that were deployed in deep space during the InSight mission to observe it during a critical, dynamic period of its mission, in this case the N minutes of terror during reentry, and then convey data back to Earth.
+To do this they were equipped with giant phased reflector surfaces to simulate an off-axis parabolic reflector for high gain and reasonable data rate.
+For more on the antenna see answers to
+How does the pattern on the MarCo cubesat's antenna boost data-transmission?
+LICIACube
+LICIACube is an Italian 6U cubesat to be deployed in deep space during the Dart mission to observe it during a critical, dynamic period of its mission, in this case the N minutes after DART impacts "DidyMoon (Dimorphos)", and then convey data back to Earth. (hat tip to Scott Manley for the nickname)
+In this case the data will be primarily images from its two cameras; LUKE and LEIA.
+Question: How will the LICIACube cubesat transmit DART impact images back to Earth? What kind of antenna and radio will it use?
+How will its antenna, distance and data rates compare to MarCO?
+Potentially helpful but paywalled:
+LICIACube, the Italian Witness of DART Impact on Didymos
+below: Both MarCO cubesats, from here (now here).

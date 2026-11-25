@@ -1,0 +1,7 @@
+Are there any plans to launch a Crew Dragon with more than 4 seats?
+Spacex's Crew Dragon capsule was designed to hold up to 7 people, but NASA and private flights so far use it with 4 passengers only (from the past and planned flights listed on Wikipedia.)
+NASA announced a few days ago that the two Starliner astronauts currently on the ISS will return with the Crew-9 mission, which will launch with two empty seats out of four.
+This made me question why they didn't send a dragon with space for 6 while keeping all four initial Crew-9 astronauts. I assume the answer to that is that additional seats would take too long to install or that it would require a brand new capsule altogether.
+My actual question is:
+Will they ever fly more than 4 astronauts in a Crew Dragon capsule built for more than 4? Strapping people to the cargo pallet does not count.
+Have there been considerations on having a spare Capsule with many seats lying around in case they ever need to rescue stranded astronauts like this?

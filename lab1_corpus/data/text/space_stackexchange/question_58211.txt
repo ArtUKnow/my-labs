@@ -1,0 +1,13 @@
+Are direct conversion optical receivers being looked at for future deep-space communication?
+In this answer to Receiver and transmitter in RF/optic satellite communication: distance vs data rate v2 I explain that since the currently used photodiode-based photodetectors for optical communication must first convert photons to carrier pairs and then collect the charge, the electrical power generated for the front-end amplifier (the thing we compare to $k_B T$ for S/N ratio) is proportional to the square of the incident optical power.
+That means (surprisingly) that it drops as $1/r^4$ even though the incoming optical power is dropping as $1/r^2$ The linked question shows the graphic below, where for a specific scenario optical communication starts being worse than radio at only 1 AU!
+There are plenty of modulation schemes specific to optical photon beams that can recover some of this disparity, but the problem remains that present day (COTS or otherwise) electronics is too slow to directly accept AC signals at 300,000 GHz, today we must first convert those photons to electron-hole pairs in semiconductors then collect the charge.
+Question: Are direct conversion optical receivers being looked at for future deep-space communication?
+Presumably these would mix the incoming light with a laser and amplify the heterodyne frequency difference as ~ GHz RF, rather than amplify the 300,000 GHz light directly or use an optical amplifier (I think those are way too noisy for this signal level, but not 100% sure).
+Somewhat related in Astronomy SE (more about optical heterodyning):
+Has optical interferometry been done at radio frequency using heterodyning with a laser in a nonlinear material?
+From SPIE.org's news item Optical communications work best over relatively short distances in space (06 April 2006 Morio Toyoshima, Walter Leeb, Hiroo Kunimori, and Tadashi Takano)
+Figure 1. Maximum data rates for optical and RF communication systems versus link distance. GEO stands for geostationary earth orbit, and arrows show distances to GEO, Moon, and Mars.
+The authors write:
+It may be necessary to abandon the use of optical systems over longer distances, unless new technologies, such as special modulation and coding techniques and antenna configurations, are developed. Promising technologies are emerging. Researchers have recently developed a technique that goes beyond the classically-understood limits of a communication channel defined by Shannon's law, using a so-called quantum circuit in the receiver. Further progress in quantum physics may open other possibilities for long-distance optical communication.
+but here I'm not asking about those, except perhaps the quantum detector stuff which I don't understand.

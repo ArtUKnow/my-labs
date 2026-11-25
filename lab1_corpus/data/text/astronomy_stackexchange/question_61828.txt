@@ -1,0 +1,127 @@
+Help on calculating the sun's horizontal coordinates
+For a couple of weeks, I have been trying to write a program that takes your
+latitude and longitude and outputs the current horizontal coordinates of the sun.
+The end goal is that I want to code a sun tracker.
+I have been trying to use the document found at
+https://sceweb.uhcl.edu/helm/WEB-Positional%20Astronomy/Tutorial/Conversion/Conversion.html
+But the project is not working.
+The outputs are wildly off and make no sense.
+Does anyone here know what I am doing wrong?
+Here is my main file
+#include <stdio.h>
+#include <time.h>
+#include <math.h>
+#include "sidereal.c"
+#define rad (M_PI / 180)
+#define deg (180 / M_PI)
+double latitude = 43.659100;
+double longitude = -70.256821;
+double greenwich;
+double gmst;
+double eclipticLongitude;
+double eclipticLatitude;
+double obliquity;
+double rightAscension;
+double declination;
+float altitude;
+float azimuth;
+time_t now;
+void getEclipticCoordinates()
+{
+double meanAnomaly = 357.529 + 0.98560028 * greenwich;
+double meanLongitude = 280.459 + 0.9856474 * greenwich;
+meanLongitude = fmod(meanLongitude, 360);
+if(meanLongitude < 0)
+{
+meanLongitude += 360;
+}
+meanAnomaly = fmod(meanAnomaly, 360);
+if(meanAnomaly < 0)
+{
+meanAnomaly += 360;
+}
+meanLongitude *= rad;
+meanAnomaly *= rad;
+eclipticLongitude = meanLongitude + (1.915 * rad) * sin(meanAnomaly) + (0.020 * rad) * sin(2 * meanAnomaly);
+eclipticLongitude = fmod (eclipticLongitude, 2 * M_PI);
+if(eclipticLongitude < 0)
+{
+eclipticLongitude += 2 * M_PI;
+}
+eclipticLatitude = .0001 * rad;
+obliquity = 23.439 - 0.00000036 * greenwich;
+obliquity *= rad;
+}
+void getEquitorialCoordinates()
+{
+rightAscension = atan2(cos(obliquity) * sin(eclipticLongitude), cos(eclipticLongitude));
+rightAscension *= deg;
+if(rightAscension < 0)
+{
+rightAscension += 360;
+}
+rightAscension /= 15;
+declination = asin(sin(obliquity) * sin(eclipticLongitude));
+declination *= deg;
+}
+//what does any of this even do?
+void getHorizontalCoordinates()
+{
+//get the last
+float lst;
+siderealTime(&lst);
+//calculate the local hour angle
+float localHourAngle = lst - rightAscension;
+declination *= rad;
+latitude *= rad;
+localHourAngle *= rad;
+altitude = asin(sin(declination) * sin(latitude) + cos(declination) * cos(latitude) * cos(localHourAngle));
+azimuth = asin(sin(localHourAngle) * cos(declination) / cos(altitude));
+altitude *= deg;
+azimuth *= deg;
+fmod(azimuth, 360);
+if(azimuth <0) azimuth += 360;
+}
+//I'm going insane here
+int main()
+{
+//converting to current Unix time into time since Greenwich noon
+now = time(NULL);
+greenwich = now / 86400.0 + 2440587.5 - 2451545.0;
+getEclipticCoordinates();
+getEquitorialCoordinates();
+getHorizontalCoordinates();
+float test;
+siderealTime(&test);
+printf("%f,%f", altitude, azimuth);
+return 0;
+}
+And here is my sidereal time file
+#include <math.h>
+#include <time.h>
+void siderealTime(float *out)
+{
+float jd;
+float tt;
+float t;
+float longitude = -70;
+float gmst;
+time_t raw;
+time(&raw);
+//calculate the Julian date
+jd = raw / 86400.0 + 2440587.5;
+//calculate the terrestrial time
+tt = jd - 0.00080074074 - 2451545.0;
+//calculate the fraction of the century since terrestrial time
+t = tt / 36525.0;
+//calculate thGreenwichch meridian standard time
+gmst = 280.46061837 + 360.98564736629 * tt + (0.000387933 * pow(t, 2.0)) - pow(t, 3.0) / 38710000;
+//the GMST is currently in degrees
+//the next step is to take its modulus
+gmst = fmod(gmst, 360.0);
+if(gmst < 0) gmst += 360.0;
+gmst /= 15.0;
+*out = gmst + longitude / 15.0;
+if(*out < 0) *out += 24.0;
+if(*out >= 24) *out -= 24.0;
+}

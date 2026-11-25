@@ -1,0 +1,11 @@
+What is the distribution of impact angles for meteorites?
+The common wisdom seems to be that the most probable impact angle for a meteorite is 45 degrees.
+The Wikipedia "Impact Events" article says, "The most probable impact angle is 45 degrees." It cites the Earth Impact Effects Program, which also says
+The impact angle is measured from a plane tangent to the impact surface. This angle is 90 degrees for a vertical impact. The most probable angle of impact is 45 degrees,
+but doesn't provide a rationale.
+Note that "most probable" and "average" are not necessarily the same thing.
+I'm not convinced that 45 degrees is correct.
+From the point of view of an observer at the impact point, if we assume that the impactor comes in on a straight line from a random point in the sky, the portion of the sky above 45 degrees is much smaller than the portion below 45 degrees. (I haven't done the math to determine how much smaller.) In particular, a 90-degree impact can only come from one point in the sky, while a 30-degree impact can come from any point along a large circle. This suggests that lower angles are more likely.
+From the point of view of the impactor, it seems reasonable to assume that it will hit at a random point on the visible disk of the body (say, Earth) that it's going to hit. Again, I haven't done the math, but it seems unlikely that the most likely or average angle based on this assumption is going to be exactly 45 degrees.
+There are several factors that could complicate things. One is that the Earth's gravity will alter the path of the impactor. This will, I think, tend to make impacts more nearly vertical than they would be if we ignored gravity, but the effect could be small if the impactor has a high velocity. Another is that bodies that might become meteorites are more common along the ecliptic. If they were all exactly on the ecliptic, then 45 degrees would make sense, because impact angles would be randomly distributed along a single arc.
+I get the impression that the 45 degree figure is based on a simplifying assumption, that all angles from 0 to 90 degrees are equally likely. Is there something more behind it? If not, what does the actual distribution if impact angles look like?

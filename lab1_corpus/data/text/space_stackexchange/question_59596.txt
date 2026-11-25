@@ -1,0 +1,3 @@
+What is the difference between a Trans-Mars Injection and a Mars Transfer Orbit?
+So I'm using this transfer orbit calculator and when simulating a transfer from LEO to Mars, in the delta-v breakdown, appear two different values: TMI (Trans-Mars Injection), at around 3000 m/s, and MTO (Mars Transfer Orbit), at around 600 m/s.
+What is the difference between these two?

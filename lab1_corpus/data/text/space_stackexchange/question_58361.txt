@@ -1,0 +1,12 @@
+What is the right way to get Mars' sol?
+Among the following two methods what is the right way to get the Mars sol date?
+Using this equation from Timekpeeing on Mars Wikipedia page
+MSD = (Julian Date using International Atomic Time - 2451549.5 + 1/7200)/1.02749125 + 44796.0
+Feb 18, 2022 as Julian Date is 2459628.88889. If we do the calculation with this value, MSD becomes 52658 and 52658%668 is 554. This means today is day 554 of 668 on Mars.
+New Year as Feb 7, 2021, and 1 sol as 24 hour 39 minutes 35 seconds
+MSD = (time difference between Feb 7, 2021, and today in seconds)/88775.24 (Mars' sol in seconds)
+On this NASA website it states Mars' New Year is Feb 7, 2021, and one sol lasts 24 hours 39 minutes, and 35 seconds.
+Time difference between Feb 18, 2022, 00:00:00 and Feb 7, 2021, 00:00:00 in seconds is 32486400.
+And if we divided 32486400 by 88775.24 (Mars sol in seconds) it gives us 365.93
+Like this, if we do calculations based on these two given facts today becomes day 365 of 668
+These two methods yield two different results. Can someone help to figure out which one is right?

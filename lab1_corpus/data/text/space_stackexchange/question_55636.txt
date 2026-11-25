@@ -1,0 +1,11 @@
+New Horizons spinning about "minimum axis of inertia"? Misunderstood or misspoke?
+I recently stumbled upon the question Why did New Horizons have to be spin-balanced to grams-level precision? (With quarters!) and the accepted answer written by an authoritative source (the guy who created & performed the test).
+I am puzzled by this statement:
+However most spacecraft (New Horizons and Ladee included) spin about their minimum axis of inertia
+I take "minimum axis of inertia" to mean the principal axis with the lowest moment of inertia. However, looking at the configuration of the New Horizons spacecraft, I intuitively (if moments of inertia can be intuitive) expect the spin axis (Y) to be the maximum axis of inertia:
+The New Horizons Spacecraft, Fountain et al. https://www.boulder.swri.edu/pkb/ssr/ssr-fountain.pdf
+This is confirmed by Guerra et al.[2] which states:
+The nominal spin rate of New Horizons is ω0 = 5 rpm, and the location of the centre of mass is the origin of the reference frame [...]. In this reference frame the principal moments of inertia are A = IXX = 161.38 kg/m2, B = IYY = 402.12 kg/m2, C = IZZ = 316 kg/m2 [19].
+Where reference 19 is a private communication with "G. H. Fountain" (author of previously sourced "The New Horizons Spacecraft").
+Is the comment made in the accepted answer wrong? Am I misunderstanding what minimum axis of inertia means?
+Estimating the thermally induced acceleration of the New Horizons spacecraft, Guerra et al. (2017) (archived)

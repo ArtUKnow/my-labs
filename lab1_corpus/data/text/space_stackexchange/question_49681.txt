@@ -1,0 +1,6 @@
+Payload capacity of Electron rocket?
+I can only find the Electron capacity for LEO and SSO: 300 and 200 kg
+And for Venus: 15 kg (which links to here)
+But what is the capacity for GTO, Moon and Mars?
+LEO = Low Earht Orbit
+SSO = Sun-Synchronous Orbit

@@ -1,0 +1,2 @@
+Space Shuttle HUD use outside of landing?
+Has the Space Shuttle's HUD ever been used for anything other than the entry, TAEM and landing phases, or has such usage ever been considered (e.g. as a visual reference for ISS proximity manoeuvres or satellite intercepts)?

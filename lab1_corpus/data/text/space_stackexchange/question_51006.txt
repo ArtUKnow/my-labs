@@ -1,0 +1,9 @@
+Space shuttle PEG ascent burns
+I'm reading a public document on the powered explicit guidance algorithm used in the space shuttle.
+The document suggests that PEG ascent maneuvers always involved at least three phases:
+Constant thrust SSME burn
+Constant acceleration SSME burn
+Constant thrust OMS burn
+I expected the first two phases, but the third caught me by surprise. It seems the OMS thrusters would fire just before orbital insertion?
+But why not just do the whole PEG ascent maneuver on the SSMEs? Was it for ullage control, maybe? Any idea how long the OMS thrusters would burn for in this maneuver?
+Thanks!!

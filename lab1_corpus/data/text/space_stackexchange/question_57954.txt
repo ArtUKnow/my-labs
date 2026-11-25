@@ -1,0 +1,9 @@
+How to "decode" this ancient log of Apollo Guidance Computer (AGC)?
+I found this interesting document:
+https://www.ibiblio.org/apollo/Documents/apollo_11_computer_words.pdf
+But the scan quality is very very poor!
+I tried interpreting the headers, but some characters are really unreadable...
+Does anybody know if a better copy of this document exists? Or does anybody know a method to improve readability enough to allow OCR? Or, as a last chance, is anybody interested in helping manually transcripting the document number by number?....
+Additionally, does anybody know where to find the list of "elements numbers" mentioned in this log? It would help understanding the headers.
+I would like to write an "AGC replayer" which allows replaying the whole power descent as it really happened. It's different than a typical AGC simulator or emulator, which just waits for user input, my replayer could be used side-by-side with an AGC emulator to try exactly replaying the Apollo 11 landing.
+I also would like to write the AGC log together with voice transcript of the landing; as of now I was only able to do it for last seconds of power descent:

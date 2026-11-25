@@ -1,0 +1,2 @@
+How to read .eph (GPS Ephemeris binary data) sent by the receiver
+My GPS receiver can share ephemeris info as binary data. The queried data is having .eph format. I tried to open it in Notepad but seems unreadable (gibberish). Is there any specific software to open this ephemeris.eph file?

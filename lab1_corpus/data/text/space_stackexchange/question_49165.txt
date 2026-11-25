@@ -1,0 +1,9 @@
+When was the first time for each of these USA states that it launched a rocket into orbit?
+Only five states and territories had launches that got into orbit: Florida, California, Virginia, Alaska and Marshall Islands
+But when was the first time for each of those states that a launched rocket reached orbit?
+Jon Heller said he would answer this question using his great SQL tools.
+Florida is the most easy because it had the first launch of a USA satellite.
+Florida - 1 February 1958 - Explorer 1
+For California I could only find Athena I rocket launching Lewis satellite at 23 August 1997
+Related question:
+US states with most space launches?

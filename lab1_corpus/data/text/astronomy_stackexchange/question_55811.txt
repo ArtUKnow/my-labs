@@ -1,0 +1,3 @@
+Atmosphere colour from orbit
+I know a few different resources for determining the colour of a world's sky depending on its star and atmospheric pressure, but I haven't been able to find anything for how it would look from space (same thing for clouds).
+Does anyone know any charts, calculators, etc. for this, or even just the basics?

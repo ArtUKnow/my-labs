@@ -1,0 +1,12 @@
+What am I missing about rocket nozzle isentropic flow?
+Playing a bit with Cpropep-Web, something looked wrong to me about how it models isentropic flow through a CD nozzle.
+I'm taking the RS-25 characteristics as an example. I ask for a frozen equilibrium flow computation (to avoid molecular recombination and insure isentropy) and get this result :
+First, we can see that entropy $S$ is conserved from CHAMBER to EXIT, so the whole process is by definition isentropic. (It is not a the throat though, which is weird...)
+However, if I try to use isentropic flow relations on this output, things start to get weird.
+If my understanding is correct, within an isentropic flow, total temperature $T_{tot}$ and pressure $p_{tot}$ should be conserved (and should be equal to chamber temperature and chamber pressure, as flow is assumed to be at velocity zero in the chamber).
+Then,
+at CHAMBER : $p_{tot_c}=p_c=203.73atm ; T_{tot_c} = T_c = 3609.678K$
+At EXIT, $M=\frac{I_{sp}}{V_{son}}=5.1245 ; \gamma = 1.28861 ; p_e = 0.153 atm ; T_e = 949.973K$
+Isentropic flow relations give $\frac{T_e}{T_{tot_e}} = (1 + \frac{\gamma - 1}{2} M^2)^{-1}$ and $\frac{p_e}{p_{tot_e}} = \frac{T_e}{T_{tot_e}}^{\frac{\gamma}{\gamma - 1}}$
+Substituting all the values we get at EXIT : $T_{tot_e} = 4550K ; p_{tot_e} = 166.77 atm$ which means those quantities were not conserved. Some total pressure was lost and a lot of total temperature was gained.
+Is Cpropep-Web wrong or am I missing something here ?

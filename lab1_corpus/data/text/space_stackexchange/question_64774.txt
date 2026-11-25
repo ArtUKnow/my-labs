@@ -1,0 +1,4 @@
+How does SpaceX get its boosters from the ASDS to SLC-40?
+Getting a freshly-landed booster from a drone ship to pad 39A seems straightforward: there's a deepwater channel from Port Canaveral to a dock next to the VAB. Sail the ASDS up, lift the booster off with a crane, and truck it to the processing facility.
+Getting one to SLC-40 looks considerably more difficult. The barge channels into Cape Canaveral Space Force Station appear to be abandoned. Aerial imagery doesn't show any rocket-traversable roads leading from KSC to the SLC-40 processing facility. The roads from Port Canaveral appear to have obstacles too low for a vertical booster, and curves too sharp for a horizontal one.
+How does SpaceX get the rockets to the processing facility?

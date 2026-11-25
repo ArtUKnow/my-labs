@@ -1,0 +1,9 @@
+How does a satellite's mass affect its fuel consumption to maintain orbit?
+Given two otherwise identical satellites in identical orbits, the more massive one's orbit decays more slowly from atmospheric drag: $F=ma$, same $F$ (drag), bigger $m$, so smaller $a$ (decay). So its orbit needs less boosting, so it needs less fuel.
+But the more massive one needs more force to boost orbit, again because $F=ma$. So it needs more fuel.
+Does one effect dominate the other?
+Or do the $m$'s cancel out?
+Over the long term, to maintain orbit, does the more massive satellite burn fuel faster, or slower?
+Clarification: "otherwise identical" means same engines (same thrust and fuel consumption) and same frontal area. It means Identical twins except for mass of payload (which might mean more fuel, but that can't affect fuel consumption except maybe as the fuel depletes, the heavier twin becomes more like the lighter twin).
+What may vary is when and how long the boost burns are, because the optimal behavior for each twin might differ.
+Because fuel mass is likely a significant fraction of total mass, the Tsiolkovsky rocket equation may apply here. But I'm not sure how wet mass and dry mass fit in.

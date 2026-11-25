@@ -1,0 +1,3 @@
+What is the range of frequencies of a deep space channel?
+I've been trying to find the values of bandwidth of each Deep Space frequency channel: band S, X and Ka. In the official NASA's documents only appears the center frequency of each one, but it doesn't describe their range. Do you know if there is any page where I can find those values?
+Thanks in advance.

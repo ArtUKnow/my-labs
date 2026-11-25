@@ -1,0 +1,44 @@
+Meeus on the Positions of the Satellites of Jupiter
+Ex. 44.a of Meeus Astronomical Algorithm, Second Edition, provide the position of the Galileans on December 16 1992 at 0h UT (p.311/488).
+Procedure 1:
+For Io, in terms of the Jupiter's equatorial radius (71,492 km), the solution provides, X1 = -3.44 and Y1 = +0.21. Thus, X1 = -3.44 = -2.4593248e+5 km, and Y1 = +0.21 = 1.501332e+4 km.
+In terms of 1 AU = 1.49598e+8 km, the semi-major axis of Jupiter of 5.2038 AU translates to 7.784780724e+8 km.
+Thus, on December 16 1992 at 0h UT, the distance between the Sun and the Io was approx.
+X1 = 7.784780724e+8 km - 2.4593248e+5 km = 7.7823213992e+8 km.
+Y1 = 7.784780724e+8 km + 1.501332e+4 km = 7.7849308572e+8
+Procedure 2:
+Now, using JPL Horizons ephemeris app at https://ssd.jpl.nasa.gov/horizons/app.html#/
+with the input parameters:
+Ephemeris Type; Vector Table
+Target Body: Io (JI)
+Coordinate Center: Sun (body centre) [500@10]
+Time Specification: Start=1992-12-16 TDB , Stop=1992-12-17, Step=1 (days)
+Table Settings: 1. Position components {x, y, z} only
+ephemeris provide:
+x = -8.136759055015339E+08 km and y = -2.827656223176936E+07 km.
+Contents of the Batch Edit File are:
+!$$SOF
+MAKE_EPHEM=YES
+COMMAND=501
+EPHEM_TYPE=VECTORS
+CENTER='500@10'
+START_TIME='1992-12-16'
+STOP_TIME='1992-12-17'
+STEP_SIZE='1 DAYS'
+VEC_TABLE='1'
+REF_SYSTEM='ICRF'
+REF_PLANE='ECLIPTIC'
+VEC_CORR='NONE'
+CAL_TYPE='M'
+OUT_UNITS='KM-S'
+VEC_LABELS='YES'
+VEC_DELTA_T='NO'
+CSV_FORMAT='YES'
+OBJ_DATA='YES'
+Summary of Procedure 1:
+X1 = 7.7823213992e+8 km.
+Y1 = 7.7849308572e+8 km.
+Summary of Procedure 2:
+x = -8.136759055015339E+08 km
+y = -2.827656223176936E+07 km.
+May I know why a difference exist between two procedures please. I hope the methodology for the procedure 1 is correct. Am I missing some points?

@@ -1,0 +1,6 @@
+How are Falcon 9 Grid Fins' rapid movements calculated and controlled?
+Similar Question: What computer and software is used by the Falcon 9?
+What would the formula (function) calculating the changes in angle of attack of the Grid Fins (Falcon 9) before landing look like?
+This question highlights a newly developed tendency in the progress of Space Exploration. Long stagnated advances in the development of space rocket technologies (SLS as an example) were boosted by advances in computing power and Artificial Intelligence (SpaceX Falcon 9, Starship).
+merged from deleted answer:
+Advances in onboard computers processing power and the 'brute force' approach to calculation of avionics control commands could have made vertical landing of the first stage practical and affordable for commercial entities like SpaceX.

@@ -1,0 +1,12 @@
+What adhesive properties does chewing gum have under conditions found in space?
+Chewing gum, used as an adhesive, is a plot device employed to rescue intrepid heroes. https://movies.stackexchange.com/questions/2694/where-did-they-get-all-of-the-gum-from
+It is only a matter of time before gum will be be employed to plug a small hull breach or repair micro meteor damage to an antenna in space fiction.
+How believable would this space fiction plot device be? What adhesive properties does chewing gum have under conditions found in space?
+Adhesives use in space need to withstand a large range of temperature. Low temperature (to -115F) is a particular challenge. Approved adhesives also need to meet strict standards of outgassing and radiation resistance. https://www.masterbond.com/techtips/adhesives-space-applications
+Chewing gum works as an adhesive due to Vand der Waals forces, as employed by “super glues”
+Van der Waals forces… help bring the surfaces closer together,
+facilitating bonding. These forces are responsible for the initial
+contact and adhesion between … super glue and the surface.
+https://threebondindia.com/science-behind-super-glue/#:~:text=Van%20der%20Waals%20forces%2C%20which,super%20glue%20and%20the%20surface
+Chewing gum’s high pliability allows it to flow into microscopic crevices, increasing contact area. https://www.sciencefocus.com/science/what-makes-chewing-gum-bond-so-well . Vacuum desiccation and low temperatures increase bond strength so, once applied, conditions in space could enhance adhesive performance. However, radiation exposure would be expected to degrade polymers and therefore weaken the gum matrix with time.
+The adhesive properties of chewing gum are substantial, as demonstrated by this study https://www.jstage.jst.go.jp/article/tdcpublication/57/1/57_1/_pdf However, when gum is pulled off a surface, most of the energy goes into stretching the polymers, rather than breaking the bonds between the surface and the gum. https://illumin.usc.edu/chewing-gum Presumably this is why frozen gum is easier to remove: reduced elasticity of the polymer transmits force to the gum/surface interface.

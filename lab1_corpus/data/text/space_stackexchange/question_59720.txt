@@ -1,0 +1,3 @@
+Why would binary asteroids created from YORP spin-up tend to have mutual orbits coplanar to their heliocentric orbit?
+Vavilov, et al., "Evidence for widely-separated binary asteroids recorded by craters on Mars", Icarus 383 115045 (2022)
+says on page 8 that binary asteroids created through the Yarkovsky–O'Keefe–Radzievskii–Paddack effect (YORP) induced spin-up tends to create systems whose mutual orbit is coplanar to the heliocentric orbit. Why is this?

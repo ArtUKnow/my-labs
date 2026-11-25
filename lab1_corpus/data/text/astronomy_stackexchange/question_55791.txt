@@ -1,0 +1,11 @@
+What is the solar diameter?
+What is the solar diameter in SI units?
+Google tells me this is 1.3927 Gm.
+How accurate is that figure?
+I am looking for estimates with referenced data and calculations, and the uncertainties:
+due to measurement
+due to variation in shape
+due to short term variations in time over different time periods
+due to definition of extent of the solar body.
+An historical perspective may also be interesting, but I am asking about the modern day.
+In summary I am looking for the sun's diameter based on referenced observations and the number of significant figures it is reasonable to quote.

@@ -1,0 +1,9 @@
+JWST - coordinates of each of the 18 mirror segments?
+I am curious about the relative orientations and locations of each of the JWST’s 18 hexagonal mirrors, when they are in place.
+The unfortunate (and subsequently corrected) problem with Hubble’s primary mirror brought the issue of mirror tolerances to the world’s attention.
+Clearly, 18 segments, each with its own seven actuators(1) (each with incredible precision and a remarkable range), is part of the JWST’s solution to this real (potential) problem.
+Because there is talk in the popular press of nanometer precision in these actuators, I am interested in the actual (designed) (precise) locations of these mirrors.
+Can someone do the math on this? Say, for example, find the coordinates of the center, and each corner (6), of each segment, when all are in their focused, final positions … all in a common coordinate system? (For extra credit, provide some information on tolerances of these positions).
+(Sort of a math problem, I know, but also JWST specific, and part of the current deployment and calibration process.)
+—-
+(1) edited from “1” to “7” actuators per segment, per comment from Uwe.

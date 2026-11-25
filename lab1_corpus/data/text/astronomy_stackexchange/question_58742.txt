@@ -1,0 +1,9 @@
+How to calculate HI column density based on data cube
+I have a data cube which has 3 axes: x(GLAT), y(GLON), v(VELO). Every pixel has value $T(x,y,v)$ in the unit of K.
+I want to calculate the HI column density of a Hydrogen cloud, the cloud is located at (for example) $[x_1, x_2], [y_1, y_2], [v_1, v_2]$
+I have calculated the Moment 0:
+$$
+M_0(x,y) = \sum_{v_1}^{v_2}T(x,y,v)
+$$
+and it seems that I just multiply it by $1.8 \times 10^{18}$ I can get the HI column density, is that right? or should I do some more calculations?
+example data cube here: https://hiverse.alkaidos.cn/

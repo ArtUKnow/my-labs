@@ -1,0 +1,7 @@
+Was the launch of "Tianhe" a failure or success?
+Recently on April 29 2021, Chinese space program launched Tianhe as part of Tiangong space station. In launch section it states the mission was failure:
+Tianhe launched on 29 April 2021, at 03:23:15 UTC atop a Long March 5B
+launch vehicle from the Wenchang Spacecraft Launch Site. After the
+core module was put into orbit, the launch vehicle entered a
+temporary, uncontrolled failing orbit.
+But in List of mission, it is declared a success.

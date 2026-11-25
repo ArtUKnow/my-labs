@@ -1,0 +1,4 @@
+Is the code that produces the SDSS DR16Q quasar catalogue available?
+I'm curious if it's available to investigate (from my question in the title), or even better, modify and re-run. See SDSS DR16Q quasar catalogue.
+Not the data itself, that's in a fits file. The code they ran to produce the fits file.
+The part I'm most interested in are the K corrections.

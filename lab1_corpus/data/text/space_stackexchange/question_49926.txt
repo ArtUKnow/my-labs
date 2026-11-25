@@ -1,0 +1,2 @@
+What is your experience with using NASA's Core Flight System (cFS) in a subordinate system?
+Has anyone used NASA's cFS on board a discrete system mounted on board an existing satellite/rover? What is your experience like? Have you encountered any difficulty forwarding TM/TC and managing systems internal to the subordinate system from the main platform?

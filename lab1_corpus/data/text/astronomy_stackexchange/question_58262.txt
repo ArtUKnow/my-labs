@@ -1,0 +1,29 @@
+Efficient sky searches with HEALPix-alchemy
+I am trying to implement a cone search for a catalog with the HEALPix-alchemy package. I have the following models set up, based on the examples here: https://arxiv.org/pdf/2112.06947
+class Field(Base):
+"""
+Represents a collection of FieldTiles making up the area of interest.
+"""
+id = Column(Integer, primary_key=True, autoincrement=True)
+tiles = relationship(lambda: FieldTile, order_by="FieldTile.id")
+class FieldTile(Base):
+"""
+A HEALPix tile that is a component of the Field being selected.
+"""
+id = Column(ForeignKey(Field.id), primary_key=True)
+hpx = Column(Tile, index=True)
+pk = Column(Integer, primary_key=True, autoincrement=True)
+class Source(Base):
+"""
+Represents a source and its location.
+"""
+id = mapped_column(Integer, primary_key=True, index=True, autoincrement=True)
+name = Column(String, unique=True)
+Heal_Pix_Position = Column(Point, index=True, nullable=False)
+I am then using CDSHealpix to get the HEALPix cells contained within a specified cone.
+I construct the Multi Order Coverage map from the HEALPix cells using MOCpy and extract the HEALPix tiles using HEALPix-alchemy.
+I then populate the Field table with this collection of tiles.
+Finally, I perform the following query:
+query = db.query(Source).filter(FieldTile.hpx.contains(Source.Heal_Pix_Position)).all()
+However, this is very inefficient as I am effectively checking each source in my catalog to see if it is contained within a FieldTile.
+How can I modify my approach so that I am checking each pixel and returning the sources that it contains?

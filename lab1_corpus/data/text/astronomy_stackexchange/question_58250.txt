@@ -1,0 +1,4 @@
+Can reflections of powerful gamma-ray bursts reveal normally undetectable distant objects in the solar system?
+Gamma-ray bursts (GRBs) are extraordinarily luminous cosmic explosions. Given their immense brightness and potential for advance warning, could they be harnessed to illuminate and characterize distant Solar System objects, such as trans plutonian, or those in the Kuiper Belt or Oort Cloud?
+Specifically, is it feasible to use the reflected GRB radiation to detect and study objects that are currently beyond the reach of our observational capabilities?
+How would the GRB radiation interact with these objects—would it be reflected, absorbed and re-emitted at different frequencies, or scattered? Which of these interactions would be most detectable with current or future telescopes? What are the primary challenges associated with this approach, and has this idea been explored in previous research?

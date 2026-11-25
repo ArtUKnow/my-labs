@@ -1,0 +1,22 @@
+Why is Titan much more geologically active than Ganymede, when the two moons are approximately the same size and composition?
+Titan.
+And
+Ganymede.
+Both are Mercury-size worlds with crusts and mantles of water (in both solid and liquid form).
+But…
+Ganymede’s surface is pockmarked with craters. Much like the Earth’s Moon, specific portions of it bear the hallmarks of volcanism that resurfaced the prior landscape but shut down billions of years ago, while the rest has remained untouched except by later impacts.
+Titan, on the other hand, has few impact craters, and shows clear signs of recent geologic activity, there being multiple lines of evidence of this. 3 There was an idea that Titan is just ‘Callisto with weather’,4 but it does not seem to be backed up by evidence. Titan isn’t in resonance with any neighbours, unlike Ganymede, so Titan’s internal heat must be entirely its own, as is the case for Earth, and indeed, it sustains an Earth-like geologic environment, only with water ice instead of silicate rock.
+And here is where we run into a conundrum. The Earth is one of those objects whose internal heat alone can power large-scale, frequent, geologic activity. Not the occasional volcanic eruption every few thousand or million years on an otherwise dead rock or iceball, as may be the case for Mars and the Moon. Volcanoes, and in Earth’s case, tectonic plates, are active more or less continuously here. In other words, the Earth itself, independently of its flowing liquid and atmospheric circulation, is alive. This is a distinction it appears to share with:
+Venus
+Io
+Europa
+Enceladus
+Titan
+and Triton.
+Venus is almost the same size as Earth, so it’s obvious why its volcanism and geology are still going strong.
+Io, Europa, and Enceladus, are all being pushed and pulled on by their parent planets, and resonances with other moons keep their orbits elliptical.
+Triton is a similar case, except it has no neighbour, but since its orbit is misaligned with Neptune’s spin, the latter tugs on it and creates tidal heating.
+But Titan?
+If the similar icy moon Ganymede is any indicator, it should have run out of heat from formation and radioisotopes and become a long-dead world by now, due to its relatively small size. But it clearly hasn’t.
+Like Triton, it is an outlier among the satellite system of its parent, but it is four times farther from Saturn than Triton is from Neptune (which admittedly is much less massive than Saturn). Unlike Triton, Titan’s spin axis is aligned with that of Saturn. And neither does it have any nearby moons with which it forms a resonance (besides puny Hyperion). Its current orbital eccentricity is only 0.02. For context, Mars has a much more eccentric orbit than that (0.09). None of these can produce Titan’s observed geological activity. So how exactly is it that Titan stayed ‘alive’ for 4.5 billion years on endogenous heat, when the larger Ganymede could not?
+Could anyone explain this?

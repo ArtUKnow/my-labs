@@ -1,0 +1,9 @@
+Estimating the mass of a globular cluster
+Here's the complete statement of the question:
+Estimate the mass of a globular cluster with the radius $R = 20\ pc$ and
+root mean square velocity of stars in the cluster is $3\ km/s$.
+This problem was asked in the IOAA 2009 (Theory exam).
+What I've tried/considered so far:
+The distribution of velocities could approximately follow the Maxwell-Boltzmann distribution similar to that followed by gases according to kinetic theory of gases. Hence, the average kinetic energy of the globular cluster can be written as: $$KE=\frac{1}{2}mv_{rms}^2$$
+where $m$ is the mass of the cluster.
+I don't know if this is correct or not. How do I proceed?

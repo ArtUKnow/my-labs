@@ -1,0 +1,11 @@
+PseudoTLE creation
+I am developing a script in python to obtain pseudo TLEs of a satellite, starting from its state vector.
+I have always used TLEs to propagate the satellite and predict its next pass over a ground station, for example, so this is the first time that I try to do the opposite, basically.
+I have discovered that a good way to proceed would be the following:
+Direct method: it starts with the keplerian elements in any frame (EME2000 should work well). You also will need the corresponding state vector X0, in the same frame.
+Then, if T (x) is a function to convert a state vector from the TEME frame to whichever frame you started from (say, EME2000), you can build the equation T (SGP4(M)) = X0, where M is your desired set of TLE elements.
+This equation can be solver iteratively, starting from a M0 you can easily build from the keplerian elements you started from. Of course, these elements can't be assumed to be the same as the TLE elements, but they should be close enough to get a convergence in a few iterations.
+FROM THIS ANSWER: How to generate TLE file?
+Still, it is unclear for me how to set up the equation and how I can converge to the final TLEs.
+Does someone has any tips, or can indicate me a good resource?
+Thank you.

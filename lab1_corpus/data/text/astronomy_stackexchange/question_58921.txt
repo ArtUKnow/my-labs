@@ -1,0 +1,11 @@
+How to convert the derivatives of position vectors in polar form to/from rectangular form
+If I am not mistaken, position vectors (celestial coordinates) in polar form (L longitude, B latitude, R distance) can be converted into rectangular form X,Y,Z and back as follows:
+Polar to rectangular
+$$X = R \cos B \cos L$$
+$$Y = R \cos B \sin L$$
+$$Z = R \sin B$$
+Rectangular to polar
+$$R = \sqrt{X ^ 2 + Y ^ 2 + Z ^ 2}$$
+$$L = atan2(Y, X)$$
+$$B = asin(Z ÷ R)$$
+I hope this is correct. I would now like to know how to convert the derivatives of these vectors between the two forms. That is, velocity in longitude, latitude and distance to/from velocity along the three axes.

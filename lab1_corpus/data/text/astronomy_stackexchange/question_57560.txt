@@ -1,0 +1,4 @@
+Why is the metallicity of dwarf galaxies low?
+The "Astronomy Picture of the Day" today sent me down a rabbit-hole. It had a picture of Leo I, with a note that it may have a supermassive black hole at the center, so I went to Wikipedia for a bit more info, and I came across this note:
+Typical to a dwarf galaxy, the metallicity of Leo I is very low, only one percent that of the Sun.
+It's a claim made without a source, and I can't find any additional info elsewhere, so what's different about dwarf galaxies? I would think that stellar evolution would have proceeded as it does in larger galaxies. Do more of the heavy elements expelled during nova events leave the galaxy?

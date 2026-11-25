@@ -1,0 +1,7 @@
+Where are the foci of Earth's orbit?
+The following is a figure from a textbook, it depicts the Earth's orbit in space.
+I added the red annotations for the sake of this question.
+I know that according Kepler/Newton the orbit is an ellipse and the Sun is at one focus (annotated here with S) but where is the other focus of the ellipse?
+I would have expected it to be at a position F; F is on the segment whose endpoints are the aphelion (annotated here with A) and perihelion (annotated with P); furthermore the distance between F and C (the center of the ellipse) must be equal to the distance between C and S. But, as you can see in the figure, the second focus is not on this segment.
+Is the figure wrong?
+If not, what am I missing?

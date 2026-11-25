@@ -1,0 +1,3 @@
+Why are RTGs so inefficient?
+I recently learned about how an n-type and p-type "sandwich" with different thermal properties can create a potential difference in the presence of a temperature gradient. The subsequent current can power basic electronics (in the dozens-hundreds of watts range), as long as a decent heat source exists such as a radioactive isotope in an RTG.
+Since this is fully solid-state, it seems preferable to other heat-to-electricity means from a maintenance POV. But why are they so inefficient compared to nuclear power plants that use turbines? What specific mechanisms yield an overall RTG inefficiency of 3-7% vs nuclear power plant efficiency of, say, 45%? What's the fundamental limitation on RTG efficiency?

@@ -1,0 +1,6 @@
+Was there an anomaly during SN8's ascent which later led to the crash?
+In SpaceX'S video, there is a conflagration inside the engine enclosure which seems irregular at around 1:49:49. The engine far left of the engine camera stops working and a few seconds later some plastic foil catches fire. Edit: As Damien correctly observed, that engine is restarted for the landing burn, so it is most likely not a failure, and certainly not a permanent one. Is this "conflagration" a side effect of a regular switching-off of the engine? Why would stuff burn inside the hull then?
+From then on we also see what appears to be a leak on the bottom of the ship. White clouds emerge on the right side in the total view resp. bottom left on the engine camera.
+Edit: The answers indicate that the engines were switched off intentionally. Is the "leak" some venting which becomes necessary for pressure relief after the fuel and oxygen flow from the tanks decreased?
+If not, a leak could be the root cause for the "low tank pressure" leading to the eventual crash landing.
+Was the flare and engine out intentional? Was the Starship supposed to fly (and land!) on two engines only after this point? Is the cloud normal?

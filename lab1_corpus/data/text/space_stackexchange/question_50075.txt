@@ -1,0 +1,4 @@
+How far will Curiosty be removed from Perseverance?
+I'd like to know the distance between the Curiosity rover on Mars (currently at Mount Sharp, I believe) and the landing site of the Perseverance rover (the Jezero crater). Is there an application or website like google maps that lets you calculate distances? Alternatively, where can I find a good map of the surface of Mars?
+So far I only found detail traverse maps and high resolution pictures of the surface, but that's not really what I'm looking for. The picture below is close, but it has no distance scale.
+I did a calculation based on the coordinates on Wikipedia (assuming a spherical planet as usual), which gives me 3584.12 km for the chord length and thus 1.1141576453620496...rad for the inner angle spanned by the two coordinates. This leads to a distance of 3776.44 km. I don't know if this is actually the distance between the two rovers...

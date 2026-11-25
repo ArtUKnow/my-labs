@@ -1,0 +1,3 @@
+Why did the Space Shuttle dump excess fuel from the external tank?
+In his recent video, Scott Manley mentions that after reaching orbit, the Space Shuttle would dump the excess fuel left in the External Tank before jettisoning it:
+Since the tank is expendable and burns in the atmosphere anyway, why was the fuel dumping procedure necessary? Couldn't they have just let it burn up with the rest of the tank on re-entry?

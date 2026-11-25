@@ -1,0 +1,8 @@
+Studies that identify the best frequencies for transmitting interstellar messages?
+We are searching for extraterrestrial communications from other solar systems, and some consider sending them as well. Are there studies attempting to identify which wavelengths are best suited for such transmissions and/or most likely to be used?
+These might include:
+Radio?
+Thermal Infrared?
+Near Infrared?
+Visible light?
+X rays?

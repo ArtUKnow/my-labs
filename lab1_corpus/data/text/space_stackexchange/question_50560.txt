@@ -1,0 +1,4 @@
+Starship: Maximum damage if hijacked and weaponised?
+Any sufficiently advanced space technology is indistinguishable from a weapon of mass destruction if misused.
+In the event that SpaceX lost control of a Starship to EvilHackers, what's the most damage they can do with it? Straight-up detonation in LEO, even if possible, likely wouldn't be that bad even for a fully refueled starship.
+If the other hand, a fully fueled starship hitting NYC or similar at 11km/s would probably have been fairly bad... but I'm having difficulty thinking of any particularly bad

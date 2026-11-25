@@ -1,0 +1,6 @@
+Topocentric ecliptic coordinates for Moon's nodes from JPL's Horizons
+I have been trying to get the ecliptic coordinates for the ascending and descending nodes of the Moon from any observation point on earth. I have used JPL Horizon's ephemeris for osculating elements
+Though it gives the longitude of mean ascending node of lunar orbit (OMEGA) but it is only generated with respect to a major body center which is either Earth's geocenter (station code:500) or 2300+ predefined sites, usually radar/radio sites.
+I tried specifying the coordinate centre with a lat-long but get the error: Osculating element tables must be body-centered.
+I am hoping there is a way within Horizons to get the node's ecliptic coordinates for any observation centre on Earth and not resort to spherical trigonometry to convert from the values obtained for major body centres. Can someone guide me to directly get this output from Horizons?
+Just FYI, I am able to get the ecliptic lat-long for all planets and the Moon from any observation site on earth using the Observer Table ephemeris, with a few custom table settings.

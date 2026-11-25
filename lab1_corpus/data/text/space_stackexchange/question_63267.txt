@@ -1,0 +1,3 @@
+6U , 12U Deployer / Dispenser, helpful criteria we might use for selection?
+as a member of a group of students that builds 6U and 12U Cubesats for different projects I am interested in knowing the average cost of a 6U and a 12U deployer.
+Also, beyond cost, what are some other major considerations or criteria we can use to compare deployers. For example, do deployers exist that can be used in several launchers or are they all launcher-specific?

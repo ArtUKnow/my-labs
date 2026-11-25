@@ -1,0 +1,2 @@
+How can Hubble's original data show that the universe is expanding?
+The diagram from Hubble's original data only goes from 0 to 2 Mpc (see here), and yet our Local Group is not supposed to be expanding and it is 1.5 Mpc in radius. How can the data show that the universe is expanding when it mostly just includes the Local Group?

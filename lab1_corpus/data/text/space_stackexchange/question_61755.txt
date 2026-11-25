@@ -1,0 +1,3 @@
+What use (if any) does the "empty focus" of an elliptical orbit have in orbital mechanics?
+The 2 bodies in a 2-body system orbit around their common barycenter, which is located at the common primary focus of both their orbits. The empty foci don't seem to have a job in celestial mechanics.
+I have heard the tidal bulge of a body in synchronous rotation points towards its "empty" focus (no reference). Do the empty foci have any other uses in celestial mechanics? Any "magical properties" like LaGrange Points or Wormhole portals?

@@ -1,0 +1,5 @@
+Could Falcon 9 push the second stage a little longer after MECO and before separation?
+When watching Starlink launches I noticed the MECO/stage separation usually occurs at about 2m30s with the speed of about 8000 km/h and altitude about 65 km. After the separation the first stage with its engines shut reaches apogee of altitude at about 130 km just with its inertia while still having about 7000 km/h at this point, and then it starts to descent.
+Couldn't that energy be used to push the second stage a little longer after shutting down the first stage engines, say from those 65 km of attitude by additional 35 seconds till reaching 100 km of altitude (when the booster still has 7500 km/h), and only then proceed with the separation and MVac ignition? I feel a lot of energy is wasted in the process.
+With the above values I'm referring to the following video:
+Thanks in advance.

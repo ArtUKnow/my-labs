@@ -1,0 +1,4 @@
+Reducing required length of a mass driver using loop?
+If you had a loop of electromagnets with an encapsulated payload inside vacuum tubes, how fast could you accelerate the capsule to before it reached some maximum velocity?
+What effect would scale have on the answer to that hypothetical?
+And would it be worthwhile to have such a loop as a first stage in a mass driver to reduce material and space requirements?

@@ -1,0 +1,18 @@
+Closed oxygen cycle methane-burning internal combustion engine for Titan rover/helicopter? Works like a battery together with RTG that won't freeze?
+@TildalWave's answer to Methane internal combustion engines for rovers on Mars and Moon. Feasibility? raises the possibility of using Titan's atmospheric methane for an energy source as long as you BYOO (bring your own oxygen).
+With the advent of the MOXIE demonstration on the Perseverance rover, it's shown that CO2 can be converted to carbon monoxide and oxygen, which could recover half of the oxygen after burning CH4 + 2O2 to CO2 + 2H2O.
+Suppose a Titan rover or helicopter used it's RTG for both electricity and as a heat source (as do Mars rovers Curiosity and Perseverance) and suppose to stay warm it used more heat than those on mars which thermodynamically must cut in to the amount of electricity available.
+The idea there is that for the helicopter at least the RTG would charge the batteries at night (when there's no light for driving or flying and no headlights) and use high current from the battery for a short flight during the day. Basically the flights are limited by the mass and energy storage density of the space battery chosen, and if it ever got too cold for some reason, or just plain wore out, flight would no longer be possible.
+If Curiosity had lights, could it drive or work in the evening?
+Instead, consider the highly competitive energy density of liquid methane (LNG) and LOX per unit mass compared to space-qualified batteries. Titan is darn cold, so LOX might be easy to maintain and methane could be captured and stored as ice.
+All you need to do (understatement) is capture the combustion products, separate out the CO2 and H2O and recover the oxygen via MOXIE-like processing of one and electrolysis conversion of the other.
+Question: Could a closed oxygen cycle methane-burning internal combustion engine for Titan rover/helicopter works like a battery together with RTG and have a much higher energy density for longer and/or more frequent power-delivery sessions than a traditional space battery? If so, what are the most challenging challenges to making this work? Are there additional benefits?
+note: Having a fuel and oxidizer can not only run an internal combustion engine for propulsion, it can power an electrical generator if you need higher instantaneous current than the RTG can generate, and the two could be fed to a fuel cell for direct conversion to electricity at any time!
+Are there fuel cells for methane + oxygen? Could there be?
+How might an internal combustion engine generate substantial external thrust?
+Methane internal combustion engines for rovers on Mars and Moon. Feasibility?
+Does the Dragonfly project (quadcopters on Titan) envision attached RTG's or would they be static and revisited for charging?
+Why aren't we sending quadcopters to mars?
+Why are planetary probe RTGs tilted at a jaunty angle?
+Flying on dense atmosphere planets & moons
+How can they be so sure that Dragonfly will "freeze to death" as opposed to simply (and eventually) running out of RTG power? (238Pu decay)

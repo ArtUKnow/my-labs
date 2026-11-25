@@ -1,0 +1,6 @@
+Would the magnetotail protect astronauts caught outside during a solar flare enough for their safety?
+If a solar flare occurred during a lunar mission (bearing in mind that in routine one-week lunar missions the astronauts are protected from solar radiation by Earth's magnetotail) would the magnetotail be enough to protect them from the high-energy protons (the most dangerous output of solar flares) during a moonwalk during full moon, to the point the moonwalk is safe for their health?
+The moon spends about six days each month inside Earth's magnetic tail, or "magnetotail." The Moon and the Magnetotail (https://www.nasa.gov/topics/moonmars/features/magnetotail_080416.html)
+The lunar nearside spends ~27% of its daytime in Earth’s magnetotail where the solar wind flux is reduced by as much as ~99% Formation of lunar surface water associated with high-energy electrons in Earth’s magnetotail - Nature Astronomy (https://www.nature.com/articles/s41550-023-02081-y)
+The most dangerous emissions from flares are energetic charged particles (primarily high-energy protons) and electromagnetic radiation (primarily x-rays).https://hesperia.gsfc.nasa.gov/sftheory/spaceweather.htm
+image source https://www.nature.com/articles/s41550-023-02081-y

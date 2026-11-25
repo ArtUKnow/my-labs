@@ -1,0 +1,3 @@
+Starship Test Flight 11 - Ship's final explosion reason
+For SpaceX Starship test flight 11, what might be the probable cause for the ship's final explosion after the seemingly successful and soft landing into the Indian ocean?
+I understand the ship wasn't planned to be recovered in first place. But I want to understand the possible mechanism and reason behind the explosion. Is that an RSD event (Rapid Scheduled Disassembly, activated self-destruct mechanism?) or just a side effect of residual propellant escape and ignition post-landing? I suppose it would've been beneficial to keep it intact and floating if it was possible.

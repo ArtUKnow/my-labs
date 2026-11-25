@@ -1,0 +1,3 @@
+Merging Shuttle and External Tank to reduce reentry heating
+The Space Shuttle needed a high-performance heat shield that caused much grief over it's operational life. Having a large surface area on a reentering vehicle reduces temperatures by causing the vehicle to slow at higher altitudes. The External Tank had much larger surface area than the Shuttle, while weighing only about a third.
+What if the LOX/LH2 tanks were located on the Orbiter instead of as a separate module? What would be the penalties for such a design? How much would this reduce ballistic coefficient, and thus temperatures? What material choices would this have opened up, and how much better would they have been?

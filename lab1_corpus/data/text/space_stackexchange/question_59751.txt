@@ -1,0 +1,7 @@
+How did the JWST take a selfie?
+During the alignment of JWST primary mirrors, this selfie was taken:
+(source: NASA)
+I think we're seeing here the primary mirrors, with the secondary in the center and the reflection of the support struts in the primary mirror, i.e. we're looking in the reverse direction of the normal light path.
+The NASA blog post (and also one from ESA) mentions:
+This “selfie” was created using a specialized pupil imaging lens inside of the NIRCam instrument that was designed to take images of the primary mirror segments instead of images of space. This configuration is not used during scientific operations and is used strictly for engineering and alignment purposes.
+How did this work? What was special about the lens in NIRCam that allowed this picture to be taken? Was it a dedicated lens or some special configuration of the standard components?

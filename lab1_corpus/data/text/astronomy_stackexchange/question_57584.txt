@@ -1,0 +1,14 @@
+Basics of Tracklet-less Heliocentric Orbit Recovery (THOR) - simple breakdown of how it works?
+The New York Times's April 30, 2024 Killer Asteroid Hunters Spot 27,500 Overlooked Space Rocks begins:
+With the help of Google Cloud, scientists churned through hundreds of thousands of images of the night sky to reveal that the solar system is filled with unseen objects.
+and includes the following:
+Historically, astronomers spotted new planets, asteroids, comets and Kuiper belt objects by photographing the same swath of sky multiple times during one night. The pattern of distant stars and galaxies remain unchanged. But objects that are much closer, within the solar system, move noticeably within a few hours.
+Multiple observations of a moving object, called a “tracklet,” sketch out its path, providing enough information to give astronomers a good idea of where to look on another night and pin down its orbit.
+Other astronomical observations inevitably include asteroids, but only at a single time and place, not the multiple observations needed to assemble a tracklet.
+The 412,000 images in the digital archives of the National Optical-Infrared Astronomy Research Laboratory, or NOIRLab, contain some 1.7 billion dots of light that appear in a just a single image.
+The algorithm used in the current research, known as Tracklet-less Heliocentric Orbit Recovery, or THOR, is able to connect a dot of light seen in one image with a different dot of light in a different image taken on a different night — sometimes by a different telescope — and figure out that these two dots are actually the same object, usually an asteroid that has shifted positions as it orbits the sun.
+THOR’s identification of asteroid candidates across disparate images is a daunting computational task, one that would have been impossible not too long ago. But Google Cloud, a distributed computing system, was able to perform the calculations in about five weeks.
+I've found Moyens et al. (2021) THOR: An Algorithm for Cadence-Independent Asteroid Discovery who's abstract contains:
+By sparsely covering regions of interest in the phase space with "test orbits", transforming nearby observations over a few nights into the co-rotating frame of the test orbit at each epoch, and then performing a generalized Hough transform on the transformed detections followed by orbit determination (OD) filtering, candidate clusters of observations belonging to the same objects can be recovered at moderate computational cost and little to no constraints on cadence.
+Here, and in the paper I see 3D Hough transforms and "phase space gridding", but I still can't wrap my mind around how this actually works.
+Question: What are the basics of Tracklet-less Heliocentric Orbit Recovery (THOR)? What would be a simple breakdown of how it works?

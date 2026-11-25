@@ -1,0 +1,3 @@
+Does NASA use UTC for all their missions?
+During Apollo 11 launch they said "Liftoff, we have a liftoff, 32 minutes past the hour", which is 01:32 p. m. or 13:32. This is UTC time, because Apollo 11 happened at 08:32 EST.
+The question is: does NASA use UTC for other missions, or was Apollo program an exception?

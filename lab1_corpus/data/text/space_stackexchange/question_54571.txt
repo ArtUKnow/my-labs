@@ -1,0 +1,9 @@
+What "unique control system" modulated GOCE's thrust to compensate for variable atmospheric drag? How did it know how to modulate it?
+This answer to How much time did the longest maneuver last? says:
+The GOCE satellite mission (Gravity Field and Steady-State Ocean Circulation Explorer) lasted 55 months (4.6 years) of largely continuous thrust as drag compensation in LEO.
+and
+The thrust level was modulated via a unique dynamic control system to compensate for variable atmospheric drag.
+Wikipedia's GOCE says:
+The satellite's main payload was the Electrostatic Gravity Gradiometer (EGG) to measure the gravity field of Earth. This instrument consisted of three pairs of capacitive accelerometers arranged in three dimensions that responded to tiny variations in the 'gravitational tug' of the Earth as it traveled along its orbital path. Because of their different position in the gravitational field they all experienced the gravitational acceleration of the Earth slightly differently. The three axes of the gradiometer allowed the simultaneous measurement of the five independent components of the gravity gradient tensor.
+The ion engine's generally steady but slowly variable thrust's ability to null/compensate for acceleration due to atmospheric drag was a critical aspect of the mission.
+Question: What "unique control system" modulated GOCE's thrust to compensate for variable atmospheric drag? How did it know how to modulate it?

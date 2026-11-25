@@ -1,0 +1,4 @@
+Proportion of Lunar Fraction in a Year
+I grabbed a year of lunar fraction data from the USNO and binned the counts to find the shape of the curve as below
+My understanding of lunar fraction was that 0.5 does not distinguish between the direction as it is a cycle from 0 (new moon) to 1 (full moon) then back to 0 (new moon). And therefore I assumed that 0.5 would have more counts than 0 or 1 like this
+I trust the data and counts plot to be true but I cannot see what I am misunderstanding that would lead to this shape. Can anyone more knowledgeable than myself see my misunderstanding and/or explain the lunar fraction to me better?

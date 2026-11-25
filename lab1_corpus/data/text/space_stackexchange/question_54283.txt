@@ -1,0 +1,4 @@
+Which are the current Near-Earth comets that have the closest approach to Venus?
+A comment from @planetmaker to this question gives this link to the Minor Planet Centre (MPC) to find a list with Near-Earth comets.
+Here's the list with orbits for current comets on that site, but I don't know what all those numbers mean, I don't see an explanation where they stand for.
+How can I select the comets from this list that could come into close approach with Venus?

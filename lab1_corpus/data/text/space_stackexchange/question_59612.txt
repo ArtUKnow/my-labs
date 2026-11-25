@@ -1,0 +1,6 @@
+Rover wheel placement
+Why are the center wheels of the Curiosity rover not in line with the chassis?
+I understand when turning, one side is in line with an arc it will make. Would the other side's wheels not be on the same arc?
+For example, if we assume the rover will drive clockwise, the top right wheel will face inward the top left will face outward and the top center will be perpendicular to the radius of the turn length. The top wheels will be in the path of the arc.
+The bottom wheels however from what i understand will not be in the path of the arc.
+Hope someone can clarify why they did this. TIA

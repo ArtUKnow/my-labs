@@ -1,0 +1,6 @@
+Does Falcon 9 perform static fires before every launch?
+Before launching every Falcon 9 rocket, is SpaceX performing a Wet Dress Rehearshal (WDR) and a static fire?
+If not before every launch then is it doing it before every first launch of a new booster?
+Same question for the second stage.
+Related question:
+What work needs to be done before reusing Falcon 9?

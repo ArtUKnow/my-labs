@@ -1,0 +1,5 @@
+Do Bernoulli grippers work in a vacuum?
+This may be an all-time stupid question, but do Bernoulli grippers work in a vacuum? It’s pretty obvious suction cups won’t work.
+Bernoulli grippers use compressed air to create a suction cup-like effect without actually touching the object they hold. They are widely uses in the electronics industry for manipulating delicate objects (such as silicon wafers) without touching or contaminating them. In theory, they could pick up up a JWST mirror by the optical side without actually touching it. https://en.wikipedia.org/wiki/Bernoulli_grip
+If they did work in a vacuum, they would be useful for grappling and positioning during EVA.
+Intuition tells me they shouldn’t work in a vacuum, but intuition also tells me they shouldn’t work at all.

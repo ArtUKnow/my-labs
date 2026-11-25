@@ -1,8 +1,0 @@
-ISO 3166-2
-ISO 3166-2 is part of the ISO 3166 standard. It was made by the International Organization for Standardization. For each country listed in ISO 3166-1, ISO 3166-2 defines its provinces with two or three letter codes, or numbers.
-Current codes
-Below is a full table of the ISO 3166-2 codes for each country, with three columns:
-Entry — ISO 3166-2 entry for the country, indexed by its ISO 3166-1 alpha-2 code
-Country name — English short country name used by the ISO 3166 Maintenance Agency (ISO 3166/MA)
-Subdivisions assigned codes — Subdivisions currently given codes in ISO 3166-2; if there are more than one level of subdivisions, the first-level subdivisions are shown in italics
-References

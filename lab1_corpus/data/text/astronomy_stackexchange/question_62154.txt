@@ -1,0 +1,24 @@
+How is numerical precision/accuracy determined when converting RA/Dec in sexagesimal format to decimal degrees for angular separation calculations?
+Problem
+I'm trying to complete an assignment for my astronomy course, but I'm having trouble understanding how accuracy is determined when converting equatorial coordinates in sexagesimal format to degrees. The problem text is below:
+Two stars have the following equatorial coordinates:
+$(\alpha,\delta)_1=(12:30:00,+14:30:00)$ and $(\alpha,\delta)_2=(17:30:00,+54:00:00)$.
+Use the formula in Appendix D3 to calculate the wide-field angular separation $\theta_{1,2}$ between these two stars in decimal degrees with appropriate accuracy. Compare your answer to the separation in degrees you would expect if the coordinates were on a flat, Euclidean surface rather than the curved celestial sphere surface.
+I was able to do the conversion and the calculation with the following results:
+Spherical calculation: $\theta_{1,2}=69.52210417º$
+Flat Euclidean calculation: $\theta_{flat}=84.76585397º$
+However, my professor also wants us to round the answers using proper accuracy or "significant figures." Generally, I know how to use sig figs for normal number systems, but I'm super confused about how it works when starting from a sexagesimal format.
+Professor's Example
+When my professor was doing an example conversion in class, we had RA: 05h 15min 45.7s and Dec: -08:10:26.4.
+For RA, we got the conversion:
+$$
+\left( 5\text{h}*\frac{15º}{1\text{h}}\right) + \left( 15\text{min} * \frac{1\text{h}}{60\text{min}} * \frac{15º}{1\text{h}} \right) + \left( 45.7\text{s} * \frac{1\text{h}}{3600\text{s}} * \frac{15º}{1\text{h}} \right) = 78.9404º
+$$
+Then, for the rounding, he said that 45.7s --> 0.190º (from our conversion of secs-->deg, which gave us 0.190416667º), so our final answer (with accuracy) was RA = 78.940º.
+For Dec, we got the conversion:
+$$
+-\left[ 8º + \left( 10' * \frac{1º}{60'} \right) + \left( 26.4'' * \frac{1º}{3600''} \right) \right] = -8.17433º
+$$
+Then, for the rounding, he said that 26.4'' --> 0.00733º (from our conversion of arcsecs-->deg, which gave us 0.007333333º), so our final answer (with accuracy) was Dec = -8.17433º.
+Summary
+All that being said, I'm super confused about how he got the "proper accuracy" in his example and how that would translate to the problem that I'm trying to complete. I know it has something to do with the smallest measure of precision, but when all the coordinates are 0, then how would you know what precision to use, and what precision should my answer be in?

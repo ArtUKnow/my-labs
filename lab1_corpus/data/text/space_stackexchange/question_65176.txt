@@ -1,0 +1,5 @@
+Starlink Dishy parameters and satellite recognition
+I have two questions:
+What are the antenna parameters of Starlink dish antennas (like antenna gain, directivity, etc)?
+Is there any way for me to know which satellite my Starlink dish is communicating with moment-to-moment?
+Thank you for your help. Here I provide some information that may make it more clear why I need this information. I am trying to come up with a calculation scheme for the bitrate of satellite uplinks. While the calculation of such a scheme is well documented in many sources, I have a problem with validating my results and simulations with actual constellations. I appreciate it if you could suggest anything for this.

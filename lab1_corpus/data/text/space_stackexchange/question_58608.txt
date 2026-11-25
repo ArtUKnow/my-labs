@@ -1,0 +1,2 @@
+Could Falcon 9 be Caught by the Orbital Launch Tower?
+Would it be possible to catch Falcon 9 with the orbital launch tower by its current grid fins or load points that could be added? If they can do this and then remove the landing legs, would mass reduction be enough to offset the added mass of the boostback burn for RTLS?

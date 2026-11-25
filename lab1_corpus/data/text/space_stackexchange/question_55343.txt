@@ -1,0 +1,8 @@
+What is the rationale behind NORAD's use of TEME?
+The most popular catalog of Earth-orbiting objects is NORAD’s. The catalog provides the so-called « two-line elements » (TLE) which essentially are computed orbital parameters of a catalogued object, for a given epoch. In turn, the parameters can be used to predict the position of said object at other instants not too remote from the epoch at which the TLE were computed.
+One of the most puzzling aspects of NORAD’s approach is their choice of an Earth-centered inertial (ECI) reference frame called TEME, for « True Equator, Mean Equinox ». After trying to understand what it means, and realizing how complicated/sophisticated it is, I would like to address the question of the « why ? ».
+This question can be decomposed into :
+What was NORAD’s rationale?
+What were the alternatives for NORAD at the time ?
+Was/is NORAD the only organization using TEME?
+Is it justified to keep using it ?

@@ -1,0 +1,4 @@
+Solenoid delay when deactivating cold gas thrusters?
+Cold gas thrusters fire only after a short delay due to solenoid activation dynamics. The delay depends on the thrusters but I've seen numbers ~ 5 ms.
+What I'm wondering: Is there a similar delay when deactivating the thrusters? It seems reasonable that a solenoid delay would affect both the activation and the deactivation of a thruster, but I don't know for sure---and I really don't want to take a blind guess.
+Thanks!

@@ -1,0 +1,54 @@
+How to use the data type given in .LBL file correctly in python?
+I am trying to make a plot of radiance from a raw data file of DAWN VIR data (.LBL and .QUB files used). But for some reason I am unable to do so. The plot doesn't make sense. I am unable to find where is the error. Can someone help?
+import pvl
+import numpy as np
+import matplotlib.pyplot as plt
+import sys
+%matplotlib inline
+lbl_file = "Datas/DWNCHVIR_V1A-170324/DWNCHVIR_V1A/DATA/20150816_HAMO/20150818_CYCLE1/VIR_VIS_1A_1_493300377_1.LBL"
+qub_file = "Datas/DWNCHVIR_V1A-170324/DWNCHVIR_V1A/DATA/20150816_HAMO/20150818_CYCLE1/VIR_VIS_1A_1_493300377_1.QUB"
+def load_lbl(lbl_file):
+with open(lbl_file, 'r') as f:
+return pvl.load(f)
+lbl_data = load_lbl(lbl_file)
+wvlen_center = np.array(lbl_data["QUBE"]["BAND_BIN"]["BAND_BIN_CENTER"])#micrometers
+wvlen_width = np.array(lbl_data["QUBE"]["BAND_BIN"]["BAND_BIN_WIDTH"])
+wvlen_band_val = np.array(lbl_data["QUBE"]["BAND_BIN"]["BAND_BIN_ORIGINAL_BAND"])
+bands_count, samples, lines = lbl_data["QUBE"]["CORE_ITEMS"]
+core_item_bytes = lbl_data["QUBE"]["CORE_ITEM_BYTES"]
+core_item_type = lbl_data["QUBE"]["CORE_ITEM_TYPE"]
+core_base = lbl_data["QUBE"].get("CORE_BASE", 0.0)#The number are default values
+core_multiplier = lbl_data["QUBE"].get("CORE_MULTIPLIER", 1.0)
+core_null = lbl_data["QUBE"].get("CORE_NULL", -32768)
+core_low_saturation = lbl_data["QUBE"].get("CORE_LOW_REPR_SATURATION", -32767)
+core_high_saturation = lbl_data["QUBE"].get("CORE_HIGH_REPR_SATURATION", -32767)
+dtype_map = {
+(2, "MSB_INTEGER"): ">i2",
+(2, "LSB_INTEGER"): "<i2",
+(4, "MSB_INTEGER"): ">i4",
+(4, "LSB_INTEGER"): "<i4",
+}
+dtype = dtype_map.get((core_item_bytes, core_item_type))
+if dtype is None:
+raise ValueError(f"Unsupported dtype {core_item_bytes} {core_item_type}")
+with open(qub_file, "rb") as f:
+cube_array = np.fromfile(f, dtype=dtype)
+if dtype.startswith(">") and sys.byteorder == "little":
+cube_array = cube_array.byteswap().view(cube_array.dtype.newbyteorder())
+cube_array = cube_array.reshape((bands_count, samples, lines)).astype(np.float32)
+# print(cube_array[:6])
+cube_array[cube_array == core_null] = np.nan
+cube_array[cube_array == core_low_saturation] = np.nan
+cube_array[cube_array == core_high_saturation] = np.nan
+cube_array = cube_array * core_multiplier + core_base
+x_pixel, y_pixel = samples // 2, lines // 2
+dn_values = cube_array[:, x_pixel, y_pixel]
+plt.figure(figsize=(8, 5))
+plt.plot(wvlen_center * 1000, dn_values, marker='o', linestyle='-', color='b', markersize=4)
+plt.xlabel("Wavelength (nm)")
+plt.ylabel("Data Number (DN)")
+plt.title(f"Spectral Profile at Pixel ({x_pixel}, {y_pixel})")
+plt.grid(True)
+plt.show()
+The output is
+Here is the link to data files along with jupyter notebook: https://drive.google.com/drive/folders/1F8tKUnV0k7r0Pq2y4tMB4haKn4dSktIr?usp=sharing

@@ -1,0 +1,3 @@
+Where can I find orientation of space probes as a function of time?
+Ephemerides for many space probes can be obtained from JPL Horizons using their API or their web app. But this only includes data on positions of the probes, velocities etc., but not their orientation in space. Any orientation-related data items like e.g. "17. North Pole position angle & distance" just yield "n.a." instead of useful data.
+Is there any source that I can query to get the orientation or the probe I'm interested in as a function of time?

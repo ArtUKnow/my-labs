@@ -1,0 +1,5 @@
+Have any fluids been vented directly from a rocket on a launchpad, instead of through an umbilical?
+Rockets on the launchpad often need to release liquids or gases before launch. For example, cryogenic liquids boil off; the vapors need to be released to prevent tanks from bursting. It seems that such fluids are typically removed from the rocket through an umbilical. For the shuttle, boiled-off oxygen was removed at the "beanie cap", and boiled-off hydrogen came out through the hydrogen vent arm.
+Are there any examples where fluids were released from a rocket directly to the air or surroundings, instead of through an umbilical?
+The question is about rockets on the launchpad. Rocket exhaust and urine dumps in space might technically be direct releases of fluids, but such things are not the scope of this question.
+(I suspect that releasing cryogenic vapors would caused undesired condensation and icing on the rocket, but releases of other fluids seem plausible.)

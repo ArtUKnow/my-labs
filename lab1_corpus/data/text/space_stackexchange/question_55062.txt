@@ -1,0 +1,10 @@
+Apparent close encounter of Inspiration4: Is the airspace cleared for returning spacecraft?
+In the recording of the SpaceX live-stream covering the return of the Inspiration4 crew one can see an aircraft cross path with the capsule at 22:59:58. This image is a frame grab of the scene seen from a surveillance aircraft:
+(The situation is laid out in the image below with data from flightradar24 and my own conjectures.) The video sequence looks somewhat surprising and scary. I have two questions:
+What was the likely vertical distance of the two crafts?
+The coast guard establishes a perimeter to "discourage" boats from entering the splash-down zone. Is there a similar exclusion zone for aircraft? If yes, was it violated in this instance or was it clear that the distance between the two crafts would not fall below the safety limits under any circumstances? Or is the calculated collision risk simply too small to warrant commercial flight detours?
+I asked a related aircraft identification question over at aviation which, I hope, is sufficiently distinct.
+Edit: With hints from users in aviation I was able to come up with a scenario that aligns with the available information. Here is an image summing it up. It is possible that Dragon came in from a somewhat more southerly direction but that wouldn't change much.
+I find two points in this scenario interesting:
+The descent path appears to cross Florida in its last minutes, while the projected path in the video shows an approach over Cuba which is less densely populated and, cynics might add, where there is less property to damage. Was the descent over Florida planned?
+The FedEx plane that is likely the one we see passing the line of sight in the video was in a location before the visual pass that would be crossed by Dragon just a few minutes later (where the arrow and the FedEx flight path intersect). Even the altitude of 30,000 feet may be close. Was that an oversight?

@@ -1,0 +1,14 @@
+GMAT: How to do a Hohmann transfer from a larger orbit to a smaller orbit
+I've figured out how to do a Hohmann transfer to a larger orbit but can't seem to figure out how to do one back to a smaller orbit (e.g. GEO to random smaller orbit). Any advice would be amazing, thanks!
+edit: New to GMAT and trying to do it in GMAT
+BeginMissionSequence;
+Propagate 'Prop to peri' DefaultProp(Sat1) {Sat1.Earth.Periapsis, OrbitColor = [255 0 0]};
+Target 'Reverse Hohmann' DefaultDC {SolveMode = Solve, ExitMode = DiscardAndContinue, ShowProgressWindow = true};
+Vary 'Vary TOI' DefaultDC(TOI.Element1 = 1, {Perturbation = 0.0001, Lower = -10, Upper = 10, MaxStep = 0.002, AdditiveScaleFactor = 0.0, MultiplicativeScaleFactor = 1.0});
+Maneuver 'Perform TOI' TOI(Sat1);
+Propagate 'Prop to apo' DefaultProp(Sat1) {Sat1.Earth.Apoapsis, OrbitColor = [77 77 242]};
+Achieve 'Achieve RMAG = 7228' DefaultDC(Sat1.Earth.RMAG = 7178, {Tolerance = 0.1});
+Vary 'Vary GOI' DefaultDC(GOI.Element1 = 1, {Perturbation = 0.0001, Lower = -10, Upper = 10, MaxStep = 0.002, AdditiveScaleFactor = 0.0, MultiplicativeScaleFactor = 1.0});
+Maneuver 'Perform GOI' GOI(Sat1);
+Achieve 'Achieve ECC = 0.003471' DefaultDC(Sat1.Earth.ECC = 0.003471, {Tolerance = 0.000001});
+EndTarget; % For targeter DefaultDC

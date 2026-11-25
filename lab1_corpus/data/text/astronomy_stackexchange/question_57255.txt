@@ -1,0 +1,3 @@
+Delta T used by US Naval Observatory
+I'm trying to compare some eclipse calculations to that by the U.S. Naval Observatory, specifically, these results. One thing I just don't understand is how they come up with a Delta T of 72.8s. Shouldn't it be more like 37s + 32.184s = 69.182s these days, including both leap seconds and TT-TAI offset. Is this Delta T on the website something different or am I missing something?
+Edit: Thank to everyone's help, this got sorted out (see below). I can now predict eclipses down to 1s accuracy. Yay!

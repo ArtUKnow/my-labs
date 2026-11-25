@@ -1,0 +1,9 @@
+GPS: "...to provide the same accuracy to civilians that was afforded to the military."
+Global Positioning System in Wikipedia states:
+This changed on May 1, 2000, with U.S. President Bill Clinton signing a policy directive to turn off Selective Availability to provide the same accuracy to civilians that was afforded to the military.
+Isn't that statement wrong?
+As far as I know there are two different signals:
+One for civilians (C/A code), and one for military (P code) with higher accuracy.
+In addition the SA (selective availability) added a random kind of positioning error to the civil signal, and only the latter was stopped.
+I thought the civil accuracy with SA was like 50 meters, while without SA it is like 10 (16?) meters, and the military accuracy was rumored to be about 2 (6?) meters.
+Is that right?

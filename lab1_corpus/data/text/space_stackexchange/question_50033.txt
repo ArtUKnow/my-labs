@@ -1,0 +1,7 @@
+What are ISS orbit's sudden falls?
+In current (2021) graph from heavens above (https://www.heavens-above.com/IssHeight.aspx) there are sudden falls - more than 1km in many cases and then after other sudden changes, the graphs return on path of previous almost smooth decay:
+For example in the middle of April 2020, middle of July and beginning of October 2020.
+Those are not present in older ISS height graphs, for example:
+I understand what sudden jumps up are (engine boosts), and what "slow" falling is (orbit decay).
+What I don't understand are those sudden falls of 1-2km in less than one day apparently.
+What are those?

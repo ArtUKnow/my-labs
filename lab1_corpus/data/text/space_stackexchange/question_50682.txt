@@ -1,0 +1,3 @@
+Sending Mars rover to the Moon
+What would happen if a Mars rover (let it be Sojourner, Spirit, Opportunity, Curiosity or Perseverance) would be sent to the Moon instead of the Mars? Let's not deal with the landing and let's assume the rover has just landed safely and has its wheels on the ground. How good or bad would it be doing? Which systems would behave correctly and which would fail and thus need a redesign? How long would the rover approximately last?
+Looks like the first candidate for failure would probably be the thermal control since Moon and Mars have different temperature profiles. I also guess rovers with RTG may survive lunar night easier since they could heat themselves even in the darkness.

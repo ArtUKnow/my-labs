@@ -1,0 +1,8 @@
+Launch escape trajectory
+Say a fault triggers the launch escape system and the crew vehicle fires away.
+What trajectory would the LES controller follow?
+Keep minimal angle of attack to minimize aerodynamic loads (e.g., in the max-q region)?
+Hold the current attitude whatever it might be when the LES is triggered until it shuts down?
+Pitch down or yaw left/right to minimize the chance of collision with the rocket trailing behind?
+Honestly not sure what the risk of colliding with the rocket would be. I imagine it would be small if it is malfunctioning, especially since it seems the main engines are programmed to shut down in emergencies?
+But still, the LES controller would need some attitude program to follow, even if it's just holding attitude, which would not be assured if separation somehow imparted a large rotation to the crew vehicle.

@@ -1,0 +1,5 @@
+Why didn't NASA have cameras monitoring the re-entry of STS-107 Columbia?
+I was recently rewatching the mission control footage from the re-entry of Space Shuttle Columbia during STS-107:
+At the 12 minute mark in the recording, you can see the flight director Phil Engelauf receiving a call from off-duty flight director Bryan Austin, who was watching news coverage showing the break-up of Columbia according to this report: https://www.americaspace.com/2020/02/01/lock-the-doors-remembering-columbias-final-homecoming-otd-in-2003/.
+It surprised me that NASA did not have their own cameras visually tracking the re-entry of the shuttle and feeding that live to the mission control team. Why didn't they do this?
+I thought maybe: expense, or it didn't provide enough useful information, or re-entry was considered more routine and thus less need for visual monitoring or recording as compared to launch?

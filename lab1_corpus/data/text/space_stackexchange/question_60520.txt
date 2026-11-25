@@ -1,0 +1,8 @@
+Developing intuition about altitude and velocity in multi stage rockets
+I just started learning some basics of rocketry and am struggling to understand the outcomes of a simulator I’m programming. All other things being equal, when I attempt to simulate the altitude over time of a single stage rocket with the below attributes, its peak altitude is only a tiny bit less (~97.5%) than if that rocket were segmented into two stages (also below). Note, both instances have the same total dry mass and fuel mass.
+Multi stage :
+First stage : ISP = 282s, dry mass = 22226kg, diameter = 3.66m, constant thrust = 7600000N, fuel mass = 522629kg, thrust angle = 5 degrees
+Second stage : ISP = 348s, dry mass = 4000kg, diameter = 1.7m, constant thrust = 934000N, fuel mass = 58069kg, thrust angle = 5 degrees
+Single stage:
+First stage : ISP = 282s, dry mass = 26226kg, diameter = 3.66m, constant thrust = 7600000N, fuel mass = 580698kg, thrust angle = 5 degrees
+Is this a reasonable outcome or is my code possibly bugged? I was under the impression multi staging led to significantly greater delta V, and thus max altitude (in this simulation's case) gains. Also, if the entirety of the second stage’s mass were treated as just additional dry mass for the single stage instance, the peak altitude it achieves is nearly identical to the peak altitude of the first stage in the two stage instance. This seems intuitive. But the tiny total performance gain of multi staging over single staging doesn’t for me. If the simulation is wrong, what sort of gains should be expected in a case like this?

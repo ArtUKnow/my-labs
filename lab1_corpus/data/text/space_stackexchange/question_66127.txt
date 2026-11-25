@@ -1,0 +1,5 @@
+Did the ISS CREAM experiment actually get relocated?
+A recent update (May 22) to the database for the NASA visualization tool DOUG shows that the CREAM payload has been relocated to the top of the Japanese Experiment Logistics Module - Pressurized Section (ELM-PS) from its prior home on the Exposed Facility (EF).
+As of January 2022 CREAM was still mounted on the EF as shown in the graphic from this answer What are all these packages attached to a side module of the ISS? How did they all get there?
+Now, CREAM has been a total fiasco so I'm not surprised that nothing has been in the news about this...but I can't find anything to confirm that the payload has actually been relocated. The DOUG database usually is not predictive, but is good about tracking actual changes to the ISS config. Maybe in this case they jumped the gun?
+My question is: Did CREAM get relocated? And if so, when?

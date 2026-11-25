@@ -1,0 +1,2 @@
+Lyman-$α$ limit on axion-like cold dark matter
+Using low redshift data on astrophysical reionization, we report new Lyman-$α$ limit on axion-like particle (ALP) as cold dark matter in ALP mass range of $m_{a}\sim 30-1000$ eV. Compared to the Leo T and soft-X ray bound, this limit is so far the most stringent in the ALP mass range of $m_{a}\sim 375-425$ eV and complementary in the ALP mass range otherwise. Combing these limits, we show new exclusion limits on $m_a$ for the ALP DM from either misalignment or freeze-in mechanism.

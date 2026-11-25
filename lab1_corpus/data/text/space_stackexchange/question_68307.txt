@@ -1,0 +1,14 @@
+Is there one critical size to impact Earth at terminal velocity from low Earth orbit?
+Assuming many spherical solids of varying diameter in circular very low Earth orbit (doomed to deorbit soon), all made out of similar homogeneous material that withstands atmospheric entry heating, hypothetical density 1g/cm3.
+Only varying parameter between those spheres being their diameter.
+All of them will impact Earth at sea level.
+What's the critical / limit diameter above which terminal velocity won't be reached before impact?
+(for instance one 10cm diameter sphere will already be at its terminal velocity at relatively high altitude, way before impact, while one 1km sphere might impact before having slowed down to its terminal velocity)
+Edit: Maybe another way to ask is, given initial conditions above, what's the minimal sphere diameter so that it impacts at an angle smaller than 90°? (assuming no wind)
+Edit2: question is motivated by upcoming Kosmos 482 descent craft, that
+conveniently looks like a real world spherical cow in the sense that it might not ablate nor be affected by anything else* than drag opposite to trajectory.
+And coming across this blog: SatTrackCam Leiden (b)log / Kosmos 482 Descent Craft reentry forecasts [PERIODICALLY UPDATED]
+There can be found a diagram of velocity deceleration during reentry,
+modelled using a tool TUDAT that I've no clue how to use and tweak value for that particular question's purpose, but that predicts an impact velocity of 65/70m/s.
+And that online terminal velocity general equation gives one more than twice too fast value of ~150m/s.
+*unless it spins and Magnus its way out of drag-only trajectory

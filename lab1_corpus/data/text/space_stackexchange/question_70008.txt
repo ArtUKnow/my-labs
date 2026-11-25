@@ -1,0 +1,2 @@
+Is it realistic to launch a satellite/spaceship at an angle of 0º relative to the ecliptic for interplanetary transfers?
+It just occured to me that if you had an orbit at 0º relative to the ecliptic (which would be somewhere around 23.4º relative to Earth's axis) interplanetary transfers would be much easier because you wouldn't have to account for Earth's axial tilt. Is this realistic, and have any actual missions used this?

@@ -1,0 +1,2 @@
+What are some commonly-used onboard database solutions for spacecraft telemetry and key-value storage?
+Many spacecraft attempt to store historical telemetry and have a central storage area for configuration information. I was wondering what database solutions - tabular or key-value - have been used for this. NASA has the DS (Data Store) app, but I'm asking about "proper" databases.

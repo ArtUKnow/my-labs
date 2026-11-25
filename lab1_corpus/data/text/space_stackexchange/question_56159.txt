@@ -1,0 +1,291 @@
+GMAT B-plane Transfer to Mercury
+I have been fighting with GMAT for about 3 days now trying to get this transfer to converge so literally ANY assistance and advice would be greatly appreciated.
+I need to do a direct hohmann like transfer to Mercury From Earth and start a stable orbit. I will have no issue getting the orbit sorted, my issue is getting the spacecraft there in the first place.
+The first thing that I did was work backwards. I created the stable orbit around Mercury and used the command summary to find the necessary BdotR and BdotT values that I need to target, show below. I made the decision to keep them in the EarthMJ2000 coordinate system so everything is the the same coordinate system. (GMAT made this decision for me as no such Bdot value existed in a local coordinate system).
+Planetodetic Properties Hyperbolic Parameters
+--------------------------- --------------------------------
+LST = 272.33007765279 deg BdotT = 192632036.55101 km
+MHA = 330.46529832878 deg BdotR = 86662919.118010 km
+Latitude = -24.429778047293 deg B Vector Angle = 24.222427766639 deg
+Longitude = -58.135220675988 deg B Vector Mag = 211228698.46649 km
+Altitude = 211848912.68270 km DLA = -4.2044909592044 deg
+RLA = -0.6068939872253 deg
+Then I have been using the following script to try and intercept Mercury.I then proceeded to modify the GMAT B-plane targeting to Mars for use with Mercury. This include wiping any trace of Mars and MAVEN from the code, replacing it with the necessary Mercury bits and bobs. I have only one modification I must put in, the vessel needs to have a mass 2700 kg. No issue.
+The following is the maths I did to find the predicted values necessary for this to work in order to compare when all is said and done:
+Earth:
+$$v_1^e=\sqrt{2\mu_s}\sqrt{\frac{r_2}{r_1(r_1+r_2)}}=22.29km/s$$
+$$\Delta v_1^e=\sqrt{\frac{\mu_s}{r_1}}\sqrt{\frac{2r_2}{r_1+r_2}}-1=-7.532km/s$$
+Mercury:
+$$v_2^m=\sqrt{2\mu_s}\sqrt{\frac{r_1}{r_2(r_1+r_2)}}=57.49km/s$$
+$$\Delta v_2^m=\sqrt{\frac{\mu_s}{r_2}}\sqrt{1-\frac{2r_1}{r_1+r_2}}=-9.61km/s$$
+SMA of transfer:
+$$a_h=\frac{r_1+r_2}{2}=0.69355AU$$
+Time taken to transfer orbits:
+$$t_h=\frac{1}{2}\sqrt{\frac{4\pi^2*a+h^3}{\mu_s}}=119.167 days$$
+Now, I have racked my brain and changed every variable I can think of, the trajectory ALWAYS goes towards the outer solar system as shown in the image below. ALWAYS. I am aware that that means that I have gone drastically wrong somewhere but I just cannot see it.
+I know that for this to work the vessel must do a negative burn to slow down upon leaving Earth in order to make its way sunward, and again to reduce its velocity on approach to Mercury. Even making all vary commands on the work with negative numbers it will still increase its velocity.
+I am completely at a loss. If anyone can spare the time to run the code an see if you can find any errors I would be eternally greatful. The only thing that I am aware is wrong it that I have no gravity model for Mercury as GMAT doesn't have one and I have searched the internet for one. I believe it is called HcGOO2, but a means of getting my hands on it has proven impossible.
+Many thanks.
+%----------------------------------------
+%---------- Spacecraft
+%----------------------------------------
+Create Spacecraft DefaultSC;
+GMAT DefaultSC.DateFormat = UTCGregorian;
+GMAT DefaultSC.Epoch = '25 Oct 2015 20:26:24.315';
+GMAT DefaultSC.CoordinateSystem = EarthMJ2000Eq;
+GMAT DefaultSC.DisplayStateType = Keplerian;
+GMAT DefaultSC.SMA = -42165.00000000002;
+GMAT DefaultSC.ECC = 1.206;
+GMAT DefaultSC.INC = 7.000000000000076;
+GMAT DefaultSC.RAAN = 0;
+GMAT DefaultSC.AOP = 0;
+GMAT DefaultSC.TA = 0;
+GMAT DefaultSC.DryMass = 2700;
+GMAT DefaultSC.Cd = 2.2;
+GMAT DefaultSC.Cr = 1.8;
+GMAT DefaultSC.DragArea = 15;
+GMAT DefaultSC.SRPArea = 1;
+GMAT DefaultSC.Tanks = {MainTank};
+GMAT DefaultSC.Thrusters = {ChemicalThruster1};
+GMAT DefaultSC.NAIFId = -10000001;
+GMAT DefaultSC.NAIFIdReferenceFrame = -9000001;
+GMAT DefaultSC.OrbitColor = Red;
+GMAT DefaultSC.TargetColor = Teal;
+GMAT DefaultSC.EstimationStateType = 'Cartesian';
+GMAT DefaultSC.OrbitErrorCovariance = [ 1e+070 0 0 0 0 0 ; 0 1e+070 0 0 0 0 ; 0 0 1e+070 0 0 0 ; 0 0 0 1e+070 0 0 ; 0 0 0 0 1e+070 0 ; 0 0 0 0 0 1e+070 ];
+GMAT DefaultSC.CdSigma = 1e+070;
+GMAT DefaultSC.CrSigma = 1e+070;
+GMAT DefaultSC.Id = 'SatId';
+GMAT DefaultSC.Attitude = CoordinateSystemFixed;
+GMAT DefaultSC.SPADSRPScaleFactor = 1;
+GMAT DefaultSC.ModelFile = 'aura.3ds';
+GMAT DefaultSC.ModelOffsetX = 0;
+GMAT DefaultSC.ModelOffsetY = 0;
+GMAT DefaultSC.ModelOffsetZ = 0;
+GMAT DefaultSC.ModelRotationX = 0;
+GMAT DefaultSC.ModelRotationY = 0;
+GMAT DefaultSC.ModelRotationZ = 0;
+GMAT DefaultSC.ModelScale = 1;
+GMAT DefaultSC.AttitudeDisplayStateType = 'Quaternion';
+GMAT DefaultSC.AttitudeRateDisplayStateType = 'AngularVelocity';
+GMAT DefaultSC.AttitudeCoordinateSystem = EarthMJ2000Eq;
+GMAT DefaultSC.EulerAngleSequence = '321';
+%----------------------------------------
+%---------- Hardware Components
+%----------------------------------------
+Create ChemicalTank MainTank;
+GMAT MainTank.AllowNegativeFuelMass = false;
+GMAT MainTank.FuelMass = 1718;
+GMAT MainTank.Pressure = 5000;
+GMAT MainTank.Temperature = 20;
+GMAT MainTank.RefTemperature = 20;
+GMAT MainTank.Volume = 2;
+GMAT MainTank.FuelDensity = 1000;
+GMAT MainTank.PressureModel = PressureRegulated;
+Create ChemicalThruster ChemicalThruster1;
+GMAT ChemicalThruster1.CoordinateSystem = Local;
+GMAT ChemicalThruster1.Origin = Earth;
+GMAT ChemicalThruster1.Axes = VNB;
+GMAT ChemicalThruster1.ThrustDirection1 = 1;
+GMAT ChemicalThruster1.ThrustDirection2 = 0;
+GMAT ChemicalThruster1.ThrustDirection3 = 0;
+GMAT ChemicalThruster1.DutyCycle = 1;
+GMAT ChemicalThruster1.ThrustScaleFactor = 1;
+GMAT ChemicalThruster1.DecrementMass = true;
+GMAT ChemicalThruster1.Tank = {MainTank};
+GMAT ChemicalThruster1.MixRatio = [ 1 ];
+GMAT ChemicalThruster1.GravitationalAccel = 9.810000000000001;
+GMAT ChemicalThruster1.C1 = 10;
+GMAT ChemicalThruster1.C2 = 0;
+GMAT ChemicalThruster1.C3 = 0;
+GMAT ChemicalThruster1.C4 = 0;
+GMAT ChemicalThruster1.C5 = 0;
+GMAT ChemicalThruster1.C6 = 0;
+GMAT ChemicalThruster1.C7 = 0;
+GMAT ChemicalThruster1.C8 = 0;
+GMAT ChemicalThruster1.C9 = 0;
+GMAT ChemicalThruster1.C10 = 0;
+GMAT ChemicalThruster1.C11 = 0;
+GMAT ChemicalThruster1.C12 = 0;
+GMAT ChemicalThruster1.C13 = 0;
+GMAT ChemicalThruster1.C14 = 0;
+GMAT ChemicalThruster1.C15 = 0;
+GMAT ChemicalThruster1.C16 = 0;
+GMAT ChemicalThruster1.K1 = 300;
+GMAT ChemicalThruster1.K2 = 0;
+GMAT ChemicalThruster1.K3 = 0;
+GMAT ChemicalThruster1.K4 = 0;
+GMAT ChemicalThruster1.K5 = 0;
+GMAT ChemicalThruster1.K6 = 0;
+GMAT ChemicalThruster1.K7 = 0;
+GMAT ChemicalThruster1.K8 = 0;
+GMAT ChemicalThruster1.K9 = 0;
+GMAT ChemicalThruster1.K10 = 0;
+GMAT ChemicalThruster1.K11 = 0;
+GMAT ChemicalThruster1.K12 = 0;
+GMAT ChemicalThruster1.K13 = 0;
+GMAT ChemicalThruster1.K14 = 0;
+GMAT ChemicalThruster1.K15 = 0;
+GMAT ChemicalThruster1.K16 = 0;
+%----------------------------------------
+%---------- ForceModels
+%----------------------------------------
+Create ForceModel NearEarth_ForceModel;
+GMAT NearEarth_ForceModel.CentralBody = Earth;
+GMAT NearEarth_ForceModel.PrimaryBodies = {Earth};
+GMAT NearEarth_ForceModel.PointMasses = {Luna, Sun};
+GMAT NearEarth_ForceModel.Drag = None;
+GMAT NearEarth_ForceModel.SRP = On;
+GMAT NearEarth_ForceModel.RelativisticCorrection = Off;
+GMAT NearEarth_ForceModel.ErrorControl = RSSStep;
+GMAT NearEarth_ForceModel.GravityField.Earth.Degree = 8;
+GMAT NearEarth_ForceModel.GravityField.Earth.Order = 8;
+GMAT NearEarth_ForceModel.GravityField.Earth.PotentialFile = 'JGM2.cof';
+GMAT NearEarth_ForceModel.GravityField.Earth.EarthTideModel = 'None';
+GMAT NearEarth_ForceModel.SRP.Flux = 1367;
+GMAT NearEarth_ForceModel.SRP.SRPModel = Spherical;
+GMAT NearEarth_ForceModel.SRP.Nominal_Sun = 149597870.691;
+Create ForceModel DeepSpace_ForceModel;
+GMAT DeepSpace_ForceModel.CentralBody = Sun;
+GMAT DeepSpace_ForceModel.PointMasses = {Earth, Luna, Mars, Mercury, Sun, Venus};
+GMAT DeepSpace_ForceModel.Drag = None;
+GMAT DeepSpace_ForceModel.SRP = On;
+GMAT DeepSpace_ForceModel.RelativisticCorrection = Off;
+GMAT DeepSpace_ForceModel.ErrorControl = RSSStep;
+GMAT DeepSpace_ForceModel.SRP.Flux = 1367;
+GMAT DeepSpace_ForceModel.SRP.SRPModel = Spherical;
+GMAT DeepSpace_ForceModel.SRP.Nominal_Sun = 149597870.691;
+Create ForceModel NearMerc_ForceModel;
+GMAT NearMerc_ForceModel.CentralBody = Mercury;
+GMAT NearMerc_ForceModel.PointMasses = {Sun};
+GMAT NearMerc_ForceModel.Drag = None;
+GMAT NearMerc_ForceModel.SRP = On;
+GMAT NearMerc_ForceModel.RelativisticCorrection = Off;
+GMAT NearMerc_ForceModel.ErrorControl = RSSStep;
+GMAT NearMerc_ForceModel.SRP.Flux = 1367;
+GMAT NearMerc_ForceModel.SRP.SRPModel = Spherical;
+GMAT NearMerc_ForceModel.SRP.Nominal_Sun = 149597870.691;
+%----------------------------------------
+%---------- Propagators
+%----------------------------------------
+Create Propagator NearEarth;
+GMAT NearEarth.FM = NearEarth_ForceModel;
+GMAT NearEarth.Type = RungeKutta89;
+GMAT NearEarth.InitialStepSize = 60;
+GMAT NearEarth.Accuracy = 1e-013;
+GMAT NearEarth.MinStep = 0;
+GMAT NearEarth.MaxStep = 600;
+GMAT NearEarth.MaxStepAttempts = 50;
+GMAT NearEarth.StopIfAccuracyIsViolated = true;
+Create Propagator DeepSpace;
+GMAT DeepSpace.FM = DeepSpace_ForceModel;
+GMAT DeepSpace.Type = PrinceDormand78;
+GMAT DeepSpace.InitialStepSize = 600;
+GMAT DeepSpace.Accuracy = 1e-012;
+GMAT DeepSpace.MinStep = 0;
+GMAT DeepSpace.MaxStep = 86400;
+GMAT DeepSpace.MaxStepAttempts = 50;
+GMAT DeepSpace.StopIfAccuracyIsViolated = true;
+Create Propagator NearMerc;
+GMAT NearMerc.FM = NearMerc_ForceModel;
+GMAT NearMerc.Type = PrinceDormand78;
+GMAT NearMerc.InitialStepSize = 60;
+GMAT NearMerc.Accuracy = 9.999999999999999e-012;
+GMAT NearMerc.MinStep = 0.001;
+GMAT NearMerc.MaxStep = 2700;
+GMAT NearMerc.MaxStepAttempts = 50;
+GMAT NearMerc.StopIfAccuracyIsViolated = true;
+%----------------------------------------
+%---------- Burns
+%----------------------------------------
+Create ImpulsiveBurn TCM;
+GMAT TCM.CoordinateSystem = Local;
+GMAT TCM.Origin = Earth;
+GMAT TCM.Axes = VNB;
+GMAT TCM.Element1 = 0;
+GMAT TCM.Element2 = 0;
+GMAT TCM.Element3 = 0;
+GMAT TCM.DecrementMass = true;
+GMAT TCM.Tank = {MainTank};
+GMAT TCM.Isp = 300;
+GMAT TCM.GravitationalAccel = 9.810000000000001;
+Create ImpulsiveBurn MOI;
+GMAT MOI.CoordinateSystem = Local;
+GMAT MOI.Origin = Mars;
+GMAT MOI.Axes = VNB;
+GMAT MOI.Element1 = 0;
+GMAT MOI.Element2 = 0;
+GMAT MOI.Element3 = 0;
+GMAT MOI.DecrementMass = true;
+GMAT MOI.Tank = {MainTank};
+GMAT MOI.Isp = 300;
+GMAT MOI.GravitationalAccel = 9.810000000000001;
+%----------------------------------------
+%---------- Coordinate Systems
+%----------------------------------------
+Create CoordinateSystem SunEcliptic;
+GMAT SunEcliptic.Origin = Sun;
+GMAT SunEcliptic.Axes = MJ2000Ec;
+Create CoordinateSystem MercuryInertial;
+GMAT MercuryInertial.Origin = Mercury;
+GMAT MercuryInertial.Axes = BodyInertial;
+%----------------------------------------
+%---------- Solvers
+%----------------------------------------
+Create DifferentialCorrector DefaultDC;
+GMAT DefaultDC.ShowProgress = true;
+GMAT DefaultDC.ReportStyle = Normal;
+GMAT DefaultDC.ReportFile = 'DifferentialCorrectorDefaultDC.data';
+GMAT DefaultDC.MaximumIterations = 25;
+GMAT DefaultDC.DerivativeMethod = ForwardDifference;
+GMAT DefaultDC.Algorithm = NewtonRaphson;
+%----------------------------------------
+%---------- Subscribers
+%----------------------------------------
+Create OrbitView SolarSystemView;
+GMAT SolarSystemView.SolverIterations = Current;
+GMAT SolarSystemView.UpperLeft = [ 0.1134380453752182 0.2916666666666667 ];
+GMAT SolarSystemView.Size = [ 0.5 0.6287878787878788 ];
+GMAT SolarSystemView.RelativeZOrder = 630;
+GMAT SolarSystemView.Maximized = false;
+GMAT SolarSystemView.Add = {DefaultSC, Earth, Sun, Mercury};
+GMAT SolarSystemView.CoordinateSystem = SunEcliptic;
+GMAT SolarSystemView.DrawObject = [ true true true true ];
+GMAT SolarSystemView.DataCollectFrequency = 1;
+GMAT SolarSystemView.UpdatePlotFrequency = 50;
+GMAT SolarSystemView.NumPointsToRedraw = 0;
+GMAT SolarSystemView.ShowPlot = true;
+GMAT SolarSystemView.ShowLabels = true;
+GMAT SolarSystemView.ViewPointReference = Sun;
+GMAT SolarSystemView.ViewPointVector = [ 0 0 500000000 ];
+GMAT SolarSystemView.ViewDirection = Sun;
+GMAT SolarSystemView.ViewScaleFactor = 1;
+GMAT SolarSystemView.ViewUpCoordinateSystem = SunEcliptic;
+GMAT SolarSystemView.ViewUpAxis = Z;
+GMAT SolarSystemView.EclipticPlane = Off;
+GMAT SolarSystemView.XYPlane = On;
+GMAT SolarSystemView.WireFrame = Off;
+GMAT SolarSystemView.Axes = On;
+GMAT SolarSystemView.Grid = Off;
+GMAT SolarSystemView.SunLine = Off;
+GMAT SolarSystemView.UseInitialView = On;
+GMAT SolarSystemView.StarCount = 7000;
+GMAT SolarSystemView.EnableStars = On;
+GMAT SolarSystemView.EnableConstellations = On;
+%----------------------------------------
+%---------- Mission Sequence
+%----------------------------------------
+BeginMissionSequence;
+Propagate NearEarth(DefaultSC) {DefaultSC.ElapsedSecs = 12000.0};
+Target 'Target Desired B-plane Coordinates' DefaultDC {SolveMode = Solve, ExitMode = Stop, ShowProgressWindow = true};
+Propagate 'Prop3Days' NearEarth(DefaultSC) {DefaultSC.ElapsedDays = 3};
+Propagate 'Prop12DaystoTCM' DeepSpace(DefaultSC) {DefaultSC.ElapsedDays = 12};
+Vary 'Vary TCM.V' DefaultDC(TCM.Element1 = 0, {Perturbation = 0.0001, Lower = -10e300, Upper = 10e300, MaxStep = 0.001, AdditiveScaleFactor = 0.0, MultiplicativeScaleFactor = 1.0});
+Vary 'Vary TCM.N' DefaultDC(TCM.Element2 = 0, {Perturbation = 0.00001, Lower = -10e300, Upper = 10e300, MaxStep = 0.002, AdditiveScaleFactor = 0.0, MultiplicativeScaleFactor = 1.0});
+Vary 'Vary TCM.B' DefaultDC(TCM.Element3 = 0, {Perturbation = 0.00001, Lower = -10e300, Upper = 10e300, MaxStep = 0.002, AdditiveScaleFactor = 0.0, MultiplicativeScaleFactor = 1.0});
+Maneuver 'Apply TCM' TCM(DefaultSC);
+Propagate 'Prop 105 Days' DeepSpace(DefaultSC) {DefaultSC.ElapsedDays = 105};
+Propagate 'Prop to Mercury Periapsis' NearMerc(DefaultSC) {DefaultSC.Mercury.Periapsis};
+Achieve 'AchieveBdotT' DefaultDC(DefaultSC.EarthMJ2000Eq.BdotT = 192632036.55101, {Tolerance = 0.00001});
+Achieve 'AchieveBdotR' DefaultDC(DefaultSC.EarthMJ2000Eq.BdotT = 86662919.118010, {Tolerance = 0.00001});
+EndTarget; % For targeter DefaultDC

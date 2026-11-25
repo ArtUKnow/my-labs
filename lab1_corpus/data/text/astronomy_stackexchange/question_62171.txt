@@ -1,0 +1,31 @@
+Delta v in gravity assistance with impact parameter
+In the following lecture, at page 110, relation 5.12:
+https://people.unipi.it/tommei/wp-content/uploads/sites/124/2019/04/spacemechanics.pdf
+We get:
+$$\Delta v=2\dfrac{v_\infty}{e}$$
+I tried to find, in the literature, the case taking into account the impact parameter $b_\infty$, but I failed.
+So I tried to derive the result based on the following figure:
+Reasoning as follows:
+$$\dfrac{b_\infty}{-a\cdot e}=\sin(\beta)$$
+But as $\beta=\pi/2-\delta/2$ we have:
+$$\begin{aligned}
+\dfrac{b_\infty}{-a\cdot e}
+& =\sin(\beta)\\
+& =\sin\left(\frac\pi2-\frac\delta2\right)\\
+& =\cos\left(\dfrac{\delta}{2}\right)\\
+& =\pm\sqrt{\dfrac{1+\cos(\delta)}{2}}
+\end{aligned}$$
+Hence:
+$$\cos(\delta)=-\dfrac{2b^2_\infty}{a^2e^2}-1$$
+Using the cosine law as in the lecture notes mentioned above (5.12):
+$$\begin{aligned}
+\Delta v
+& =\sqrt{v_{\infty}^2+v_{\infty}^2-2 v_{\infty}^2 \cos (\delta)}\\
+& =\sqrt{2 v_{\infty}^2(1-\cos (\delta))}\\
+& =\sqrt{-\dfrac{4b^2_\infty v^2_\infty}{a^2e^2}}\\
+& =\dfrac{2b_\infty v_\infty}{ae}
+\end{aligned}$$
+However:
+I don't know if the result is correct.
+If it is correct, I don't know if it's the traditional way to present the result.
+Any help, remark, critic is greatly appreciated.

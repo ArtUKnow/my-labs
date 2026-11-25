@@ -1,0 +1,7 @@
+Does the TEL at SLC-40 handle Dragons the same way the TEL at LC-39A does?
+The TEL (Transporter/Erector/Launcher) at LC-39A, needs serious changes to support a Falcon Heavy, seemingly taking it out of launch service for a week or two on either side of each launch.
+To launch a Dragon (Crew or Dragon) at LC-39A they change the 'head' of the TEL, the top piece, to properly hold it, and supply needed lines. (Unclear if they fuel the Draco's on the pad, or in the assembly building). This also takes some time.
+With the new support at SLC-40 to launch Dragon Cargo Mar 21, 2024 and then Crew Dragon, Sept 28, 2024 the question arises. Are the TELs at LC-39A and SLC-40 similar in how they handle Dragon vehicles?
+SLC-40 is the workhorse launch facility in 2024 (and before) launching almost every 4-5 days, usually limited by ASDS (autonomous spaceport drone ship) availability. Needing a few day extras to change out the TEL would really eat into that performance if true.
+Looking at the launch of Crew-9 from SLC-40 it does seem like they last launched Sept 17, then the crew mission on Sept 28. 11 days of downtime. Maybe this was because it was the first manned launch?
+The next launch after is scheduled for Oct 1 so only 3-4 days after so maybe it is not that big a deal to change the launch over.

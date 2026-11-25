@@ -1,0 +1,2 @@
+Calculating specific dates of reaching apses given orbital elements?
+Given a specific date and heliocentric orbital elements ($a, e, i, \Omega, \omega$, mean anomaly) of a spacecraft in a heliocentric orbit, how can we calculate when it will reach perihelion and how far that will be from the Sun?

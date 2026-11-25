@@ -1,0 +1,6 @@
+Can Solid Rockets (Aluminum-Ice) have an advantage when designing light space-tug for LEO?
+This is a new subject for Space Industry – heavy spacecraft (1200-ton) in LEO that have to burn hundreds of tons of propellant to get going to their destination.
+It looks inefficient to launch 7+ fuel tankers just to fill up SpaceX Starship in LEO and then burn 40% of Starship’s fuel in a first orbit change.
+Could a light space tug with expendable solid fuel boosters assist Starship in LEO?
+Solid rocket fuel has all kinds of disadvantages compared to a liquid fuel.
+But would solid fuel have an advantage in the case of a light space tug (less than 5 tons dry mass) with a small liquid engine and attachments for a large solid rocket boosters (expendable)?

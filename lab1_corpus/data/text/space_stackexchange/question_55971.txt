@@ -1,0 +1,3 @@
+How to calculate the force applied by a magnetorquer on a piece of a perfect ferromagnetic material?
+How to calculate the force applied by a magnetorquer on a piece of a perfect ferromagnetic material at a particular distance in vacuum given that I know the actuatuon (in Am2)
+https://www.isispace.nl/product/isis-magnetorquer-board/

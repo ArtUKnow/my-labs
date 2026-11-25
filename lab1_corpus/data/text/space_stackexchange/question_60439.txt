@@ -1,0 +1,2 @@
+How long would it take Starship to get to Neptune without any flybys?
+After seeing this answer (https://space.stackexchange.com/a/60438/44505) saying that starship could get to Neptune, I wondered how long it would take to get to Neptune. Bonus question: Would it be possible to send humans onboard and have them return in a reasonable amount of time?

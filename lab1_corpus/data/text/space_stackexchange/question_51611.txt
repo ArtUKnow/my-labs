@@ -1,0 +1,8 @@
+How did MOXIE "know" that it produced 5.4 grams of oxygen? Did it measure pressure rise in a container or just vent it? Did it use an oxygen sensor?
+CNN's Perseverance rover just made oxygen on Mars is great and welcome news! While Ingenuity has been achieving one "first" on Mars Perseverance was quietly achieving yet another.
+After warming up for about two hours, MOXIE produced 5.4 grams of oxygen. This is enough to sustain an astronaut for about 10 minutes.
+Question: How did MOXIE "know" that it produced 5.4 grams of oxygen? Did it pressurize an oxygen gas container and measure the pressure rise? or just let the gas escape into the atmosphere? Did it use an oxygen sensor to verify oxygen?
+related and currently unanswered:
+How many square meters of solar panel to power a MOXIE-like oxygen source per person?
+How much energy would be needed to liquify 1 gram of atmospheric oxygen on Mars?
+The (NASA Insight) team installed MOXIE into the chassis of the Perseverance rover in March 2019.

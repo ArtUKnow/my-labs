@@ -1,0 +1,4 @@
+It is said that if the universe has large scale curvature it will affect the angular size of observed images. Can this be quantified?
+This question could relate to the treatment of the Boomerang CMB data but I have tried to keep it general.
+I fall at the first step. Is it positive, spherical, curvature that leads to an increase in the angular size observed, or negative, hyperbolic, curvature? Can the change be quantified, perhaps by a formula relating the change in observed angular size to the radius of curvature?
+As background, the Boomerang data is said to prove the universe has no curvature because there is no change in the angular size of the image, in this case the fluctuations in the cosmic microwave background, as the universe expands.

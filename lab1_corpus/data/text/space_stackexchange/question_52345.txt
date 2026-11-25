@@ -1,0 +1,5 @@
+Would it be possible to alter the orbit of one satellite, with the exhaust plume of a rocket sufficient to deorbit it?
+SpaceX plan to launch Starships towards Mars; many of them.
+This will involve burning hundreds to thousands of tonnes of propellant in low(ish) orbit, since each may require several refueling steps.
+When the Mars bound ships are being boosted first to a higher Earth orbit, would it be possible to use the exhaust to slow down a specific, targeted piece of space debris, removing just enough velocity that it will deorbit significantly sooner than it would otherwise.
+I acknowledge that this would require precision and orbits lining up extremely precisely, and that there are several alternative ways to deorbit dead satellites, but as a thought experiment in orbital mechanics, exhaust dynamics and aerodynamics, would this at least be possible?

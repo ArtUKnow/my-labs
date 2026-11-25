@@ -1,0 +1,32 @@
+Can β(E) from NICER folded counts be compared with GR pulse-profile β(E) for J0437–4715?
+I am working with public NICER folded count products for PSR J0437–4715 and trying to understand an energy-dependent pulse asymmetry observable, β(E).
+Using the public folded phase × energy count matrix, I reconstructed a simple half-phase asymmetry:
+β(E) = (R − L) / (R + L)
+where:
+L is the sum of counts in the first half of the phase bins
+R is the sum of counts in the second half of the phase bins
+the reconstruction is done directly from the folded count matrix
+no model fitting is applied
+When I compare this reconstructed β_data(E) with the published GR-based β_GR(E) values in matched energy bins, I find that the two are reasonably close at lower energies but separate at harder energies.
+In my matched-bin comparison, the reconstructed half-split β(E) remains higher above roughly 1.2 keV. The published/model GR trend declines with energy, while the direct half-split reconstruction shows a rise followed by a slower decline.
+For example, in the highest matched bin around 2.75 keV, I get approximately:
+β_data ≈ 0.021
+while the corresponding GR-based value is approximately:
+β_GR ≈ 0.004
+so the difference is about:
+Δβ ≈ 0.018
+Across the matched bins, the residuals appear structured rather than random, with the harder-energy bins contributing most of the difference.
+My question is:
+Is this direct half-phase reconstruction expected to be comparable to the published/model β(E) trend, or are there known reasons why such a comparison would be invalid without reproducing the exact pulse-profile modeling pipeline?
+In particular, could this difference arise from:
+phase-zero convention or phase alignment,
+using a simple half-phase split instead of the exact phase windows used in the modeling analysis,
+background subtraction or 3C50 background treatment,
+NICER response weighting / energy redistribution,
+binning choices,
+atmospheric beaming assumptions,
+or another known NICER timing/systematics issue?
+I am trying to determine whether the correct interpretation is:
+“The half-split β(E) is a different observable and should not be expected to track the published GR β(E),”
+or whether a direct folded-count reconstruction should still qualitatively follow the same energy dependence.
+Any guidance on the correct way to validate this comparison would be appreciated.

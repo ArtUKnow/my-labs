@@ -1,0 +1,9 @@
+What events caused this debris in highly elliptical orbits
+This question has been developed from Why are objects in this highly elliptical orbit present in Vimpel but not USSpacecom which I realisd was two questions in one.
+Here is the same graphic from AstriaGraph:
+Orange dots are active satellites, blue dots are in-active satellites and the purple and pink dots are rocket bodies and uncatagorised, respectively. Its hard to discern the difference between the latter two in colour.
+For orientation the geostationary arc comprises the orange dots in a semi-edge-on circle stretching from about "08:30" to "02:30" as we look at the image as a clock face.
+There is also a clear ellipse stretching from LEO at 03:00 to an apogee at MEO at about 09:45 and it is made up of a mixture of purple and mostly pink dots. There is another pink ellipse which is completely edge on, on the right hand side slightly above the GEO arc.
+When I clicked on objects in these orbits most of them are reported as uncategorised though I did find one labeled as a rocket body part. They are all only in the Vimpel catalogue and not reported as having USSpacecom IDs. They are at about 25 degrees inclination and thus are not Molniya orbits. They are a bit short of GTO apogee height but could be debris from a high latitude launch to GTO, where the objects apogees have reduced because of LEO drag, but but the debris seems too well confined to a narrow band for objects that.
+I'm surprised at the sheer number of objects.
+Question: What was the event causing this?

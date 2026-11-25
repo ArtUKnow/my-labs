@@ -1,0 +1,9 @@
+Falcon Heavy will launch Europa Clipper - are details available for public?
+NASA Europa Clipper spacecraft will be launched by Falcon Heavy launcher.
+But very small amount of details can be found, to my surprise.
+For example, I've been guessing will additional solid-fuel kick stage be needed? Looks like yes, it will, but only Eric Berger from Arstechnika says this. There are no details on NASA site or in other popular sources.
+Also no information about launch window (year-month-dates), nor about flight time and Jupiter insertion date.
+The cost of launch is stated to be 178 million $, but is this number including cost of kick stage?
+Are these details available for public?
+Not one question, several sub-questions here, but I suppose one "mission design" PDF document could answer them all. However, I couldn't find it.
+PS: This QA has some info, but I'm not sure is it outdated now? (the links are dead there) Is Mars gravity assist still planned for Europa Clipper?

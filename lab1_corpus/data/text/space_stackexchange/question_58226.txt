@@ -1,0 +1,9 @@
+Why is ~280 km one month before reentry the lowest altitude that the final ISS crew may see? Isn't that cutting it kinda close?
+Writing this answer to When will the ISS deorbit? I came across Space Policy Online's NASA Solidifies Planning to Deorbit ISS in 2031 and the image below.
+It shows the estimated last crew occupying the ISS from roughly May through October 2030.
+During that period the ISS' altitude prediction drops from 320 to 280 km, and appears to drop to zero only one month after that.
+Question: Why 280 km? Why so late? Isn't staying until one month before reentry cutting things kinda close?
+I guess there might be an extra escape craft docked as a contingency and/or something on the ground ready to launch, but still...
+From NASA Solidifies Planning to Deorbit ISS in 2031:
+ISS average altitude estimates targeting re-entry early 2021
+Figure 4. shows the ISS end-of-life de-orbit altitude, cargo resupply, and de-orbit plan assumptions. This timeline assumption is reflected in the budget discussion above for de-orbit vehicle procurement.

@@ -1,0 +1,2 @@
+Does the volume of hydrazine propellant stored at 22 bar change?
+I'm working on an extracurricular project and I'm trying to determine what volume of propellant tank I need to 12.14 kg of hydrazine propellant stored at 22 bar. I researched and found this pressure was typical for storage and wondered if it changed the volume of the propellant compared to if I were to do a basic density to volume conversion.

@@ -1,0 +1,4 @@
+Why must LH2 be gassified before the throat in order to accommodate the high heat fluxes in regenerative cooled nozzles?
+In NASA Space Vehicle Design Criteria Liquid Rocket Engine Fluid Cooled Combustion Chambers 2.1.1.2 number of passes (page 10) describes that some coolants must be heated before they become effective. I quote: "Liquid hydrogen, for example, is introduced in the expansion section of the RL-10 and J-2 engines, since it must be gasified before it can accommodate the high heat fluxes at the throat"
+Why must hydrogen be a gas and not a liquid in order to accommodate the high heat fluxes?
+To my knowledge gasses are worse conductors of heat than liquids and are less "effective" after heating. Plus nucleate boiling will make heat transfer even worse if you allow it to gasify.

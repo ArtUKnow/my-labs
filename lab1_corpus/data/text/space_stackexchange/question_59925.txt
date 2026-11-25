@@ -1,0 +1,13 @@
+What would the TLE data (Mean Motion, Eccentricity, Inclination, RAAN, Argument of Pericenter) of GEO and PO be like?
+I am currently making a satellite tracker app for android. I want to test my orbit propagation algorithm and I want to make some made-up basic orbits, so I need to know how their TLE would be. I want to test:
+A geosynchronous equatorial orbit (GEO), so Alt-azimuth would always be the same for a fixed observer.
+Polar orbit (PO), so altitude would be the same for an observer located at one pole of the earth any at any time $t = t_0 + Period*n$, $n \in \mathbb{Z} .$
+So I need to know what would be the values of Mean Motion, Argument of Pericenter, Inclination and Right Ascension of Ascending Node.
+I already tried with the following data for GEO:
+$Mean Motion=1.0$
+$Eccentricity=0.0$
+$Inclination=0.0$
+$RightAscension Of Ascending Node=0.0$
+$Argument Of Pericenter=0.0$
+(In the case of PO I guess Inclination would have to be 90 degrees, leaving all the other data unchanged).
+But it doesn't seem to work. I don't know if this is an error in my algorithm or if, instead, I just didn't simulate the orbit correctly. I want to find out which are the correct values for those parameters for the orbitals I want. I hope you guys can help me. Thanks in advance.

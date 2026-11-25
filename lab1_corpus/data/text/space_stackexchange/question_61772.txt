@@ -1,0 +1,10 @@
+Choked Flow: Throat Radius should not change any more below critical pressure ratio?
+I am trying to understand some calculations of a student colleague:
+The pressure inside the combustion chamber is 200 bar. This means, the critical pressure ratio should be p*/p0 with p0=101325 Pascal and k=1.18 -- >
+p*/(200*10^5 Pa) = (2/1.18+1)^(1.18/0.18)
+--> p* = 1.13489×10^7 Pa
+This means, as long as my atmosphere pressure is lower than p* I will have choked flow condition. So my throat radius should not change anymore?
+Because what I see in the calculations of my student colleague is, that the lower I make p* (so like 10000 Pascal) the throat diamter is still reducing?
+Where does this come from?
+Thanks for your help
+Lucas

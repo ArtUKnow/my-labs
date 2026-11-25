@@ -1,0 +1,20 @@
+How to find the velocity vector of a planet in orbit argument of periapsis or longitude of the ascending node?
+Edit : This question has been answered. If anybody else creating a fictional planet has a similar question to mine, with a not-so-good understanding of orbital mechanics such as me, the answer should review where I went wrong and what to do in a similar situation. Thanks to those who put the effort into helping me understand.
+For a personal project, I am creating a fictional planet using as much actual science as possible. As the title suggests, I only have three of the orbital elements and wish to calculate the velocity vector (which I am having trouble with), so that I can calculate the specific relative angular momentum vector. As far as I understand, this vector is required for calculating the argument of periapsis and longitude of the ascending node. Following is the list of relevant measures I HAVE calculated for my planet :
+Keplerian Elements :
+e = 0.6590606759
+θ (true anomaly) = 1.446411718 rads
+a = 1.957694954 AU
+i = 0.2316051917 rads
+Other descriptors derived from the above :
+b = 1.472362352 AU
+e = (0.6590606759,0,0)
+r (distance between bodies) = 1.02364918873 AU
+r = (0.1697602404,0.981,0.238071674877)
+v (current position) = 38975.36618 m/s
+E = 0.7613114023 rads
+M = 0.3066442884 rads
+The coordinates of the planet and star in AU are (respectively) (1.46, 0.981, 0.232571546481), (1.29023975963, 0, 0).
+I will consider epoch to be the periapsis, so that t0=0 when r=0.66745519437 AU and v=51153.89281 m/s. The time since the periapsis passage is t1=3872747.757 seconds.
+If any formulas are given as answers, it would be helpful if an example of use is given with said formula, as this is how best I learn. You, by no means, need to do this, as I will likely figure out the formulas in time.
+Sorry if there are any, or many, egregious mistakes, in either formatting, specificity, or calculations. This is both my first time asking here, and using orbital mechanics/linear algebra. Any additional information/clarification can be added if needed. Thanks for your time.

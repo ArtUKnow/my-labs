@@ -1,0 +1,2 @@
+Why are there six orbital elements?
+I have knew for a long time that there were six orbital elements but I never knew why it was six and not any other arbitrary number? Does it have do with the fact that there is 3 components for both the position and velocity vectors?

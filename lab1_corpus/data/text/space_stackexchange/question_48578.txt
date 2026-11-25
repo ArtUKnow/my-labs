@@ -1,0 +1,71 @@
+CesiumJS: Hayabusa 2 location w.r.t Earth
+Given these coordinates w.r.t Sun:
+Hayabusa:
+x = 86014493
+y = 112689997
+z = 54295960
+Earth:
+x = 82241037
+y = 112748971
+z = 48876281
+How do I calculate Hayabusa coordinates w.r.t Earth center?
+I tried with x = earth-hayabusa and x = hayabusa-earth, but it looks like it's wrong.
+Here follows a method to visualize results of such calculation in a 3d viewer:
+I have this JSON file containing the positions of some bodies w.r.t to Sun:
+http://haya2now.jp/data/data.json
+For example:
+"hayabusa2":{"y":112689997.8606,"x":86014493.85948,"z":54295960.1354}
+"earth":{"x":82241037.03488,"z":48876281.38811,"y":112748971.4809}
+"ryugu":{"z":52629024.8754,"x":95901344.47932,"y":107641387.9349}
+I also have data about location and orientation of antennas pointing Hayabusa 2 spacecraft:
+"hayabusa2":
+{
+"alt":56.99,
+"azm":34.06,
+},
+"latitude":31.25,
+"longitude":131.08,
+"altitude":376,
+"sun":{"azm":254.6,"alt":-12.29},
+"name":"USC34"
+So I am trying to create a 3d simulator showing position of hayabusa and arrows pointing from antennas to hayabusa; but something is going wrong, because arrows are not pointing to hayabusa position:
+http://win98.altervista.org/space/exploration/3d/3dtracker.html
+You can add Hayabusa object by running this code from console (F12 key):
+// First attempt:
+x1 = 1000*(obj.geometry[0].hayabusa2.x - obj.geometry[0].earth.x);
+y1 = 1000*(obj.geometry[0].hayabusa2.y - obj.geometry[0].earth.y);
+z1 = 1000*(obj.geometry[0].hayabusa2.z - obj.geometry[0].earth.z);
+// Second attempt:
+x2 = 1000*(obj.geometry[0].earth.x - obj.geometry[0].hayabusa2.x);
+y2 = 1000*(obj.geometry[0].earth.y - obj.geometry[0].hayabusa2.y);
+z2 = 1000*(obj.geometry[0].earth.z - obj.geometry[0].hayabusa2.z);
+hayapos = new Cesium.Cartesian3(x1,y1,z1);
+hayapos2 = new Cesium.Cartesian3(x2,y2,z2);
+haya = {label: { text: "Hayabusa 2",font: "24px Helvetica"} , description : "Descrizione", position: hayapos, point : {color: Cesium.Color.LIME, pixelSize:100},
+box: {
+dimensions: new Cesium.Cartesian3(400000.0, 300000.0, 500000.0),
+material: Cesium.Color.RED.withAlpha(0.5),
+outline: true,
+outlineColor: Cesium.Color.BLACK,
+}
+};
+haya2 = {label: { text: "Hayabusa 2xxxxxx",font: "24px Helvetica"} , description : "Descrizione", position: hayapos2, point : {color: Cesium.Color.LIME, pixelSize:100},
+box: {
+dimensions: new Cesium.Cartesian3(400000.0, 300000.0, 500000.0),
+material: Cesium.Color.RED.withAlpha(0.5),
+outline: true,
+outlineColor: Cesium.Color.BLACK,
+}
+};
+hayaEntity = viewer.entities.add(haya);
+hayaEntity2 = viewer.entities.add(haya2);
+hayaEntity.name = "Hayabusa 2";
+hayaEntity2.name = "Hayabusa 2aaaaaa";
+Then use one of these lines to move camera to hayabusa:
+viewer.camera.flyTo({destination:hayapos, complete: function () {viewer.camera.moveBackward(1000); viewer.camera.moveUp(100)}});
+viewer.camera.flyTo({destination:hayapos2, complete: function () {viewer.camera.moveBackward(1000); viewer.camera.moveUp(100)}});
+Note that Cesium uses meters as unit of measure.
+I am trying with:
+x1 = hayabusa2.x - earth.x
+and
+x1 = earth.x - hayabusa2.x

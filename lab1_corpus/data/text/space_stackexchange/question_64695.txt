@@ -1,0 +1,2 @@
+Understanding and breaking down pointing requirements
+“< 1 deg, 3σ total angle pointing stability” - What does the 3sigma indicate? Does this mean that 99.7% of the total pointing error (which I assume is computed via a sim), is within 1 deg? If it was 1-sigma, would that mean only 68% of the pointing errors need to be within 1 deg? What does total angle mean vs single-axis? Does total angle mean you RSS the x,y,z pointing errors?

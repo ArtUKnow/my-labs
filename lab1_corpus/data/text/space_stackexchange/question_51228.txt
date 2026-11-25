@@ -1,0 +1,4 @@
+Where can one find the accelerations due to high-order terms of the geopotential model?
+The expression for the orbital perturbation due to J2 ($\mathbf{a_{J2}} = [a_r \ a_s \ a_w]^T$) as well as its derived effect on the argument of perigee and the right ascension of the ascending node are well known and available in most books.
+Regarding higher-order terms related to the zonal harmonics or oblateness ($J_3, J_4, ...$) and multipole perturbations ($J_{22}, J_{3m}, J_{4m}, ...$), usually the general equation of the potential $V(r,\delta,\lambda)$ is provided, since it is an infinite series anyway.
+Is there any reliable source where the derived perturbations $\mathbf{a_{J_{nm}}} = [a_r \ a_s \ a_w]^T$ for the cases that consider up to J3, J4, etc. are presented? I am looking into preparing a propagator that numerically integrates the osculating orbital elements affected by these perturbations, and I wonder if these expressions are already available somewhere.

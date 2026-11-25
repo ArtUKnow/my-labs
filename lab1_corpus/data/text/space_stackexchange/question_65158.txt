@@ -1,0 +1,4 @@
+Is the Falcon 9 or Falcon Heavy allowed to launch nuclear material?
+Certain missions, like the various NASA Mars Rovers (Curiosity, Perseverance, Opportunity, etc.) contained either RTGs for power generation or RTHs for heating purposes, and these contain nuclear material.
+Unless the X-37 has a secret RTG in it, I don't think a F9 or FH has ever launched a spacecraft with any (significant amount of) radioactive material in it, and this brings me to the question: would it be allowed to do so?
+I have vague recollections about rockets that launch payloads with nuclear material requiring some special allowance/certification and additional safety mechanisms and procedures being put into place for these launches--is this true?

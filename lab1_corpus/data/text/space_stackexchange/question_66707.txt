@@ -1,0 +1,108 @@
+Incorrect limb points from SPICE 'limbpt' routine?
+I'm encountering a baffling problem with the SPICE routine limbpt (as implemented in SpiceyPy) and I'm not sure how to fix it, so I'm hoping one of you might know the answer. Essentially, I am trying to produce a representation of the Uranian satellite Miranda on the sky in RA/Dec. To do this, I am calculating the RA/Dec positions of latitude/longitude lines and the body's limb.
+The problem is that the latitude/longitude lines extend beyond the limb. However, when I compare to an image from the Uranus viewer (see the second picture), it's looks more like maybe the limb points are incorrect? This is especially obvious at the far left limb: in the Uranus viewer image (made from the PDS Ring-Moon Node Viewer tools here), there is a small sliver between the limb and the longitude line which isn't in the image I produced.
+So, either the latitude/longitude lines are wrong or the limb points are wrong, but I can't figure out which or why. This is what I could use some help figuring out: am I calculating the latitude/longitude lines incorrectly, or are the limb points somehow not correct? I'd really appreciate any help. Thank you!
+Here's what my image looks like:
+And here's what the Uranus viewer image looks like:
+Here is an MWE that produced my image (assuming you have copies of de440.bsp and ura111.bsp):
+import spiceypy as spice
+import matplotlib.pyplot as plt
+import numpy as np
+# furnish general Solar System ephemeris kernel and Uranian satellite kernel
+spice.furnsh('de440.bsp')
+spice.furnsh('ura111.bsp')
+# set parameters for limbpt
+resolution = 360
+et = spice.utc2et('2023-08-18 16:00')
+target = 'Miranda'
+fixref = f'IAU_Miranda'
+abcorr = 'LT+S'
+corloc = 'ELLIPSOID LIMB'
+obsrvr = 'Earth'
+refvec = spice.vpack(0, 0, 1)
+rolstp = 2*np.pi/resolution
+ncuts = resolution
+maxn = resolution
+# calculate limb point RA/Dec and plot
+params = dict(method='TANGENT/ELLIPSOID',
+target=target,
+et=et,
+fixref=fixref,
+abcorr=abcorr,
+corloc=corloc,
+obsrvr=obsrvr,
+refvec=refvec,
+rolstp=rolstp,
+ncuts=ncuts,
+schstp=1e-4,
+soltol=1e-7,
+maxn=maxn)
+_, _, epochs, tangts = spice.limbpt(**params)
+limb_ra = []
+limb_dec = []
+for epoch, point in zip(epochs, tangts):
+# calculate the rotation matrix to convert to J2000 for the specific limb point epoch
+rotation_matrix = spice.pxfrm2(fixref, 'J2000', epoch, et)
+# rotate the point into J2000
+point = spice.mxv(rotation_matrix, point)
+# convert the point to J2000 RA/Dec
+point = spice.recrad(point)
+# store the coordinates
+limb_ra.append(point[1])
+limb_dec.append(point[2])
+# plot the limb
+plt.plot(limb_ra, limb_dec, color='black')
+# calculate latitude/longitude lines
+_, radii = spice.bodvrd(target, 'RADII', 3)
+re = float(radii[0])
+f = float((radii[2] - radii[0]) / radii[0])
+params = dict(method='ELLIPSOID',
+target=target,
+ilusrc='Sun',
+et=et,
+fixref=fixref,
+abcorr=abcorr,
+obsrvr=obsrvr)
+# longitude lines
+longitudes = np.radians(np.arange(0, 360, 30))
+latitudes = np.radians(np.arange(-90, 90+1, 1))
+for lon in longitudes:
+line_ra = []
+line_dec = []
+for lat in latitudes:
+# use georec to convert surface lon/lat pairs to rectangular coordinates
+spoint = spice.georec(lon, lat, 0, re, f)
+# determine if point is visible, if so, keep it, if not, store NaNs so that
+# only visible parts of lines get plotted
+trgepc, vec, _, _, _, visible, _ = spice.illumf(spoint=spoint, **params)
+if visible:
+rotation_matrix = spice.pxfrm2(fixref, 'J2000', trgepc, et)
+point = spice.mxv(rotation_matrix, vec)
+_, ra, dec = spice.recrad(point)
+line_ra.append(ra)
+line_dec.append(dec)
+else:
+line_ra.append(np.nan)
+line_dec.append(np.nan)
+plt.plot(line_ra, line_dec, color='grey')
+# latitude lines
+longitudes = np.radians(np.arange(0, 360, 1))
+latitudes = np.radians(np.arange(-90, 90+30, 30))
+for lat in latitudes:
+line_ra = []
+line_dec = []
+for lon in longitudes:
+spoint = spice.georec(lon, lat, 0, re, f)
+trgepc, vec, _, _, _, visible, _ = spice.illumf(spoint=spoint, **params)
+if visible:
+rotation_matrix = spice.pxfrm2(fixref, 'J2000', trgepc, et)
+point = spice.mxv(rotation_matrix, vec)
+_, ra, dec = spice.recrad(point)
+line_ra.append(ra)
+line_dec.append(dec)
+else:
+line_ra.append(np.nan)
+line_dec.append(np.nan)
+plt.plot(line_ra, line_dec, color='grey')
+plt.gca().set_aspect('equal')
+plt.show()

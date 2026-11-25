@@ -1,0 +1,2 @@
+How do you change orbital inclination in the middle of a Hohmann transfer?
+Assume I'm transferring with a Hohmann transfer orbit from, say Earth to Mercury. They don't have the same inclination; so how, when, and in what direction do I apply the burn? And I know that I apply it in the normal or anti-normal direction but how do I make sure that that makes the orbit aligned with Mercury's? Do I have to time it so that a normal burn in the middle of the orbit will change the inclination to actually match Mercury's?

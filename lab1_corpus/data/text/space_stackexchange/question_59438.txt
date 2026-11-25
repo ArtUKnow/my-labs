@@ -1,0 +1,6 @@
+Relationship between osculating eccentricity and Brouwer-Lyddane short eccentricity
+I was under the impression that the mean elements are given by taking the average over an orbital period of the satellite, i.e.:
+$e_{mean}(t) = \int_{t}^{t+T(t)}e_{osc}(t')dt'[0.367in]$
+where $T(t)$ is the osculating orbital period given by $\sqrt{\frac{\mu}{a(t)^3}}$. (Might be wrong here, please correct me, I'm new to the topic). Regardless of the method of averaging, I couldn't explain to myself the results when I prescribe an orbit with eccentricity very close to zero in GMAT:
+For larger eccentricities (0.01), the mean eccentricity does indeed behave like some sort of average:
+What seems to be the problem here? Why is the mean eccentricity not behaving like an average in the case of eccentricities close to 0.001?

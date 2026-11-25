@@ -1,0 +1,8 @@
+Flyby puzzler; starting from Earth, how many times can you use Jupiter flybys in one century?
+Is there any limit to how many times you can increase velocity by repeated sling shot manoeuvres? and its answers have got me thinking, and that's always dangerous.
+Suppose you have a durable RTG-powered spacecraft launched from Earth, and your goal is to use Jupiter-only flybys as many times as you can in order to set some sort of record before going off to explore some place further.
+We've got to put some constrains on what a "flyby" is otherwise you'd just go into a 5.2 AU heliocentric retrograde orbit and pick up 16 conjunctions per century and call them "distant perturbative flybys".
+So to be a flyby, the heliocentric characteristic energy $C_3$ and/or the semimajor axis $a$ have to increase by some factor.
+I'll call that factor 10% arbitrarily. If there are profound or compelling answers that have a slightly lower factor they won't be balked-at :-)
+Flybys for primarily inclination changes should obtain a similar delta-v to those above in order to count.
+Question: This is a flyby puzzler; starting from Earth, how many times can you use Jupiter flybys in one century?

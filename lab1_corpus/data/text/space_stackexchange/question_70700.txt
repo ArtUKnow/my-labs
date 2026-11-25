@@ -1,0 +1,7 @@
+Are there stable orbits of point masses around a massive cylindrical object?
+sciencefictionclassics.com/rendezvous-with-rama-honors-the-power-of-discovery
+In Arthur C. Clark’s 1973 novel "Rendezvous with Rama", a spaceship makes a rendezvous with a massive hollow cylindrical object (Rama) and then station-keeps with it for a few weeks.
+Rama’s weak gravity (.001g) and the short visit preclude an orbit. However, with a longer visit and perhaps if the Rama-like object had a greater mass, what orbital modes would be stable for a point mass and a much more massive cylinder?
+This question is not about perturbations caused by third bodies. It is about a 2-body problem where the massive body is non-spherical.
+Symmetry suggests a circular orbit of the spacecraft around Rama’s “waist” would be stable.
+Newton demonstrated a spherical shell has the same gravitational field as a point mass of the same mass, but I don’t believe he did a similar analysis of hollow cylinders.

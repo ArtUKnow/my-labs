@@ -1,0 +1,9 @@
+How does "onboard GPS" suggest "escalation speed and severity of a storm caused atmospheric drag to increase up to 50 percent"?
+Engadget's says:
+A recent batch of SpaceX’s Starlink internet-beaming cubesats met with tragedy on February 3rd when a 49-member cohort of the newly-launched satellites encountered a strong geomagnetic storm in orbit.
+“These storms cause the atmosphere to warm and atmospheric density at our low deployment altitudes to increase. In fact, onboard GPS suggests the escalation speed and severity of the storm caused atmospheric drag to increase up to 50 percent higher than during previous launches,” SpaceX wrote in a blog update last Wednesday. “The Starlink team commanded the satellites into a safe-mode where they would fly edge-on (like a sheet of paper) to minimize drag.” Unfortunately, 40 of the satellites never came out of safe mode and, as of Wednesday’s announcement, are expected to, if they haven’t already, fall to their doom in Earth’s atmosphere.
+Question: How (exactly) does "onboard GPS" suggest "escalation speed and severity of a storm caused atmospheric drag to increase up to 50 percent"? I know that GPS signals can be used to measure precipitable water vapor, but how can it be used to measure atmospheric properties like increased drag compared to other launches?
+Related to atmospheric water vapor measurements via GPS signals
+CICERO orbit design and optimization for GPS occultations?
+How many CICERO cubesats are in space now? What are their IDs?
+Does NOAA still plan to deploy all twelve Cosmic-2 GPS radio occultation satellites? (currently unanswered)

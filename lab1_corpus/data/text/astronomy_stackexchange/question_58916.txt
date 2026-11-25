@@ -1,0 +1,3 @@
+Tool to convert between GCRF and (Earth-centered) J2000 reference frames
+I want to convert some Cartesian vectors between the Geocentric Celestial Reference Frame (GCRF) and Earth-centered J2000 frame. I know that these two frames are nearly identical and, for most purposes, can be treated as the same, but I'm still interested in the conversion.
+What code/tool/other thing can I use to do this conversion? I tried astropy, starting with the GCRS frame, but I couldn't find something for the Earth-centered J2000 frame.

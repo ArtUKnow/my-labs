@@ -1,0 +1,7 @@
+How to Know if the sun is circumpolar or never rises?
+I made a tool to get Noon, Sunrise, and Sunset times But sometimes errors appear like at:
+Lat: N 67°8'5.07''
+Long: W 121°10'17.93'
+Date: 2024/06/14 15:07 (UTC-7)
+Because there is no sunrise or sunset times at this location and date and all I need to specify the reason for these either "the sun is circumpolar" or "The sun never rises" to write it in the debug log.
+So, Is there a way to know if the sun is circumpolar or never rises at a specific date and specific location?

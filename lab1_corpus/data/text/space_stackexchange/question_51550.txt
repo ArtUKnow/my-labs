@@ -1,0 +1,6 @@
+How much would it cost to launch a 0.5U Satellite?
+I have seen the figures for 1U, 3U and 12U Satellites such as those provided here, but I have been unable to find pricing for the launch of a single 0.5U or 0.25U satellite.
+I have seen many academic and industry satellites of this size, and I was wondering how they get into orbit. Do they need to be transported and deployed from a 3U like Swarm Technologies does?
+Specifically, if I wanted to send only my 0.25U Satellite to Space without coordinating with 11 other 1/4U's to fill a 3U, is there even a provider that would do this?
+Assume for the question of pricing, I want to get to LEO.
+Thank you!

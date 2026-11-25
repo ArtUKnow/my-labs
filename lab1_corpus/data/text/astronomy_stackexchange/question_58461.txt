@@ -1,0 +1,14 @@
+convert magnitude to flux
+I have depths for my bands as ,
+depths = {
+'F115W': 28.85,
+'F150W': 28.6,
+'F200W': 28.8,
+'F277W': 29.2,
+'F356W': 29.3,
+'F410M': 28.5,
+'F444W': 28.85
+}
+It is in units of magnitude.
+How can I convert it into units of nJy. Which formula should I choose?
+(My zeropoint magnitude is 28.08)

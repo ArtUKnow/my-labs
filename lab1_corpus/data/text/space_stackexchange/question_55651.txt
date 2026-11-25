@@ -1,0 +1,2 @@
+Why did BepiColombo use an Earth gravity assist?
+Since BepiColombo didn't receive another gravity assist from a different orbiting body before reencountering Earth, wouldn't it reenter Earth's SOI with the same hyperbolic excess velocity as it initially left with?

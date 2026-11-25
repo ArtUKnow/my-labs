@@ -1,0 +1,7 @@
+Black hole universe
+It's been said that the radius and amount of matter (estimated) for the observable universe, roughly correspond to the Schwarzschild radius. Or in other words
+$$R_{ObsUn} \approx \frac {2G}{c^2} M_{ObsUn}$$
+at least within the error of our measurements. So the question sometimes arises "Are we inside a black hole?"
+I'm not primarily interested in whether these figures are actually correct, but my question is:
+What would we expect to observe from within a Gly-sized black hole (assuming such a thing could exist)? Would the observations be inconsistent with what we really observe, and if so, how?
+For example, although spacetime on planetary or even galactic scales might be approximately Minkowskian, would we expect to see a clear cosmological redshift or preferential direction pointing toward the center? Is this different than what we observe with the Great Attractor?

@@ -1,0 +1,2 @@
+What was the volume of the Rocketdyne F-1 engine's main combustion chamber?
+In the specifications of the F-1 available online, I can find its dimensions, weight, thrust, etc. but I couldn't find what was the volume of its main combustion chamber. Is this information available?

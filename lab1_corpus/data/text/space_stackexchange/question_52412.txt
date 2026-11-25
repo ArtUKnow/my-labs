@@ -1,0 +1,25 @@
+Tradeoffs between using two 34 m and one 70 m Deep Space Network dish?
+Discussion at this answer to Why does DSN sometimes uses two dishes at the same time to receive Voyager-1? include the possibility that in some cases it would be preferable to use two 34 meter DSN dishes instead of one 70 meter dish, and if a 70 meter dish somehow reached end of life it would be replaced by two 34 meter dishes that would also be lower cost to operate.
+The primary goal of this question is to address the usage aspects rather than the operation costs or the likelihood that a 70 meter dish would "wear out" any time soon. But one is welcome to touch on those too.
+Question: Given three different configurations:
+One 70 meter DSN dish
+Two co-located 34 meter DSN dishes
+Two 34 meter DSN dishes at different sites
+what are the tradeoffs between them, and under which circumstances or usage scenarios are each the best or worst option?
+Related questions and answers likely helpful to support answers here:
+What is a Beam Waveguide dish and why do deep space communications stations use them?
+How does a third DSN station serves as a “relay” to tie-together observations by two other stations doing VLBI?
+Why was Canberra able to listen to Voyager 2 but not talk to it? (aspherical cows)
+Why doesn't thermal radio emission from a DSN "hot dish" completely swamp the benefits of a cold LNA?
+Has DSS-43 ever been used in high power mode (>>20 kW) for an emergency situation?
+What is the highest non-optical frequency used or tested for use in deep space communication?
+How many hours each day is Mars reachable by 2 of the 3 DSN complexes?
+Deep Space Network's transmitter power versus frequency?
+How does Deep Space Network's DSS-14 transmit radar and receive it at (almost) the same time? (monostatic radar)
+Will future deep space optical communications "ground stations" actually be in space, or on the ground?
+What are monostatic radar observations, and how will Deep Space Network's DSS-13 be used to observe asteroid 1999 WK4's flyby of Earth?
+Why does DSN sometimes uses two dishes at the same time to receive Voyager-1?
+Understanding shape of DSN's 'kinky uplink protocol' keeping frequency in coherent transponder's optimum bandpass?
+Has Same Beam Interference (SBI) been used or at least tested at Mars? Are there plans to use it in the next few years?
+What kind of ground-based radio astronomy is NASA's DSN used for? Who are the PIs?
+What happened to the plan to build a DSN antenna array?

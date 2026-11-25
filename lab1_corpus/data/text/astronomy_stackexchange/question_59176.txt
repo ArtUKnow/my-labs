@@ -1,0 +1,19 @@
+What does it mean to model the distribution of galaxies as cosmic dust?
+I read a paper published in General Relativity and Gravitation: On the local geometry of rotating matter.
+Some of the content in Section 5 raised my doubts, and the content is as follows:
+In cosmology it is customary to model the distribution of galaxies as a dust where each galaxy is a small object, relative to the scales of interest in cosmology. If neighboring galaxies and gas clouds have orbital angular momentum which are correlated with each other, then the resulting cosmic dust will appear to have intrinsic angular momentum, when modeled on a sufficiently large scale.
+and
+The intrinsic angular momentum density and torsion of the macroscopic model are average moments of finer pseudo-Riemannian structures (like rotating galaxies) which have no intrinsic angular momentum and no torsion.
+There are two aspects to my doubts, one is about the structure and the other is about the rotation curve:
+On galaxy structure
+In astronomy, C.C. Lin and Frank Shu proposed the density wave theory to explain the spiral arm structure of spiral galaxies.
+If according to the paper:
+The intrinsic angular momentum density and torsion of the macroscopic model are average moments of finer pseudo-Riemannian structures (like rotating galaxies) which have no intrinsic angular momentum and no torsion.
+, then modeling the distribution of galaxies as cosmic dust seems to be combining the concepts of mean-field and quasiparticle with Lin–Shu density wave theory and effectively reformulate it in terms of Einstein–Cartan theory.
+About galaxy rotation curve
+It is well known that the galaxy rotation problem is an unsolved problem in current astrophysics, while the proton spin crisis is an unsolved problem in current particle physics.
+According to the paper:
+If neighboring galaxies and gas clouds have orbital angular momentum which are correlated with each other, then the resulting cosmic dust will appear to have intrinsic angular momentum, when modeled on a sufficiently large scale.
+, then modeling the distribution of galaxies as cosmic dust also seems to transform the rotation problem into a spin crisis.
+Including the above doubts, I would like to ask:
+What does it mean to model the distribution of galaxies as cosmic dust?

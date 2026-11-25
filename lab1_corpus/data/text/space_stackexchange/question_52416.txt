@@ -1,0 +1,9 @@
+Interpolation method in pitchover maneuver: what type?
+Consider the space shuttle or the Saturn V.
+Launch would begin with an open-loop pitch schedule obtained from simulation with the day’s winds.
+The pitch schedule would be specified as a lookup table with time-pitch breakpoints.
+How far apart on the time axis would those breakpoints be? If the navigation-guidance system ran at 25 Hz (period of 0.04 s), then would the pitch schedule breakpoints be specified at 0.04 s intervals?
+If yes, then maybe you wouldn’t need to interpolate between them, since the table would already be at the finest resolution the controller could follow (the 25 Hz).
+But if no, then you would need to interpolate those breakpoints. And the interpolation could be linear, cubic, etc.
+I’m curious which interpolation method the space shuttle/Saturn V would have used? Linear is simplest and those rockets weren’t rich in computing power... but could it have been a cubic spline interpolation method? Some other type?
+If you know and can share—-thank you :)

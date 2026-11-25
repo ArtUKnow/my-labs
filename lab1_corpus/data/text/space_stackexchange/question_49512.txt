@@ -1,0 +1,5 @@
+How will NASA set Perseverance to enter the atmosphere of Mars at the right location after traveling 7 months in space?
+The Perseverance rover is set to land on Jezero crater on Mars, in February 2021.
+It is clear that if you want to land in location X you need to enter the atmosphere at point Y.
+From the animated entrance video that NASA released, it seems like the spacecraft will get to Mars at the correct angle at the correct time at the correct location in order to end up in the right place, without rotating first around Mars.
+Will that be the real situation? Will the flight to Mars be planed to the minutes and seconds - while taking into account Mars' rotation around itself - so once reaching the planet the spacecraft will be able to immediately start the entry phase?

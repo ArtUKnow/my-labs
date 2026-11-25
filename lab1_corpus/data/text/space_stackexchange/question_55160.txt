@@ -1,0 +1,3 @@
+Optic communication: day and night
+Will launched time of a laser satellite teminal affect to transmission parameters, as data rate, power …?
+As I know , the main limitation of lasercom is a direct line-of-sight path exists between a sender and a receiver and weather sensitive (e.g.heavy rain, fog, snow or strong wind, sun light).

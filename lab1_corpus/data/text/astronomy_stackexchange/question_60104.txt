@@ -1,0 +1,4 @@
+Does the lowest altitude of a star depend on the latitude?
+In my understanding, when the sun rises or sets we consider that its altitude is around $0^\circ$ from the horizon level.
+For stars, is it indeed the case that the lowest altitude for a star is also on altitude of around $0^\circ$, i.e. just barely visible? Or this depends on the latitude we are on?
+For context, this is related to my other question for which I have made the assumption that the lowest altitude of the star is at $0^\circ$.

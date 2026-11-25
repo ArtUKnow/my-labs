@@ -1,0 +1,3 @@
+Why wouldn't vat photopolymerization work in space?
+This question implied that VPP has been evaluated and discarded as a potential zero-G manufacturing method.
+That may be true for layer-by-layer resin systems, but what about a two-photon system with a fully enclosed vat? Why wouldn't that work?

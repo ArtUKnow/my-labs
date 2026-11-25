@@ -1,0 +1,4 @@
+Does Perseverance's SuperCam include a Martian meteorite? If so, why?
+An automotive blog claims that
+There actually seems to be another Martian meteorite being sent to Mars, as part of the SuperCam calibration target. Shouldn’t we be keeping all the Mars rocks we have on Earth? Send some Earth gravel there if you really want a rock, but I’d think Mars bits are worth keeping here?
+The system description of SuperCam mentions no material of Martian origin. Does SuperCam nevertheless have some? If so, what's so special about that compared to the rest of Mars?

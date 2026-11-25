@@ -1,0 +1,2 @@
+Why does the blue loop occur?
+I understand that the blue loop is a loop in the HR diagram performed by stars from 2-8 solar masses. I was curious as to why they occur, but when I researched all I got is that it is when the star begins to fuse helium. However, these stars do not undergo a helium flash as their cores are not degenerate.

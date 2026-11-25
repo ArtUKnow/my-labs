@@ -1,0 +1,14 @@
+What dollar value does NASA put on astronauts' “Value of Statistical Life”?
+Agencies such as the Department of Transport use a concept known as “Value of Statistical Life” (VSL) when making spending decisions about safety measures such as guard rails, highway lighting and air bags. A value, currently about $13M per life, is set by policy. If calculations show that the proposed program reduces mortality for less than the VSL, it gets the green light.
+NASA uses a slightly different process for assessing risk mitigation cost, using “probability of loss of crew” (LOC) and “probability of loss of mission” (LOM) which is currently 1:270.
+From: https://oiir.hq.nasa.gov/asap/documents/ASAP_Public_Meeting%20Minutes_7-16-10.pdf
+requirement for probability of LOC on an International Space Station
+(ISS) mission has changed from 1/1000 to 1/270. This reduction in
+required safety came about, in large part, because of recent analyses
+that indicated that Ares 1/Orion could not meet previous goals using
+their current design. The new Agency criteria for future human
+spaceflight missions are less than one-third as safe as the old
+criteria and are not even significantly better than current Shuttle
+risk estimates.
+Improving safety often involves increased training, redundancy, and testing… all of which have impact on program costs.
+As practiced by NASA, how does their LOC/LOM standard translate into VSL ?

@@ -1,0 +1,10 @@
+satellite ground track in skyfield
+I'm trying to get the geographic location (longitude & latitude of a satellite) converted from the position in space for example:
+position = (7033.45648791, 178.93192295, 0.00290722) Km.
+longitude = 165.285, latitude = 0.000 degrees
+i tried to use skyfield
+from skyfield.api import wgs84
+position = (7033.45648791, 178.93192295, 0.00290722)
+geo = wgs84.geographic_position_of(position)
+print(geo)
+here the position is a tuple but it raises an AttributeError: 'tuple' object has no attribute 'center'. so I don't know what object type to use and the documentation is not helping

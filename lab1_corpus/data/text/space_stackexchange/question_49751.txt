@@ -1,0 +1,2 @@
+Is it always one nozzle per combustion chamber and one combustion chamber per nozzle?
+When I read about engines like the RD-170 they might have a single turbopump feeding multiple combustion chambers, and each combustion chamber has its own nozzle. Is there, or would it be reasonable to have, an engine with multiple combustion chambers feeding into one big nozzle? Or a combustion chamber with two nozzles, for instance to allow for roll control?

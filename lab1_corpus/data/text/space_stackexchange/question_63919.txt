@@ -1,0 +1,7 @@
+Any place to download ATMOP's DTM-2012 / DTM-2013 models?
+Once there were an old "Drag Temperature Models" DTM2012 and DTM2013 at http://www.atmop.eu
+According to web archive in 2020 they were still available for downloading after registration:
+https://web.archive.org/web/20200809075513/http://www.atmop.eu/index.php/downloads
+It seems now ATMOP project is closed. The site is dead.
+I'm interested in a DTM2012/2013 data files and perhaps a linux binary.
+Is there any way to get this data?

@@ -1,0 +1,2 @@
+Is it feasible to use a solar escape burn to get to another planet in less time than in a Hohmann transfer?
+Is it possible to have a mission where say 8.751 km/s of delta-v is applied from LEO, putting it in solar escape trajectory, but the burn is timed so by the time it gets to a certain planet's orbit the planet is actually there? And would the direction the ship takes be tangential to the sun or would the sun curve it as it escapes its gravity?

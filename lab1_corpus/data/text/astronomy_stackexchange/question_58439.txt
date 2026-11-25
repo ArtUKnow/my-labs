@@ -1,0 +1,25 @@
+Luminosity function calculation
+I have M_UV(absolute UV magnitudes) and redshifts of some high z sources and I want to fit UVLF for them.
+data = [
+{"ID": "SM-z12-1", "z_phot": 12.47, "M_UV": -18.5},
+{"ID": "GL-z12-1", "z_phot": 12.28, "M_UV": -21.0},
+{"ID": "CR2-z12-1", "z_phot": 11.63, "M_UV": -19.9},
+{"ID": "CR2-z12-2", "z_phot": 11.96, "M_UV": -19.0},
+{"ID": "CR2-z12-3", "z_phot": 11.66, "M_UV": -19.2},
+{"ID": "CR2-z12-4", "z_phot": 12.08, "M_UV": -19.2},
+{"ID": "CR3-z12-1", "z_phot": 11.05, "M_UV": -18.4},
+{"ID": "S5-z12-1", "z_phot": 12.58, "M_UV": -20.2}
+]
+data from paper https://iopscience.iop.org/article/10.3847/1538-4365/acaaa9/pdf
+I have put the completeness as 1 for easiness
+I divided the magnitude into bins of 0.5 , then calculated the number of galaxies within that bin.
+Then calculated the co moving volume by using asrtopy.cosmology_comoving_volume(z), where z is the redshift of the sources.
+Since i put completeness as 1, I can put the Veff as the comoving volume itself(according to the below equation)
+Then I want to calculate the space number density as ,
+I have done this in terms of the M_UV absolute magnitude (And not the apparent magnitude).
+And then I plotted the LF and it looked like ,
+which doesn't seem a good one as the y range is in the order of 10^-13.
+The plot I have from a paper is ,
+which has the y lim in the range of 10^-6.
+Can somebody help me in figuring out where could have it gone wrong. I tried changing the bin size and it changes the shape of the LF but not the range of y that occur.
+Am I following the correct method to plot the Luminosity function

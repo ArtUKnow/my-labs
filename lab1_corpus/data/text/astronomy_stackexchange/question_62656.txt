@@ -1,0 +1,25 @@
+How can viewing geometry and instrumental response be distinguished from changes in solar emission?
+I am an undergraduate mathematics student, and I have recently begun working with ground-based observations of solar emission. I am familiar with the definition of Pearson's correlation coefficient, but I have little experience with astronomical time series or the physical interpretation of observational discrepancies.
+I am comparing two independently obtained time series related to solar activity. One contains repeated measurements of a received signal, expressed in instrumental power units rather than absolutely calibrated solar flux units. The other is an independently obtained daily solar-emission index. The observables are not identical, and their responses to changes in solar activity may differ.
+The first dataset contains irregularly spaced measurements, sometimes with many observations on one day and none on another. To construct a daily time series, I calculated the median of the available measurements on each calendar date:
+$$
+X_d=\operatorname{median}\{p_i:t_i\in d\}.
+$$
+I matched the resulting daily values with the reference series, retaining only dates for which both were available. I did not interpolate missing days. According to my processing notes, the Pearson calculation used the logarithm of the reference index, so the paired quantities were $X_d$ and $Y_d=\ln N_d$.
+I initially chose Pearson's coefficient as a simple way of examining whether the two observables varied together before trying to establish a quantitative relationship between them.
+In one observing period, containing 11 matched days, the correlation was approximately $r=0.91$. In a second period, containing 13 matched days, it was approximately $r=0.89$. However, when I combined all 24 paired observations and recalculated the coefficient, I obtained only $r=0.11$.
+I noticed that the mean of the first observational series had increased by approximately 25% between the periods, whereas the mean of the original, untransformed reference index had decreased by approximately 16%.
+As a diagnostic, I subtracted the corresponding period means from both variables:
+$$
+X_i'=X_i-\overline{X}_{g(i)},\qquad
+Y_i'=Y_i-\overline{Y}_{g(i)},
+$$
+where $g(i)$ denotes the observing period. The Pearson correlation of the centred observations was then approximately $0.89$.
+I understand that the law of total covariance explains how strong correlations within separate groups can coexist with a weak correlation after pooling them. However, this only explains the statistical behaviour. It does not tell me why the relative observational levels changed.
+I also examined another pair of observing periods, where combining the measurements did not produce the same decrease in correlation.
+One possibility I have begun investigating is whether the observational sampling contributes to the discrepancy. Changing the boundaries used to aggregate observations into daily values affected the resulting medians, but did not eliminate the difference in their average levels between the two periods. I have not yet completed a corresponding comparison of the correlation coefficients using the alternative daily windows.
+Another concern is viewing geometry. The sensitivity of the first observing system depends on the direction of the source, and the directional response can in principle be modelled. However, I have not yet verified whether the particular recorded values used in this comparison were already corrected for that response. Thus, I cannot presently distinguish a possible instrumental or geometrical effect from a genuine change in the relationship between the solar observables.
+My question is: what observational checks would be most informative for distinguishing changes in intrinsic solar emission from changes in instrumental response or viewing geometry in this situation?
+In particular, would comparing measurements obtained under similar viewing conditions be physically meaningful, and what assumptions would be necessary before interpreting a remaining difference between periods as a property of solar emission rather than the observations?
+I would also be grateful for a reference to an observational solar-physics study that works through a similar problem. I am trying to understand the relevant physical reasoning before proceeding to more elaborate statistical modelling.
+Disclosure: I used ChatGPT to help structure and translate this question into English. The observational problem and numerical results are from my own work.

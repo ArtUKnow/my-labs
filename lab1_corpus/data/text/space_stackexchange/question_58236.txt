@@ -1,0 +1,19 @@
+Radio Telescope / DSN Node in L4 and/or L5
+Deploying really big radio dishes in space seems to be possible and "frequently" done with SIGINT satellites in geosynchronous orbit (like the assumed specs of the Orion satellite class). They are said to have a 100m parabolic antenna.
+What would the challenges be to bring a radio telescope with such a nice dish out to L4 and or L5?
+Benefits:
+(relatively) radio silent
+can keep communicating with planetary probes while the planet is in opposition with earth
+can point at one object for prolonged periods of time
+this dish/es used with earth bound dishes as an interferometer would provide an amazingly wide baseline (at least in one dimension)
+L4 and L5 are "stable" so the device could operate for a very long time with limited fuel use
+it's outside earths magnetosphere (maybe less distortion on signals)
+Issues:
+getting something big to L4 / L5 is neither easy nor cheap
+data needs to be transmitted 150Gm (1AU) to earth, probably requiring DSN capacity (would laser communication be possible over that distance?)
+the radio telescope hardware can't be upgraded
+is outside of earths magnetosphere (fully exposed to stellar and interstellar particles)
+Does anyone know if such a mission is
+planed?
+proposed?
+would make sense?

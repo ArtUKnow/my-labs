@@ -1,0 +1,4 @@
+Where to find a list of all the individual payloads intended to be deployed by (crazy-looking) SpaceX Transporter-14?
+The image below is from this SpaceX tweet about the Transporter-14 mission, launched from Vandenberg in a polar orbit, which I learned about from Wired's June 23, 2025 Scientists Are Sending Cannabis Seeds to Space where the higher levels of radiation experienced when passing across the poles were part of at least one experiment.
+Does a list exist of all the individual payloads that were intended to be deployed by SpaceX Transporter-14? I understand Celestrack's Satcat provides a list of objects that successfully separated, but I'm looking for the original plan.
+Ideally each entry would have a link to a description, but not sure if that's possible.

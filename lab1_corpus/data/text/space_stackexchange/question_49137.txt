@@ -1,0 +1,10 @@
+What skipped test on Genesis would have detected the backwards-inserted accelerometer which didn't deploy the parachute?
+What precautions are planned to prevent samples returned from Mars crashing and releasing organisms on Earth? and this answer to Why would bringing samples from Mars back to Earth be a “civilization-level changing capability”? cite the crash landing on Earth of the return capsule from the Genesis mission.
+Despite the crash the mission was a success in that solar wind particles embedded in special materials were not seriously contaminated and could still be analyzed such that all success criteria were met.
+That Wikipedia article links to this archived version of Space.com's Genesis Update which says in part:
+Michael G. Ryschkewitsch, who heads a board investigating the mishap, said the planned test would have spotted the fatal flaw and prevented the crash.
+"If the test had been done, the problem would have been caught," said Ryschkewitsch, the deputy director of NASA's Goddard Space Flight Center.
+Officials at Lockheed Martin do not dispute that conducting the pre-launch test would have uncovered the error that doomed the $264 million missions.
+Question: Exactly what was the nature of the test that was skipped? Was it simply a sufficiently long period of acceleration at 3 g to close the contacts or did it rise to the 30 g maximum anticipated? How was the acceleration of sufficient magnitude and duration going to be generated?
+"bonus points" for information addressing why there wasn't a visual cue for the proper direction; wasn't there an arrow or something printed right on the G-switch?
+Wikimedia: "Genesis crash site scenery"

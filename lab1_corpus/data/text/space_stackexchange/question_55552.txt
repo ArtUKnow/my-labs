@@ -1,0 +1,4 @@
+Access to Chebyshev coefficients from JPL ephemerides
+I want to generate an ephemeris file containing the Chebyshev coefficients, similar to how we can generate ephemeris file of positions with Horizon tool (https://ssd.jpl.nasa.gov/horizons/app.html#/). I would like to do the same, that is to, say, be able to choose the target body, coordinate center, dates, and generate the ephemeris file containing the Chebyshev coefficients associated.
+Do you know a tool, or a program which is able to do this? I have done a lot of research, but I haven't found one.
+I tried with SPICE but I didn't find a method allowing to extract Chebyshev coefficients like this.

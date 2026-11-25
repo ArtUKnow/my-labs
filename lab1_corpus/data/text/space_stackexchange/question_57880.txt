@@ -1,0 +1,11 @@
+How does a fusible wire deployment mechanism work?
+Situation
+Me and my student team are considering to use fusible wires in our CanSat to control the parachute and payload deployment.
+In detail, a mechanism using a fusible wire should release a loaded spring which will then provide the necessary force to operate both of our deployment mechanisms.
+Questions
+1:
+What do we have to be aware of, when we want to use this type of mechanism in our CanSat, where space is a very valuable resource and how could such a mechanism work?
+Is "direct holding" of the spring (0.75kg-1kg of force) by the wire itself an option? Or does it need a type of release mechanism which is triggered by a fusible wire?
+2:
+What material (and in which diameter) can a fusible wire be made of, to have the lowest melting point possible...
+[...and how much power would that draw approx. using a 7.6V PCDU]

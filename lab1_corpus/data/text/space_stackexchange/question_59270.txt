@@ -1,0 +1,3 @@
+Why was the Atlas V's SRB kept attached for 1 minute after burnout in the OFT-2 mission?
+In Boeing's OFT-2 mission, an Atlas V is the launch vehicle. The solid rocket booster burns out at T+ 1:35 minutes, but the boosters are jettisoned at T+ 2:40 minutes. Why are the boosters not jettisoned immediately after burnout?
+Boeing OFT-2 NASA Stream SRB Burnout

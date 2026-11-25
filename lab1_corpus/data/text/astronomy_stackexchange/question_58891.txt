@@ -1,0 +1,4 @@
+Determine the age of an open cluster (M41)
+I'm currently conducting a photometric study of the M41 open cluster and have successfully built its Hertzsprung-Russell diagram. Now, I'd like to estimate the age of the cluster by fitting an appropriate isochrone to my diagram. However, I’m struggling to find suitable isochrones online, and so far, I haven't been able to find one that matches my data well.
+Could someone tell me where to locate reliable isochrones online?
+Thank you!

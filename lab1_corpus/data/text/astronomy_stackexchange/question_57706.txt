@@ -1,0 +1,3 @@
+Why does infrared pass through clouds of gas and dust with minimal extinction?
+Why do we use Infrared to view through clouds of gas and dust in space? I understand that it is because it can pass through without being absorbed, but why is this? My thinking is that it is because there are minimum energy transitions of infrared, causing less light to be absorbed, but when I look at the hydrogen Bohr model there are clearly transitions that produce or absorb infrared light.
+Are these transitions less probable? Is there another reason why Infrared passes through nebulae with minimal extinction?

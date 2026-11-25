@@ -1,0 +1,5 @@
+Are L1 and L2 orbital periods always half the orbital period of the massive bodies?
+Are L1 and L2 libration point orbital periods always half the orbital period of the massive bodies?
+The halo orbital period of JWST is a half a year. https://webb.nasa.gov/content/about/orbit.html
+The halo orbital period of Artemis-P1 around either Earth/Moon L1 or L2 is a half a lunar month. https://www.nasa.gov/mission_pages/themis/news/artemis-orbit.html
+Is this a coincidence or an inherent property of halo orbits?

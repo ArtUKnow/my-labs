@@ -1,0 +1,6 @@
+High altitude platform: inter-platform link regulation?
+Does anyone know if ITU has a recommendation for HAP-HAP (High altitude platform-High altitude platform) or LAP-LAP * or HAP-LAP links recommendation as for inter-satellite links with frequency, latency and etc.??
+Some ITU-R studies estimated that the total spectrum needs for HAPS systems lie in the range from 396 MHz to 2 969 MHz for the ground-to-HAPS platform links and in the range from 324 MHz to 1 505 MHz for the HAPS-platform-to-ground links.
+In all Documents I found I can not fins inter-platform link frequency band
+LAP - Low altitude platform
+HAP - High altitude platform

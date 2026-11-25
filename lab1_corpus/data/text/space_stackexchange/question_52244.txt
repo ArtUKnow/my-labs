@@ -1,0 +1,5 @@
+Is Geothermal Cooling on Venus Possible?
+Would geothermal type cooling be possible for a stationary base on the surface of Venus?
+Would the subsoil temperature of Venus hotter or cooler than the atmospheric temperature? (464C / 867F average atmospheric temperature per NASA)
+The surface of Venus has many issues to overcome, including the hot, dense atmosphere. The scope of this question is limited to understanding how heat exchange to provide cooling could work on Venus.
+I saw this question about using geothermal on the moon for heat that looks impractical to construct because of the depth required.

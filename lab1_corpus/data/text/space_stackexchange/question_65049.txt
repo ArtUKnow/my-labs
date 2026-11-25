@@ -1,0 +1,20 @@
+What's wrong with solar power on China's Tiangong space station?
+There was recently an article on Golem.de which claimed, that the area of the solar panels in the picture are larger than half of a football field. Which is of course an ill defined unit of area (for national matches it has a range of 4050 m² to 10800 m², the standard seems to be 7140 m² (source)). So I was looking for better defined numbers.
+German Wikipedia is quite helpful in that respect. It lists:
+Tianhe (core module): 2x67 m² so 134 m² for a total of 9 kW, or 10 kWp in best conditions (source)
+Mengtian: 2x110 m² so 220 m² for a total of 13.75 kW, or 14.6 kWp in best conditions (source)
+Wentian: 2x110 m² so 220 m² for a total of 13.75 kW, or 14.6 kWp in best conditions (source)
+So we have a total of: 574 m² for 36.44 kW or 39.2 kWp
+Then there is this page which claims that the ingenious solar cells have 30 % efficiency and the station has a total power of 27 kW. This made me wonder again, no way that is right.
+The solar irradiance in space at earth orbit is 1361 W/m² (source) which leads to these:
+Efficiency Tianhe:
+Irradiance: 182 kW
+-> 10 kWp / 182 kW = 5.48 %
+Efficiency Mengtian / Wentian:
+Irradiance: 299 kW
+-> 14.6 kWp / 299 kW = 4.88 %
+Which seems very low, but these are very flexible solar panels.
+For comparison: The iROSA modules manage more than 20 kW from 109.2 m² which converts to 13.4 % efficiency. (source)
+So I think there is some form of mistake in my research or my conclusions. Of course you can just say, that Chinese technology is lagging, but I have my doubts. I'm usually just skimming the news around space exploration, as I find it interesting but too far out of my scope to really get into it - so I guess my research is based on lousy references or something.
+Edit:
+Another source mentions 800 m² large solar array. But it could be that it means the total structure and not just the active area, but that seems like a rather large overhead.

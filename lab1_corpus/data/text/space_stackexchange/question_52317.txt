@@ -1,0 +1,3 @@
+Maximum lateral loads on space shuttle during launch?
+The space shuttle TVC controller included an acceleration term which kicked in above 547 ft/s to alleviate side loads caused by wind shear, etc. The acceleration term basically allowed the shuttle to fly into the wind to reduce angle of attack, and this would be done even if it took the shuttle off course (until velocity hit Mach 2.2, at which point the shuttle would go back to tracking its attitude schedule).
+My question: what was the lateral load limit on the shuttle? I’ve seen charts of Falcon 9 showing a 1g limit along one of the lateral axes, I believe. How much lateral acceleration (e.g. from wind gusts) would have been acceptable in the space shuttle?

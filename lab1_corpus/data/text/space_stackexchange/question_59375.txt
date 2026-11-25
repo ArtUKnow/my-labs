@@ -1,0 +1,5 @@
+Could a spacecraft theoretically fly a smooth, curved arc of a turn in space like an aircraft?
+I understand there in no air is space which is what allows an aircraft to fly a curved flight path. This is strictly a theoretical question given today's technology. Here are the conditions:
+There is an unlimited amount of fuel.
+There are many small reaction control system (RCS) thrusters placed strategically around the spacecraft, with near instantaneous gimbal reaction speed, to allow for very small and precise thrust firings to control trajectory.
+An advanced computer code allows for the firing of selected thrusters in very rapid (and repeated if necessary) succession to trace a relatively smooth arc. The spacecraft is not using air to curve the path but precisely directed, and timed, thrust firings from the RCS.

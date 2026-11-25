@@ -1,0 +1,2 @@
+What modifications would be necessary to make to a Mars rover to let it land on Phobos or Deimos?
+What modifications would be necessary to make to a Mars rover to let it land on Phobos or Deimos? In this question, I found out that a Mars rover would need a host of modifications to land on Phobos or Deimos. What would those modifications be? Assume that NASA is aiming to have the least amount of changes possible.

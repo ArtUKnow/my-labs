@@ -1,0 +1,3 @@
+Is Satellite Based Augmentation System ,used in GPS, a Differential Technique?
+I've read that to get a higher accuracies in GPS, we use differential positioning techniques which compute for satellites errors, using well-known position base station.
+I want to know if the Satellite Based Augmentation System uses the same techniques ?

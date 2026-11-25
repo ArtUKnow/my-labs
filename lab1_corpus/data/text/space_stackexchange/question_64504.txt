@@ -1,0 +1,14 @@
+Definition of "stable orbit"
+I often struggle with the term "stable orbit" for objects in earths sphere of influence, since all real orbits are affected by disturbing forces.
+Sentences like:
+It is not possible to achieve a stable low lunar orbit
+or the question
+Is a stable orbit around a Lagrange point possible?
+make sense to me, but it seams to me like the term is used very inflationary in LEO without really questioning its meaning. It is not uncommon to read sentences like:
+Satellite XY reached a stable orbit!
+In most cases the autor wanted to say "The Satellite XY will not reenter in matters of hours" which for my understanding is wrong terminology since a circular orbit above 300 km altitude is as "stable" or "unstable" as a elliptical orbit with a perigee below sea level. And all object in LEO will reenter, only the time of survival varies.
+From the engineers perspective "stable" would mean "no change" (mostly the term is used about a systems energy). For real orbits this is not achievable since orbit parameters will change due to perturbations (again it doesn't matter how long the object will survive in this orbit).
+So I assume the term was used in early rocketry for public relations reasons and somehow have been adopted into everyday language and than came back into professional wording. Which leads me to the conclusion:
+As long as there is no adopted convention or definition for this term, its usage is wrong for professional purposes.
+So my question is:
+Is there any (official) definition of "stable orbit"? (not including theoretical keplerian orbits)

@@ -1,0 +1,2 @@
+Why will Artemis II not orbit the Moon?
+The Artemis II mission will loiter in an elliptical, high-Earth orbit before the Orion uses its own propulsion to complete the trans lunar injection (tli), thus using the fuel it might’ve otherwise used to insert itself into lunar orbit. A traditional mission would use the launch vehicles upper stage to complete TLI. Why is this not being done for Artemis II?

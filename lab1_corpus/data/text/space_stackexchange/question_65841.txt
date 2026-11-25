@@ -1,0 +1,2 @@
+How much deltaV would it take to launch from the top of mount Everest straight up then circularize at 200km once in space?
+I realize there are several similar questions, but i didn't see mention of the amount of deltaV needed beyond saying there is a slight benefit that is more than offset by dozens of social/political/economic factors.

@@ -1,0 +1,4 @@
+Draper Labs' Control Moment Gyroscope Spacesuit
+Back in 2013/2014 Draper Laboratory announced that they were designing and testing a "spacesuit jetpack" that employed control moment gyroscopes (CMG) to allow astronauts to preform EVAs more easily and with more control. Does anybody know what ever happened to this project?
+I read that they were testing it in augmented reality. Also, NASA was involved in this process as a sort of curious supervisor?
+Washington Post Article (2013)

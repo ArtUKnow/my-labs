@@ -1,0 +1,14 @@
+How much do the Voyagers' attitudes drift over time? How often are their thrusters used for attitude control?
+@Hobbes' answer to Voyager 1's tape recorder and other angular momentum management issues says:
+There are no reaction wheels on Voyager [...] Voyager is not spin-stabilized. It used thrusters for stabilization, to provide a stationary platform for the cameras.
+To How would the Voyagers finally die if allowed to transmit to the bitter end? is
+In this scenario, the last straw would be the hydrazine freezing which leads to loss of the thrusters.
+And to Could the Voyager spacecraft be spin-stabilized to keep their high gain antennas pointing towards the Sun (and therefore Earth)? is
+There is enough hydrazine to last beyond the end of the mission, about 25% of total tank volume is still available. From Descanso volume 4, you can see enough hydrazine for attitude control is available to last until 2040/2048
+[...]I have found no references to spin stabilization as an option for Voyager operations: because of the above, the Voyager team never had to consider spin stabilization.
+The Voyagers have a rather unique situation; after decades in deep space they are still able to perform accurate acceleration measurements via rate-range data from their coherent transponders, and so there was an effort to pay careful attention to their thrusters so as not to interfere with radial velocity measurements.
+How are the Voyagers' thrusters configured in a novel way to minimize accelerations along Earth-spacecraft axis?
+How are Voyager's 16 thrusters oriented?
+How do Voyager 1's Trajectory Control Thrusters differ from its Attitude Control Thrusters?
+What does it mean when the Voyagers "switch thrusters"?
+Question: How much do the Voyagers' attitude drift over time? How often are its thrusters used for attitude control? Are the valves actuating and thrusters burning once an hour? Once a day? Once a month? Are they both about the same?

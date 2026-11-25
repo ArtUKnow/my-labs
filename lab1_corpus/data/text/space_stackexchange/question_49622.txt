@@ -1,0 +1,3 @@
+Falcon 9 altitude and speed during reentry burn?
+After MECO, stage 1 of Falcon 9 does up to three engine burns: a boostback burn followed by a reentry burn followed by a final landing burn.
+I'm interested here in the reentry burn. How high and how fast is stage 1 going when it begins the reentry burn? How high and how fast when it ends the burn? How long does the burn last?

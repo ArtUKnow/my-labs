@@ -1,0 +1,2 @@
+Was Apollo 8 lunar orbit entry speed intentional at 7,777 ft/s?
+When Apollo 8 first went behind the back side of the Moon, it was traveling at 7,777 feet per second (https://history.nasa.gov/afj/ap08fj/12day3_lunar_encounter.html). Was the speed being all 7s (the traditionally lucky number in western culture) intentional or just a coincidence? How was it possible to control the speed (or even measure it) down to a specific ft/s level?

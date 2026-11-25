@@ -1,0 +1,35 @@
+GPS SV velocity mismatch
+When using classic Newton's second law we have
+$$
+\vec{F} = m \vec{a}
+$$
+$$
+\vec{F} = G \frac{M m}{r^2}{e_{r}}
+$$
+$$
+\vec{a} = \left( \frac{d^2 r}{dr^2} - r \left( \frac{d \phi}{dt} \right)^2 \right) \hat{e_{r}}
+$$
+Because eccentricity of a GPS orbit is around e = 0.005 I believe we can treat GPS orbits as circular and write
+$$
+G \frac{M m}{r^2} = m r \left( \frac{d \phi}{dt} \right)^2
+$$
+Replacing angular velocity
+$$
+\frac{d \phi}{dt} = \frac{v}{r}
+$$
+finally we get
+$$
+v = \sqrt{\frac{G M}{r}}
+$$
+Now, GM ($\mu$) taken from GPS specification is $3.986005 * 10^{14} [m^3/s^2]$, $r$ taken from decoded ephemeris is about $26414660 [m]$. All this gives us
+$$
+v = 3885 [m/s].
+$$
+But the same ephemeris data, when decoded according to GPS Interface Specification, Table 30 (SV Velocity) gives values around
+$$
+v = 2774 [m/s]
+$$
+for SV velocities.
+At the beginning I thought that my procedure to calculate SV velocity is wrong. But later on found on the web (https://www.gps.gov/technical/icwg/meetings/2019/09/GPS-SV-velocity-and-acceleration.pdf) some other calculations where SV velocity is in the range 2600 to 3100 [m/s] with avarage 2880 [m/s].
+And the question is. Can someone explain why I get such big difference when using classic Newton's law (3885 m/s) and when using ephemeris data (2774 m/s)? Most likely my understanding is wrong, but still cannot figure out what is wrong.
+Satellite position, velocity and acceleration as decoded from ephemeris can be found here https://github.com/lukasz-wiecaszek/gr-gnss/blob/master/examples/kepler.dat

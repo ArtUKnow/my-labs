@@ -1,0 +1,7 @@
+What space applications could benefit from batteries with much higher power densities than the common Li-ion type?
+This Australian company claims the development of the Graphene Aluminium-Ion Battery that is up to 70 times faster in charging and has up to 3 times more battery life than current Lithium-Ion Batteries.
+However, this update shows in a table power densities for Graphene Al-ion and Li-ion batteries of 9350 W/kg @ 30C and 1603 W/kg @ 8C resp., with about the same order of energy density !
+I think if this battery can charge so much faster it could also discharge much faster than an Li-ion battery with the same weight and so if for instance the Ingenuity helicopter would have been equipped with Graphene Aluminium-Ion Batteries it could lift much heavier payloads, although for a much shorter time.
+But what other space applications could benefit from such batteries with much higher power density than, and the same order of energy density as the current Li-ion batteries ?
+The pulsed inductive thruster for example ?
+Many less batteries needed for a space-based maglev Sky Ramp (StarTram) ?

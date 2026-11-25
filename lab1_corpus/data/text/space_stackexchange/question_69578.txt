@@ -1,0 +1,7 @@
+First successful use of an imaging chip (e.g. CCD) in space?
+Continuing a series of spaceflight-firsts questions, I'd like to know; what was the first successful use of a solid-state, digital imaging chip in space.
+I'm also curious if it was on a deep space mission or in Earth orbit.
+Ideally, two answers - one for each chase would be great!
+For the Voyagers and earlier, I believe vidicons and other "TV camera" type systems were used - some kind of photosensitive screen that was read out by slowly scanning an electron beam across the surface. cf. What was the first space telescope to produce a 2D image with recognisable features? and for gory details salt and pepper noise
+Also see answers to Physics SE's Cameras in Voyager probes
+And for reference, this was recently asked and quickly answered in Astronomy SE: First scientific use of a CCD device for astronomical observation?

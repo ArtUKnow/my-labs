@@ -1,0 +1,6 @@
+Was Chandrayaan-1 recovered (tracked) only that one time in 2016, or is someone still keeping an eye on it from time to time?
+Has there ever been probability of conjunction between spacecrafts in Lunar orbit? describes a recent maneuver of two spacecraft in orbit around the moon to avoid a potential collision:
+Apparently ISRO's Chandrayaan-2 orbiter and NASA's LRO narrowly avoided a possible conjunction event in Lunar orbit due to timely assessment and action of both agencies.
+https://www.isro.gov.in/update/15-nov-2021/chandrayaan-2-orbiter-ch2o-performs-evasive-manoeuvre-to-mitigate-critically
+which made me wonder where Chandrayaan-1 is, if anybody knows, if it's been tracked or at least spotted again since 2016, and if it poses any threat.
+Why was the 100m Green Bank dish needed together with DSN's 70m Goldstone dish to detect Chandrayaan-1 in lunar orbit?

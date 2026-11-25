@@ -1,0 +1,7 @@
+How much additional thrust could the electron gun produce for electric sail propulsion?
+Suppose there is an electric sail in LEO, do the electrons coming out of the gun produce an additional thrust? to produce a net thrust the electrons should NOT return to the satellite (which is at a typical positive potential of 20kV).
+source of the image: Mengali, G., A. Quarta and P. Janhunen, Electric sail performance analysis, J. Spacecr. Rockets, 45, 122-129, 2008 via
+electric-sailing.fi more info available on other pages there, in Wikipedia's Electric Sail and at
+How can an electric sail be used for deorbiting considering that it doesn't work inside the magnetosphere?
+What powers an e-sail? Michael Flynn and Philo T. Farnsworth alerts!
+note: The function of the electron gun is to eject electrons from the wires to maintain it at a high positive potential.

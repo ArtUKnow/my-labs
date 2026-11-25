@@ -1,0 +1,8 @@
+Can "prolateness" be characterized by a $J_2$ coefficient like "oblateness"?
+When an imperfect sphere can be obtained by rotating an ellipse around an axis, it is called a spheroid. There are two types of spheroids, oblate ones and prolate ones.
+Most solar bodies can be assimilated to an oblate spheroid, for the purpose of first approximation computations, such as the prediction of satellite movements orbiting that body. The Earth is one of them. On the other hand, some moons in the solar system have a prolate approximation.
+When a planet is approximated by an oblate spheroid, its oblateness is characterized by a single coefficient often referred to as $J_2$. When $J_2$=0, the planet's shape is close to a sphere. High positive $J_2$ means that the eccentricity of the ellipse of revolution is high. For example the J2 of Mars is almost twice that of Earth, according to this NASA site.
+Can $J_2$, and it alone, be used to characterize the shape of an prolate body? If yes, is there any concrete example of such a characterization?
+This question was triggered by Any exact analytical solution for non-Keplerian orbits ..., where it can be read
+These refer to Kelperian-like orbital parameterization of orbits around an oblate/prolate spheroid characterized by $J_2$.
+At first reading, my interpretation is that the sentence implies that oblate and prolate spheroids differ only by the value of a single characteristic coefficient. In addition, in further comment threads, @uhoh seems to claim that the sign of $J_2$ is what makes the difference.

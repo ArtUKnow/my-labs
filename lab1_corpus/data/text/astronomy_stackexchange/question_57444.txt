@@ -1,0 +1,6 @@
+What is the explanation for discrepancies in RA values at Santa Maria Degli Angeli e dei Martiri in Rome
+There is a meridian line in the floor of this church in Rome: http://www.santamariadegliangeliroma.it/paginamastersing.html?codice_url=La_Meridana&
+I took this photograph which shows the inlaid brass Right Ascension measurements for various stars: Spica Virginis (Spica), Leonis Cauda (Denebola?), Orionis Pes Lucidus Rigel (Rigel) and Pegasi Os (Epsilon Pegasi?).
+I've been trying to match up the numbers on the floor with the present RA of the stars. I'm aware that the meridian relative to which these figures were recorded may be an obscure one (it doesn't seem to be Paris or Greenwich, but neither is it Rome). I'm getting values between 3.6° and 3.8° for the difference between the numbers on the floor and the present RA figures.
+There is a recent paper (in English) which discusses some aspects of the meridian line, but doesn't answer my question: MODERN OBSERVATIONS USING THE 1702 MERIDIAN LINE OF THE BASILICA OF SANTA MARIA DEGLI ANGELI E DEI MARTIRI (ROME)
+(Another thing that is unclear to me is just what the scales on either side of the meridian line are measuring—50–52 and 118–130 in the photo.)

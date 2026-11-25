@@ -1,0 +1,3 @@
+Did the Perseverance sky crane kick up more dust than expected?
+The video of the Perseverance landing showed the rover descending into a cloud of dust kicked up by the landing rockets. This is not surprising, but I always had the understanding that one of the reasons for the sky crane approach was to avoid precisely that. I realize there were other reasons. This Wikipedia entry gives a good overview, and this news article actually doesn't even mention the dust issue as a main reason.
+So, I'm curious - was there more dust than expected? And was avoiding dust spray (say, avoiding even worse dust than they got) a significant engineering consideration?

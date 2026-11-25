@@ -1,0 +1,4 @@
+Earth Rise / Set graph for observer on Moon
+Assume orbits of moon around and earth to be simple circles.
+As viewed from the Moon how do we draw a time graph in order to include earthrise and earth set occurrence times?
+Earth Angular Diameters are shown here. However, how is a basic sketch configuring the Sun, Moon and Earth made to include moon visibility and invisibility?

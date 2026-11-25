@@ -1,0 +1,27 @@
+What is it about metal propellant that can provide a "magnitude improvement in thrust, with a magnitude reduction in volume and mass”?
+This question is inspired by recent news about a startup company Magdrive
+CNN's March 18, 2025 Satellites powered by solid metal could one day use space junk for fuel
+Space News' February 25, 2025 Magdrive raises $10.5 million and opens U.S. office
+CNN quotes "Mark Stokes, who co-founded Magdrive in 2019."
+The majority of satellite propulsion systems are currently either chemical or electrical, but according to Stokes, both have downsides: “Chemical propulsion has very high thrust, but its efficiency — or its miles per gallon, if you like — is very poor,” he says. “On the other hand, electric propulsion systems these days have the complete opposite characteristics. They have very low thrust, but excellent efficiency, excellent miles per gallon.”
+[...]
+“We’re building the first system of its kind that has the best of both worlds,” he adds. “It is electric propulsion, but it has a magnitude improvement in thrust, with a magnitude reduction in volume and mass.”
+From https://magdrive.space/products/warlock/ for example:
+The Magdrive Warlock generates thrust an order of magnitude higher than other similar sized electric propulsion systems. The full integrated system fits inside a single 2U cubesat with a dry mass of 2.5 kg, including propellant, onboard processor and energy storage, and plasma injector.
+Charge up, charge out
+The Magdrive thruster uses a pulsed power system (PPS) to deliver a multi-kA, MW class electrical current pulse to the plasma injector.
+MAX CHARGE POWER
+150 w
+THRUST VECTOR
+10°
+MAX SPECIFIC IMPULSE
+3500 s
+MAXIMUM THRUST
+100 mN
+TOTAL IMPULSE
+50 kNs
+ENERGY STORAGE
+50 kJ
+MASS
+2.5 kg
+Are these specifications exceptional for an electric thruster? If so, what is it about metal propellant that provides the advantage?

@@ -1,0 +1,4 @@
+What is the most powerful solid rocket fuel (highest isp) and it's combustion temperature
+I wanted to know what the most power full solid rocket fuel is. I do not mean theoretical once like metallic hydrogen.
+Are solid rocket fuel mixtures prepared in a non-ideal mixture? In other words, do they have to deviate from their stoichiometric ratio in order to have operable temperature and stay under the constraints of the material (or the nozzle is preferably made from an ablative material?)
+I want to know the combustion temperatures of solid fuels. Are there any tables or graphs which compare different solid fuels with their respective combustion temperatures?

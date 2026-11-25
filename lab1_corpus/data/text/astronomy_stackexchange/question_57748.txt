@@ -1,0 +1,5 @@
+What exactly is a 'gravastar'? How is it different from a 'regular' black hole?
+The Wikipedia article on gravastar says that it has a 'regular' black hole metric (Schwarzschild, I presume?) on the outside, but a de Sitter metric on the inside....
+What exactly does that mean?
+Don't all black holes, and our universe itself, have a de Sitter metric?
+Isn't that why people criticize AdS/CFT correspondence for being unrealistic, because our universe and its black holes are de Sitter?

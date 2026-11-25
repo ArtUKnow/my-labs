@@ -1,0 +1,7 @@
+How much will global warming increase the density of debris in LEO? What are predictions currently saying?
+After about 08:00 in Scott Manley's hot off the press new release SpaceX Loses 40 Satellites To Solar Storm linked below he drifts away from the solar activity-induced heating and talks about the long term effects of global warming on the Earth's mesosphere and thermosphere.
+Apparently the same changes that will trap more heat at lower altitudes will result a cooling at higher altitudes, and therefore (according to him and whatever he's reading) decay rates of objects in LEO will decrease.
+This could potentially be a big deal at some altitudes since even a small decrease in average temperature will result in a dramatic decrease in density a dozen or two scale heights above the Karman line.
+Question: How much will global warming increase the density of debris in LEO? What are predictions currently saying?
+It's an easy question to ask and a complicated one to try to answer. Models of space debris dynamics will take into account fluctuations of the Sun to some extent, but now they would have to also include a long-term trend somehow, based on climate models.
+cued at 07:59:

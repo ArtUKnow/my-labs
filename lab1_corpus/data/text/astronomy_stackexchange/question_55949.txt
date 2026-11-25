@@ -1,0 +1,6 @@
+Eddington-Barbier approximation next term for flux
+When adding a term to E-B approx it should lead to this for the astronomical flux.
+$\mathrm {\frac{F}{\pi }\approx S\left(\tau =\frac{2}{3}\right)+\frac{5}{18}\frac{d^2S}{d\tau ^2}_{\tau =\frac{2}{3}}}$
+S is the source function, tau is the optical density, F is the astronomical flux
+usually the E-B approx is just $\frac{F}{\pi }\approx S\left(\tau =\frac{2}{3}\right)$ now we want the second term also.
+I don't know how to start or get here...

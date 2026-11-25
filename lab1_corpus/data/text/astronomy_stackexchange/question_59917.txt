@@ -1,0 +1,3 @@
+How to pPXF a galaxy spectrum containing Nans?
+I am trying to pPXF a spectrum with Nans at the beginning and end, pPXF gives the error "GALAXY must be finite".
+While I could just trim the spectrum, I will be processing spectra with Nans in the middle. I have tried extending the goodPixels data, but this doesn't work. Is there any method to flag bad pixels so they are ignored by pPXF?

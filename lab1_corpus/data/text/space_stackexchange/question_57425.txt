@@ -1,0 +1,15 @@
+Trouble understanding the memorandum "Cartesian State Vectors → Keplerian Orbit Elements"
+So, I was reading this memorandum to make some c# classes helping with keplerian/newtonian orbital simulations. Then, I found this weird piece for solving for $n$...
+$n = (0, 0, 1)^T × h = (−h_y, h_x, 0)^T$
+The paradox is, it doesn't mention any variable T beforehand. An answer that just solves the problem this part of the paper addresses (part c) works too.
+In that case, we have the following given values:
+The relative positional vector $r$
+The velocity vector $r˙$
+The standard gravitational parameter $µ$
+The orbital momentum vector $h$
+The eccentricity vector $ɛ$
+and we want to find...
+The vector $n$ pointing towards the ascending node
+The true anomaly $v$
+I saw this post, but it didn't explain everything for me.
+Any help appreciated. Sorry for my slightly bizzare wording.

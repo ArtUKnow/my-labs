@@ -1,0 +1,12 @@
+If one Starship can transport 100 people to Mars, how many could it safely land near Mercury's north pole after one Hohmann-like transfer?
+Personally, I would rather live near Mercury's north pole than anywhere on Mars mainly because:
+The permanently shadowed craters harbor abundant water ice and other frozen volatile materials
+Mercury receives 15 times as much solar energy on average as Mars does.
+Mercury's crust has carbon-bearing material, combined with the solar energy suitable to extract metals from their minerals and oxides, i.e. to perform pyrometallurgy with concentrated solar power.
+At 80⁰ N latitude the subsurface temperature below 1 m depth is a constant 0⁰ C, independent of the diurnal surface temperature variation. (Values derived from this article)
+But it's been stated many times that it's so hard to get there because of the proximity of the Sun.
+From the BBC news article "What is Elon Musk's Starship?":
+"You could conceivably have five or six people per cabin, if you really wanted to crowd people in. But I think mostly we would expect to see two or three people per cabin, and so nominally about 100 people per flight to Mars," Musk said.
+The payload bay would also host common areas, storage space, a galley and a shelter where people could gather to shield from solar storms, where the Sun belches out harmful charged particles into space.
+I really would like to know how many people could be transported to the surface of Mercury's north pole with such a Starship, taking into account the longer trajectory to the aphelion of Mercury's orbit than that to an orbit around Mars.
+Please with the necessary calculations to be able to control the assertions in your answer !

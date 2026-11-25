@@ -1,0 +1,5 @@
+Can electrodynamic tether propulsion use the solar magnetic field?
+Electrodynamic tethers have been proposed for satellite propulsion in the magnetic fields of Earth and the Gas Giant planets.
+Is it realistic to consider using the Sun's magnetic field for electrodynamic propulsion in the inner solar system? The Sun's magnetic field is stronger than Jupiter’s, and the solar wind is electrically conductive https://en.wikipedia.org/wiki/Interplanetary_magnetic_field so the two primary requirements for electromagnetic tether propulsion are met.
+Magnetic field strength increase closer to the Sun. The interplanetary magnetic field strength is much too low at 1AU (almost an order of magnitude less than Earth LEO). But the solar field strength at the Sun's poles is more than an order of magnitude greater than Earth's. At some distance inside 1AU, the interplanetary magnetic field strength must be equal to or greater than Earth's.
+At what orbital radius is electrodynamic tether propulsion realistic? A solar powered, tether-propelled spacecraft could potentially perform long term, propellant-free missions in this zone.

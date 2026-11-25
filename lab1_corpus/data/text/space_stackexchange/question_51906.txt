@@ -1,0 +1,2 @@
+Why not grid fins on stage 1 of Blue Origin's New Glenn?
+New Glenn has four fins, but, unlike Falcon 9's, they are not grid fins. Instead, they seem to be standard airplane fins---each a single surface. So I'm wondering: what are the advantages of standard fins over grid fins in rockets, and when might you prefer one over the other?

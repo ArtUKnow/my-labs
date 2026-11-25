@@ -1,0 +1,4 @@
+Dependance of slosh mode on ratio of liquid height to tank height
+If two liquid tanks of the same cross-section but different heights have the same liquid up to the same depth, will sloshing be the same or different in both tanks?
+I would assume they would be the same because they have the same slosh natural frequency. But if one tank is fully filled for the given liquid height, the damping of the top wall would cause the slosh to be suppressed.
+Is this a justifiable observation?

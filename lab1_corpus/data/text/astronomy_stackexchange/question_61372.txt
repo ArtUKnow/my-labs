@@ -1,0 +1,4 @@
+What's the distance between Alnitak and Alnilam?
+According to the Google AI what's the distance between Alnitak and Alnilam Google AI, the distance between Alnitak and Alnilam is 604 light years (in another search it showed 740 light years but still doesnt add up). This figure was suspiciously low, and effectively, it doesnt add up when applying the Law of Cosines with other figures obtained in Wikipedia for the distance between Earth and Alnitak and Earth and Alnilam, Alnitak-Earth 1260 light years , Alnilam-Earth 2000 light years
+This law of Cosines calculator triggers "1 side is too long to form a closed regular triangle! (1)" Law of Cosines calculator when you input those figures.
+What's the real distance between Alnitak and Alnilam?

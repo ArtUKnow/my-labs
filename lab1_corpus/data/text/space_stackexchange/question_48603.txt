@@ -1,0 +1,3 @@
+What is the bandwidth (in hertz) of the Voyager 2 radio receiver?
+Does anybody know the bandwidth of the Voyager 2 radio receiver's front-end?
+I know that the current data rate of the receiver is of order tens of bits per second, and I have one estimate of 18 Hz. Could that be correct?

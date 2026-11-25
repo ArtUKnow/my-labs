@@ -1,0 +1,4 @@
+How do mechanical gyros maintain rotational speed?
+In the example gyroscopes I have seen, they are all spun up while held stationary.
+For GNC (Guidance, navigation, and control) applications the gyro needs its speed to be maintained over time while in a gimbal. I'm curious about how power was applied to them so they continued to spin while in use. In particular, how is rotational torque applied to the disk without causing movement in the gimbal?
+To be clear I am interested in sensor gyroscopes.

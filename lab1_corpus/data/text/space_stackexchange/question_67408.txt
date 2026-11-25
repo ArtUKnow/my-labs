@@ -1,0 +1,2 @@
+What would it take to unlock Phobos or Deimos?
+Phobos and Deimos do librate, like Earth's moon does. That slight pendulum motion could be exacerbated with minimal torque applied periodically, similar to impulses on a swing or a balance wheel in a mechanical watch. Is this correct and what/how long would it take to do so? Probably false assumption/fantasy behind this is : if Mars' moon start rotating, instead of being synchronous, it could anchor a practical skyhook.

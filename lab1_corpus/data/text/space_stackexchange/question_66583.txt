@@ -1,0 +1,4 @@
+Feynman famously criticized the Space Shuttle program for not delivering any value to science. Did things improve in that regard since the 1980s?
+In his 1988 book “What Do You Care What Other People Think?” Feynman wrote the following:
+In the newspaper I used to read about shuttles going up and down all the time but it bothered me a little bit that I never saw in any scientific journal any results of anything that had ever come out of the experiments on the shuttle that were supposed to be so important. So I wasn't paying very much attention to it.
+Has NASA been able to improve this since the 1980s? Do we now have a lot of important papers that rely on experiments conducted in space? Astronauts on the ISS (and other missions) spend thousands of man-hours running various experiments but I'm curious if there's a way to see the most impactful papers that came out of these efforts?

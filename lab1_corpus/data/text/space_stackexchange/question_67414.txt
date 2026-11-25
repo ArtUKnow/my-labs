@@ -1,0 +1,5 @@
+Space Shuttle Main Engine TVC actuator torque
+Curious if there are references for the Shuttle Main Engine Gimballing actuator torque and the arm distance between CG of the Shuttle and the gimballing point.
+edit (from comment)
+... the torque and response time requirements on the actuator. Is it defined somewhere to use it as a metric against the thrust? Most thrust load is taken out by the main mounting point with only a partial load being withstood by the hydraulic actuator.
+Simply put, is there a reference on this percentage of load that the actuators need to withstand? and How much more do they have to provide to actually vector the engine?

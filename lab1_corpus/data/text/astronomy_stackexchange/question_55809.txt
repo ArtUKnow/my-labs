@@ -1,0 +1,4 @@
+Why do lunar craters seem preferentially north-south aligned?
+Loading the dataset from Robbins 2018, A New Global Database of Lunar Impact Craters >1–2 km: 1. Crater Locations and Sizes, Comparisons With Published Databases, and Global Analysis which I believe to be this dataset implies that lunar craters have about 4 times more chance of being north-south aligned (DIAM_ELLI_ANGLE_IMG around 90) than being east-west aligned (DIAM_ELLI_ANGLE_IMG near 0 or 180); this appears to hold for a subset of highly elliptical craters too.
+Glancing at equatorial equators, this seems plausible.
+What leads to this preferential orientation? Or have I mangled my analysis?

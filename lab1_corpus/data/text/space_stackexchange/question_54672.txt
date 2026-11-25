@@ -1,0 +1,3 @@
+Does the Moon's orbit intersect the Earth's orbit around the Sun?
+I know that the Moon's orbital plane makes an angle of 5 degrees with the Earth's orbital plane or the ecliptic. Also, the Moon's orbit intersects the Earth's orbital plane at two nodes - ascending node and descending node. Hence, a lunar node is generally defined as either of the two points at which the orbit of the Moon intersects the ecliptic.
+Doesn't this mean that the Moon's orbit intersects the Earth's orbit around the Sun at the orbital nodes? If that's true, why isn't a lunar node defined simply as the point of intersection of the Moon's orbit with the Earth's orbit? Why do we need to bring the 'ecliptic plane' into the definition of the lunar node?

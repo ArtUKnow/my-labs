@@ -1,0 +1,3 @@
+Why don't we just unshift the IR photos from Webb?
+I’ve been going back and forth with peers on why image processing is done the way it is on the Webb Telescope. Based off some article, my understanding is that they have various filters that represent different IR bands, these are then assigned visible spectrum colors based on the wavelength of the IR filter, and finally you have some weighting scheme that combines these assigned colors to form a picture.
+The thing I don’t understand though is why we wouldn’t just take the IR data and ‘unshift’ the light since we know the distance of the objects we are observing? Is the process described above in some convoluted way equivalent to this idea of unshifting the colors?

@@ -1,0 +1,4 @@
+What is the density of the earth's atmosphere at an altitude of four hundred kilometers?
+What is the density of the earth's atmosphere at an altitude of four hundred kilometers? I want to use it to calculate the drag on something in orbit near the ISS.
+The Jacchia Reference Atmosphere is a reference atmospheric model that defines values for atmospheric temperature, density, pressure and other properties at altitudes from 90 to 2500 km.
+says Wikipedia. That sounds great, but how do I get access to it?

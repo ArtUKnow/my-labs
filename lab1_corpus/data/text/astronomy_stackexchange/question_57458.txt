@@ -1,0 +1,18 @@
+What causes the short term variation in the length of a march-equinox year
+By a "march-equinox year" I mean the time between successive march/vernal equinoxes. I understand that this is different from the mean tropical year, and I also understand why this would be different from (say) a "june-solstice year".
+This discusses long term variations in the march equinox year but I am looking at (much to my own plight) the short-term variations (year by year)
+It seems that the mean tropical year is, over the short term of say 200 years, roughly constant (variation of the order of 1 second).
+However, the march equinox year can vary sporadically by upto 15 minutes from the previous year as evident from this time-and-date article (note that even though they title the table as 'tropical' year, each row is unambiguously the march-equinox year and not the mean tropical year). I tried to plot these values:
+First of all, why does it look a little different between ~1955 and ~1985? Does it have something to do with difference between observed values and predicted values or is it something simple and unrelated like the higher frequency terms form some kind of 'beat pattern' that vanish near ~1970.
+Second of all, what causes this variation? For instance I understand that the earth's nutation (which has a period of 18.6 years) has a component in the same, erm, direction (?) as axial precession so that would be one part of this variation but that part has a period too large to explain a year by year variation of 10-15 minutes
+I guessed that somehow it must be the combined effect of all the other planets' gravity on earth but if I try to get a sense of the dominant frequencis of this variation via a discrete fourier transform I see the following:
+Where the leftmost peak does indeed happen at (or, well, near) the familiar nutation period of 18.6 years. But from the 2 large peaks on the right, it seems the year by year variation is largely caused by 'something' of period ~4 years and ~2.7 years. None of the planets have an orbital period close to that so I don't have an intuition for this.
+I am not particularly curious about every single peak in the above graph but for the sake of completeness the other three major peaks in between correspond to time periods of ~11.76 years (Jupiter!), ~8 years and ~5.9 years.
+Can anyone help?
+Edit: To summarise some relevant discussions in the comments, @PM2Ring pointed out that since the earth orbits the EMB in a very dynamic orbit it has atleast some effect on, for example, when exactly equinox is achieved. This would be similar to how the "perihelion year" (time between successive perihelions) can vary by upto a day from the previous year.
+But I had always assumed that since the orbit of the earth around EMB has periods much lesser than 1 year, its effects observed on a yearly 'sampling rate' (i.e. its influence on time of perihelion) should be somewhat pseudo-random. And by extension I assumed that the observed variation of the order of 1 day in a perihelion-year would be pseudo-random.
+But it's not! (I think, not completely atleast. Maybe I've been abusing terminology by calling it pseudo-random to begin with. Anyway:)
+From here and here I gather the perihelion-year durations from 1900-2100 and plot them as:
+Whose discrete fourier transform is:
+Where the rightmost peak corresponds to a period of ~2.7 years same as before! From @PM2Ring's suggestion it could have something to do with other small lunar cycles (which is something I'll try and look into when I next get free time), but now I'm not even completely convinced that it's not somehow an artefact of performing DFTs that I might be overlooking.
+Either way it's not yet clear why there is a peak for 2.7 years in both cases.

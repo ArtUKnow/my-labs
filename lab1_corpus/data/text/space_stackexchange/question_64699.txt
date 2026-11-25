@@ -1,0 +1,4 @@
+Why did the Apollo 16 crew wait until Station 8 to sample ray material from South Ray (instead of earlier during EVA 2)?
+During EVA 2 on Apollo 16, the crew planned to sample material from an ejecta ray from South Ray crater at Station 8. Earlier during that EVA, the mission plan had them drive through a continuation of the same ray (Charlie Duke actually points that out at 143:45:55 GET in the lunar surface journal transcript).
+My question: Why was Station 8 the preferred location to sample this ejecta ray? The lunar surface journal (comment below the 146:38:15 timestamp) specifies that they expected to find large boulders around that station. Was it because it was closer to the originating impact site (South Ray crater)?
+For reference, here's a rough draft of the EVA 2 traverse with my annotations in yellow (the arrow indicates where they traversed the continuation of the ray they sampled at Station 8):

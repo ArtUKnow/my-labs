@@ -1,0 +1,7 @@
+How is dark matter distributed within our solar system?
+In this episode of PBS Space Time, it's claimed that our solar system contains on the order of 1018 kg of dark matter.
+As a point of comparison, Mt. Everest is estimated to have roughly the same mass: 1.75 x 1018 kg. (source: mounteverest.info)
+That's a lot by human scale, but practically nothing compared to the whole Earth, to say nothing of our system's other major bodies and structures.
+I assume that smattering of dark matter is in some distant halo -- if yes, how far away is that halo from the Sun?
+I imagine the furthest extent of any permanent dark matter halo would be determined by the Sun's Hill sphere, because anything further would be pulled away eventually. Wikipedia says that all the stable orbits around the Sun are within 1/2 or 1/3 of the Hill radius, but I wonder if the range of stability would be different for dark matter.
+If indeed it is expected to be a halo, I'm hoping for concrete units.

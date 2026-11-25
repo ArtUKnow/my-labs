@@ -1,0 +1,7 @@
+Solar Sail mission
+Sorry for my English. I'm not native speaker
+I would like your advice in solar sail mission simulation. The purpose is to compare results with results in Wolfram Mathematica.
+We have CubeSat with heliogyro solar sail. Its purpose is to raise the altitude of the orbit. Sail plain in the beginning of the flight is normally oriented to the Sun. We can't change orientation of it, but we can change its area. We do it when the velocity vector on the sunlight hitting direction vector changes sign.
+The questions:
+How can I realize an algorithm, which define moment when we need to change sail area?
+How it is possible to consider sun radiation angle of incidence variation connected with Earth rotation around the Sun?

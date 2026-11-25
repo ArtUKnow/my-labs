@@ -1,0 +1,6 @@
+How can I calculate the weight a aero-spacecraft occupant experiences during sub-orbital but non-ballistic trajectories?
+Once in orbit, astronauts experience "weightlessness" relative to their capsule or space station because they are moving at the same orbital velocity as the surrounding spacecraft.
+I have heard that the SR-71 blackbird traveled above mach 3 which is about 14% of orbital velocity, and that it would therefore only experience 86% of the gravity of craft at rest.
+Is this true?
+This made me wonder what suborbital but level (non-ballistic) spaceflight would be like, where level means maintaining constant altitude.
+Question: How can the weight a aero-spacecraft occupant experiences during sub-orbital but non-ballistic trajectories be calculated?

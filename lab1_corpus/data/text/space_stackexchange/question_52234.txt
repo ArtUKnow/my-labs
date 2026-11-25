@@ -1,0 +1,2 @@
+Why does the landing trajectory of a blunt body take an S shape in the lower atmosphere?
+I coded some Matlab plots of altitude vs time for the re-entry of a point mass (so no aerothermo analysis included). In all the trajectories, there is an S shape closer to the ground. Why? Please could I know specifically in reference to blunt bodies?

@@ -1,0 +1,4 @@
+Soyuz TMA Neptune IDS Button Lights Behavior On Click
+I made a simple virtual Soyuz TMA Neptune IDS using simple coding (a work in process). The purpose of it is solely for the buttons location familiarization of the control panels. The buttons react on click (e.g. BKЛ turns red if clicked). However, I am having a hard time finding resources online on how each buttons' light behave on click similar to an actual Soyuz TMA Neptune IDS.
+For example, I am familiar that the ПИТАНИЕ's BKЛ button's red light stays red on click but I don't know how to turn it off (Like should the astronaut click the BKЛ button again? Or does he have to click the OTKЛ button? Will the OTKЛ button stay red after clicked unless it is clicked again?).
+Please help me on simply how each of the lights for each buttons in the ИнПУ I and II behave once clicked (the buttons in КОД, КУРСОР, КОМАНДА, TC1-4 and TC5-8, OBK, etc.)

@@ -1,0 +1,9 @@
+Could SpaceX deliver the Interim Control Module to the ISS?
+Three days ago Roscosmos chief, Dmitry Rogozin, bemoaned the sanctions on Twitter saying they could break the ISS cooperation, asking Joe Biden how he'd manage to manage the course corrections given the space junk made by US businessmen, while asking who will save them, to which Elon Musk, posted the SpaceX logo and clarified that .
+So were the Russian section to be uncoupled (and abandoned) from the ISS, what would SpaceX have to do?
+From what I could tell they would need to get a new module up, but I am not sure (I'm not in aerospace) and it raises more questions:
+The question "Can the US Part of ISS survive independent of the Russian?" finds that there is a component on the ground, the Interim Control Module (ICM), which could substitute for Zvezda, but would require a launcher that did not exist in 2014.
+Is the Interim Control Module still the best replacement of Zvezda?
+The question "ISS Interim Control Module specifications" (& in the comments) implies the ICM must weigh about 8000 kgs. But Falcon 9 has launched 15,000 kgs to LEO (60 Starlink satellites), let alone the increased capability of Falcon Heavy, so assuming it fits in the fairing it could launch it, right?
+This question "What is the current turnaround time for Vandenberg SLC-4E" says the fasted turnaround was 22 days for a regular Falcon launch from the Vandenberg US Space Force base, but they probably could do it faster if needed. And this question "How often does ISS require re-boosting to higher orbit" suggests it's less than once a month. But I am not sure as space junk may be worse these days as suggested by Dmitry Rogozin.
+So were it required, what time margin would SpaceX have?

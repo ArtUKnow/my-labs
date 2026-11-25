@@ -1,0 +1,16 @@
+Declinations from stars apparent motion w/o plate solving
+I am trying to program the calculation of the declination of the stars, based on their apparent movement through a series of astrophotographs, purely algebraically, without using a solver based on the star catalog.
+I'm a beginner in the field, so please forgive me if I'm not familiar with some well-known fact or source of information.
+The main reason why I don't use some of the solvers, like Astrometry.net and similar (forks), is of an educational nature, because I definitely need equations of apparent motion, for feedback during acquisition. An additional contribution to that decision is the lack of Android (where app is going to run) libraries for Astrometry.net and its forks.
+Let me first list and describe the data I intend to use for the calculation:
+latitude, longitude of the observer
+a set of frame extractions through the time period (451 x/y catalogs with approx. 90 sources, every 8 seconds, one hour in total), connected in continuous tracks of source movement
+time of each catalog/frame acquisition (possible transformation into JD, ERA...)
+Data that I do not have and that will gradually need to be calculated:
+scale and rotation
+Ra0 and Dec0, the position of the optical axis on the tangential plane
+polynomial of optical distortions
+I am aware that to solve the field completely, I need the missing data enumerated, but for the beginning I intend to use what I have and iteratively calculate the missing data one by one. Initially within a relatively small area in the middle of the frame, where optical distortions are relatively low.
+My first question is, is there a parametric equivalent, in standard coordinates (plus scale, shift and rotation terms), of a general two variable quadratic conic section equation?
+$$Ax^2 + Bxy + Cy^2 + Dx + Ey + F = 0$$
+My idea was, by hyperbola or ellipse, curve fitting, to yield those six coefficients, then to translate them to standard coordinates?

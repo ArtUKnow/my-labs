@@ -1,0 +1,2 @@
+Finding the largest X/Y/Z component of an orbit (in terms of ECI) using orbital elements?
+If I wanted to find the largest component of an orbit on a single axis, like finding where on the orbit a satellite would reach its highest X component (not specifically an apoapsis, just when the X value is at its highest) and I have all of the orbital elements provided, how would I go about doing that?

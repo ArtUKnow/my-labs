@@ -1,0 +1,18 @@
+Calculating the altitude of a satellite in polar orbit for a given distance between successive ground tracks
+I'm working through Orbital Mechanics for Engineering Students - Curtis (first edition). Problem 2.7 on page 101 is as follows:
+It is desired to place a satellite in earth polar orbit such that successive ground tracks at the equator are spaced $3000$km apart. Determine the required altitude of the circular orbit.
+Here is my attempt at solving this problem. As the satellite orbits, the earth rotates beneath it at an angular speed of
+$$\omega = \frac{2\pi}{86164}\approx 7.29211\times10^{-5}\,\text{rad}s^{-1}$$
+where $86164$ is roughly the length of the sidereal day in seconds. The arc length $s$ of a point on the equator traced out during a time $t$ is given by
+$$s = R_E\theta = R_E\omega t$$
+where $R_E$ is the radius of earth. So we want $s = 3000\,km$ after the satellite has completed one orbit. That is, $t$ must be equivalent to the orbital period of the satellite. Therefore
+$$ t = \frac{2\pi}{\sqrt{\mu}}r^{3/2} = \frac{2\pi}{\sqrt{\mu}}(R_E + z)^{\frac{3}{2}}$$
+where $\mu = Gm_E$ is the gravitational parameter of earth, and $z$ is the altitude of the satellite above earth's surface. Putting this all together we have
+$$s = R_E\omega\frac{2\pi}{\sqrt{\mu}}(R_E + z)^{\frac{3}{2}} $$
+and after rearranging we get
+$$z = \sqrt[3]{\mu}\left(\frac{s}{2\pi R_E\omega}\right)^{\frac{2}{3}} - R_E$$
+Plugging in $s = 3000\,km$, $R_E = 6378\,km$, $\mu = 398600\,km^3s^{-2}$ and $\omega = 7.29211\times10^{-5}\,\text{rad}s^{-1}$ we get
+$$ z \approx 1110\,km$$
+However, the answer in the textbook is given as $1440\,km$. I'm not certain where I've gone wrong. I've gone through my calculations and I'm fairly certain I've done them correctly, although things can always slip through the cracks, and of course if my reasoning is off then it doesn't matter if I've done the arithmetic correctly!
+I've also heard people complain that early versions of Curtis have lots of errors in them so I'm wondering if this could be one? I'm not holding out any hope of that though. The most likely situation is that I've made an error somewhere.
+In any case, any help would be greatly appreciated! Thank you.

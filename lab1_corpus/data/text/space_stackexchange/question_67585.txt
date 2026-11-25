@@ -1,0 +1,3 @@
+How do the turbopumps in the RS-25 work?
+I was looking at a diagram of the RS-25 rocket engine used in the SpaceShuttle program.
+You can see two high pressure turbopumps and a fuel and oxidizer pre-burner. I always thought that the turbopumps would run with the help of a gas generator (smaller engine) but I don't see any reference to that, can anyone explain if I'm wrong and where the generator is?

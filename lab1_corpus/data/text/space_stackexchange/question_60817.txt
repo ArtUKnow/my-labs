@@ -1,0 +1,5 @@
+What was the Lockheed design solution for the shuttle SRB field joint and how was it superior to the failure prone Morton Thiokol field joint?
+In an effort to quickly post this question I've elected to (for the moment) not provide links to my searches.
+I've found tons of references, studies, reports, images etc to the failed Thiokol field joint and its redesign but find nothing regarding the reportedly superior design solution that Lockheed proposed.
+Does anyone have information on any of the other 3 SRB proposals? SRBs can have 3 joints... 'factory' case to case joint, 'field' case to case joint and case to nozzle joint. Does anyone have information on the 'other' joints?
+QUESTION: can someone provide details and images of the Lockheed proposed space shuttle SRB field joint?

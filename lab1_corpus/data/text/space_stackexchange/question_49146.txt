@@ -1,0 +1,40 @@
+I want to simulate the antenna pointing error when tracking LEO satellites
+I am trying to simulate the antenna pointing error of our antenna when tracking LEO satellites using TLE data. I am using the Skyfield library in python. First I loaded the TLE data from the Celestrak website, then selected the satellite from the TLE's. Next, I found the satellite passes with respect to my antenna location. Finally, I calculated the azimuth and elevation angles from the antenna to the satellite. Now the next step which I don't know how to do is to simulate a satellite pass with my own antenna following it. Because my antenna only has a rotating speed of 1.75°/sec in azimuth and elevation directions, some passes require a faster angle speed than this, for example, 5°/sec. Therefore the antenna will be left behind. I want to simulate and see how many degrees my antenna will be left behind using its speed of 1.75°/sec. If someone could give me suggestions it would be very much welcome Thank you
+This is the code I used, which is mostly from the Skyfield documentation.
+from astropy import units as u
+from skyfield.api import Topos, load
+from skyfield.api import EarthSatellite
+# Load earth and time
+planets = load('de421.bsp')
+earth = planets['earth']
+ts = load.timescale()
+t0 = ts.now()
+# loading TLE files from celestrak
+stations_url = 'https://www.celestrak.com/NORAD/elements/active.txt'
+satellites = load.tle_file(stations_url, reload=False)
+print('Loaded', len(satellites), 'satellites')
+# Selecting Astrocast 0.2 from the TLE Dataset
+by_name = {sat.name: sat for sat in satellites}
+satellite = by_name['ASTROCAST 0.2']
+print(satellite)
+# Finding rising and setting times
+antenna_position = Topos(47.01452, 8.30613, elevation_m=500)
+t1 = ts.utc(2020, 12, 17)
+t, events = satellite.find_events(antenna_position, t0, t1, altitude_degrees=0.0)
+for ti, event in zip(t, events):
+name = ('rise above horizon', 'culminate', 'set below horizon')[event]
+print(ti.utc_strftime('%Y %b %d %H:%M:%S'), name)
+# Calculating Azimuth and Elevation with regard to antenna position
+difference = satellite - antenna_position
+topocentric = difference.at(t0)
+alt, az, distance = topocentric.altaz()
+if alt.degrees > 0:
+print('The', satellite.name, 'is above the horizon')
+else:
+#print(the time remaining until the next pass)
+pass
+print('elevation =', alt)
+print('azimuth =', az)
+print(int(distance.km), 'km')
+# Creating an antenna at antenna_position with an angle rotating speed of 1.75° in both azimuth and elevation for simulation purposes
+# Plotting the antenna pointing error: antenna pointing error is the difference of the real azimuth and elevation minus the azimuth and elevation of the antenna

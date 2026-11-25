@@ -1,0 +1,92 @@
+Getting commonly used star names from gaia data
+I'm querying the gaia database with the python astroquery package to get the positions of the nearest 1024 stars and using simbad to get designations other than the gaia ones. Full script is as follows:
+from astroquery.simbad import Simbad
+import astroquery.gaia
+num_stars = 1024
+query = f"""SELECT TOP {num_stars} *
+FROM gaiadr3.gaia_source as dr3
+ORDER BY dr3.distance_gspphot ASC
+"""
+job = astroquery.gaia.Gaia.launch_job(query)
+table = job.get_results()
+print("Got gaia results")
+named = Simbad.query_objects(table["DESIGNATION"])
+print("Got simbad results")
+named.keep_columns("MAIN_ID")
+table.update(named)
+table.write("data.csv", format = "pandas.csv")
+However, the simbad designations are not as regular as I'd like. For example it refers to what I call Epsilon Eridani as * eps Eri where I'd prefer to have the full name. Annoyingly, simbad is aware of the name with Simbad.query_objectids("epsilon eridani") returning the following:
+ID
+b'GJ 144.0'
+b'GJ 144'
+b'HIP 16537'
+b'Gaia DR3 5164707970261890560'
+b'RAVE J033255.8-092730'
+b'TIC 118572803'
+b'8pc 310.75'
+b'PLX 742'
+b'2MASS J03325591-0927298'
+b'* eps Eri'
+b'* 18 Eri'
+b'1AXG J033256-0926'
+b'2E 788'
+b'2RE J033253-092646'
+b'2RE J0332-092'
+b'BD-09 697'
+b'CCDM J03329-0927A'
+b'Ci 20 241'
+b'FK5 127'
+b'GC 4244'
+b'GCRV 1962'
+b'GEN# +1.00022049'
+b'HD 22049'
+b'HIC 16537'
+b'HR 1084'
+b'IRAS 03305-0937'
+b'IRC -10048'
+b'JP11 792'
+b'LFT 291'
+b'LHS 1557'
+b'LPM 158'
+b'LTT 1675'
+b'N30 726'
+b'NLTT 11207'
+b'PM 03306-0938'
+b'PMC 90-93 91'
+b'PPM 185905'
+b'RAFGL 497'
+b'RBS 439'
+b'RE J0332-092'
+b'RE J033255-092717'
+b'ROT 531'
+b'SACS 76'
+b'SAO 130564'
+b'SKY# 5366'
+b'SPOCS 171'
+b'TD1 2301'
+b'TYC 5296-1533-1'
+b'UBV 3410'
+b'UBV M 9580'
+b'V* eps Eri'
+b'YZ 0 4513'
+b'YZ 99 836'
+b'Zkh 51'
+b'[FS2003] 0134'
+b'uvby98 100022049'
+b'PLX 742.00'
+b'1E 0330.5-0937'
+b'1RXS J033256.4-092727'
+b'2E 0330.5-0937'
+b'2EUVE J0332-09.4'
+b'EUVE J0332-09.4'
+b'RX J0332.9-0927'
+b'WDS J03329-0927A'
+"b'WDS J03329-0927Aa,Ab'"
+b'** BLA 2'
+b'Gaia DR2 5164707970261630080'
+b'** MBA 1A'
+b'NAME Ran'
+b'WEB 3160'
+b'GES J03325495-0927294'
+Is there a way to get it to return the common/wikipedia names instead? For another example, it returns HD 1326 for a star that wikipedia calls Groombridge 34. Simbad.query_objectids("HD 1326") also returns Gmb 34.
+This question has also been asked in a comment here: Query Gaia by star name.

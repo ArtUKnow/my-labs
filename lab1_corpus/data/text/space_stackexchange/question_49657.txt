@@ -1,0 +1,7 @@
+Meteoroid impact frequency in the size range of 1 mm or larger?
+I wish to know the frequency of 1 mm diameter or larger meteoroids impacting the Earth's atmosphere each day. NASA's Asteroid Fast Facts (1) says "Every day, Earth is bombarded with more that 100 tones of dust and sand-sizes particles". A study of Lunar impacts (2) estimates that "... there should be (about) 76 fresh craters with sizes of 10 m or larger on the entire Lunar surface every year". However, I can't find any data on the size range of 1 mm or larger.
+What I actually want to know is the impact rate of this size range on the Martian surface. It is not too early to think about permanent human habitats on Mars. Although the insolation on Mars is less that half that on Earth, green houses can still provide a significant adjunct to the artificial power needed to maintain a human compatible temperature. Green houses on Mars will have to deal with collection of dust and long term damage from abrasive Martian dust storms. My official question is: since the density of the Martian atmosphere is only about 0.7% that of Earth, would small meteoroids (that would burn up in Earth's atmosphere) pose a threat to green houses on Mars and, if so, how common are they?
+(1) Asteroid Fast Facts:
+https://www.nasa.gov/mission_pages/asteroids/overview/fastfacts.html
+(2) Lunar meteroid impact rate
+https://asu.pure.elsevier.com/en/publications/the-present-day-flux-of-large-meteoroids-on-the-lunar-surface-a-s

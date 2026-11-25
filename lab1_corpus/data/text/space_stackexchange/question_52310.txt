@@ -1,0 +1,5 @@
+Alternative small mass payload transportation from the moon to L5 besides rail gun and mass driver?
+This question asks about a low cost transportation from the lunar surface to a space settlement at L5.
+Moon mining is can be a revolutionary breakthrough in sustaining a space economy, but large scale transportation from the moon always seems to be an issue. The usage of transport rockets every now and then would drive up expenses dramatically.
+When researching this topic, an electromagnetic rail gun and a mass driver were the only feasible options which I could find.
+Are there any other concepts that are perceived as both technologically and economically competitive with the previous two?

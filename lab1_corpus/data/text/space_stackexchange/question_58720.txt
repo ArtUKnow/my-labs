@@ -1,0 +1,3 @@
+What is the time sequence for SRB burn-out and separation?
+I understand that SRBs cannot be throttled or shut down, they need to "burn out". Since they are often used in pairs, I assume there is a statistical spread in the burn duration of the two SRBs. During any period between burn-outs, the off-axis thrust of the burning SRB would need to be promptly countered by the main engines, then again when the second SRB burns out. I assume everything needs to settle from this Texas Two-Step before separation?
+Does this asynchronous burn-out actually happen? Does it need to be compensated for? What is the delay between burn-out and separation?

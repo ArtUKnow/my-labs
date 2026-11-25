@@ -1,0 +1,8 @@
+When was an operational satellite accidentally damaged by another man-made object in space?
+In connection with the question on Starlink constellation potential contribution to a run-away phenomenon, also known as “Kessler syndrome”, it would be of interest to know how well actual collision statistics correlate with Kessler’s model.
+In his 1978 paper Collision between artificial satellites: the creation of a debris belt, Kessler predicted (using the list of objects cataloged and space activity growth in the 70s) that the first random collision in space would occur between 1989 and 1997. He then concluded that:
+Thus, unless significant changes are made in the method of placing objects into space, fragments from inter-collisions will become a source of additional space debris by the year 2000, perhaps much earlier.
+This means that, up to a critical number of artificial satellites (and fragment objects), even if we were to stop launching additional ones, the number of objects in orbit would still mechanically grow, as a result of inter-collisions, leading to a "run-away" situation, i.e. an uncontrolled chain reaction.
+Compared to the database used by Kessler in 1978, the number of objects larger than 10cm is now (Aug 2021) above 34 thousands, whereas there are almost a million of them between 1-10 cm size (hence difficult to track with current technology, yet can be harmful), according to ESA
+This year, the Chinese Yunhai 1-02 satellite collided with a small debris fragment. Another well-documented event is the 2009 collision between an active Iridium satellite and a derelict Russian one.
+Question: When did the first random collision between man-made objects (resulting in fragmentations) occur?

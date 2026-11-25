@@ -1,0 +1,9 @@
+What is the best catalog of black hole candidates?
+I posted this questions in Physics stack:
+"I am searching for a catalog, list, database, etc. That should show astronomical observations of known black hole candidates. I am primarily interested in knowing the mass of these candidates.
+I have found this paper: https://ui.adsabs.harvard.edu/abs/2016A%26A...587A..61C/abstract
+but I am curious if more recent work is available or something more complete has been done. Ideally I'd like to get data on the ALL known black hole candidates in the universe, so both black holes in our own galaxy and black hole candidates that might be at the center of other galaxies."
+Someone gave me this link:https://en.wikipedia.org/wiki/List_of_most_massive_black_holes#References and someone else noted that I should ask it here, and think they were right, but now I'm more confused. I see similar questions on this site:
+Is there a comprehensive catalog of all known black holes?
+Catalogue of black holes
+but they are a few years old. It seems like the catalogs that do exist themselves are about 20 yrs old. Is there a standard webpage or even Living Review type of document where new sources get added?

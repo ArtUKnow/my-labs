@@ -1,0 +1,4 @@
+How to understand "rat" moving on Falcon 9 second stage rocket nozzle?
+Starting at about ten seconds into this video of the SpaceX CRS-19 launch:
+One can observe what looks something like a rat moving around the side of the second-stage rocket nozzle.
+How can this observation be explained?

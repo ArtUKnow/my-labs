@@ -1,0 +1,11 @@
+What is the purpose of the shrouds surrounding these rocket engines?
+While researching the purpose of some rocket engine components, I came across several images of perforated shrouds surrounding the combustion chambers of rocket engines.
+I was highly curious about what purpose they serve, but was unable to find clear evidence.
+The LR87-AJ-11, a late version of the LR-87, which was designed and build by Aerojet-General features such shrouds, for example, as seen here and here (all rights reserved to Jack Snell).
+It should be noted that earlier variants of the LR-87 do not feature such a shroud as far as I am able to tell.
+Another engine which would have featured such a shroud is the AJ-1200, which was an engine proposed for a pressure-fed space shuttle booster which was never built.
+The proposed schematics of the AJ-1200 can be found here, and the shroud can be spotted on
+pg. 5, 9 and 11.
+The only thing these engines appear to have in common is that they were both designed (or updated) by the Aerojet-General Corp. in the late 60s or early 70s (1968 - 1972).
+Perhaps someone of the designers from back then is aware of the function of the shrouds?
+Or does someone have a clue as to what it could be?

@@ -1,0 +1,14 @@
+Was Polaris Dawn mission the first time a Starlink laser communication link was made with something besides another Starlink?
+Space.com's Sept. 13, 2024 SpaceX's private Polaris Dawn astronauts beam photos to Earth using Starlink satellites includes:
+Polaris Dawn next pulled off the first-ever private spacewalk on Thursday (Sept. 12), then followed up that historic achievement with one in the communications sphere— posting on X from orbit for the first time using SpaceX's Starlink broadband satellites.
+"Hello Earth — We are so grateful for all the support! Please enjoy two recent photos from our mission and stay tuned for our next message. Sent to you from space over a beam of Starlink laser light — Crew of Polaris Dawn," reads the X post, which was published on Thursday afternoon by the Polaris Program, a three-mission effort organized and funded by billionaire tech entrepreneur Jared Isaacman.
+Question: Was Polaris Dawn mission the first time a Starlink laser communication link was made with something besides another Starlink?
+I think there are two things to verify here.
+Did Crew Dragon use an optical link to communicate to a Starlink satellite?
+If so, was this the first time a Starlink optical link was not to another Starlink?
+Although the mission's apogee is often (but not always) above most Starlinks, who's radio antennas are downward-looking, the stable perigee of only 190 km means there's plenty of opportunity for the capsule to use radio to link to a Starlink, which could then use its laser to link to another Starlink before the ground link.
+Presumably the Starlinks' optical links are primarily sideways-looking so they can talk to each other.
+related:
+"...extending the Starlink network using longer-range laser comms and relay satellites to reach Mars and Starships in-transit" (Musk & Shotwell)
+What technology will SpaceX's StarLink satellites most likely use for sat-to-sat linking? (currently unanswered)
+Did the Starlink precursor Tintin satellites ever talk to each other? If so, how? Did they demonstrate an optical communications link? (currently unanswered)

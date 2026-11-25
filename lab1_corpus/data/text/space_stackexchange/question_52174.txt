@@ -1,0 +1,6 @@
+Why allow communication with interplanetary spacecraft to be silent for stretches of time; only getting updates on certain days & times of the week?
+Communication between planetary bodies in space, e.g. from the moon, or Mars, takes a long time and has many shortcomings, like line of sight requirements.
+Communication with interplanetary spacecraft is often silent for stretches of time; only getting updates on certain days & times of the week.
+Why is this enough to be acceptable for deep space exploration?
+What are the challenges with improving this? So far it does't seem like a priority, so there must be some reasons why this is okay, can it be expressed in an answer?
+I was thinking about repeaters, or store-and-forward schemes, are these possible?

@@ -1,0 +1,3 @@
+How much of the total angular momentum of the Earth-Moon system is due to the Moon?
+I've read that the total angular momentum of the Earth-Moon system is 3.41x10^41 g.cm^2/s (1). How much of that is due to the Moon? In other words, if the Moon ceased to exist and the Earth continued to rotate at its current rate, how much would the angular momentum decrease?
+(1) https://www.sciencedirect.com/topics/earth-and-planetary-sciences/earth-moon-system

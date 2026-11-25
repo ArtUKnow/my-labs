@@ -1,0 +1,2 @@
+Impact of Fortran in NASA space programs in modern technology?
+I was doing some research on the technology behind the Apollo missions and was quite intrigued by how they made the code given the technical limitations of the time. Do any of you know the ways in which people built off the Apollo code to make modern day advancements in technology?

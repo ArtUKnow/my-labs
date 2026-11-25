@@ -1,0 +1,10 @@
+Design impact on Chamber pressure
+What is forming the amount of chamber pressure which is produced in a rocket engine and why would you like to have an higher chamber pressure?
+I was calculating the SpaceX Raptor engine for myself, just to know how to get the equations done correct. I struggled a little bit with the chamber pressure because the amount I calculated was far too low. I thought about it and came to the conclusion that you have to decrease the throat area in order to get a higher chamber pressure - which leads to an higher exit velocity. I'm not sure if I'm right, that's why I'm asking.
+EDIT: First I tried to calculate the chamber pressure by the formula:
+where k = 1.16; M = 3.55 and p = 0.1019 MPa. Because I thought the exit velocity in Mach is given by:
+3200m/s is the exit velocity which I found on wikipedia for the rated Isp. According to the Internet the sonic velocity in this area should be around 900m/s. When calculated the chamber pressure according to the equation is about 15.97MPa which is equal to ~160bar.
+This leads me to the assumption, that the exit velocity has to be higher than 3200m/s. For my understanding that can only accure if the throat area is much smaller.
+I found this equation which confirm my thoughts:
+Higher chamber pressure leads to higher exit velocity, which also leads to higher thrust. Maybe i answered the question myself. If so, it would be good to know if I'm right with my calculations/assumptions.
+Thank you.

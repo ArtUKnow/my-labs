@@ -1,0 +1,5 @@
+Does Chang'e 6 try to avoid sampling contaminated soil?
+Watching this amazing video of Chang'e 6 taking samples from the Apollo Crater on the far side of the Moon, I was struck by the proximity of the sample channels to the lander. It's understandable since there's a practical limit to the length of a robot arm that can be carried.
+Presumably the descent stage rocket exhaust was blowing combustion by-products and unburnt fuel onto the surface as it descended. But doesn't that mean that the regolith samples will have traces of the fuel and exhaust chemicals? I vaguely remember something about the Apollo samples being taken from a distance away from the LM for this reason.
+Does Chang'e 6 try to take samples that are not contaminated by the descent engine and if so, how?
+I'm not asking about sample-return biological contamination, I think that has been dealt with in other questions here.

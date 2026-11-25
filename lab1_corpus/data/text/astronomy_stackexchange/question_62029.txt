@@ -1,0 +1,19 @@
+What is this eccentricity "stripe" past Neptune?
+I plotted eccentricity vs. semimajor axis for Solar System bodies and produced this plot:
+My question is: Why is there horizontal "stripe" past Neptune around eccentricity 0.1 extending out to ~80 AU?
+Extra details
+I downloaded orbital data from JPL's SBDB with an H <= 12 and M1 <= 12 filter:
+curl 'https://ssd-api.jpl.nasa.gov/sbdb_query.api?fields=spkid,full_name,name,kind,class,a,e,i,H,M1&sb-cdata=%7B%22OR%22%3A%5B%22H%7CLE%7C12%22%2C%22M1%7CLE%7C12%22%5D%7D&full-prec=true' -o jpl_data.json
+There are ~526 objects in that dataset that fit that stripe - here's a sample:
+full_name a e
+49673 (1999 RA215) 43.196673 0.106203
+118378 (1999 HT11) 43.554738 0.109532
+120178 (2003 OP32) 43.175032 0.103425
+120347 Salacia (2004 SB60) 42.114650 0.103379
+137294 (1999 RE215) 45.004791 0.103507
+... ... ...
+(2023 PO5) 43.090716 0.100149
+(2023 PP5) 53.010480 0.099764
+(2024 CE30) 37.149771 0.100248
+(2024 EL7) 42.859594 0.100163
+(2025 HB51) 47.348171 0.092959

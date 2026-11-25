@@ -1,0 +1,7 @@
+How fine was RCS thrust control on the Apollo SM?
+I've wondered about how the Apollo spacecraft could rotate to a specified roll angle (for example) and remain there. I know there were two dead bands available, 5 degrees and a much smaller value that I have forgotten.
+Say they wanted to rotate by firing two opposing RCS thrusters (a coupled burn). After the roll was begun, they would have to fire again to stop the rotation, but I would imagine it being difficult to control the thrust of a rocket finely enough to simply make it stop rolling, exactly. I think of repeated opposite-direction bursts to make the rotational motion finally stop.
+Through a friend, I met one of the engineers who worked on LM RCS, and Fred Haise, at the same time (in Houston, at the Apollo 11 movie on IMAX). I wish I had thought to ask them. :-)
+I hope the question is clear...
+Thanks,
+Tom

@@ -1,0 +1,2 @@
+Is Delta V depending on the Launch Vehicle mass and the Payload Mass?
+I have read in many references that Delta V is fixed or constant for example ( Delta V to LEO = 10km/s). They did not mention the payload mass or the Propellant mass, and also they did not mention that its approximation results. From my reading, I expect that Delta is not depening on also the Mission distance. Does anyone have a clear answer for me ?!!

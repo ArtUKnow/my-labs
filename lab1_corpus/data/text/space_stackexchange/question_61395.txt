@@ -1,0 +1,2 @@
+How do spin-stabilized rockets conduct gravity turns?
+I was reading this NTRS document about a spin-stabilized solids-only small launcher. The paper mentions that the proposed design (called 428A) will be spin-stabilized during launch and gravity turn. This confuses me as extra non-roll forces during spin-stabilization would cause gyration/precession during flight. How does this intuitively work?

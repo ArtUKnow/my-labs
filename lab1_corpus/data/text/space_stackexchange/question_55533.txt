@@ -1,0 +1,4 @@
+Starship reentry velocity on return from Mars: What are the options
+What are the reentry velocity options available to Starship on return from Mars? I assume the approach will be significantly faster than a Hohmann transfer orbit due to timing of transfer windows and the desire to shorten the mission. And even a Hohmann transfer velocity is higher than cislunar or LEO reentries.
+Is there any advantage to using aerobraking or aerocapture? Lunar gravity assist? Is Starship’s thermal protection planned to be robust enough for a direct reentry?
+I assume the maximum tolerable atmospheric entry velocity depends on how Starship is loaded. If it is significantly loaded (as in a return crewed mission) the added kinetic energy of payload and more landing fuel will increase the thermal load.

@@ -1,0 +1,3 @@
+Any source for the trajectories of Airbus satellites for earth observation?
+I am looking at the Airbus Intelligence web site, where one can purchase various remote sensing products. However, I would like to know more about the satellites' trajectories to make a more informed decision. Is there any publicly available source for such information? When it comes to Landsats, Sentinels and other publicly funded constellation this is quite easy to accomplish.
+I am also obviously not talking about satellites that are used in defense and/or are otherwise not available to the general public.

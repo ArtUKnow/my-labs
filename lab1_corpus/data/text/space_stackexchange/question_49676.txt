@@ -1,0 +1,7 @@
+How many solar system bodies have "knees" in their atmospheres?
+Discussion lead to citing Why does Earth's atmospheric density have a big "knee" around 100 km? Is there a good analytical approximation? who's answer is "monatomic oxygen". For some reason above 100 km O2 tends to split into two single atoms of oxygen and because they are lighter the exponential drop-off of density with altitude slows down.
+Apparently this is not happening so much for N2 compared to O2 which suggests that that 1:4:9 monolith that the aliens put in LEO that was supposed to stay there ended up reentering the atmosphere a few billion years ago when the Great Oxidation Event happened, so they had to come back and put a new one on the Moon.
+If we had a nitrogen atmosphere without such a pronounced knee the ISS wouldn't have to boost itself nearly so often.
+Question: How many solar system bodies have pronounced "knees" in their atmospheres? These could be due to monatomic oxygen or any other atmospheric constituent. I'm just curious if this anatomical-like feature is unique to Earth or if it's been seen elsewhere in the solar system.
+From Why does Earth's atmospheric density have a big "knee" around 100 km? Is there a good analytical approximation?:
+source and source click for larger

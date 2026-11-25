@@ -1,0 +1,4 @@
+Why exactly do robots freeze? How could we engineer around it?
+Moon and Mars rovers go through a lot of trouble to keep themselves heated to avoid "freezing to death".
+My question is why exactly are all these measures necessary? As in, which components of the robots freeze? What alternatives do we have to design robots that just don't need to worry? And what would the trade offs be?
+One common answer I found on my research was the liquid on lithium ion batteries. One proposed solution was solid state batteries. But are the batteries really the only component at risk? Would Moon rovers have zero concern about low temperature if they had a SSB? Or is there something more to it?

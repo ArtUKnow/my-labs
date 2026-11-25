@@ -1,0 +1,3 @@
+Why is the Falcon 9 rocket's gas generator exhaust outlet covered with wire mesh?
+Image from https://www.thespacetechie.com/octaweb-structure/
+From this image, we can see the exhaust outlets of eight gas generators (the center one's location is unclear). It's visible that the outlets are covered with a metal grid mesh. I don't understand the purpose of this mesh. If it's to prevent foreign object ingestion, it should be fully sealed with solid covers like the engine nozzles.

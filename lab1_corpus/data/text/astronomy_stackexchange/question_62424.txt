@@ -1,0 +1,11 @@
+Type Ia supernovae as standard candles at high redshifts - possible influence of progenitor age?
+In a recent paper published 11 June Pantheon+ supernovae corrected for progenitor age indicate the universe is decelerating, MNRAS, Volume 549, Issue 3, July 2026.
+The authors Animesh Sah , Mohamed Rameez , Subir Sarkar claim using Pantheon+ survey data that the absolute brightness of Type Ia supernovae at high redshifts is different (slightly lower) compared to those nearby and that this systematic error results in an apparent acceleration of the expansion of the universe at high redshifts. The graphs and numbers in the paper look plausible to me but I know very little about the intricacies of Type Ia supernovae and stellar evolution.
+In the abstract they say:
+"We examine the impact of progenitor age-dependent luminosity evolution of Type Ia supernovae on a cosmographic measurement of the deceleration parameter
+⁠. Our recent redshift tomographic analysis showed that locally
+has a strong dipole anisotropy aligned approximately with the bulk flow, and only a small monopole component remains at distances exceeding a few hundred Mpc. Applying redshift-dependent corrections for progenitor age to the Pantheon + catalogue, we find that this shifts the monopole component of
+to positive values (i.e. deceleration) while leaving the local dipole component essentially unchanged."
+It is beyond my ability to check this claim what do others think of it?
+I'd like to believe that they are right but how good is their experimental evidence?
+Reading the paper I'm not entirely convinced but think it is an interesting contribution - what scope is there for additional observational constrains to determine this one way or the other?

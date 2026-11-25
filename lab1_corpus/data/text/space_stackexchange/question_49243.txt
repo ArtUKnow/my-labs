@@ -1,0 +1,5 @@
+Liquid Nitrogen Diluted Rocket
+Imagine a rocket that uses a mixture of liquid nitrogen and oxygen as the oxidiser.
+It is designed like an oxidiser-rich staged-combustion engine, however there is so much nitrogen in the mixture that all the fuel can be burned in the pre-burner without the gas becoming so hot that it melts the oxidiser pump turbine. The pre-burner then, in effect, becomes the main combustion chamber, and there is no need for a combustion chamber downstream of the oxidiser pump. It may be that there is no need for regenerative cooling channels. The engine is used on very low staging-velocity boosters where high thrust to weight is more important than exhaust velocity in achieving greater efficiency.
+How would such an engine be optimised (eg. expansion ratio, isp, pressure) to achieve maximum thrust to weight ratio and minimum production and development cost?
+(It's okay for it to be as low perfomance ISP-wise as a steam rocket - though probably with far better mass fraction. Perhaps optimising some-way between the ARCA steam rocket CONCEPT (i.e. on paper not reality) and a conventional chemical rocket)

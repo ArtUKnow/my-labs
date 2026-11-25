@@ -1,0 +1,62 @@
+Geocentric position of lunar ascending node relative to the true equator and equinox of date, using skyfield
+The following is what I'm doing currently. Am I missing something here? I'm unsure if I am converting in and out of Skyfield objects correctly, and there is any unaccounted for behavior i'm not seeing
+import datetime as dt
+import pytz
+import numpy as np
+import skyfield.api
+from skyfield.data.spice import inertial_frames
+from skyfield.elementslib import osculating_elements_of
+from skyfield.framelib import true_equator_and_equinox_of_date as of_date
+AU = 149597870.7
+"""The distance of 1 Astronomical Unit (AU) in kilometers."""
+time = "2023-09-29 07:37:32"
+naive_observer_time = dt.datetime.strptime(timestamp_string, "%Y-%m-%d %H:%M:%S")
+aware_observer_time = pytz.timezone("UTC").localize(naive_observer_time)
+skyfield_time = timescale.from_datetime(aware_observer_time)
+ephemeris = skyfield.api.load("de440.bsp")
+earth, moon = ephemeris["Earth"], ephemeris["Moon"]
+# Get the position of the geocentric position of the moon relative to the true equator and equinox of date
+moon_ICRF = (moon - earth).at(skyfield_time)
+r, v = moon_ICRF.frame_xyz_and_velocity(of_date)
+node_true_equator_equinox = skyfield.positionlib.ICRF.from_time_and_frame_vectors(skyfield_time, of_date, r, v)
+node_true_equator_equinox.center = moon_ICRF.center
+node_true_equator_equinox.target = moon_ICRF.target
+# Get the longitude of the lunar ascending node
+# We use the ecliptic frame because then the latitude of the node will be 0 degrees, by definition,
+# since the ascending node is the point where the lunar orbit intersects Earth's ecliptic plane
+ecliptic = inertial_frames['ECLIPJ2000']
+orbital_elements = osculating_elements_of(node_true_equator_equinox, ecliptic)
+true_node_longitude_wrt_eliptic_at_J2000 = orbital_elements.longitude_of_ascending_node.radians
+# Calculate the geocentric radius of the ascending node [1]
+# The true anomaly at the ascending node is 360 degrees - argument of periapsis [2]
+# [1]: https://en.wikipedia.org/wiki/True_anomaly#Radius_from_true_anomaly
+# [2]: https://space.stackexchange.com/a/58849/13835
+a = orbital_elements.semi_major_axis.km
+e = orbital_elements.eccentricity
+true_anomaly_at_ascending_node = np.radians(360 - orbital_elements.argument_of_periapsis.degrees)
+geocentric_radius_km = a * (1.0 - (e ** 2))/(1.0 + e * np.cos(true_anomaly_at_ascending_node))
+geocentric_radius_au = geocentric_radius_km / AU
+# Convert ecliptic coordinates to equatorial coordinates
+# 1. Convert ecliptic longitude of ascending node (spherical coords) to ecliptic cartesian coords
+# 2. Define the rotation marix from ecliptic to equatorial coordinates
+# 3. Convert the ecliptic cartesian coords to equatorial cartesian coords
+# https://en.wikipedia.org/wiki/Ecliptic_coordinate_system#Conversion_from_ecliptic_coordinates_to_equatorial_coordinates
+node_wrt_geocenter_in_ecliptic_frame_au = geocentric_radius_au * np.array([np.cos(true_node_longitude_wrt_eliptic_at_J2000), np.sin(true_node_longitude_wrt_eliptic_at_J2000), 0])
+earth_obliquity_of_the_ecliptic = np.radians(23.44)
+ecliptic_to_equatorial_rotation = np.array([[1, 0, 0], [0, np.cos(earth_obliquity_of_the_ecliptic), -np.sin(earth_obliquity_of_the_ecliptic)], [0, np.sin(earth_obliquity_of_the_ecliptic), np.cos(earth_obliquity_of_the_ecliptic)]])
+node_wrt_geocenter_in_equatorial_frame_au = ecliptic_to_equatorial_rotation.dot(node_wrt_geocenter_in_ecliptic_frame_au)
+# Build a skyfield object for the true node
+distance_obj = skyfield.units.Distance(au = node_wrt_geocenter_in_equatorial_frame_au)
+velocity_obj = skyfield.units.Velocity(au_per_d = [0, 0, 0])
+node_true_equator_equinox = skyfield.positionlib.ICRF.from_time_and_frame_vectors(skyfield_time, of_date, distance_obj, velocity_obj)
+node_true_equator_equinox.center = moon_ICRF.center
+node_true_equator_equinox.target = moon_ICRF.target
+Results
+From this stackexchange answer, I used JPL's WebGeocalc to get the moon's state vectors as it crosses its ascending and descending nodes. I get the results in the following image.
+However, I get the following results for the highlighted time:
+# My distance is different than JPLs, so some difference is expected
+geocentric_radius_km = 365719.829
+node_true_equator_equinox_km = [333403.272, 137909.660, 59784.427]
+# Let's redo the calculations with JPLs distance
+geocentric_radius_km = 361331.414
+node_true_equator_equinox_km = [329402.635, 136254.828, 59067.0498]

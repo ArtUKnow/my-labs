@@ -1,0 +1,9 @@
+Elevation angle for a non-GEO satellite
+I want to calculate the elevation angle of a Non-GEO satellite with respect to a ground terminal. The information I have to solve this:
+Instantaneous Longitude, Latitude, and Altitude of the non-GEO satellite
+Instantaneous Longitude, Latitude, and Altitude (0) of the ground terminal
+I found a few references that can solve the problem for the GEO satellite case (link: https://tiij.org/issues/issues/3_2/3_2e.html). The elevation angle of a GEO satellite can be given by:
+Here G is the difference between the longitudes of the satellite orbit and the ground terminal.
+L is the latitude of the ground terminal
+Is it possible to calculate the elevation angle for the non-GEO satellite with respect to the ground terminal using the same closed-form formula?
+If not, what can be my approach to finding it?

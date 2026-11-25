@@ -1,0 +1,3 @@
+Earth-Moon Rotating Frame in STK
+I'm trying to create a coordinate system in STK that is centered at the Earth-Moon barycenter. The x-axis should point at the Moon and the z-axis should be normal to the Earth-Moon plane. Is there a way to do this? I found the 'Trajectory' axes type, which seems relevant, but I'm not sure if that changes with time, and if that is the correct path, I'm not sure how to define the 'Reference System' and 'Axes Type' correctly. (I am very new to STK, if it wasn't clear.)
+I hope this makes sense, thanks in advance!

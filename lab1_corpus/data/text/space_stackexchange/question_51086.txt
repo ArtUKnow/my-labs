@@ -1,0 +1,15 @@
+Help understanding vectors in diagram from "Magnetohydrodynamic flow control during reentry" and the actual goal of this research
+A link to the ESA Advanced Concepts Team page Magnetohydrodynamic flow control during reentry was recently shared under Re-entry Heat Shield Alternative. It says:
+During the reentry phase, spacecraft experiences large aerodynamic and thermal loads that constraint the vehicle design. Entry vehicles have been traditionally equipped with passive thermal protection systems (TPS) which typically consist of ablative heat-shields and heat-resistant materials. Previous studies have shown that MHD flow control is a potential active TPS technology, since it is capable of reducing the thermal loads typically experienced during atmospheric entry [2]. Furthermore, MHD flow control could bring benefits in terms of vehicle controllability and re-usability.
+In a short study within the Advanced Concepts Team, existing literature on this concept was combined to estimate the impact on the re-entry trajectory. In particular, the interest was to explore the maximum velocity achievable for direct entry. Using a simplified model of the entry dynamics, in combination with an analytical approximation of the MHD interaction, a trajectory analysis could be performed under varying levels of magnetic field strength.
+References
+H. Otsu, H. Shizuoka, A.Matsuda, T. Abe, D. Konigorski, Feasibility Study on the Flight Demonstration for a Reentry Vehicle with theMagnetic Flow Control System, AIAA 2006-3566, 2006. paywalled
+T. Yoshino, T. Fujino, M. Ishikawa, Possibility of Thermal Protection in Earth Re-entry Flight by MHD Flow Control with Air-Core Circular Magnet, Institute of Electrical Engineers of Japan, 2009. paywalled
+During a search I found Plasmas for High Speed Flow Control which seems to be related:
+This paper presents experimental activities focused on supersonic flow control with plasma and MHD actuators. This work is carried out at ICARE, a laboratory located at the CNRS Campus in Orléans. The study of aerothermodynamic physics, one of the research fields of ICARE, is conducted with the experimental platform FAST consisting of three supersonic/hypersonic wind tunnels involved in aerothermodynamic testing for hypersonic flight and space technology.
+The original link also contains the following diagram which I can't understand at all!
+The flow of the plasma is indicated by the velocity vector $\pmb{V}$, but what causes the current $\pmb{J}$ (the orange "donut") and why does it appear to be perpendicular to all three other vectors $\pmb{V}$, $\pmb{B}$ and the Lorentz force $\pmb{J} \times \pmb{B}$?
+I can't make heads or tails of this diagram.
+Questions:
+Why does the orange $\pmb{J}$ donut look perpendicular to three other mutually orthogonal vectors, which is not mathematically possible. Is there a simpler way to draw this? When it comes to 3D problems, extended prose just doesn't do it for me.
+What is the point of this research? Does it keep the spacecraft cooler, or provide some against the plasma to change the attitude of the spacecraft?

@@ -1,0 +1,17 @@
+Converting heliocentric galactic coordinates to ICRS using astropy
+I have the "heliocentric galactic" cartesian coordinates of Proxima Centauri as given in the paper Kervella et al 2017 (Table B.1 of https://arxiv.org/abs/1611.03495). I would like to convert these coordinates to ICRS using astropy.
+The position and velocity are given in heliocentric cartesian coordinates (X,Y,Z) with velocity (U,V,W). Quoting the authors of the paper, "The heliocentric Galactic coordinates of the barycenter of α Cen and of Proxima are presented in Table B.1, together with their heliocentric space velocity... We followed the classical convention of X and U increasing toward the Galactic center, Y and V positive toward the Galactic direction of rotation, and Z and W positive toward the North Galactic pole."
+I've tried creating a SkyCoord object as follows:
+proxima = SkyCoord(
+representation_type = 'cartesian',
+x = 0.90223 * u.pc,
+y = -0.93599 * u.pc,
+z = -0.04386 * u.pc,
+frame = 'galactic',
+u = -29.390 * u.km/u.s,
+v = 1.883 * u.km/u.s,
+w = 13.777 * u.km/u.s
+)
+I get an error that keywords 'x', 'y', and 'z' are not recognized, even though I specified the representation_type 'cartesian'. Perhaps because I'm using a galactic frame it is expecting latitude and longitude?
+Once I can create a SkyCoord object with these galactic cartesian coordinates, I can convert it to ICRS cartesian using "proxima.icrs.cartesian". But how can I create a SkyCoord object with heliocentric galactic cartesian coordinates?
+Thank you for any help!

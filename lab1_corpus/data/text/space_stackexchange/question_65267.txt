@@ -1,0 +1,21 @@
+How is the Quantum Drive performing on board the BARRY-1 cubesat?
+Since 2001 there has been chatter about reactionless “quantum drives” such as the EmDrive developed by Satellite Propulsion Research Ltd. These drives supposedly produce thrust without consuming propellant or interaction with external fields. If they work, this would be a violation of Newton’s 3rd Law. And, if they work, they would revolutionize space travel.
+The inner working of these drives is often proprietary but usually involve microwaves beamed into a copper vessel. Proponents claim to have measured small amounts of thrust but critics explain this as experimental error.
+Controversial Quantum Space Drive In Orbital Test, Others To Follow
+After decades of controversy, a “quantum drive” has been launched into orbit where it can (possibly) prove it has the Right Stuff. Or maybe just ignite more controversy.
+According to Rogue Space Systems Corp, their BARRY-1 satellite launched by SpaceX Nov 11 2023, includes a Quantum Drive.
+The quantum drive will boost the BARRY-1 satellite into a new orbit —
+or maybe it will do nothing, as skeptics maintain propellentless
+drives cannot work. For the first month or so of operation it will do
+nothing but settle down so its exact orbit can be tracked … After that
+the drive will be activated and the test will begin with the goal of
+raising the orbit by 60 miles.
+The propellentless drive was developed by IVO Limited, who are not commenting on the project until they get results. But their website describes it as the “first pure electric propulsion technology tested and validated to Low Earth Orbit environments.”
+Two months have gone by. Any news on the Quantum Drive’s performance?
+EDIT for all those of you who have been holding your breath, as of Feb 14 the mission has ended without a test.
+From https://rogue.space/suspension_of_barry1_operations
+“Rogue Space Systems operations team is announcing the suspension of
+the active phase of our first on orbit mission”
+“ never had the opportunity to test the IVO drive… we are in
+discussions on a second attempt during... the upcoming
+Rogue hosting missions launching in 2025.”

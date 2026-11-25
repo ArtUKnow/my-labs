@@ -99,6 +99,15 @@ class TestCorpusRun(unittest.TestCase):
         out = open(os.path.join(self.tmp, "tokens", "src", "b.txt"), encoding="utf-8").read()
         self.assertEqual(out, "ракета-носитель\nсоюз-2")
 
+    def test_rebuild_discards_removed_documents(self):
+        text_dir = os.path.join(self.tmp, "text")
+        tokens_dir = os.path.join(self.tmp, "tokens")
+        tokenize_corpus.tokenize_corpus(text_dir, tokens_dir)
+        os.remove(os.path.join(self.text, "a.txt"))
+        stats = tokenize_corpus.tokenize_corpus(text_dir, tokens_dir)
+        self.assertEqual(stats["documents"], 1)
+        self.assertFalse(os.path.exists(os.path.join(tokens_dir, "src", "a.txt")))
+
 
 if __name__ == "__main__":
     unittest.main(verbosity=2)

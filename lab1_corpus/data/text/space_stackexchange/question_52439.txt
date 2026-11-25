@@ -1,0 +1,5 @@
+Lunar Terrain Model in Apollo Guidance Computer
+In the book Apollo Guidance Computer by Frank O’ Brian, on page 279, he talks about the lunar terrain model in the Apollo Guidance Computer, which has the several segments of the surface with slope.
+This terrain model was used to correct for the radar altitude to get the the state vectors.
+I wanted to know more about, how these were stored and used inside the Navigation System.
+Was it like a 2D array of points with lat lon and their slope and height? how large was their database?

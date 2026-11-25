@@ -1,0 +1,6 @@
+Query spectral type for absolute magnitude
+I'm working on a project with stars where, given their spectral type (such as B0IV), I want to be able to know its approximate absolute magnitude.
+I have searched online and found data sources like this one from the University of Northern Iowa or a similar table at the back of a bright orange textbook called An Introduction to Modern Astrophysics by Carroll and Ostlie.
+However, these data sources are missing data values for spectral types like B4V, and they don't have any data for luminosity classes II and IV.
+I was wondering if anyone knows of any other data sources where I could enter a spectral type and get an absolute magnitude, or if there was any way I could fill in the missing values myself given the data that's already there. I understand that these data values will be approximate, and that's okay for the scope of my project.
+Thanks!

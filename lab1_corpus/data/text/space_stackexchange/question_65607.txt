@@ -1,0 +1,7 @@
+How far could Apollo have got from the earth and still return safely?
+We know Apollo could not have gotten anyone to Mars and returned them alive. My question is, using Apollo hardware, how far from earth could an astronaut have traveled and still return safely?
+Notes:
+You may either include or omit the lunar module (your choice)
+If reducing the crew size helps, three astronauts do not have to have been sent (but one must have been sent)
+EDIT
+Concerning the comments on how much wiggle room there is, I will restrict your choices to hardware that either flew or at least got far enough to have full-scale mock-up (So no Venus Flyby hardware). I will also limit you to a single Saturn V launch. (and I thought the question was simple)

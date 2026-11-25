@@ -1,0 +1,7 @@
+What is the time interval between two consecutive solar eclipses?
+I researched this, and am not satisfied with what I found, so I am asking here.
+Here's what NASA says https://eclipse.gsfc.nasa.gov/SEsaros/SEperiodicity.html#:~:text=The%20time%20interval%20between%20any,to%203000%20CE%20%5B2%5D).
+According to NASA the periodicity of solar eclipses is 1, 5, or 6 synodic months, but a simple diagram invalidates that. Draw a large circle representing the earth's orbit around the sun plotted at its center, and plot two points on its circumference about 180° apart representing the earth's position in orbit 6 months apart. With those two points as center draw two little circles representing the moon's orbit around earth. Now suppose a solar eclipse happens for one of the little circles, so plot a point for the moon's position in orbit. The order of the plotted points must be sun-moon-earth in straight line . Now for the other little circle 6 synodic months later, the order of plotted points will be moon-earth-sun in straight line, AND NO SOLAR ECLIPSE WILL OCCUR. You have to wait half a synodic month for the order of the plotted points to be sun-moon-earth straight line, and you will have two consecutive solar eclipses. Therefore the periodicity of solar eclipses is 1, 5.5, and 6.5 synodic months.
+I wrote a formula for the geocentric lunar latitude in order to communicate this observation to others. The formula can be found here:
+https://stargazerslounge.com/topic/426317-geocentric-lunar-latitude/
+So am I right, is it 6.5 not 6 months?

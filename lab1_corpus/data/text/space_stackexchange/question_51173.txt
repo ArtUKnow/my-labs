@@ -1,0 +1,6 @@
+Are rocket self-destruct systems ever flight-tested/flight-proven?
+Under the question SN11 was launched in fog. Why not wait for better conditions? I wrote the comment:
+armchair totally unsupported theory: the fog presented an opportunity to test the emergency self-destruct system without the accompanying spectacular videos that would echo around the internet years later when they started putting large groups of people in it.
+Question: Are rocket self-destruct systems ever flight-tested/flight-proven?
+In other words, the self-destruct system of a rocket in flight is intentionally triggered specifically to see what happens.
+There are several things that have to work right for this system to perform reliably, including procedures, communications, certainty that propulsion stops, and possibly (I don't know) that the rocket breaks up in to several non-aerodynamic pieces. My thinking there is that if stopping propulsion was the only goal then small pyrotechnic guillotines on the fuel lines would be sufficient.

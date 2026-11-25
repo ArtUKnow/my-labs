@@ -1,0 +1,5 @@
+Is Hoag's Object torus shaped (what's its thickness)?
+I've read wiki: Hoag's Object and I've tried web search for redshift differences, but could not find info on Hoag's Object thickness.
+Redshift 12740±50 km/s
+As its thickness is not mentioned in wiki, I suspect "±50" is error margin, not a number that allows to calculate thickness (also 100 kms is in the order of 1000 kiloparsecs - twenty times its diameter of 45.41 kiloparsecs).
+Any info/ideas on whether the object is thin like Milky Way or torus shaped?

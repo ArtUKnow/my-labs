@@ -1,0 +1,2 @@
+Is used propellant dangerous for other spacecraft, and if so, for how long?
+Does the exhausted propellant of space probes pose a danger - as a cloud of high velocity particles - to other spacecraft crossing it soon after, or does it diffuse quickly enough in the vacuum to not have to be considered?

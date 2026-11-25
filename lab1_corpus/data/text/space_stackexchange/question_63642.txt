@@ -1,0 +1,12 @@
+Turbo code used in New Horizons - encoding coefficient?
+I know that New Horizons uses turbo code with r=1/6 for space communication1, however I don’t know which is the encoding coefficient, because I din’t think it could be 6, it seems it high. Could you help me?
+update: In response to comments, I'm referring to this answer to What is the modulation technique and what is the coding technique used to send information from the New Horizons spacecraft?:
+Phil (Karn) has explained it nicely. Yes, it is BPSK with R=1/6 Turbo coding, that is used in New Horizons...
+After encoding, a 6 times longer signal is sent, however it seems to me that an encoding coefficient of 6 is too high.
+The data rate is
+$$R \frac{\alpha_{\text{encoding}}}{\alpha_{\text{modulation}}}$$
+so, 6 times the initial data rate.
+It seems strange to me.
+This is my doubt.
+1from Wikipedia's Turbo code; Practical applications:
+Recent NASA missions such as Mars Reconnaissance Orbiter use turbo codes as an alternative to Reed–Solomon error correction-Viterbi decoder codes.

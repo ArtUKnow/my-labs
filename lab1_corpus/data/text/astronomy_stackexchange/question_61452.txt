@@ -1,0 +1,14 @@
+Refraction in Dip of Horizon is amplified when calculating sunset/rise altitude?
+If sun altitude when rises/sets = $-(SD + ref + dip)$,
+and dip of horizon formula = $1.757' \sqrt{h}$
+(h in meters)
+while $1.757'$ derived from $1.925'\sqrt{1-k}$
+[call back to the distance of the horizon formula = $\sqrt{\frac {2h}{R'}}=\sqrt{\frac {2h}{\frac {R}{1-k}}}=\sqrt{\frac {2h(1-k)}{R}}$]
+$1.925'$ comes from R = 6378136.86 meters
+and k assumed $\frac {1}{6}$ [from $\gamma$ (lapse rate) = 10 K/km, and $k=\frac {35-\gamma}{150}$]
+why does refraction when geocentric altitude equal to zero included into the calculation if dip of horizon formula includes refraction?
+or, both in Explanatory Supplement
+and Odeh's Accurate Times
+inculde refraction between horizon and observer which equal to $0.37' \sqrt h$
+thus, dip of horizon net becomes $2.12' \sqrt h$
+why does refraction included twice (from 1.925 to 1.757, and additional refraction between horizon and observer) in the dip of horizon formula while refraction in altitude is added (ref = $34.5'$ when geocentric altitude equal zero)?

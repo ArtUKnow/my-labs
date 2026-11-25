@@ -1,0 +1,2 @@
+Multimode ringdown modelling with $\texttt{qnmfits}$ and $\texttt{KerrRingdown}$
+In the last decade, the ringdown community has made large strides in understanding the aftermath of binary black hole mergers through the study of numerical simulations. In this note, we introduce two flavors of fitting algorithms, that have been verified against each other, for the extraction of quasinormal mode amplitudes from ringdown waveforms - $\texttt{qnmfits}$ in Python and $\texttt{KerrRingdown}$ in Mathematica.

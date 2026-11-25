@@ -1,0 +1,7 @@
+Term disambiguation: acceleration with/without gravity
+I'm ashamed to ask this.
+But a free-falling accelerometer in a gravitational field will read a nice round zero.
+And if that accelerometer is given some thrust, it will read the acceleration produced by that thrust alone---gravity be damned.
+Yet we care about the acceleration due to gravity, so we can correct the reading from our accelerometer by subtracting g to get the combined acceleration from thrust and gravity (and whatever else).
+Maybe I already know this and I forget. But what should I call the acceleration reading i) when gravity is ignored and ii) when gravity is accounted for?
+I'll go put my dunce hat and stand in the corner now.

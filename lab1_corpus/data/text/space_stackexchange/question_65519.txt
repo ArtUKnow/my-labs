@@ -1,0 +1,2 @@
+Why does the Falcon 9 first stage perform a burn at 60 km altitude?
+When falling back to Earth, why does the Falcon 9 first stage perform a burn at about 60 km (37 mi) altitude during re-entry instead of performing a longer burn closer to the drone ship? Would it have been damaged by aerodynamic heating without that braking?

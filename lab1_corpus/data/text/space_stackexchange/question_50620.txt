@@ -1,0 +1,4 @@
+Why are the rocket plumes on SN10 different colors?
+At about 7:53 (T+2:30) in this official video of the SpaceX Starship SN10 test flight, the engines are shown in the lower right, with clearly different colors in the plumes. The one on the right is much more yellow-orange and the one on the left more blue. This is also seen earlier during three-engine flight, but it's easier to see the difference during two-engine flight.
+Aren't these engines designed to be identical and experiencing pretty much the same atmospheric conditions?
+Why the difference in plume colors?

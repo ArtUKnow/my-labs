@@ -1,0 +1,7 @@
+How can one quickly screen a disk galaxy dataset for large-scale asymmetry?
+I am looking for practical ways to quickly assess whether a disk galaxy dataset
+shows large-scale asymmetry (e.g. possible stress-driven or lopsided structure)
+before doing any detailed modeling.
+Suppose one only has positions (or simple line-of-sight velocities) of tracers
+such as PNe, HII regions, or star clusters.
+What diagnostic checks or sanity tests are commonly used for this purpose?

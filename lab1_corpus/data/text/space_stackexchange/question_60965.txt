@@ -1,0 +1,4 @@
+Are the Artemis 1 secondary payloads still viable?
+Artemis 1 carries ten cubesats as secondary payloads. One of the concerns prior to the last rollback, in September, was that the batteries were almost out of charge and that there was no way to recharge them while they were onboard the SLS. Flat batteries would mean the cubesats are useless.
+Are those batteries now flat? Did NASA find a way to recharge them while the vehicle was stacked?
+I've hunted around but can't find a statement from NASA about this.

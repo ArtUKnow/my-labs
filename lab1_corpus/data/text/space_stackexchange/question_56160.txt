@@ -1,0 +1,7 @@
+What antennas does JAXA use to communicate with its deep space spacecraft? Does it have a deep space network of its own?
+@BrendanLuke's answer to Are there currently any spacecraft in orbit around Venus that might (or might not) be at risk of meteoric dust from comet Leonard C/2021 A? alludes to the exciting story of Akatsuki's near complete loss of mission and amazing recovery.
+Following the initial failure, communication with the safe-moded spacecraft was via it's low gain antenna, which would have required a substantial antenna on Earth.
+Question: What antennas does JAXA use to communicate with its deep space spacecraft? Does it have a deep space network of its own? Does it use a mix of domestic dishes and those of other space agencies?
+Note 1: Akatsuki's story is background only, I'm asking about all of JAXA's wide-ranging deep space program. There's a short and not guarnanteed-to-be-complete list here.
+Note 2: Wikipedia's JAXA: Communication ground stations for interplanetary spacecraft says:
+This section is empty. You can help by adding to it. (January 2020)

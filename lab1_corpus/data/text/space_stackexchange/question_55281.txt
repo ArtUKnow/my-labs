@@ -1,0 +1,4 @@
+Find the Orbital Inclination given all other Elements and a Position on the Ellipse
+I'm in a situation where I need to determine an orbit's inclination. At my disposal I have all of the orbit's other Keplerian elements, and I have the vector of a single point on the ellipse. Is this enough information to derive the orbit's inclination?
+Right now I'm enacting a "search," in which I gradually increase the orbit's inclination until the point I have is struck by the resulting orbital plane. Needless to say, I'd much rather be able to simply calculate the inclination directly.
+Thank you!

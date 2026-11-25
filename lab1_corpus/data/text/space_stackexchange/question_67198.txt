@@ -1,0 +1,8 @@
+How does a modern day satellite fall apart in space?
+Inspired by this news item Boeing-made satellite breaks up in space, which in part states:
+A communications satellite designed and built by embattled aerospace giant Boeing has broken up in orbit.
+The satellite's operator, Intelsat, has confirmed the "total loss" of iS-33e
+and
+the US Space Forces also said it is "currently tracking around 20 associated pieces" of the satellite
+Is it simply a case of poor manufacturing & a lack of quality control concerning the manufacturing of the satellite, or did the satellite have a "very rough" release and subsequent orbit insertion?
+P.S. The satellite subject to disassembly is Intelsat 33e, launched 2016-08-24, i.e. some time ago, which is not made clear at all in the BBC article.

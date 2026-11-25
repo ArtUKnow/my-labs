@@ -1,0 +1,6 @@
+How to calculate the Moon's Longitude or Moon's Ecliptic Topocentric?
+I keep searching on it on Internet but yet they can help yet and the way they reach is not straight to the point at all.
+I really need to learn this Lunar Longitude for example the Solar Longitude is 119° and the Lunar Longitude is 310°.
+I know how to determine the Solar Longitude like this:
+but I don't know and I don't have enough knowledge on Lunar Longitude for example like this
+But the another one which is easy but not accurate enough for example if the Sagittarius enters the moon there's a possibility the moon is in 258° Lunar Longitude

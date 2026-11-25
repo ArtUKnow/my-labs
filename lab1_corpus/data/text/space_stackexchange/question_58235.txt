@@ -1,0 +1,4 @@
+Would the free return trajectories of Apollo 8 to Apollo 11 have made them reenter Earth's atmosphere?
+Apollo 8 to Apollo 11 flew on a free return trajectory (later missions left the free return trajectory during a mid course correction after TLI).
+If those spacecraft had just stayed on that trajectory, would they have reentered in Earth's atmosphere or would they just have been flung around Earth and back towards the Moon's orbit again?
+So would they have returned to Earth without any propulsion at all after TLI?

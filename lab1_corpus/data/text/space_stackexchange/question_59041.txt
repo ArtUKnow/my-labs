@@ -1,0 +1,8 @@
+How much algae would you need to fully support a person?
+Recently, I saw a video on Cody'sLab, where an “algae panel” was constructed. This is set up like a solar panel and uses algae to convert light and air into food and oxygen.
+This got me wondering how useful such a device would be in long term space life. How much algae would you need in order to support one person’s calorie and oxygen needs?
+Your answer should include:
+the mass of the algae;
+the mass of water needed to support it;
+the mass and size of any containment or other support systems needed.
+You can assume that the craft is located at a distance from the Sun equal to the mean distance of Earth from the Sun. You can use any algae species you want, however it must of course be edible.

@@ -1,0 +1,5 @@
+What expansion ratio is the best for mars surface level engines?
+What expansion ratio is the best for mars surface level engines?
+For launches from Earth, first stage nozzles are much shorter than second stage nozzles because of Earth's high sea-level pressure. For more on that see Wikipedia's Rocket engine nozzle; Atmospheric use.
+There are several futuristic proposals to launch from Mars, presumably tourists and professional astronauts on their return flight home, and the first of presumably many robotic sample return missions from Mars is expected in a few years. More on that at What kind of rocket will ESA(?) launch from Mars? Who will build it?
+Since Mars has an atmosphere and so is not analogous to launching from the Moon, but it's low pressure so ot analogous to launching from Earth, I'd like to ask What expansion ratio is the best for mars surface level engines?

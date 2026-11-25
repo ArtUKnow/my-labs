@@ -1,0 +1,6 @@
+A question about Nozzle/Extension/Skirt Size
+In many rocket engines i see that the thrust chamber and a small part of the nozzle are one piece.
+Does anyone knows if there's a formula which determines what portion of the nozzle is A ?
+and how much is B ?
+If possible I would like a reference to a chapter of a rocket book.
+Thanks

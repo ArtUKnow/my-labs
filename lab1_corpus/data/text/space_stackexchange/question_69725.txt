@@ -1,0 +1,3 @@
+What was the deployment mechanism for the Iris lunar rover on board Peregrine-1?
+The image below shows the Iris rover attached to Astrobotic's Peregrine-1 lander. What was the intended deployment mechanism on the lunar surface? Just drop the rover (e.g., using frangibolts)? That feels kind of risky given that the ground below the lander could be rocky, jagged, uneven, etc. and cause the rover to tip over upon impact.
+There is another module right above the rover, but I believe it is an unrelated payload. This video shows the rover integration to the lander and might help.

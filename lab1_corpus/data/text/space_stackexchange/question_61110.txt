@@ -1,0 +1,3 @@
+Has NASA used a consistent definition of "entry interface"?
+The question "Orion re-entry velocity: Why is it higher than Apollo?" has an unstated but critical assumption: that re-entry is measured at the same point for both missions. The point selected to define "re-entry" is fairly arbitrary: for example, you can orbit with a periapsis below Karman line if your orbit is eccentric enough.
+I've been able to find that, for Apollo, "entry interface" was an altitude of 400,000 feet, but I haven't been able to find a definition for Orion (or any other NASA spacecraft). Has it been consistent over time?

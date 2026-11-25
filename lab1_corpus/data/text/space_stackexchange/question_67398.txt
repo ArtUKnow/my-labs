@@ -1,0 +1,5 @@
+Weird single point anomalies in TLE data eccentricity parameter
+When looking at the TLE data, I noticed weird anomalies in eccentricity for some satellites. These anomalies consist only of single data point, and data before and after them do not change trend. When compared to known dataset of manoeuvres, nothing interesting is happening at the times of those anomalies. My guess is that it is either a measurement problem, or glitch in TLE data calculation algorithm. However, since TLE data are averaged over several measurements, I still find those single point anomalies baffling, since I would expect a measurement error to also influence neighbouring datapoints.
+Does anyone know what is going on?
+Attached is plot a of eccentricity for Jason-1 satellite, Norad 26997. Data are obtained from space-track.org
+edit: Added graph depicting other orbital elements for Jason-1 satellite, since it seems that glitches in data are accompanied by corresponding glitches in other parameters.

@@ -1,0 +1,15 @@
+Skewing of data regarding velocities of stars
+For a school project I am currently determining the location of sagittarius A* (the supermassive black hole at the center of the milky way). I have analyzed about 1 million stars and their velocities. My thought was that if I look at the average velocity of all of those stars, it should be looking towards the black hole, since it has the biggest mass in the galaxy. But this isnt the case. Right ascension is off by about 40 minutes and declination is off by almost 35 degrees. I need to find what skews this in that direction or if I have made an error in my assumption. Thanks in advance!
+Edit:
+Dataset used: AT-HYG 2.4 from Astronomy Nexus
+https://astronexus.com/hyg/
+This dataset contains cartesian coordinates in parsecs with the sun being at (0, 0, 0). I have averaged out the coordinates and the velocities every 10 thousand stars. With the use of Python I plotted lines going through the average points and average velocities. Searching for a point where multiple lines come near eachother gave me the rough distance at around 6 thousand parsecs. For RA and Dec i averaged out all the data and converted it from cartesian to equatorial which gave me the result I wrote earlier.
+I hope this helps.
+Edit 2:
+My approach was that if I calculate the average x, y and z coordinate and the x, y and z velocity of each star from the dataset it should point towards the center of the milky way. According to planetmaker it should point towards the rotation of the milky way and not towards the center, which is why I was off by so much.
+Plotted:
+Red: black hole
+Blue: average Coordinate
+Purple star: average velocity (multiplied by 5 for visibility)
+The code I used is a jumbled mess which I am not proud of but I can share it if nessesary.
+From here a new question arises: How do I best factor in the rotation?

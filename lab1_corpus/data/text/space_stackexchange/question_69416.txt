@@ -1,0 +1,30 @@
+Gravity Assist Lambert's Problem
+Assume you want to travel between two given locations $A,B$ on different orbits utilizing gravity assists of bodies $C_i$ orbiting the same central mass ($GM = \mu$).
+For the single-assist case, given the position of $C$ at time $t>0$, for fixed total time of flight $T$ two Lambert problems are solved
+from $A$ to $C$ in time $t$ and
+from $C$ to $B$ in time $T-t$.
+In order to find the cheapest trip one has to find the optimal assist time $t$ minimizing the resulting $\Delta v = \Delta v_\text{dep} + \Delta v_\text{assist}+ \Delta v_\text{des}$ of the entire trip.
+(For simplicity, the assist itself is assumed to be 'as good as it gets' for that position in space.)
+Implementing a Lambert-Solver and trying a few real-world cases it seems this optimization problem is really tough in particluar for more than one assist, just because the function to minimize is extremely ill-shaped in many cases (discontinuous, jumps, many similar local minima, etc.).
+The question is, can we reduce/solve the problem by geometrical/analytical arguments using orbital mechanics rather than mathematics/numerics? (I applied several sophisticated numerical optimization algorithms with mediocre success.)
+Addendum 1 (multi-assist):
+Hypothesis: If there are one or more assist times tuples
+$t=(t_1, \dots, t_n)$ such that $\widehat{\Delta} v_{\text{assist}_i}(t)=0$ for each $i$ then $\Delta v$ is minimal near one of the tuples.
+Note that $\widehat{\Delta} v \in \mathbb{R}$ is the signed magnitude of the assist velocity.
+So, in most cases (>95% in my simulations) this turns the tough minimization into a much simpler root-finding (equation system solving) problem! These roots provide almost perfect starting values (which is key) for a final short minimization step (if necessary).
+Addendum 2 (single-assist example):
+An example is given below with $\Delta v$ (blue), $\Delta v_\text{assist}$ (orange) and the 'sum of velocity-weighted angles at departure and arrival' (green), where lower values indicate near tangential burns.
+Mind that hyperbolic transfers usually have higher costs, so in order to narrow the interval of feasible assist times we can introduce the parabolic time of flight which requires two points and $\mu$. Then all trajectories with a shorter tof are hyperbolic, while all longer trips are elliptic arcs. We would get two parabolic time of flights ($A$ -> $C$, $C$ -> $B$). To avoid calculation of the location of $C$ we can deduce the minimal parabolic time of flight
+of all possible configurations along their orbits
+$$t_\text{p,min}(P_1,P_2) = \frac{\sqrt{2}}{3\sqrt{\mu}} \left(\|P_1\|^{3/2} + \|P_2\|^{3/2}\right)$$
+using elementary geometry. This allows to narrow the interval (non-grayed area) to
+$$\big[t_\text{p,min}(A,C), T - t_\text{p,min}(C,B)\big].$$
+The length of those 'chunks' in the plot of $\Delta v$ is given by the orbital time of the assist body $T_C$, such that a guess for the expected number of roots might be $\lceil 2\frac{T}{T_C}\rceil$.
+Last but not least, if both $A$ and $B$ orbit prograde (retrograde) it is sufficient to run the Lambert solver also for prograde (retrograde) only.
+In summary, all these ideas combined reduced the number of Lambert solver calls by 80-90%.
+Addendum 3 (double-assist example):
+Similar features are observed for the case of two assists where $(s,t) \mapsto \Delta v(s,t)$ has to be minimized for two assist times $s,t$.
+Again, as shown below (darker = lower value) for $\Delta v$ (top left), sum of assist deltaV's (top right) and overlay when both are minimal (bottom left) reveals that $\Delta v$ is minimal when little or no impulse is needed during the assists (red patches).
+The lighter horizontal and vertical lines (blue) visible in the plots create a rectangular pattern. These rectangles (green) have side lengths given by the orbital periods of the assist bodies $T_{C_i}$.
+Their position is given by the times when the angle between $A$, $C_1$ and $B$, $C_2$ vanishes. The darker diagonal lines correspond to regions where the distance between the assist bodies is small.
+Bottom right shows the 4 sign combinations of $\widehat{\Delta} v_{\text{assist}_i}$, $i=1,2$ as colors. The stars indicate roots supporting again the hypothesis.

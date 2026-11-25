@@ -1,0 +1,17 @@
+Textbook or scholarly discussion of equations used by the SDP4 part of SGP4 TLE propagators beyond Space Track Report #1?
+(the famous) Space Tract Report #3 discussed at length in Dr. T.S. Kelso's Revisiting Spacetrack Report #3, AIAA 2006-6753 Describes the "deep space" corrections to the original SGP4 known as SDP4 which is now incorporated into modern SGP4 implementations and triggered by a TLE period is longer than 225 minutes (mean motion < orbits 6.4 per day).
+note: As far as I understand it, the SDP4 addition also includes treatment of resonances between orbital periods around 12 and 24 hours with Earths tesseral harmonics $J_{2,2}$, $J_{3,1}$ and $J_{3,3}$. In other words, if the spacecraft is in a low-order repeat-ground track or geosynchronous orbit, then the Earth's fixed higher order lumpiness that varies with longitude (as opposed to oblateness/latitude) are also considered.
+But I'm not asking about that presently.
+The algorithm somehow estimates the impact of the Sun's and Moon's on the mean orbital elements in a perturbative way without an ephemeris for their actual positions.
+How do SDP4's "Deep space" corrections to SGP4 account for the Sun's and Moon's gravity?
+(discussions on) In a 3D space defined by semimajor axis, eccentricity and inclination, what would be the shape of the space where SDP4 works better than SGP4?
+The DEEP subroutine is certainly available in FORTRAN and now other languages, but it is going to be very hard (for me at least) to understand how it actually works without seeing the equations. I suppose they could eventually be reverse-engineered from the FORTRAN but they have been written down and published in at least two places cited below.
+The problem is that I can't find online either of the sources.
+@Ryan C's answer to How do SDP4's “Deep space” corrections to SGP4 account for the Sun's and Moon's gravity? provides a dtic.mil link to Hujsak, R.S. (1979) A Restricted Four Body Solution for Resonating Satellites with an Oblate Earth, AIAA Paper no. 79-136, June, 1979
+Question: Where can I find a textbook-like review, discussion or analysis of the original equations used by the 443 line long DEEP subroutine in the SDP4 part of SGP4 TLE propagators described in Space Track Report #1 "A Restricted Four Body Solution for Resonating Satellites with an Oblate Earth"? Has some textbook or paper author compassionately revisited them and given some additional insight into how they work for posterity's sake?
+I'm guessing that the AIAA Paper cited below is similar to the Space Track Report #1 linked above, but I don't know. Perhaps it is different, but so far I can't get a copy of it,
+THE DEEP-SPACE SUBROUTINE
+The two deep-space models, SDP4 and SDP8, both access the subroutine DEEP to obtain the deep-space perturbations of the six classical orbital elements. The perturbation equations are quite extensive and will not be repeated here. Rather, this section will concentrate on a general description of the flow between the main program and the deep-space sub- routines. A specific listing of the equations is available in Hujsak (1979) or Hujsak and Hoots (1977).
+Hujsak (1979): Hujsak, R.S. “A Restricted Four Body Solution for Resonating Satellites with an Oblate Earth”, AIAA Paper no. 79-136, June, 1979
+Hujsak and Hoots (1977): Hujsak, R.S. and Hoots, F.R., "Deep Space Perturbations Ephemeris Generation", Aerospace Defense Command Space Computational Center Program Documentation,
+DCD 8, Section 3, 82-104, September, 1977.

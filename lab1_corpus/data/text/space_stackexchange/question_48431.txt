@@ -1,0 +1,7 @@
+Thrust value for space mission from Earth's orbit to Venus' orbit
+If I had to take a spacecraft from Earth's orbit (400km above earth) to an orbit around Venus (6151km X 50,000km elliptical orbit), how much thrust will I need. Delta V is 5km/s using hohmann transfer?
+Also can you share any papers of previous Venus missions that may have thrust values?
+from comment:
+I considered an elliptical orbit around sun with 2a = (dist b/w sun & venus) + (dist b/w sun & earth), then I calculated hyperbolic excess speed around earth to get into this trajectory, which was 11.14 km/s. But initally in a 400km above earth my speed is 7.67km/s. So my delta v1 is 11.14 - 7.67 = 3.47km/s.
+Now, I did similar calculations near venus & got delta v as 1.13km/s. So total delta v is 4.6km/s. I just said 5km/s considering some buffer for corrections and to change orbits around venus. Now, I need thrust value so I can design engines for a 2 stage rocket.
+Basically I need thrust to weight ratios for further calculations. But I'm not able to find values. Even if I did they were varying a lot so I don't know how to go about this

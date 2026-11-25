@@ -1,0 +1,54 @@
+Transformation of Covariance Matrix from EME2000 to LLA
+I am a little bit confused regarding the transformation of a covariance between EME2000 and the LLA-representation of a state (lat,lon,alt). Let's say I have a timeseries of spacecraft states, including position, velocity and the 6x6 covariance matrix all in EME2000. My final goal is to plot the Longitudes w.r.t. the Altitudes of the timeseries.
+So far so good. The important thing though is, that I do not only want to visualize the lon/alt-nominal trajectory, but also it's covariance, to get a feeling "where the spacecraft could be".
+(Sidenode: I have completed and implemented the mapping of the Covariance Matrix to an error ellipsoid and the reduction to a 2d Ellipse.)
+My apporach was to use the Jacobian to end up, where I want to be, but I am not completely sure if I am correct:
+Lets say I have a state $x$ and a covariance matrix $\Sigma$ both in EME2000:
+The first thing I'd do is transform this into a a ECEF frame, in my case ITRF (since this Transformation is solely a rotation the complete operation is linear, hence the covariance transformation is valid):
+$ x_{{ }_{ITRF}}= _{{ }_{ITRF}}R_{{ }_{EME2000}} \cdot x_{{ }_{EME2000}}$
+and
+$ \Sigma_{{ }_{ITRF}} = _{{ }_{ITRF}} R_{{ }_{EME2000}} \cdot \Sigma_{{ }_{EME2000}} \cdot _{{ }_{ITRF}} R_{{ }_{EME2000}}^{T}$
+Now the fun part begins:
+The conversion from ITRF to LLA then is not only a rotation, but a full transformation, since the states in ITRF are orders of magnitude bigger than lat and lon. (Basically for lat and lon we map $[-\infty,\infty] $ to $[0,360)$) Let $\phi := latitude$ and $\lambda := longitude$ and $r := height$ We (leaving aside the fact that the earth is an ellipsoid) know that
+$x =\begin{bmatrix}
+r \cdot \cos{\phi} \cdot \cos{\lambda} \\
+r \cdot \cos{\phi} \cdot \sin{\lambda} \\
+r \cdot \sin{\phi}
+\end{bmatrix} := A$
+To get the Jacobian we do:
+$\frac{\partial}{\partial x} A = J = \begin{bmatrix}
+-r \cdot \sin{\phi} \cdot \cos{\lambda} & -r \cdot \cos{\phi} \cdot \sin{\lambda} & \cos{\phi} \cdot \cos{\lambda}\\
+-r \cdot \sin{\phi} \cdot \sin{\lambda} & r \cdot \cos{\phi} \cdot \cos{\lambda} & \cos{\phi} \cdot \sin{\lambda}\\
+r \cos{\phi} & 0 & \sin{\phi}
+\end{bmatrix}$
+which is the matrix describing the transformation from geodetic/centric to ITRF. In order to get the matrix describing the transformation from ITRF to geodetic/centric (which I need) I invert the matrix:
+$J^{-1} = \begin{bmatrix}
+- \frac{\sin{\phi} \cdot \cos{\lambda}}{r} & - \frac{\sin{\phi} \cdot \sin{\lambda}}{r} &\frac{\cos{\phi}}{r} \\
+- \frac{\sin{\lambda}}{r \cdot \cos{\phi}} & \frac{\cos{\lambda}}{r \cos{\phi}} & 0 \\
+\cos{\phi} \cos{\lambda} & \cos{\phi} \sin{\lambda}& \sin{\phi}
+\end{bmatrix}
+$
+Finally in order to "get what I want" the last step would be to transform the covariance matrix with $J^{-1}$:
+$ \Sigma_{{ }_{LLA}} = J^{-1} \cdot \Sigma_{{ }_{ITRF}} J^{-1 T}$
+I have I little program that does all this for me exploiting in parts Orekit, the thing is, I get strange results, giving me/visualizing a bigger uncertainty in altitude than in longitude, which from an flight dynamical point of view, when propagating the covariance does not make sense (I know that my propagator is correct btw.)
+The question as well is, how will my covariance be?
+I mean is it:
+$\Sigma = \begin{bmatrix}
+\sigma_{\phi \phi} &\sigma_{\lambda \phi} &\sigma_{r \phi} \\
+\sigma_{\phi \lambda} &\sigma_{\lambda \lambda} &\sigma_{r \lambda} \\
+\sigma_{\phi r} &\sigma_{\lambda r} &\sigma_{r r} \\
+\end{bmatrix}$ ?
+So let's say I have a subset of a geodetic point $\lambda$ and $r$ the matrix I want to visualize the error ellipsoid (with center $\lambda$ and $r$) will be
+$\Sigma = \begin{bmatrix}
+\sigma_{\lambda \lambda} &\sigma_{r \lambda} \\
+\sigma_{\lambda r} &\sigma_{r r} \\
+\end{bmatrix}$ ?
+Furthermore, do I first multiply
+$\Sigma_{{ }_{ITRF}} J^{-1 T} := B_{1}$
+and later
+$ J^{-1} \cdot B_{1}$
+or the other way round?
+Thank you already, desperately need help!
+Edit: The plot was this:
+from this paper: https://conference.sdo.esoc.esa.int/proceedings/sdc5/paper/67/SDC5-paper67.pdf
+I want to draw the red line with uncertainties.

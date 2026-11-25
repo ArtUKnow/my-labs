@@ -1,0 +1,39 @@
+Analyse the Doppler effect in non-GEO satellites: calculation of Doppler shift ( frequency)
+I want to compute the Doppler frequency for LEO/MEO/GEO satellites. For the calculation I am using the following equations:
+$$V= \sqrt{(G \cdot \frac{M}{R+h})}$$ - satellite speed. Height dependent
+$$t=\frac{a\cdot (R+h)}{V}$$ - time varies depending on the angle of the satellite relative to the receiver.
+$$f_d=\frac{V\cdot R \cdot f_0 \cdot \cos(a)}{(R+h) \cdot c} $$- frequency. It depends on the change in height and angle.
+My initial parameters for calculation were:
+G=6.67384e-11;
+M=5.9726e24;
+fb0=1.6e9;
+R=6371;
+c=3e8;
+One of my results is:
+t = 0, fd = 1.244840 MHz or 1244.840 kHz for h = 300 km.
+I thought I would get the Doppler frequency in a range ~ 400 - 600 kHz
+Have I assumed the Doppler frequency incorrectly or are my calculations wrong?
+edit 1:
+My new result
+Code I am using:
+nu = 3.989e14;
+fb0=1.6e9;
+R=6371;
+c=3e8;
+h = [300e3 600e3 1200e3];
+a=0:0.001:2*1.5707963267949;
+% a=0:0.001:3.1416;
+t = zeros(length(a),length(h));
+Fd = zeros(size(t));
+for i = 1:length(h)
+V(i)=(nu/(R+h(i)))^(1/2);
+t(:,i)=a/(V(i)/R);
+Fd(:,i)=((V(i)*R*f0*cos(t(:,i)*V(i)/R)))/((R+h(i))*c);
+end;
+figure()
+plot(t,Fd)
+legend(strcat('h=',num2str(h')))
+xlabel('t')
+ylabel('fd')
+I believe Doppler shift for h = 300 and h = 600 should be almost the same, but according to the Matlab result they are different and difference is big.
+Do I suppose wrong or is my code wrong?

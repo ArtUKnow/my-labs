@@ -1,0 +1,5 @@
+What is "ground station lock" and why does it enable faster communication?
+I have come across the terms "ground station lock" and "ground station unlock". For example here and here. I guess that is about phase locking with the uplinked signal.
+I understand how phase difference between the uplinked and (phase-locked) downlinked signals can be used for very precise ranging but why does it also allow faster communication?
+From the second link
+STEREO-A has largely two modes of normal operation. High rate data while in lock with a ground station and low rate data when not in lock and sending deep space beacon data including the compressed images used for space weather forecasting.

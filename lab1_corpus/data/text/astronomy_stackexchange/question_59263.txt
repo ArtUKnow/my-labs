@@ -1,0 +1,4 @@
+The moon's rotation
+I'm trying to simulate the moon in a game, so is the moon's rotation in this picture correct according to this information, or is there something wrong with it?
+Location of the test: Lat: 31.1069, Long: 29.7828
+Date of the test: 12th January 2025

@@ -1,0 +1,4 @@
+When you burn retrograde, will you reach periapsis sooner or later?
+Say you have two spacecraft in identical orbits. Say at a point after apoapsis and before periapsis one of the spacecraft burns retrograde to lower its periapsis, and the other spacecraft does nothing and stays on the original orbit.
+Which of the two craft would reach their respective periapsis first?
+The craft that burned has less distance to travel than the one that didn't. But then the one that burned reduced that distance by accelerating away from the periapsis. Does one of these always outweigh the other, or does it depend?

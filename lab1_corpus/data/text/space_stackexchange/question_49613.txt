@@ -1,0 +1,86 @@
+How to get MSL coordinates during EDL from SPICE kernel?
+Upon trying to extract MSL position above surface by decoding a SPICE kernel, I am gettin this error:
+At epoch 3.9750216818313E+08 TDB (2012 AUG 06 05:16:08.183 TDB), there
+is insufficient information available to transform from reference
+frame -76000 (MSL_ROVER) to reference frame 1 (J2000). MSL_ROVER is a
+CK frame; a CK file containing data for instrument or structure
+-76000 at the epoch shown above, as well as a corresponding SCLK kernel, must be loaded in order to use this frame.
+But I don't understand WHERE I mentioned MSL_ROVER in my source! I am recyclying the source for the rover, but I thought I removed any reference from it!
+This is my code; I removed all the parts related to rover from the original source:
+import * as TimeCraft from '../src/index.js';
+window.TimeCraft = TimeCraft;
+( async function() {
+console.log("Loading...");
+const buffers = await Promise.all([
+// kernels from
+// https://naif.jpl.nasa.gov/pub/naif/pds/data/msl-m-spice-6-v1.0/mslsp_1000/extras/mk/msl_chronos_v07.tm
+'../kernels/lsk/naif0012.tls',
+'../kernels/spk/de425s.bsp',
+'../kernels/sclk/msl_76_sclkscet_00016.tsc',
+'../kernels/sclk/msl_lmst_ops120808_v1.tsc',
+'../kernels/pck/pck00008.tpc',
+//'../kernels/spk/msl_cruise.bsp',
+'../kernels/spk/msl_edl_v01.bsp',
+//'../kernels/spk/msl_ls_ops120808_iau2000_v1.bsp',
+//'../kernels/spk/msl_atls_ops120808_v1.bsp',
+'../kernels/fk/msl_v08.tf',
+].map( p => fetch( p ).then( res => res.arrayBuffer() ) ) );
+buffers.forEach( buffer => {
+TimeCraft.loadKernel( buffer );
+} );
+const utcEl = document.querySelector('[name="utc"]');
+const etEl = document.querySelector('[name="et"]');
+const lstEl = document.querySelector('[name="mars lst"]');
+const lmstEl = document.querySelector('[name="msl lmst"]');
+const sclkEl = document.querySelector('[name="msl sclk"]');
+const sunEl = document.querySelector('[name="msl sun direction"]');
+const MSL = document.querySelector('[name="MSL"]');
+const EDLutc = document.querySelector('[name="EDLutc"]');
+console.log("Done.");
+let EDLstartJStimeMs = new Date("2012-AUG-06 05:15:00 00Z").getTime();
+let EDKcurrJStimeMs = EDLstartJStimeMs;
+setInterval(() => {
+//let utc = new Date().toISOString();
+EDKcurrJStimeMs += 1000;
+let utcEDL = new Date(EDKcurrJStimeMs).toISOString(); // Last: 05:19:04
+console.log( utcEDL);
+//utc = utc.slice(0, utc.length - 1);
+utcEDL = utcEDL.slice(0, utcEDL.length - 1);
+console.log(utcEDL);
+const etEDL = TimeCraft.Spice.utc2et(utcEDL);
+console.log( etEDL);
+// See conversion code outlined in
+// https://naif.jpl.nasa.gov/pub/naif/pds/data/msl-m-spice-6-v1.0/mslsp_1000/data/sclk/msl_76_sclkscet_00016.tsc
+//const sunPos = TimeCraft.Spice.spkpos('SUN', et, 'MSL_TOPO', 'LT+S', '-76').ptarg;
+const MSLpos = TimeCraft.Spice.spkpos('-76', etEDL, 'J2000', 'LT+S', '499').ptarg;
+//sunEl.childNodes[0].textContent = `${sunDir[0].toFixed(4)}, ${sunDir[1].toFixed(4)}, ${sunDir[2].toFixed(4)}`;
+MSL.childNodes[0].textContent = `${MSLpos[0].toFixed(4)}, ${MSLpos[1].toFixed(4)}, ${(MSLpos[2]-3376.2).toFixed(4)}`;
+EDLutc.childNodes[0].textContent = utcEDL;
+console.log("------------------");
+// mars radius: 3376.2 km
+// Last available date for EDL: 2012-Aug-06 05:19:04.0000
+// MSL EDL kernel: https://naif.jpl.nasa.gov/pub/naif/MSL/kernels/spk/
+}, 1000);
+} )();
+The key statement is:
+TimeCraft.Spice.spkpos('-76', etEDL, 'J2000', 'LT+S', '499').
+...based on Timecraft library and the spkpos() function it exposes.
+"-76" is MSL, not the rover, so why does the libraty complain about referring the rover?
+Kernels are here:
+https://naif.jpl.nasa.gov/pub/naif/MSL/kernels/spk/
+MSL EDL kernel:
+https://naif.jpl.nasa.gov/pub/naif/MSL/kernels/spk/msl_edl_v01.bsp
+After additional testing:
+This line:
+const MSLpos = TimeCraft.Spice.spkpos('MSL', etEDL, 'IAU_MARS', 'LT+S', 'MARS').ptarg;
+causes error:
+At epoch 3.9750156818313E+08 TDB (2012 AUG 06 05:06:08.183 TDB), there is insufficient information available to transform from reference frame -76000 (MSL_ROVER) to reference frame 1 (J2000).
+in cspice.js:3
+This line:
+const MSLpos = TimeCraft.Spice.spkpos('MSL_SPACECRAFT', etEDL, 'IAU_MARS', 'LT+S', 'MARS').ptarg;
+causes error:
+Insufficient ephemeris data has been loaded to compute the position of -76010 (MSL_SPACECRAFT) relative to 0 (SOLAR SYSTEM BARYCENTER) at the ephemeris epoch 2012 AUG 06 05:06:08.183
+Kernel msl_v08.tf contains these data:
+MSL -76
+MSL_ROVER -76000
+MSL_SPACECRAFT -76010

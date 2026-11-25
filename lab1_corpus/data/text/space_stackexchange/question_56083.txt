@@ -1,0 +1,2 @@
+Why do rockets have multiple stages?
+I guess, almost all the rockets have multiple stages. But, I was wondering, why do they have multiple stages? Couldn't they have just 1 stage? With more stages, they would require more engines (meaning more weight, which leads to slower acceleration). Instead, if there was only 1 stage, only 1 engine would be required, meaning less weight, leading to faster acceleration. Then why not use only 1 stage?

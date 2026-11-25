@@ -1,0 +1,5 @@
+If the scale factor is defined to be unity at a different epoch, how is the radius of the observable universe changed?
+The scale factor of the universe is defined to be unity now. In terms of this scale factor, the radius of the observable universe is defined as
+$$ r = \int^{t_0}_0 \frac{c}{a(t)}\ dt\ , $$
+where $t_0$ is the current epoch and $a(t)$ describes how the scale factor evolves with time.
+But what if the scale factor was redefined to be unity at some other epoch? Say the epoch where the CMB formed at $z \simeq 1100$, such that $ a \rightarrow a\times 1100$. That would seem to make $r$ smaller in the equation above. How is that reconciled with presumably fixed "radius of the observable universe" at the current epoch?

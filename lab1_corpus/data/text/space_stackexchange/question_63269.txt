@@ -1,0 +1,9 @@
+What is the reason for a LACE rocket to dump fuel?
+The concept of LACE sounds awesome, especially the part "fuel is hard to come by in the atmosphere but there's some oxidizer available".
+The inefficiency due to the heat exchange requirements is understandable.
+What I fail to grasp is the bolded statement:
+By careful mechanical arrangement the liquid oxygen can be removed from the other parts of the air, notably water, nitrogen and carbon dioxide, at which point the liquid oxygen can be fed into the engine as usual. It will be seen that heat-exchanger limitations always cause this system to run with a hydrogen/air ratio much richer than stoichiometric with a consequent penalty in performance1 and thus some hydrogen is dumped overboard.
+I suspect* it's somehow dumping the generated heat.
+A great answer would indicate why is this method considered most efficient currently (for a LACE vehicle).
+* - didn't put in the effort to read around, sorry. I don't believe my silly self reading papers in advanced physics would be productive. Thus the question above: "please crunch those as to an 8 year old".
+As always on SE, accepting an answer in something the original asker isn's even remotely qualified in ... takes from weeks to never(thankfully!).

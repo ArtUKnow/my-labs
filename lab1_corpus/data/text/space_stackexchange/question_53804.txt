@@ -1,0 +1,13 @@
+Were Mariner 3 and 4 the only spacecraft to use "solar paddles" to stabilize attitude?
+This one sentence nearly link-only answer to What is the principle behind Mariner 4's “Solar Pressure Vanes”? In what case(s) would they be effective? and the discussion below explain that Mariner 4 (and I think 3) used four articulated paddles that were black/absorbing on one side and white or shiny (reflective) on the other to produce torques on the spacecraft to (if I understand correctly) remove any residual rotation after thrusters were used to change spacecraft attitude.
+I'm guessing that this is because these mid 1960's spacecraft didn't have reaction wheels or if they somehow did, didn't want to rely on them.
+Question(s):
+Were Mariner 3 and 4 the only spacecraft to use articulated "solar paddles" to stabilize or otherwise affect attitude? Or has this been used previously or since?
+What was the nature of the coatings on the panels? Black paint vs white paint, or did was the reflective side more specular in nature? The image suggests both sides might be dark so perhaps I don't understand at all how they are used!
+Related:
+answers to Can a satellite work like a radiometer?
+Mariner 4 (3 similar)
+Source (nssdc.gsfc.nasa.gov
+1964-077A)
+Mariner 5
+Source (nssdc.gsfc.nasa.gov 1967-060A

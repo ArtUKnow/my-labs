@@ -1,0 +1,5 @@
+Space Shuttle: How were I-Load launch programs calculated?
+The space shuttle launch program was based on a target attitude profile calculated for the mission and the latest winds. The attitude profile would include roll, pitch, and yaw as functions of time for the thrust vector controllers to track, and it would be loaded to the space shuttle computers shortly before launch.
+I've read they would determine the target attitude profile from numerical simulation.
+But since the purpose of the simulation was to figure out the appropriate attitude profile, that attitude profile could not serve as an input to the model used in the simulation. So you would have to constrain the model---e.g., to have the vehicle track the velocity vector (or a velocity frame constructed from that vector) in the gravity turn phase---in order to solve for the attitude profile.
+But I've never read how any of this is done, and this is me guessing based on the few bits I've read. Can someone comment on how the space shuttle simulation would have been set up/constrained in order to solve for the launch programs they would eventually I-load to the flight computers before launch?

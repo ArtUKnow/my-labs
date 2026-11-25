@@ -1,0 +1,2 @@
+Comparison of rocket engines using LH2 & LOX as propellants
+I am a bit confused - If it is correct that RL 10 and LR 87-LH2 both were developed in 1950 by Aerojet, and both used LOX and LH2 as the propellants, if so, then why was there a huge difference in their thrust at SL? was there a large difference in their size? or anything else?

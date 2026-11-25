@@ -1,0 +1,8 @@
+Will JWST be handed over from Arianespace/ESA/CNES to NASA at some point the way Cape Canaveral handed over missions to Houston?
+Will JWST be handed over from Arianespace/ESA/CNES to NASA at some point the way Cape Canaveral handed over missions to Houston?
+JWST has its own propulsion and communication system. Presumably the propulsion can't be used until the second stage disengages, but is that when NASA can start sending commands?
+Before that can they send any commands through Arianespace/ESA/CNES?
+Or do they just listen?
+Related: Phys.org's ESA to pick up as Webb phones home
+From Spaceflight Now's Europe’s spaceport, flagship launcher ready for historic Webb mission:
+The rocket’s French-made core stage will perform roll maneuvers to keep the observatory in thermal balance, ensuring parts of the telescope don’t get too hot or too cold. Webb’s control team at the Space Telescope Science Institute in Baltimore, Maryland, expects to receive the first signals from the spacecraft as soon as the fairing separates from the rocket.

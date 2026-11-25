@@ -1,0 +1,61 @@
+Relative translational dynamics of two spacecraft in Keplerian orbit
+I need your help understanding some equations in a paper about autonomous rendezvous and proximity operation. The paper is available at this link, but I will summarize the main point in the following.
+Suppose two satellites (chaser and target) are orbiting the Earth. We consider three coordinate frames:
+Frame $I$: $\{O_I, x_I, y_I, z_I\}$ is the ECI (Earth-centered inertial) frame whose origin $O_I$ is at the center of the Earth.
+Frame $C$: $\{O_c, x_c, y_c, z_c\}$ is a body-fixed (BF) frame centered on the centroid of the chaser.
+Frame $T$: $\{O_t, x_t, y_t, z_t\}$ is a BF frame centered on the centroid of the target.
+For simplicity, we assume that the $x_c$ and $x_t$ are aligned along the docking axis of the two objects, and $z_c$ and $z_t$ are perpendicular to the longitudinal symmetry plane containing the docking axis. Figure 1 shows the definition of those coordinate frames:
+Our goal is to express the acceleration of the chaser in the chaser's BF frame. Let $\boldsymbol{r}_t$ and $\boldsymbol{r}_c$ denote the ECI position of the target and chaser. Then, their equations of motion are given by:
+$$
+\begin{align}
+\ddot{\boldsymbol{r}}_c &= -\mu\frac{\boldsymbol{r}_c}{\|\boldsymbol{r}_c\|^3} + \frac{\boldsymbol{F}_c}{m_c} \tag{1} \\
+\ddot{\boldsymbol{r}}_t &= -\mu\frac{\boldsymbol{r}_t}{\|\boldsymbol{r}_t\|^3}
+\end{align} \tag{2}
+$$
+where $\mu$ is the Earth's gravity constant, $m_c$ and $m_t$ are masses of chaser and target, and $\boldsymbol{F}_c$ is actuator force on the chaser.
+The relative dynamics of the two objects (in the ECI frame) are given by computing the difference of the two equations above. Let $\boldsymbol{r}\triangleq\boldsymbol{r}_c - \boldsymbol{r}_t$, then
+$$
+\begin{align}
+\ddot{\boldsymbol{r}}
+&= \ddot{\boldsymbol{r}_c} - \ddot{\boldsymbol{r}_t} \\
+&= \left(-\mu\frac{\boldsymbol{r}_c}{\|\boldsymbol{r}_c\|^3}+\mu\frac{\boldsymbol{r}_t}{\|\boldsymbol{r}_t\|^3} \right) + \frac{\boldsymbol{F}_c}{m_c}
+\\
+&= \boldsymbol{f} + \frac{\boldsymbol{F}_c}{m_c} \tag{3}
+\end{align}
+$$
+where $\boldsymbol{f}=-\mu\frac{\boldsymbol{r}_c}{\|\boldsymbol{r}_c\|^3}+\mu\frac{\boldsymbol{r}_t}{\|\boldsymbol{r}_t\|^3}$.
+Until this point, everything is straightforward and clear to me, but here comes a confusing part. In the paper, eq.(3) is converted from the ECI frame into the chaser's BF frame, but the detailed process is not explained. Below is the description in the paper:
+Using $\boldsymbol{r}_b$, $\boldsymbol{f}_b$, and $\boldsymbol{F}_b$ to represent $\boldsymbol{r}$, $\boldsymbol{f}$ and $\boldsymbol{F}_c$ in the chaser's BF frame, and map the equation (3) into the chaser's BF frame, it follows that
+$$
+\begin{align}
+\frac{d^2\boldsymbol{r}_b}{dt^2}
+= -\boldsymbol{\omega}\times(\boldsymbol{\omega}\times\boldsymbol{r}_b)-2\boldsymbol{\omega}\times \frac{d\boldsymbol{r}_b}{dt} - \dot{\boldsymbol{\omega}}\times\boldsymbol{r}_b + \boldsymbol{f}_b + \frac{\boldsymbol{F}_b}{m_c}\tag{4}
+\end{align}
+$$
+where $\boldsymbol{\omega}=[\omega_1, \omega_2, \omega_3]^T \in\mathbb{R}^{3\times1}$ is the absolute angular velocity of the chaser's BF frame with respect to the ECI frame expressed in the chaser's BF frame.
+My attempt to reproduce eq.(4)
+The first thing that comes to my mind is to use the Transport Theorem to compute the derivative of $\boldsymbol{r}_b$ in the ECI frame. First, using the Transport Theorem, the first derivative of $\boldsymbol{r}_b$ is computed by:
+$$
+\begin{align}
+\frac{{}^I d}{dt} \boldsymbol{r}_b
+&= \frac{{}^C d}{dt} \boldsymbol{r}_b + \boldsymbol{\omega}\times \boldsymbol{r}_b\\
+&= \dot{\boldsymbol{r}_b} + \boldsymbol{\omega}\times \boldsymbol{r}_b \tag{5.1}
+\end{align}
+$$
+Here, I introduced some new notations: the superscripts $I$ and $C$ mean that the derivative is computed in ECI frame and C frame, respectively. The variable $\boldsymbol{\omega}$ is the angular velocity of $C$ frame with respect to $I$ frame, expressed in $C$ frame, which should be the same as the $\boldsymbol{\omega}$ in the paper.
+Subsequently, the second-order derivative of $\boldsymbol{r}_b$ is computed by differentiating eq.(5.1) again in the ECI frame:
+$$
+\begin{align}
+\frac{{}^I d^2}{dt^2} \boldsymbol{r}_b
+&= \frac{{}^C d}{dt}(\dot{\boldsymbol{r}_b} + \boldsymbol{\omega}\times \boldsymbol{r}_b) + \boldsymbol{\omega}\times(\dot{\boldsymbol{r}_b} + \boldsymbol{\omega}\times \boldsymbol{r}_b) \\
+&= \ddot{\boldsymbol{r}}_b + (\dot{\boldsymbol{\omega}}\times\boldsymbol{r}_b + \boldsymbol{\omega}\times\dot{\boldsymbol{r}}_b) + \boldsymbol{\omega}\times\dot{\boldsymbol{r}}_b + \boldsymbol{\omega}\times(\boldsymbol{\omega}\times\boldsymbol{r}_b) \\
+&= \boldsymbol{\omega}\times(\boldsymbol{\omega}\times\boldsymbol{r}_b) + 2\boldsymbol{\omega}\times\dot{\boldsymbol{r}}_b + \dot{\boldsymbol{\omega}}\times\boldsymbol{r}_b + \ddot{\boldsymbol{r}}_b \tag{5.2}
+\end{align}
+$$
+Substituting $\ddot{\boldsymbol{r}}_b = \boldsymbol{f}_b + \frac{\boldsymbol{F}_b}{m_c}$ into eq.(5.2), it follows that
+$$
+\frac{{}^I d^2}{dt^2} \boldsymbol{r}_b
+= \boldsymbol{\omega}\times(\boldsymbol{\omega}\times\boldsymbol{r}_b) + 2\boldsymbol{\omega}\times\dot{\boldsymbol{r}}_b + \dot{\boldsymbol{\omega}}\times\boldsymbol{r}_b + \boldsymbol{f}_b + \frac{\boldsymbol{F}_b}{m_c} \tag{5.3}
+$$
+Here comes the problem: strangely eq.(5.3) doesn't match eq.(4) in the paper. The only difference seems to be the sign of the first three terms in the equation. I double-checked my calculation again and again but didn't find a mistake. I also suspected that eq.(4) may be incorrect, but that is unlikely because the rest of the paper is derived using eq.(4).
+Does anyone have an idea what would be the correct way to derive eq.(4)?

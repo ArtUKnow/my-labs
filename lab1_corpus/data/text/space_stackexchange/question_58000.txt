@@ -1,0 +1,5 @@
+Info needed on PSLV launch adaptors and configurations
+I want to understand how satellites are accommodated in PSLV. I know about few configurations and adaptors that've been used in the past. Is there any document which gives detailed info on Multiple Satellite Adaptor Version 2 (MSA-V2), Multiple Satellite Adaptor Version 8 (MSA-V8) and other adaptors that are there? I've noticed that there are support structures on Equipment Bay. I need info on them. What variations are there when it comes to Dual Launch Adaptors. I want to learn about those as well.
+https://articles.adsabs.harvard.edu//full/1999ESASP.430..547R/0000553.000.html
+On page no 553, four Payload Envelope Configurations are shown. I want to learn more about those. Specifically about the two middle configurations.
+If there's anyone who knows about this or knows someone who knows about this, please answer.

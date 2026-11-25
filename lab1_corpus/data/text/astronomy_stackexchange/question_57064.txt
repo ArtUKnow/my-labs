@@ -1,0 +1,5 @@
+Could a red dwarf be "deionized"?
+Even the smallest red dwarf stars have amazing flares. But the photosphere temperature can be as low as 2700K, which (I think) is too cool to ionize hydrogen. Even the sun at 5800K is cool enough that most of the hydrogen is not ionized.
+The plasma must come from the corona. Which is in turn kept very hot due to resistive heating from currents induced by fluctuating magnetic fields.
+If this plasma was removed there would be no such heating. Could this stop the star from having flares?
+My guess is no: all it takes is a single ion in the rarefied upper atmosphere to get the process started. It would be accelerated to a very high speed and smash into neutral hydrogen, liberating more ions in a chain reaction.

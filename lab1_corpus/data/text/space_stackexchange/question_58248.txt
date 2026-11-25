@@ -1,0 +1,9 @@
+How might an "imminent Starlink reentry in your area" alerting script work?
+The video below Space debris over Puerto Rico (2/7/2022) SAC seems likely to show one or more reentering Starlink satellites from the 40 "Starlost" lost to atmospheric heating due to a geomagnetic storm.
+Why didn't SpaceX see that geomagnetic storm coming? Was this a fluke or could this happen more frequently in the future? (R.I.P. 40 lost starlinks)
+Wouldn't it be great if one could generate alerts to reentering Starlinks so more videos of those pesky astronomer-foiling Starlinks experiences its fiery demise can be recorded?
+Question: How might a Starlink reentry alerting script work? Besides scouring TLEs and looking for low altitudes, what might a script look for either within the TLE or from other sources to get an idea that a Starlink is in imminent danger of burning up?
+How might an "imminent Starlink reentry in your area" alerting script work? Besides scouring TLEs for very low altitudes and SGP4 propagating below the Karman line, what could it do and what other sources of information are available?
+See also
+The extensive notes below the YouTube video
+Se observa basura espacial sobre el cielo de Puerto Rico Expertos aseguran se trata de satélites Stalink lanzados el 3 de Febrero de 2022

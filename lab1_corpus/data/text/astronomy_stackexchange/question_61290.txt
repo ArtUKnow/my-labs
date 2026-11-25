@@ -1,0 +1,7 @@
+Why is Deneb brighter than Mu Cephei?
+If my facts are correct, Mu Cephei is 2,840 light years from earth and Deneb is 2,600 light years from Earth. While the difference of 240 light years is not insignificant, it seems that it is not relatively great.
+Mu Cephei (1650 Solar Radii) is much larger than Deneb (205 Solar Radii).
+Also, Mu Cephei has an intrinsic luminosity of between 135,000 and 340,000 times that of the Sun, whilst Deneb only has a luminosity between 55,000 and 196,000 times that of the Sun.
+With all of this, Deneb has an apparent magnitude of 1.25. While Mu Cephei is less than half as bright, with an apparent magnitude of 4.08.
+My question is why? I get that Mu Cephei is further away, but is that distance really enough to reduce the brightness so much?
+NOTE: Looking into this a bit more, Mu Cephei is losing mass to solar winds. I am guessing that the scattered mass may diffuse the light?

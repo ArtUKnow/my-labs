@@ -1,0 +1,19 @@
+How well could the New Horizons spacecraft localize itself in space in 3D using parallax?
+NASA’s New Horizons Conducts the First Interstellar Parallax Experiment was exciting news, the spacecraft's computer, communication and camera all continue to work in the Kuiper belt due to rigorous thermal management (e.g. RTG direct and electric heating, blanketing, radiators, louvers, etc.)
+How far would we have to get from the Solar system to end lost in space? has inspired me to ask the following:
+It has already measured the positions of the two stars Proxima Cenauri and Wolf 359 relative to distant stars in the same field of view, and these stars are about 81 degrees apart. These directions are nearly orthogonal!
+That's good news because if one uploaded a small program to New Horizons to check these positions including the stars' known positions and proper motion, this would be sufficient for New Horizons to compute its own position in 3D space relative to the local group of stars to some degree of accuracy.
+When stars are imaged in astrophotography the centroid and shape of the spot in the recorded CCD image is determined by both the point spread function of the telescope (resolution) and the pixelation and other effects of the CCD sensor and readout.
+If things are good and you make a series of measurements and average, a good astrometric system can determine the centroid of a star's position to perhaps one tenth of the size of the spot. LORI is certainly a good space telescope (20.8 cm, f/12.6 Ritchey-Chrétien with ~ 1.0 arcsec per pixel) , but it's on a spacecraft in the Kuiper belt which may make astrometry more challenging.
+Question: Nonetheless, let's find out: How well could the New Horizons spacecraft localize itself in space using parallax? Assume it has this hypothetical program uploaded to it with some astrometric image analysis (if it's not up there already!) and positions and proper motions of nearby stars. Address:
+How well it could do so based on the two stars mentioned already?
+How well might it do if it was given an aggressive observation an analysis task?
+From Was a "spare LORRI" camera available to take matching image on Earth the same time New Horizons took the parallax image from the Kuiper belt?
+Source: NASA’s New Horizons Conducts the First Interstellar Parallax Experiment
+From Long-Range Reconnaissance Imager on New Horizons a very nice and detailed summary:
+The Messier 7 observations (see Figure 12) also confirm from stellar images that the
+point source function of the LORRI system, including the effects of spacecraft pointing jitter, is 1.8 pixels FWHM. Stars to at least 12th magnitude are detected. The plate scale, based on
+comparisons of pixel separations of bright stars in the field versus cataloged positions, is 4.96
+μrad/pixel. Any geometric distortion in this image is less than 0.5 pixel.
+Figure 12. LORRI image of open cluster Messier 7 obtained in flight. This image has been logarithmically
+stretched. North is up, east is to the left.

@@ -1,0 +1,2 @@
+How can I 3D visualize a GPS SEM Almanac, preferably in Python?
+I'm able to download GPS SEM Almanacs from Celestrak, but would like to be able to visualize them in 3D with the Earth in the center. How do I go about doing this? Can this be done in Python with Orkit for example?

@@ -1,0 +1,4 @@
+the difference between the heliocentric and the geocentric
+Is the difference between heliocentric and geocentric velocities a matter of the coordinate system? Or are these kinds of velocities different?
+For example, the speed of a comet at perihelion is 71km/s. Is this speed geocentric or heliocentric?
+Best regards

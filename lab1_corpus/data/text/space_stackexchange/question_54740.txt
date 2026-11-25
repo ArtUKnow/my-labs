@@ -1,0 +1,4 @@
+What other space vehicles were affected by cold welding?
+The Wikipedia page on cold welding states that
+Mechanical problems in early satellites were sometimes attributed to cold welding.
+But only mentions Galileo as an example of spacecraft were cold welding occurred. What satellites encountered problems most likely due to cold welding?

@@ -1,0 +1,5 @@
+How does the current or future network latency of SpaceX Starlink compare to wired internet?
+When reading about SpaceX Starlink, high frequency stock traders are mentioned as a potentially lucrative customers, this is because satellite to satellite communications don't have glass between them to slow the signal like regular cabled connections.
+When will (or is it already?) satellite communications send a message from London to New York with less latency than ground-based communications?
+What are the milestones that Starlink needs to achieve to have superior latency?
+How much lower latency can Starlink be, given current plans for orbits, etc?

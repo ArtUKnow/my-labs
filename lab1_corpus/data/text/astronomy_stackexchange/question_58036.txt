@@ -1,0 +1,4 @@
+How does one determine the cardinal direction in which analemma was photographed?
+Given an analemma, I am confused by how to obtain any useful information from it. Initially I thought you can at least determine the latitude of photographes, but this is clearly not the case, as it's tilt can be completely different, even if taken at the same location, as can be seen from the images here; I can't explain why that happens.
+Now I wonder if one can at least determine which cardinal direction the photographer was facing when taking the photo? For example, if we are in the northern hemisphere, does the summer solstice being left to the winter solstice mean something else then the converse? Or is this also something that can't really be determined from the image alone.
+And additionally, how is the sun's daily motion related to this? How can we say in which direction it is moving and does it depend on the latitude or cardinal direction we are facing?

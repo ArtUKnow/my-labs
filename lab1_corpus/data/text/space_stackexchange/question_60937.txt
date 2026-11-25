@@ -1,0 +1,122 @@
+How to compute orbital decay of a cubesat?
+I'd like to compute the orbital decay of a cubesat in LEO/VLEO due to atmospheric drag. Here is what I've done:
+Based on the Satellite Orbital Decay Calculations document coming from the Australian government I managed to code a python script which computes the orbital decay of a satellite. The python script gives me the exact same results as in the paper.
+However, when I compare it with the Cubesat drag calculation study and do their sanity check, it does not work.
+First I noticed that if I put the effective area Ae in the script I almost get the double of what I should. I think it's linked to the Cd coefficient that is set at 2 in the paper. But the script asks for the area which is Ae/cd which double once more the result. I can't find why and that's really annoying.
+Then, running the script with 2*Ae as A, it gives me 3.32 years before applying correction coefficient and 4.28 after, instead of 3.16 and 4.04.
+It might sounds very close but it represents a 87,6 days difference which is a lot.
+the only value I changed is the 0.33333 from the original script to 1/3.
+So my 2nd question is can anyone help me understand where does this difference come from?
+The last question is am I doing it right ? Can I get accurate results for 3U cubesat using the atmospheric model presented in those papers?
+Here are the references
+https://www.osti.gov/servlets/purl/1124870/
+https://www.sws.bom.gov.au/Category/Educational/Space%20Weather/Space%20Weather%20Effects/SatelliteOrbitalDecayCalculations.pdf
+here is my python code:
+from math import*
+M=0 #masse(kg)
+A=0 #area?
+H=0 #hauteur initiale (Km)
+SRF=0 #solarradio flux en SFU (solar flux unit
+GAI=0 #geomagneticAindex
+Re=6378*1000 #earth radius in m
+Me=5.98*10**24 #earth mass(kg)
+G=6.67*10**(-11)
+T=0
+dT=0.1 #time increment in days
+D9=dT*3600*24 #to convert result in seconds
+H1=10 #hauteur
+H2=H #pour incrementation hauteur
+k=0
+DN=0
+SH=0
+k=0
+# on rentre les valeurs
+print('define the mass of the sat(kg)')
+M=float(input())
+print('define the area (mˆ2) of the sat
+A=float(input())
+print('define initial height (km) of the sat')
+H=float(input())
+print('define solar radio flux (conditions normales: F10.7 =80 \n ==> F10.7 va de 70-->200 (max et min case))')
+SRF=float(input())
+print('define géomagnetic A index (conditions normales: Ap=10')
+GAI=float(input())
+print("choose orbit inclination between 0-90 ")
+i=float(input())
+correction=1
+if H<=325:
+if 22.5<i<67.5:
+correction =1.35
+if 67.5<=i<=90:
+correction =1.62
+if 325<H<=375:
+if 22.5<i<67.5:
+correction =1.32
+if 67.5<=i<=90:
+correction =1.56
+if 375<H<=425:
+if 22.5<i<67.5:
+correction =1.29
+if 67.5<=i<=90:
+correction =1.49
+if 425<H<=475:
+if 22.5<i<67.5:
+correction =1.26
+if 67.5<=i<=90:
+correction =1.43
+if 475<H<=525:
+if 22.5<i<67.5:
+correction =1.22
+if 67.5<=i<=90:
+correction =1.38
+if 525<H<=575:
+if 22.5<i<67.5:
+correction =1.19
+if 67.5<=i<=90:
+correction =1.31
+if 575<H<=625:
+if 22.5<i<67.5:
+correction =1.17
+if 67.5<=i<=90:
+correction =1.25
+if H>625:
+print(' correction coefficient is 1' )
+R=Re+H*1000 #orbital radius in m
+P=2*pi*sqrt(R**3/Me/G) #orbital period in s
+#values recap
+print('résumé infos:\n masse : ', M, ' kg \n surface: ',A, ' mˆ2 \n auteur initiale:', H, ' km \n solarradioflux: '
+, SRF, '\n geomagnetic A index: ', GAI)
+print('\n période sat:',P)
+print('\n rayon:',R)
+matrice=[]
+#keeping data
+matrice2=['temps','hauteur','periode','mean motion','decay' ]
+while H>180:
+SH=(900+2.5*(SRF-70)+1.5*GAI)/(27-0.012*(H-200))
+DN=6*10**(-10)*exp(-(H-175)/SH) #atm density
+dP=3*pi*A/M*R*DN*D9
+Pm=P/60
+MM=1440/Pm
+nMM=1440/((P-dP))/60
+Decay=dP/dT/P*MM
+H2=H2-H1
+P=P-dP
+T=T+dT
+R=(G*Me*P*P/4/pi/pi)**(1/3)
+H=(R-Re)/1000
+nvline=[T,H,P,MM,Decay]
+matrice.append(nvline)
+k+=1
+print(matrice2[0],'\t\t\t',matrice2[1],'\t\t',matrice2[2],'\t\t',matrice2[3],'\t\t',matrice2[4])
+for line in matrice:
+for el in line:
+print(el,end="\t")
+print()
+print('\n' )
+print(matrice2[0],'(jour)\t\t',matrice2[1],'(km)\t\t',matrice2[2],'(s)\t\t',matrice2[3],'(rev/jour)\t\t',matrice2[4],'(rev/jourˆ2)' )
+print('\n' )
+print('\n' )
+print('\n' )
+print('before correction: reentry after ', T, 'day or:', T/365,' years' )
+T=T*correction
+print('apres correction: reentry after ', T, 'days or:', T/365,' years' )

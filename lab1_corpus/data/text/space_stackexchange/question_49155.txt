@@ -1,0 +1,4 @@
+Computation of Barycentric Dynamical Time using SPICE's definition
+I've written a high fidelity time management library (hifitime, currently in Rust, Python interface planned) which converts between time systems (TT, TAI, UTC, etc.) and time representations (Gregorian, JDE, MJD).
+The current TDB computation uses ESA's Navipedia documentation. I found something similar in SPICE's documentation, but I have a hard time figuring out how to use that to convert between a TT epoch and a TDB epoch: from my validation examples, there's a very small difference between ESA and NASA's computation.
+Could someone provide me an example of the execution of the SPICE algorithm if I have a TT epoch in seconds past J2000 and would like SPICE's TDB?

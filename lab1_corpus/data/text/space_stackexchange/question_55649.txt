@@ -1,0 +1,8 @@
+OPS 0855 Gemini B Separation
+On 3 November 1966 a modified Titan IIC launched from LC-40 in Cape Canaveral. This launch would be the only launch as part of the Manned Orbiting Laboratory program. Designated OPS 0855 the vehicle consisted of an earlier flown Gemini capsule, OV4-1 and OV1-6. As the mission profile reads:
+OPS 0855 was the primary payload of Titan IIIC 3C-9, The Gemini B prototype capsule, known as Gemini SC-2, was flown on the same rocket, and was released onto a suborbital trajectory during launch. The adaptor connecting the Gemini spacecraft to OPS 0855 contained three additional spacecraft, two OV4-1 satellites, and OV1-6. These were released into low Earth orbit.
+And another source reads
+The satellite was spin stabilized after Transtage shutdown. On the upper end, a Gemini B capsule was mounted during launch and released on a suborbital trajectory. Also inside the Gemini B adapter were three small satellites: OV1 6, OV4 1R and OV4 1T. OV4-3 worked for 30 days (75 days were planned).
+So first the Gemini capsule was released and then the second stage would burn continuing going into a stable orbit around the Earth. How did they make sure that the Gemini capsule had enough distance from the second stage before they lighted its engines and prevent it into crashing one and another? Did the Gemini capsule used it's own propulstion system to target itself away from the Transtage?
+Also any other general information about this unique mission is welcomed
+Picture of The OV4-3 (Orbiting Vehicle 4-3) and the Titan Transtage

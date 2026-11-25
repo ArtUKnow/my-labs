@@ -1,0 +1,2 @@
+Which gamma (ratio of specific heats) impacts optimal nozzle throat area, gamma in the chamber or the throat?
+In order to determine the nozzle throat area of a liquid rocket engine, Sutton's equation for this is very helpful: the one dependent on mass flow rate, chamber pressure/temperature, and gamma (ratio of specific heats). However, between the gamma of the chamber and the gamma at the throat, which one should be considered when sizing the throat area?

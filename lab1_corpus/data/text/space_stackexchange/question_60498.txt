@@ -1,0 +1,10 @@
+what is 'f' (true anomaly) for in the orbital inclination change equation
+I've been trying to make sense of the formula for an orbital inclination change for an elliptic orbit. This is for an orbit that is not altered in any way apart from its inclination.
+The equation from Wikipedia is as follows:
+$$\Delta v_i = {2\sin(\frac{\Delta{i}}{2})\sqrt{1-e^2}\cos(\omega+f)na \over {(1+e\cos(f))}}$$
+$\omega$ is the argument of periapsis, in other words the angle between the direction of the shortest side of the ellipse and the line where the two orbital planes intersect.
+$f$ is the true anomaly. This is the angle of how far around the orbiting object is relative to the shortest side.
+I don't get why the value $f$ appears in this equation
+There are only two possible places where you can perform a burn to change an orbital inclination, and those are the ascending and descending nodes, the opposite sides where the orbit intersects with the destination orbital plane. The angles $\omega$ and $\omega + 180$ ought to be sufficient to denote where these two nodes occur on the orbit.
+So why then is $f$ in the equation? Have I missed something? $f$ isn't used to describe an orbit, it is used to describe how far along an object is in an orbit. Since there are only two possible locations where an inclination change burn can be made, it seems irrelevant to me to have this value in the equation at all.
+EDIT: Notovny's comment and deleted answer suggests that the wikipedia eqn might just be referring to a situation where any inclination change is the goal. In particular, I was after an equation that matches an inclination of a known object. Naturally, this can only be done at the ascending and descending nodes. That suggests to me that the equation I want is simply one where $f$ is zero. Could anyone clear this up for me?

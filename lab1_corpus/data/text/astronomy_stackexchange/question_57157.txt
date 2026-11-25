@@ -1,0 +1,22 @@
+Finding the cartesian position of the lunar ascending node
+What I'm trying to derive
+The cartesian position of the lunar ascending node relative to the true equator and equinox of date reference frame. My issue is I'm getting a bit tripped up with reference frames.
+My attempt
+Consider the moon at a time $t$. Let $r,v$ be the position and velocity of the moon at $t$, measured from the center of the Earth. Suppose $r,v$ are expressed in some reference frame $R$, denoted as ${}^{R}r$ and ${}^{R}v$.
+The moon's specific angular momentum vector $h$ is given by
+$$
+{}^{R}h = {}^{R}r \times {}^{R}v
+$$
+The lunar node's are defined as the points where the moon crosses the ecliptic plane, and the vector the the lunar ascending node is given by
+$$
+N = K \times h
+$$
+where ${}^{\text{EC}}K = (0, 0, 1)$ is the unit $\hat{z}$ vector orthogonal to the ecliptic reference plane, denoted $\text{EC}$. We want $N$ in the desired frame $D$. Let ${}^{B}M_{A}$ be the rotation matrix from frame $\text{A}$ to frame $\text{B}$. Then,
+$$
+\begin{align}
+{}^{D}N &= {}^{D}M_{\text{EC}} \cdot {}^{\text{EC}}N\\
+&= {}^{D}M_{\text{EC}} \cdot \left( {}^{EC}K \times {}^{EC}h \right)\\
+&= {}^{D}M_{\text{EC}} \cdot \left( {}^{EC}K \times \left( {}^{EC}M_{\text{R}} \cdot {}^{R}h \right) \right)\\
+\end{align}
+$$
+Is this correct? Am I missing anything here?

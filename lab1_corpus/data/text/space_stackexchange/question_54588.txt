@@ -1,0 +1,8 @@
+Has iridescence ever been observed on any solar system body besides Earth? Or at least from a sample from one?
+New method for exoplanet detection based on iridescence? in Astronomy SE asks about observations of exoplanets, but here I'm asking about our own solar system bodies.
+Question: Has iridescence ever been observed on any solar system body besides Earth? Or at least from a sample from one?
+Primarily I'm interested in iridescence observed in a spacecraft's data, but observations on Earth from objects from off-Earth (e.g. sample returns, meteorites) are also okay.
+Wikipedia's Iridescence begins:
+Iridescence (also known as goniochromism) is the phenomenon of certain surfaces that appear to gradually change color as the angle of view or the angle of illumination changes. Examples of iridescence include soap bubbles, feathers, butterfly wings and seashell nacre, as well as certain minerals. It is often created by structural coloration (microstructures that interfere with light).
+Companion question:
+Has opalescence ever been observed on any solar system body besides Earth? Or at least from a sample from one?

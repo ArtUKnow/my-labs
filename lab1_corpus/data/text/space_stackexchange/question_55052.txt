@@ -1,0 +1,22 @@
+Was the Lunar Topographic Camera ever used?
+From the APOLLO EXPERIENCE REPORT -
+PHOTOGRAPHIC EQUIPMENT AND OPERATIONS
+DURING MANNED SPACE-FLIGHT PROGRAMS
+NASA TN D-69
+However, more detailed photography was required to evaluate the
+rougher sites proposed for later lunar-landing missions; consequently,
+the lunar topographic camera ( LTC ) (fig. 26) was introduced on
+the Apollo 13 mission. The LTC is a 5-inch-format recurrence-type
+camera with an 18-inch-focal-length fixed-focus lens incorporating
+image-motion compensation and capable of continuous overlapping strip
+photography. The camera was designed for mounting in the command
+module hatch window and operation within the command module
+environment. This design approach considerably simplified the
+spacecraft interface and crew operational requirements, which were
+major factors in procuring this camera in the short time required and
+within the budgetary restrictions. Unfortunately, the LTC was not used
+for lunar photography on the Apollo 13 mission, because the
+spacecraft did not attain lunar orbit. Reference 14 contains a
+detailed description of this equipment, and a photograph of the LTC
+system and the command module hatch mounting is shown in figure 27.
+The lunar topographic camera ( LTC ) could not be used on Apollo 13, was the LTC ever used during later Apollo missions?

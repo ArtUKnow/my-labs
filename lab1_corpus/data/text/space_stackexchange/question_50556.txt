@@ -1,0 +1,16 @@
+How to convert to GEO cordinate from the Mars Solar orbital coordinate (Sun-state)
+I am working on the planetary science (on Mars) project for my master thesis. I am using MAVEN data for analysis. Data (spacecraft position) are measured in MSO (Mars Solar orbital) coordinate. I wanted to convert to GEO (Mars) coordinate.
+MSO or SS: The X-axis lies along this vector and is taken to be positive toward the Sun. The y axis lies in the plane determined by the Mars-Sun vector and the velocity vector and is orthogonal to the x-axis and z parallel to the northward (upward) normal of the orbit plane of Mars.
+GEO: Z is taken to lie along the rotation axis and be positive in the direction of positive angular momentum. The X-axis is defined to lie in the equatorial plane of the body, perpendicular to Z, and in the direction of the prime meridian as defined by the International Astronomical Union (IAU). The Y-axis completes the right-handed set.
+I have no clue how to approach this problem. I have tried one approach
+(x,y,z)(GEO) = Ry(90-lat)*Rz(lon)*(x,y,z)(ss)
+Ry and Rz rotation matrix in Y and Z coordinate respectively.
+for few cases, it showing nearby values but not accurate.
+any suggestions will be greatly beneficial.
+Example: I have magnetometer data, which is measured by mag instrument, and values of bx, by,bz values are given in MSO coordinate. I want to convert this to GEO (bx, by,bz) COORDINATE.
+The values are given in both MSO and GEO co-ordinate. I was looking for the matrix which converts from MSO to GEO or vice versa for my understanding.
+MSO : (bx,by,bz) = (10.25, -2.37, -4.94)
+GEO : (bx,by,bz) = (3.73, 7.20, -8.33)
+These data are available on the MAVEN website.
+MAVEN MAG instrument data set
+Thank You

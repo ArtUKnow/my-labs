@@ -1,0 +1,2 @@
+Moon Image Stacking
+I recently took some photos of the moon without a tracker(camera+tripod) and thus my photos have the moon at varying angles. Autostackkert is unable to handle the corrections. Can anyone suggest some software capable of doing this?

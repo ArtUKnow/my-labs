@@ -1,0 +1,3 @@
+State vector update on reentry
+The integration errors from IMU state measurements would seem very problematic when you're coming in for a landing, where error tolerances would probably be as small as they could get.
+This must mean a state vector update before landing, maybe even several state vector updates at regular intervals? Can someone confirm or dispute?

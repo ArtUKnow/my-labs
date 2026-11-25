@@ -1,0 +1,5 @@
+Which reference frame for space shuttle PEG orbital insertion?
+Which frame were the space shuttle's orbital insertion attitude targets specified in?
+The shuttle had three frame choices: LVLH, INRTL, and REF (an inertial frame whose attitude the crew could lock in by pressing a button).
+For attitude display, LVLH was selected early in launch. But would this be the same frame the closed-loop orbital insertion targets would have been specified in?
+Since LVLH depends on the velocity vectors, whose direction is still changing during orbital insertion, it seems LVLH would be a poor choice to specify the attitude targets...

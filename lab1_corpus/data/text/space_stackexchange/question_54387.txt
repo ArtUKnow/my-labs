@@ -1,0 +1,4 @@
+DAWN CERES HAMO CYCLE1 PDS DATA ARCHIVE seems to be corrupted
+I'm working on Ceres VIR_IR data from PDS3 Archive. The downloaded data seems to not be right as I'm getting lines of various colors and not the target area, when opened in ENVI. Is the QUB file corrupted? Has anyone worked on this before?
+The real image, when loaded on ENVI should be this:
+The source for this image is https://sbib.psi.edu/data/PDS-Ceres/pds-ceres.html but I somehow cant doanload a QUB file from this.

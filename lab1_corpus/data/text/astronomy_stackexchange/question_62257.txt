@@ -1,0 +1,17 @@
+The Saros cycle: obtaining eclipse periodicity from Newton's laws
+In his paper The Saros cycle: obtaining eclipse periodicity from Newton's laws available here:
+https://www.scielo.br/j/rbef/a/NSb4MT7mc8GfH7NP9vhJ5FF/?format=pdf&lang=en
+The author get at the bottom of page 3:
+\begin{gather}
+\begin{gathered}
+\mathrm{d} V=-\frac{G m \lambda_{\mathrm{s}} R_{\mathrm{es}} \mathrm{~d} \theta}{\sqrt{R_{\mathrm{es}}^2+r^2-2 R_{\mathrm{es}} r \cos \phi \cos \theta}} \approx-G m \lambda_{\mathrm{s}}\left[1+\cos \phi \cos \theta \frac{r}{R_{\mathrm{es}}}+\frac{1}{2}\left(3 \cos ^2 \phi \cos ^2 \theta-1\right)\left(\frac{r}{R_{\mathrm{es}}}\right)^2+\right. \\
+\left.\frac{1}{2}\left(5 \cos ^3 \phi \cos ^3 \theta-3 \cos \phi \cos \theta\right)\left(\frac{r}{R_{\mathrm{es}}}\right)^3\right] .
+\end{gathered}
+\end{gather}
+from:
+\begin{gather}
+\mathrm{d} V(\mathrm{r})=-G \frac{m \mathrm{~d} M_{\mathrm{s}}}{\|\mathrm{R}-\mathrm{r}\|}
+\end{gather}
+I tried to guess by trial and errors how he got this result but i failed each time (and i suspect something wrong as the $\mathrm{d}\theta$ disappears i don't know how...
+Any help would be greatly appreciated
+Thanks

@@ -1,0 +1,11 @@
+What assumptions were made about the sphericity of the Moon for the Apollo program?
+I've just been reading about the Apollo program.
+Apollo 8 seems to have gone into a fairly circular lunar orbit 69 miles at perigee.
+Apollo 10 was pretty much similar, although they dipped down with the "Snoopy" lunar module.
+Apollo 11 dropped into that sort of orbit (LOI-2 after LOI-1) and the CSM (Command/Service Module) stayed in it.
+The Apollo 11 LM (Lunar Module) orbited the Moon 31 times before it landed, and I read a few days ago in a book that at its lowest its perigree was about 7 miles (I haven't been able to find any precise corroboration on that just searching). I presume that perigee will have been set to coincide with the Sea of Tranquillity, on the visible side of the Moon, so no doubt the apogee on the hidden side will have been higher. But how much? That will depend on how elliptical that orbit was.
+After the moon landing the LM ascent stage went into a "highly elliptical" orbit which I read was "18km (perigee) x 87km (apogee)" before being able to dock with the CSM.
+It is amazing to think of it, but I believe it is the case that before Apollo 8 no-one had seen anything of the hidden side of the Moon, ever. I believe that an uncrewed Soviet craft went there in 1967/68, but I don't think it took any photos for example.
+So there were the astronauts of Apollo 8 and Apollo 10 who were able to observe the hidden side of the Moon during quite short missions ... and then Apollo 11 LM, where it was assumed that a 7-mile perigee was sufficiently high to pose no risk of crashing into a Lunar mountain. It is also emphasised in this book that on the hidden side of the Moon, if the Sun is behind it, you see absolutely nothing of the surface unless there is some Earthshine. So I don't know how much the crews of the fairly short Apollo 8 and 10 missions will have seen.
+But supposing the Moon's hidden hemisphere had been all corrugated and not spherical at all? Supposing there had been enormous mountain ranges rising 20 or more miles above the predicted spherical surface?
+Were they just relying on the observations made by Apollo 8 and 10? Or was there more to it than that? Were there other reasons to believe that the hidden side of the Moon was essentially spherical?

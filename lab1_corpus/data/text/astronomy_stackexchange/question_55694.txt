@@ -1,0 +1,12 @@
+On what four dates dates do we observe the minimal, maximal, and two days of zero Solar axial tilt relative to us?
+In case the title is a bit confusing, what I'd like to know is essentially respectively on which dates the Solar axial tilt is pointing straight towards Earth, straight away from Earth, and perpendicular to us (which will be two dates).
+I'd also like to know how I could calculate this for myself.
+The two things I've found about it so far are from a couple of different answers. One mentions the north pole of rotation as being follows:
+North Pole of Rotation
+Right Ascension: 286.13
+Declination : 63.87
+I am however not sure how to calculate it from that.
+The other is an image I found, which seemingly does provide the dates, but I believe it's quite outdated:
+This puts the dates for the minimum and maximum on March 4 and September 6 respectively, with the two dates of zero (perpendicular, i.e. where we see exactly half of both the northern and southern hemisphere of Sol) being June 4 and December 6 respectively.
+However, from observation this doesn't quite seem to match up anymore; is that just me doing something wrong, or have the dates indeed drifted since then? When I thought about it I concluded that the only reason that I can see that the dates would move would be due to defining our dates according to Earth's axial tilt, and thus it being subject to axial precession ("precession of the equinoctes"), but this effect would only lead to ~1 day of "slippage" every ~70 years or so; I guess that diagram could be quite old and that it has slipped a day or two since it was made, but that's not very much.
+I guess with an accurate calculation of the dates for today based on the coordinates of the rotation I could compare the two and see. Hopefully someone can help.

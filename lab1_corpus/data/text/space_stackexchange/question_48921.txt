@@ -1,0 +1,5 @@
+How does steel deteriorate in translunar space?
+To confirm the identity of a 1966 Centaur booster returning near earth in 2020, NASA took some spectroscopy observations. They didn't match those of the same metal (301 stainless steel) on earth, apparently due to the booster's 54 years in "harsh" space. But they did more closely match observations of a similar 1971 booster that stayed near Earth.
+How/why did the steel's spectral signature change? Something about radiation rather than chemical reactions? Heating/cooling cycles? Outgassing of trace carbon and nitrogen?
+Did it really change so much that it could be confused with something like a metal-bearing asteroid? High-chromium steel, of whatever type and in whatever condition, is quite different from the usual nickel-iron stuff we see out there.
+(Addendum: does this make stainless steel a poor choice for missions longer than a decade or so?)

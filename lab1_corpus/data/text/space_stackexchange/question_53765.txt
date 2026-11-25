@@ -1,0 +1,9 @@
+What is the difference between these various spacecraft pyrotechnics?
+The following terms have been used in various Space Exploration StackExchange questions and answers. What are the differences (if any) between these various terms?
+detonating cord
+detonating fuse (as in mild detonating fuse)
+explosive bolt
+frangible nut
+igniter
+initiator (as in NASA standard initiator)
+squib

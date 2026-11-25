@@ -1,0 +1,2 @@
+Eutelsat 10B satellite appearance
+Looking at the SpaceX launch of Eutelsat-10B, which was built by Thales Alenia Space, it seemed to have a rather unusual color. Usually geostationary satellites are either covered with a "gold"-like or black-colored foil (multiple layers of a plastic called Kapton, covered with Aluminum on one or two sides). But this one seems "silverish". Is that a new kind of material? Is there any special reason to choose it and not the regular "gold" one?

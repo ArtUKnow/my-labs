@@ -1,0 +1,6 @@
+What can we know or at least deduce about this "mysterious blob in an Ingenuity navcam image"?
+Near the end of Mars Guy's new video Mars helicopter escapes sand trap linked below there's an image taken by the Ingenuity helicopter where an out-of-focus bit of debris passes in front of the navcam lens during a landing.
+There's a weird splotch in these final images that must be a piece of material kicked up by rotor downwash. But the shape is really strange, not like a blurry sand grain which is what you'd expect to be kicked up. So this is another mysterious blob in an Ingenuity navcam image.
+Question: What can we know or at least deduce about this "mysterious blob in an Ingenuity navcam image"?
+From the angular size, degree of defocus and known lens properties can we deduce its actual size? Is it being pushed up against the lens (or a protective window in front of it) or hovering in the wash? Are there known particle types on Mars that are long and thin and lumpy?
+On Earth we'd see this as a bit of grass or leaf or root from the soil, but on Mars a long, thin object light enough to be blown up in the air by Ingenuity's downwash and stay there seems quite unusual.

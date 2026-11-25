@@ -1,0 +1,4 @@
+Is it possible to easily change the inclination when using momentum exchange tethers?
+Access to space using Momentum exchange tether (like Skyhook, Space elevator,...) is economical, but only to specific orbits.
+And changing the inclination of the orbit is very uneconomical.
+Is there an Momentum exchange tether protocol that can change the inclination of an orbit at will without paying too much?

@@ -1,0 +1,3 @@
+Does the Sun rises exactly from the East and sets exactly in the West at Equator on Equinoxes?
+All solar (and shadow) calculators online seem to suggest that the Sun rises perfectly from East (90° clockwise from North) and sets perfectly in the West (270° clockwise from North) on Equinoxes at the Equator. But since the Earth has a tilt of 23.44°, shouldn't the Sun rise somewhere in the North-East (66.56 clockwise from North) and set somewhere in the South-West (246.56° clockwise from North) during the Spring Equinox and then again something similar but opposite during the Autumn Equinox?
+The Sun should follow the path of the Ecliptic which is at an angle to the Earth's Equator.

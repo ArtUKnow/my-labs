@@ -1,0 +1,5 @@
+Why do Canopus Star Trackers track Canopus? Why not so Sirius?
+Jupiter is magnitude −2.94 to −1.66 and Sirius is −1.46 and Venus stays between -3.8 and -4.8, while Canopus is only −0.74. (more negative is brighter)
+Question: Other than their namesake, why do Canopus Star Trackers track Canopus? Why not Sirius, or a bright planet? Planets have ephemerides and spacecraft have computers, so what were all the attractive aspects of choosing Canopus above all other possibilities?
+Related: How did the Canopus Star Tracker work? Are there any still out there in service today? (they are still in use today!)
+From Hackaday's MARINER 4: OUR FIRST UP-CLOSE LOOK AT MARS which links to Mariner Mars 1971 attitude control subsystem TM 33-681:

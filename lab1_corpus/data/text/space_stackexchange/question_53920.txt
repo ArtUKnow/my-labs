@@ -1,0 +1,9 @@
+From what altitude will they cut Dragonfly helicopter loose on Titan and make it land itself, and what are the main factors determining this altitude?
+Titan's surface pressure is about 1.5 bar and because the surface gravity is low pressure falls off much more slowly with altitude than it does on Earth. From Wikipedia's Atmosphere of Titan; vertical structure:
+Titan's vertical atmospheric structure is similar to Earth. They both have a troposphere, stratosphere, mesosphere, and thermosphere. However, Titan's lower surface gravity creates a more extended atmosphere, with scale heights of 15–50 km (9–31 mi) in comparison to 5–8 km (3.1-5 mi) on Earth. Voyager data, combined with data from Huygens and radiative-convective models provide increased understanding of Titan's atmospheric structure.
+The plot below suggests a scale height near the surface of about 15 km and the pressure of 1 bar (Earth's surface pressure) at about 6 km, though I don't know about the density which what matters more to its propellors.
+click for larger
+A graph detailing temperature, pressure, and other aspects of Titan's climate. The atmospheric haze lowers the temperature in the lower atmosphere, while methane raises the temperature at the surface. Cryovolcanoes erupt methane into the atmosphere, which then rains down onto the surface, forming lakes. Source
+Question: As I understand it, since the atmosphere is dense and tall and dragonfly comes with all these low-light cameras, navigation hardware and four pairs of propellors, there'll be no sky crane. At some point they'll just cut it loose and let it manage it's own descent.
+From what altitude will they cut the Dragonfly helicopter loose on Titan and make it descend and land by itself?
+What are the main factors that are determine the optimum "cut-loose" altitude?

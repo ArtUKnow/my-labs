@@ -1,0 +1,5 @@
+Help understanding Baryon Acoustic Oscillations
+I am having trouble understanding how Baryon Acoustic Oscillations (BAOs) work. Here is my understanding so far:
+The primordial plasma before recombination had certain regions of overdensities where dark matter pooled. This drew in baryons and photons via gravity. As the baryon shell collapsed inwards on the overdensity, the radiation pressure from the photons resisted the collapse and pushed the collapsing shell outwards. As that happened, the radiation pressure reduced and the baryon shell once again began to collapse thus producing an oscillatory motion.
+Now this is what confuses me:
+Based on my understanding, this oscillating shell sent out pressure waves out in the surrounding plasma. The SDSS survey of galaxies found a BAO bump at 150 Mpc. Why did it detect only one ring at this radius and not smaller concentric rings? Shouldn't there be multiple concentric rings flowing outwards as the central overdensity oscillated back and forth?

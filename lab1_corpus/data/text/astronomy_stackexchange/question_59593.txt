@@ -1,0 +1,2 @@
+Why on the March 20, 2025 equinox does the sun rise due east at the equator but increasingly northerly as an observer travels north?
+My source is the Suncalc.org calculator. Assuming the calculator is correct, then during the equinox and at the equator, the sun rises and sets due east and due west respectively. When one moves north or south of the equator, there is a slight difference: The further north the traveller moves, the further north the sun rises and sets, and likewise when the observer moves south, the sun is observed to rise and set more from and to the south.

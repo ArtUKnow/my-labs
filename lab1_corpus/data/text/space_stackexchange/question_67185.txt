@@ -1,0 +1,2 @@
+What are the tradeoffs to be considered when choosing solar panel system and electrical equipment voltages for a future base on the Moon?
+It's a good idea to choose a standard, but since it's the Moon, do we need to consider the effects of some of the Moon's extreme environmental conditions and the physical limitations of devices such as rad-hard switches

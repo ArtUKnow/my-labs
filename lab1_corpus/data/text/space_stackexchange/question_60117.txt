@@ -1,0 +1,13 @@
+Why do the modified equinoctial elements use the semilatus rectum?
+The classic orbit elements, $(a,e,i,\Omega,\omega,\nu)$, have annnoying singularities in their non-Keplerian perturbed dynamics at $i=0\pm \pi$ and $e=0$. So Arsenault, then Braucke & Cefola, then Walker, came up with versions of the so-called "equinoctial elements" that are free of these singularities (except at $i=\pi$). The set developed by Walker in 1985, called the "modified equinoctial elements" (MEEs), seem to be the most popular and are defined algebraically in relation to the classic elements as
+$$
+p = \tfrac{h^2}{\mu} = a(1-e^2) \quad,\quad e_1 = e\cos(\Omega+\omega) \quad,\quad e_2 = e\sin(\Omega+\omega)
+\\
+q_1 = \tan \tfrac{i}{2}\cos{\Omega} \quad,\quad q_2 = \tan \tfrac{i}{2}\sin{\Omega}
+\quad,\quad l = \Omega + \omega +\nu
+$$
+Where I have used the labeling convention of the first paper attached at the bottom of this post.
+question 1: Why do the MEEs use the semilatus rectum, $p$, instead of the classic semi-major axis, $a$? This was clearly intentional as they actively replaced $a$ with $p$. In the 1985 paper they say that this makes the MEE "applicable to all orbits". Is the semi-major axis not defined for all orbits?
+question 2: If $p$ really is better than $a$, is there any reason why the angular momentum magnitude, $h=||\vec{\mathbf{r}}\times\dot{\vec{\mathbf{r}}}||=\sqrt{\mu p}$, could not be used in place of $p$? Both cause issues for rectilinear motion but, other than that, it seems that $h$ would be just as good as $p$ (and is slightly more intuitive).
+Recent conference paper explaining the meaning of the equinoctial elements: On Equinoctial Elements and Rodrigues Parameters
+Walker's 1985 paper

@@ -1,0 +1,16 @@
+Understanding the paper "Determination of Satellite Orbital Elements by Means of On-Board GPS Receiver and Its Verification" by Yoshiwo Okamoto et. al
+I have been assigned with implementing the algorithm proposed in the paper "Determination of Satellite Orbital Elements by Means of On-Board GPS Receiver and Its Verification" by Yoshiwo Okamoto et. al. It involves using SGP4 orbit propagation with readings from a satellite's on-board GPS receiver. I'm supposed to come up with a pseudo-code, or actual code if things go well, to implement the method the paper proposes. It's not publicly accessible, but it can be found in Wiley Online Library and ResearchGate.
+However, I am still a novice in this field, and I have been having some problems with understanding some details of the method, as well as some small doubts about the overall goal of the paper. The paper is also a bit vague in some parts, either because the writers' first language isn't English, or because it's intended for people who are already familiar with the basic concepts. Therefore, if anyone here has read this paper, your help would be greatly appreciated. What I have done so far:
+Summary of my understanding of the paper's logic: We measure a satellite's position and velocity, and input that measurement into SGP4. However, the predictions it produces are inaccurate. Therefore, we have to find a way to optimize the measurement input to SGP4 in a way that the propagation it produces is reflective of the actual future position and velocity of the satellite. To do that, we use a least squares method to find an input into SGP4 that minimizes the difference between the predictions and actual measurements corresponding to the same points in time.
+My understanding of the paper's steps:
+Initial values: Measure actual r and v at point in time tref as the initial values. Create P vector of the orbital elements for tref.
+Input P into SGP4.
+Get multiple predictions for various points n in time based on P.
+Take actual measurements at the same points n in time.
+Determine what P would have to be to minimize the squared deviation between the predictions of SGP4 for P and actual measurements.
+Re-enter into SGP4, get multiple predictions for various points in time.
+Compare these new predictions with actual measurements to verify the algorithm.
+Structure of how this would be implemented in code:
+My questions are as follows:
+Is my understanding of the paper's goals correct?
+What exactly is the mathematical process they use to optimize the P vector? They call it a least-squares method, but also use the Newton-Raphson method, seemingly using them interchangeably. Without doing my work for me, could someone explain (without having to go into a lot of detail) what the overall structure and logic of the mathematics they use to optimize the orbital elements? Ultimately this is the only part I don't understand, I'm pretty sure my understanding of what the paper is trying to do is accurate. Thanks!

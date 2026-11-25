@@ -1,0 +1,11 @@
+Where exactly are the Apollo space suit sublimators venting steam into space? is there a photo of an astronaut in space that shows the opening?
+This excellent answer to How have space suits dissipated the heat removed from astronauts? shows a diagram including the sublimator unit in the red square where the phase transition of water from solid/liquid (it may be "slushy" at this point) to gas removes the heat produced inside the suit the astronaut to avoid overheating.
+I've never seen an actual "sublimator opening" where this happens.
+Question: Where exactly are the Apollo space suit sublimators that vent steam1 into space? is there a photo of an astronaut in space that shows the opening?
+1The old documents say "steam" and of course that's what water vapor can be called. It won't look "steamy" because it's not condensing into visible droplets; molecules are flying off at 300 to 400 meters/second on ballistic trajectories. If it was in air, the molecules would be bouncing around and diffusing away and constantly colliding every dozen microns or so, so that they have plenty of opportunities to form droplets.
+above: "Buzz Aldrin carries the EASEP." from here
+I don't see an opening in the white fabric cover of Armstrong's system in the photo above. How/where does the steam get out?
+update: See Figure 15, page 15 in The Apollo Portable Life Support System By Kenneth S. Thomas
+Figure 15 Apollo’s Second Generation PLSS (Courtesy United Technologies Aerospace Systems)
+click for larger
+Source

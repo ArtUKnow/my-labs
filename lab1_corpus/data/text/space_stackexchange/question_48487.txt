@@ -1,0 +1,4 @@
+General rule for predicting Kessler syndrome
+Let's say that we have a gradient for density of orbiting bodies by altitude. And we also have their relative size dispersion.
+Is there any general rule (or preferably a neat formula) for predicting the possibility of Kessler syndrome? Or are these calculations generally done on a case-by-case basis?
+What role does inclination and eccentricity dispersion play in such a calculation?

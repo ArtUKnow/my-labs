@@ -1,0 +1,7 @@
+Maximum lift of a helicopter in Mars' atmosphere?
+Maximum lift of a helicopter in Mars' atmosphere?
+Inginuity has been a success. It begs the question of full-scale helicopter transportation on Mars. However, low Martian atmospheric density means a low mass flow (low lift) through the rotor disc.
+Low speed of sound (temperature, molecular weight, low humidity) means a low supersonic blade tip stall speed. This limits disc diameter for a given rotor speed (or visa versa).
+I assume this means a theoretical maximum lift for a given power/weigh ratio regardless of size and rotor design. Increasing disc diameter, with constant tip speed, would increase lift by a square law, but mass would likely increase closer to a cube law.
+What’s the most a Mars Chopper could lift for a given power:weight ratio?
+Excellent related posts: Manned helicopter on Mars https://aviation.stackexchange.com/a/88031/21091

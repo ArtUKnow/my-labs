@@ -1,0 +1,10 @@
+How heavy were Perseverance's balance masses?
+Perseverance ejected two 70 kg "cruise balance masses" just before it became an airplane,
+to move its center of mass off axis and increase its angle of attack from 0° to about 16° to make it steerable.
+Shortly before it stopped being an airplane, it ejected six more tungsten "balance masses,"
+in something called the Straighten Up and Fly Right (SUFR) maneuver.
+This reduced its AoA to less than 5° before deploying its parachute.
+How many kg were those six masses?
+Why were that many needed?
+If for sequential deployment to damp oscillations, why were so few needed? Why not spray a thousand, or even spray a heavy liquid?
+Its 2012 predecessor Curiosity had 2x 75 kg and 6x 25 kg masses.

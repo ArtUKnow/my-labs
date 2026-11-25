@@ -1,0 +1,5 @@
+What ground systems are needed to support a launch?
+What types of ground support equipment (GSE) go into supporting a launch?
+The few I can think of: the launch tower, the crawler erector, a fueling system, maybe a cooling system.
+What else? I would be especially interested in specific ground systems and pieces of equipment, especially if they are mechanical or hydraulic, and in their uses, especially those that do not generally get the spotlight.
+Any and all launchpad and related equipment is fine, but to narrow the scope of the question, please ignore equipment not used to prepare for a launch (e.g., refurbishing equipment in hangars nearby are out of scope).

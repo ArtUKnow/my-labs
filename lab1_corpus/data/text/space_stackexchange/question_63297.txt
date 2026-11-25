@@ -1,0 +1,5 @@
+Are there any studies about "ping pong" cyclers between gas giants?
+Imagine arriving at Saturn, jettisoning your passenger cargo, and then utilizing the massive gravitational pull of the gas giant to slingshot back towards Jupiter.
+Due to the immense mass of these celestial bodies, trajectories can be significantly reoriented, potentially sending you back in the direction you came from.
+This approach could save considerable time, as opposed to waiting for a cycler to complete an orbit around the sun and reintercept with Saturn in 30 years. Instead, you could springboard back off Jupiter, and meet back up at Saturn in just 4 years, all without using a drop of fuel.
+Have there been any theoretical studies examining potential trajectories for this type of maneuver?

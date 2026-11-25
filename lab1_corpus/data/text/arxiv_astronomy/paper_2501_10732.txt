@@ -1,0 +1,2 @@
+Enhanced kinematics and distribution characteristics of Upper Scorpius and Ophiuchus associations based on Gaia DR3
+The kinematics within the Solar vicinity have revealed interesting features relevant to both stellar and Galactic structures. This study examines three stellar associations in the Upper Scorpius and Ophiuchus regions, along with their sub-samples among Gaia DR3. The calculated kinematics and velocity ellipsoid characteristics, including the mean spatial velocity components (U, V, W).

@@ -1,0 +1,9 @@
+How do cosmonauts board the Soyuz spacecraft?
+The Soyuz spacecraft consists of an orbital module, a descent module and a service module:
+(https://commons.wikimedia.org/wiki/File:Drawing-Soyuz-TMA-exp12.png)
+The spacecraft is fitted into a fairing before it is sent to the launch pad:
+(https://commons.wikimedia.org/wiki/File:Expedition_49_Preflight_(29655206254).jpg)
+The cosmonauts board the spacecraft on the launchpad by ascending an elevator. All the material I can find shows only one hatch in the descent module, the one connecting it to the orbital module. So I guess the crew enter the orbital module through an opening in the fairing then climb down into the descent module? Item 6 in the above diagram is a hatch in the orbital module. Photos of the crew leaving the descent module after landing show them being helped out of the top hatch.
+(https://commons.wikimedia.org/wiki/File:Expedition_69_Soyuz_Landing_(NHQ202309270031).jpg)
+I believe the hatch on the side in the above photo is to the parachute compartment only, not to the crew compartment.
+However can't find any photos of the fairing that show an entry point or any descriptions of the boarding proceedure. So how exactly to the crew get into their spacecraft?

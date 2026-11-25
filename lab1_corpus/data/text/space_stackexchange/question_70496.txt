@@ -1,0 +1,11 @@
+Feasibility of Lunar Oxygen generation using sealed Cyanobacteria Bio-domes with selective oxygen diffusion membranes
+I’m exploring conceptual approaches to biological ISRU for future lunar habitats, inspired by NASA’s MOXIE and post-Chandrayaan-3 discussions.
+Concept:
+A large-scale sealed dome on the Moon containing liquid water and cyanobacteria cultures under natural sunlight. CO₂ would be sourced from lunar regolith volatiles or recycled from crew respiration. The dome membrane would be gas-impermeable except for selective O₂ diffusion outward into a buffer zone for crew use, while retaining CO₂ and H₂O to sustain the photosynthetic cycle:
+$\require{mhchem}$
+$$ \ce{6 CO2 + 6 H2O ->[{\text{light}}] C6H_{12}O6 + 6 O2} $$
+Main questions:
+Mass balance: Could such a closed-loop system produce O₂ at a rate meaningful for micro-habitat support, or would CO₂ depletion from regolith/crew limit the process too quickly? Has any study quantified the O₂ output per m² for cyanobacteria under 1/6 g and lunar light cycles?
+Materials: Are there known membrane technologies that permit O₂ diffusion while retaining CO₂/H₂O at lunar temperature swings of -173°C to 127°C?
+Failure modes: What are the key risks — radiation damage to cyanobacteria, water sublimation in vacuum if seals fail, or biofilm clogging the selective membrane
+I’m aware mechanical systems like MOXIE are the baseline, but I’m curious if a biological route has been modeled or proposed for the Moon as a supplemental/redundant system. Papers or mission concept studies welcome.

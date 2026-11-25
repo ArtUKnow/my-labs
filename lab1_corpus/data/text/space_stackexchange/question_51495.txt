@@ -1,0 +1,7 @@
+Why are propellant tanks filled from the bottom?
+It seems that the norm is to (fast-) fill fuel and oxidiser tanks from the bottom. For example, on this drawing of the Saturn S-IC stage you can see the LOX and RP-1 fill valves at the bottom of the respective tanks (hard to read - click through to see higher-resolution images; the fill valves are near the AB and CD plane markers):
+(source: Mike Jetzer/heroicrelics.org - higher resolution images available)
+The SII stage LOX tank had the fill valve at the bottom, but LH2 fill valve seems to be at the top (see figures 50 and 60 respectively in this document, from here).
+This answer related to STS also shows the STS External Tank to be filled from the bottom.
+Naively, I would think that filling from the top is much easier, as you don't have to fight the pressure of the propellant already in the tank, either with a pump or by putting the supply tank higher than the target tank (communicating vessels).
+What is the motivation to fill the tanks from the bottom?

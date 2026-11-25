@@ -1,0 +1,28 @@
+Is Lunar days / synodic month same as longest anomalistic month?
+I'am looking two references:
+Williams George E. 1998.
+Precambrian tidal and glacial clastic deposits: implications for
+Precambrian Earth-Moon dynamics and palaeoclimate.
+Sedimentary Geology 120 (1998) 55-74.
+(copy partly below)
+On page 62:
+"Table 1. Palaeotidal and palaeorotational values for Neoproterozoic
+clastic tidal rhythmites and modern values.
+Lunar day / synodic month. Modern 28.53"
+Espenal Fred, NASA's GSFC.
+Eclipses and the Moon's Orbit.
+NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.
+https://eclipse.gsfc.nasa.gov/SEhelp/moonorbit.html
+(copy partly below 27.9.2024)
+"4.3 Anomalistic Month.
+...
+In comparison, the longest anomalistic months take place when the difference in
+longitude passes through 0 degree or 180 degree.
+The line of apsides is then directed towards or away from the Sun.
+The maximum duration of the anomalistic month is then about 28.5 days
+(1.0 day longer than the mean 27.55455 days).
+The Earth-Sun distance also influences the anomalistic month by
+causing greater extremes near perihelion. This currently occurs in early January each year."
+Q. Is this longest anomalistic month, 1.0 day longer than the mean (27.55455 days),
+also always 1.0 day longer than the mean (now not 27.55455 days) on GEOLOGIC TIME SCALE?
+Best Regards, Hannu Poropudas

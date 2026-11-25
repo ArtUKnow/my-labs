@@ -1,0 +1,7 @@
+Which programs are used to calculate delta V and launch dates to get to other objects?
+I have noticed that many people here have used different programs to calculate the launch dates and delta V to get to other planets.
+For example:
+https://space.stackexchange.com/a/59585/44505
+https://space.stackexchange.com/a/57738/44505
+etc...
+Which programs are being used to calculate the delta V and launch dates?

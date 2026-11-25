@@ -1,0 +1,3 @@
+How does SpaceX plan to utilize the (currently empty) high bay 2 in the VAB?
+Elon Musk mentioned previously that SpaceX is in talks with NASA to utilize High Bay 2 in the Vehicle Assembly Building at Kennedy Space Center, presumably for Starship operations, how would this be utilized? From my understanding, high bay 2 is facing west, away from the launch pad, and high bay 1, reserved for SLS operations, is between it and the crawlerway.
+How would Starship leave the VAB to head to a launch pad? Is there some shuffling they can do to move the ship through the transfer aisle into high bay 3? Or would they have to wait for SLS to clear high bay 1 before they can roll out to the launchpad?

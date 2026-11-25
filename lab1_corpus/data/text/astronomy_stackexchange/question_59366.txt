@@ -1,0 +1,2 @@
+PantheonPlus Data
+How and why are there 1701 light curve data from 1550 distinct type Ia supernova from the statement given below? "the Pantheon+ analysis of 1701 light curves of 1550 distinct Type Ia supernovae (SNe Ia) ranging in redshift from z=0.001 to 2.26." The statement is taken from https://doi.org/10.3847/1538-4357/ac8e04 .

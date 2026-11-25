@@ -1,0 +1,5 @@
+What are the major tradeoffs for a launch vehicle having either one 400 kN engine or eight 50 kN engines?
+Given the problem of choosing to build and launch a small rocket to put a smallsat into orbit with either of these two configurations, what are the major tradeoffs between them?
+For specific issues feel free to link to previous posts for supporting information.
+One 400 kN engine
+Eight 50 kN engines

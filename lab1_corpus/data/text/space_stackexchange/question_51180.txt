@@ -1,0 +1,6 @@
+Specific impulse and delta-v in Tsiolkovsky's rocket equation
+According to Tsiolkovsky's rocket equation, it is possible to calculate the delta-v of a multistage rocket if you know the characteristics of each stage of the rocket. In my case, the only characteristics that I have found on a rocket's data-sheet/catalog were the following: vacuum specific impulse, initial and final masses of each stage of the rocket.
+My questions are:
+A rocket has a vacuum and a sea-level specific impulse. Which one of these two should I use to calculate the total delta-v of a multistage rocket?
+Tsiolkovsky's rocket equation is applicable for a rocket which is not subject to external forces. How do I "correct" the delta-v for lower-stage rockets? What are the delta-v losses that should be accounted for?
+Resources (books, papers, etc.) that add more info to the answers would be appreciated.

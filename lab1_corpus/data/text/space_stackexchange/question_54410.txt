@@ -1,0 +1,7 @@
+Lunar satellite navigation system
+Inspired by some questions:
+Are People Actually Serious About Mining The Moon?
+How to estimate that receiving GNSS signals Earth while orbiting the Moon will still provide locations to about 200 meters of
+uncertainty?
+Should the Moon eventually be mined by surface mining methods, or simply for everyday navigation needs, should Moon bases ever be established, a form of satellite navigation system for the Moon, similar to the GNSS, GPS, GLONASS would be very useful. Lunar mascons present challenges to keeping satellites in orbit, particularly stable orbits, around the Moon for considerable periods of time.
+Is there a way to establish a Lunar satellite positioning system that could be operational for decades? Would the satellites need to carry additional fuel to periodically adjust and "re-stabilize" their orbits?

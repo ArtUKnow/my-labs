@@ -1,0 +1,2 @@
+How do ablatively cooled rocket engines compare to regeneratively cooled ones, in terms of mass?
+Assuming equivalent thrust and single continuous burn duration, is there a figure that roughly tells the difference in mass between these two engines cooling methods? This question focuses on first stage liquid fueled engines optimized for sea level up to separation altitude operation, by the way welcome any figures for vacuum engines.

@@ -1,0 +1,3 @@
+How much payload could the Falcon 9 send to geostationary orbit?
+How much could a fully expendable Falcon 9 lift to GEO? How does this number change if the Falcon 9 performs a drone ship landing or an RTLS landing?
+To further add to the confusion, Encyclopedia Britannica’s article on Falcon 9 claims that it can send 8,300 kg (18,300 pounds) to geostationary orbit, which SpaceX lists as Falcon 9’s capacity to GTO.

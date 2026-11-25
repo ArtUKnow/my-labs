@@ -1,0 +1,9 @@
+What's the motion of two connected satellites orbiting the Earth after their separation?
+Let's consider the following problem (it's a job interview question): two satellites are orbiting the Earth in a circular orbit; they are rigidly linked by a tether which is always pointing in the radial direction. What happens as soon as the tether is cut?
+Here is my reasoning:
+Before cutting the tether the velocity of two satellites is equal to the one of the system CoM (Center of Mass); if we assume Keplerian Mechanics, from the specific mechanical energy equation we can derive the expression of the velocity magnitude,
+$$
+V_0 = V_U = V_D = \sqrt{ \frac{\mu}{r}}
+$$
+After the tether is cut, we notice that the satellites are at different altitudes but we also know that the velocity and position vectors are perpendicular, hence the two satellites have to be on the apse lines of their orbits. The satellite at higher altitude is at the apogee of its orbit, since its kinetic energy is decreased with respect to the situation before cut, instead the satellite at lower altitude is at the perigee of its orbit since its kinetic energy is increased.
+Is my reasoning correct? Can one add further considerations on the two orbits?

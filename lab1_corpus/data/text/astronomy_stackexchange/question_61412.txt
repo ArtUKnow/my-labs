@@ -1,0 +1,9 @@
+First scientific use of a CCD device for astronomical observation?
+Quanta Magazine's July 11, 2025 The Biggest-Ever Digital Camera Is This Cosmologist’s Magnum Opus chronicles UC Davis cosmologist and Vera C. Rubin Observatory chief scientist Tony Tyson path from seeing an early CCD at Bell Labs all the way to the LSST Camera.
+And how did you aid in the discovery of dark energy?
+I built the Big Throughput Camera, which at the time was the largest CCD camera in the world. My intention was to try to put it on the largest telescope I could get my hands on, which was a telescope operated by the U.S. National Science Foundation in Chile. We had a bunch of observing time to do whatever we wanted, but we also supported other groups.
+From UC Davis Physics News' February 7, 2018 Big Throughput Camera on Exhibit at The Smithsonian:
+See also
+Air and Space Museum's Camera, Big Throughput
+Big Throughput Camera: the first year (paywalled)
+Question: What was the first scientific use of a CCD device for astronomical observation? Is it the Big Throughput Camera, or were there earlier implementations that produced useful scientific results?

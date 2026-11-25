@@ -1,0 +1,32 @@
+Rejecting disturbance in satellite using Reaction Wheel
+I am trying reject distrbance in satellite using Reaction Wheel. I use follow dynamic for Reaction Wheel.
+The relationship between the angular momentum of \acrshortpl{rw} ($L$) and the applied torque ($T$) can be expressed as follows:
+\begin{equation}
+\dot L=-T
+\end{equation}
+where $L$ $\in \mathbb{R}^{3\times 1}$ can be calculated as $ L=I_w\Omega$ with $\Omega$ $\in \mathbb{R}^{3\times 1}$ as the angular velocity of the \acrshort{rw}s and $I_\omega$ $\in \mathbb{R}^{3\times 1}$ as the Moment Of Inertia of Reaction Wheels.
+In this dynamic when reach to Steady State ($\dot L$) $T$ become zero so we do not have any control in satellite in Steady State. Do you have other Reaction Wheel dynamic do not have this problem or adding Thruster can solve this problem or other way. Introducing some article or book can helpful for me.
+Dynamic of satellite:
+The Direction Cosine Matrix represented by $\mathbf{A}_{O/B}$ is a transformation matrix that transforms Orbital Coordinate System (OBS) to Body Coordinate System (BCS) and can be expressed as follows:
+\begin{equation}
+\label{frac2}
+\mathbf{A}_{O/B}=\begin{bmatrix}
+(q_4^2+q_1^2-q_2^2-q_3^2)&2q_1q_2+2q_3q_4&2q_1q_3-2q_2q_4\\2q_1q_2-2q_3q_4&(q_4^2+q_2^2-q_1^2-q_3^2)&2q_2q_3+2q_1q_4\\2q_1q_3+2q_2q_4&2q_2q_3-2q_1q_4&(q_4^2+q_3^2-q_2^2-q_1^2) \end{bmatrix}
+\end{equation}
+where, $q$$=[q_1\; q_2 \;q_3]^T$ represent the Eulerian axis and $q_4$$=\sqrt{1-q^Tq}$ represents the rotation magnitude. The dynamic and kinematics equations of the satellite are:
+\begin{align}
+&\dot q=\mathbf{P}(q,q_4)\omega_{O/B},\qquad \dot q_4=-\frac{1}{2}q^T\omega_{O/B} \label{equ2}\\ &\dot\omega_{O/B}=\omega_{O/B}^\times\mathbf{A}_{O/B}\omega_{I/O}-\mathbf{A}_{O/B}\dot\omega_{I/O}-\mathbf{J}^{-1}\omega_{I/B}^\times\mathbf{J}(\omega_{I/B}+L)+\mathbf{J}^{-1}T \label{equ3}
+\end{align}
+where, $\omega_{O/B}$$=[\omega_x\;\omega_y\;\omega_z]^T$ denotes the satellite's angular velocity relative to the OCS, expressed in BSC. Additionally, $\omega_{I/O}$$=[0\; -\omega_0\; 0]^T$ represents the satellite's angular velocity of OSC with respect to Inertial Coordinate System, where $\omega_{0}$ is the angular orbital velocity of the satellite. The matrix $\mathbf{J}$$ \in \mathbb{R}^{3\times 3}$ stands for Moment Of Inertia , while $T$$=[T_x,T_y,T_z]^T$ is the applied torque vector. Finally, $\mathbf{P}(q,q_4)$ can be expressed as follows:
+\begin{equation}
+\label{frac400}
+\mathbf{P}(q,q_4)=\frac{1}{2}
+\begin{bmatrix}
+q_4&-q_3&q_2\\
+q_3&q_4&-q_1\\
+-q_2&q_1&q_4
+\end{bmatrix}
+\end{equation}
+The term $\omega_{I/B}$ $\in \mathbb{R}^{3\times 1}$ can be calculated in terms of $\omega_{I/O}$ and $\omega_{O/B}$ as follows:
+\begin{equation} \omega_{I/B}=\mathbf{A}_{O/B}\omega_{I/O}+\omega_{O/B}
+\end{equation}

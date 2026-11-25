@@ -1,0 +1,13 @@
+Origin, artist, and original purpose of this unusual NASA image from 1996 or earlier? (possibly related to Clementine)
+Two astronomy questions below relate to Clementine and poking around I found Ice on the Bone Dry Moon which was
+Written by Paul D. Spudis, Lunar and Planetary Institute, Houston, TX, Deputy Leader of the Clementine Science Team
+The 1996 blogpost discusses Clementine's bistatic radar experiment1 (S-band carrier from spacecraft high gain antenna reflected off the moon and received on Earth by DSN dishes) See Nozette et al (1996) The Clementine Bistatic radar Experiment Science 274, pp 1495-1498
+The discovery of ice on the Moon has enormous implications for a permanent human return to the Moon. Water ice is made up of hydrogen and oxygen, two elements vital to human life and space operations. Lunar ice could be mined and disassociated into hydrogen and oxygen by electric power provided by solar panels deployed in nearby illuminated areas or a nuclear generator. This hydrogen and oxygen is a prime rocket fuel, giving us the ability to refuel rockets at a lunar "filling station" and making transport to and from the Moon more economical by at least a factor of ten. Additionally, the water from lunar polar ice and oxygen generated from the ice could support a permanent facility or outpost on the Moon. The discovery of this material, rare on the Moon but so vital to human life and operations in space, will make our expansion into the Solar System easier and reaffirms the immense value of our own Moon as the stepping stone into the universe.
+I've magnified and sharpened the tiny image in the blogpost. Presumably it's from a much larger image, somehwere.
+Question: What is the origin, artist, and original purpose of this unusual NASA image from 1996 or earlier? Is it related to Clementine directly?
+Note "The Apollo Museum" sign in lower right, and possibly a Radio Flyer(?) full of moon rocks.
+Further reading:
+How long does lunar opposition surge last? Are there measurements of the full Moon getting suddenly brighter?
+Has lunar opposition surge ever been observed from Earth? From Earth orbit?
+1From Clementine Bistatic Radar Experiment; NSSDCA ID: 1994-004A-09:
+In this experiment the Clementine spacecraft transmitted an unmodulated S-band right-circularly polarized signal through the 1.1 meter high-gain antenna. The signal had a frequency of 2.273 GHz (13.19 cm wavelength) and net power of about 6 watts. The high gain antenna has a half-power half-beamwidth of 4.0 degrees. Reflections were received on Earth by the 70 meter antennae of the Deep Space Network (DSN) at Goldstone (United States), Madrid (Spain) and Canberra (Australia).

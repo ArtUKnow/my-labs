@@ -1,0 +1,15 @@
+Does venus affect Earth's orbit more than Jupiter
+(this question could also fit in Astronomy or Physics)
+Jupiter, with it's huge mass, is the obvious culprit for messing with Earth's orbit (and possibly climate). Although Jupiter is extremely massive, Venus is much closer.
+Peak delta-a
+Lets start with a Fermi estimation.
+In order to change Earth's orbit it is necessary to accelerate the Earth and the Sun by different amounts. The Sun's gravity on the Moon is about twice Earth's, but because the sun pulls on both it does not yank the moon out of orbit.
+Using this factsheet we can compute the maximum Earth-Sun difference in acceleration induced by the other planets. This is a tidal force of sorts.
+Jupiter: Delta-a is maximized when Earth is aligned with Jupiter. In such a situation Jupiter pulls on Earth more strongly than the sun. We can squeeze out slightly more by having Earth at aphelion and Jupiter at perihelion. The Sun-Earth difference is 0.135 microns/s^2.
+Venus: Put Venus between Earth and the sun, Venus in aphelion and Earth in perihelion. The Sun and Earth accelerations act in opposite directions and so we add these terms. This gives us 0.250 microns/second^2. About twice Jupiter.
+Mercury: The planet is so close to the Sun that Earth would "care more" about the combined mercury-sun barycenter than the Sun itself. Our Fermi estimation would thus be an over-estimate.
+Other gas giants: They are both less massive and further than Jupiter and so would be much less important.
+Jupiter is 389 Venus masses, but Venus gets 15 times closer to Earth and distance is much more important than mass.
+And many more factors
+Inclination, eccentricity, Orbital resonance, and more all play a role and it is seems that both Venus and Jupiter together would dominate Earth's changing orbit, while the other planets are less relevant. Is this the case?
+Edit: I am considering how eccentricity, semi major axis, and inclination vary on Milankovitch time scales, about 10^5 years. How would it be different with Venus alone vs Jupiter alone vs all planets except those two?

@@ -1,0 +1,31 @@
+How to convert body coordinate from Sun reference frame to Earth reference frame?
+I have the coordinates of a celestial body w.r.t. Sun , expressed as (x,y,z), at a given time.
+I need to move this coordinates into a reference frame centered on Earth center, but after reading dozens of sites I am confused between Earth Centered Inertial (ECI) , Earth Centered Fixed (ECF) , ICRF, local East, North, Up (ENU) and whatelse... If Earth axis was not inclined, maybe it would be easy, it would be just a matter of subtracting coordinates, but unfortunately it is not that simple.
+I found that satellite.js library has functions to convert from one system to another, but I do not understand which function I exactly need, and I don't want to include the full library just to use a ten-lines function...
+From satellite.js documentation:
+// You can get ECF, Geodetic, Look Angles, and Doppler Factor.
+var positionEcf = satellite.eciToEcf(positionEci, gmst),
+observerEcf = satellite.geodeticToEcf(observerGd),
+positionGd = satellite.eciToGeodetic(positionEci, gmst),
+lookAngles = satellite.ecfToLookAngles(observerGd, positionEcf),
+dopplerFactor = satellite.dopplerFactor(observerCoordsEcf, positionEcf, velocityEcf);
+Or maybe I could use this other function from CesiumJS?
+Cesium.Transforms.computeIcrfToFixedMatrix(date)
+Computes a rotation matrix to transform a point or vector from the
+International Celestial Reference Frame (GCRF/ICRF) inertial frame
+axes to the Earth-Fixed frame axes (ITRF) at a given time. This
+function may return undefined if the data necessary to do the
+transformation is not yet loaded.
+so in a few words: which are the names of the SOURCE and DESTINATION reference frames I have to take into account when passing from sun-centered to earth-centered?
+These are the data I have:
+########################################################################################################################
+# X,Y,Z : 黄道面座標系での探査機/地球/小惑星位置，単位は[天文単位]（天文単位，太陽＝地球距離(ここでは149597870.7[km]を1とした距離）
+#====================================================================================================================================================================================================================================================================
+# |----------- Spacecraft ----------| |----------- Earth -----------| |----------- 1999JU3 ----------| |------ Maintenance Info. ------|
+# UTC L+ X Y Z X Y Z X Y Z Rs Re Ra Vs Ve alpha delta Dflt ORB_ID T_fp
+# [day] [AU] [AU] [AU] [AU] [AU] [AU] [AU] [AU] [AU] [10^4km] [10^4km] [10^4km] [km/s] [km/s] [deg] [deg] [10^4km]
+#--------1---------------2--------3------------4------------5------------6------------7------------8------------9------------10-----------11-----------12---------13---------14-------15-------16-------17-------18-----19----20--------------------------------21---
+2020/09/01.04:59:59 2099.0 0.000000000 0.000000000 0.000000000 0.941759396 -0.362564266 0.000016692 1.212657811 -0.285057784 0.127795902 18391.83 4652.80 686.14 26.42 9.85 13.35 31.83 503047.8 20200825-20201002_0001_eph-ops +0.0
+2020/09/02.04:59:59 2100.0 0.000000000 0.000000000 0.000000000 0.947521452 -0.346527920 0.000016177 1.213291467 -0.270097929 0.127370586 18350.30 4576.87 692.63 26.48 9.73 13.52 32.27 503276.4 20200825-20201002_0001_eph-ops +0.0
+Google translation of header:
+# X, Y, Z: Explorer / Earth / Asteroid position in the ecliptic plane coordinate system, unit is [astronomical unit] (astronomical unit, sun = earth distance (here, distance with 149597870.7 [km] as 1))

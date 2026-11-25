@@ -1,0 +1,2 @@
+Life support system weight estimate
+I would need to estimate the weight of the life support system, specifically the weight of the oxygen subsystem. Are there weights for previous spacecraft available somewhere? Or is some other procedure used to estimate the weight?

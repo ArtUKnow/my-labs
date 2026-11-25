@@ -1,0 +1,3 @@
+When B is directly below A, as shown, what's B’s velocity (in vector notation) relative to A?
+Spacecraft A and B are in coplanar circular orbits around the Earth. The orbital radii are as shown in the figure.
+(Not looking to use C-W equation. Just the equation describing relative velocity between 2 bodies.)

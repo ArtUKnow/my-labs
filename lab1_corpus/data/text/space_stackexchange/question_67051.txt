@@ -1,0 +1,3 @@
+How was the first continuous communication with LEO spacecraft established?
+In the Apollo era, spacecraft had only intermittent contact with mission control as their communication link was “handed off” from the US to South Africa to Australia during the spacecraft’s LEO portion of the mission.
+Which was the first LEO crewed spaceflight that had continuous contact with mission control for the entire orbit and how was this achieved?

@@ -1,0 +1,2 @@
+what would be an alternative for Spin Launch?
+I've seen Spin Launch several times, a system where payload/rocket is spun up to a certain velocity in a vacuum and then "thrown" into the exosphere or space. I found this concept of "throwing" rockets quite interesting and potentially effective. I can't help but wonder if there's any other such efficient way to "throw" rockets such as a slingshot or rail gun set up?

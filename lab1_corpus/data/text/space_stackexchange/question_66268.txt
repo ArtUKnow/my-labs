@@ -1,0 +1,7 @@
+What is the goal of the message “astronaut use only” written on one Hubble's module?
+On the following image, why is it written “astronaut use only”?
+Since this power control unit is in space, it can only be used by astronauts. So why write this message?
+Cropped from this image:
+Description of the image:
+A close-up view of the power control unit or PCU, which is the heart of the Hubble Space Telescope (HST) power system. Astronauts John M. Grunsfeld and Richard M. Linnehan, STS-109 payload commander and mission specialist, respectively, replaced the PCU on March 6, 2002, during the third space walk of the mission.
+Source: https://commons.wikimedia.org/wiki/File:STS-109_power_control_unit_of_Hubble.jpg

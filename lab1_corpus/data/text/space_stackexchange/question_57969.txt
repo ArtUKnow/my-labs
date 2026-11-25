@@ -1,0 +1,2 @@
+What is the highest RPM achieved through a spin-stabilized rocket/spacecraft?
+The title explains it all. I know that the Star 48 kick motor rotated at 60 rpm through its burn. I'd like to know the fastest a rocket/stage has spun during a launch, as well as the highest theoretical spin rate of a rocket.

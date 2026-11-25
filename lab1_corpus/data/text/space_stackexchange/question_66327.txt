@@ -1,0 +1,6 @@
+Starship IFT-4: flashes below hypersonic speed
+In the camera feed, we see occasional bright flashes well after the ship has ceased being hypersonic.
+Then at 700km/h the flashes suddenly increase to the point that it looks as if the ship has caught fire.
+Then at around 400km/h the "fire" went out.
+Then when the flip maneuver began, the "fire" reignited, and burned until landing.
+What's going on here?

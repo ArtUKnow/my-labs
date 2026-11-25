@@ -1,0 +1,34 @@
+How can I calculate the altitude my waterrocket will fly with a certain amount of pressure?
+I am trying to calculate how high my waterrocket will fly before launching it at different pressure using the Tsiolkovsky rocket equation. However, I stumbled upon an issue since the altitude that it flies changes drastically depending on how much air pressure is in the bottle, but air has almost no weight, meaning that the delta V barely changed in the equation.
+$$ \Delta v = I_{sp} \cdot g_0 \cdot ln \frac{m_{before}}{m_{after}}$$
+The Isp was easy to calculate since one can just find out the force and divide it by the mass flow rate (g doesn't matter that much since it is cross out from the equation).
+$$ I_{sp}= \frac{Force}{mass\ flow\ rate \cdot g_0} = \frac{m_{dry\ mass} \cdot acceleration}{\frac{mass_{water}}{acceleration\ time} \cdot g_0} = \frac{m_{dry\ mass} \cdot \frac{velocity}{time}}{\frac{mass_{water}}{acceleration\ time} \cdot g_0}$$
+From my video footage, I got this data from 2 different waterrockets using the same type of nozzle:
+Flight Pressure
+dry mass
+acceleration time
+mass of the water
+peak velocity
+8 Bars
+0.25 kg
+0.5s
+0.6kg
+50m/s
+5 Bars
+0.42 kg
+0.7s
+0.6kg
+30m/s
+$$ I_{sp}= \frac{m_{dry\ mass} \cdot \frac{velocity}{time}}{\frac{mass_{water}}{acceleration\ time} \cdot g_0} = \frac{0.25 kg \cdot \frac{50 m/s}{0.5 s}}{\frac{0.6 kg}{ 0.5s} \cdot 9.81m/s^2} = 2.1237s$$
+$$ I_{sp}= \frac{m_{dry\ mass} \cdot \frac{velocity}{time}}{\frac{mass_{water}}{acceleration\ time} \cdot g_0} = \frac{0.42 kg \cdot \frac{30 m/s}{0.7 s}}{\frac{0.6 kg}{ 0.7s} \cdot 9.81m/s^2} = 2.1407s$$
+From the calculations I rounded the Isp to about 2.1s since the slight difference comes from the fact that measuring certain things from video footage isn't the best way to get the data and there are of course better methods such as using an altimeter 3 or other sensors. Overall the Isp doesn't really change at different pressures.
+The issue that I am having is that to calculate the delta V of the waterrocket, one of these values have to change $I_{sp}$, $ m_{before}$ or $m_{after}$. The Isp and the dry mass ($m_{after}$) doesn't change if there is more pressure. However, the wet mass ($m_{before}$) does change if there is more pressure, but only very slightly.
+$$m_{before}= dry\ mass\ + water\ mass\ + air\ mass$$
+The waterrocket uses a 2L bottle meaning that only 1.33L is actually air since 1/3 should be water. Here is a chart that shows how much the mass of the air changes at different pressures which I made in excel:
+Even at 10 Bars, it doesn't really get that much higher than 20 grams (the weight changes a bit due to the outside temperature). Using the Tsiolkovsky equations, the total delta V barely changes at all if I had an extra 20 grams at $m_{before}$
+$$ \Delta v = I_{sp} \cdot g_0 \cdot ln \frac{m_{before}}{m_{after}} = I_{sp} \cdot g_0 \cdot ln \frac{dry\ mass\ + water\ mass\ + air\ mass}{m_{after}}$$
+Delta v at 1 Bar:
+$$ \Delta v = 2.1s \cdot 9.81m/s^2 \cdot ln \frac{0.25kg + 0.6kg + 0.0017kg}{0.25kg}= 25.2521 m/s$$
+Delta v at 10 Bars:
+$$ \Delta v = 2.1s \cdot 9.81m/s^2 \cdot ln \frac{0.25kg + 0.6kg + 0.02kg}{0.25kg}= 25.6901m/s$$
+The difference here is about 0.15m/s while in reality, it is serval magnitudes higher. Given that the mass of air is negligibly, how can I accurately calculate the altitude my water rocket will reach at different pressures using the Tsiolkovsky equation?

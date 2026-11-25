@@ -1,0 +1,4 @@
+Has there ever been an attempt or serious consideration for spacecraft to land on Mars without an ablative-type heat shield?
+My answer to Do exploration spacecraft enter Mars atmosphere against Mars rotation, or on the same direction? lauds the use of ablative heat shields for minimizing radiative heating of a spacecraft by the super-hot plasma sheath during atmospheric entry at Mars.
+It then mentions that I think that the SpaceX Starship will use ceramic tiles for thermal shielding when landing on Mars rather than an ablative coating. I'm not 100% sure of that but it's not a premise of my question.
+Question: Has there ever been an attempt or serious consideration for spacecraft to land on Mars without an ablative-type heat shield?

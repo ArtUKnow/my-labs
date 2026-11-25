@@ -1,0 +1,2 @@
+AU Semimajor axis accuracy
+I have used Kepler's 3rd law to calculate the Semi-Major axis of the Earth I have given it the mass of the objects i.e. the sun (1 solar mass) and the Earth and time taken to orbit (365 days, 6 hours, 9 minutes ) but when I minus it 1 AU it gives 9345 kilometers (5807 miles) even when I try to get more accurate results by using 1.0000001124 AU - 92.95 million miles it still gives 9362.7 kilometers (5817.72 miles) thus there is still a tiny difference once compared to the size of the orbit (but I want it to be extremely accurate).

@@ -1,0 +1,19 @@
+Have Kagome lattice patterns been used as structural reinforcement in spacecraft in non-Iranian spacecraft? Can we help Scott Manley "unsee" this one?
+Scott Manley's January 2, 2022 video Iran's Reinvigorated Space Program Makes Final Rocket Launch of 2021 references this tweet and screenshots it in his video,
+I am a bit surprised this is a legal design in Iran... no offence meant, I just cannot unsee.
+and says:
+We know this one went off on that trajectory because there are images on social media showing locals who found a fairing that had landed near their town.
+And I'm going to say, looking at the interior of this, a lot of people saw right away that *the grid pattern that they had etched on to the surface for strength did include the Star of David, and in fact, yeah! You draw lines and it does in fact look like the flag of Israel and I can't unsee that now that it's been pointed out.
+Obviously that is there for good structural engineering reasons, but I still can't unsee this thing.
+The pattern shows is of course called a Kagome lattice which is a 2D structure sought after by both experimental and theoretical physicists. The pattern of two concentric equilateral triangles (one either flipped or rotated by 60°) is a six-pointed Kagome crest or Shatkona.
+On a flat or cylindrical surface the pattern has three sets of parallel lines, call them A, B, and C, but instead of all three intersecting at the same points, they are offset so that AB, BC, and CA intersections are at different points, dividing the surface into twice as many triangles as hexagons.
+Math SE: I just wrote "On a flat or cylindrical surface the (Kagome lattice) pattern has three sets of parallel lines" Is that right? Are there other surfaces?
+Question: Have Kagome lattice patterns been used as structural reinforcement in spacecraft in non-Iranian spacecraft? Is this in fact a common pattern? Perhaps a few examples will help Scot in his "unseeing" efforts.
+above: Japanese wicker basket with a kagome pattern Source, below: Kagome lattice (Japanese: 籠目) Source
+Screenshots from Scott Manley's January 2, 2022 video Iran's Reinvigorated Space Program Makes Final Rocket Launch of 2021
+Fourth image (and linked tweet) show lines added to indicate similarity to flag (click for full size):
+Source
+A Kagome crest
+To a Western audience the six-pointed version of the Kagome crest as religious symbol perhaps most closely resembles the Star of David, however, any direct connection between the two is unlikely. If a cultural connection involving the Kagome crest does exist, it is most likely related to the satkona of Hinduism.
+update: More examples of a kagome lattice used as a structural element
+above: "Example of a kagome basket. (Credit: Okinawa Institute of Science and Technology)" source: The Electronic Structure of a “Kagome” Material below: Figure 3 from Manufacturing and testing of a CFRC sandwich cylinder with Kagome cores

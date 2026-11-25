@@ -1,0 +1,2 @@
+Nozzle contour estimation (Merlin 1D Vacuum)
+I would like to run a fluid simulation of the diverging section of a Merlin 1D Vacuum engine. While most relevant parameters (such as expansion ratio, flow rate, and nozzle area) are readily available, the nozzle contour (or shape) has been more difficult to find. What is the best way to go about estimating this geometry? Is it known what kind of curve is used in the design (e.g. parabolic)?

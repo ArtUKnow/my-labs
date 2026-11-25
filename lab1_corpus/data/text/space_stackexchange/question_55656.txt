@@ -1,0 +1,14 @@
+Any exact analytical solutions for non-Keplerian orbits; those around non-radially symmetric mass distributions (e.g. J₂≠0)?
+Keplerian orbits, those around spherically symmetric mass distributions (Newton's Shell theorem collapses them to a point) have analytical solutions in that you can write $t(\theta)$ as a simple equation. Of course the reverse $\theta(t)$ can't be written and still has to be solved numerically.
+This answer to What is the analytical closed-form solution of the two-body problem to verify its numerical integration results?
+But my guess is that for anything other than Keplerian orbits proper, there is no simple equation for the orbit. There are plenty of equations out there, the result of various perturbation calculations or other approximations.
+For example, see
+Is the formula for nodal period of a near-Earth satellite given by Wikipedia correct?
+Equation for orbital period around oblate bodies, based on J2?
+These refer to Kelperian-like orbital parameterization of orbits around an oblate/prolate spheroid characterized by $J_2$. For example the equation for nodal period including effects of eccentricity and $J_2$ was typed out in @Chris' answer:
+$$T = T_0\left[1 - \frac{3J_2(4-5\sin^2 i)}{4\left(\frac{a}{R}\right)^2\sqrt{1-e^2}(1+e\cos\omega)^2} - \frac{3J_2(1-e\cos\omega)^3}{2\left(\frac{a}{R}\right)^2(1-e^2)^3}\right]$$
+Here, according to the answer, $\omega$ is the argument of perigee, and $e$ and $i$ are eccentricity and inclination.
+We can suspect this is might be an approximation because a real orbit around a body with nonzero $J_2$ won't have easily recognized Keplerian elements (the orbit won't even be planar!), they'd have to be redefined. But maybe in the context of this equation the non-elliptical orbit can still have a well-defined eccentricity somehow.
+Question: When all is said and done, Any exact analytical solutions for non-Keplerian orbits; those around non-radially symmetric mass distributions (e.g. J₂≠0)? Or once $J_2$ deviates from zero or the central mass deviates in any way from spherically symmetric do the equations of motion always become approximations?
+For the purposes of this question, "exact analytical solutions" could include infinite series, as long as they can be and have been written as such.
+note: This is a complicated question to write; I'm open to comments recommending adjustments to the wording or the scope.

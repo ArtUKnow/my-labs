@@ -1,0 +1,3 @@
+Are there any proposed mechanisms by which dark energy could decay or change over time?
+While the cosmological constant is the simplest model, many theories propose quintessence fields. Is there credible observational evidence or upper limits on dark energy “decay” or variation with redshift? I'd like to know what the distinctive signatures are in supernova, BAO, or CMB measurements. This includes any next‑generation surveys expected to constrain such models more tightly.
+Edit: I’m particularly interested in how evolving dark energy or quintessence models would observationally. For example, what measurable departures from ΛCDM would appear in SN Ia, BAO, or CMB datasets, and what limits current surveys have placed on such evolution.

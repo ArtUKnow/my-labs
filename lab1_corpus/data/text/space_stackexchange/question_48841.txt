@@ -1,0 +1,2 @@
+Using electrodynamic tethers for countering precession?
+One of the potential uses of electrodynamic tethers for satellites is generating thrust without needing to expend reaction mass. Could this potentially be used to counteract precession, allowing satellites in non-equatorial orbits to maintain the same ground track? And if it does work, what constraints would there be? One possible constraint I can think of is that the satellite's orbit might need a relatively high semi-major axis, since precession rate decreases as the semi-major axis increases.

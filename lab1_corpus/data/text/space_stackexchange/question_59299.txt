@@ -1,0 +1,6 @@
+Repeat ground track with 1 day repetition
+I'm struggling with a doubt regarding repeating ground tracks (RGT). I've a satellite in a LEO circular orbit with a predefined non-polar inclination (64°) and I want to determine the needed semi-major axis in order to have a repeat ground track.
+I found several references in literature to compute the repeat ratio of a RGT orbit, but I'm not sure how this could be use to find the information I'm interested in.
+If I compute the repeat ratio as in the formula
+$$\tau = \frac{N_S}{N_D} = \frac{T_N}{T_S} = \frac{2\pi / (\omega_E-\dot{\Omega})}{2\pi / (\dot{M}-\dot{\omega})} = \frac{n + \Delta n + \dot{\omega}}{\omega_E - \dot{\Omega}}$$
+how do I determine if a given sma leads to a RGT? Does this ratio need to be an integer number?

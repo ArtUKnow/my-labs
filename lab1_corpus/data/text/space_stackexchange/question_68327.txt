@@ -1,0 +1,4 @@
+Kosmos 482 altitude is below perigee?
+I noticed an anomaly while tracking Kosmos 482; a PE of 134.8 but an altitude of 131.8. A minute later I got a screen-grab so you can see it. PE is 134.8 and altitude is 132.15 and rising in the screen grab.
+What's up with that?
+Origin website is https://www.n2yo.com/satellite/?s=6073

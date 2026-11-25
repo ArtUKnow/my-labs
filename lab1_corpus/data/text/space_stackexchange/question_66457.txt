@@ -1,0 +1,2 @@
+How do cables and cooling lines transverse the pressure hull of the International Space Station?
+The International Space Station (ISS) is notable for having large amount of unpressurized equipments on its Integrated Truss Structure (ITS), including the solar panels and the radiators. The electric cable, data cable, and liquid ammonia lines clearly need to transverse the pressure hull at some point. Given the structure of the ITS, my hunch is that the cables somewhere from the S0 truss to the Destiny module. What allows these cables and lines to pass through?

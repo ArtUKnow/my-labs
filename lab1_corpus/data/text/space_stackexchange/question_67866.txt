@@ -1,0 +1,10 @@
+CubeSat subsystem physical integration: alternatives to PC104 for third-party hardware
+What are the practical considerations for physically connecting third-party subsystems to a CubeSat OBC (On-board Computer)? I guess the PC1041 is preferred, but assuming it isn't always practical with 3rd party subsystems? Looking for insights on:
+Best practices for physical interconnections and cabling in the CubeSat form factor
+Connector selection considering vibration and thermal cycling
+Harness routing and strain relief approaches
+Alternatives to PC104 that have been successfully used
+Particularly interested in solutions with flight heritage or qualification testing experience.
+1PC/104 is a standard type of multi-pin, often stackable electrical connector. Because of it's ubiquity and reliability, is commonly used in cubesat On-Board Computers (OBCs) as a compact and reliable way to connect different parts of the satellite’s electronics. It featured 104 pins, which allow the OBC to connect seamlessly with other critical components in the satellite (e.g. power systems, sensors, communications, etc.) See for example Princeton Cubesat Kit (all PC104!), Filip Geib's undergraduate thesis On-board computer for PC104 format CubeSats (22 MB pdf) and PerfecTron's Benefits of StackPC - Expansion Connector (Stackable Computers)
+From Wikipedia's PC/104:
+PC/104 (or PC104) is a family of embedded computer standards which define both form factors and computer buses by the PC/104 Consortium. Its name derives from the 104 pins on the interboard connector (ISA) in the original PC/104 specification and has been retained in subsequent revisions, despite changes to connectors. PC/104 is intended for specialized environments where a small, rugged computer system is required. The standard is modular, and allows consumers to stack together boards from a variety of COTS manufacturers to produce a customized embedded system

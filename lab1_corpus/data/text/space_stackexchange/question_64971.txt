@@ -1,0 +1,3 @@
+To go from LEO to LLO describe a Bi-elliptic/Hohmann transfer burn sequence?
+Being a newbie, I humbly submit the following question :
+How to minimize the energy (in terms of delta-v burns) to transfer a mass of 1 metric ton (1000kg) from Very Low Earth Orbit (say 200km above sea level) to Low Lunar Orbit (say 100km above the moon's surface) using a Hohmann transfer burn sequence (or Bi-elliptic which can supposedly be even more energy efficient)? The idea being to sacrifice the transit time to LLO in order to minimize propellant and engine power even if this requires a very large number of small burns (incrementally enlarging LEO to MEO to GEO and finally reach the equilibrium point where Earth's gravitational pull equals the moon's then slowly cycle down to LLO).

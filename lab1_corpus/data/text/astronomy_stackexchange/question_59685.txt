@@ -1,0 +1,2 @@
+To calculate the temperature of a star, is it assumed that it is a black body?
+I know that a black body is involved to calculate temp, but not if the star is an assumed black body in calculations. If it is, would that make the calculated temperature an approximation or accurate? Also, what would the limitations of this calculation method be?

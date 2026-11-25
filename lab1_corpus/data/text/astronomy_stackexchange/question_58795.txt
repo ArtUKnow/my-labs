@@ -1,0 +1,6 @@
+How to calculate the number of neutrinos during neutron star formation?
+I have come across the following problem in an Astronomy Olympiad:
+Formation of the iron peak elements Fe,Co and Ni by nuclear fusion marks the end of energy production in a star. If the mass of the iron core is greater than the Chandrasekhar mass (1.4 solar masses) the core cannot be supported by the degeneracy pressure of the electrons and will collapse to form a neutron star. Matter is crushed to nuclear densities with protons combining with electrons as p+e→ n + ve. Neutron stars whose masses are not too high are supported by neutron degeneracy pressure against gravitational collapse. The number of neutrinos released, when a neutron star of 1.4 solar masses forms, is approximately?
+My attempt:
+The elements will give an average of 27/56 protons which will turn to neutrons. I have multiplied this with number of neutrons (n=1.4*solar mass/mass of neutron) but that doesn't seem to give any results.
+The correct answer is given: 7.77*10^56

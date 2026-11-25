@@ -1,0 +1,5 @@
+How to calculate the Topocentric Elongation of the Moon?
+I was trying to calculate the Topocentric Crescent Width and I found this answer.
+However, I am missing the Topocentric Elongation, I am using the Java Suncalc Library, so it has many methods for sun moon calculations,
+Assuming the formula in the previous post is correct, how to calculate the Topocentric Elongation?
+thank you,

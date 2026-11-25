@@ -1,0 +1,5 @@
+Where to find detailed information about space mission like Voyager or Galileo
+Is there any place aside from NASA-JPL web page, where there is only some general information about the missions, where one can find more in-depth detailed values?
+For instance, I am looking for the values concerning the gravity-assist maneuvers that Galileo and Voyager did, like incoming-outgoing speeds, turning angle, periapsis radius, eccentricity, etc.
+I can find some of the values in papers and other web pages, but that is not ideal as some of the values are just approximations and some don't even refer the source.
+Is there any official place where real detailed values of missions can be found?

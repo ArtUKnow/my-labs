@@ -1,0 +1,14 @@
+Does Privateer's tracking software Crow's Nest actually offer users something better than the previous state of the art?
+CNN's Steve Wozniak's new venture takes aim at space junk discusses a project with Wozniak, Alex Fielding and Moriba Jah:
+But the money, according to Wozniak's co-founder in this new venture, couldn't be further from the point. "I don't think Steve [Wozniak] gives a damn about making another 10 cents, and I really couldn't care less," Alex Fielding, a longtime business acquaintance of Wozniak's who will serve as CEO of the new venture, called Privateer, told CNN Business.
+Privateer's mission is to develop better tracking of objects in space, and to use this data to help avert disastrous collisions. To aid in this effort, Wozniak and Fielding brought in Moriba Jah, a PhD and orbital mechanics professor who has dedicated most of his life to academia and attempting to raise awareness about the ever-growing threat posed by the proliferation of debris and garbage in outer space. It's a threat that could wipe out satellites that provide communications services to Earth or even bring space travel to a grinding halt. He's led research at the University of Texas. He's appeared at Congressional hearings. He's advocated for change on the world's stage. But Jah told CNN Business recently came to a solemn conclusion: There is not enough funding in academia to develop the technologies he envisions the world needs to combat the space junk issue, he says.
+So, Jah went searching for that funding. And it brought him to Wozniak, the coding savant who co-founded Apple with Steve Jobs.
+Around the world there are several military and civilian agencies that keep track of junk-things in space, and there's lots of software to track it and propagate orbits beyond just the government-issued TLEs.
+Question: Does Privateer's tracking software Crow's Nest actually offer users something better than the previous state of the art?
+Better propagators? AI to catch mis-identified or mis-assigned information? Blockchain verification of debris catalogs? Pull-down menus and a mouse? (humor)
+Related:
+How might one approach using AI (convolutional neural network) to predict collisions in orbit?
+Is it true that 18SPCS is "not really concerned with tracking deep-space debris like" the Chang’e 5-T1 rocket body that hit the Moon?
+How would blockchain be integrated into spaceflight? Have any methods been proposed yet?
+Why exactly did ESA provide a grant funding blockchain in space? Which program was used for the funding? What will this do?
+Project Pluto asks: "Should high-flying space junk be better tracked? Perhaps by an 'official' agency of some sort?" What would it take to implement?

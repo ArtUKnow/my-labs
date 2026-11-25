@@ -1,0 +1,7 @@
+How to speed up REBOUND python simulations on a Jupyter notebook?
+I'm running Python based computational astrophysics simulations on a Jupyter notebook, with the help of a library called REBOUND (also using REBOUNDx), to create a simulation containing the solar system. The code I write runs properly and gives me the expected results. The problem I'm having right now is that if I set the simulation for a few gigayears, it takes at least 8 hours to get the results. Is there any way to optimise my code so that it runs faster?
+The code is written in three files as follows:
+The setup.py file contains the initial conditions and all the objects of the simulation.
+The restart.py file is where the simulation runs and takes an extraordinary amount of time for just 3 objects so this is what I'd like to optimise.
+The follow.py file is where the data from the simulation archive binary file is plotted for analysis.
+I've tried Numba's JIT but it doesn't work because it doesn't work with other libraries or data outside of the function you've applied JIT to. I've also considered paying for more hardware computational power on IDEs such as Google's Colab, but I wanted to check if there's a software trick I can exploit. Please let me know.

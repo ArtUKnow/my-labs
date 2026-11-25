@@ -1,0 +1,20 @@
+Calculating mass expelled from cold gas thrusters
+Consider a cold gas thruster rated at 1 lbf per firing. The thruster is on-off: there is no throttling, so when it fires it's at a constant full thrust. Assume the gas is nitrogen, and that it has a specific impulse of 72 s.
+The thrust force per firing ($F_\texttt{th}$) is the product of mass flow rate ($\dot{m}$), specific impulse ($i_\texttt{sp}$), and standard gravity ($g_\texttt{0}$):
+$$
+F_{\texttt{th}} = \dot{m} \cdot i_{\texttt{sp}} \cdot g_{\texttt{0}},
+$$
+...so it seems I can get the mass flow rate as
+$$
+\dot{m} = \frac{F_\texttt{th}}{i_\texttt{sp}\cdot g_\texttt{0}},
+$$
+which I can integrate (with $F_\texttt{th}$ and therefore $\dot{m}$ as constant) to get the cumulative mass expelled over time:
+$$
+m = \dot{m} \int_{t_\texttt{0}}^{t_\texttt{1}} dt.
+$$
+Firing for 1 s would then expel...
+$$
+m = \frac{1 \hspace{2pt}\texttt{lbf}\cdot\texttt{s}}{73 \hspace{2pt} \texttt{s} \cdot 32.2 \hspace{2pt}\texttt{ft/s}^2} = 4.25\texttt{e-}4 \hspace{3pt} \texttt{lbm}.
+$$
+This would give you 2,350 1-lbf 1-s thrust firings per lbm of nitrogen. That has to be nonsense, right? What stupid thing have I done?
+Update: Corrected units for g0.

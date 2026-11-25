@@ -1,0 +1,9 @@
+In-the-sky.org's simulation of the September 5, 2024 Venus-Moon conjunction seems off, but how, and why?
+By a lucky coincidence I happened to have a great view of the conjunction of Venus and the Moon on September 5, 2024. Once the naughty cloud moved up and the pair moved down, they aligned with a third, terrestrial body - Taipei 101 which is green on Thursdays.
+I noticed that the arrangement does not agree with in-the-sky.org's planetarium prediction. It shows Venus and the Moon at the same elevation above the horizon at 18:45:42 (UTC+08) but my photo at that time shows them with about a 60 degree orientation with respect to horizontal, with the Moon lower and south of Venus.
+The photo was taken from 25.0411 N, 121.61675 E, and I estimate Taipei 101's location to be 25.0341 N, 121.5644 E (both from eyeballing Google Maps).
+It would be great to first double-check that theres a problem with in-the-sky, and then help Dominic out by identifying if it's the Moon's position or the planet's that's off.
+For reference, the thin red lines in the simulation crossing near the Moon are 8° of elevation and 262.5° azimuth, if I've counted correctly.
+For the photogrammetrists out there, these are uncropped iPhone SE2 images (3024 x 4032 pixels) with digital zoom ratios of 2.467 and 5.008 ("naughty cloud", 18:30:51 UTC+08).
+Perhaps the Moon's position is shown for the Earth's Geocenter rather than Earth's surface? It's just a thought.
+What the rest of the "third body" looks like, for reference:

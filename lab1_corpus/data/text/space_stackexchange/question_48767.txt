@@ -1,0 +1,83 @@
+My vector math seems to be off in this 2D simulation of a solar system
+I intend to simulate gravitational acceleration on a 2D plane (simplified, no gravitational constant). My code is interpreted without any error in the console, but instead of having the two circles slowly accelerate towards each other, they go away from each other. Acceleration seems to stay at 0. I can't understand this behaviour.
+// orbiters is gonna be the array containing the two celestial bodies
+var orbiters;
+var sun;
+var earth;
+function setup() {
+frameRate(.3);
+console.log("starting the program")
+createCanvas(640, 480);
+sun = new Orbiter(10, 0, 0, width/2, height/2);
+earth = new Orbiter (1, 0, 0, width/5, height/4);
+orbiters = [sun, earth];
+}
+function draw() {
+console.log("starting the loop")
+background(15, 40, 20);
+// then update position, display position, calculate gravity acceleration for next iteration
+orbiters.forEach(function(celBody) {
+celBody.update();
+})
+orbiters.forEach(function(celBody) {
+celBody.display();
+})
+// for each celestial body, accelerate it towards every other celestial body
+orbiters.forEach(function(celBody){
+orbiters.forEach(function (otherCelBody){
+if(celBody != otherCelBody){
+celBody.gravityAccelerate(otherCelBody.weight, otherCelBody.pos)
+}
+})
+})
+}
+// No volume for now: describe a body with weight, velocity, position
+function Orbiter(weight, vx, vy, posx, posy) {
+this.weight = weight;
+this.pos = createVector(posx, posy);
+this.vel = createVector(vx, vy);
+this.acc = createVector(0, 0);
+//this finds an acceleration and an angle and gives out a vector to accelerate a body by
+this.gravityAccelerate = function(otherBodyWeight, otherBodyPosition) {
+// calculate magnitude of the vector between point a and b (r in the law of attraction where F = G*((m1*m2)/r) )
+gravDistance = sqrt(sq(otherBodyPosition.x - this.pos.x)+sq(otherBodyPosition.y - this.pos.y));
+// calculate angle of the vector above
+gravHeading = createVector(otherBodyPosition.sub(this.pos)).heading();
+// calculate force and divide by own mass(acceleration amount)
+// this should represent the force in a = F/m (Newton's 2nd law)
+gravForce = (this.weight * otherBodyWeight) / gravDistance;
+// calculate gravitational acceleration's magnitude as a vector
+gravAccMag = gravForce / this.weight;
+// apply amount to angle and give a vector,
+// translating the magnitude and direction into a vector
+console.log("gravity acceleration = ")
+gravAccVec = createVector(Math.cos(gravHeading), Math.sin(gravHeading));
+// display gravitational acceleration vector
+console.log(gravAccVec.x);
+console.log(gravAccVec.y);
+console.log("this body's acceleration = ");
+console.log(this.acc.x);
+console.log(this.acc.y);
+// add this vector to the velocity of the celestial body
+this.acc = this.acc.add(gravAccVec);
+console.log("this body's position")
+console.log(this.pos.x)
+console.log(this.pos.x)
+}
+this.update = function() {
+this.vel.add(this.acc);
+this.pos.add(this.vel);
+}
+this.display = function() {
+this.size = sqrt(this.weight * 10);
+fill (60, 180, 70);
+ellipse(this.pos.x, this.pos.y, this.size, this.size);
+}
+}
+I tried lowering the framerate to better analyze the execution, the initial position of the two circles seems correct. They appear to be repulsed away instead of attracted, and what's even stranger, I see the change in position but total acceleration (this.acc) and gravitational acceleration variation (gravAccVec) have a value of 0 and don't change, and the heading of the gravity acceleration vector is null, so I don't understand what causes the repulsive motion. Changing the weight value doesn't impact the outcome, and even switching sine and cosine for the evaluation of the angle of the gravity vector doesn't change anything:
+body1(x,y) body2(x,y)
+320,240 -192,-120
+512,360 -704,-480
+1216,840 -1920,-1320
+3136,2160 -5056,-3480
+To execute this code you'll need to import the p5.js library or paste it in the online p5.js IDE.

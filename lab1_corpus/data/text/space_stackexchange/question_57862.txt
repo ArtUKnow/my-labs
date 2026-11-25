@@ -1,0 +1,7 @@
+Why are unused launch abort rockets jettisoned rather than used to augment thrust?
+Launch abort rockets use powerful rockets. For a pad abort, they must have enough thrust to lift the capsule to an altitude where parachutes can function.
+The Apollo launch escape rocket had a 155,000 lb thrust solid fuel rocket.
+The CST-100 Starliner uses four 40,000lb thrust hypergolic engines. Here is a relevant Wikipedia article about launch escape system.
+The pad abort of Soyuz T-10-1 produced an acceleration of 14 to 17g, propelling the capsule to an altitude of 2000m
+The unused system on Apollo flights was jettisoned after second stage ignition. After the booster had carried the escape rocket to separation altitude, it seems a waste of free thrust to jettison it without burning the rocket.
+Why are unused launch abort rockets jettisoned rather than used to augment thrust?

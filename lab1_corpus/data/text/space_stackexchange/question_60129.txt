@@ -1,0 +1,7 @@
+Does the ISS keep pointing prograde for most of the time?
+I know the solar panels rotate independently, so theoretically there should be no need for keeping the station pointing prograde. It would also be problematic for docking maneuvers.
+But on the other hand I've seen this impact risk heatmap image, which seems to suggest the station spends most of the time travelling in the direction of movement (otherwise the risk would be even across the ship).
+So, is the ISS oriented prograde most of the time? And in case it does,
+Are reaction wheels powerful enough/in a good position for that? Or are RCS thrusters used instead?
+Wouldn't this continuous movement cause a lot of strain on the structural docking ports (the ones connecting the pressurized modules) over time?
+Won't the entire station wobble a lot around its length?

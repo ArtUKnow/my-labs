@@ -1,0 +1,16 @@
+Why not add tracking features to upper stages? Has something like this ever been proposed?
+The identity of the object that will hit the Moon in early March is still uncertain. Some of the story is in Why did we think that the object was gonna hit the Moon March 4th 2022? Who's been tracking and predicting it so closely? and more can be found in this (temporary?) Project Pluto post Corrected identification of object about to hit the moon
+It could have been an asteroid, was then assigned to the DSCOVR mission upper stage, and is now currently assigned to China's Chang'e-5 T1 though apparently there's some pushback from China as well as based on some info from 18SPCS.
+Space.com China says moonbound rocket stage was not from 2014 lunar mission: report
+Space.com Moon mystery: Who launched the rocket that will slam into the lunar far side?
+The Verge China casts doubt on origin of rocket debris about to slam into the Moon
+Question: Why not add tracking features to upper stages? Has something like this ever been proposed?
+Since radar return signal strength drops as $1/r^4$ there needs to be other means to help in tracking and identification.
+Perhaps the following will be helpful, as their signals drop as only $1/r^2$ for things near 1 AU
+a little solar powered beacon gizmos that beep once per second on a specific frequency,
+get some special paint with a unique reflection spectrum, say filled with some iridescent particles that use thin film interference to impose a fingerprint on the reflected sunlight's spectrum. That way any telescope that can pick them up can make a low-dispersion spectral analysis (a simple grating or GRISM somewhere in the optical path in front of the camera, no need for using an external spectrograph.
+See:
+How were "microshutters" or other multiplexed or multi-object techniques first used in Astronomical spectroscopy?
+this answer to What equipment do I need to measure the spectrum of a star?
+above: from here
+See the FieldTestedSystems' YouTube video How to capture star spectra in your backyard

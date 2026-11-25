@@ -1,0 +1,12 @@
+Why are there no Mass Catchers?
+When moving around in space you have to spend delta-v to accelerate and decelerate, which necessitates having an engine and control system. It would follow that a mass "catcher" would be a key piece of space infrastructure to get in place ASAP so that you can just shoot stuff at it. That way you could incrementally build something up much more easily.
+From my understanding of the current state of technology we should be able to set up a "catcher" of some kind as a statite at Earth-Sun or Earth-Moon Lagrange points with some combination of a solar sail and ion thrusters but I can't seem to find any missions to that end.
+Is it because no one wants to actually manufacture things in space or am I missing a key limitation(s)?
+Edit: @cmaster is correct, I should have provided more context and my assumptions.
+Assumption : You want to make a space thing on the cheap.
+The situation I'm envisioning is as follows:
+You want to incrementally build a facility. It's impossible to build all at once so you want to do this over multiple launches.
+The ISS was a full human-crewed facility and govt sponsored so economics were ignored. However (from my understanding) the cheap way to incrementally build a facility is to rideshare each time and pay the minimum per kg for small payloads. It's also ideally fully automated with no pesky humans, and as small as possible. Multiple launches over time also lets you also benefit from launch costs going down as technology improves.
+You'll need to keep feeding it both raw material and new robots, and you'll either get those from future moon/asteroid mining or future Earth launches. In either case every delivery will have to get from the rideshare drop-off/point of extraction to the facility. If you don't have a catcher you have to send delta-v with you from earth at least to decelerate once you reach the construction site.
+Also whenever the future space mining gets underway you're immediately ready to accept raw material deliveries, there's no need for them to send a delivery vehicle of some kind.
+This is the process by which I see actually economical space construction happening in the future. Is this reasonable? If so am I correct in assuming a mass catcher is a logical first step?

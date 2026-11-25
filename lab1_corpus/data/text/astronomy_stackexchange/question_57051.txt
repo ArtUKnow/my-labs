@@ -1,0 +1,5 @@
+Horizons SPK file with a different coordinate center than I asked for
+I am using the JPL horizons app to generate an SPK file for Chiron (ID: 20002060) with respect to the solar system barycenter (ID: 0). However, the generated SPK file says the center is with respect to the sun (ID: 10). What is happening and what is the correct center? I'm assuming the correct center is probably 10, but why is Horizons generating an ephemeris file with a different center than specified on the webapp?
+The Horizons Input
+The Generated Ephemeris
+This is the text after decoding the binary data.

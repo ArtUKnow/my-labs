@@ -1,0 +1,5 @@
+Is this a plot of Isp vs propellant mass fraction for a SSTO vehicle?
+Whilst trying to find some information on SSTO designs, I came across this chart:
+It was used in an ancient forum thread by as part of an SSTO discussion, but the poster didn't cite the paper they'd taken it from. I got as far as identifying that RBCC meant rocket-based combined cycle, but that was about it.
+So. Does this really show Isp vs propellant fraction required for an SSTO, or was the original poster misinformed? (and so what is it showing?)
+It would also be nice to know if that line should be straight, or at least curved in only one direction, and if anyone any idea what paper the plot was taken from I'd like to know.

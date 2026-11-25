@@ -1,0 +1,2 @@
+What is the relationship between delta v and the time taken to reach a destination?
+I understand that higher energy trajectories are able to reach destinations in a more timely manner but what is the relationship is it linear or exponential or slower than linear in the delta v cost of shaving off travel time? Assuming no gravity assists.

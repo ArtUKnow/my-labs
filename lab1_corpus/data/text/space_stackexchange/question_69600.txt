@@ -1,0 +1,4 @@
+Would it be cheaper to single-shot space stations with purpose-built expendable rockets?
+I just did the math, and realized that the cost per kg ($200,000).of the ISS was much higher than any launch vehicle. Meaning that, even under the highly unfavorable conditions that prevailed (shuttle, Russian expendables) launch costs were still a fraction of a fraction of the total cost.
+A Google Search suggests that development and launch of the Sea Dragon would cost less than a third of the cost of the ISS.
+An all-up launch could eliminate mass and expense by simplifying and speeding up the station and it's assembly.

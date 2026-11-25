@@ -1,0 +1,6 @@
+How (the heck) is it possible that with China's future 6G satellite network I'll be able to download 1000 movies per second?
+The reasonably credible Wall Street Journal has a YouTube channel and the new video SpaceX vs. China: The Quest for Satellite Internet | WSJ says that with Starlink's data rate I can download a 1 Gb movie in (roughly) 10 seconds.
+It then goes on to talk about China's plan to implement a constellation of 6G satellites (10,000 of them I think) that can provide a Terabit per second; 1000 movies in 1 second!
+I think that I have heard of short range (few meters) RF or wired technologies that can do this, and of course in optical fibers with fancy modulation schemes, polarizations, and many wavelengths, single fiber speeds can reach close to 1 Terabit per second over useful distances, and that's because 1.5 micron wavelength light has a frequency of about 200 THz, they're only using a small bit of the possible bandwidth where the wavelength dispersion is low for the best long-haul single mode fiber.
+But from LEO to me through Earth's atmosphere and weather, how will I be able to download one thousand movies per second from a satellite constellation. How does this work exactly?
+Question: How (the heck) is it possible that with China's future 6G satellite network I'll be able to download 1000 movies per second?

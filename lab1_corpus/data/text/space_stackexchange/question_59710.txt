@@ -1,0 +1,5 @@
+How do satellite operators negotiate when a collision avoidance measure is necessary?
+In another question I asked How often do active satellites have to change course to avoid other active satellites?.
+The idea behind the question was to understand which party is actively avoiding collisions and whether there are strategic decisions at play.
+My question now is, in the event that both spacecraft are able to maneuver, how do satellite operators negotiate which satellite will conduct an avoidance maneuver? Do they wait for the other party to make the first move, e.g., by avoiding communications or something similar, in order to benefit from not having to spend fuel/do other costly maneuvers?
+Or are all satellite operators super cooperative and likely to discuss and simply try to find the easiest way possible to reduce collision probabilities? Or would they bargain for a deal in these cases? Is political pressure applied often?

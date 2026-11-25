@@ -1,0 +1,36 @@
+"Hohmann-Like" and Chemical / Electric Thrust Comparison
+Part of the work I have to do for my degree is to perform a "Hohmann-like" transfer between Earth and Mercury, of which I believe I have accomplished. I have attempted numerous times to confirm that it is "Hohmann-like" with the Professor with no reply, which I find rather vague and my worst nightmare is to get to the Mission Summery presentation and find out it is not in fact "Hohmann-like".
+A conformation would be a great relief.
+Secondly, I done the transfer with both chemical thrusters and electrical. I expected that the Delta V of the electrical thruster would be significantly lower but apparently this was not the case. Shown below:
+Chemical Maneuver Summary
+-----------------
+Impulsive Burn: TCM
+Spacecraft: DefaultSC
+Origin: Earth
+Axes: VNB
+Delta V Vector:
+Element 1: -15.391902348528 km/s
+Element 2: -0.0012308398803 km/s
+Element 3: -4.4865567022084 km/s
+Mass depletion from MainTank:
+Delta V: 16.032462395518 km/s
+Isp: 300.00000000000 s
+Mass change: -4398.9744517915 kg
+Electrical Maneuver Summary
+-----------------
+Impulsive Burn: TCM
+Spacecraft: DefaultSC
+Origin: Earth
+Axes: VNB
+Delta V Vector:
+Element 1: -8.7407066088320 km/s
+Element 2: -0.0007028275620 km/s
+Element 3: -6.8141580876057 km/s
+Mass depletion from ElectricTank1:
+Delta V: 11.082991606896 km/s
+Isp: 4200.0000000000 s
+Mass change: -815.09870601026 kg
+[I have gotten rid of a propagation sequence that I realised did nothing. This explains the difference in the image and the data]
+This leaves me under the impression that I have done something wrong. What am I missing?
+Thank you.
+Mission sequence:

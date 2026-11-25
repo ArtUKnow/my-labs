@@ -1,0 +1,9 @@
+TLE along track error to miss a contact opportunity in UHF
+Update: (following @GregMiller's comment):
+Lets suppose a spacecraft has performed a boost and not all ground stations received the update, lets suppose the difference between the pre and post maneuver TLEs adds up to 100 km/d, in 48 hours the pre and post objects would have diverged by 200 km (nearly 27 sec alongtrack diff).
+If a ground station is trying to contact the object at the pre-maneuver position with a UHF antenna, would that be possible?
+Original question:
+I'm not versed in ground-station<->spacecraft communication so maybe the question is not clear, but let's suppose we have a spacecraft in LEO, circa 500 km mean height, and that we need to decide whether a TLE source is old enough to discard it or not.
+How many km along-track difference with a new TLE would be enough to "miss" a contact using a UHF antenna?
+Is it related directly with the frequency? How about then for VHF or S Band?
+If it's related to other parameters of the antenna such as half power beam-width could you provide an example to depict regular figures?

@@ -1,0 +1,7 @@
+Delta-v to hit the moon: is reaching Lunar L1 enough?
+Lot of questions involve shooting things into the Sun. But there are no aliens on the Sun: they are on the Moon. I want to drop things on them, but since there's lot of them, I can just drop a tungsten rod anywhere on the Moon and that's good enough. But how much delta-v does one need to just hit the Moon (as opposed to orbiting or landing).
+The Wikipedia page on delta-v budgets indicates that the delta-v to reach Earth-Moon L1 from LEO is modest: about 0.77km/s*
+Now, from my understanding of the Langrange points, all you need to do is ''just'' tip over the "saddle" of the L1 point and you'll fall into the Moon (and if you fall just short, it's a slow spiral back to Earth).
+The Lagrange points for the Earth-moon system. Credit: David A. Kring, LPI-JSC Center for Lunar Science and Exploration
+Is it that simple: the minimum delta-v to hit the Moon is to get to L1 and then just tip over the lip? And does that apply to any two-body system?
+* Let's assume it's right despite the [Citation needed]

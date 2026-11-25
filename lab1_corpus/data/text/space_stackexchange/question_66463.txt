@@ -1,0 +1,2 @@
+Satellite slew rate with respect to a ground station
+For a given satellite orbit and observation time, I have the vectors containing the elevation and azimuth angles of the satellite with respect to a ground station. I know that the elevation slew rate is the derivative of the elevation over time, while the azimuth slew rate is the derivative of the azimuth over time. I would like to compute a "total" slew rate, but I don't know how to do it. I would really appreciate your help.

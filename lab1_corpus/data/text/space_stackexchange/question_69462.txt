@@ -1,0 +1,6 @@
+Is there ever any reason for a satellite to point its thrusters and burn towards or away from earth?
+I encountered this question:
+What is the fate of Krypton exhaust from Starlink thrusters?
+Where a commenter points out that the exhaust velocity of krypton on the Starlink ion thrusters is above earth escape velocity, so the only time krypton would reenter the atmosphere would be if the thruster was pointed towards earth.
+This got me thinking. Is there ever an actual reason to perform a burn in the radial direction? (i.e. towards or away from the centre of the object you are orbiting)
+Thinking back on when I used to play Kerbal Space Program, I would only ever perform burns prograde/retrograde for Hohmann transfers and orbital radius changes, and in the transverse direction for inclination changes.

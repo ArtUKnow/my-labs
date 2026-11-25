@@ -1,0 +1,5 @@
+How reflective can laser sail coatings be?
+A recent post mentions that laser sails, in contrast to solar sails, can cherry-pick coatings that are near-perfect reflectors in narrow frequency ranges.
+But how good is "near-perfect"?
+Looking for highly reflective coatings, dielectric mirrors show up a lot, offering five 9s of reflectivity for narrow frequency ranges. But I have no idea if this is something that can be used for sails.
+How reflective can sail coatings be when considering constraints like sail manufacturing and practical frequencies for lasers?

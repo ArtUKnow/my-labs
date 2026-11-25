@@ -1,0 +1,3 @@
+Cause for Artemis Spacecraft bumpy surface
+I watched NASA's YT transmission (TL code 04:06:30) of the launch and I noticed a bumpy surface on the middle section while it deployed the Solar arrays and shortly before separation of the mid-section. Can you explain, what happened to the surface of the spacecraft? Was it burned mildly like when you try to peel of coating with a heat gun?
+Image shows: YT Transmission Detail enhanced with GIMP and using Filter Unsharp Mask.

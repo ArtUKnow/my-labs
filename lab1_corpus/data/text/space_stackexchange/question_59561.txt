@@ -1,0 +1,2 @@
+Why does the Falcon 9 first stage continue to decelerate after its reentry engine burnout?
+As you know, Space X streams its missions and the speed and altitude data of the vehicle is shown. After stage separation, stage one gains speed and accelerates in its decent trajectory till reentry engine burn. With its engine on, it is obvious that the vehicle decelerates, but after engine burn out, it still loses speed and decelerates until the landing burn. Why does this happen? I expected the vehicle to accelerate after reentry burn out due to gravity.

@@ -1,0 +1,13 @@
+Problem on setting of sun
+I came across this question from the book "A Problem book in Astronomy and Astrophysics by Aniket Sule":
+At Brazil’s National Observatory, located at the city of Rio de Janeiro
+$(22^◦54′ S, 43^◦12′ W)$, there is a sundial above the door of the dome
+of the $32$ cm telescope, facing to the north. The dial lies on the plane
+East-Zenith-West and the rod is parallel to the Earth’s axis. For which
+declinations of the sun and during what period of the year (months and
+seasons) the clock (i) does not work during, at least, some fraction of
+the day? and (ii) does not work at all during the day? (I12 - T01 - B)
+I thought that for (i) the upper culmination should be greater than $90^◦$ (i.e., it must culminate north of zenith) since the Sun must pass through the meridian atleast once so that the shadow become zero on the sundial, plugging the values (according to the southern hemisphere convection):-
+$H_u = 90^◦ - \phi + \delta \geq 90^◦$
+$\delta \geq \phi$
+comparing my answers, it seems I am going fundamentally wrong somewhere, and this does explain why I can't get how to solve (ii).

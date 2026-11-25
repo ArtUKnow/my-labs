@@ -1,0 +1,2 @@
+Is the momentum thrust of a liquid rocket engine in a static test fire the same as in flight?
+Assuming vacuum exit conditions are matched by means of a suitable ejector mechanism, is the exhaust velocity of combustion products relative to static engine the same as that of a flying rocket engine?

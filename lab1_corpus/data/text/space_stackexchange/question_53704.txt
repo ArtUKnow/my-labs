@@ -1,0 +1,2 @@
+Can ESA control the two Voyager spacecraft?
+This is such a dumb question. There are many space organizations. Let's take ESA for this case. Given the two Voyager spacecraft are transmitting a weak radio signal to the Earth, can ESA command and receive those signals and later calculate the location of the spacecraft and get data of thermoelectric generator conditions, others, etc. independently without the help of NASA, or is there some form of signal encryption that would require ESA to undertake certain action? Provided that ESA can use the Deep Space Network?

@@ -1,0 +1,6 @@
+Could the Space Shuttle launch with two engines?
+In a movie, they need to launch the Space Shuttle, but one engine is not ready to go in time, so they decide to launch with the booster and two of the shuttle's engines - Could the shuttle Launch with two engines?
+I know that the boosters provide 85% of the Space Shuttle's thrust at liftoff and for the first two minutes of ascent. The Shuttle engines burn for 8.5 minutes.
+Each Space Shuttle Main Engine [..] produce a sea-level thrust of 179,097 kilograms (375,000 pounds) and a vacuum thrust of 213,188 (470,000 pounds).
+The engines can be throttled over a thrust range of 65 percent to 109 percent.
+But I really can't find much more information than that, the Shuttle must be providing the 15% from its 3 engines - so each would be 5%, right? (Is it not that simple..) I am curious if corrections for lack of that 3rd engine would be possible, of course, it seems like that would not be the case, or they would have designed it with two engines.

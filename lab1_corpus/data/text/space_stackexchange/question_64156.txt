@@ -1,0 +1,2 @@
+SpaceX Starship refueling in Mars orbit
+I was wondering if the propellant required to leave Earth orbit, accelerate to Mars' orbital velocity and then perform orbital insertion will leave the starship with enough propellant to perform a safe landing. I am confused that I have read that Mars’ atmosphere is substantial enough not to ignore, but not substantial enough for effective aerobraking. Are there any “worst case scenario” plans for even partial refueling in Mars orbit before EDL? Refuelers in Earth-Mars Hohmann transfer orbit perhaps?

@@ -1,0 +1,9 @@
+Radial hyperbolic trajectories
+Wikipedia informs me that
+In astrodynamics and celestial mechanics a radial trajectory is a Kepler orbit with zero angular momentum. Two objects in a radial trajectory move directly towards or away from each other in a straight line.
+and further states that a radial hyperbolic orbit is
+a non-periodic orbit where the relative speed of the two objects always exceeds the escape velocity.
+which seems straightforward enough. It then goes on to provide a slightly dubious equation for the time taken to for the objects to reach a given separation:
+$$t( x, w ) = \frac{ \sqrt{ (|w|x)^2 + |w|x} - \ln\left(\sqrt{|w|x} + \sqrt{1 + |w|x}\right) }{ \sqrt{2\mu \, |w|^3} }$$
+where $x$ is the separation and $w$ is a negative magic number defined elsewhere in the article. Unfortunately, this equation seems incorrect (what are the units for $(|w|x)^2 + |w|x$, for example?), and the article doesn't cite a source. I can't seem to find any source for a correct version of the equation, and I've been unable to find anything else relevant for radial hyperbolic orbits, rather than the regular kind.
+Can anyone tell me what the correct form of this equation is? Or alternatively, that it is perfectly fine as it is and I'm just holding it wrong?

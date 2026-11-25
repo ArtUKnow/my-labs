@@ -1,0 +1,54 @@
+What is MAHLI's theoretical or expected best optical resolution? How was it defined? Was it verified on Mars?
+The block quote in this answer to Has Curiosity ever taken a good hard look at the dirt covering its top surface? Can it? Have individual particles been sized? says that at a focus distance of 2.5 centimeters the scale of MAHLI images is only 16 microns per pixel.
+That does not mean of course that the optical resolution of the entire system is that small.
+And "optical resolution" is a soft concept unless a particular test and metric is defined.
+One way folks get around that is to show a modulation transfer function or MTF plot and extract some metrics from it. (Optical transfer function (OTF) includes wavefront distortion and other phase effects and is hard to measure. MTF is easier to measure and to understand since it comes from intensity and phase is lost. You can extract MTF from an image.)
+Question: What is MAHLI's theoretical or expected best optical resolution? How was it defined? Was it verified on Mars?
+Presumably the best resolution was at or near the closest distance at which it could focus, and perhaps only in the center of the field of view.
+For fun and because I should be doing something else and need to procrastinate, here are a few random MAHLI images and their Fourier transforms. The 1D plots are not MTFs, but only ad hoc histograms of power vs magnitude of spatial frequency.
+If the original images contain a fairly flat spatial spectrum extending well sub-resolution, they will then be somewhat suggestive of what the MFT might look like.
+import numpy as np
+import matplotlib.pyplot as plt
+from glob import glob
+from PIL import Image
+# from skimage.color import rgb2gray, rgba2rgb # convert to gray "correct" way
+fnames = glob('_mars.nasa.gov_msl-raw-images_msss_*.jpg')
+images = [Image.open(fname).convert('L') for fname in fnames]
+images = [np.frombuffer(image.tobytes(), dtype=np.uint8).reshape(*image.size[::-1]) for image in images]
+if False:
+for fname, image in zip(fnames, images):
+plt.imshow(image, cmap='gray')
+plt.title(fname)
+plt.show()
+fig, axes = plt.subplots(5, 3)
+fig.subplots_adjust(bottom=0.05, top=0.95)
+for fname, image, (ax1, ax2, ax3) in zip(fnames, images, axes):
+s0, s1 = image.shape
+w = np.hanning(s1) * np.hanning(s0)[:, None]
+ft = np.fft.fftshift(np.fft.fft2(w * (image - image.mean())))
+p = np.abs(ft)**2
+lp = np.log10(p/p.max())
+freqy, freqx = [np.fft.fftshift(np.fft.fftfreq(s)) for s in image.shape]
+extent_ft = [freqx[0], freqx[-1], freqy[0], freqy[-1]]
+freq2Dy, freq2Dx = np.meshgrid(freqy, freqx)
+freq2D = np.sqrt(freq2Dx**2 + freq2Dy**2)
+freqs = np.rint(1000 * freq2D.flatten()).astype(int)
+powers = p.flatten()
+spectrum = np.zeros(1001)
+for freq, power in zip(freqs, powers):
+spectrum[freq] += power
+print(freq2D.max(), freq2D.min())
+ax1.imshow(image, cmap='gray')
+ax2.imshow(lp, extent=extent_ft, vmin=-7)
+ax3.plot(np.arange(500) / 1000, spectrum[:500], linewidth=0.5)
+ax3.set_yscale('log')
+if fname is fnames[0]:
+ax1.set_title('image')
+ax2.set_title('FT log power')
+ax3.set_title('power spectrum')
+if fname is fnames[-1]:
+ax3.set_xlabel('frequency (pixel^-1)')
+(ymin, ymax), (xmin, xmax) = ax3.get_ylim(), ax3.get_xlim()
+hwr = (ymax - ymin) / (xmax - xmin)
+ax3.set_aspect(100/1000.)
+plt.show()

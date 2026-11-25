@@ -1,0 +1,4 @@
+At what point on the Earth's surface does the +X axes of the J2000 coordinate system intersect?
+From my newly and developing understanding of the J2000 coordinate system it is defined as the point at which the sun appears to cross the celestial equator from the Southern to the Northern hemisphere at noon on January 1, 2000. This is the vernal equinox in the image below of the celestial sphere.
+(Wikipedia Image Reference)
+Say for example the celestial sphere in the image above was taken at the exact moment of the J2000 epoch. If it even makes sense to ask, at what point on the Earth does the +X axis of the J2000 coordinate frame intersect the Earth's surface?

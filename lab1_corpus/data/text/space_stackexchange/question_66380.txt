@@ -1,0 +1,6 @@
+Does increased thermal emissivity decrease the effectiveness of a solar sail?
+I am aware that increased emissivity in solar sails aids with heat reduction, however, I have done some research and found that the emissivity decreases the trajectory of the solar sail through the negative force. The research I have completed has denoted that the aluminum side of the solar sail (the reflective side) has a high solar and thermal reflectivity, a low thermal emissivity and low solar absorption. However, the Chromium/CP1 polyimide/Polyethylene terephthalate (PET) side of the sail has values closer to the middle ground for the above thermo-optical factors.
+I would like to know 2 things:
+Does a higher thermal emissivity on the Cr/CP1/PET side decrease the speed of the solar sail as there is a negative force applied?
+How does the high solar and thermal reflectivity from the Cr/CP1/PET affect the speed of the sail?
+How does the solar absorption of the Cr/CP1/PET affect the speed of the sail?

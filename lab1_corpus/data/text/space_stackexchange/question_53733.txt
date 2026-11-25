@@ -1,0 +1,3 @@
+If building a liquid propellant rocket engine, with bi propellants, how does the dimensions of my Combustion chamber, affect the efficiency?
+If building a liquid propellant rocket engine, with bi propellants, how does the dimensions of my Combustion chamber, affect the efficiency ?
+but also what is the best C* dimensions for an earth sea level engine ?

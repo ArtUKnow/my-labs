@@ -1,0 +1,3 @@
+Did the flare stacks at LC39 have pilot lights?
+The liquid hydrogen fuel in the space shuttles would slowly boil off, while they waited on the launch pad at Kennedy Space Center launch complex 39A or 39B. The hydrogen vapors were removed by the hydrogen vent arm, and then burned in a flare stack.
+How were these flare stacks ignited? Did they simply keep a pilot light going while a fueled vehicle was present? Some kind of sparker that only activated when hydrogen gas was detected?

@@ -1,0 +1,3 @@
+What is the cause of the horizontal drift in the ascend path of the Starship and other rockets?
+As can be seen in the available videos on-line and in the following picture, as the rocket ascends, a horizontal drift in its path can be seen. I have forgotten the calculation of the Coriolis effect since many years has passed, but I guess that the Coriolis effect in this range would be negligible. Am I right? If so, what is the cause of this horizontal shift? Is it intentional or caused by wind, etc.?
+Image borrowed from: https://www.jackbeyer.com/digital/sn10compdigital8

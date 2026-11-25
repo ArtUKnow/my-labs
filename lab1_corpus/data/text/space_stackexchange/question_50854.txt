@@ -1,0 +1,9 @@
+When the Mars 2020 and Mars Science Laboratory missions were in deep space, what antennas did they have available to communicate with Earth?
+This thorough answer to Did the Curiosity and Perseverance rover brains do the driving from Earth to Mars? explains that during deep space flight the rovers' computers were doing most of the thinking even though they were clamshelled inside several outer structures. They communicated with all the sensor and thruster systems via cables that was cut when the rovers were dangling from the skycrane just above the surface of Mars.
+During the deep space flight between Earth and Mars the spacecrafts communicated regularly with Earth for tracking, spacecraft health and potential trajectory correction instructions.
+If the antennas were medium and especially high gain they would have to be pointed somehow towards Earth.
+At the same time there were solar panels (not shown in the image below for some reason) that would have to be oriented roughly sunward.
+For the three spacecraft now on their way to Mars plus ExoMars, how many have any solar power capability during transit?
+Also, I don't know how often (if ever) were put into a roll for spin stabilization.
+Question: When the Mars 2020 and Mars Science Laboratory missions were in deep space, what antennas did they have available on the outside of the spacecraft to communicate with Earth? Were they high gain, directional antennas requiring the spacecraft to maneuver and point towards Earth?
+From this answer to Where does MSL end and Curiosity begin?:

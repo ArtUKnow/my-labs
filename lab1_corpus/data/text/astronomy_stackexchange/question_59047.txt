@@ -1,0 +1,9 @@
+Surface flux in a specific direction: why is specific intensity in other directions allowed to contribute?
+I'm working with sections 2.3-2.4 in Sara Seager's Exoplanet Atmospheres. The book has these following definitions:
+Specific Intensity $I(\vec x, \hat n, \nu, t)$: $dE(\nu, t) = I(\vec x, \hat n, \nu, t)\hat n\cdot \hat k d\Omega dA d\nu dt$
+Flux: $\vec{F}(\vec x, \nu, t) = \int_\Omega I(\vec x, \hat n, \nu, t)\hat n d\Omega$
+Flux in a specific direction: $F_k(\vec x, \nu, t)=\int_\Omega I(\vec x, \hat n, \nu, t)\hat n\cdot \hat k d\Omega$. The book says that with this $F_k$ 'we are essentially describing the energy flow in one direction'.
+My question lies with the last definition. Saying 'flux in a specific direction' is a bit like saying 'mass at a specific point,'. It doesn't make sense to me. Flux is an integration of specific intensity over a solid angle and thus cannot be ascribed to a single 'direction' (just as it's only possible to ascribe a density but not mass value to a point.)
+And I don't get the integration either. Say we have an observer looking at a specific surface element $dA$ on a distant planet, and the direction connecting $dA$ with the observer is $\vec k$. Then any beam of radiation with pointing $\hat n \ne \hat k$ would simply miss our observer and should not impact the flux in the observer's direction. Yet the textbook definition $F_k(\vec x, \nu, t)=\int_\Omega I(\vec x, \hat n, \nu, t)\hat n\cdot \hat k d\Omega$ indicates these mispointing beams are also contributing as well, except with a $\hat n\cdot \hat k$ projection factor. Say there's a beam pointing 60$^\circ$ away from the observer, and somehow the observer still get to see half of that energy...???
+If you ask me I'd say flux in a specific direction is $F_k(\vec x, \nu, t)=\int_{\Omega Telescope} I(\vec x, \hat n, \nu, t)d\Omega$.
+What am I getting wrong at the meaning of $F_k$? The textbook's context is included here for sake of completeness.

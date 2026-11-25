@@ -1,0 +1,8 @@
+How to determine the law of plotting?
+In the book on the calculation of Dobrovolsky's rocket engines, there is a graph according to which Xa counts. But is there a dependency on which this graph was built so that I can write code to accurately determine it.
+Pages 46 - 49:
+Dobrovolsky's
+UPD:
+Ra - radius on the nozzle section
+Rкр - the radius of the critical section of the nozzle
+Xa - the length of the nozzle outlet

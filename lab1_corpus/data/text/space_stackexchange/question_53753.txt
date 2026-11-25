@@ -1,0 +1,5 @@
+How many existing satellites have a continuously varying orbit because of human design decisions?
+In the space community, there is an assumption that changes to an Earth satellite's orbit are infrequent (other than those due to atmospheric drag). Are there any known satellites designed to continuously change their orbits using solar sails or another inexpensive propulsion method?
+By continuous, I do not refer to "station-keeping" maneuvers which are in fact designed to maintain a specific orbit. I refer instead to satellites which purposely change their orbits continuously, by design.
+EDIT: By satellite, I mean an earth-orbiting object designed to avoid atmospheric re-entry for multiple years, doing something besides just adjusting its orbit during that time (i.e., its purpose is more than just to demonstrate the feasibility of a continuously changing orbit).
+EDIT: Title changed to "How many existing satellites have a continuously varying orbit because of human design decisions?"

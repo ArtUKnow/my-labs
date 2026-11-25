@@ -1,0 +1,10 @@
+Have things been intentionally welded in space? If so, what kinds of metals and techniques were used, and why was it necessary?
+There are several very different kinds of welding techniques used in aerospace to join pieces of metal and/or to fill small gaps (e.g. arc, TIG, friction stir, ultrasonic...)
+Question(s):
+Have things been intentionally welded in space?
+If so, what kinds of metals and techniques were used?
+Why was space-welding necessary or so advantageous that something so nonstandard was selected?
+How successful was the attempt? Were the welded joints reliable?
+notes:
+"Intentionally" excludes unintentional cold welding because we have plenty of questions about that issue https://space.stackexchange.com/search?q=cold+welding and I'm asking about attachment and/or gap-filling tasks that need to be accomplished.
+I'm also excluding any form of soldering.

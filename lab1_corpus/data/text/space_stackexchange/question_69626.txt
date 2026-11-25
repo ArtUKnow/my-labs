@@ -1,0 +1,4 @@
+Why exactly do full-flow rocket engine's turbopumps run cooler?
+Wikipedia's Staged combustion cycle; Full-flow staged combustion cycle states that
+Benefits of the full-flow staged combustion cycle include turbines that run cooler and at lower pressure, due to increased mass flow.
+Why can't we just increase mass flow of the fuel/oxidizer rich preburner to operate at lower temperatures?

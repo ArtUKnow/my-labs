@@ -1,0 +1,2 @@
+Would we know if the universe was rotating?
+I was wondering what we would observe if the universe had a small rotation. My conclusion was that galaxies on the equatorial plane of the universe would be slightly more redshifted than galaxies than polar galaxies. Has anyone ever looked for a directional anisotropic redshift effect? If there was such an effect, sky surveys of Hubble redshift would be a bit messed up if they contained data from random directions that did not take this effect into account.

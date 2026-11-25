@@ -1,0 +1,6 @@
+What is the minimal energy associated with detectable change in the CMB?
+I'm trying to figure out the question and have estimates of less than 1 meV photon energy and 0.3 mK detector sensitivity. Are these numbers correct?
+This isn't homework. Just want to check.
+https://arxiv-org.ezproxy.obspm.fr/abs/astro-ph/0502549
+https://idpasc.lip.pt/uploads/talk/file/197/CMB_Det_MPiat.pdf#2#1
+Edit: Thursday 2, 2026. I'm helping someone figure out some back of the envelope calculations. One of the things is putting a delta Energy on the CMB for a bound on delta t. We need experimental or theoretical bound on it. Doesn't have to be absolutely rigorous.

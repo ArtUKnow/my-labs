@@ -1,0 +1,4 @@
+Have astronauts ever used the helmet-to-helmet technique to talk to one another in vacuum?
+Science Fiction has long written about this communication technique in vacuum: Astronauts touch their helmet against another astronaut's helmet, so that sound will transmit through that physical connection and they can to talk to each other without needing electronic communication devices (Example screencap from The Expanse). But is there a source that real astronauts have ever done this?
+Googling "astronauts touching helmets" and "astronaut helmet-to-helmet" mostly yields verifications that it is indeed possible. The only real world mention I could find is from the US Navy diving manual: "The two divers need only touch helmets to talk with each other".
+Edit: To clarify why I asked: Multiple Redditors claimed that this has happened in real life, but of course this is all hearsay: Comment 1, Comment 2

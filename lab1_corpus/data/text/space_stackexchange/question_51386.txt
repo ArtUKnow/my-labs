@@ -1,0 +1,11 @@
+Did or do space station engineers need to worry about angular momentum stored in circulating fluids?
+One of the ISS' main uses is to provide a long duration microgravity environment for a wide variety of experiments. For some experiments residual acceleration needs to be much smaller than average.
+This answer to How much electrical energy is required to dissipate heat? states:
+What costs energy in a cooling system is moving fluid around. In the case of the ISS, it's around 7.5tons per hour.
+That's one figure for one particular fluid system.
+Fluid systems are loops, and while they could be routed like power DC power aboard a spacecraft with "supply" and "return" lines always immediately adjacent, they could also potentially be routed in very large space-station-sized loops.
+If so, the mass flow would have an angular momentum that could potentially be significant in some microgravity acceleration budget scenarios.
+I'm thinking of the angular momentum in the tape recorder in Voyager for example.
+Did the designers of Voyager neglect the angular momentum of the tape recorders?
+Voyager 1's tape recorder and other angular momentum management issues
+Question: Did or do space station engineers need to worry about angular momentum stored in circulating fluids? Was anything done during the design phase to address it, or does it show up in some issues during operation?

@@ -1,0 +1,7 @@
+Modeling a rocket using Tsiolkovsky's equation and ordinary differential equations
+So I have this uni assignment to make a model out of ODEs, and my idea was to use rockets. After some research I found about Tsiolkovsky's equation and tried using it on a Falcon 9 (disconsidering gravity and drag for now). However, my calculations always return a speed smaller than the real one, which means the gravity/drag thing isn't the problem. For reference, I'm using this for data (the Falcon 9 v1.1 bit, page 9), which gives me, at first stage separation:
+$$
+\Delta v = 282\times9.81\times ln(\frac{439+78+6}{28+78+6})\rightarrow4383m/s
+$$
+Which is nowhere near the speed the rocket has here near the stage separation. I know the first stage mass isn't dry by the end, but considering that, the results would be even farther. I've also considered the dragon shuttle's mass.
+What I would like to know is if my mistake is in the model I'm using or the data. All help is welcome.

@@ -1,0 +1,3 @@
+What would be the advantages and disadvantages of a LEO Earth observation satellite, carrying both Electro optical and SAR payload be?
+An Indian startup, is trying to build a multi- payload satellite having both optical and SAR sensor on the same satellite. The look angles of the these payload are quite different and it is very difficult. Although the images/ data captured from these sensors would have the same temporal resolution, the optical spatial resolution would be heavily downgraded and it would not be possible to fuse the date sets and obtain analytics.
+Many potential users think, that it is a great idea, but why there must be a reason, why other nations have not put this idea to work.

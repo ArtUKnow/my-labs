@@ -1,0 +1,6 @@
+Why is the absolute magnitude of Venus only slightly dimmer than its peak apparent magnitude?
+In the Wikipedia article for Venus, I realized the planet's absolute magnitude is -4.4 which is only slightly dimmer than its peak apparent magnitude of -4.92.
+Why? The apparent magnitude denotes the planet's visual brightness as seen from Earth (a distance of about 42,000,000 km here), while the absolute magnitude denotes its brightness if it was in a distance of 10 parsecs (32.67 light-years).
+Well, since Venus is a planet and doesn't have light on its own it shouldn't get far to that distance so that we find its absolute magnitude. It should remain in its position around the Sun. It is the Earth -including us- that should get away for more than 32 light-years. Okay we will die, but it's just an awkward scenario for the calculation.
+But even if Venus remains close to the Sun and we get far away that much, it still sounds unrealistic to me that the magnitude drops only by 0.52 compared to the peak apparent magnitude. For a more comparison, Neptune which is bigger than Venus and closer than 10 pc has a very dim magnitude.
+Also, I think the absolute magnitude ahould in fact be dimmer than the lowest apparent magnitude, which means it should be dimmer than -2.98. Why not?

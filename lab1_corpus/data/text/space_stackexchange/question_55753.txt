@@ -1,0 +1,3 @@
+What are the operational details of the Canadarm Latching End Effectors?
+There are numerous pictures of grapple fixtures and LEE available. I can appreciate how the wire snare works to snare the center pin of the grapple. But I’m foggy on how the location cam/arm assemblies are captured and locked, or how loads are transmitted.
+Any good drawings or animations?

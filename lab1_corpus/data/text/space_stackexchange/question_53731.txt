@@ -1,0 +1,83 @@
+Why did the space shuttle's altitude go down after reaching 108,000m?
+I recently took a look at this little data sheet by NASA: Math and Science @ Work; Space Shuttle Ascent
+Time
+Altitude
+Velocity
+Acceleration
+Comment
+(s)
+(m)
+(m/s)
+(m/s^2)
+20
+1244
+139
+18.62
+40
+5377
+298
+16.37
+…
+…
+…
+…
+280
+105321
+2651
+13.92
+300
+107449
+2915
+14.90
+320
+108619
+3203
+15.97
+340
+108942
+3516
+17.15
+maximum altitude
+360
+108543
+3860
+18.62
+380
+107690
+4216
+20.29
+400
+106539
+4630
+22.34
+420
+105142
+5092
+24.89
+440
+103775
+5612
+28.03
+460
+102807
+6184
+29.01
+480
+102552
+6760
+29.30
+maximum acceleration
+500
+103297
+7327
+29.01
+520
+105069
+7581
+0.10
+original screenshot
+Note: Notice from the table that the altitude was negative at liftoff. Zero altitude can be described as a specific distance from the center of the Earth. Since the Earth is not perfectly spherical the location of the launch just happens to be below this specified point. Also, because this is a calculated number, some degree of error may be present.
+As you can see, as time passes, the velocity and altitude of the rocket went up exponentially. [CORRECTION: I was mistaking this data for something else. The vel/alt does NOT go up exponentially, sorry about that!]
+However, why did the altitude stop increasing after reaching 108,000m, and then decrease after that?
+Also, why was the acceleration rate inconsistent throughout the takeoff? Why was it the highest when the altitude was decreasing?
+Thank you, I'm working on a project related to the Rocket Equation and am wondering if this is worth mentioning in said project. :)

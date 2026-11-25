@@ -1,0 +1,8 @@
+Feasibility of an artificial magnetosphere for a space settlement
+For a space settlement radiation shielding can be categorized into two types, active and passive. Creating high current magnetic fields to counter radiation comes under active and using materials such as lead to block radiation comes under passive.
+Am I right ??
+For space settlement located near one of the moons, say Ganymede can active shielding be useful and importantly will it be economically feasible as well ??
+3.If so what are the proposed designs for executing such a shield ?? Pls attach a link below your answer
+4.And also please mention important values in your answer (I mean, for example if high current electricity is being used to produce magnetic fields, mention the value of the voltage)
+5.Please explain the physics behind the working of such a shield also please..
+Thank you

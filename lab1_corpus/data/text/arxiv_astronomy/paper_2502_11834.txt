@@ -1,0 +1,2 @@
+Ultrahigh energy cosmic rays and neutrino flux models
+In this review we motivate ultrahigh energy neutrino searches and their connection to ultrahigh energy cosmic rays. We give an overview of neutrino production mechanisms and their potential sources. Several model-independent benchmarks of the ultrahigh energy neutrino flux are discussed. Finally, a brief discussion of approaches for model-dependent neutrino flux predictions are given, highlighting a few examples from the literature.

@@ -1,0 +1,2 @@
+Why did the Hyperbola-1 have an attitude control system leak May 2022?
+On May 13, 2022, the Hyperbola-1 rocket failed for the third time in a row. I could not find any launch video showing anything clearly failing. According to Seradata, the cause was an attitude control system leak. What happened that caused the leak?

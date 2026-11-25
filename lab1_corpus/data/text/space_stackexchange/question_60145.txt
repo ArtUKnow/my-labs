@@ -1,0 +1,4 @@
+Cold-tolerant Mars electronics
+For humans Mars isn't cold: there is little atmosphere to remove the waste heat from metabolism and life support equipment.
+But for electronics lacking an RTG, heat loss is a problem. Ingenuity, being so small, spends a lot of it's power on heating in order to keep it's batteries from freezing. Winter is a serious threat.
+Could we design electronics to withstand the cold rather than require constant heating? Batteries would go dormant at -100C but if they are designed to survive a freeze-thaw cycle could they be revived by passive solar heating?

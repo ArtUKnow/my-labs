@@ -1,0 +1,14 @@
+Space shuttle state propagation---constant acceleration during cycle?
+The space shuttle used a state propagation algorithm to estimate the current state vector when new data weren't yet available from the navigation system (which would come at a rate of only 0.25 or 0.5 Hz).
+The state propagation equations integrated the inertial acceleration once to update the velocity vector and twice to update the position vector.
+But what about acceleration? Was it updated at all over the course of a navigation cycle, before new data were available? Or was it assumed to be constant?
+I know they had equations to update the gravitational acceleration, so it seems strange that they might neglect changes to inertial acceleration by treating it as a constant.
+If the inertial acceleration was updated, how was the estimate calculated?
+EDIT
+Found a paper describing the super-G state propagation algorithm used in the space shuttle.
+And it's clear from it that various acceleration terms were updated and propagated in the minor loop cycles before new data was available from the IMU.
+But while those terms include gravity and drag plus a correction for earth's oblateness, they do not seem to include thrust, which would seem the most important term during launch, nor do they seem to capture the change in mass due to fuel consumption (which I can't imagine being less significant in its impact than earth's oblateness).
+From the very last page of the linked document:
+A_CFi is the gravitational central force term, A_J2i is the correction term for earth's oblateness, and A_Di is the drag term. No thrust term anywhere to be found...
+The Super-G algorithm is described in detail in appendix A pp. A3--A5.
+Maybe the paper above considered only the case of a space shuttle already in orbit with thrusters off so that no thrust acceleration would be produced? The equations would be accurate then even without the thrust term...

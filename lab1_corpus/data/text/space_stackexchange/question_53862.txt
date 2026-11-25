@@ -1,0 +1,9 @@
+In simple terms, how does the way space suits manage breathable gas differ from how scuba gear does it?
+I say "breathable gas" because what's in the tank can be a variety of mixtures and I don't know a single word for gas mixture you can safely breathe.
+less scientific or clinical sounding yet reassuring term for a gas that's okay to breathe than “breathable gas”?
+Scuba divers and astronauts have tanks of breathable gas and as they maneuver in their respective aqueous and vacuous environments consume some of it, expel CO2, H2O, CH4, H2 and other things into it, and their gear eventually expels leftovers into the environment.
+Is it possible to, in a simple way, compare and contrast these two systems?
+For example answers to Would've the CO2 scrubbers failed before the O2 supply ran out during an Apollo moonwalk? discuss CO2 scrubbers and normal scuba divers don't have those that I am aware of (rebreathers are a separate topic).
+Memories of watching The Undersea World of Jaques Cousteau include special gas mixtures for their deepest dives, I'm primarily interested in the least exotic type of scuba diving, the kind a beginner would learn.
+Question: In simple terms, how does the way space suits manage breathable gas differ from how scuba gear does it?
+Linking to existing answers that cover each aspect in more detail is strongly encouraged. What I need here is a view from 100,000 feet. There's no need to reproduce what's already been explained well in existing posts. Thanks!

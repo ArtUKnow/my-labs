@@ -1,0 +1,8 @@
+What are the loopholes in recent claims that dark energy is not necessary?
+I read an article on spacechatter about recent work that eliminates the need for dark energy in explaining observations. The pertinent quote from that article is
+“The study’s findings confirm that our previous work about the age of the universe being 26.7 billion years has allowed us to discover that the universe does not require dark matter to exist,” explains Gupta in a media release. “In standard cosmology, the accelerated expansion of the universe is said to be caused by dark energy but is in fact due to the weakening forces of nature as it expands, not due to dark energy.” --Rajendra Gupta
+These statements were made in reference to Dr. Gupta's recent publication in The Astrophysical Journal here (DOI 10.3847/1538-4357/ad1bc6)
+I've read a little (very little) regarding the tired light theory, which seems to be what Dr. Gupta is invoking here. I simply do not have the background to appreciate the details of Dr. Gupta's paper, but I found the spacechatter story to be intriguing. To my knowledge tired light has been largely rejected by the scientific community so I am left with 3 questions:
+How sound is Dr. Gupta's approach in his publication and are there substantial problems that preclude it from being a major upheaval within the community?
+Does replacing dark energy with tired light have any additional consequences/problems with how we view the universe (e.g., you may have solved problem X, but in so doing you broke Y and Z)?
+If we can rule out dark energy does that also preclude dark matter?

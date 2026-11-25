@@ -1,0 +1,2 @@
+Can a black dwarf explode as a Type Ia Supernova?
+I know that potential pyronuclear reactions in black dwarfs can lower their Chandrasekhar limit causing runaway fusion, but can a black dwarf undergo a normal Type Ia supernova? That is, if a fully cooled black dwarf begins accretion or collides into another black dwarf, will they undergo runaway carbon burning and explode?

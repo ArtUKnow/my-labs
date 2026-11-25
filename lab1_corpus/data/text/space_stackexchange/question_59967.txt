@@ -1,0 +1,4 @@
+Is there any major difference between acceleration of solid propelled and liquid propelled rockets during launch
+Few days ago, ISRO launched its PSLV-C53, which had solid first stage. (Clip here)
+Also, the SpaceX's starlink launched on 24th July, 2022, having liquid first stage. (Clip here)
+Is there any major difference between the initial acceleration given by these two different technologies?

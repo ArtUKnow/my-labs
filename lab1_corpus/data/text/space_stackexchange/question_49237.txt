@@ -1,0 +1,4 @@
+Is there possible engine damage without launch platform on Mars return flight?
+When a Starship has landed on Mars, there is not going to be any kind of prepared platform initially. (That may be a task for early crews to resolve).
+Is there the possibility that Starship, sitting flat on the surface, could kick up material on take-off?
+Could that material damage the engines just like when SN8's static fire propelled launchpad material into one of the engines causing it to be destroyed?

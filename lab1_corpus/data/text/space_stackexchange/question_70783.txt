@@ -1,0 +1,4 @@
+Engine Orientation and clustering in Multi-Engine First-Stage Configurations
+In launch vehicles with multiple engines clustered on the first-stage thrust structure, how are the engines typically oriented and mounted? Are they generally installed with their thrust axes parallel to the vehicle's longitudinal centreline, or are they intentionally inclined outward at specific angles?
+For example, in a first stage with a small base diameter, mounting multiple large engines vertically could potentially lead to nozzle interference or insufficient clearance, particularly when considering engine gimbal movement. Furthermore, closely spaced engines may experience plume interaction, potentially affecting thermal loads and the flow environment around adjacent engines and the vehicle base.
+How are these issues addressed in practical engine-cluster design? Is outward engine angle commonly used, or are nozzle spacings carefully designed according to diameter of the base plate?

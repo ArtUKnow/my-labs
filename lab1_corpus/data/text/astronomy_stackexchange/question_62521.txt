@@ -1,0 +1,10 @@
+Were arc minutes ever measured using hours, before degrees?
+Historically, did astronomers measure using 24 hours, then subdivide into minutes vs subdividing into degrees?
+I'm tried inputing some parameters into what I thought would be a vision test at focal length (~30cm) and the results come out to nice multiples using hours (24) instead of degrees. That's why I'm curious.
+1 degree arc length at 30cm = $0.959$ centimeters or ~$1$ cm.
+1 arcminute arc length at 30cm = $87$ micrometers, using degrees
+1 arcminute arc length at 30cm = $1.3$ millimeters, using hours
+10 arc seconds arc length at 30cm = $200$ micrometers, using hours
+1 arc hour at 30 cm = $7.85$ cm, using hours
+1 arc hour at 55 cm = $1.5$ cm, using hours
+$87$ micrometers is also an interesting number because it's near the average diameter of human scalp hair. Using hours, 10 arc seconds is $200$ micrometers near the average of diameter of chest or groin hair on the body. $0.959$ cm can be found using the distance between your ring finger and middle at the tips. $7.85$ cm is the distance holding your thumb up at focal length (30cm) and measuring from the top of your curled forefinger to the tip of your thumb. So, you can use multiples of your thumb to measure hours of the day. Alternatively, extending your arm all the way out to $55$ cm from the eye, you can measure an arc hour arc (~$1.5$ cm) using the distance between your fore finger tip and middle finger tip.

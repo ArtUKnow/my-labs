@@ -1,0 +1,7 @@
+Why did LEM ascent stage swing during flight?
+While watching Apollo 17 ascent footage, I've noticed that the camera is swinging quite a bit. It is definitely fixed to a window, so it means that the whole ascent stage is swinging back and forth during flight. I've spent some time trying to find an official explanation, but it seems like there are no mentions of the swinging in any flight journals/mission reports/etc. There's a small note about 0.5 degree limit in one of the documents I've managed to find, but this swinging is definitely beyond -0.5 – 0.5 degree range. The footage is from a 16 mm movie camera with a 10 mm lens – source. I suppose it could be due to the thrust vector being off-center, but there should be a better explanation.
+Apollo 17 ascent footage
+EDIT: changed the video link to a shorter version without excess footage. The swinging begins shortly after liftoff and is present during the whole duration of the footage. The author claims that the footage has been in their collection for a long time and there's no reason to fake it, but here's a more credible source – Apollo 15 Video Library. In the "Return to Orbit" section you can find similar footage:
+Journal Text: 171:37:25 MPEG Video Clip: (1 minute; 1.9MB) by Mick
+Hyde.
+The swinging is present during the whole ascent, but it's easier to see it after 00:43.

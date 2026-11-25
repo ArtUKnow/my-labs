@@ -1,0 +1,3 @@
+Name for PID control with acceleration term?
+The space shuttle TVC controller used a PID control scheme with an acceleration term for load management at high dynamic pressures. The acceleration term would be ramped up at 547 ft/s (before max Q) and ramped down at Mach 2.2. The purpose was to allow the shuttle to deviate from its pitch schedule and out of its target orbital plane in order to keep wind shear and other loads below a max threshold.
+Is there a standard name for this type of control scheme? PID means Proportional-Integral-Derivative, but here I have also an acceleration term. How should I refer to the acceleration gain if Proportional = P, Integral = I, and Derivative = D?

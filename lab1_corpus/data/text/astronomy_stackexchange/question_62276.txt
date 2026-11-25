@@ -1,0 +1,3 @@
+How do I query Gaia DR3 for stars within 25 pc of HIP 11915
+I'm a science-fiction writer working on a setting centered on the real star HIP 11915. I'm trying to build a realistic map of nearby stars within about 25 parsecs using Gaia DR3 but I'm struggling with the query tools.
+Would it be possible to generate a list of stars within ~25 pc of HIP 11915 and identify likely G/K stars?

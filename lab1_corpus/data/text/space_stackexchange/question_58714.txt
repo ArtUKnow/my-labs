@@ -1,0 +1,3 @@
+How many cargo flights are needed before Starship can carry people?
+I have seen mention that the Starship will need to have a track record of a certain number of flights before it can carry people. I suppose NASA sets this number. I don't know if it's an absolute number or approximate.
+How many nominal cargo flights in a row will Starship have to achieve before it is considered safe enough to carry people?

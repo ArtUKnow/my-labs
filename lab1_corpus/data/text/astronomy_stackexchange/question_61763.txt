@@ -1,0 +1,5 @@
+Are these streaks in ZTF images caused by satellites or something else?
+I am analyzing some ZTF cutouts and found several linear features that look like streaks, but I am not sure if they are truly satellite trails or other artifacts (e.g., blooming from bright stars, cosmic rays). Could someone help me identify what these features are?
+Here are three examples:
+In my pipeline, each image segment also comes with SNR, length, and angle estimates, but visually I am still confused.
+Are these likely to be satellite trails, blooming effects from bright stars, or some other instrumental artifacts?

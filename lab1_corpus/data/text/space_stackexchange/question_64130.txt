@@ -1,0 +1,4 @@
+Have the Europa Clipper's flybys and gravity assists of Jupiter's moons been pre-planned in detail?
+"The Europa Clipper will orbit Jupiter and conduct 44 flybys of Europa, using gravity assists from Europa, Ganymede and Callisto to change its trajectory, allowing the spacecraft to return to a different close approach point with each flyby" 1
+Do we already know in advance what positions Jupiter's moons will be in, when the Europa Clipper is planned to arrive at Jupiter in 2030, with enough detail to already have all 44 flybys and also any gravity assists around Jupiters moons planned out?
+Or do orbital pertubations change the positions to such a degree over the next 6 years that we cannot accurately predict where the moons will be, and we will need to plan the flybys as the spacecraft gets closer?

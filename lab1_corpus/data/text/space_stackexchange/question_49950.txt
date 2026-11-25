@@ -1,0 +1,10 @@
+How much of a deep space spacecraft's structural mass is useless dead weight after launch? Any plans to shed it in the future?
+After seeing this in Security SE
+Magnetic core memory isn't quite extinct yet. The two Voyager spacecraft used it and are still functional. Core was/is certainly non-volatile.
+I did some interwebbing which led me to Wired.com's 2013 article Interstellar 8-Track: How Voyager's Vintage Tech Keeps Running which contained the NASA image below captioned "Voyager's internal components during assembly."
+This well-engineered aluminum structure looks like something that a large group of people could jump up and down on all day without structural issues, though they'd better turn of the attitude control system and the eight track tape player first perhaps.
+This made me wonder, after a traumatizing launch with multi gee static and dynamic loads, just what kind of forces a deep space spacecraft actually has to deal with, and is much of the structural mass instantly unwanted dead weight as soon as the spacecraft is launched and off to work on a positive geocentric C3.
+Questions:
+How much of a deep space spacecraft's structural mass is useless dead weight after launch and just "along for the ride" and soaking up precious delta-v?
+Are there any designs or plans for a spacecraft to shed some of it as soon as it's inserted into an interplanetary trajectory?
+Has this already been tried in the past?

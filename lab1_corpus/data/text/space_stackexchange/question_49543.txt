@@ -1,0 +1,3 @@
+Has space weather ever impacted spacecraft launch schedules?
+Has space weather ever affected spacecraft launches, and do launch providers check it before spacecraft go to space?
+I know there is space turbulence and it can influence a spacecraft underway, but can space weather affect the launch schedule itself?

@@ -1,0 +1,4 @@
+Space shuttle HUD - flight director vs velocity vector
+On the Space Shuttle HUD, in the final phases of TAEM (Terminal Area Energy Management), the flight director symbol (square with three dashes) changes to a velocity vector symbol (circle with three dashes).
+I understand that the velocity vector represents the instantaneous velocity of the shuttle, but I don't understand what the flight director represents. In civil aviation, it seems to indicate what the computer wants to do, but is that not what the guidance diamond does?
+I also don't understand how both the boresight (representing the orbiter's x-axis) and the flight director can be fixed in the display (which they are in cockpit videos), since there seems to be no reason why they should always have a fixed angle between them.

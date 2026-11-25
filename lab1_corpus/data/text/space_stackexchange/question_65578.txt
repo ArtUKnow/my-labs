@@ -1,0 +1,4 @@
+Does the dawn-dusk orbit maintain the inclination with respect to the ecliptic plane?
+I'm trying to understand the mechanics of sun-synchronous orbits, specifically the dawn-dusk orbit.
+If I understand correctly, the RAAN rotates around the plane of reference of the Earth, which is the equatorial plane. For that to be true, the inclination of the orbit with respect to the ecliptic plane has to change? In such a way that at one end of the orbit, during peak summer in the northern hemisphere, the inclination of the orbit is counter to Earth's tilt (making the orbit pretty much 90 degrees wrt the ecliptic plane) while at the other end of the orbit, during the southern summer, the inclination adds to the tilt, making the inclination wrt the ecliptic plane a bit lower than 60 degrees?
+This photo I found illustrates what I mean:

@@ -1,0 +1,10 @@
+Why does this sounding rocket have black sooty exhaust with mach-diamond-like oscillations? Is this unusual?
+File footage of a sounding rocket with a dark, non-luminescent, sooty exhaust with mach-diamond-like oscillations is shown in the video 1957-1959 IBM 704 Computer - Vanguard Satellite Program "Science in Space" (Burroughs Datatron) NASA starting at 03:28 (alternate version of the video here).
+These oscillations are normally seen in bright, luminescent exhaust:
+Wikipedia Shock diamond
+Are these two length scales in FH exhaust plumes real, understood, and distinct? (example images)
+I've never seen black, sooty exhaust show this oscillation behavior.
+Question: Why does this sounding rocket have black sooty exhaust with mach-diamond-like oscillations? Is this unusual?
+Is this something that's been seen regularly in the past and not surprising, or is this some unusual phenomenon?
+Screenshots:
+screenshot showing sounding rocket and dark exhaust with oscillations from "1957-1959 IBM 704 Computer - Vanguard Satellite Program 'Science in Space' (Burroughs Datatron) NASA"

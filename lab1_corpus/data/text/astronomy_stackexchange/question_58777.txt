@@ -1,0 +1,26 @@
+How to calculate moon's shadow speed during solar eclipse
+In 2017 International Astronomy Olympics, there is a question to calculate moon's shadow speed during solar eclipse:
+https://astroarena.github.io/astroarena/olympiads/iao/2017/theory/TH_solution_2017.pdf
+The core part is:
+Assuming here the pass of the eclipse was going along the geographical parallel (parellel to East-West latitude line)
+we know the speed of the Moon in its synodic movement around the Earth is:
+$$
+v_1 = 2\pi \times 384400\,\mathrm{km} / 29.53\,\mathrm{d}
+$$
+and we know the azimuth (south to east) $\chi$ and altitude $h$ of the Sun (which is also the Moon)
+$v_1$ is the speed of the Moon's shadow on perpendicular to the Sun direction unmoving surface. To take into account the inclination during the eclipse to the perpendicular unmoving surface, the speed is
+$$
+v_2 = \frac{v_1}{\sin(\arctan(\tan{h}/\sin{\chi}))}
+$$
+Last, minus the speed due to sidereal rotation of the Earth at latitude $\phi$:
+$$
+v_3 = v_e\cos\phi = (2\pi \times 6378\,\mathrm{km} / 24\,\mathrm{h}) \times \cos\phi
+$$
+so the moon's shadow speed during solar eclipse is:
+$$
+v = v_2 - v_3 = \frac{v_1}{\sin(\arctan(\tan{h}/\sin{\chi}))} - v_e\cos\phi
+$$
+MY QUESTION
+CAN ANYONE EXPLAIN THE ANGLE:
+$$\theta = \arctan(\tan{h}/\sin{\chi})$$
+I have struggled for 2 days and I cannot understand how to get this angle.

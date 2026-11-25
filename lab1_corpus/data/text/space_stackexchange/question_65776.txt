@@ -1,0 +1,3 @@
+Is anyone using TDRSS for tracking data?
+The Tracking and Data Relay Satellite System (TDRSS), as the name suggests, is a space-based relay system for S-band data from other satellites or spacecraft. However, the "Tracking" in the name, and this question, suggest that it is also available as a form of space-based ranging data.
+Are there any modern missions using TDRSS (or other space-based networks) for actual ranging and tracking data? How does that data compare to ground-based observations?

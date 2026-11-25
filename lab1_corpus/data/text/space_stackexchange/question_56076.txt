@@ -1,0 +1,8 @@
+Why does JWST have such a big Blind Spot?
+The JWST’s field of regard excludes a significant portion of the celestial sphere in the anti-sun direction. See JWST field of regard (FOR) (source of the image below) Also see How much of the sky can the JWST see?
+The spacecraft can’t pitch up to align the telescope boresight to within 45* of the anti-sun direction because the telescope would move out from behind the fixed sunshields.
+Observatory within “Penumbra” of sunshield
+Over a 6 month half-orbit of the sun, the entire sky is observable. But what happens if an interesting event occurs in the “blind spot”? Like Shoemaker-Levy or the arrival of Rama? A gravitational wave event?
+If the observatory and sunshield were articulated to move 22.5* with respect to each other, the entire celestial hemisphere would be included in the field of regard.
+It is not necessary to violate the single, rigid structure of the observatory to point it in a different direction. It is only necessary to ensure it is shaded in the new direction. This could be done by re-designing the sun shield to provide more coverage. The increased coverage need not be in all axes. Adding another 25* of rotation in the V2 axis would extend the field of regard to the entire celestial hemisphere. This would have no effect on reaction wheels, fuel consumption, failure risk or lifespan
+Was this capability not seen as a design priority? I can’t imagine it would be a technical challenge.

@@ -1,0 +1,5 @@
+Could the flyaway of the Curiosity/Perseverance skycrane be aimed in a particular direction?
+The Perseverance rover is collecting samples of Martian rocks and soil, which will be picked up and returned to Earth on a future mission. In this comment to another question, I note that the sample return mission will need to be careful not to hit the samples and equipment already on the surface.
+Such a sample return mission could be delivered by sky crane, like Curiosity and Perseverance were. A landing ellipse can be chosen that avoids existing equipment and samples. However, once the payload touches down, the sky crane is flown away and crashed.
+To avoid crashing into existing equipment and samples, does the Curiosity/Perseverance skycrane already have the ability to fly away in a particular compass direction (e.g. northwest)? If not, is it just a matter of software changes, or is more hardware needed?
+(The backshell and heat shield are also considerations, but I will leave that to another question.)

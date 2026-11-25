@@ -1,0 +1,10 @@
+How can the proposed LUVOIR space telescope slew to different directions while keeping the sunshade in a fixed orientation? What compensates?
+In this answer to Why does JWST have such a big Blind Spot? I mention that it moves as a rigid body; in order to change the direction the telescope is pointing the whole spacecraft slews, including the sunshade.
+At 20:25 in the Launch Pad Astronomy video 4 Future Space Telescopes NASA wants to build linked below the narrator says of the proposed Large Ultraviolet Optical Infrared Surveyor telescope or LUVOIR:
+Both architectures keep the sunshade facing the Sun while the telescope is free to point in any direction on the leeward side.
+It shows a rock-solid sunshade connected to an articulating and likely heavy telescope.
+Conservation laws dictate that there must be some other mass of some kind moving somewhere that's not shown in the video, or some more exotic way of exchanging angular momentum.
+How do they do it?
+How can the proposed LUVOIR space telescope slew to different directions while keeping the sunshade in a fixed orientation? What compensates?
+Question: How can the proposed LUVOIR space telescope slew to different directions while keeping the sunshade in a fixed orientation? What compensates?
+video cued at 20:25

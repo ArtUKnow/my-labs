@@ -1,0 +1,25 @@
+How many kilograms of nickel particles will be dispersed in Earth's atmosphere by dumping old ISS batteries overboard?
+update: CNN's November 7, 2023 Japanese scientists want to send a wooden satellite into space links to October 16, 2023 NOAA scientists link exotic metal particles in the upper atmosphere to rockets, satellites
+“Two of the most surprising elements we saw in these particles were niobium and hafnium,” said Chemical Sciences Laboratory research chemist Daniel Murphy, who led a team including scientists from CIRES, Purdue and the University of Leeds. “These are both rare elements that are not expected in the stratosphere. It was a mystery as to where these metals are coming from and how they’re ending up there.”
+[...]
+While Murphy and his coauthors estimate that 10% of stratospheric sulfuric acid particles currently contain traces of metals from rockets and satellites, they say that could grow to 50% or more based on the number of satellites being launched into low-earth orbit, and efforts to eliminate space debris at end-of-life by directing it into the atmosphere to burn up.
+“There will be a lot of work to understand the implications of these novel metals in the stratosphere,” Murphy said.
+As of October 4, the tracking website Orbiting Now lists 8,697 satellites currently in orbit, 7,892 of which are in low Earth orbit and are destined to burn up on reentry.
+“At 10%, the current fraction of stratospheric aerosol with metal cores is not large.” said co-author Martin Ross of The Aerospace Corporation. “But over 5,000 satellites have been launched in the past five years. Most of them will come back in the next five, and we need to know how that might further affect stratospheric aerosols.”
+Credit: Chelsea Thompson/NOAA
+This in turn links to the published results in October 16, 2023 PNAS: Metals from spacecraft reentry in stratospheric aerosol particles
+Weighing 2.9 tons... this heap of old batteries is now the heaviest single piece of garbage to be jettisoned from the International Space Station.
+begins Gizmodo's ISS Ditches 2.9-Ton Pallet of Batteries, Creating Its Most Massive Piece of Space Trash
+Digital Trends' What was inside the space station pallet jettisoned into space on Thursday says:
+On Thursday, March 11, mission controllers in Houston commanded the space station’s Canadarm2 robotic arm to jettison an external pallet containing old nickel-hydrogen batteries into Earth orbit.
+The nickel-hydrogen batteries were once used for the ISS’s power system but have since been replaced with newer lithium-ion batteries featuring improved power capacity, smaller size, and lighter mass.
+Fortunately, the pallet and the batteries inside it won’t remain as space junk indefinitely (there’s enough of that already orbiting our planet), as the whole lot will burn up when it enters Earth’s atmosphere in several years’ time.
+I suppose that it's fortunate for other spacecraft in LEO that they won't stay in orbit for even longer than "several years' time" but without taking any measures to increase drag like attaching some Terminator Tape or equivalent it's still a non-zero risk.
+But for those who breathe all that nickel doesn't just go away, it becomes a long term resident of Earth's atmosphere.
+Scientific American's Some airborne particles pose more dangers than others; New evidence suggests that breathing nickel and other metals can lead to lung and heart damage, and even death is from 2009, and the science of the effects of PM2.5 and smaller particles on human heath is rapidly evolving.
+Questions:
+Considering all of the Nickel Hydrogen that were ever on the ISS that have now all been replaced, what fraction were incinerated in the atmosphere we breathe, and how many total kilograms of nickel does this represent?
+Were there any estimates as to what fraction would end up as nickel-containing PM2.5 particles? (the size at which particles tend to remain in our lungs and can sometimes move into the bloodstream and lodge in different organs)
+Related:
+What impact will the deorbiting of thousands of satellites have on the atmosphere?
+How many "main" batteries does the ISS have? How many are still nickel-hydrogen?

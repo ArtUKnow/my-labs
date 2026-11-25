@@ -1,0 +1,2 @@
+A Heavy Ion Monitor on a Chip Based on a Non-Volatile Memory Architecture
+The performance of a particle detector derived from nitride read-only memory (NROM) technology is evaluated, with immediate applications in space-based heavy ion radiation monitoring and detection. Irradiation exposures are performed using 40 MeV/u $^{78}$Kr and 10 MeV/u $^4$He particle beams at the Texas A&M University Cyclotron Institute. The results show a strong sensitivity to high-Z heavy ions, and medium sensitivity to low-Z heavy ions.

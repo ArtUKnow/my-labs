@@ -1,0 +1,16 @@
+Interstellar travel by lightsail – what are the main factors of the trajectory uncertainties?
+Lightsail (solar sail or sail accelerated by lasers) is a theorized as realistic way for interstellar travel. Breakthrough Starshot is the most prominent example.
+Let’s assume we have a thin enough and big enough lightsail that technically can reach Proxima Centauri. Let’s also assume we can get enough light energy to accelerate it, so it will fly that distance in several decades. OK, at least in several centuries would be not bad, too. (For this we’ll need a huge array of lasers or very close flyby of the Sun).
+But in this case – how precise will be the trajectory? Let’s assume the success criterion – we should fly by Proxima Centauri at distance not more than 1 a.u. (150 million km). (How to transmit data from there to Earth is a separate problem that is beyond the scope of this question)
+What are the main factors for uncertainty of trajectory of interstellar lightsail?
+I can guess several factors:
+1. Uncertainty of the acceleration vector. It can be caused by:
+1a. Shape distortion of the lightsail, because for such area/mass ratio it will inevitably be very flexible.
+1b. Uncertainty in light pressure. (For Earth-based laser array – the light will be scattered by the atmosphere. For solar flyby – how much the acceleration vector is tolerant to uncertainties of perihelion distance, solar flux variations, and the sail's attitude.)
+1c. Degradation of the lightsail by the environment (radiation, particles, dust and meteoroids) before and during effective acceleration.
+2. Uncertainties about local gravitational potential in the Sun - Proxima Centauri area. Do we have a good enough model of it (and how it will be changing in time of flight) to predict the trajectory?
+3. Uncertainty of relative motion of Proxima Centauri. We should “aim” the lightsail to the point where the star will be at the time of flyby.
+4. Uncertainty of interstellar particles density and its drag effect to the spacecraft.
+Any other factors?
+Has anybody modeled it at an academical level? How uncertain will be the trajectory? (I searched for Breakthrough Starshot studies, but couldn't find anything relevant. )
+If not – can we at least speculate which of the factors above are the most significant?

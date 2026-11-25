@@ -1,0 +1,2 @@
+Thrust requirements from Saturn 1 rocket's first stage
+What was the need / trigger to develop Saturn I rocket, and who defined / what dictated the thrust requirements from Saturn I, so that eight number of H1 engines had to be clustered to achieve that thrust?

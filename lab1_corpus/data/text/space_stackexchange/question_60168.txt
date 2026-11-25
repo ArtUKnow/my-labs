@@ -1,0 +1,6 @@
+Are the Raptor engines too numerous and close together on Booster 7?
+SpaceX is in the process of scaling up their highly successful re-usable Falcon first stage to a much larger version with more powerful engines for their Starship program.
+These new Raptor engines will put out a lot more thrust than their predecessors, and there will be 33 of them. This will involve burning a lot more fuel in a given amount of time.
+One of the classic issues in engineering involving larger scale is heat exchange.
+Is it possible the inner rings of Raptors may overheat before MECO (Main Engine Cutoff) ?
+Could SpaceX be monitoring this potential situation with temperature sensors in their upcoming flight?

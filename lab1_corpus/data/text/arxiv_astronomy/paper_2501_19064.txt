@@ -1,0 +1,2 @@
+Machine Learning in Gamma Astronomy
+The purpose of this paper is to review the most popular deep learning methods used to analyze astroparticle data obtained with Imaging Atmospheric Cherenkov Telescopes and provide references to the original papers.

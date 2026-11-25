@@ -1,0 +1,12 @@
+How a continuous thrust orbit transfer can be compared with Hohmann transfer?
+Suppose that I have found the solution of an optimal continuous thrust planar orbit transfer from circular orbit A to orbit B by means of a numerical method. It's considered that the mission must be done in a fixed final time and the performance index is to minimize the magnitude of the commanded acceleration to the spacecraft. After solving the problem, I have the optimal time histories of the accelerations, tangential and normal to velocity vector.
+How can I compare the performance of the solution with an equal
+Hohmann transfer?
+Is that a good idea to compare a two impulse transfer with a
+continuous thrust one?
+Theoretically, I think that continuous thrust transfers must have
+better efficiency with respect to a limited two impulse transfer; is
+that correct?
+How can I calculate Delta-v for this problem; by simply integrating
+the magnitude of the acceleration command vector?
+I am interested in comparing the efficiency of the continuous thrust acceleration command with the ideal Hohmann transfer regardless of the Isp of these two different types of propulsion systems. Actually, I want to know that continuous application of thrust is better or impulsive application, from theoretic and mathematical point of view.

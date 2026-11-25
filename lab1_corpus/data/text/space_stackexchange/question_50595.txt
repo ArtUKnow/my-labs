@@ -1,0 +1,7 @@
+Are there fluid disconnects that sever just before the Curiosity or Perseverance rovers separate from their cruise stages or landers?
+In this comment under an answer to Heating Perseverance components prior to deployment I wrote:
+I think (but can not find a source yet) that there is even a loop of "hot water plumbing" that goes to the spacecraft itself, and those lines have to be disconnected before separation.
+I'm pretty sure I've read that the heat exchange fluid loop on the rovers has another loop that warms the other spacecraft electronics and propulsion system during it's deep space trip to Mars. I even vaguely remember writing about it here but I can't find any trace of that now.
+But I'm not sure if there was a physical heat exchanger without sharing of circulation, or if there was actual shared circulation and valves that shut permanently before separation.
+And since there are several parts to the whole thing, I hesitate to specify which separation or what they might connect to. That will need to be part of the answer, if these exist.
+From this answer to Where does MSL end and Curiosity begin?

@@ -1,0 +1,6 @@
+Could the Moon's gravitational anomalies be used constructively?
+The moon has a habit of de-orbiting passive satellites in low orbit because it is not a homogeneous ball. Any orbit therefore passes through different sections with different surface gravities. This appears chaotic enough that eventually the small disturbances of a lunar orbit accumulate and the orbit then intersects with the surface. I'd call this destructive.
+I'm wondering two things.
+If we had very detailed maps of this gravitational field, could a super computer come up with a medium-high circular orbit that at some point "degrades" to a highly elliptical orbit with the same potential energy, which is oriented in a way to facilitate a transfer to Earth (and vice versa!)?
+Could we even gain (or lose) potential energy similar to a classical gravity-assist? Basically stealing a small fraction of the Moon's angular momentum to first park an arriving vessel in orbit and later depart the vessel again for almost free.
+I'm not sure how detailed the maps are that we have of the gravitational anomalies, but I suspect they are not detailed enough for any of this. And I also wonder how long it would take for the Moon to change orbits of a craft in this way.

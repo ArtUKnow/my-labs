@@ -1,0 +1,3 @@
+The reason for using TiN on the perserverance's drill
+Why did NASA use TiN coating for Perseverance's drill instead of coatings like TiAlN, AlTiN, TiAlCrN?
+I'm aware of the point of the TiN coating in terms of contamination, but it's a broad topic. Process parameters can be tailored to make a TiAlN coating with minimal roughness, surface energy and also get way better wear characteristics. I was interested if the reason was because of the slightly better anti static behaviour of TiN, reactivity with martian soil or just because it's an old and reliable coating that has been tested million of times by NASA.

@@ -1,0 +1,2 @@
+Pyephem equivalent when living on Mars?
+The python pyephem library is great... if you are on Earth. Has anyone built one if you were living on Mars? A search on this turns up the ephemeris of Mars many times, but not something that could tell you the location of the moons of Mars as seen on Mars, given your location on Mars, or the location of the planets, the Sun, or Earth.

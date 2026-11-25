@@ -1,0 +1,2 @@
+Did the Falcon 9 also use the G-FOLD algorithm for guidance during rocket into orbit, or did they use other algorithm, such as PEG?
+We know that SpaceX uses the G-FOLD algorithm to guide the rocket to land precisely at the target location, but do they use the same algorithm during the orbit insertion? If so, how will the algorithm run differently compared to landing? If not, what kind of algorithm do they use?

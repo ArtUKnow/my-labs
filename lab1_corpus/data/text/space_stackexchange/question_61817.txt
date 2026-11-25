@@ -1,0 +1,2 @@
+Does the payload capacity of an interplanetary launch rocket increase with decreasing fuel mass or with increasing escape velocity?
+Does the payload capacity of an interplanetary launch rocket increase with decreasing fuel mass or with increasing escape velocity? I was thinking that the escape velocity has nothing to do with it and it is solely depends on the (decreasing) fuel mass?

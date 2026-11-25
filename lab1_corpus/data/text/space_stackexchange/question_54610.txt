@@ -1,0 +1,8 @@
+How (the heck) did Lunokhod 2 drive, navigate and survive a ~40 kilometer drive over four months on the Moon using 1970's technology?
+Mashable.com's Every rover, ranked by distance traveled on the moon and Mars; The 13 rovers, ranked. calls attention to this amazing feat, and a review of basic statistics and discussions on odometry are available.
+Driving this far requires careful navigation, avoiding crashing into things, getting hung up, stuck in "sand traps" or falling into holes. You need a good safe stretch of luna firma and some luck, but also plenty of data and careful attention and risk management.
+You've also got to have every critical bit survive the cold lunar nights and be able to soak up and use plenty of solar power during the day to drive those 1970's motors and wheels across rough terrain. Certainly the low lunar gravity helped here.
+And the four months is really two months because of the lunar night.
+Question: How (the heck) did Lunokhod 2 drive, navigate and survive a ~40 kilometer drive over four months on the Moon using 1970's technology?
+All Mars and lunar rovers ranked by how far they've driven. Credit: Bob Al-Greene / Mashable
+Sources of data: NASA, JPL-Caltech, GSFC, Arizona State University, China National Space Administration

@@ -1,0 +1,5 @@
+How do we use Hohmann transfer orbit in a Solar System full of elliptical orbits?
+I just realised that a Hohmann transfer orbit assumes the two orbits are circular, when the radii of pretty much every planet is different at different times, making Hohmann transfer, impulse, and timing calculations much more complicated.
+If you were simply transferring with two arbitrary orbits, you could still use the approximation, but with interplanetary transfers timing is important, but with elliptical orbits, the radii for calculating different transfer orbit plans are different at different times, so the timing could not work and you wouldn't be there when the planet is there since the transfer time would be different.
+How do you use a Hohmann transfer orbit with elliptical orbits?
+(By the way, sorry this question is quite incoherent wording; please let me know how the wording can be improved as well)

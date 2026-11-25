@@ -1,0 +1,3 @@
+BVR photometry and Luminiscense
+I have the values from B, V and R filters. How do I obtain the total luminescence of a star?
+My ultimate aim is to find the relative masses and luminescence of various stars/galaxies in a galactic cluster from the B, V and R values.

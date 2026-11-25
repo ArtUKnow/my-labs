@@ -1,0 +1,6 @@
+Has viscous dampening been used to control oscillations from solar pressure vanes?
+I understand solar “paddles” or “pressure vanes” have been used, similarly to the dihedral angle on an airplane, to maintain a spacecraft’s orientation to the sun. Mariner 4 is an example. What is the principle behind Mariner 4's "Solar Pressure Vanes"? In what case(s) would they be effective?
+https://en.wikipedia.org/wiki/Mariner_4#/media/File:Mariner_3_or_4_diagram.jpg
+This design strategy will produce a restoring torque if the craft’s axis of symmetry strays from the solar direction. However, in the absence of dampening the craft will oscillate indefinitely.
+Viscous dampening https://www.sciencedirect.com/science/article/abs/pii/S0094576506000439 has been used to dampen vibration and oscillations in spacecraft. This has the potential to be simpler, lighter and more reliable for this purpose than reaction wheels. For example, putting randomly oriented perforated baffles in a spherical fuel tank could dampen angular oscillations in all axes.
+Has viscous dampening been used to control oscillations from solar pressure vanes ?

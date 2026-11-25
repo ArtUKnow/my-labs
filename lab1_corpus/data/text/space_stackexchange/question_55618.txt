@@ -1,0 +1,3 @@
+If you release a tool outside the ISS in space will it remain at the "same" place forever?
+If an astronaut doing a repair outside the International Space Station (ISS) gently lets go of a tool into space, will it keep "flying" (orbiting) at the same spot relative to the ISS where it was left, forever? I'm not talking about throwing the tool in some direction, just gently letting go of it.
+Since it was released from the same speed the ISS is circling Earth, and there is no air to cause friction and stop the tool, I wonder if it will remain at the very same position forever. If not forever, for how long, and why?

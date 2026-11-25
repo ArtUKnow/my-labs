@@ -1,0 +1,19 @@
+How to determine Euler parameters?
+I have two questions and I can't solve the second one. Here it goes:
+Question 1
+Consider a normalized system of units where µ = 1, Earth radius = 6378.165 km is the
+length unity, and T = 806.81 s is the time unit.
+Since the position and velocity vector are
+given by r = 2.0i + 2.0j + 2.0k and v = -0.4i + 0.2j + 0.4k, respectively, determine the keplerian elements (a, e, i, Ω, ω, M) of the spacecraft orbit, and select the correct option.
+My answers are:
+a=4.6;
+e=0.3;
+i=54deg;
+Omega=14.3deg;
+omega=355.4deg;
+M=26.3deg
+So the next question (which I don't know what do to) is:
+Question 2.
+Considering the classical Keplerian elements found in Question 8, determine
+the Euler parameters.(Beta1, Beta2 and Beta3).
+Please help me to understand this.

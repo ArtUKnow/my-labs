@@ -1,0 +1,7 @@
+How accurate can you model atmospheric refraction near sunset?
+This is a spin-off of a previous question on Moon sighting (Moon sighting: how hard is to predict the visibility of crescent/new Moon given excellent weather conditions?). I want to know how precise are refractivity models. Suppose that we forecast that tomorrow is going to be sunny, and it is indeed sunny that day how good could we have forecasted the refractivity that day? I am mostly interested in near sunset conditions.
+According to Wikipedia's amospheric refraction:
+Below the astronomical horizon, refraction is so variable that only crude estimates of astronomical refraction can be made; for example, the observed time of sunrise or sunset can vary by several minutes from day to day.
+But it also says that it is mostly in extreme weather conditions:
+As The Nautical Almanac notes, "the actual values of …the refraction at low altitudes may, in extreme atmospheric conditions, differ considerably from the mean values used in the tables."
+Can this difficulty be quantified?

@@ -1,5 +1,0 @@
-Gram
-A gram, or gramme, is a unit of measure in the metric system. It measures mass, or how much matter something is. The symbol is g. One gram used to be defined as the mass of one cubic centimetre of pure water at 3.98 degrees Celsius. Now one gram is defined as 1/1000 of a kilogram. A milligram is 1/1000 of a gram.
-Official SI symbol
-The International System of Units (SI) only recognises one symbol for grams. They say that the correct way to write it is "g". There should be a space between the number and the "g". For example, "640 g" means 640 grams.
-References

@@ -1,0 +1,2 @@
+What's causing this stippling effect in photos from Perseverance's down-look camera?
+I was taking a look at some of the raw Mars 2020 images and downloaded a few of them. For some of the photos from the down-look camera, if you zoom into them, there's a stippling/grid pattern in the pixels over the entire image. What's the cause of this? It seems like all of the images that have this are in black and white, could it be something related to the different color channels?

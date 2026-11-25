@@ -1,0 +1,5 @@
+How much technical information is given to astronauts on a spaceflight? How much of it is left to the control center?
+In many space exploration movies, we see that the control center, most notably the Mission Control Center has a team of engineers and scientists communicating with the astronauts regarding a variety of things like altitude, propulsion, etc.
+But we also see that the astronauts themselves have a lot of technical understanding. They take exams, undergo severe training, etc.
+So just how much more information/help does the MCC provide? In other words, for what reasons/data do the astronauts rely on the MCC for, that they cannot possibly realize or figure out themselves?
+I was not sure as to how much more data the MCC has because it seems to me that almost all of the data that the MCC provides to the astronauts would already be accessible to them inside the spacecraft (like the fuel loads, the altitude, which engines are functioning, the speed, the thermal values, etc.).

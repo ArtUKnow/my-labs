@@ -1,0 +1,10 @@
+Air-Augmentation on a VTO&L super heavy lift
+I'm working on a basic design for an Air-Augmented first stage, which boosts the second, expendable, stage from a near-orbit, to allow for deorbit of the second stage.
+Essentially it's an SSTO that uses a second stage so that it can land again...
+Is it feasible to use radial air-breathing engines for the time it spends inside the thicker atmosphere, before switching to closed cycle.
+LH2/LOX at max efficiency for closed cycle, HOTOL-esque engines for air-breathing ascent.
+Please tell me why I shouldn't try this.
+Thanks
+Also:
+HOTOL engine:http: //www.astronautix.com/h/hotol.html
+Similar design to: //www.astronautix.com/n/novammr10e-2.html

@@ -1,0 +1,4 @@
+What is the purpose of the inverted cone at the center of a Starship thrust puck?
+In the center of the Starhip's thrust puck, where the lowest portion of the LOX tank should be, there is a heavily reinforced inverted cone. Why is it there? Why not just complete the tank in a regular shape?
+Image: https://forum.nasaspaceflight.com/index.php?topic=52205.msg2150205#msg2150205
+Edit: What I mean by inverted cone v. "regular" shape:

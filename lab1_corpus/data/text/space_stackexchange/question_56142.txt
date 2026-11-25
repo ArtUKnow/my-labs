@@ -1,0 +1,4 @@
+Fancy locomotion for rovers
+For its upcoming ExoMars mission, ESA's rover "Rosalind Franklin" can use its wheels like legs in an insect-like gait, to walk out of deep sand that it can't drive out of.
+A brief video shows that the rover can brake each wheel and independently command motion of each leg's "hip" and "knee." Here's an animated GIF excerpt of the video.
+How close do already launched rovers approach this? Independent braking of wheels? Some kind of active suspension? Some other unorthodox independent use of wheels and legs that would be pointless on smooth terrain? If some rover can't do such things, could a software update enable them?

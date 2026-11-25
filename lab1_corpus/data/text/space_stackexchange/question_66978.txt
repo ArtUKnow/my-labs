@@ -1,0 +1,2 @@
+How does NASA calculate trajectory at planetary atmosphere entry
+NASA lands missions such as the Perseverance Mars Rover land at specific spots. I understand they can de-orbit to those spots to explore them, but the aerodynamic drag from the atmospheric re-entry would slow the craft and change its trajectory. So how do they calculate where the rover would land after entry?

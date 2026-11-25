@@ -1,0 +1,11 @@
+Identifying attitude control mode in GNC software?
+Launch vehicles will generally have multiple multiple attitude control modes.
+At launch, the engine-gimballing thrust-vectoring system is in charge.
+In orbit, the reaction control system is (at least often if not always) in charge.
+And in a self-landing rocket stage, steering fins might be in charge---once the stage enters the thick of the atmosphere, anyway.
+It's also possible that multiple attitude control systems will be active at the same time. In its final landing burn, a Falcon-9 stage 1 uses everything it has: thrust vectoring, reaction control, steering fins.
+And this has me wondering.
+To switch between these modes, the GNC software must have logic algorithms to select the appropriate mode and to identify that mode to the subsystems that need it---like the attitude control systems themselves.
+So how would those attitude control modes be expressed internally? As strings (e.g., "ACM002" for attitude control mode 2)? As integers (e.g., "2" for mode 2)?
+And would those strings/integers be arranged in objects with other properties like data type, size, name, etc?
+Open to answers even if they're specific to one vehicle (e.g., space shuttle or Saturn V) :D

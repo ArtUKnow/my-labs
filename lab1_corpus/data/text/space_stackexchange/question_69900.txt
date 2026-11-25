@@ -1,0 +1,2 @@
+How umbilical detaches from payload fairing with such a great accuracy just before launch?
+We know fairing needs cooling system to cool down spacecraft placed inside of it. The air-con system uses GSE unit to provide cool air thru flexible duct to maintain fairing inside temperature. But it must be automatically detach just before launch. Is there any solenoid locks which disconnect that hose? Once Hose detaches, how shutter closes that opening? I mean it would be open during ascent in presence of extreme vibration.

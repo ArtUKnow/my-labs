@@ -1,0 +1,6 @@
+Simple alternative to Powered Explicit Guidance for orbital insertion?
+Say you're playing space ops engineer and want to simulate an orbital insertion---but you're petrified by the calculations needed to get the coefficients of the linear tangent law behind Powered Explicit Guidance (PEG).
+You have a good feedback controller to point your rocket where you tell it to point, but you don't know the best place to point it because you can't do the math for PEG.
+How would you approximate your target pitch angle as a function of time so that you can arrive from your initial post-MECO pitch to a final zero pitch at the correct altitude and velocity?
+I'm essentially saying I'm OK with dropping the optimization part of the PEG algorithm and just figuring out some pitch program---any pitch program---that will take me from where I am at some time t post-MECO to orbital insertion.
+Has anyone done this?

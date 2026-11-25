@@ -1,6 +1,8 @@
 import os
 import sys
 import json
+import csv
+import hashlib
 import shutil
 import tempfile
 import unittest
@@ -131,7 +133,7 @@ class TestStats(unittest.TestCase):
 
 
 class TestRealCorpus(unittest.TestCase):
-    def test_two_sources_exist(self):
+    def test_two_raw_sources_exist(self):
         if not os.path.isdir(extract_text.RAW_DIR):
             self.skipTest("corpus not downloaded")
         sources = [d for d in os.listdir(extract_text.RAW_DIR) if os.path.isdir(os.path.join(extract_text.RAW_DIR, d))]
@@ -150,17 +152,33 @@ class TestRealCorpus(unittest.TestCase):
         text_dir = extract_text.TEXT_DIR
         provenance_dir = os.path.join(os.path.dirname(text_dir), "provenance")
         total = 0
-        for source in ("ru_wikipedia", "simple_wikipedia"):
+        hashes = set()
+        targets = {
+            "ru_wikipedia": (10000, "wiki_", 40),
+            "simple_wikipedia": (5000, "wiki_", 20),
+            "arxiv_astronomy": (5000, "paper_", 0),
+            "space_stackexchange": (5000, "question_", 0),
+            "astronomy_stackexchange": (5000, "question_", 0),
+        }
+        for source, (expected, prefix, raw_examples) in targets.items():
             files = {name for name in os.listdir(os.path.join(text_dir, source)) if name.endswith(".txt")}
-            self.assertGreaterEqual(len(files), 15000)
+            self.assertEqual(len(files), expected)
             manifest_path = os.path.join(provenance_dir, source + ".tsv")
             with open(manifest_path, encoding="utf-8") as manifest:
-                rows = [line.rstrip("\n").split("\t") for line in manifest]
-            self.assertEqual(rows[0], ["file", "pageid", "title", "url", "text_sha256"])
-            self.assertEqual(len(rows) - 1, len([name for name in files if name.startswith("wiki_")]))
-            self.assertTrue(all(row[0] in files and row[3].startswith("https://") for row in rows[1:]))
+                rows = list(csv.DictReader(manifest, delimiter="\t"))
+            self.assertEqual(len(rows), expected - raw_examples)
+            self.assertEqual({row["file"] for row in rows}, {name for name in files if name.startswith(prefix)})
+            for row in rows:
+                self.assertTrue(row["url"].startswith("https://"))
+                if source.endswith("stackexchange"):
+                    self.assertTrue(row["author"] and row["license"])
+                with open(os.path.join(text_dir, source, row["file"]), "rb") as document:
+                    content_hash = hashlib.sha256(document.read()).hexdigest()
+                self.assertEqual(row["text_sha256"], content_hash)
+                self.assertNotIn(content_hash, hashes)
+                hashes.add(content_hash)
             total += len(files)
-        self.assertGreaterEqual(total, 30000)
+        self.assertEqual(total, 30000)
 
 
 if __name__ == "__main__":

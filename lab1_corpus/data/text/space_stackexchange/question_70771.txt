@@ -1,0 +1,4 @@
+Why did GOES-19 go into safehold?
+Why?
+On July 15, 2026 at 2023Z the GOES-19 geostationary weather satellite went into safehold. Media coverage of the event can be found, for example here. Operators were able to restore contact with the vehicle on the 16th, and GOES-19 is still operating as GOES-East.
+Is it publicly known what caused the safehold event? If an exact cause has not been given, is there a most-probable cause?

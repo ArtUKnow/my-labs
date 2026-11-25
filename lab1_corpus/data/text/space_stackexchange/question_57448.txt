@@ -1,0 +1,30 @@
+Orbital Component Abbreviations
+I'm currently in the process of writing an SDK for the ESA's DISCOSweb API. I've come across these attributes on Orbital details.
+"inc": 52.0,
+"raan": 0.0,
+"epoch": "1999-10-22",
+"sma": 7791700.0,
+"ecc": 0.00011,
+"aPer": 0.0,
+"mAno": null,
+"frame": "J2000"
+I can figure out what most of these are:
+Abbreviation
+Long Form
+inc
+Inclination
+raan
+Right Ascension of Ascending Node
+epoch
+Epoch/Time
+sma
+Semi-major Axis
+ecc
+Eccentricity
+aPer
+Unknown
+mAno
+Unknown
+frame
+Frame
+Does anyone know what the two unknown abbreviations refer to?

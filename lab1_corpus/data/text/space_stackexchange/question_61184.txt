@@ -1,0 +1,7 @@
+Delta-V vs Time equation for interplanetary transfers
+I'm working on a project for my high school math class and my research question is about time vs delta-v budgets for an interplanetary transfer (e.g. earth to mars). I understand this is a relatively complex topic for my skill set but I would love to know more about this.
+I think I understand the basics of the Hohmann transfer, but I'm struggling to understand how to map out the equation.
+From what I understand, the best approach to this problem would be to change the initial burn velocity from the first body, with the ideal transfer window, which would also change.
+Any help is appreciated as I'm very lost.
+Thank you!
+EDIT: I'm asking how the departure burn from earth affects the flight time to other planets

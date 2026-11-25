@@ -1,0 +1,10 @@
+Is the measured ICM rest frame used when computing ram pressure for cluster galaxies, or is the galaxy’s cluster-frame velocity still standard?
+Ram pressure is $P_\mathrm{ram} = \rho v_\mathrm{rel}^2$, where $v_\mathrm{rel}$ is the galaxy’s velocity relative to the intracluster medium.
+Tonnesen & Bryan (2008, arXiv:0808.0007) showed in cosmological simulations that at fixed cluster-centric radius, ram pressure varies by over an order of magnitude, with ICM density and galaxy-ICM relative velocity contributing in roughly equal parts. They noted that assumptions about the ICM made by observers and theorists may be too simplified.
+Observationally, applying this required a gas velocity measurement that didn’t exist, so analyses use the galaxy’s velocity in the cluster frame. For instance, projected phase space diagrams (R/R_200 versus delta-v / sigma) define delta-v relative to the mean galaxy redshift.
+XRISM/Resolve now measures ICM line-of-sight velocities directly. Bulk motions of a few hundred km/s appear common, and in Abell 2034 the gas velocity gradient along the merger axis runs opposite in sign to the galaxy velocity gradient (arXiv:2604.27161), interpreted as decoupling of the collisional gas from the collisionless galaxies and dark matter.
+Since both quantities are line-of-sight, it seems one could recompute delta-v relative to the gas rather than the galaxy mean, at least for members projected within a Resolve pointing or along a measured large-scale gradient.
+My questions:
+Is the ICM rest frame used in current observational ram-pressure or environmental-quenching analyses, or is the galaxy cluster frame still the standard assumption?
+If it isn’t used, is that purely a coverage limitation (Resolve’s 3x3 arcmin field gives core pointings rather than cluster-wide maps, with Perseus the only extensively mapped cluster), or is there a methodological reason the substitution wouldn’t be valid?
+I’m aware only the line-of-sight component is measured while ram pressure is a 3D vector, so this couldn’t be a full correction. I’m not in this field and may be missing something standard.

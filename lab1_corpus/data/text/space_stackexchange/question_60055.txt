@@ -1,0 +1,6 @@
+What is the maximum weight a raptor 2 engine can lift up at sea level on earth?
+Regardless of target orbit, how can I calculate the maximum weight one engine can lift?
+If the raptor's TWR is 140 and its Thrust is 1.81 MN then:
+W = F / TWR = 12,900 N ==> m = W / g = 1.3 tons
+Not logical. If the super heavy has 39 engines... it could pick up only 50 tons...
+What's incorrect here ?

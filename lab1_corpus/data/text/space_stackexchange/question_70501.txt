@@ -1,0 +1,6 @@
+Where can I find a 1969 study of Space Shuttle rendezvous?
+I was reading this document on NTRS: https://ntrs.nasa.gov/api/citations/20070018243/downloads/20070018243.pdf
+The opening of section IV: Early Rendezvous Study says:
+In 1969, a study of on-orbit delta-V budgeting was conducted for the Advanced Logistics System (ALS), an early name for the Space Shuttle
+But it doesn't seem to reference anything about that study, including a title or authors. I am interested to read this study, specifically because the target vehicle is a space station at 55 degree inclination, which is reminiscent of the ISS inclination at 51.6 degrees. My understanding is that the ISS is inclined to allow Russia to reach its orbit from their high-latitude launch sites, so it surprises me that this 1969 study would put the station at that high inclination. I want to read the study to determine if it explains the reasoning for such an inclined orbit.
+If the reasoning is not self evident from that paper, I will post another Space.SE question asking why they would have baselined an inclined station in 1969.

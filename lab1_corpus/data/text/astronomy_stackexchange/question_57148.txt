@@ -1,0 +1,10 @@
+What is the distance between sunrise and sunset along a parallel of latitude for declination other than 0?
+I would like to calculate the distance between sunrise and sunset along a parallel of latitude, e.g., 45 degrees north.
+What I've done is:
+Earth's circumference at the equator is 40075 km.
+Earth's circumference at 45 degrees north is:
+$40075 \times \cos(45°) = 28337$ km
+The distance between sunrise and sunset at the equinox (ignoring refraction) is simply:
+$28337 / 2 = 14168$ km.
+But, what is this distance when the solar declination is other than 0? I.e., the same latitude during summer or winter solstice?
+Is there some calculator, which could do it for me, or at least some references?

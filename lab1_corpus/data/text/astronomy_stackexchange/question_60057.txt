@@ -1,0 +1,7 @@
+How can I make stars brighter when stacking?
+I've started doing some very amateur astrophotography and I'm looking to see if there is a way to improve my photos.
+I've tried taking 60 photos with 30 second exposures and then stacking them using Siril. When looking at the photos carefully I see a significant improvement compared to stacking dozen photos - one or two magnitudes dimmer stars show up as very faint silhouettes. Note I'm doing this from a Bortle 4-5 location.
+However, I had hoped stars would appear much brighter than they are turned out to be. Another issue was that for some reason Siril couldn't register stars in a bunch of photos so I couldn't use all 60 and I can't really figure out why that was a problem (almost as if stars were dimmer than in my previous photos).
+I'm aware photographs would be much better if I had an actual telescope instead of taking photos with no optics and a serious camera instead of cell phone. But assuming my equipment remains basically the same in the near future, is there any advice you think could help obtain better photos?
+Do I simply need to experiment much longer integration time, ca 1 hour or 2 hours
+instead of 30 minutes?

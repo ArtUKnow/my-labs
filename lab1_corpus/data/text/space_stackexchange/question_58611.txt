@@ -1,0 +1,14 @@
+Two-Stage Fully-Reusable Shuttle
+In chapter 6 of SP-4221 "The Space Shuttle Decision" they are talking about the fall of the "Two-Stage Fully Reusable Shuttle".
+In one paragraph they talk about how this Two-Stage Shuttle would work:
+Fueled and cleared for launch, the Shuttle would thunder into the air
+with the thrust of 12 SSMEs in the base of the booster. The orbiter
+would separate and fly onward, propelled by its own SSMEs. The
+booster, empty of fuel, would come down through the atmosphere and
+return to a runway at the Cape, with power from up to 12 jet engines.
+After completing its mission in space, the orbiter would reenter and
+land on the same runway. Preparations for the next flight, covering
+both the booster and orbiter, would take as little as two weeks.
+From what I can understand here it meant that there were plans to create a booster with 12 engines and 12 jet engines as well?
+Were they talking about a booster with SSMEs as engines? What were the jet engines they were talking about? I've never heard anything about using jet engines in a booster before.
+Also are there any pictures or prototypes ever created of such design?

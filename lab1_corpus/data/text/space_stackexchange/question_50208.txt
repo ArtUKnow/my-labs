@@ -1,0 +1,5 @@
+What are the rules for callouts during mission landings?
+I remember hearing at one point that in the control room at JPL, only the GN&C Lead is allowed to make the announcement for touchdown. It's because they don't want someone prematurely (and erroneously) announcing success or failure.
+During the landing of Perseverance, if you watch closely, you can actually see this happening. Starting from this timestamp, at about 1:40:30, you can see everybody perk up and begin fidgeting and looking at the callouts person. They're all seeing the touchdown signal, but they're waiting for her to verify and announce it before celebrating.
+Unfortunately, I cannot find any references that back this up, try as I might. I may have heard it from a guide while on a tour. Thus the question:
+What are the rules for making callouts during a mission landing? Who gets to make announcements? Ideally, I'm looking for a source for this, either a news article or a rulebook.

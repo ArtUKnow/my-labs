@@ -1,0 +1,3 @@
+How to design Heading Alignment Cone(HAC)?
+I am trying to design a Heading Alignment Cone. Of course, the radius of the circle depends on different parameters like energy, altitude, and aerothermal characteristics of the reentry vehicle and also the location of the runway. Is there any formula to estimate the radius of HAC? Furthermore, there are various types of approaches like Straight-in and Overhead mode. Thank you.
+References: TAEM of space-shuttle

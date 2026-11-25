@@ -1,0 +1,4 @@
+How to solve the two-body problem in the ECI frame through numerical integration?
+I need to know how to solve two-body problem by solving a system of first order equation derived from the equation below.
+$$\ddot{\mathbf{r}} = -\frac{\mu}{r^3}\mathbf{r}$$
+How do I go about this, and how would I then use this to output a trajectory in MATLAB?

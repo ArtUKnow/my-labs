@@ -1,0 +1,20 @@
+Has intra-cranial pressure been measured on ISS astronauts for SANS research?
+Visual impairment (VI) <and spaceflight-associated neuro-ocular
+syndrome (SANS)> is currently ... NASA's top health risk for long duration spaceflight,
+and millions of dollars has been allocated for research funding to
+investigate the mechanisms responsible for VI after space flight. One
+of the proposed mechanisms for post‐spaceflight VI is
+...
+elevation in intracranial pressure (ICP).
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5509877
+Ideally, research should gather data on changes in ICP during spaceflight, especially prolonged flights. I could find no published results of ICP measured in orbit
+It is technically challenging to measure intracranial pressure. Clinically, it is done invasively by needle puncture of the lumbar spinal canal and direct measurement with a manometer. This is not appropriate during spaceflight due to the medical skills required, potential complications and the fact manometers don’t work in micro-G.
+There have been several proposed methods for non-invasive measurement of ICP. They are based on the fact that the optic nerve (which connects the eyeball to the brain) is surrounded by a sheath which is filled with cerebrospinal fluid at the same pressure as the ICP. The central retinal vein enters the eyeball through the center of the nerve and so is exposed to the ICP
+https://www.mayoclinic.org/diseases-conditions/optic-neuritis/symptoms-causes/syc-20354953
+Ophthalmodynamometry: https://www.nature.com/articles/s41526-023-00269-0
+uses observation of pulsations of the central retinal vein at the optic nerve head. The pressure inside the eye (IOP) is increased by applying pressure on the outside of the eye. When pulsations appear in the vein, the ICP is theoretically equal to the pressure in the eye. Eye pressure is measured (using a tonometer) and assumed to be equal to the ICP.
+Ultrasonographic measurement of the optic nerve sheath. https://bjo.bmj.com/content/early/2022/09/07/bjo-2022-321065
+Non-invasive measurements of the optic nerve sheath diameter allow a qualitative assessment of ICP. But "likely normal" or "a bit elevated" is less useful than quantitative measurements.
+ICP-dependent auditory responses is another non-invasive approach which gives qualitative estimates of ICP. https://journals.physiology.org/doi/full/10.1152/japplphysiol.00032.2018
+To date, direct invasive studies have been performed during micro-G parabolic aircraft flights on patients with surgically implanted access points for ICP measurements. But to my knowledge, no quantitative ICP measurements during spaceflights are available.
+Question: SANS is the leading health risk for extended space voyaging and raised ICP is considered the most likely cause. Have ICP measurements been performed on the ISS? Ophthalmodynamometry could be taught to the designated medical crewmember.

@@ -1,0 +1,5 @@
+What are N and D variables which take part in this Gibbs' method/algorithm for orbit determination
+I am trying to make sense of this algorithm, which is the Gibbs method of orbit determination from three position vectors. More specifically, I am trying to understand the equations 5.13 and 5.14.
+5.13: $N = {r_1}{r_2} × {r_3} + {r_2}{r_3} × {r_1} + {r_3}{r_1} × {r_2}$
+5.14: $D={r_1} × {r_2} + {r_2} × {r_3} + {r_3} × {r_1}$
+What are they? Why are they needed and what do they calculate?

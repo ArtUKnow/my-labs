@@ -1,0 +1,16 @@
+How to compute each of these link budget terms?
+The terms in Equation are all in decibels (dB), which is logarithmically scaled. In Equation, $P_{rx}$ is the received peak power, $P_{tx}$ is the transmitted peak power, $G_{tx}$ is the transmitter gain, $G_{rx}$ is the receiver gain, and $L_{range}$ is the range loss. Additionally, $h_{tx}$ is the transmitter optical efficiency, $h_{atm}$ is the atmospheric transmission efficiency, $h_{rx}$ is the receiver optical efficiency, $T_{point}$ is the transmitter pointing gain, and $R_{point}$ is the receiver pointing loss:
+$$P_{rx }= P_{tx }+ G_{tx } + G_{rx} + L_{range} + h_{tx } + h_{atm} + h_{rx } + T_{point} + R_{point}$$
+My question is how to compute the following terms:
+$h_{tx}$ is the transmitter optical efficiency,
+$h_{atm}$ is the atmospheric transmission efficiency,
+$h_{rx}$ is the receiver optical efficiency,
+$T_{point}$ is the transmitter pointing gain,
+$R_{point}$ is the receiver pointing loss.
+EDIT 1. This equation was found here:
+Barnwell, N., Ritz, T., Parry, S., Clark, M., Serra, P. and Conklin,
+J.W., 2019. The Miniature Optical Communication Transceiver—A Compact,
+Power-Efficient Lasercom System for Deep Space Nanosatellites.
+Aerospace, 6(1), p.2.
+It could be finde via scholar google
+In p 25, they give only numeric results, Table A3.

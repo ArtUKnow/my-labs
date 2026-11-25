@@ -1,0 +1,2 @@
+Back up plan to use LOX-RP1 for Apollo mission
+Today it might seem to be an hypothetical question. I read that Surveyor mission confirmed "re-igniting" a LOX+LH2 engine in space is successful. What if the use of H2 was not successful ? - specially re-igniting in space - !! Further, use of hypergolic propellants in LEM ascent module, was selected to ensure lift off from moon surface, which was verified during Apollo 10. Had that been unsuccessful, was NASA prepared to launch all Apollos with LOX+RP1 (or any other, PROVEN propellant configuration) configuration on all stages?

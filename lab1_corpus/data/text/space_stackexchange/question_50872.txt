@@ -1,0 +1,4 @@
+How to calculate the solar irradiance (flux) on Mars. But,measurments are made at Earth orbit or at 1 AU
+There are many satellites measuring the solar flux in EUV and X-ray at 1 AU (Ex: SDO, SOHO, etc).
+In the case of Mars: MAVEN looking sun in a small band of EUV and X-ray at Mars. Is there any approach, that I can use measurement at 1AU (Because they have a wideband of observations) and extrapolate to Mars and beyond?.
+Thank You

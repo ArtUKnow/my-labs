@@ -1,0 +1,10 @@
+What is Direct Simulation Monte Carlo and why is it a good method for simulating spacecraft drag in VLEO?
+Reducing spacecraft drag in Very Low Earth Orbit through shape optimisation J. A. Walsh and L. Berthoud (2017) show simulations calculating drag coefficients for different "nose cone" shapes of spacecraft in Very Low Earth Orbit or VLEO. It says:
+In order to answer this question, it is necessary to perform aerodynamic simulations on the satellite body. The atmospheric density in VLEO is so low that the medium is no longer continuous, but can rather be described as a molecular flow (Knudsen Number>1),8 for which there are a number of simulation methods available. These include analytical methods such as those presented by Sentman8 Analytical methods can provide fast estimates of the aerodynamic forces a body might experience but are less useful with more complex shapes, especially where secondary particle-surface interactions occur9. Alternatively, particle simulators such as the Direct Simulation Monte Carlo (DSMC) methods pioneered by Bird10 can provide a more accurate assessment of the aerodynamic forces as they endeavour to replicate the physics behind molecular flow. However, this comes at the cost of longer simulation time. For the work being performed here, the ability to capture the non-linear aspects of the flow around complex bodies is desirable. For this reason the DSMC code ’SPARTA’ (which stands for Stochastic PArallel Rarefied-gas Time-accurate Analyzer)11,12 was used.
+Question: What is Direct Simulation Monte Carlo and why are "particle simulators" like this a good method for simulating spacecraft drag in VLEO?
+Table 1: Atmospheric Properties in VLEO
+Minimum Maximum Simulation
+Density [kg/m3 ] 7.28×10E−12 2.49×10E−09 1.05×10E−10
+Temperature [°K] 447 1438 990
+Velocity [km/s] 7.70 7.85 7.77
+Note: This could also be asked in or moved to Physics SE, Engineering SE, Scientific Computing SE and even Area 51's Computational Fluid Dynamics SE if it is deemed off-topic here.

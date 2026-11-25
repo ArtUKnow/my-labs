@@ -1,0 +1,5 @@
+How to calculate.list all DSO's < mag10 visible from my given location/time (Python)
+I've got a EVScope and a working knowledge of Python and either the EVScope app doens't give me enough content/variety of objects to observe or deskktop software focusses too heavily on nebula/stars when I'm really only interested in more "interesting" DSOs like galaxies etc.
+I'm trying to get my head around how I can build a program given my location/time and a list of objects with mag and RA/Dec that will then display whatever is visible at that time.
+In my head I can visualise a point on the earth (me) with a half-sphere with me in the center of the base and the various objects locatyed on the sphere which is all those visible DSOs but I'm just not sure where to start.
+Step one is clearly local sidereal time but the next part is a failure of theory and terminology on my part. Hoping someone can provide some pointers to help me get to next steps.

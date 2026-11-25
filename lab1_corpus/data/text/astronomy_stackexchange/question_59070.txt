@@ -1,0 +1,13 @@
+Is it enough that it's night (sun 18 degrees below horizon) for astrophotography?
+I have a series of images taken between about 18:50 and 20:15, of Andromeda galaxy. They show progressive darkening of the sky around the galaxy. During that day, night started 18:00 so it was exactly 18:00 when sun is 18 degrees below the horizon.
+I am wondering whether the progressive darkening of the sky around Andromeda galaxy was caused by Andromeda moving higher up in the sky (where there is presumably less light pollution), or further away from streetlight lamps (so less streetlight gets into the telescope tube), or if 18:50 simply was a too early time of day to start photography.
+Is it enough for astrophotography that the sun is 18 degrees below the horizon? Or does waiting for the sun to go even lower improve my chances of avoiding light pollution?
+The sun was 23 degrees below the horizon when I started photography in this location. Moon was below the horizon too during that time, very close to the sun in fact.
+Edit: added two exposures
+These were taken on 3.12.2024.
+First exposure:
+Last exposure:
+...so the sky is getting darker as time passes. Maybe it's the streetlights then. It's 60 degrees north latitude. ISO 1000 / f/5 / 30sec exposure.
+Here's the final image:
+Edit2:
+The light pollution map says Bortle 6, but I suspect the local streetlights may make it more like Bortle 7 unless the object is so high in the sky that absolutely no streetlights get into the telescope tube. But I have seen pictures taken in Bortle 8 areas, which made me interested in astrophotography, since if someone can do it in Bortle 8, why couldn't I do it in Bortle 6? The sky quality meter I ordered hasn't arrived yet, so I can't say any specific magnitude/arcsec2 figures.

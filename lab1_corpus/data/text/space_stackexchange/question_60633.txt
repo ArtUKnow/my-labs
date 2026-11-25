@@ -1,0 +1,6 @@
+How can I extend EOP data beyond the last prediction epoch?
+I have an EARTH ORIENTATION PARAMETERS (EOP) DATA file taken from CelesTrak to convert data from ECI to ECEF. The same file used by STK for the Scenario to be clear.
+However its predictions stop at April 2023. I want to extend those values for the next years in the same way STK does.
+How can I do that?
+I've tried by interpolation, the linear interpolation is the one that suits best currently, but when I compare the satellite position e velocity computed by STK in ECEF with mine obtained converting STK's values in ECI to ECEF, the maximum absolute error is of about 20 m.
+Thanks in advance!

@@ -1,0 +1,3 @@
+Why aren't smaller fairings used for smaller payloads?
+I saw this picture of the DART spacecraft being encapsulated in its payload fairing.
+Why doesn't SpaceX manufacture a smaller (shortened or thinned) fairing for the spacecraft? It reduces mass and is definitely cheaper, but is it because they don't have tooling/flexibility in this area?

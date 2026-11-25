@@ -1,0 +1,4 @@
+Is the ecliptic path correct in this sky chart?
+I'm making some sky charts using astropy and matplotlib (in Python), and I've just discovered that the ecliptic from the sky charts created by the IAU and Sky&Telescope could be wrong. This is in Auriga constellation. Look at this:
+The image I'm producing in my computer is the next one. I'm gonna target the M36 object, to see the same area, approximately. This is my image:
+See? In my case, ecliptic path is totally different. I'm using J2000 equinox. I've checked other software (kstars, skychart and stellarium) and they are like mine. Do they have a big mistake in the official IAU charts?

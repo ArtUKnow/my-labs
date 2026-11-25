@@ -1,0 +1,11 @@
+Is it possible to estimate bias and vignetting only from optoelectronics parameters of the camera+telescope system?
+Let's say I am considering purchasing a new CMOS sensor for photometry purposes, but before making a decision, I want to simulate some mock images to see if this system would meet my needs. Is it possible to estimate bias and vignetting knowing only optoelectronic parameters such as:
+Total pixel area and pixel size
+Readout noise
+Dark current
+Full well capacity
+Focal length of the telescope
+Aperture of the telescope
+Physical dimensions of the sensor and the telescope
+Pretty much everything else that can be found on the manufacturer's
+website

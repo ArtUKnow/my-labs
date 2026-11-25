@@ -1,0 +1,7 @@
+What are the major features of the radio sky at 1.575 GHz for TARTs to look at?
+In answers, comments and links on the How do TARTs work (Transient Array Radio Telescopes), and can anyone build one and join the effort? page, it seems that these modest, pseudo-DIY all-sky interferometers are based on arrangements of low-cost commercial active GPS antennas (little black boxes with antennas and preamplifiers for GPS signals) and circuit boards that filter and amplify at 1.575 GHz before digitizing and implementing the correlation via FPGA.
+One can play with live data and sky maps from a system running in New Zealand here: https://api.elec.ac.nz/tart/mu-udm/home
+Since they've chosen the GPS frequency for low cost of hardware, there will always be relatively strong and compact signals in the sky. They will have precisely known positions and over time will cover the whole sky (at least sparsely - they're 1/2 sidereal day orbits produce repeating "Lissajous" patterns) That certainly helps with setup and calibration.
+But I wonder what else there is to look at - what Astronomical features might be seen first. So I'd like to ask:
+Question: What are the major features of the radio sky at 1.575 GHz for TARTs to look at?
+Is it only Fast Radio Bursts? (the "T" for "Transient" in TART) Are there any notable, relatively strong static sources that would stand out over a long integration time?

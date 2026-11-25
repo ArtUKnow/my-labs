@@ -1,0 +1,4 @@
+Do exploration spacecraft enter Mars atmosphere against Mars rotation, or on the same direction?
+I can't find information on which side of mars do probes usually enter.
+I suppose that probes do not enter perpendicular to the surface. They are usually represented as entering somewhat tangentially to the surface, and in the same direction as Mars rotation (that would reduce relative speed).
+But I do wonder how it is done in reality.

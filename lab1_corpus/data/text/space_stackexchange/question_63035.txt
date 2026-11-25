@@ -1,0 +1,4 @@
+How does one use the SEAESRT charging hazard graphic that NOAA provides?
+NOAA provides a dashboard for satellite operators. One of the tiles provided is the Charging Hazard graphic included below:
+I'm not quite sure how is this infographic used?
+How do satellite operators use this image? What does the red between 0-30 deg E & 0-30 deg N mean? What does the blue between 40S - 80S mean?

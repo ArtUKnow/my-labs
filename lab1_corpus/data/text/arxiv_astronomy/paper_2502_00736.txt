@@ -1,0 +1,2 @@
+ZTF J172132.75+445851.0: A Possible New Cataclysmic Variable of the VY Sculptoris Type
+We report the discovery of ZTF J172132.75+445851.0 as a new possible VY Sculptoris variable, with an orbital period of 0.109765426(44) days. Survey observations from 2005 to the present reveal significant activity in the system, with brightness variations ranging between 18.1 and 21.3 (zr) magnitudes, including deep fades exceeding an amplitude of 3 magnitudes.

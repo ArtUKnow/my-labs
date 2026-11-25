@@ -1,0 +1,8 @@
+Are out-of-ecliptic oblique interplanetary transfer orbits more efficient than in-ecliptic transfers?
+Most illustrations and animations of interplanetary transfer orbits show simplified, coplanar circular planetary orbits and classical Hohmann transfers in the ecliptic plane.
+Reality is a bit messier. Planetary orbits have an inclination WRT the ecliptic (except, by definition, the Earth’s orbit).
+LEO launches from the Earth usually produce an orbit with an inclination equal or greater than the launch site’s latitude (28.6* for Cape Canaveral, 45.6* for Baikonur). Of course, this inclination is in relation to the Earth’s equator which has an obliquity of 23.5* WRT the ecliptic. Putting all this together means an efficient launch to LEO will produce an inclined orbit WRT the ecliptic.
+If this inclination is corrected to align with the ecliptic using thrust, it will cost delta-V.
+Changing the orbital inclination is expensive in terms of delta-V, and is more expensive the closer the spacecraft is to the body it is orbiting. So why bother “correcting” the inclination? Why not design the transfer orbit at the same inclination (to the ecliptic) as the most efficient LEO launch?
+Every inclined elliptical solar orbit crosses the ecliptic twice. The flight plan could be chosen so the spacecraft departs Earth at one node (perihelion) and arrives at the destination at the other node (aphelion). No inclination "correction" burn needed.
+On arrival, the lowest energy insertion would result in an inclined (or polar) orbit around the target planet. But inclined orbits are usually preferred to equatorial orbits for planetary survey spacecraft.

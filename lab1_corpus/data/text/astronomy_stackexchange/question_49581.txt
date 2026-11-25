@@ -1,0 +1,3 @@
+How does a black hole look like independently of coordinates?
+Observing a black hole from far away, far it looks as if infalling matter accumulates on the horizon. If one falls in though, there is no horizon at all (or it always stays in front of you).
+Which raises the question, what is the true, uncoordinated, spacetime manìfold? Or are we implicitly always coordinating?

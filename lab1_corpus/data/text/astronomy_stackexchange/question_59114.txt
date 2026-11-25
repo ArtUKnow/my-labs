@@ -1,0 +1,15 @@
+Why is h0=0.125 deg used as the apparent rise & set angle of the moon - when the angle is negative for sun & stars?
+In formulas for calculating rise & set times for astronomical objects, you often see a list of conventional angles used for various rise/set events. For example, Greg Miller wrote in answer to a previous question:
+h0: Apparent rise or set angle, -0.8333 for the Sun, +0.125 for the Moon, and -0.5667 for most other objects.
+That question also describes the rise/set equations as formulated by Meeus - and implemented here by Greg on CelestialProgramming.com, which is the context I encountered this question.
+The same convention for lunar h0 is mentioned in this question (also implementing Astronomical Algorithms by Meeus).
+My question is this: The angles for sun and star seems to allow for atmospheric refraction, and thus an object is visible a fraction of a degree below the horizon as calculated without taking the atmosphere into account.
+But the moon's angle does not! Why?
+So for example, sunrise starts at -0.83333 degrees, hits the mid-point of the sun at -0.56667 degrees, and then sunrise ends (bottom of sun clearing the visual horizon) at -0.3 degrees.
+(-0.3 degrees is another 'conventional angle' you will see listed for end-of-sunrise or beginning-of-sunset.)
+The position of stars & planets agrees with this mid-point of the sun angle, at -0.56667 degrees.
+However, for the moon the angle is then listed as +0.125 degrees. It seems like, since the moon has almost exactly the same apparent diameter as the sun, the number for h0 would be the same. And that by the time +0.125 degrees is reached, the moon would not only be peaking above the horizon, or halfway up at the midpoint, or just clear of the horizon, but actually up and above the horizon by nearly a full moon diameter (0.125 deg - -0.3 deg = 0.425 deg, whereas moon apparent diameter is ~0.5 deg).
+So I realize a lot of this is down to convention. These angles are chosen given some idealized conditions for not only a perfectly spherical earth, a certain standardized altitude, idealized atmospheric conditions and so on.
+So I am not interesting in knowing how to calculate these numbers more precisely (there is software available), but rather: Why are or were these particular numbers chosen as some kind of a standard, and why is the figure used for the moon so different from that used for other objects?
+Is there a reason behind choosing such a different figure for moon rise and set than for the other astronomical objects? Or is it just a convention that someone, maybe only Meeus, settled on at some point?
+Is this the same convention used universally - when you see published moon rise & set times by anyone from the Naval Observatory to the Farmer's Almanac, are they using this some convention for h0, or a different one?

@@ -1,0 +1,7 @@
+Is an open expander cycle rocket engine driven by a gasified oxygen turbine technically feasible?
+Is an open expander (bleed-off) cycle engine that uses the gasified cryogenic oxidizer instead of the gasified fuel to drive the turbo pumps technically feasible?
+I was thinking of a first stage open expander cycle rocket engine. Usually they're driven by H2, like in the case of the RL-10, RL-60 (I know they're actually closed cycles) or the LE-5 (those run actually open expander cycles). But H2 is very difficult to handle, as we've seen recently on the SLS.
+The next best fuel would be methane, but bleeding that off would get me into trouble with environmentalists since it's a great greenhouse gas. So why not using the oxygen in a Methane/LOX combination to drive the turbine of the turbo pumps?
+I know, you'd probably waste more LOX by mass than by using H2, but is it really that bad? Since we're talking first stage applications here, the mass penalty isn't as bad as in the case with second stage propulsion, is it?
+What would be the technical challenges that you would face in that setup?
+Thanks for your answers.

@@ -1,0 +1,17 @@
+Will the next deorbiting reactor be on a "safe disposal" trajectory, or re-enter as an uncontrolled derelict?
+Kosmos 954 was a reconnaissance satellite launched by the Soviet Union
+in 1977, powered by a nuclear reactor containing 50Kg of highly
+enriched uranium-235
+Soviet officials … lost control over the vehicle, and the system which
+was intended to propel the spent reactor core into a safe disposal
+orbit … failed.
+When the satellite reentered the Earth's atmosphere the following
+year, it scattered radioactive debris over northern Canada. The
+Canadian government billed the Soviet Union for over $6 million under
+the terms of the Outer Space Treaty (which obligates states for
+damages caused by their space objects). The USSR eventually paid 3
+million Canadian dollars in compensation.[4]
+https://en.wikipedia.org/wiki/Kosmos_954
+There are currently 32 nuclear reactors in LEO: one SNAP-10A, two Topaz and 29Bouk.
+https://articles.adsabs.harvard.edu/cgi-bin/nph-iarticle_query?bibcode=2005ESASP.587..551J&db_key=AST&page_ind=1&plate_select=NO&data_type=GIF&type=SCREEN_GIF&classic=YES
+When the next LEO reactor de-orbits, will it have the capacity to enter a planned “safe disposal trajectory”, or will it be an uncontrolled derelict?

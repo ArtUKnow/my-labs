@@ -1,0 +1,2 @@
+What are the factors that affect the deorbit time of a spacecraft from LEO?
+ISS needs regular orbit raising manoeuvres to keep it in LEO. Sometimes a spacecraft or an upper stage of a launch vehicle reenters the atmosphere. What factors cause spacecraft to fall back down to Earth?

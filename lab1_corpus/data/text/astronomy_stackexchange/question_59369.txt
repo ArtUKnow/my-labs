@@ -1,0 +1,4 @@
+What is left behind when a Type 1A supernova occurs?
+When low or intermediate mass stars die, they collapse into white dwarfs. When high mass stars die, they go supernova and their cores collapse into neutron stars or black holes.
+However, if a white dwarf accrues enough mass by pulling mass off of another star beyond a critical mass, a runaway thermonuclear fusion event will cause the white dwarf to explode, forming a type 1A supernova.
+When this happens, does any portion of the mass have a chance to remain in the core, or is the white dwarf completely dispersed and blown to smithereens?

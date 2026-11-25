@@ -1,0 +1,15 @@
+Kinetic equations
+The kinetic equation of rotational motion of a satellite using Newton’s law can be expressed as follows:
+$$
+\frac{\partial H_b}{\partial t}+\omega_b\times H_b=T_d \qquad(1)
+$$
+In the above relation $T_d$ is the disturbance torque applied to the
+satellite, $H_b$ is the angular momentum vector expressed in
+the body coordinate system and $ω_b$ is the angular velocity of the
+Body Coordinate System relative to the Inertial Coordinate System that is expressed in the Body Coordinate System. For a satellite with three
+reaction wheels, $H_b$ can be obtained from the angular momentum of the satellite and reaction wheels as follows:
+$$
+H_b=J\omega_b+J_{w1}\omega_{w1}+J_{w2}\omega_{w2}+J_{w3}\omega_{w3} \qquad(2)
+$$
+J is Moment of Inertia Matrix. $\omega_{wi}$ is the angular velocity of the $i$th wheel relative to the Body Coordinate System.
+My question is how is equation (2) obtained.

@@ -1,0 +1,3 @@
+Why is the re-entry velocity of Orion almost the same as the escape velocity?
+I have read that the predicted re-entry speed on the Artemis I mission for the Orion spacecraft into the Earth's atmosphere is about 24,500 mph or 10.9 km/s. Why is it almost the same as Earth's escape velocity (11.2 km/s)?
+Is the destination influencing both speeds? For example, is this the speed to just make it to the Lagrange Point of Earth and Moon? What if a spacecraft leaves Earth in the direction of another planet or return from it, are escape and re-entry speeds the same as when aiming for the Moon?

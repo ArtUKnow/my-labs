@@ -1,0 +1,4 @@
+How did the ISRO's Chandrayaan - 1 impacter get enough Delta V to separate from the orbiter and impact the moon?
+The Chandrayaan - 1 was launched by the ISRO on 22 October 2008 and reached the final selinocenteric orbit on 12 November 2008.
+Its final circular orbit was at an altitude of 100 km. How did the impacter which had a mass of 35 kg (source : ISRO) get enough Delta V to separate from the spacecraft and impact the moon?
+How much Delta V was needed in this case and did the impactor had any propellants to reduce its orbit?

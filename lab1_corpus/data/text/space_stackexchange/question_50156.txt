@@ -1,0 +1,4 @@
+Bronze material compatibility for mechanism exposed to LEO
+I'm looking at using a worm gear for a latching mechanism on a spacecraft that's destined for a LEO trajectory. The mechanism is on the outside of the spacecraft, but the worm gear itself would be in a housing. My general gut feel is to default to aluminum or stainless steel, but worm gears (not the worm) are generally made of a softer material; bronze, brass, plastic.
+Does anyone know of any reason not to fly a bronze worm gear (a tin/copper alloy, little or no zinc) with proper precautions taken against cold welding and galvanic corrosion?
+Thanks!

@@ -1,0 +1,5 @@
+Why wasn't the high-speed rotation regime for Ingenuity tested on Earth?
+On the NASA website, it says that the propeller on Ingenuity will need to spin faster than what has been done before during all of the previous tests to accommodate for the rarefied atmosphere during the martian winter.
+they will have to spin faster than we have ever attempted with Ingenuity or any of our test helicopters on Earth.
+Why weren't any high rotation speed tests made on Ingenuity (or on an engineering model) done on Earth? It seems very unlikely that the engineers would not anticipate the effect of the atmospheric density variations.
+I understand that the atmosphere isn't the same on Earth, but there are chambers that can reproduce the martian atmosphere where spacecraft can be tested (I remember reading about one such chamber in Germany, but I can't recall the exact place). So why didn't we test Ingenuity at 2800 rpm in a martian-like atmosphere before sending it to Mars?

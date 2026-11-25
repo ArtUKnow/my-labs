@@ -1,0 +1,6 @@
+Could Theia plausibly have retained a large moon before its collision with Earth?
+I'm exploring a scenario in which Theia may have possessed a large moon before colliding with proto-Earth. In this scenario, the satellite later impacts Mars (forming Borealis), while Theia survives and eventually collides with Earth.
+I tested the orbital dynamics with N-body simulations and found that the trajectories themselves do not appear to rule out the scenario.
+The part I have not been able to evaluate is whether a Mars-mass planetary embryo could realistically form and retain a large impact-generated satellite for millions of years in the dynamically active environment of the early Solar System.
+Are there known dynamical, tidal, or formation constraints that would make such a long-lived satellite unlikely or impossible?
+Repository with methods and results: https://github.com/nickoush/elara-hypothesis

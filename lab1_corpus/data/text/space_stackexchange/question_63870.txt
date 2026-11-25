@@ -1,0 +1,32 @@
+Different Earth-centered ICRF positions in GMAT and Skyfield/Spiceypy with DE421
+I compared the Earth-centered positions from the Moon in the ICRF (i.e., in GCRF) using three different sources:
+SpiceyPy (https://pypi.org/project/spiceypy/)
+Skyfield (https://rhodesmill.org/skyfield/)
+GMAT 2020a
+All simulations use the DE421 ephemeris and cover the same time (365 days, starting at the same JD TBD; Skyfield/Spiceypy simply use the time-values provided in GMAT's report file).
+I observed the following:
+The obtained Earth-centered Moon positions are basically identical between SpiceyPy and Skyfield (max. difference 2e-5 meters)
+The difference between GMAT (Luna.EarthICRF.X/Y/Z) and Skyfield/SpicePy varies up to almost 70 meters.
+Plot of the euclidean distance between GMAT and Skyfield:
+I analysed the Moon positions from GMAT and Skyfield:
+the length of the position vectors (i.e. distance to Earth centre) is identical by -1.5...1.5 mm
+but the normal vectors to the ecliptic plane (cross product of position and velocity vectors) have different directions. Even worse, the angle between the normal vectors varies over time:
+Looks like GMAT's ICRF output and Skyfield's ICRF output are slightly "misaligned". This makes me wonder, because both Skyfield and GMAT are supposed to output their positions in ICRF.
+I looked at GMAT's code and found the function RotationMatrixFromICRFToFK5() (https://github.com/ChristopherRabotin/GMAT/blob/GMAT-2020a/src/base/coordsystem/CoordinateConverter.cpp). It uses a vector from GMAT's file ICRF_Table.txt to calculate the time dependent transformation between FK5 and ICRF.
+The exact same function was implemented in Python. Now, if I take GMAT's Moon position and rotate it (theoretically from ICRF to FK5), I got new Moon positions that I compared again with Skyfield. The Euclidean distance looks now as follows:
+This looks pretty right, with a difference up to 2 cm.
+Now my questions:
+Why do I need to perform a (theoretical) transformation from ICRF to FK5 on GMAT's output to get the same result as obtained from Skyfield (and Spiceypy)? Both tools use the same ephemeris.
+Is it possible that GMAT (accidentally) performs a FK5 to ICRF transformation on the calculated Moon positions, although the used ephemeris already provides ICRF?
+What is the explanation for having a time dependent transformation between FK5 and ICRF? Aren't both inertial systems fixed to distance celestial objects?
+Additional hint: I also compared JPL Horizons Moon output for the same time frame (by interpolating it to the relevant time steps): again, the positions between Horizons and Skyfield/Spiceypy are almost identical (error up to 4 meters; Horizons doesn't use DE421), whereas there is a notable difference between GMAT and Horizons.
+GMAT provides some explanations for its reference systems (https://gmat.sourceforge.net/docs/R2018a/html/CoordinateSystem.html), but I found no obvious explanation for the observed difference in Earth-centered Moon positions in ICRF.
+ICRF != ICRF?
+Thank you all!
+Thibault
+Edit on 25.06.2023: correct link to SpiceyPy.
+Additional info 02.09.2023
+When comparing Moon positions based on DE421 and outputted in GMAT's EarthMJ2000eq frame, the numbers a virtually identical to the ones provided by Skyfield or SpiceyPy.
+It seems that GMAT's frame EarthMJ2000eq (a.k.a. J2000/EME-2000) perfectly equals to the an Earth-centered ICRF, i.e. GCRF. This sounds reasonable, as Spice also uses ICRF but calls it J2000. Why isn't this explained in GMAT's documentation?
+Also, it's still a mystery to me what GMAT's ICRF frame actually represents. From what I can see, GMAT transforms its EarthMJ2000eq positions through a "FK5 to ICRF" transformation to get ICRF. This would be fine if EarthMJ2000eq would be in FK5, but it's apparently already in ICRF.
+Disclaimer: all tested with GMAT 2020a, and not the newer release 2022a.

@@ -1,0 +1,50 @@
+What is wrong with Voyager 1 attitude data telemetry? Is there a test version of the computer available?
+There is a problem with Voyager attitude data telemetry.
+While the spacecraft continues to return science data and otherwise
+operate as normal, the mission team is searching for the source of a
+system data issue.
+The engineering team with NASA's Voyager 1 spacecraft is trying to
+solve a mystery: The interstellar explorer is operating normally,
+receiving and executing commands from Earth, along with gathering and
+returning science data. But readouts from the probe's attitude
+articulation and control system (AACS) don't reflect what's actually
+happening onboard.
+The AACS controls the 45-year-old spacecraft's orientation. Among
+other tasks, it keeps Voyager 1's high-gain antenna pointed precisely
+at Earth, enabling it to send data home. All signs suggest the AACS is
+still working, but the telemetry data it's returning is invalid. For
+instance, the data may appear to be randomly generated, or does not
+reflect any possible state the AACS could be in.
+Source JPL May 18, 2022
+There are three different computers onboard Voyager.
+The Flight Data Subsystem (FDS) is responsible for configuring and
+operating science instruments. The FDS collects engineering and
+science data and formats the data for downlink transmission.
+Source
+The computer command subsystem (CCS) is used to decode commands and executes fault detection and correction routines.
+The Attitude and Articulation Control Subsystem (AACS) controls the
+spacecraft orientation (its attitude). It keeps the high-gain antenna
+pointing toward the Earth, controls attitude changes, and points the
+scan platform.
+Source
+So the AACS seems to work well in keeping the antenna pointing to Earth. The FDS formats the data for downlink transmission.
+D. Other Challenges In addition, the FT also has to work around a lack
+of a hardware test bed, the limited memory of on-board computers, and
+antiquated programming languages.
+The Capability Demonstration Lab (CDL), the testbed used during the
+prime mission, could not be maintained and had to be abandoned at the
+start of VIM. The failures of the testbed were too often, even in
+pre-VIM, due to aging hardware and disappearing repair expertise. The
+project had to move to a new location in early VIM and the CDL did not
+survive the move. There are no simulators for the AACS or FDS and only
+the CCS has a simulator, i.e., HSSIM. As a result, any FSW changes
+other than something very simple have to be done in the CCS.
+The CCS on each spacecraft has 4K memory in each processor, so 8K in
+total, but the majority of functions are in both processors for
+redundancy. To make the best use out of such limited memory spaces,
+different programmers used all kinds of tricks in maintaining and
+adding patches over the life of the mission, resulting in extremely
+unstructured code that is prone for mistakes. It is crucial to
+validate all the sequence products and any kind of FSW changes
+thoroughly in HSSIM.
+So there is no testbed available for the FDS and only a simulator for the CCS.

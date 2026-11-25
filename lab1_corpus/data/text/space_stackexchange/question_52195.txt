@@ -1,0 +1,21 @@
+Why are deep space "beacons" usually UHF, so low (in freq) that DSN can't hear them? And how unusual is it for a Mars lander to have an X-band beacon?
+This answer to Is there independent evidence that China landed a robot on Mars in May 2021? and an extensive comment below it indicate that the Zhurong Mars lander had an X-band beacon, information that is cited from https://destevez.net/2021/05/tianwen-1-landing/ which links to this tweet.
+Beacons, tones, heartbeats are radio signals that have little to no encoded data, but their existence, amplitude and especially Doppler shift contains a wealth of information about spacecraft health, mission progress and successful execution of orbital maneuvers, and in the past five years have been used to both demonstrate successes and post-mortem failures of landings.
+To my knowledge these beacons are at VHF/UHF frequencies, Perseverence's was about 400 MHz for example. From:
+Was the time of Schiaparelli's landing chosen specifically so the Giant Meter Wave Radiotelescope could listen?
+How long did the plasma blackouts of Perseverance's signals to MRO and direct-to-Earth last during its seven minutes of terror?
+This VHF tone is around 400 MHz and was tracked by the Green Bank Observatory earlier. I don't know if it was Green Bank who received it during EDL also or not, but Mars was certainly high in the sky at the time (elev. > 65°), so it seems likely.
+Schiaparelli's was 401.6 MHz: ExoMars Schiaparelli Direct‐to‐Earth Observation using GMRT (also here).
+Basically, as long as you are well above say 60 MHz you can assume the ionosphere to be fairly transparent. There will be more refraction, scintillation and astronomical seeing effects as you get closer to the ionosphere's plasma frequency, but probably anything above 100 or 150 MHz should be okay.
+For deep space links when high data rates or accurate range-rate measurements are required, much higher frequencies are used. This is primarily because the strength of the received signal depends on the ratio of the diameter of the transmitting dish to the wavelength (narrowness of the beam's diffraction pattern as it expands over millions to billions of km). The efficiency of the receiving antenna is not linearly dependent on wavelength in the same way, though a narrow beam can in some cases improve S/N.
+You have to be careful because the ratio of each antenna's diameter to the wavelength are used to calculate gains for each as part of a classical link budget calculation, but this is an idiosynchrocy of how link budgets are normally performed and there's a $\lambda^2$ present in the "free space path loss" which one would normally think should be only $1/r^2$.
+Why does NASA use higher frequencies even though they have worse Free Space Path Loss (FSPL)?
+How to calculate data rate of Voyager 1?
+Anyway Beacons are necessarily transmitted with omnidirectional antennas because we don't want to have to orient the spacecraft to send them to Earth, so those transmit antennas don't have meaningful diameters, and we just assign them gains close to 0 dBi (decibels relative to a theoretical isotropic radiator).
+Questions:
+So why are beacons traditionally in the UHF in frequency bands so low that the Deep Space Network can't even receive them? It wouldn't make sense to add a UFH receiver to several DSN dishes, but why not raise the frequency of the beacons?
+Is it harder to make an isotropic transmitting antenna when the wavelengths get down to centimeters?
+Are the transmitters heavier, more expensive, less efficient/reliable or otherwise undesirable at say S-band, or the higher X, Ku and Ka bands?
+Is it something else entirely?
+How unusual is it for a Mars lander like Zhurong to have an X-band beacon?
+Random factoid: Iris V2.1 CubeSat Deep Space Transponder; X-, Ka-, S-Band, and UHF Deep Space Telecommunications and Navigation (also here)

@@ -1,0 +1,3 @@
+Official source discussing the stress that Lunokhod operators were experiencing?
+I came across this document mentioning the high stress that the Lunokhod operators experienced when teleoperating the rovers back in the 1970s. There is a mention that driving Lunakhod 2 was particularly brutal since they maintained a high traverse rate (they drove over 11km in one Lunar day). At times, the heart rate of some operators reached ~130 beats per minute.
+Does anyone know where I can find more official information about the stress the Lunokhod operators were subject to? The link above does not appear to cite anything on that end, and other questions on this forum do not discuss this specifically. Thanks!

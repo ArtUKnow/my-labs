@@ -1,0 +1,18 @@
+Calculate position of planet on fictitious orbit each day
+I'm a software developer but my degree with in mathematics. I'm trying to develop a game/simulation of a fictitious randomly generated solar system, and trying to work out how to model and calculate the planetary orbits. I've been reading what resources I can find and understand, especially https://calgary.rasc.ca/orbits.htm and feel I am close to what I need, but stuck on a few points at the end.
+Firstly I think I can happily ignore:
+That the planet(s) orbit and the sun itself orbit around the solar system barycenter / that the gravity of the planet(s) pull on the sun. I can assume the sun is a fixed point (0,0,0) and the planets orbit around that.
+That the gravity of the planet(s) influence each other.
+Given that, what I plan to do for a given random planet so far is:
+Roll random value for "a", semi-major axis of elliptical orbit (in metres, for benefit of calculation below)
+Roll random value for "e", eccentricity, between 0 <= e <= 0.8 seems reasonable
+Calculate "b", semi-minor axis = a * √(1 - e2)
+Foci are at +/- ae so can now translate the ellipse ae to the right to place one of the foci at (0,0,0) where the sun is
+This is so far assuming the ellipse axes are lined up with the coordinate system axes so the ellipse is oriented horizontally, so now rotate the ellipse in the 2D plane a random number of degrees 0 <= r < 360 (I'm afraid I have not yet found what the correct terminology is for this)
+Roll random value for orbit inclination, between -20 <= i <= +20 seems reasonable, and rotate the ellipse in 3D space accordingly
+Calculate orbit duration T in seconds = 2π × √(a3 / GM) where M is the mass of the sun
+Points on the ellipse can be calculated as x = a cos t, y = b sin t (then applying the translate/rotate operations in 4-6 above). So this is enough to draw the elliptical orbit. But clearly the points generated here don't take into account that the orbit is faster when the planet is closest to the sun vs its slowest when the planet is at its furthest point from the sun.
+I can roll a random point on the ellipse as the starting point for the planet. But how can I calculate what point on the ellipse the planet will have each day? I see two possible approaches, I'm happy for either:
+As a definitive calculation, so a formula into which I could plug in the parameters of the ellipse and calculate coordinates for any time "t". or
+If I knew a starting point and velocity, I could simply advance the planet by that amount, and apply the effect of the sun's gravity on its velocity vector. (I wrote a simplistic demo that did just that many years ago). But this requires knowing the planet's position and direction of travel on day 1 (which I can work out as above) but also its speed to make it follow the prescribed orbit (which I do not know how to calculate, other than by a loop of guess, calculate, refine guess until I reach an acceptable level of accuracy).
+Many thanks for any suggestions.

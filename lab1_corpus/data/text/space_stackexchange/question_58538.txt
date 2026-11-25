@@ -1,0 +1,7 @@
+What is the furthest from Earth that a military spacecraft is thought to have been intentionally deployed or moved to?
+Space.com's Space Force plans to send a patrol probe out past the moon includes a quote from the new AFResearchLab video Cislunar Highway Patrol System (CHPS).
+"Until now, the United States space mission extended 22,000 miles [35,400 kilometers] above Earth," the video states, referring to the altitude at which geostationary satellites fly. "That was then; this is now."
+"The Air Force Research Laboratory is extending that range by 10 times and the operations area of the United States by 1,000 times, taking our reach to the far side of the moon into cislunar space, far beyond the crowd," the video's narrator continued.
+Question: Is GEO or just slightly above it the furthest from Earth that any military spacecraft is thought to have been intentionally deployed or moved to or through? If not, what is the furthest from Earth to which this has been done?
+Further reading:
+A Primer on Cislunar Space M. J. Holzinger, C. C. Chow, P. Garretson, Approved for public release: distribution unlimited. AFRL 2021-1271

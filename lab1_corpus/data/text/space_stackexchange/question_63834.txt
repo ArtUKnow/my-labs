@@ -1,0 +1,3 @@
+How to "turn off" ADCS system to monitor orientation after firing MDT's?
+I've been tasked in a hypothetical mission of determining if an Attitude Determination and Control System (ADACS) can be "turned off" during MEMS Digital Thruster (MDT) firings so that the spacecraft will move and calculate the moments that are generated from the firings. The mission involves a 3U CubeSat and the MDT's referenced above. I am going to use the reaction wheels and solve the "spin down" time that will release all the angular momentum of the vehicle and come to a stop before the MDT firings. I'm just wondering what next steps I'll need to look into to solve the problem at hand.
+Thanks in advance!

@@ -1,0 +1,4 @@
+Falcon 9 CGT Force?
+Curious how much force the Falcon 9 cold gas thrusters produce for steering? I've seen numbers in the range of 25--100 lbf, but not sure where in this range (or outside it) the Falcon 9 falls.
+If you know the numbers for other rockets, I'd be interested in those too. The Falcon 9 uses them for attitude control no reentry for landing, so my guess is that only modern rockets with landing first stages will have them...
+Thanks if you know and can share!

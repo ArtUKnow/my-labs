@@ -1,0 +1,6 @@
+Energy Needed for Lunar Lander to Ascend?
+Is it possible to calculate how much energy was expended when the Apollo 11 lunar lander ascended from the Moon's surface to join the Command Module in lunar orbit?
+Many relevant parameters for the ascent stage are here:
+https://en.wikipedia.org/wiki/Apollo_Lunar_Module#Ascent_stage
+but I can't figure out how to calculate the energy expended. Any help towards that will be appreciated.
+update: In response to "expended energy or the energy increase of the lander (change in potential + kinetic)?" Yes, the expended energy. I'd like to compare that to other launch possibilities.

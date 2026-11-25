@@ -1,0 +1,14 @@
+Calculation of the total energy of a spaceplane
+I am trying to calculate the total energy change of a spaceplane during its flight time. From the data I have and the calculations I made, I created an excel table in which I included:
+flight time : from 0 s to 147 s ( with a step of 5s)
+Height at time t -->h(t)
+Speed at time t and h(t)-->V(h)
+Knowing the dry mass (Md), propellant mass (Mp) and propellant flow rate(m), I calculated the mass at time t as follows:
+m(t) = Md + (Mp- m * t)
+Considering that after 57 seconds the engine shuts down, the mass remains unchanged from this point on.
+So the total energy is:
+E = 1/2 * m(t) * V^2 + m(t) g h(t)**
+Keeping in mind that about 120 s the spaceplane begins its descent; Energy should increase until 120s and then begin to decrease.
+Instead, I get that after 120 s the energy increases, and I cannot explain why.
+Can you help me ?
+Edit: This is the spreadsheet

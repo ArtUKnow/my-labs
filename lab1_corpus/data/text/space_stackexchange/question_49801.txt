@@ -1,0 +1,12 @@
+LVLH frame based on inertial velocity or relative (ground) velocity?
+The LVLH frame is widely used in rockets during launch. The space shuttle crew used it in its attitude readings beginning very early after launch, meaning it was very reliable as soon as the rocket was in motion.
+This frame is built from the rocket's position and velocity vectors such that:
+z is -r
+y is -r x v
+x is y x z
+But what frame are the r and v vectors resolved in? In an earth-centered inertial frame (ECI), a rocket sitting in the pad has a sizeable eastward velocity even before launch.
+In an earth-centered earth-fixed frame (ECEF), the rocket on the pad has zero velocity (as the rocket is then moving eastward as fast as the ground).
+This means different velocity vectors, which means different LVLH frames.
+I've tried both approaches, and the one that works is the one I least expected. My rocket's attitude and my orbital inclination (given by r x v) are all good if my r and v vectors are defined in ECEF.
+The attitude and inclination both break down if r and v are defined in ECI.
+Can someone clarify for me which frame the r and v vectors should be defined in to properly build an LVLH frame?

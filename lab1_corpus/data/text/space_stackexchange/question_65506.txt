@@ -1,0 +1,8 @@
+How much time does the ISS require in "non value adding activities"?
+Generally, we can divide the things that a worker, in this case an astronaut, does, into two categories:
+Value adding: Activities which contribute directly towards the employer's goals. In a company, this means profit, but in the context of NASA, this--broadly--means "science output".
+Non value adding: Activities which may be required in support of value adding activities, but do themselves not produce value. In the context of the ISS, this is tasks like repair, maintenance, or cleaning.
+My question is how many on-orbit FTEs (Full-time Equivalent units) does the ISS require to operate?
+For example, if it takes 3 FTEs (so three astronauts working full time) to maintain/repair/clean/do chores on the station, this would mean that if there were four astronauts aboard, then there would be 1 collective FTE available for scientific, value-adding pursuits.
+My hypothesis is that there is a "baseline" of "chores" that the ISS requires, and this has all sorts of implications: for example, taking the previous example of it requiring 3 FTEs, this would suggest that if we upped the "onboard astronaut count" from four to five, we would effectively be doubling the amount of science that could be done on the station as we now have 2 FTEs spare after subtracting those that accrue from non-value adding activities.
+Additionally, if we knew this figure, we you could calculate the costs for a more economical space station: if a modern and brand new station only requires 1 FTE to keep in operation, you can have a station with fewer astronauts aboard producing more science value.

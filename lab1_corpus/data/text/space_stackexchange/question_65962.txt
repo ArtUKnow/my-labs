@@ -1,0 +1,8 @@
+What practical tasks did you start working on in programming PLD/FPGA for spacecraft?
+There are a great many areas of application of PLD/FPGA in spacecraft. Let's take as a basis this classification of domains and subdomains, proposed in the November 24, 2023 FPGAInsights.com blogpost FPGA In Space Exploration: Powering Satellites and Spacecraft:
+Onboard Processing and Data Handling (Real-time Data Processing, Adaptive Computing, Customized Algorithms).
+Real-time Signal Processing for Scientific Instruments (Instrument Control, Signal Conditioning, Image and Signal Compression).
+Adaptive Computing in Response to Changing Mission Requirements (Mission Flexibility, Software-defined Systems, Multi-Functionality).
+Power Efficiency (Resource Constraints, Weight Considerations).
+Power Optimization (Dynamic Reconfigurability, Parallel Processing, Adaptive Computing).
+All these are very large and at first glance complex areas where PLD/FPGA are actively used. Therefore, I would like to ask for some good examples of initial practical tasks with which you started working in programming PLD/FPGA for spacecraft? Can someone help me with this? Please share your experience and what you know? It will be helpful for me (but actually not only me, but many others as well) to prepare a little and learn this in advance.

@@ -1,0 +1,5 @@
+What is the inertial heliocentric reference system used by NASA JPL to calculate the ephemerides of Near Earth Objects?
+I'm using the website of NASA JPL Horizon system at this link Small-Body Database Query
+to download a database of orbital elements for NEOs (asteroids and comets).
+Although I checked the Horizons System manual at this link Horizon System manual, I cannot understand what is the heliocentric inertial reference frame used to compute these data.
+Can you help me?

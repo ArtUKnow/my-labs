@@ -1,0 +1,2 @@
+Anyone know where to get raw telemetry data for JWT / Webb telescope
+https://webb.nasa.gov/content/webbLaunch/whereIsWebb.html has a nice graphical representation of the JWT / Webb Telescope as far as distance traveleled, distance to go, current temperature, etc. I'd like to get this data in a text / json / csv format. Does anyone know where that data is available in a text based format?

@@ -1,0 +1,7 @@
+What is orientation?
+I'm trying to understand how SPICE software works, but I'm afraid that I need to understand a lot of astronomy concepts.
+One of the kernels I have use has this description:
+These kernels contain orientation data for planets, natural
+satellites, the Sun, and selected asteroids.
+What is orientation data? Or better, what is orientation?
+I think orientation is an astronomy concept that those files don't explain.

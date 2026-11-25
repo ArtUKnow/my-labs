@@ -1,0 +1,29 @@
+Calculating the time of flight between two anomalies gives a negative result?
+I want to calculate the time of flight (TOF) between two true anomalies on an orbit with known orbital elements. Based on this wikipedia article and the post Time of flight between two anomalies in a known orbital trajectory , I ended up using the following formula.
+Knowing the true anomalies $\nu_1$ and $\nu_2$ (with $\nu_2 > \nu_1$) at some (unknown) times $t_1$ and $t_2$ ($t_2 > t_1$), I express the TOF $t_2 - t_1$ from $\nu_1$ to $\nu_2$ by:
+$$
+t_2-t_1 = \sqrt{\frac{a^3}{\mu}}(E_2-E_1 + e(\sin E_1 - \sin E_2))
+$$
+Where $E_1$ and $E_2$ are the corresponding eccentric anomalies calculated using the equation:
+$$
+E = 2 \arctan \left( \sqrt{\frac{1-e}{1+e}} \tan \frac{\nu}{2} \right)
+$$
+However this expression in practice gives me a wrong negative TOF.
+This can be verified with a simple numerical example. Since $\sqrt{a^3/\mu}$ is always positive, we can focus only on the sign of the part involving the eccentric anomalies. Considering :
+$e = 0.11$ (slightly elliptic orbit)
+$\nu_1 = 2.43 \ \text{rad}$
+$\nu_2 = 3.78 \ \text{rad}$
+We calculate $E_1$ and $E_2$:
+$E_1 \approx 2.35 \ \text{rad} $
+$E_2 \approx -2.43 \ \text{rad} $
+Which then gives:
+$$
+\begin{align}
+(E_2-E_1 + e(\sin E_1 - \sin E_2)) & = (-2.43-2.35+0.11\times(\sin(2.35)-\sin(-2.43))) \\
+& \approx -4.63 < 0
+\end{align}
+$$
+This problem will arise whenever a true anomaly is greater than $\pi$ because of the $\pi$-periodicity of $\tan$.
+Is there a way to counter this ? Is there a formula for TOF that works well for all cases ?
+If possible one that would also work with a hyperbolic orbit (through sign changes and the usage of the hyperbolic anomaly).
+Thanks in advance.

@@ -1,0 +1,5 @@
+Why procure a separate de-orbit vehicle for the ISS? Why can't the ISS flip over and de-orbit itself?
+From NASA Solidifies Planning to Deorbit ISS in 2031:
+ISS average altitude estimates targeting re-entry early 2021
+Figure 4. shows the ISS end-of-life de-orbit altitude, cargo resupply, and de-orbit plan assumptions. This timeline assumption is reflected in the budget discussion above for de-orbit vehicle procurement.
+Question: Why would NASA need to procure a de-orbit vehicle for ISS end-of-life de-orbiting? It's flipped over several times in the past, why not flip over and do its own de-orbit burn?

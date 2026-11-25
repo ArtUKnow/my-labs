@@ -1,0 +1,7 @@
+Why do Falcon 9 grid fins open in piecemeal fashion?
+The grid fins on Falcon 9 seem to open in piecemeal fashion: extending a few degrees, pausing, extending a few degrees, pausing, etc.
+Any reason why this happens? The rocket stage is around 80 km high, where drag is negligible, so that shouldn't be a factor.
+The engines aren't firing, so thrust acceleration shouldn't be a factor either.
+So it all seems to come down to the fin-extend actuators, which are said to be hydraulic.
+But why wouldn't they open the grid fins in one continuous shot? Is this by design?
+video cued at T+ 00:02:55 into the launch, just before the grid fins begin to deploy and do so at an irregular rate:

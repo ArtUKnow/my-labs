@@ -1,0 +1,17 @@
+Is there a reason SpaceX does not spiral weld Starship rocket bodies?
+Spiral welding is a standard manufacturing technique for forming tubular metal structures.
+Being a continuous process, spiral welding is ideal for automated welders. Quality control and re-welding are also incorporated into the continuous process.
+Spiral welding can produce sections of optimum length, not just rings which happen to be the same axial length as the material roll. Current Starship ring width was not chosen to optimize design. Ring width was limited to the maximum roll width available from steel mills.
+Spiral welding can reduce total weld length. The total weld length is equal to the perimeter of the roll. Any other design strategy which involves cutting the roll (like rings) increases the perimeter and therefor increases weld length.
+Spiral welding eliminates the vulnerable "skelp weld" which closes the ring sections. In a pressurized cylinder, wall tension is greater circumferentially than axially. This maximum tension is carried by the skelp weld. Spiral welding eliminates the skelp weld. If this is the most vulnerable location in the ring, spiral welding could potentially reduce material thickness and rocket mass.
+Because spiral welding can occur on a horizontal surface (as opposed to vertical assembly of rings), Submerged Arc Welding techniques can be used. This technique can be up to 10X faster than the Gas Shielded Metal Arc welding used by SpaceX on its vertical welds. https://en.wikipedia.org/wiki/Submerged_arc_weldingm. Spiral welding would also be an ideal application for Friction Stir welding.
+This technique would seem to have advantages for mass production of rocket bodies.
+https://www.techtimes.com/articles/288269/20230227/worlds-first-spiral-welded-wind-turbine-tower-now-up-running.htm
+According to Elon's "Idiot Index" Is Elon’s “Idiot Index” an over-simplification? , his mantra is:
+1) Question: why are tubular rockets not manufactured using the technique which has been the industry standard for fabricating tubes for over half a century?
+2) Delete: get rid of the axial "skelp weld" in every ring section
+3) Simplify: go to a continuous, rather than batch process
+4) Accelerate: submerged arc welding is many times faster than gas shielded arc welding
+5) Automate: an automated spiral weld process (like that used for making thousands of miles of pipeline) would allow automation of the entire process including post weld inspection, corrective welding, and cut-off into pre-selected optimum lengths
+Elon has envisioned mass production of thousands of starships. This would justify an on-site rolling mill to produce continuous sheets (optimum width, no rolls, no skelps) feeding into a continuous spiral welder. The flying cut-off would produce sections of lengths that were optimized to suit the component they were intended for.
+This proposed on-site rolling process could vary material thickness as desired, producing variable wall thickness including tapering thickness. Varying the sheet width could produce tapered sections including transitions between cylinders of different diameters and "bullet" noses.

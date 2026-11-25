@@ -1,0 +1,11 @@
+Which aspects of the JWST wavefront process are the most time-consuming?
+NASA is currently estimating the that the upcoming wavefront process to align the JWST's mirror segments will take around three months.
+This description of the WFSC process paints a picture of numerous stages that involve variants of processes of a similar nature:
+Acquire an image using the current hardware positions
+Perform image processing incorporating new and previous images to understand what positional changes to make next
+Actuate changes to one or more hardware positions
+Repeat until alignment is satisfactory
+Of these three processes (image acquisition, image processing and actuation) each can sometimes be very fast and sometimes very slow depending on the engineering application.
+If they were all very fast but consist of a lot of iterations, perhaps communication round trips between JWST and mission control would be important too (there is some suggestion that image processing will rely on high-performance computing clusters that would presumably be ground-based too).
+If there are many significant human decisions to be made in between steps of the process then significant portions of the time may elapse when none of the above are taking place.
+So what be occupying the most of the JWST's time during these months?

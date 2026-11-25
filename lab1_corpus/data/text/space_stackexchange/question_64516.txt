@@ -1,0 +1,5 @@
+square-cube law and thermal protection tiles (TPS)
+Yesterday, I asked a question about the square-cube law and propellant tanks.
+Do larger rockets tend to have a better mass ratio due to the square cube law?
+I have a very similar question about Space Shuttle thermal protection system or TPS tiles. Does the mass ratio of TPS tiles improve in larger constructions? I mean, is the weight of the TPS divided by the mass of the whole construction better in larger ships, or do larger ships require thicker tiles, resulting in linear growth?
+Starship, someday, will transport humans, so it will be much heavier when reentering the atmosphere (life support etc). Therefore, it will need to withstand much more heat. SpaceX doesn't have a different TPS design for these scenarios.

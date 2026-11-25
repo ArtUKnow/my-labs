@@ -1,0 +1,5 @@
+Why do the more recent landers across Mars and Moon not use the cushion approach?
+I was wondering why the (relatively) recent Perseverance (USA), Chandrayaan-2,3 (India) and Luna-25 (Russia) don't leverage the advantage of the cushion based approach that Spirit, Opportunity, and Sojourner leveraged?
+Is it not the case that they improve the chances of a successful landing in case of any miscalculation or malfunction or some local environmental factors (particularly Mars)?
+References :
+https://mars.nasa.gov/mer/mission/spacecraft_edl_airbags.html

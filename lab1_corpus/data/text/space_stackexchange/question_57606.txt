@@ -1,0 +1,2 @@
+Docking in space
+I read about the mechanism of "docking" of Command Modules & Lunar Modules of the Apollo missions (the probe & drouge). It seems it was far too complex & had too many parts. I felt it is in principle similar to that of the mechanism for "Opening & Closing" of an umbrella. Can anyone explain the need for so many parts used on the actual docking mechanism on LMs & CMs? Could it have been as simple as that of an umbrella - may be with multiple latches, unlike the umbrella which typically has only one latch?

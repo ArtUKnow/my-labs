@@ -1,0 +1,12 @@
+Why are modern satellite ground station and deep space communications dishes with secondary mirrors almost always Cassegrain?
+The simplest dish antennas have a concave reflector and their feed horns at the primary focus which is "up in the air".
+That has several inconveniences, it's hard to go up there to do any kind of band or amplifier switching or add a liquid helium refrigerator for front-end cooling, much less repairs.
+So bringing a secondary focus back down closer to the ground and often inside a large enclosure behind the dish has several advantages.
+What is a Beam Waveguide dish and why do deep space communications stations use them?
+But as discussed in this answer to Schmidt corrector plate on a Newtonian = Schmidt Cassegrain? and all of the questions and answers linked therein, the main selling point of a Cassegrain telescope is its correction of off-axis aberrations.
+Except for some fancy radio astronomy imaging applications, most dish antennas are primarily on-axis power collectors for weak signals, especially in deep-space applications.
+(Astronomy.SE) How do ASKAP's focal plane phased array feeds interact with the entire array phasing?
+(Astronomy.SE) What is the highest granularity focal-plane array on a dish radio telescope? Or is this the ONLY ONE?
+Question: Why are modern satellite ground station and deep space large communications dishes with secondary mirrors almost always Cassegrain? Besides providing the folded path, are there ever situations where the off-axis aberration correction from the hyperbolic shape of the secondary provides additional benefits in performance, design or operation?
+There are of course some notable exceptions!
+How does this strangely-shaped horn at Honeysuckle Creek Tracking Station work?

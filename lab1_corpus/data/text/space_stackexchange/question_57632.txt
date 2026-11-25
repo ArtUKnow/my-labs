@@ -1,0 +1,3 @@
+Can Starship reach orbit without superheavy, now upgraded as of Jan 2022 to 9 engines and stretched tanks?
+Can Starship reach orbit without superheavy, now that it's been upgraded as of Jan 2022 to 9 engines (added 3 vacuum raptors) and stretched tanks? Back in 2018 Elon said on twitter that the earlier version technically could do it but without useful payload. If so it becomes the first SSTO, and could be very effective since most commercial satellites are small. Maybe a big deal?
+It might be necessary to fill up part of the cargo space with extra fuel tanks...

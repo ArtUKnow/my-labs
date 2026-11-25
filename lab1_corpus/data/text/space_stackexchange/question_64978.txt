@@ -1,0 +1,19 @@
+How to design a Blowdown or Pressure Regulated pressurization system for a spacecraft?
+I am trying to develop a simple tool to size a pressurization system for a spacecraft using either a blowdown pressurization system (BD) or a pressure regulated (PR) pressurization system. Though I find the results of this process rather strange.
+I see that, once I set the initial and final pressure of the pressurizing gas in both of the systems, the mass of gas is the same, even though the work done by the gas in the blowdown system is higher than the one of the pressure regulated system.
+I assumed that the initial pressure of the gas for the blowdown system equals the pressure of the gas in the gas tank for the pressure regulated system, and that in the latter the pressure at which the gas expands in the propellant tank is the final pressure (the pressure regulator is set at the final pressure).
+The architecture considered for both of the system is shown here.
+The equations that where used for the sizing are the following.
+$p_{g,i}*V_0^k=p_{g,f}*(V_0+V_p)^k$
+Where
+$p_{g,i}$ is the initial pressure of the gas.
+$p_{g,f}$ is the final pressure of the gas.
+$V_0$ is the volume of the ullage for the blowdown system or the volume of the gas tank in the pressure regulated system.
+$V_p$ is the volume of propellant to be displaced.
+$k$ is the polytropic coefficient of the expansion.
+And
+$m_{gass} = \dfrac{p_{g,i}*V_0}{R_{g}*T}$
+I find it strange that, using this assumptions, the work exerted by the gas in the BD system is higher than the one in the PR system. As the pressure at which the propellant is expelled from the tank in the BD system goes from $p_{g,i}$ to $p_{g,f}$ while in the PR system the pressure is always $p_{g,f}$. All of this while the mas of gas is the same.
+Is there a faulty assumption in these calculations? How would you explain this difference?
+Is it possible to attribute the difference in work done by the gas to the pressure regulating valve in the PR system?
+I will greatly appreciate any contributions! :)

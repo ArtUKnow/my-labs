@@ -1,0 +1,12 @@
+Change in drag coefficient when Dragon flips over on launch escape?
+Consider the Falcon 9.
+In emergencies, the launch escape system will fire to separate and propel the crew module away from the rocket.
+After the engine shuts down, the payload trunk will separate leaving the crew module to carry on alone.
+The crew module, being aerodynamically unstable by design, will quickly flip over so that its heat shield is facing forward.
+And this means a big change in the drag coefficient of the crew module.
+Before the flipover, the streamlined ogive-like nose will aim into the wind, giving a fairly low drag coefficient. After the flipover, the blunt heat shield will aim into the wind, giving a fairly high drag coefficient.
+I know there is no data out there for the drag coefficient, but if it is/were close to other ogive-like vehicles, then roughly what values would you expect? Would 0.3 for nose-forward and 1.5 for heatshield-forward be in the ballpark of reasonable?
+I’m ignoring dependencies on speed and altitude at my peril. Just trying to get a baseline expectation for the change on the drag coefficient due to the flipover alone.
+Even better, is there data out there for a flipover of an pointy vehicle with a blunt heat shield?
+Rough and approximate are fine for my purposes. Think “ballpark” if you don’t have exact numbers.
+Thanks!!!

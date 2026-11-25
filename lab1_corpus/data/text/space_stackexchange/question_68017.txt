@@ -1,0 +1,7 @@
+For asteroid redirection, is “slow push” inherently more efficient than “impact”?
+Proposals for asteroid redirection include direct impact as well as a long thrust (either after a soft landing or by gravity tug). Purely in terms of converting a given amount of energy (chemical rocket or solar powered ion rocket) into asteroid delta-v, is one strategy inherently more efficient than the other ?
+Complications:
+The two strategies have different intercept strategies. The soft landing would require a rendezvous and therefore likely require more delta-v for the spacecraft.
+For a NEA interception, the optimum interception would likely be at a different location in the asteroid's orbit for the two methods, with different delta-v requirements for the spacecrafts
+A rotating asteroid complicates a soft landing and could require propellant expenditure to change asteroid angular momentum, depending on latitude of the landing site. A soft landing at one of the poles would not be hampered by rotation. Thrust would then be limited to the direction of the axis, but for the purpose of re-direction to avoid Earth collision, any thrust direction will work.
+But this question just deals with asteroid redirection via momentum transfer. I suspect impact is less efficient since kinetic energy is "wasted" in heat and debris dispersal. On the other hand, momentum is always conserved so maybe both strategies a equally efficient. ????

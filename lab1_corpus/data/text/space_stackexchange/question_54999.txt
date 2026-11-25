@@ -1,0 +1,3 @@
+When docked, do Dragon solar panels contribute to ISS mains power?
+What it says on the tin.
+Does a docked Dragon trunk section contribute to the ISS's batteries? I'm aware it would probably be minimal though due to orientation and occlusion of the panels, and when not in use, the spacecraft's internal power draw is likely minimal.

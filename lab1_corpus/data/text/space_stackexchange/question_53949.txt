@@ -1,0 +1,5 @@
+How do SpaceX intend to transport their starship/super heavy?
+One of the design constraints of the Falcon 9, its skinniness, is to allow it to be transported by truck back to the launch site.
+Falcon 9 is 3.7 metres in diameter, whereas Starship and the super heavy booster will be 9 metres in diameter.
+How do they intend to transport these spacecraft?
+I understand that the super heavy landing is intended to happen by being caught by the launch tower. Even so, there will presumably be flight trajectories that won't allow it to come back to the same launching site. There will also be the need to transport the starship and booster from the manufacturing centre to other launch sites.

@@ -1,0 +1,9 @@
+Converting J2000 to ECEF?
+Say I get the orbital elements for the ISS from JPL Horizons.
+Say that data is expressed in J2000, an inertial frame. I want to express it in ECEF.
+This is a simple rotation transform. All I need is the rotation matrix that would transform J2000 into ECEF.
+But I'm not aware of such rotation matrices being published anywhere. No problem. I can build the matrix myself so long as I know the X, Y, Z rotations needed to transform J2000 into ECEF.
+If the z axes of J2000 and ECEF are aligned (e.g., if they both coincide with the earth's polar axis), then all I need is the Z rotation from J2000 to ECEF at one moment in time.
+I can then integrate earth's rotation to get the Z rotation at any other moment in time. The X and Y angles would be zero if the Z axes are both aligned with the earth's polar axis, so I would know all the elementary rotations needed to build my J2000-ECEF rotation matrix.
+The question then is: Where do I find the orientation of ECEF relative to J2000 at any one moment in time? This must be known. And can someone confirm (or dispute) that the z axis of J2000 is aligned with the z axis of ECEF? Because it's a big assumption and I'm really not sure.
+Huge thanks if you can help!

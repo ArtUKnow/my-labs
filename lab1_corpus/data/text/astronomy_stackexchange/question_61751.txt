@@ -1,0 +1,8 @@
+I was struggling to understand the concept of arcminute which is corresponding with arctangent, and just couldn't figure it out. A practical riddle
+Regarding this formula;
+θ = 2arctan(d/2D),
+in which,
+θ is the angel in degree version of arcmin,
+d stands for diameter of the object which has subtended the angle of θ or arcmin at the distance of D.
+Now imagine if we have an angle of θ: 31'( 1/60*360) and the diameter of d is supposed to be as the one for Moon (3476 km). Now, what if I want to solve D and find the distance between observer and the object which is supposed to be Moon?! "D as the base of a ln imaginary triangle."
+This would be true if we wanted to only reach the angle, but when there is an unsolved variable inside the arctan!!

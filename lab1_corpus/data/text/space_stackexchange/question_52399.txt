@@ -1,0 +1,5 @@
+Is there a name for views of orbital paths that ignore some motions versus those that don't?
+Orbital paths of satellites around the Earth are usually shown as conic sections, as are paths of planets around the Sun. In truth, of course, the Earth's satellites are also orbiting the Sun, and the Sun (and its planets, and their satellites) are additionally orbiting the Milky Way. This video thumbnail captures the path that I'm talking about quite well:
+And for completeness, here is an example of the simplified view:
+Is there a commonly accepted name for these different views?
+The purpose is to use it as the label of a setting in a simulator that I'm building, so that the checkbox needn't have the above explanation as its label. One title I'm thinking of is 'true path', but there is probably a better term for it given how common such visualizations are.

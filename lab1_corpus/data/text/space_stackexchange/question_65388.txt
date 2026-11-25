@@ -1,0 +1,4 @@
+For using the acceleration due to drag formula, which coordinate frame should the satellite's position and velocity vectors be in?
+I am working on simulating the space environment for a VLEO satellite. I am working on the atmosphere model where I am using density values from NRLMSISE00 model and plugging them into the drag acceleration formula.
+$$a_{drag} = -\frac{1}{2} \rho \left(\frac{C_D A}{m} \right) v^2_{rel} \frac{\vec{v}_{rel}}{v_{rel}}$$
+I had a question regarding the acceleration due to drag formula, which coordinate frame should the satellite's position and velocity vectors be in? I am guessing they have to be in ECI frame and the acceleration also is output in the ECI frame?

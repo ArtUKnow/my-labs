@@ -1,0 +1,11 @@
+Are any space agencies working on an (essentially) 100% reliable sterilization technique for spacecraft bound for subsurface ocean worlds?
+One answer to my previous question Is there any demonstrated or even proposed technology that can sterilize a spacecraft with 100% certainty and yet leave it electronically functional? asserts:
+Absolute 100% sterilization is impossible.
+See also Who decided that a <1 in 10,000 probability of contaminating the europan ocean by a viable Earth microorganism was legally and ethically sufficient?
+I understand that penetration of sterilizing chemicals into nooks and crannies is imperfect and the effects of sterilizing radiation is statistical, but raising a spacecraft up to some temperature $T$ (baking it) may be sufficient to kill all known Earthbound life forms and inactivate their spores.
+See for example these in Biology SE:
+Is it known how some heat-resistance Bacillus spores repair their DNA after having been heated to 420 °C? (but not much higher)
+Will proper autoclave treatment really "inactivate all resistant bacterial spores"? If not, how widespread are autoclave-resistant bacterial spores?
+Answers to Would it be possible to build a probe that could operate at about 480 °C (900F degrees) without insulation? indicate that it may be quite feasible to build spacecraft components that could even operate at 480 °C but that wouldn't be necessary.
+After launch and exit from Earth's atmosphere and entrance into a deep space trajectory toward a subsurface ocean world, the spacecraft, still encased in an "oven", could be incubated at say circa 500 °C or some other temperature known to be sufficient.
+Question: Are any space agencies working on an (essentially) 100% reliable sterilization technique for spacecraft bound for subsurface ocean worlds? Are they perhaps looking for some temperature sufficient to bake a spacecraft in deep space such that no living organisms nor any viable bacterial spores remain?

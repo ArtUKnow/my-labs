@@ -1,0 +1,5 @@
+What was the "shear wedge" used on the Tethered Satellite System?
+While reading reports on NTRS, I found this one: https://ntrs.nasa.gov/citations/20160005655
+It discusses a problem with an under-designed bolt in the Tethered Satellite System, which needed to be modified to fly. The solution (bottom of page 2) is a "shear wedge", which is described as being like a C-clamp.
+I have never heard of this component. I am not finding any search results about a Shear Wedge existing, beyond this case study.
+What is this Shear Wedge? Are there any actual photos of it, or more detailed reports on its size, shape, or other use in space?

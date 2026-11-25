@@ -1,0 +1,2 @@
+Why did Curiosity perform TCMs?
+Why did Curiosity perform TCM (Trajectory Correction Maneuver)s 1 through 5? 6 makes sense since it needed to adjust course to actually once in the SOI, but the others don't. I understand that this was to make sure that it arrived at Mars. But, why didn't the initial burn just place it into a Mars encountering orbit.

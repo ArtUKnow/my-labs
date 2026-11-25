@@ -1,0 +1,3 @@
+How long does the Soyuz Instrumentation/Propulsion Module remain attached to the Descent Module during re-entry?
+Soyuz MS-22, attached to the ISS, has developed a leak in an external coolant loop in the Instrumentation/Propulsion Module. This spacecraft is needed to return the three cosmonauts who are currently onboard the ISS, either at the end of their mission or as a lifeboat in an emergency.
+The Instrumentation/Propulsion Module and Orbital Module are separated from the Descent Module during re-entry. I think I've read somewhere that return from the ISS takes three to four hours. For how long is the Instrumentation/Propulsion module needed during the return flight?

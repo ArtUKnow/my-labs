@@ -1,0 +1,3 @@
+Would 2 areostationary satellites around Mars, over opposite longitudes, allow constant communication with rovers?
+I've heard that rovers on the surface of Mars can only communicate with and send data to orbiters for only 8 minutes at a time.
+Wouldn't two areostationary_orbit satellites orbiting opposite to each other allow every rover on the surface of Mars, no matter where it is, to have a constant and unlimited communication line to send data?

@@ -1,0 +1,3 @@
+What Delta-V can I gain from very low thrust exit from EML-5 by gravity assist from Earth to Mars?
+My vehicle can exit Earth - Moon L-5 point by very low thrust and enter Earth fly-by to Mars. I am not concerned about the time for this maneuver, but say at least 80 days. What Delta-V can be gained from the fly-by? Say Delta-V direct from EML-5 to Mars is 1.9km/s using vehicle propellant. and if I can gain Delta-V from Earth fly-by I can save on propellant.
+I have searched and found many documents but they are very complicated and I request a reference or answer that I can follow. I am not too concerned about accuracy at my stage of conceptual design, I am more interested in the approach and then to use this for insertion into Mars capture with Delta-V estimate.

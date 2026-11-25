@@ -1,0 +1,9 @@
+What are the longest current rocket payload fairings, capable of carrying long space station sections?
+Space News' China launches Tianhe space station core module into orbit
+China successfully launched a 22-metric-ton module April 28, beginning an intense period of missions for constructing the nation’s own space station.
+A Long March 5B heavy-lift rocket lifted off from the coastal Wenchang spaceport at 11:23 p.m. Eastern. The Tianhe space station core module separated from the first stage after 490 seconds of flight.
+Solar array deployment occurred just over an hour after launch. Li Shangfu, chief commander of the China Manned Spaceflight Program, announced launch success shortly after.
+Tianhe, or “harmony of the heavens,” is now expected to raise its orbit to around 370 kilometers above the Earth. The uncrewed Tianzhou-2 cargo spacecraft is slated to rendezvous and dock with Tianhe in mid-late May, ahead of the visit of three astronauts aboard Shenzhou-12 in June.
+The 16.6-meter-long, 4.2-meter-diameter Tianhe will provide regenerative life support and the main living quarters for astronauts as well as propulsion to maintain orbital altitude.
+16 meters sounds long to me. I was wondering how many rockets currently have fairings that can hold 16 meter long x 4 m diameter cylinders.
+Question: What are the longest current rocket payload fairings, capable of carrying long space station sections? (circa 16 meters) I'm seeing 18 m (60 ft) long and 4.6 m (15 ft) wide for the Shuttle, but could the same thing be launched by something besides a "Long March 5B heavy-lift rocket" today?

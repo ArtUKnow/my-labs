@@ -1,0 +1,3 @@
+Can 2 binary stars have orbits that don't intersect each other?
+Two stars are orbiting each other in elliptical orbits. The primary star is 4 solar masses and the secondary star is 3 solar masses. What is the condition for their eccentricity so that the orbits of both stars don't intersect?
+I was doing homework for binary stars and this was one of the question, is it possible for a binary system to have 2 stars that their orbits don't intersect each other? If so can you guys tell me how that could happen? Or is it a mistake made by the person who gave the question?

@@ -1,0 +1,9 @@
+How much has fuel efficiency increased in rockets since the Apollo missions?
+I have been talking with a friend of mine and the subject turned to modern rockets versus Apollo era rockets and fuel efficiency.
+My friend stated that today’s rockets use half the fuel of the rockets of those days, and can travel equal or further the distance.
+This didn’t seem right to me, but I do not understand what factors would go into comparing a rockets fuel efficiency ( He keeps citing better impulse as the key factor, and a change in fuel types ).
+So I would like to know the following:
+Is this is true that today’s rockets use half the fuel they used to?
+What metrics would one compare to determine the fuel efficiency and how to compare them?
+My apologies if this seems somewhat of a silly question, but after a lot of reading ( tbh a lot of it went over my head ) and googling I could not find a satisfactory answer.
+Thank you.

@@ -1,0 +1,19 @@
+What does 'a nudge' mean in the context of rocketry?
+The following paragraph is from a wired.com article:
+When I visited this past fall, SpinLaunch employees were still
+unpacking from the move. As we walked among giant sheets of steel,
+Yaney explained how his launcher will work. A centrifuge large enough
+to contain a football field will whip a rocket around in circles for
+roughly an hour, its speed steadily ramping up to more than 5,000 mph.
+The vehicle and its payload—up to 200 pounds’ worth of satellite—will
+experience forces that, at their peak, will be ten thousand times
+stronger than gravity. Once it’s spinning at launch speed, the
+centrifuge will release the rocket and send it screaming into the
+stratosphere. At the threshold of the cosmos, it will fire its engine
+for a final nudge into orbit.
+However, Wikipedia says:
+The mean orbital velocity needed to maintain a stable low Earth orbit
+is about 7.8 km/s (28,000 km/h; 17,000 mph), but reduces with
+increased orbital altitude.
+So, even ignoring the inevitable loss of speed as it travels from the launch site on the ground to the edge of space, and assuming it is still going at 5000 mph, it will surely take more than a 'nudge' to place it in even low earth orbit, because an increase of speed to 17,000 mph is an increase of 12,000 mph. This seems more than just a 'nudge'.
+So my question is, what does 'a nudge' mean in the context of rocketry?

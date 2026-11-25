@@ -1,0 +1,6 @@
+How do I calculate thermochemical properties of mixed gases?
+I'm working on a rocket project, and my design of engines is stalled. I need to be able to calculate the Cp, Cv, and R for mixtures of O2/CH4 (stoichiometric or fuel-rich mix) and CO2/H2O (result of combustion, probably carrying some CH4 from the fuel film cooling of the chamber walls.) I'm working on LOX/LCH4 engines. (I don't know how to do subscripts here yet.)
+I'd posted this in physics, but all I got was the remark that I "hadn't posted a question" - but not all questions carry a question mark. But, if you insist:
+How do I calculate Cp, Cv, and R for mixtures of gases of vague proportions and unknown quantities? The gasts in question are a mixture of oxygen/methane, and a mixture of water steam/carbon dioxide/methane (the methane is leftover from FFC of the chamber walls.)
+Please help - I haven't found the solution myself, as of yet.
+JDK

@@ -1,0 +1,3 @@
+Can we theoretically estimate the number of stars in an open cluster using the Initial Mass Function?
+Can we theoretically estimate the number of stars in an open cluster using the Initial Mass Function (IMF - the number of stars born per unit mass interval)? If it's possible, I’d like to know what physical quantities need to be measured observationally when estimating the number of stars, and how to determine the total number of stars.
+I’ve learned a method that estimates it by integrating the luminosity function, but I don’t know how to determine the exponent and the normalization constant.

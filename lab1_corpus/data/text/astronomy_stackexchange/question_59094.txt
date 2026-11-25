@@ -1,0 +1,17 @@
+How to calculate the rise set and transit for specific day?
+I'm working on a full screen day/night clock that displays the position of the sun and moon using Rainmeter but the calculations are in Lua. I made it following the book Astronomical Algorithms by Jean Meeus.
+While everything has been going great, I've faced some issues while trying to compute the rise, set and transit times for the moon. I'm using formulae from Chapter 15 of the book, I'm also using the standard altitude for the moon:
+h0= 0.7275pi - 0.5667
+*pi means Moon's Horizontal Parallax*
+However, the times are not exactly correct, for example, for December 14, 2024 I get the following:
+Rise: 5:33 PM
+Transit: 11:29 PM
+Set: 6:26 AM
+These are local times for Latitude: 19.6546, Longitude: -101.2623 (West). Time Zone: -6
+The code already switches the sign on longitude to positive for west.
+The thing is, both rise and set are correct, however, the transit time is actually that of the day before, December 13th.
+I've tried not limiting m times between -1 and +1, however the results are the same.
+So, what's happening is that some days I get times for the day before or the day after. What I want is to limit the times to only those for the day in question. On December 14th there was actually no transit, since the moon transit first the day before at 11:29 PM, then set at 6:26 AM and rose the same day at 5:33 PM, then it didn't transit until 12:32AM, which is already the next day (15th), so the Moon didn't transit at all the 14th. I'd like to get the string "Moon won't transit today" when that's the case.
+The same for rise and set if they don't happen on the day in question. I already coded the conditions for CosH0 < -1 and > +1 but those conditions are only for polar days and nights as far as I understood, which work fine.
+Thank you in advance.
+Edit. I found the answer (read answer)

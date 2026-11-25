@@ -1,0 +1,2 @@
+Significance of measure of dispersion in Orbit determination output
+I am trying to understand the significance of specifying dispersion measure of 3 sigma or ½ sigma along with Orbit determination output. I am assuming a Space Craft in LEO sun-synchronous orbit of around 900 km having on-board GPS receiver. When do we prefer to specify 3 sigma instead of 2 sigma and vice versa ? Similarly when should we prefer to use 1 sigma instead of either 2 sigma or 3 sigma?

@@ -1,0 +1,4 @@
+Smallest free memory space in early space crafts equipped with a computer?
+Early space crafts used magnetic memory, semiconductor memory was not available. Memory size was very small, the program was written in assembler language. Programmers worked hard to fit all necessary functions in the limited memory space.
+What was the smallest free memory space in early space crafts? The space left over after the program was in place. Different word sizes were used, so the number of free memory words please.
+Of course only space crafts with a digital processor and memory for data and program.

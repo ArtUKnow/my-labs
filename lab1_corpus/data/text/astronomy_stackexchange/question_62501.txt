@@ -1,0 +1,64 @@
+How do N-body simulations initialize millions of asteroids?
+I'm currently working on a Solar System simulation. So far, I've implemented the Sun, the eight planets, and the Moon by manually looking up their masses, initial distances from the Sun, and initial velocities. My initialization looks like this:
+# Initial x coordinates
+x = [
+0, # Sun
+0.47, # Mercury
+0.72, # Venus
+1, # Earth
+1.00257, # Moon
+1.5237, # Mars
+5.2, # Jupiter
+9.36, # Saturn
+19.18, # Uranus
+30.1 # Neptune
+]
+# Initial y coordinates
+y = [
+0, # Sun
+0, # Mercury
+0, # Venus
+0, # Earth
+0, # Moon
+0, # Mars
+0, # Jupiter
+0, # Saturn
+0, # Uranus
+0 # Neptune
+]
+# Lists storing the coordinates during the simulation
+xpos = [[], [], [], [], [], [], [], [], [], []]
+ypos = [[], [], [], [], [], [], [], [], [], []]
+# Initial velocity components (AU/year)
+vx = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+# Initial tangential velocities (AU/year)
+vy = [
+0, # Sun
+9.95, # Mercury
+7.38, # Venus
+6.281991687112502, # Earth
+6.497991687112502, # Moon
+5.0867271316753815, # Mars
+2.74, # Jupiter
+2.04, # Saturn
+1.26, # Uranus
+1.145 # Neptune
+]
+# Acceleration components
+ax = [0] * 10
+ay = [0] * 10
+# Masses in solar masses
+mass = [
+1, # Sun
+1.65e-07, # Mercury
+2.447e-06, # Venus
+3.002513826043238e-06, # Earth
+3.69e-08, # Moon
+3.2267471091000503e-07, # Mars
+5.0278543100000007166e-04, # Jupiter
+2.86e-04, # Saturn
+4.36e-05, # Uranus
+5.15e-05 # Neptune
+]
+Now I'd like to include the asteroid belt. However, there are well over a million known asteroids, so manually looking up the mass, initial position, and velocity of each one clearly isn't practical.
+How is this usually done? Is there a standard database or catalog that provides the initial conditions for a large number of asteroids, or is there a different approach commonly used in N-body simulations?

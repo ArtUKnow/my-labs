@@ -1,0 +1,14 @@
+Orbit Propagator with J2 perturbation has larger error compared with simple 2 body Propagator
+I have developed an orbit propagator, taking J2 perturbation into account according to the formulation as shown:
+with Runge-Kutta 4th order, timestep of 1 second as the integrator. Formulation as shown:
+With J2 = 0.0010826, Re = 6.378137E+6 and mu = 3.986004418000000e+14.
+Subsequently, I tried to compared its orbit propagation accuracy with SGP4 propagator as well as the 2 Body propagator and I found out that the position error between "SGP4" and "Orbit Propagator with J2" is much larger compared to the position error between "SGP4" and "2 Body propagator".
+Some of the details of the orbit propagation simulation are:
+TLE used for SGP4 propagator:
+Propagation duration of 16 hours
+As the output of SGP4 is in TEME frame, there have been converted into J2000 frame when comparing the propagation error.
+The initial position and velocity for the "orbit propagator with J2" and the "2 Body propagator" is obtain from the initial position and velocity output of SGP4 converted to J2000 frame.
+SGP4 is a function from Matlab Aerospace toolbox
+The position error in cartesian coordinates, with respect to J2000 is as shown:
+I have an impression that orbit propagation by taking J2 perturbation into account should be more accurate compared to 2 Body propagator and thus I am wondering if I have made a mistake somewhere? Or is there a possibility that introducing J2 perturbation will induce more error?
+Any help/advice/sharing based on your experience is much appreciated!

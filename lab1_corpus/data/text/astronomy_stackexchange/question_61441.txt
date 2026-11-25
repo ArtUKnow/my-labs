@@ -1,0 +1,8 @@
+How would Earth's orbit change if the Sun lost 1% of its mass per century?
+The Sun naturally loses mass over time through radiation and the solar wind, but this occurs at a very slow rate. Hypothetically, if the Sun’s mass loss were accelerated to 1% per century (whether by natural processes or artificial intervention) how would this affect Earth’s orbit?
+What I am asking is specifically...
+Would the Earth’s orbital radius increase gradually as a result?
+How would this affect orbital velocity, period, and potential climate implications due to increased solar distance?
+Could such a mass loss rate cause noticeable orbital instability?
+Assume the mass loss is slow and isotropic, so no sudden gravitational perturbations or asymmetries.
+Looking for insights based on orbital mechanics or examples from astrophysical systems. Citations or simplified models appreciated!

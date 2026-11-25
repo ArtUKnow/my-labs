@@ -1,0 +1,4 @@
+Starship maintaining tank pressure during reentry and landing
+Starship relies on tank pressure to gain it's full structural strength.
+During reentry, the tank walls heat up, causing the ullage gas to heat up, causing pressure to rise. How will Starship prevent the tank from bursting due to pressure?
+The most obvious answer is by venting gas. Then a second question arises. During landing, the walls cool down, causing the gas to cool down. How will Starship prevent the tank from crumpling?

@@ -1,0 +1,7 @@
+Could Superheavy land downrange and return if Starship were launched from Boca Chica?
+While answering a question about Starship versus skyhooks, I discovered that there is a big difference in payload between a Falcon 9 launch where the booster lands downrange on a drone ship and one where it returns to the launch site.
+NASA Launch Services Program Launch Vehicle Performance Website
+For the 400 km orbit (lowest the tool supports for Falcon 9) the payload supported drops by a factor of...
+$$RTLS/ASDS = 11700/15500 ~= 0.75$$
+This got me thinking, is it possible that Starship could increase its payload if Superheavy landed "downrange" on a (perhaps artificially constructed) island or platform in the gulf of Mexico somewhere, assuming that SpaceX built a Mechazilla tower on said island or platform?
+Is there a site that is both in a suitable location and shallow enough to build an island or platform on? If so, would it even make sense to land there, refill the booster, and fly it back to Boca Chica?

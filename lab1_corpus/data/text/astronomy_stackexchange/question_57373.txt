@@ -1,0 +1,2 @@
+Comets with mutable orbit
+Can a comet change drastically the timing of its periodical return to Earth's proximity? To be even more explicit, can a comet spend, for example, 1000 years between two passages near Earth, and then need 1500 years before being back again, and then return to its previous 1000 years cycle, and then again, 1300 years, then 1700, then 900, and so on? Or is it physically impossible?

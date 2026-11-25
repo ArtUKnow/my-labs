@@ -1,0 +1,10 @@
+Do standard procedures for securing the ISS before an orbital boost burn include making sure that at least large objects are securely "strapped down"?
+In discussions on previous posts it was debated whether ISS crew would need to "batten down the hatches" and confirm all objects were "lashed to the deck" before an orbital boost burn.
+My thinking is that for the heavier objects the force necessary to restrain against the continuous air circulation (a mere breeze) would be much less than the force necessary to restrain against a 0.02 g acceleration
+This is clearly seen in the two videos below, where as soon as the engines start, a several kg camera+lens and say a 65 kg astronaut immediately start accelerating towards the back of the bus station.
+After 01:36 in the 2nd video there Demonstration of Acceleration Inside the International Space Station During a Reboost ISS Expedition 22 Commander Jeff Williams says:
+OK here we are down in the Russian segment in the service module, and we don’t actually operate the reboost here on board, the ground programs it, and then the computers on board execute the reboost.
+But we have insight into the parameters coming up, and it looks like we’re programmed to do a 2.7 m/s increase in our delta-v. When the engines fire, we will experience a small acceleration, not a whole lot, but it will be 0.0185 m/s^2, and I’m going to try to demonstrate that at the time of ignition, and during the burn.
+Question: Are there standard procedures for securing the ISS before an orbital boost burn, and do they include checking that at least large objects are "strapped down", or does the fact that they haven't blown away indicate that there's nothing to worry about?
+above: from ISS location identification; estimate size and direction of astronaut acceleration puzzler
+below: from Can the ISS boost maneuver engine be heard by the astronauts on board?

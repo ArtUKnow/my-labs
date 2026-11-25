@@ -1,0 +1,14 @@
+Which SPICE kernels I have to load to calculate state vector of the outer planets
+I'm developing a software to show the planets in the sky. I have loaded the following kernels:
+\naif\kernels\Generic\LSK\naif0012.tls
+\naif\kernels\Generic\PCK\pck00010.tpc
+\naif\kernels\Generic\PCK\gm_de431.tpc
+\naif\kernels\Generic\SPK\planets\de440s.bsp
+\naif\kernels\INSIGHT\SPK\mar097s.bsp
+But I get the error:
+Insufficient ephemeris data has been loaded to compute the position of
+699 (SATURN) relative to 0 (SOLAR SYSTEM BARYCENTER) at the ephemeris
+epoch 2023 NOV 06 19:16:53.612.
+I have no idea about how to know which kernels to use if I want to show Jupiter and Saturn. Now, I can show all the inner planets.
+How can I solve this error?
+I have read a lot about SPICE kernels, but I don't understand anything.

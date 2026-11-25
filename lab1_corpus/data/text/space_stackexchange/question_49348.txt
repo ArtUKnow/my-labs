@@ -1,0 +1,4 @@
+Average acceleration of a rocket given average mass and thrust
+If we assume that a small scale rocket is launched perpendicularly to the ground and ignore the drag, how can I calculate the average acceleration given that I know the burn time, the average thrust, and the average mass?
+update: There are some calculations in this model rocketry tutorial but I wonder how well this applies to real launch vehicles.
+https://www.nakka-rocketry.net/articles/altcalc.pdf

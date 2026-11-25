@@ -1,0 +1,2 @@
+Why did SpaceX B1062 have a landing failure?
+On August 28, 2024, after 267 consecutive successful landings, the Falcon 9 booster experienced a failed landing. A landing leg appears to have visibly failed during the landing, causing the booster to fall. According to the telemetry, the boosters speed never seems to reach 0, is that the cause of the failure? This was the boosters 23rd launch, was SpaceX’s most used booster, and therefore it has landed successfully many times. What went wrong and why didn’t this occur on earlier flights of the booster?

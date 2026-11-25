@@ -1,0 +1,2 @@
+Methods for determining the extent of an open cluster
+I derived an H–R diagram for M45 using Gaia data by applying a parallax window and an angular radius around the cluster center. However, I chose the parallax window ad hoc around the literature distance (444 ly) and the angular radius based on an imaging simulation, so I’m concerned that this approach may either miss genuine members or include field stars. How can I determine the extent of the open cluster without contamination from non-members?

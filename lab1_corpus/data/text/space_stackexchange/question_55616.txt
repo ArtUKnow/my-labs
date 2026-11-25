@@ -1,0 +1,21 @@
+Another look at orbits of near-Earth satellites. What is wrong in this interpretation?
+In a cartesian reference frame (O,X,Y,Z), put two circles centered at the origin O, of radius a.
+The blue circle is perpendicular to Z. The red circle makes an angle i with the blue (cf. Fig below).
+Call $\Omega$ the angle between X and the line (O,R), R being one of the two intersections between the circles. The angles $\Omega$ and $i$ define the red circle uniquely in the reference frame. Without loss of generality, set $\Omega=0$ so that the line (O,R) is aligned with X.
+Let’s assume a particle p is moving along the red circle with uniform angular speed $n=2\pi/T$, where $T$ is by definition the period in seconds. Without losing generality, let’s set time origin, t=0, when p is at position R for « the first time ». The cartesian coordinates of p as a function of time are:
+$$
+p_x(t)= a \cos nt
+$$
+$$
+p_y(t)= a \sin nt \cos i
+$$
+$$
+p_z(t)= a \sin nt \sin i
+$$
+Let’s put another particle p’ at the same position R at time t=0, and set its period T’ to smaller than T (p’ moves faster than p).
+Call $\text{err}_x= p’_x – p_x$, and same for y and z axes.
+If we plot the linear « errors » on the 3 axis with respect to time, we obtain three curves like this.
+Now, recall that in his answer to his own Question Orbit propagation with J2..., @chia-jiun-wei provided plots that are very much similar to our curves. His plots compared a 2body orbit to an SGP4-propagated orbit, for a given set of parameters setting.
+This similarity begs the following question:
+Could it be that, for nearly circular near-Earth orbits, to a first-order approximation and within a certain time limit, the « errors » between the 2body and the SGP4 models can be described simply as the fact that one model makes the object move faster/slower than the other one?
+Related to this problem, I had posted the following question: Is the formula for nodal period of a near Earth satellite given by Wikipedia correct?.

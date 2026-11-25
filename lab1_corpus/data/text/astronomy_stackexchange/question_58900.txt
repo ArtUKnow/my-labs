@@ -1,0 +1,9 @@
+Would my weight change if the earth was a different (radially-symmetric) shape?
+I'm on a huge sphere, so most of the mass of the Earth pulls from the left and right rather than straight down.
+The horizontal vectors cancel due to symmetry. But the mass one mile down and 100 miles away doesn't pull me down very much.
+I might ask: if the earth was a cylinder 3 feet wide and I was standing on one end of it, what would my 120 pound weight be?
+My guess is, 120 pounds, because physics answers usually end that way. Like, Newton discovered that if you're inside a hollow metal sphere floating in space, the pull of gravity from the wall of the sphere is always zero, no matter how close to the wall you are, and no matter how thick and massive the metal is.
+I suspect that my cylinder Earth situation is similar, because all of the cylinder's mass is directly under you, but most of it is much farther away than the 8,000-mile diameter of the Earth.
+HOWEVER, surely this depends on the shape, right? If the Earth was an inch-thin disk a zillion miles wide, I'm sure I'd weigh almost nothing. Right?
+SO MY QUESTION IS:
+If you weigh 120 pounds standing on a sphere, and you distort the sphere into an ellipsoid but you're always standing on the tip of it, will your weight change, even when it's stretched millions of miles, and even if it's flattened out into an inch-thick disk?

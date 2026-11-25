@@ -1,0 +1,4 @@
+Determining the launch period for Hohmann transfer
+How do you determine the day of a specific launch? I know there are launch windows but they only refer to the time at which a spacecraft must be launched.
+For a LEO it is apparently 365 days, but what if I'll be using the LEO to transfer to a GSO and then do a Hohmann transfer to some other (dwarf) planet such as Ceres, clearly I cant launch any day of the year as ceres must be at apogee when the spacecraft arrives?
+I thought of using GSO as a parking orbit since I have little information on the orbital parameters of parking orbits (aphelion, perihelion distances etc) usually utilized. I am new to orbital mechanics and so any help would be appreciated, thank you.

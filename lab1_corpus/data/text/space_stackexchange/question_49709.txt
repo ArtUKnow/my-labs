@@ -1,0 +1,8 @@
+rocket trajectory simulation in inertial frame, with drag
+I created a rocket trajectory simulator and optimizer using the following equations of motion for a non-rotating frame of reference
+$$\dot{v} = \frac{T \cos \varepsilon - D}{m} - g \sin \gamma$$
+$$v \dot{\gamma} = \frac{T \sin \varepsilon + L}{m} - \left(g - \frac{v^2}{r} \right) \cos \gamma$$
+(screeshot to be deleted as soon as MathJax is complete)
+where $v$ is velocity, $\gamma$ is flight path angle, $h$ is altitude, $r$ is distance to planet center, $\theta$ is angle along a great circle path of the Earth, $m$ is mass, $T$ is thrust, $D$ is drag, $L$ is lift and $\varepsilon$ is angle of attack.
+I would like to do this for a rotating planet in 3-D, in an inertial frame of reference. I think it is simpler than having to include all the non-inertial acceleration terms that come with a rotating frame of reference. But to compute the aerodynamic forces you would need to have the relative velocity between the rocket and atmosphere, atmosphere rotating fixed to Earth.
+I can do that, but I am wondering if it's a bad idea. I am thinking there would be numerical problems especially at the start of the trajectory, where you are taking the difference of two vectors that are relatively close in magnitude - the velocity of the rocket and that of the atmosphere, both in the inertial frame. Subtracting two big things close in magnitude generally gives you an inaccurate result. Maybe the accuracy is good enough that it doesn't matter, but was curious if anyone had experience trying this.

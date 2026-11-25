@@ -1,0 +1,28 @@
+SPICE C compiling issues
+I have been trying to run Spice in C code for one week but I have not succeeded. I know how to use Spice in Matlab and Python but I need to use it in C this time.
+I have followed this tutorial by JPL.
+I have dowloaded Cspice from here.
+I am using Visual studio code with gcc to compile my C code and it works for other simple C scripts.
+I have downloaded the Cspice code in the folder C:\spicetest.
+I have downloaded the leapseconds kernel from here and I have put it in C:\spicetest\cspice\data.
+I have renamed cspice.a in C:\spicetest\cspice\lib as libcspice.a because gcc was giving me errors
+This is my C code which I have called gyoza.c:
+#include <stdio.h>
+#include "SpiceUsr.h"
+int main()
+{
+/*define variables*/
+SpiceDouble et;
+SpiceChar time[] = "2017-07-14T19:46:00";
+SpiceChar path[] = "C:\\spicetest\\cspice\\data\\naif0012.tls.pc";
+/* load kernels*/
+furnsh_c(path);
+/* spice function*/
+str2et_c( time, &et);
+/* print result*/
+printf("%f \n", et);
+}
+These are the compiling instruction I am using in Visual studio Code terminal:
+gcc -IC:\spicetest\cspice\include -o ramen gyoza.c -c -ansi -m64 -O2 -fPIC -DNON_UNIX_STDIO -LC:\spicetest\cspice\lib -lcspice -lm
+So ramen it is my output file, it should be an executable, but it is a binary file with no extension and I do not know how to run it.
+What am I doing wrong? What am I missing?

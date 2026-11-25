@@ -1,0 +1,8 @@
+Have lasers ever been used to track laser-reflective parachute cloth for spaceflight missions? And what is it by the way?
+In the JAXA PDF Hayabusa2 Information Fact Sheet (Ver. 2. 3, 2018. 07. 05, found here) on slide/page number 53 there is a diagram labeled Re-entry sequence overview and in the top right corner is depicted the sample recovery capsule descending in Earth's lower atmosphere suspended from a parachute.
+The caption says:
+Cloth parachute (with laser-reflective cloth)
+Question(s):
+In this case, or in any case have lasers been used or at least planned to be used on laser-reflective parachutes for tracking and/or recovery?
+What is "laser-reflective cloth" anyway? Is this standard practice for spacecraft reentry parachutes or is this a unique instance or first-ever use?
+"bonus points" for any information about the reflectivity being specific to lasers. I'm guessing they include the word "laser" just to help us understand how it might be used, rather than to suggest it's specifically designed to be reflective for laser light, but maybe there are specific enhancements that I don't know about.

@@ -1,6 +1,0 @@
-Remainder (disambiguation)
-Remainder is the amount "left over" when dividing two integers.
-Remainder could also mean:
-Remaindered book, a publisher liquidating the remaining unsold copies of a book
-Remainder (law), in property law, a future interest created in a transferee
-Remainder term, in mathematics, when approximating a value by a series, is the error (the amount "left over") of an approximation, such that true value = series approximation + remainder term.

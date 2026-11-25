@@ -1,0 +1,7 @@
+Osiris-REx's trajectory modified to intercept the 2029 Apophis+Earth conjunction? How much delta-v required to hit specific point in space and time?
+Ars Technica's June 27, 2025 An exceedingly rare asteroid flyby will happen soon, but NASA may be left on the sidelines includes the following:
+NASA has some options for tracking Apophis during its flyby. However, the most promising of these, a mission named OSIRIS-Apex that breathes new life into an old spacecraft that otherwise would drift into oblivion, is slated for cancellation by the Trump White House's budget for fiscal year 2026.
+Wikipedia's OSIRIS-REx; Extended mission OSIRIS-APEX has a short blurb and some graphics, and there's a NASA mission page OSIRIS-APEX and NASA’s OSIRIS-APEX Unscathed After Searing Pass of Sun (more about "unscathed" here)
+The NASA Mission page links to the NASA video OSIRIS APEX Trajectory (screenshot below) which shows that the spacecraft's trajectory intersecting with that of Earth and Apophis, making a triple conjunction in 2029.
+That can't be a coincidence.
+Was Osiris-REx's trajectory modified to make this triple conjunction possible? If so, when was that done, and how much delta-v was required to hit this specific point in both space and time?

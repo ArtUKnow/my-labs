@@ -1,0 +1,6 @@
+Would the space shuttle do a yaw maneuver to avoid the tower?
+I read some rockets do a small yaw maneuver of about a degree immediately after T0 to avoid the tower in case of wind gusts.
+Would the space shuttle ever do such a maneuver? Did it?
+I read also that from T0 through the start of the pitchover maneuver, the attitude indicator will display pitch-yaw-roll in that order relative to an inertial reference frame conveniently located at the launchpad and aligned with the launch azimuth precisely at T0.
+Because pitch was the first rotation in the displayed sequence, a yaw maneuver relative to that inertial pad frame would have registered as a combined pitch and yaw rotation sequence and not as a pure yaw rotation. This would have been less than intuitive for the crew, so from this alone I want to say the shuttle never did yaw maneuvers and instead went straight to the roll and pitch rotations.
+Does this seem right?

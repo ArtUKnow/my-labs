@@ -1,0 +1,2 @@
+What happens when the exhaust goes mach one
+To create thrust and enough lift, you need a lot of mass thrown out at high velocities from a rocket engine. Most of the time this mass (exhaust) reaches over mach 1. I'm just curious whether this cause any difficulties of turbulence etc. If so, what are some difficulties and how must one solve them?

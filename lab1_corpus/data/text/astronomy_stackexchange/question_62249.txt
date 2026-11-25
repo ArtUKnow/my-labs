@@ -1,0 +1,4 @@
+Delta T Changing on Determining Leap Gregorian Year
+If in the future, delta T (UT-TD difference) changes exponentially (due to negative rotational acceleration: ~-26"/cy), will leap days in the Gregorian calendar be inserted more frequently (as we know the leap day insertion is from the discrepancy between Calendrical Year (365 days) and Tropical Year), and what's the possible scenario for them?
+Is there any correlation between tropical year length and rotational acceleration?
+The table below is the value of Uncertainty of Delta T

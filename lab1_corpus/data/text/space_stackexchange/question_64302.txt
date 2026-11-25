@@ -1,0 +1,6 @@
+Combustion stability for the second stage of Sea Dragon
+I was listening to a video about SHLV's (Super Heavy Launch Vehicles), and Sea Dragon's first stage engine was mentioned.
+In terms of combustions stability, the suggested fix would be large combustion baffles, and high pressure combustion.
+However, I have never heard much about how the second stage engine would have functioned...
+Basically:
+How did the plans for sea dragon factor in potential instability

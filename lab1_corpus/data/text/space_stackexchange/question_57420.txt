@@ -1,0 +1,6 @@
+What is the largest single burn plane change maneuver executed in LEO?
+Below 2000 km in low Earth orbit (or close to it), what is the largest propulsive plane change from a single burn?
+Expecting an answer in degrees, a named mission and vehicle executing the burn itself.
+Now what does "or close to it" mean?
+includes 2nd stage burns before full orbital velocity has been achieved
+excludes low altitude doglegs executed by first stages

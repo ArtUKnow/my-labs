@@ -1,0 +1,2 @@
+Has IFT-4 demonstrated that Starship is ready to enter service?
+IFT-4 demonstrated a controlled entry into orbit. IFT-3 had already demonstrated the ability to open the payload bay door (or so SpaceX claims). Is there any reason why Starship cannot begin launching satellites now?

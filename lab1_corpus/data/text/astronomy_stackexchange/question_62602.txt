@@ -1,0 +1,7 @@
+Under current models, can Venus at 0.723 AU survive all of the Sun’s red-giant phases?
+I’m investigating Venus surviving all of the Sun’s red-giant phases, from the beginning of giant-branch evolution through completion of the relevant RGB and AGB evolution before the Sun becomes a white dwarf.
+Venus currently orbits at about 0.723 AU. Solar mass loss can expand its orbit, while the Sun’s increasing radius and evolved-star tidal interactions affect the survival/engulfment boundary.
+I’m looking for calculations using the most current applicable solar-evolution tracks, observationally constrained RGB/AGB mass loss, and evolved-star tidal prescriptions.
+What is the critical initial semimajor axis separating planets that survive all of the Sun’s red-giant phases from planets that are engulfed, and where does Venus at 0.723 AU fall relative to that boundary?
+I’m particularly interested in an exact result for Venus or a near-result sufficiently close to 0.723 AU to constrain its outcome. Quantitative calculations, parameter scans, independent reproductions, and published results using well-supported alternative mass-loss or tidal prescriptions are welcome.
+My target here is specifically Venus remaining intact and avoiding engulfment throughout all of the Sun’s red-giant phases, through the transition toward the Sun’s white-dwarf stage. 🔭🟠

@@ -1,0 +1,6 @@
+Simple Ionic Drive Problem
+I am having trouble with my calculated values for part B of the problem. In part A I used the formula F=qE, where F is the force, q is the charge = 1.6 * 10^-19 coulombs and E is the electric field = 10,000 V/m. From that formula I calculated F = 1.6 * 10^-15 N.
+On part B I used F=ma (rearranged into a = F/m), using the given mass and the force calculated in part A to get an acceleration of a = 7.272727273 * 10^7 m/s^2.
+I then plugged the acceleration and given length into the kinematic equation Δx = 0.5at^2 (ignoring v_0t because I assumed it starts from rest), giving me a time of t = 7.41619849 * 10^-5 seconds.
+I then plugged that into the Impulse formula, ΔP = FΔt, using the initial calculated force and I got, Impulse = 1.19197315 * 10^-19.
+So, my question is, is my calculated impulse value too small? I do not have any frame of reference in the area of Ionic drives to know if that is even in the ballpark of being correct or acceptable.

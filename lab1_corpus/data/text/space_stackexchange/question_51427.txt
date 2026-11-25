@@ -1,0 +1,3 @@
+How would I determine the power usage for a X-Band High Gain Antenna?
+Currently I have that for a X-Band High Gain Antenna functioning at 8 Ghz, diameter of 3 meters, and a power transmission of 13.1dBW (20 watts) at a distance of about 8.5 AU has a Gain of 52.44 dBi, free path loss of 292.59dBi, and a total received power from transmitter of -152.13dBw.
+I am trying to figure out what battery I would need for my mission and I need to figure out how much power this antenna will draw. I've tried looking at research papers pertaining to antennas, but I have had no luck thus far. Any help will be greatly appreciated!

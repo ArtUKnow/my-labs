@@ -1,0 +1,6 @@
+Why (the heck) did Tianwan-1 insert into a low inclination orbit then execute a plane change from 11.8 to 86.9 degrees?
+eoPortal's Tianwen-1 (China's first Mars Exploration Mission) shows the following graphic, caption and link.
+It's often discussed that orbital plane changes are like certain table wines in that they are for lying down and avoiding. They are generally costly in delta-v. The image shows that the maneuver is likely done at the apoapsis of a 400 x 180,000 km orbit and so the cost has been minimized. At that distance the orbital velocity around Mars is only about 485 m/s 97 m/s and so at least several hundred tens of m/s of delta-v would be needed for such a large plane change.
+Question: Why not enter directly into a high inclination orbit? From Earth wouldn't it just mean aiming a few thousand km higher at a distance of hundreds of millions of km? This plane change seems unnecessary and a bit costly to me at first glance (a bit of delta-v and an extra burn and maneuver).
+Figure 10: Planned orbital trajectory at Mars. A scheme of the different orbits that the Chinese probe Tianwen-1 will use around Mars, with informations on the orbital parameters of each of them13
+13https://en.wikipedia.org/wiki/File:Orbital_trajectory_of_Tianwen-1_around_Mars.png

@@ -1,0 +1,11 @@
+First instance of a frangible nut in space? Which space-nut was first successfully "franged"?
+Wikipedia's Frangible nut begins:
+Not to be confused with Explosive bolt.
+The frangible nut is a component used in many industries, but most commonly by NASA[citation needed], to sever mechanical connections. It is, by definition, an explosively-splittable nut. The bolt remains intact while the nut itself is split into two or more parts.[1]
+Space Shuttle
+Frangible nuts secured the solid rocket boosters (SRB) of the Space Shuttle, which were bolted to the mobile launcher platform (MLP) until liftoff. On the Shuttle, they were separated using a NASA standard detonator (NSD). The space shuttle used two NSDs for the frangible nut atop each of the four 28-inch-long (71 cm), 3.5-inch-diameter (8.9 cm) bolts holding each SRB to the MLP. Once detonation occurred, the shuttle lifted free of the MLP. The broken nut and any fragments from detonation was captured by energy absorption material, such as metal foam, to prevent damage to the shuttle. In case of NSD failure, or incomplete clearance of the nut from the bolt, the SRB had ample thrust to break the bolt itself and launch unhindered.
+and "frangible" appears in at least 15 posts here.
+Questions:
+What was the first instance of frangible nuts in space?
+Which space-nuts were first successfully "franged"? (could be the same ones)
+What's the origin of the exact term "frangible nut"? Was it first coined in the context of spaceflight, or was nut-self-franging already a thing?

@@ -1,0 +1,17 @@
+Shadow Imaging of satellites can produce sub-meter resolution images while satellites are in GSO. How would this information be used?
+At 36,000km altitude, GSO satellites are beyond the distance at which their structure can be resolved by conventional ground based photography. However, it is theoretically possible to obtain high resolution images of satellites using their ground shadow when they eclipse a star.
+Because of their enormous distance, stars can be considered point light sources. The shadow of a GSO satellite cast by a single star forms a diffraction pattern on the surface of the earth. An array of detectors aligned along the ground track of the satellite's shadow can be used to observe the diffraction pattern, then reconstruct the silhouette of the satellite.
+The illustration above shows the shadow ground tracks of a single satellite from multiple stars on a single night
+From https://amostech.com/TechnicalPapers/2016/Poster/Douglas.pdf
+Earth based shadow observations remain the most accurate method to
+calculate an asteroid’s size and shape other than measurements made
+from venturing spacecraft in the solar system. Techniques have been
+developed to study distant objects in the Kuiper Belt and Oort Cloud
+using serendipitous observations of stellar occultations.
+Shadow imaging fundamentally differs from conventional imaging in that
+as the collection apertures get smaller the attainable resolution
+increases. Furthermore, all past efforts indicate that shadow imaging
+is very resilient to atmospheric turbulence.
+Sub-meter image resolution is shown to be readily achievable in
+foreseeable shadow collection attempts.
+How would this information be used? Other than identifying gross structural anomalies such as an undeployed solar panel, what useful information could this technique provide?

@@ -1,0 +1,28 @@
+Why was the Rossi X-ray Timing Explorer decommissioned in 2012? Why wasn't it deployed another ~100 km higher where drag would have been a lot less?
+The Rossi X-ray Timing Explorer (1995-074A) was an incredibly prolific space telescope between 1996 and when it was decommissioned/deactivated on January 5, 2012.
+It reentered the atmosphere soon after that on April 30, 2018.
+Per Wikipedia it seems to have been deployed at an altitude of only 6753 - 6378 = 375 km.
+Questions:
+Why was the Rossi X-ray Timing Explorer decommissioned in 2012? Was it budget, or altitude too low, or no more fuel for orbital boosts? All/none of the above?
+Why wasn't it simply deployed another ~100 km higher where drag would have been a lot less of an issue? Hubble's at about 570 km for example.
+From X-Ray Timing Explorer NSSDCA/COSPAR ID: 1995-074A:
+The X-Ray Timing Explorer (XTE) mission has the primary objective to study the temporal and broad-band spectral phenomena associated with stellar and galactic systems containing compact objects in the energy range 2--200 KeV, and in time scales from microseconds to years. The scientific instruments consists of two pointed instruments, the Proportional Counter Array (PCA) and the High-Energy X-ray Timing Experiment (HEXTE), and the All Sky Monitor (ASM), which scans over 70% of the sky each orbit. All of the XTE observing time will be available to the international scientific community through a peer review of submitted proposals. XTE uses a new spacecraft design that allows flexible operations through rapid pointing, high data rates, and nearly continuous receipt of data at the Science Operations Center at Goddard Space Flight Center via a Multiple Access link to the Tracking and Data Relay Satellite System (TDRSS). XTE is highly maneuverable with a slew rate of greater than 6 degrees per minute. The PCA/HEXTE can be pointed anywhere in the sky to an accuracy of less than 0.1 degree, with an aspect knowledge of around 1 arc-minute. Rotatable solar panels enable anti-sunward pointing to coordinate with ground-based night-time observations. Two pointable high gain antennas maintain nearly continuous communication with the TDRSS. This, together with 1 GB (approximately four orbits) of on-board solid-state data storage, give added flexibility in scheduling observations.
+update: From X-Ray Timing Explorer NSSDCA ID: 1995-074A; Trajectory Details
+Type: Orbiter
+Central Body: Earth
+Epoch start (UTC): 1995-12-30 13:48:00
+Epoch stop (UTC):
+Orbital Parameters:
+Periapsis Apoapsis Period Inclination Eccentricity
+409.00 km 409.00 km 92.60 minutes 28.500° 0.00000
+There's a great summary of papers, theses and other output at
+https://heasarc.gsfc.nasa.gov/docs/xte/whatsnew/papers.html
+and some vintage 1990's videos (AVI's I could see with VLC, the Quicktime's didn't work for me)
+https://heasarc.gsfc.nasa.gov/docs/heasarc/videos/xte.html
+From Space.com's A Pioneering NASA Satellite Just Fell to Earth After 2 Decades in Space:
+NASA's Rossi X-ray Timing Explorer satellite, shown here during prelaunch checks in 1995, was built to study the time variation of X-ray sources in space. (Image credit: NASA)
+In 1997, RXTE provided the first observational evidence for "frame dragging," an effect based on Einstein's theory of general relativity and predicted 79 years earlier by Austrian physicists Joseph Lense and Hans Thirring.
+RXTE also revealed that black holes of extremely different masses produce similar kinds of X-ray activity. Their activity varies at time scales proportional to their masses. Stellar-mass black holes undergo changes in a matter of hours, while supermassive black holes, which bear the mass of millions of stars, make similar changes over a period of years.
+The mission also provided proof of the existence of a new type of neutron star known as a magnetar. While normal neutron stars produce magnetic fields up to 10 trillion times stronger than Earth's, magnetars boast fields a thousand times stronger than that, meaning they possess the most powerful magnetic fields known in the universe. Of the approximately 2,600 neutron stars currently cataloged, only 29 are classified as magnetars.
+"The data remain a treasure trove for studying compact objects, whether pulsars and stellar-mass black holes in our own galaxy or supermassive black holes in the cores of distant galaxies," Goddard's Tod Strohmayer, who served as RXTE's project scientist from 2010 through the end of the mission, said in the statement. "So far, more than 3,100 published papers in refereed journals, totaling over 95,000 citations, include RXTE measurements."
+The astronomical community has recognized the importance of RXTE's contributions, honoring the research with five major awards. These include four Bruno Rossi Prizes (1999, 2003, 2006 and 2009) from the High Energy Astrophysics Division of the American Astronomical Society and the 2004 Spinoza Prize, the highest Dutch science award, from the Netherlands Organization for Scientific Research.

@@ -1,0 +1,9 @@
+how to soft-kill or soft-deny a target satellite?
+Thanks to the rapid growth of commercial space technologies, the use of space by new players is increasing. To prevent outlaw or problematic new spacecraft let's suppose there is a "space police" satellite in Earth orbit.
+This space police satellite would need to perform a soft-kill or soft-deny which disables or denies a target spacecraft (in a non-destructive way)...
+Just looking at the technical feasibility of this kind of idea, what would be a good way for this satellite to neutralize possible threats? Some ideas could be:
+Heating the target spacecraft,
+Interfering with the mission of the target spacecraft,
+Jamming the communication links of the target,
+Are there any other ways to achieve a soft-deny of a target spacecraft?
+My question would be mostly related about how to soft-deny a commercial/civilian satellite, what type of technology is currently used to prevent this type of attack from a threat?

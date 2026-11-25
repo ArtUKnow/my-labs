@@ -1,0 +1,7 @@
+Tory Bruno mentioned "unsolvable combustion instability" of "large methane engines". What, why, how?
+Relevant tweet, an hour ago: https://twitter.com/torybruno/status/1405210138189864960?s=19
+a Tweeted Question: Why wasn't methane used in the 2000s, when it was readily available unlike the time leading up to it?
+Bruno: Prior attempts at a large Methane rocket engine failed due to unsolvable combustion instability (emphasis added)
+What previous attempts at building large methane engines were unsuccessful prior to the Raptor/BE-4s due to said unsolvable combustion instabilities?
+Further, why were such combustion instabilities unique to methalox cycles?
+Finally, how were these unsolvable instabilities solved so completely that SpaceX and ULA are betting their futures on CH4 engines?

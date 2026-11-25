@@ -1,0 +1,3 @@
+What (if any) modifications would SpaceX raptor engines need to run on liquified natural gas LNG?
+Natural gas is 97% methane. Most of the rest is low molecular weight alkanes (hydrocarbons which would be at home in RP-1), along with a little CO2, H2S, N2 and He . Could Raptors run on straight LNG without mods? Coking should not be an issue due to the low level of aromatics.
+I assume the "methane" fuel in SpaceX engines is derived from natural gas. What proportion of the "contaminants" are removed before the label is changed to "methane"?

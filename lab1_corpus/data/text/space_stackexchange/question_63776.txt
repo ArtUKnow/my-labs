@@ -1,0 +1,2 @@
+How to estimate the fuel required to send 1 kg to lower mars orbit?
+Imagine a rocket with a payload of 1 kg. How much liquid fuel would be required to send that 1 kg payload to lower mars orbit. (1 kg is just the payload not the whole dry mass of the rocket) I want the full calculation. And also what are the things I should know to calculate this.

@@ -1,0 +1,6 @@
+Where do these two views of Starship's Flight 10 landing come from?
+I found this view on The BBC's YouTube channel SpaceX pulls off Starship rocket launch in much-needed comeback
+and this one from SpaceX Twitter
+View of Starship landing burn and splashdown on Flight 10, made possible by SpaceX’s recovery team. Starship made it through reentry with intentionally missing tiles, completed maneuvers to intentionally stress its flaps, had visible damage to its aft skirt and flaps, and still executed a flip and landing burn that placed it approximately 3 meters from its targeted splashdown point
+Watching all the way through, I see that they pan and rock differently and that the tweeted video seems (to me at least) to be shot from a higher elevation above the water.
+Is it known what vehicles each of these cameras were on and how they were controlled?

@@ -1,0 +1,8 @@
+Do ISS crews have to worry about the ionosphere? Have hazards to EVAs or surface arcing/functional anomalies happened due to ionospheric charing?
+Comments below this answer tell us that the International Space Station always remained in Earth's atmosphere. It orbits in the thermosphere and simultaneously the ionosphere.
+This answer to How do spacecraft measure their own charge? explains in detail how the ISS measures it's "floating potential" and uses a charging model to understand how charged it is.
+The ISS measures its charge using the Floating Potential Measurement Unit. This device works as follows (from Data Analysis of the Floating Potential Measurement Unit aboard the International Space Station):
+The Floating Potential Measurement Unit (FPMU) was developed by Utah State University’s Space Dynamics Laboratory (USU-SDL) to study surface charging of the International Space Station (ISS). The surface charging of the ISS is a complex problem owing to its large size, its variety of conductive/dielectric areas, and the exposed solar cell edges on its high voltage solar arrays. Not only is severe charging of the ISS a hazard for astronauts on Extra Vehicular Activity, but any resultant surface arcing can lead to functional anomalies and surface degradation on the ISS. Thus, the FPMU was developed under intense oversite and reporting requirements as it was deemed critical for ISS safety operations.
+Question(s):
+Do ISS crews have to worry about the ionosphere? Have hazards to EVAs or surface arcing/functional anomalies happened due to ionospheric charing?
+2 .Have any immediate hazards to astronauts on EVAs or surface arcing leading to functional anomalies every happened on the ISS due to ionospheric charing?

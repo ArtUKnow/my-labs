@@ -1,0 +1,13 @@
+How does Lunar Gateway compare to ISS and MIR
+Looked around for comparison pictures, but can't find anyone (yet), probably because lunar gateway design is not yet stable. Or is it? I found several different designs.
+Do they exist "blueprint" of LG, ISS, and possibly also MIR, to make a comparison?
+--- edit ---
+Orbital velocity provides a 3d paper model of a "minimal version" of Lunar Gateway, maybe usable to do some measurements:
+https://www.orbital-velocity.com/lunar-gateway-model
+There are only Power Module (PPE), HALO module and Orion capsule.
+I did some measurements:
+PPE: 25x25x31 mm ; panels: 58x197 mm
+HALO: 33 mm diameter, 16.5mm radius by 60mm length (plus a part around 10mm - protruding from an edge)
+Scale is 1:100, hence:
+PPE: 2.5x2.5x3.1 m; panels = 5.8 x 19.7 m
+HALO: 3.3m diameter by 7 meters length

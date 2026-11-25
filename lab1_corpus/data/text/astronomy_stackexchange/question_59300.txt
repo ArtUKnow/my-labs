@@ -1,0 +1,2 @@
+How was the tropical year determined for the Gregorian calendar?
+The 1582 Inter Gravissimas Papal Bull of Pope Gregory XIII used Italian chronographer Aloysius Lilius' determination of the tropical year, to go from the Julian calendar to the Gregorian. So how did Lilius' determine 1 tropical year is about 365.2425 days? That's my question.

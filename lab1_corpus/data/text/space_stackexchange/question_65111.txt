@@ -1,0 +1,11 @@
+What figure-of-merit (FoM) is used to characterize the performance of a launch system's reentry-and-landing system?
+I'd like to make a table that compares the performance of different launch systems such as The Space Shuttle, Falcon 9 plus Crew Dragon, and Starship. Engine ISP and thrust-to-weight ratio would be important metrics for launch. Another relevant performance metric might be the ratio of the rocket's dry mass to its wet mass or its payload.
+However, all three of the aforementioned systems allocate a significant portion of the total mass that reaches orbit to reentry-and-landing system components, including, for example, wings, thermal tiles, head shields, propellant for landing burns, parachutes, landing gear, flaps, etc.
+My first guess is that the figure of merit for a reentry-and-landing system would be something like...
+$$\epsilon = (m_O - m_D - m_P)/m_O$$
+Where:
+$\epsilon$ is the reentry-and-landing system figure-of-merit (smaller is better),
+$m_O$ is the total mass of everything that achieves a circular orbit,
+$m_D$ is the dry mass of everything that was essential for achieving the circular orbit, and
+$m_P$ is the mass of the payload.
+Is there a reentry-and-landing system figure-of-merit like this that has already been established within the rocket launch industry and, if so, has it been documented anywhere?

@@ -1,0 +1,3 @@
+Why are minimum three artificial satellites required for radio-communication all around the Earth?
+Artificial satellites orbiting the Earth have important applications for radio-communication around it.
+To avoid the blockage of radio-communication around the Earth, multiple satellites can be introduced in Earth's geostationary orbit. But why are minimum three artificial satellites required for radio-communication all around the Earth?

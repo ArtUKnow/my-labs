@@ -1,0 +1,3 @@
+What are the tradeoffs in propellant choices for ion/electric based engines?
+I'm under the vague impression that ion engines can use most things for propellant. What are the trade offs that influence selection, with an eye specifically towards oxygen?
+(Interested in the general case, but it was an argument about oxygen usage specifically that triggered the question.)

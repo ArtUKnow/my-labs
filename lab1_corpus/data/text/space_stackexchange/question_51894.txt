@@ -1,0 +1,3 @@
+Using inflatable balloons to collect hydrogen from space as a simple solution for radiation shielding
+I've seen this video where around the 4:59 mark it states hydrogen is the "best element" to protect humans from cosmic rays:
+Even if it's not completely true, we know hydrogen is present in space, albeit in very low quantities. My guess is it has a slightly higher concentration in low earth orbit. So, what if we put a series of huge inflatable balloons around the crew deck of a spaceship? They might collect hydrogen around the Earth for months if needed, prior to the transfer burn to Mars or any other destination. It would be a very simple, yet cost-effective solution for radiation protection. Thoughts?

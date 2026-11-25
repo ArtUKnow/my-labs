@@ -1,0 +1,10 @@
+James Webb Space Telescope Velocity Loss Formula or how fast will JWST be going on L+26
+I was never great at math but now I wish I would have taken it more seriously.
+We have an office bet going and I need to come up with a formula to figure out the future velocity the JWST. I was able to pull data from Twitter of all places but all the Velocity formulas I've seen don't help me.
+Here's the office bet.
+How fast will the JWST be going in MPH on L+ 26:00:00:00
+Today at L+ 23:03:09:56 V= 0.1619 mi/s x 3600 = 582.84 mph. What will it be on L+26:00:00:00? We have till 5pm to give the answer.
+I've tried the simple calculation of substraction every 24 hours but that leaves errors and it's different every time I'm guessing because Earth's gravity is less and less as it's traveling further and further away and it's altitude increases, I don't know how accurate the answer has to be but I would like to know how to do the math. I know most of you on here will probably laugh at my question but I'm happy to be laughed at to learn something new.
+I was guessing that you get the mass of the earth the mass of the JWST and the distance between them to get the gravitational pull on jwst in N but then getting future velocity with that info is where I get lost.
+Jwst total Mass 6,500 kg
+Any help would be greatly appreciated.

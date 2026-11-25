@@ -1,0 +1,13 @@
+Is PVDF film still the practical choice for CubeSat-scale hypervelocity impact detection in 2025–2026, or have newer alternatives emerged?
+I am developing a ram-facing impact-sensing panel for a 2U CubeSat (≈100 × 200 mm exposed area) intended to detect and localize sub-mm to mm orbital debris / micrometeoroids in LEO (400–500 km). The current design uses 28–52 µm PVDF film with sputtered electrodes for acoustic/charge detection, combined with a small ADXL375 MEMS grid for redundancy and rough triangulation (target localization accuracy ~5 cm).
+Historical references that led me to PVDF:
+• NAVSWC TR 91-640 (1991) – dual-mode PVDF trigger
+• DRAGONS / SDS on ISS (2016 onward) – PVDF + acoustic sensors
+• Alba CubeSat impact payload (2022) – PVDF-based detector
+• Various hypervelocity tests up to ~10 km/s showing good response down to ~0.1 mm particles
+My concerns for a 2026–2028 flight:
+Have newer thin-film or foil technologies (e.g., advanced polymers, graphene-based, or fiber-optic strain sensors) demonstrated better signal-to-noise, radiation hardness, or outgassing performance in the last 5 years?
+Any recent CubeSat or sounding-rocket flights that moved away from PVDF for impact detection, and why?
+For a ~1 m²-year exposure at ~500 km (post-Starlink Phase 1), is the expected hit rate still high enough to justify PVDF’s relatively high mass/area compared to pure MEMS or capacitive foils?
+I’m aware PVDF is proven and relatively inexpensive, but I want to avoid locking into a 30-year-old solution if something clearly better has emerged for small-sat budgets (<$5k per panel).
+Thanks for any recent references or flight heritage!

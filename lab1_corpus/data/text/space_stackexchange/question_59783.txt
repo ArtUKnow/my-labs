@@ -1,0 +1,7 @@
+Restartable Solid Rocket Motors Through Expanding Throats?
+I recall seeing diagrams on a solid rocket motor that could "blow" itself out through suddenly expanding its nozzle, leading to the propellant no long burning or producing any thrust.
+First how did they(can't find the diagrams anymore) design a throat that could change diameter so suddenly as well as hold its shape with the large pressure when burning?
+Second, how much fuel is "wasted" in the blow out process?
+Third, since the solid fuel carries its own oxidizer, is it still burning during the "off" period, just at a slower rate?
+Fourth, why hasn't this sort of system left the R&D phase?
+Apologies for the question dump, it seems like a really cool idea, but I haven't found very much info since it seems like I'm searching with the wrong terms.

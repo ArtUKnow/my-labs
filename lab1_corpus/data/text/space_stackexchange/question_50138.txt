@@ -1,0 +1,2 @@
+During reentry, does the flux stay laminar? Should become turbulent the capsule could not mantain attitude
+This a thing that, instinctively, I find it hard to grasp. The capsules are designed with a centre of gravity slightly to the direction of the thermal shield, this assures the right attitude, but how can it remain stable, at such velocities and plasma flow, I find it hard to believe, but it is so!

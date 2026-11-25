@@ -1,0 +1,10 @@
+Why is the $V_{\text{obs}}$ less than $V_{\text{gas}} + V_{\text{disk}}$ in the SPARC rotation curves dataset?
+The SPARC dataset:
+SPARC is a database of 175 late-type galaxies (spirals and irregulars)
+with Spitzer photometry at 3.6 mu (tracing the stellar mass
+distribution) and high-quality HI+Halpha rotation curves (tracing the
+gravitational potential out to large radii).
+In Newtonian Mass Models: Table2.mrt, $V_{\text{obs}}$ can be less than $V_{\text{gas}} + V_{\text{disk}}$.
+For example, in the first row, $V_{\text{obs}} = 1.99$ km/s, $V_{\text{gas}} = 1.86$ km/s, $V_{\text{disk}} = 3.75$ km/s.
+I expected that the observed circular velocity, $V_{\text{obs}}$ would be sum of the gas velocity contribution, $V_{\text{gas}}$, the disk velocity contribution, $V_{\text{disk}}$, and the velocity contribution from dark matter, if any.
+Where am I going wrong?

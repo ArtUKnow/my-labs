@@ -1,0 +1,3 @@
+What was the available delta v of the Apollo 13 spacecraft, post explosion?
+The LM ascent engine wasn't used for direct abort. Presuming no one cares about the crew and just wanted to burn the LM to empty (both stages), what would the delta v have been? If it helps, I'm ok with it if you assume the O2 tanks were completely empty or completely full. I'm curious about ballpark ranges. How did that delta v compare to the service engine?
+**EDIT: to clarify the last part: how did the delta v of the LM-CSM stack burning only the LM engines to empty compare to the delta-v of the LM-CSM stack presuming that the service engine were burned to empty using the SM fuel tanks but the LM remains unused.

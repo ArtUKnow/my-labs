@@ -1,0 +1,5 @@
+Why does Mars have a jagged light curve?
+Caption:
+The following chart is the predicted light curve (visual magnitude as a function of time) of Mars, according to the most recent ephemeris data. Magnitude data is sampled with a 2 days interval and there might be inaccuracies for objects changing brightness very rapidly during the course of a few days. For comets there could be large discrepancies between the observed and predicted brightness because of their highly dynamic behaviour.
+In addition to the large peak (from about +2 to -1 magnitude) around January 2025, I see a small wiggling behavior, about 10 oscillations per year, with an amplitude of about 0.1 magnitude.
+Why is the light curve of Mars so jagged?

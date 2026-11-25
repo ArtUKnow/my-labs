@@ -1,0 +1,4 @@
+How to find the luminosity of stars from the Gaia DR3 archive?
+My main objective is to find the radius(or relative size) of the stars from the Gaia DR3 archive. However as I was unable to query the radius directly I am looking into the Stefan-Bolzmann Law which can derive radius from luminosity(L) and effective temperature(T): $$R = \sqrt{\frac{L}{4\pi\sigma T^4}}$$
+I am finding effective temperature using the [Ballesteros equation][1] where I am setting B-V = bp_rp (difference between the blue photometric band and the red photometric band) from Gaia DR3 archive. But as for luminosity I can not find any equations that I can use where the data is available at Gaia DR3 archive. So, how can one find the relative size or luminosity of stars from the archive?
+[1]: https://scipython.com/book2/chapter-9-data-analysis-with-pandas/problems/p92/the-hertzsprung-russell-diagram/#:~:text=The%20luminosity%20column%20is%20identified,%E2%88%92V)%2B0.62).

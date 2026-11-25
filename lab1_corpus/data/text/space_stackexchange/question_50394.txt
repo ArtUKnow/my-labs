@@ -1,0 +1,4 @@
+Earth Launch System with Water Propellant
+Water based thrusters have been proposed (and possibly tested by now) for use in satellites and other in-space vehicles - see this NASA article. The idea is to perform electrolysis on the water to separate the oxygen and hydrogen into two bladders, then pumping them into a combustion chamber.
+For some quick guesstimation math, the density of $H_2O=1 g/cm^3$; density of $H_2=0.07g/cm^3$; density of $O_2=1.14g/cm^3$. Volume needed for 1 g total of propellant is $29.45cm^3$ for $2H_2+O_2$ and $2cm^3$ for $2H_2O$ (take the inverse of each density to get volume per gram, multiply by 1 gram). So storing water as a propellant requires roughly 15 times less volume than an equivalent mass of separated hydrogen and oxygen (not including differences in equipment needed, just the propellants).
+My question is this: could water be used as a propellant with an electrolysis engine in a 1st or 2nd stage rocket engine to launch from Earth?

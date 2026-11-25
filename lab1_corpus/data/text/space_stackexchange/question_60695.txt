@@ -1,0 +1,3 @@
+What is the propellant tank weight or weight ratio on dry weight of liquid propellant rocket engine?
+I need propellant tank ( or oxidizer tank)'s dry weight- without propellant and engine mass. For example ARES-V's dry mass at earth departure stage is 21,795 kg, What percent of this is tanks' dry weight?
+Is there any formula to calculate this?

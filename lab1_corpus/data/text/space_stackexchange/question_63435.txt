@@ -1,0 +1,9 @@
+Spacecraft attitude: rotation between ECI, LVLH, and Body frames
+I'm starting to study spacecraft attitude control and I'm quite confused about the attitude representation in different frames.
+By reading a bunch of textbooks and papers, I understood that I can simulate a spacecraft's attitude profile by integrating Euler’s rotational equation of motion and the error quaternion kinematics. I've written the equations and I'm able to obtain an attitude profile expressed in the body frame (for example I started by simulating the attitude motion without any external torque and under a constant angular speed along the X axis).
+So, I end up with a timeseries that contains the spacecraft attitude (expressed through its quaternion and angular velocity with respect to the body frame) at different time instants.
+I would like to validate my equations of motion by comparing the results with the ones computed with a reliable SW. The problem is that from the SW that I'm using I can only retrieve the quaternion profile described in the inertial (ECI) frame.
+And here is where my doubts start: how can I rotate my attitude representation in a different frame? I know that I should apply some rotations but I can't figure out which ones...
+I would like to start from my quaternions expressed in the body frame and obtain the ones referred to the ECI frame. Also, it could be interesting also to understand how to rotate the attitude representation from the body frame to the LVLH frame.
+I tried to look online but I wasn't able to find an answer to my doubts.
+Thank you very much for your help!

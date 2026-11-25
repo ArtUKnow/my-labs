@@ -1,0 +1,7 @@
+What is this color difference on Composite Booms observed in the deployment of iROSA?
+iROSA or ROSA deployment always amuses me. Looking at the videos that are available online, I observed something which I wasn't able to answer due the limited knowledge that I have.
+As you can see in the image below which I have shown, how come during deployment the black colored region which is the composite boom is not visible in the back view as it's deploying (as you can see it's still white)?
+Some thoughts that I have
+Is it a cover for the composite boom? But by looking at the video it seems like the cover is also rotating along with the boom which shouldn't be the case.
+I am referring to the links which might be helpful for better visualisation
+Rollout Solar Array deployed during spacewalk outside space station

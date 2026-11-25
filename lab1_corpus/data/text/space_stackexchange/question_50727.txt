@@ -1,0 +1,7 @@
+Can someone explain the SN10 landing failure in layperson's terms?
+The things I can't understand from what Elon tweeted are:
+"engine was low on thrust due (probably) to partial helium ingestion"
+There are only tanks for liquid oxygen and CH4 - where did the helium come from?
+"If autogenous pressurization had been used, CH4 bubbles would most likely have reverted to liquid"
+Also I can't comprehend this:
+"the helium ingestion was likely the result of a pressurization system that had been added to the CH4 header tank to correct an error that had occurred previously with the SN8"

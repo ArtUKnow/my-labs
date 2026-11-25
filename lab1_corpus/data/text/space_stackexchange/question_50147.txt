@@ -1,0 +1,3 @@
+Lowest possible lunar orbit and has any spacecraft achieved it?
+Because the Moon has no atmosphere a spacecraft can theoretically cruise at a very low orbit. What is the lowest possible lunar orbit and which spacecraft achieved it? Was it the Lunar Module of Apollo (began its landing sequence with a Descent Orbit Insertion /DOI/ burn to lower their periapsis to about 15 km)?
+Is such low orbit rather circular or elliptical? Are there any quirks to a very low lunar orbit (perturbation effects due to gravitational anomalies etc.)?

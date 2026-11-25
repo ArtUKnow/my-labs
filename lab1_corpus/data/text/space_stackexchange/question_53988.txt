@@ -1,0 +1,10 @@
+How were the Skylab "jet shoes" expected to maintain attitude?
+Donald K. Slayton, MSC Director of Flight Crew Operations, requested that the
+proposed T-020 "Jet Shoes" experiment be removed from all AAP flights. The
+"Jet Shoes" experiment was an astronaut maneuvering system consisting of two
+small thrusters mounted one beneath each foot and oriented so that the thrust
+vectors passed close to the center of body mass with legs and feet in a comfortable
+position.
+Skylab: A Chronology, 1967 April 6
+How was the astronaut supposed to control their orientation with these shoes? Did they expect that astronauts bending their legs would be sufficient to point the jets? How was yaw supposed to be done? (Apollo suits were not designed to cross the legs.) Are there pictures?
+Wikipedia claims that a device called the Foot Controlled Maneuvering Unit was actually tested within Skylab. It's unclear whether this is the same device as the T-020.

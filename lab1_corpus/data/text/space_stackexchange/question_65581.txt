@@ -1,0 +1,4 @@
+What is the oxygen filter on Super Heavy, and how could it get blocked on IFT-3?
+https://en.wikipedia.org/wiki/SpaceX_Starship_integrated_flight_test_2
+On February 26, 2024, SpaceX stated that the most likely root cause was filter blockage where liquid oxygen is supplied to the engines, leading to a loss of inlet pressure in engine oxidizer turbopumps that eventually resulted in one engine failing, resulting in loss of the vehicle.
+What is this filter for? Why would they need a filter? What could clog it?

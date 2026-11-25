@@ -1,0 +1,4 @@
+Is the net electric charge of Venus about 0.01 Coulombs?
+A few years ago Venus was measured to be at a surprisingly large electric potential of $\Phi_{Venus}=+10.6$ volts, which may be one of the reasons Venus lost its water. Does this mean that Venus has a net positive electric charge of
+$$Q_{Venus} \approx 4\pi\epsilon_0 R_{Venus} \Phi_{Venus} = 0.007\mathrm{C}$$
+There was a recent NASA mission to measure the Earth's electric potential, thought to be only $\sim +0.3$ V, but I can't find any published results yet.

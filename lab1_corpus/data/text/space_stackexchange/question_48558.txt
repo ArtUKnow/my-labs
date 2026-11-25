@@ -1,0 +1,5 @@
+How many independent demonstrations of optical communications between ground and space have been successful?
+As everybody knows, the pioneering work of The Professor and his serendipitous collaborator Gilligan demonstrated the reality of ground to space optical communications back in 1964. In that case information was encoded in the incandescent radtaion of soot particles via spatial modulation1 rather than the more modern temporal modulation.
+The launch of this crewed and remarkable mission can be seen here.
+Questinon: Since that "fateful trip", how many independent demonstrations of optical communications between ground and space have been successful?
+1 https://www.imdb.com/title/tt0588095/mediaviewer/rm2807151617

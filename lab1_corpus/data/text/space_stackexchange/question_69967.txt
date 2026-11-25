@@ -1,0 +1,7 @@
+What is the state of the art for rigid, deployable origami habitats for lunar and Martian surfaces?
+(This question was refined based on community feedback to be more focused.)
+I am exploring habitat concepts that launch as a flat-packed, folded structure and deploy on-site into a rigid, cubed volume, inspired by origami engineering principles. The goal is to minimize launch volume and enable rapid deployment.
+I am aware of soft-goods, inflatable habitats like NASA's BEAM module. However, I am specifically looking for research or prototypes concerning rigid, self-supporting structures that use folding techniques.
+What existing studies, patents, or prototype projects address this kind of rigid, deployable origami habitat? A comment on my previous post pointed to a Nature article, which is exactly the type of reference I'm seeking.
+https://www.nature.com/articles/s41598-025-04241-8
+https://www.origamiway.com/origami-cube.shtml

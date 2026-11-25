@@ -1,0 +1,2 @@
+How much more stressful would the Indian Ocean reentry have been for Starship IFT-3?
+The flight tests were originally supposed to end in the Pacific, but was switched to a steeper trajectory that ended in the Indian Ocean for IFT-3. Assuming all had gone perfectly, how much harder would this have been in terms of temperature and deceleration, compared to the original trajectory?

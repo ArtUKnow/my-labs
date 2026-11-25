@@ -1,0 +1,2 @@
+How are the electronic circuits in interplanetary missions protected from extremely low temperatures?
+In an interplanetary mission, a spaceship travels through deep space, where the temperature is almost zero degrees Kelvin, and it is likely that its electronic circuits get permanently damaged. How are the electronic circuits in the spaceship kept warm?

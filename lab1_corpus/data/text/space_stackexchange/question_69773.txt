@@ -1,0 +1,5 @@
+Can a nozzle-less engine be made efficient by clustering?
+I'm taking inspiration from phased array antennas, which can match the function of a directional dish antenna with several omnidirectional antennas.
+The objective is to simplify engine construction by eliminating the highly shaped nozzle.
+While a single nozzle-less chamber would be inefficient, I would expect the plumes from adjacant chambers to interfere constructively, hindering, sideways dissipation while permitting backwards acceleration.
+So why not cluster several small combustion chambers like this?

@@ -1,0 +1,2 @@
+Why does the core-mass luminosity relation work?
+Why is luminosity of a star with degenerate core and He or H shell burning (RG, AGB or between Post-AGB and PN phase) given solely by the core mass? I understand that the relation is a stable result of modeling but what is the physical explanation?

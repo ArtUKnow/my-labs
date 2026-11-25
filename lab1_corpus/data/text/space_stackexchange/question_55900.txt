@@ -1,0 +1,2 @@
+Will DART fire its ion engine to accelerate prior to impact?
+I'm an avid KSP player. Like some of them, I've been playing the DART simulation on the game. I've typically achieved impact velocities of 5-7 km/s, the higher end being achieved by propulsive acceleration close to impact. Will DART do this in real life (accelerating close to impact)?

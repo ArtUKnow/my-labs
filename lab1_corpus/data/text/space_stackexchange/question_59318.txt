@@ -1,0 +1,4 @@
+How will InSight's hardware be damaged if the heaters fail?
+InSight is scheduled to "die" due to the Dust on the solar arrays.
+From what I understand, once the power goes out, there won't be a way to keep the computers and batteries warm at night, so solder points will crack and the batteries will freeze, essentially killing them.
+Is this correct? What else on InSight is sensitive to cold nights?

@@ -1,0 +1,8 @@
+What amount of unburned methane was released in the atmosphere during the Starship orbital test abort?
+On April 20, 2023, SpaceX attempted an orbital flight of the Starship rocket. The test ended when the Flight Termination System blew up the rocket after it started tumbling out of control.
+When the rocket blew up, some fire was visible from the explosion, but large white clouds were prominent, which I assume is unburnt propellant.
+As far as I know pure oxygen is completely harmless diluted in the atmosphere, but methane is much stronger than CO2 as a greenhouse gas.
+Judging from the SpaceX stream overlay (around 49:00 on youtube) the Superheavy booster had about 14% left in the tank before the abort.
+How much of the remaining methane in the tanks actually ignited during the abort, and how much was left unburnt and released in the atmosphere?
+White plumes screenshot from SpaceX stream:
+White plumes screenshot from Everyday Astronaut's Slow Mo:

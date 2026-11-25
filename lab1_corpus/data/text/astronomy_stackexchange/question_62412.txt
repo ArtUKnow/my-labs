@@ -1,0 +1,11 @@
+Understanding Section 8.4 of "Structure formation in the Universe" by T. Padmanabhan
+I am reading Section 8.4 (The masses of galaxies) of "Structure formation in the Universe" by T. Padmanabhan.
+In this section, the author tries to estimate the mass of the galaxies comparing the dynamical time and the cooling time.
+He finds
+$$ t_{\text{dyn}} = \dfrac{\pi}{2}\,\left( \dfrac{2GM}{R^3} \right)^{-1/2} $$
+and
+$$ t_{\text{cool}} = 8\times 10^6\,\text{years}\,\left( \dfrac{n}{cm^{-3}} \right)^{-1}\,\left[ \left( \dfrac{T}{10^6K} \right)^{-1/2} +1.5\,f_m\,\left( \dfrac{T}{10^6K} \right)^{-3/2} \right] $$
+where $M$ is the mass of the overdensity, $R$ its radius, $n$ is the numerical density, $T$ the gas temperature $f_m$ is the fraction of metals. In $t_{\text{cool}}$ the first term is for bremsstrahlung, the second for recombination.
+The author then calculates $t_{\text{cool}}/t_{\text{dyn}}\propto M$ and imposes it to be equal to 1 to find the critical mass for the collapse.
+He finds $$\dfrac{t_{\text{cool}}}{t_{\text{dyn}}}\approx \dfrac{M}{9 \times 10^{11}\,M_\odot}$$ however it relies on the temperature being $T=10^6K$ if I impose, for example, $T=10^5K$ I would obtain $$\dfrac{t_{\text{cool}}}{t_{\text{dyn}}}\approx \dfrac{M}{10^{10}\,M_\odot}.$$
+My question is why that choice of the temperature? Are there physical reasons for this? I understand $T=10^6K$ is the separation temperature between a cooling led by bremsstrahlung and one led by recombination, but any other temperature less than that value would have worked out as well (right?)

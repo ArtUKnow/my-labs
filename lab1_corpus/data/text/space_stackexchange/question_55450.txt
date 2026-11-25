@@ -1,0 +1,11 @@
+KARI's homegrown KSLV-II almost hit the target orbit on its very first launch. How many OLVs can boast success on the first flight attempt?
+Outdated: KSLV-II is a homegrown South Korean orbital launch vehicle. While KARI's launched the Russian-derived KSLV-I before, KSLV-II (or Nuri) uses only new, domestic, hitherto un-flight-tested motors & stages. It hit its target orbit on its very first launch.
+Further domestic reporting indicates that the dummy payload did not stay in orbit, probably an overly low perigee. That makes the list even shorter.
+My understanding is that new flight hardware rarely succeeds on the first try. How many new orbital launch vehicles have succeeded (achieved the target orbit) on their first launch?
+Of those, how many completely new (does not reuse any previously-flown major components: tankage, main engines, avionics (depending on era, much less relevant now than the 60s)) orbital launch vehicles have succeeded on the first launch?
+Please note the entire mission needs to succeed: Energia sadly is disqualified through no fault of its own.
+A short list of what I can think of right off the bat:
+Saturn V (although it's not completely new; S-IVB had flown before)
+Shuttle (completely new; AJ-10s used for OMS aside)
+Atlas V (your mileage may vary; RD-180 & the exact Centaur used I believe are arguably new, but closely derived from flown hardware)
+CZ-5 (I'm not sure about its 'completely unflown major hardware' status)

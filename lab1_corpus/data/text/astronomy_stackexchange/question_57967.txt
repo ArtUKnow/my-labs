@@ -1,0 +1,3 @@
+What's the name of the projection onto the celestial sphere of the tropic of cancer?
+The projection of earth's equator is the celestial equator. The ecliptic oscillates above and below it in a year, and the furthest north it goes is the projection onto the celestial sphere of the tropic of cancer.
+Is there a name for it? It parallels the celestial equator at 23.5 deg declination.

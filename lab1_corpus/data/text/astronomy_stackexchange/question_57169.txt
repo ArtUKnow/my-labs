@@ -1,0 +1,7 @@
+Why is rate of apsidal precession not consistent with the first time derivative of the argument of periapsis
+The Wikipedia page on apsidal precession states that the rate of apsidal precession is the first time derivative of the argument of periapsis ($\omega$), which is related to the longitude of ascending node ($\Omega$) and longitude of periapsis ($\varpi$) by $\omega = \varpi - \Omega$.
+The Wikipedia reference (in the earth's orbit page) for these values gives the following expressions (on page 13 of 21) for earth's orbit where $t$ is "TDB measured in thousands of Julian years from J2000" (I truncated these till the first order terms only when writing here):
+$$\varpi = 102.93734808^\circ + 11612.35290'' t + \dots$$
+$$\Omega = 174.87317577^\circ - 8679.27034'' t + \dots$$
+meaning that the current rate of apsidal precession (current would mean $t=0$ or at J2000) is $\frac{d\omega}{dt} = 20291.62324$ (in arc-seconds per 1000 years) which translates to a full $360^\circ$ in $63868$ years which is way off from the supposed $112000$ years I read everywhere else. In fact, $\frac{d\varpi}{dt}$ gets much closer and corresponds to a full $360^\circ$ in $111605$ years
+So where exactly am I going wrong? It did make intuitive sense for apsidal precession to be the rate of change of $\omega$ instead of $\varpi$. Also, likely unrelated question, is the rate of change of $\Omega$ what is referred to as planetary precession?

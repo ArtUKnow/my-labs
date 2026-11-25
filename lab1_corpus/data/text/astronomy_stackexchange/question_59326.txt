@@ -1,0 +1,4 @@
+Sidereal Time, how to make your own observation similar to observatories?
+When finding sidereal time, do I look for (perhaps 29 Piscium) in Pices to sweep past a vertical pole while viewing along the line of the N/S at the meridian?
+By naked eye, can I sight using the star by somehow it rising over the horizon during sunrise?
+I’m trying to understand how 0 hours is found at the Vernal Equinox. I know modern uses radio telescope and earths rotation, but I’m a little more interested how these can be done by an amateur observer even using naked eye for a rough estimate of 0 hours at your own location.

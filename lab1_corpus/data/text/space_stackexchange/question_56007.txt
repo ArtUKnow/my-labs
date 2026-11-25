@@ -1,0 +1,2 @@
+Designing of CD nozzle with respect to Mass flow rate of propellants
+How do I calculate the flow rate of exhaust gases required at the throat of a CD nozzle, with given throat diameter of "D", so as to achieve a "Choked flow condition" (velocity of gases exiting the throat equals Mach 1)

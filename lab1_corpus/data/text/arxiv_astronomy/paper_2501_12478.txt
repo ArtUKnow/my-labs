@@ -1,0 +1,2 @@
+Kinematics of High-Velocity Stars Utilizing LAMOST and Gaia DR3 Archives within 100 kpc
+The kinematic parameters identified from high-velocity stars situated within 100 kpc are examined and analyzed. We included three high velocity programs comprising 591, 87, and 519 stars as a function of distances ranging from 0.10 to nearly 109 kpc. In this analysis, we will determine the spatial velocities (U, V, W) in galactic coordinates along with their velocity dispersion (sigma_1, sigma_2, sigma_3), the convergent point (Ao, Do), and therefore, the solar motion (S_sun).

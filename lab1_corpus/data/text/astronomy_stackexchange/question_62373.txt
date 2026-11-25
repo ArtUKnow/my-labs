@@ -1,0 +1,5 @@
+How can I reconstruct all artificial satelites in a point of the past?
+I caught an artificial satelite moving fast through the sky on camera along with surrounding starts. I'm trying to find out wich satellite it was. Is there software to reconstruct the night sky including artificial satellites in a point of the past?
+I used gpredict and added all the satelites I coould to a module and moved the time to the past. Doing that I got a candidate, but the directions don't quite match.
+I could also do this manually by gathering all the data I can and process it using python to try and find the closes satellite that matches the position and direction I saw.
+Any ideas?

@@ -1,0 +1,4 @@
+What is the longest time after liftoff a fully cryogenic and semi cryogenic engine restarted?
+Cryogenic and semi-cryogenic engines have a complex start sequence.
+On the other hand, hypergolic engines can be started easily and several times.
+What is the longest time after liftoff ( T+0 ) and in which missions have fully cryogenic engines as well as semi-cryogenic engines been restarted?

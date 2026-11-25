@@ -1,0 +1,2 @@
+Is there a "sample tube manual eject" switch that can be externally accessed on Perseverance?
+In the (unlikely) event that Perseverance stops operating before 2026, can the sample fetch rover forcibly detach the already full sample tubes by accessing a manual switch on the rover? Would it make sense to include one?

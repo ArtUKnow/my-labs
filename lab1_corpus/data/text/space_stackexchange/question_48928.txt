@@ -1,0 +1,9 @@
+How might one redesign a "Curiosity-class" rover for a mission to Vesta or Ceres?
+Vishnu Reddy (1, 2, 3) and their research group are quite active in space exploration both in Earth-based observation and now in the design of future spacecraft, and have recently pseudo-confirmed that the object currently designated as 2020 SO is likely covered in stainless steel and so is probably the rocket body who's trajectory it so nicely matches. (4, 5)
+In the NASA "people" page Vishnu Reddy; Scientist, University of Arizona Lunar and Planetary Laboratory
+is the following exchange:
+Q: Do you have a yet-to-be-achieved life goal?
+A: I would love to have a rover on Vesta like how we have on Mars. Maybe it can be done in our lifetime.
+Question: What are the engineering challenges to putting a rover on 4 Vesta or 1 Ceres? Starting from a "Curiosity-class" rover, how might one redesign it for such a mission?
+note: A "Curiosity-class" rover means a unit of comparable size and sophistication that is able to move itself a considerable distance over time, avoid getting trapped by obstacles in some way and collect a comparably diverse set of data and have a comparable amount of command and data traffic with Earth. It doesn't have to necessarily look like Curiosity!
+"bonus points" for exploring why Reddy might have mentioned Vesta but not Ceres.

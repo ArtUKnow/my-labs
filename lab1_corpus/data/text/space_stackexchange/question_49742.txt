@@ -1,0 +1,7 @@
+Active magnetic protection against cosmic radiation - Can anyone provide articles or summarize the latest developments?
+A European project purports to have a practical magnetic shield for cosmic rays, based on four MgB2 toroidL coils1 oriented around the spacecraft like the lines of longitude around the globe. I can't find a source for the figures cited in the report.
+The final report on Space Radiation Superconductive Shielding, dated 2015 is available here:
+https://cordis.europa.eu/project/id/313224/reporting
+This 2013 report is behind a paywall:
+https://www.scribd.com/document/369859609/active-magnetic-shielding-for-long-duration-manned-space-missions
+1Magnesium diboride superconductor (Tc = 39 K, Jc = 109 A/m2 at 5 Tesla) is a relatively low cost and promising Type II superconductor being explored for large electromagnet applications.

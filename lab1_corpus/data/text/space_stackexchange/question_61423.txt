@@ -1,0 +1,3 @@
+How much does it cost to return 1 kg from the ISS to the Earth? What are the parameters influencing this price?
+I heard in a few places downmass is a limiting factor in the ISS national lab capacity. Is that true?
+According to NASA's pricing plan, it actually costs more to get downmass than upmass. Why is that?

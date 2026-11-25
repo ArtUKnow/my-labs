@@ -1,0 +1,4 @@
+What secondary science payloads deployed from primary science payloads were strictly battery powered?
+When is the last time that a battery-powered spacecraft was launched without an RTG or solar-electric power? had to be refined a few times because the use of battery-only power is much more widespread than I'd originally considered.
+This is a break-out question from there.
+Question: What secondary science payloads deployed from primary science payloads were strictly battery powered for electrical power? They should have no solar cells nor RTGs proper (no radioisotope thermoelectric generators thought radioisotope thermal sources are okay) nor fuel cells. Just plain old batteries.

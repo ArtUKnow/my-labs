@@ -1,0 +1,7 @@
+How much of LOX will have to be generated for SpaceX Starship to get back from 16 Psyche?
+Mixture ratio for Oxygen/Methane is 3.6 to 1
+Liquid oxygen temperature of -183°C
+16 Psyche (in shade) -113.15°C (https://simple.wikipedia.org/wiki/16_Psyche)
+Looks like the idea of bringing enough Methane for the return trip, while making LOX from water locally - has some legs to it?
+Question - how much of LOX will have to be produced locally? 20-30 ton will be enough for the return trip?
+When Starship becomes operational, a mission to 16 Psyche is almost guaranteed to be considered. The propellant depot will be the main issue to address for this mission.

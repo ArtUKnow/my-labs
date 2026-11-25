@@ -1,0 +1,9 @@
+If we can get people to the moon and back, why are we so adamant that it's impossible to service James Webb at 4x that with a one way robotic vehicle?
+Sources, including NASA and media, all emphasise that JWST at L2, is a million miles away, and therefore "if anything goes wrong, nothing can be done, it can't be serviced".
+But over 50 years ago we could get a manned craft to 0.25M miles and back, which is far more demanding and constrictive on the vehicles (life support, human space, landing, reorbit, return,flight time due to life support duration). We have hugely more advanced technology for roboticised and remote controlled engineering. Space launch vehicles capable of reaching L2 are readily available, and allow enough payload capacity to contain a 6 ton roboticised servicer and enough fuel to deorbit L2 after.
+I can't actually see any reason why exactly a servicing mission couldn't presently be done to JW, provided it at least had successfully inserted at L2? Or at least planned for future contingency.
+Why are they so adamant in emphasizing that the capability isn't there?
+Update
+According to @OrganicMarble, who links in a comment to this reply, "the party line may be changing". NASA may now be admitting exactly this, that robotic/remote servicing may indeed be something doable.
+(It's clearly known, the announcement was the day of launch and clearly known or considered a long time, and seems settled opinion. And probably was quite a long time ago?)
+But the question, I think, still stands. Maybe even more so, now. Why did they say so adamantly it wasn't, when now it seems obvious its viable, and was almost beyond doubt known (or believed likely) to be for a long time?

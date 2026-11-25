@@ -1,0 +1,11 @@
+How feasible is dragging a 1 km asteroid into Mars orbit? (For All Mankind Spoiler Alert)
+In the final episode of Season 4, Dev Ayesha, Ed Baldwin and other protagonists hijack the space ship Ranger to drag the wayward Asteroid 2003LC "Goldilocks" into Mars orbit.
+In terms of the "real world", is such an asteroid capture vaguely feasible?
+The premise is Goldilocks, a 1.1 km wide iron asteroid, is rich in precious metals, specifically Iridium. Goldilocks is a Jupiter Trojan perturbed onto a close approach to Mars. The Mars-7 international alliance want to perform a 20 minute burn using their asteroid tug Ranger to divert the asteroid on a gravity assist path towards Earth, where it can be mined.
+Mega-rich Dev Ayesha "hijacks" Ranger's maneuver adding an additional 5 minutes burn and bringing Goldilocks into Mars orbit For All Mankind just for the benefit of Mars.
+Assume 2003LC (Goldilocks) has a mass of ~4 billion tonnes.
+Some questions that immediately occur to me:
+How do I estimate delta-V? What is the minimum required? This is critical to the problem.
+Here is a Solar System Delta-V Map: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Solar_system_delta_v_map.svg/1535px-Solar_system_delta_v_map.svg.png
+The Ranger uses some form of plasma propulsion, perhaps based on VASIMR. A fusion reactor is used to generate the electricity with Argon as the propellant. How much Argon would be required?
+Thoughts and answers on any of these questions, or more general relevant comments, would be appreciated.

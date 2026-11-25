@@ -1,0 +1,15 @@
+In situ Fuel in LEO / MEO
+I have been thinking on controlled de-orbiting of Satellites.
+You can carry a supply of conventional chemical fuel, and use it to apply a delta-V that would de-orbit them. There are also methods of using drag, solar wind pressure etc.
+I however am interested in knowing whether there's enough material in LEO / MEO that we can use as a fuel to do this, so what we don't have to carry fuel with us.
+Let us ignore the commercial viability for a start.
+Option 1 : Hydrogen from Solar wind
+This is unlikely, as the earth's magnetic field blocks the Alpha particles (H⁺) ions.
+Option 2 : Meteors
+Ignoring the complexity of capturing them, they are sporadic.
+With that in mind, my specific question is :
+Is / are there any material available at the LEO/MEO region that a satellite can capture and use as it's fuel to create a thrust?
+That is, is/ are there possibilities of creating fuel in-situ in LEO / MEO ?
+EDIT
+I am open to learning about fuel ( that burns with oxidizer also collected / synthesized insitu) , propellant (like a ion engine propellant) and reaction mass.
+Thank you

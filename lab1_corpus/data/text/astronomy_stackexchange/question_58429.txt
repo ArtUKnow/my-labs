@@ -1,0 +1,7 @@
+sidereal time calculation through centuries
+I found this when I am studying ancient astronomical notes using Stellarium
+In 1770, the date when local sidereal time = local mean solar time (on the screenshot it is RA (on date) = Transit) is 9.19, and:
+in 2024, this date become 10.7
+I know that theoretically this date should be autumn equinox, which is 9.23
+but it seems that the date when local sidereal time = local mean solar time travels between centuries.
+Does anyone know what causes this change? Thanks!

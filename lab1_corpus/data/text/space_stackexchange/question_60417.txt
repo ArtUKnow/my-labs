@@ -1,0 +1,10 @@
+Optimal depth for underground flyby?
+Planetary flybys are used to modify the orbital parameters of spacecraft.
+For maximum gain, a large deflection angle is often desired. But the deflection angle is limited by the closest approach, which in turn is limited by the radius of the planet
+However: what if a tunnel was dug along the flyby path? Then the closest point of the flyby could be even lower, and the deflection angle increased.
+Or would it?
+Considering the extreme case, going straight through the centre, a tunnel path offers no deflection at all, where a point mass flyby would in contrast give a full 180º.
+Sub-surface gravity can be found by applying the shell theorem, and assuming uniform density, the force of gravity then becomes proportional to distance $F(r) \propto r$, in contrast to the usual $F(r) \propto r^{-2}$
+(as an aside, this law of gravity also happens to have stable orbits, the only other exponent for $r$ to do so. They are however ellipses with their geometric centre instead of a focus at the centre of mass, so it's not immediately clear how to patch them together with the outside hyperbola)
+Writing a simple time stepping simulation, I found the deflection angle to indeed be increasing a little when digging tunnels some way into the planet, but then shrink again.
+The question then arises: What is the optimal depth for flyby tunnels? Presumably it depends on $v_{\infty}$

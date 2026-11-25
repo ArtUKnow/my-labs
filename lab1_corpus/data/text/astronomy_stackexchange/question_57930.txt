@@ -1,0 +1,8 @@
+Mathematical modeling of the influence of components of the interstellar medium on the distortion of the wavefront of the observed object
+Associated with: Flowchart of the pipeline of key processes for modeling wavefront distortion of astronomical objects: ground-based observation case
+Let's imagine for a moment that we are outside the Earth and decided to observe one of the astronomical objects (exoplanet, star, star cluster, galaxy, etc.). We have all the necessary tools at our disposal. Introduced?
+Now let's go back to Earth and imagine that we need to simulate what the wavefront of our chosen object would look like if we were observing it from outside the Earth. For some time I have been haunted by the following question: in space there are many factors that can also distort the wavefront of the selected object of observation, in addition to turbulence in the atmosphere.
+These factors include cosmic dust, plasma, rays from other particles with which an electromagnetic wave can interact, gravitational fields, stellar wind and other components of the interstellar medium.
+Are there mathematical models that simulate the influence of these factors on the wavefront of the observed astronomical object in the case of observation outside the Earth.
+I couldn't find any information myself, unfortunately.
+EDIT: Together with John Doty's answer and mine, this provides background for two effects: interstellar scintillation and gravitational lensing. Can someone add other effects and give a quick summary?

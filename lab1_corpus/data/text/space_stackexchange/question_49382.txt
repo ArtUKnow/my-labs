@@ -1,0 +1,5 @@
+Satellites Orbital Parameters
+I want to access satellites' orbital parameters like inclination, right ascension of ascending node and argument of perigee. Unfortunately, I haven't been able to find this information.
+Is there a database where I can access this information?
+Edit:
+I want to access these knowledes because it is my search homework and orbital elements of satellite are wanted. After, I got the these knowledges I try to draw ground track of satellite.

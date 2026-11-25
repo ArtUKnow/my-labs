@@ -1,0 +1,16 @@
+Does earth orbiting debris that threatens the space station have a particular direction bias?
+I'm starting to investigate the danger of orbital debris on the ISS (international space station). One could assume that due to the orbital velocity vector, that any debris that the ISS encounter, would be more frequent and more dangerous for debris coming from a certain solid angle (Ω).
+Q: What is the debris impact bias for ISS?
+I suspect this is a somewhat complicated question that would involve many parts, such as:
+What is the general statistical (and observed) debris velocity vector bias (relative earth)?
+What is the most dangerous solid angle for debris attack (for the ISS)?
+Does the debris velocity distribution field, depend on the size of the debris? (How so?)
+The original Kessler paper (1978)
+References:
+Do the velocities of orbital debris have a bias in the direction of Earth's rotation?
+(not very helpful, with no accepted answers.)
+What is the typical relative impact velocity of orbital debris in low Earth orbit?
+Why would a box full of 1cm balls released into LEO be so scary to an engineer supporting the ISS?
+https://www.sciencedirect.com/science/article/abs/pii/S0734743X18307516
+(This article seem to contain some interesting additional
+references.)

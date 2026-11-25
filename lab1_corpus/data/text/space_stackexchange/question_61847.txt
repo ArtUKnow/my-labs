@@ -1,0 +1,4 @@
+How usual is seeing or picturing a space lidar from Earth?
+Recently, photographs taken on Earth of the 532 nm beam emitted by the Aerosol and Carbon Detection Lidar have hit the news, perhaps also because of the nice pictures and because Chinese space laser shooting at the US makes for nice clickbait (it's even true), even if it's not really news and not particularly relevant. ACDL is far from the first space-borne lidar operating at 532 nm; for example, CALIOP has been doing so since 2006, and several newer lidars exist. That makes me think it should be relatively routine for Earth-based observers to see space-based lidars, even if it probably takes a pretty sensitive camera and a dark sky to see one.
+Source: National Astronomical Observatory of Japan (NAOJ)
+Is it common for space-based lidars to be seen or pictured from Earth, or is this rather unusual? Why would it be unusual?

@@ -1,0 +1,6 @@
+Solar Turbines on the moon
+Related to other questions about power generation on the moon.
+URL's will be added shortly...
+Given that force is experienced by objects hit by sunlight, such as a solar sail, would a turbine of some form be plausible as a power generation option.
+This could take the form of a horizontal carousel of "blades", or a mast with a set of blades such as wind turbines on Earth.
+Essentially, can I get some pointers as to: whether it's viable, whether it's been proposed, whether there is something significant that would prevent such development from being possible, etc.

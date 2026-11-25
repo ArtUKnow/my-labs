@@ -1,0 +1,8 @@
+Working out time spent by spacecraft above certain latitudes
+I'm currently working through some practice exercises and one is about how many minutes per orbit a spacecraft spends above a certain latitude. How can this be calculated? I can't find any equations and visualising the problem using GMAT hasn't helped me.
+Here are the parameters:
+Semimajor axis a = 35,000km
+Eccentricity e = 0.7
+Argument of Perigee = 320 degrees
+The spacecraft is in a polar prograde orbit (assuming polar means dead on 90 degrees here) and the question is how many minutes per orbit are spent above the 70 degree latitude boundary.
+I don't even really know where to start, and can't find any help in the textbook or other materials!

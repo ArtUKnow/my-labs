@@ -1,0 +1,6 @@
+How Does Code Reuse Work at NASA
+Prompted in part by this question:
+Does NASA (or ESA) reuse code across projects?
+If you're tasked with writing the path finding code for Mars-Rover-Next, do you start by going to an internal NASA git repo and cloning the opertunity-path-finding and spirit-path-finding projects?
+Are there "standard" modules that provide an "80% solution" and then get customized for each project?
+Basically: Is NASA code bespoke for each application, or do they reuse code? If they reuse, what's the process?

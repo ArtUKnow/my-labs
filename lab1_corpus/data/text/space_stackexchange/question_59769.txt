@@ -1,0 +1,10 @@
+Melting probes in low pressure environment
+The icy moons in our solar system Enceladus und Europa are very interesting targets for research because they sport deep oceans of liquid water under their thick shells of ice. But above that icy shell there is no atmosphere worth talking about (it IS worth talking about because of it's composition but for our purposes it does not matter because it's so thin).
+To get under the ice, a melting probe seems like a really cool solution because you basically only need to heat the tip of your probe and gravity will do the rest to help you get trough the ice.
+There has been research done on the dynamics of such probes in Low-G environments and how to prevent the probe from getting stuck because of refreezing water.
+Another problem is mentioned in this paper but was explicitly left out of the scope of the study: How do you start "digging"? (and that's the question I'd like to see answers to)
+That the start can be tricky could be seen with the mole on mars. Now, we don't know much about the ice on the icy moons (for example if it could contain rock like lumps of salt because the oceans beneath the ice are assumed to have high salinity levels). But let's assume they pose no problem and we can "just start to dig".
+If we apply heat to the ice at the surface it will sublimate immediately. So there will be no film of water to conduct or convect heat. So there is no water layer to stabilize and "lubricate" the probe. And part of the produced vapor will probably freeze again almost immediately on any cold surface surrounding it.
+Only when the hole closes behind the probe and it can build up some pressure it will be able to use water from molten ice to get down trough the ice...
+Facing all those issues:
+How would you start your digging process on the surface ice of an icy moon with almost not atmosphere at temperatures around 100K?

@@ -1,0 +1,8 @@
+Is it likely that independent asteroid deflection attempts would cancel each other?
+In a scenario where:
+Two nations that are not in diplomatic relations with each other, are both on the potential impact path of an asteroid.
+Independently, each nation discovers the danger and plans a kinetic impactor deflection mission. Let's assume they are aiming for the asteroid to completely miss the Earth, instead of just fine-tuning the impact location.
+The missions are timed close enough to each other that they cannot detect the orbital effects of the other impact in time to readjust their plans. So, practically, at most a couple of months difference.
+Is it likely that the deflection missions would partially cancel each other's effects?
+Intuitively it seems that for each launch window, there would be a specific impact angle that would provide the greatest effect. Then it wouldn't make sense for two opposite effect missions to be simultaneously launched.
+(This question is inspired by the scenario mentioned in this answer to "Could India possibly deflect the asteroid 2024 Y4?", but not limited in scope to that specific asteroid.)

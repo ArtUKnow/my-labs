@@ -1,0 +1,21 @@
+How is Prospero doing now? Was it really heard in 2004 and have there been recent attempts to contact it?
+Screenshot from the excellent historical review in Curious Droid video Black Arrow : The Lipstick Rocket - A Very British Space Program with a photo of Prospero or at least a representation thereof.
+The answer to How many satellites were orbited from Australia in total? is two and the second was Prospero. It was put in orbit by the final and first successful demonstration of the Black Arrow.
+Wikipedia's Prospero (spacecraft); status says
+Prospero's tape recorders stopped working in 1973. As was noted in an episode of the BBC television series Coast, radio transmissions from Prospero could still be heard on 137.560 MHz in 2004, though the signals used in the episode would actually come from an Orbcomm satellite, rather than Prospero (as the later Orbcomm used the same 137.560 MHz frequency since Prospero was considered no longer active). Prospero had officially been deactivated in 1996, when the UK's Defence Research Establishment decommissioned their satellite tracking station at Lasham, Hampshire but the satellite had been turned on in past years on its anniversary. It is in a low Earth orbit and is not expected to decay until about 2070, almost 100 years after its launch.
+In September 2011 a team at University College London's Mullard Space Science Laboratory announced plans to re-establish communications with Prospero, in time for the satellite's 40th anniversary. As of September 2012, not much progress had been made in establishing contact with the satellite due to time constraints. At perigee, Prospero can be seen through binoculars at magnitude +6 overhead, steady.
+with references therein.
+1971-093A, 5580 at 66 kg is in a roughly 500x1300 82° orbit.
+That last word "steady" might mean that it is not tumbling.
+The first very long, convolutedly-worded sentence in the block quote makes it unclear to me at least if Prosper was in fact heard circa 2004 but that an Orbcomm satellite signal was used in the BBC program, or if in fact they'd simply claimed they'd heard it but this is unconfirmed.
+So I'd like to ask the following Question(s):
+How is the Prospero satellite doing now? Is anything known about its viability/function?
+Was it really heard circa 2004?
+Have there been recent attempts to contact it?
+Do you need a special secret code to activate and talk to it? Or could anybody try?
+Item 4 is inspired by "As of September 2012, not much progress had been made in establishing contact with the satellite due to time constraints" which I assume means constraints on available time on a moveable tracking dish necessary to to send/receive to the spacecraft.
+These days there are some pretty active amateur dishes finding lost satellites and low noise GaAs receiver front ends are a lot more sensitive than those from decades ago, and whatnot so Or could anybody try? has new relevance.
+this answer to Suppose Zuma wasn't “lost” — what would it take to detect it?
+this answer to Is it possible for amateurs to determine the orbit of satellites
+Maybe some of these folks could have a look?
+above: a team of Goddard Space Flight Center engineers, confirming transmissions from IMAGE. From Skyriddles' NASA's long dead IMAGE satellite is alive!.

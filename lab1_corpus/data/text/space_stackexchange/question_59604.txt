@@ -1,0 +1,3 @@
+How can uncertainty about the position of an object decrease over time?
+The Near-Earth Objects Coordination Centre predicts future close approaches with Earth, for example these approaches for 2010RF12. For example, the time uncertainty of the 2022-09-23 closest approach is 276.7 minutes, with a distance of 3.834E-4 AU, in 2024-03-01 uncertainty of 21.3 minutes and 4.456E-4 AU, and in 2034-07-16 uncertainty of 119.3 minutes and 3.82E-5 AU.
+My question is why do those numbers not monotonically increase? If their precision is such that they only state with an uncertainty of 4 hours for 2022, how do they get that down to 20 minutes for a prediction two years away?

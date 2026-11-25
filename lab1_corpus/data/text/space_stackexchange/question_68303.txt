@@ -1,0 +1,4 @@
+Why hasn't Kosmos 482's orbit circularized? (currently 347 x 158 km) Will it, before reentry?
+Currently (TLE epoch is 3 hours old), n2yo.com shows the 500 kg Kosmos 482 Venus Descent Craft (1972-023E, 6073) in a very low 347 x 158 km Earth orbit. How that came to be is covered in What are the questions and issues related to Kosmos 482's configuration and eventual reentry?
+Since above 100 km the residual atmospheric density is still roughly a decaying exponential function of altitude, an elliptical orbit will experience drag as impulse-like, a retrograde (extended) impulse near periapsis, which is the recipe for apoapsis-lowering.
+Did this spacecraft start at a much more elliptical orbit and it's now almost circularized? Or is my impression that reentry of long-term LEO spacecraft is always proceeded by circularization wrong, or perhaps an oversimplification?

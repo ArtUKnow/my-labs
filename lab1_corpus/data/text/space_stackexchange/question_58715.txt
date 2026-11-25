@@ -1,0 +1,7 @@
+Black/White patterns on SLS boosters, fairings - Are these still roll patterns
+The main purpose of the large black/white patterns on many of the early rockets was to make it easier to spot whether the rocket is rolling. The pattern on the Saturn V was changed to avoid picking up too much heat on the black paint.
+But do the patterns on the SLS still serve the same purpose? On this picture one can see the small, rectangular patterns on the upper fairings, on the top of the main tank and the boosters.
+Sure, cameras are better than they were in the days of the Apollo Missions, but are these small patterns large enough to be spotted during launch?
+So, are these still roll patterns or do these patterns serve any other/additional purpose?
+On the boosters there are the same 2x2 patterns as on the fairings and on the main tank. Followed by a smaller 2xX row of the same pattern. Below this, there are stretched 2x2 patterns which are quite high but not wider.
+Is there any documentation why these patterns where chosen? Their number, size, position, etc. must be the result of some engineering process, not just coincidence. So why do these patterns look that way?

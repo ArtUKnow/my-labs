@@ -1,0 +1,6 @@
+How soon after launch is pitchover done?
+I'm reading conflicting things on the timing of the pitchover. When exactly does it start?
+Many people write that it's almost immediately after launch, as soon as it's practical. Once the rocket clears the launch tower, say.
+Others write that it's much later. The Kerbal Space Program is just a game, but it seems common wisdom there to start your gravity turn at 10 km of altitude. Start higher, and you lose fuel to gravity losses. Start lower and you lose fuel to air drag.
+I'm specifically curious about the Falcon 9 rockets. Sure, every mission is different, but at least on average, when is pitchover done? Even better than pitchover start time would be the altitude at which it is done.
+Thanks!

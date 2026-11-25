@@ -1,0 +1,2 @@
+EPS sizing for lunar mission
+As part of a university project, I am working on EPS sizing for a mission to the lunar environment. I have sized the SA and batteries, chosen the components and the PDCU; however, having never been in this role before, I would like to understand if anything else needs to be done in order for a phase A project to be considered completed. I would also like to know if I can add anything to further enrich the work done so far.

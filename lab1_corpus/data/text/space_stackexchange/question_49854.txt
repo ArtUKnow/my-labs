@@ -1,0 +1,6 @@
+Why is the James Webb Space Telescope's data storage space so small?
+In a previous question, I learned that the JWST's solid state recorder (SSR) can hold at least 58.8 Gbytes of recorded science data. Which each day requires two, 4 hour downlinks with earth to empty its data buffers. In another question, I learn that the spacecraft's storage could fill up in as little as 160 minutes.
+I'm curious to why the designers chose to give this $10 billion state-of-the-art satellite such a small amount of storage space?
+I'm asking because I'm assuming there might be times where a transmission doesn't complete in its scheduled timeframe or where it might miss a day due to ground control issues. Or even a time where it has to stop collecting data and wait for its downlink window b/c the disk is full.
+Wouldn't the spacecraft be more future-proof if it had a larger data buffer, so it also isn't affected by any "disk" sectors that have gone bad during its operation?
+Or is there something I'm not considering, like a design constraint perhaps?

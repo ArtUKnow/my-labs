@@ -1,0 +1,2 @@
+Ephemeris Time/Second Tracking
+I understand how it's defined by the length of the year, but before atomic clock was invented, what device was used to measure this time in the daily life? Was it whatever type of clock people had back then? Was that clock's second calibrated based on past observations of the year?

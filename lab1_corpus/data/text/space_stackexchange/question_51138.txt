@@ -1,0 +1,7 @@
+Could another fuel be used in the SpaceX Starship header tank?
+A memory of hexane and water in a separatory funnel brought to mind the issue of helium and LNG in the header tank while the Starship flips and does its powered landing.
+There was discussion of the possibility that helium ingestion contributed to the SN 10 hard landing.
+Would alcohol separate faster from helium than LNG? Could it be used as "landing fuel" with the Raptors.
+Considering the issues of keeping LNG cold for 6 months on the way to Mars, could the Starship fly completely on alcohol?
+The energy per volume seems close enough, and there are only seconds on the "flip" to get the thrust right.
+The Falcon-like design of the BN booster features a long vertical drop under drag G's, plenty of time for the LNG fuel to "settle". Could another fuel be used for the Starship if LNG/helium in the header tank doesn't work out?

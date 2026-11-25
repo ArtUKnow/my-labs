@@ -1,0 +1,4 @@
+Why is said that H-alpha emission lines are stronger than the other of the Balmer series?
+H-alpha lines are usually the ones you see when observing most nebulae.
+If you search why is that, why are H-alpha lines more visible than H-beta, H-gamma or H-delta, the usual answer is that H-alpha is "stronger".
+But what does that exactly mean? Is it just more frequent?

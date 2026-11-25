@@ -1,0 +1,3 @@
+Rotation and orientation of James Webb's mirror from ground stations
+There are definitely pre-determined plans in the agenda of the James Webb telescope to take images from the universe, but if there is a need for any reason (intentional or emergency) to change the direction of the telescope to the other side of a subject in change the universe, is it possible to control this from ground stations and operators ?
+And at what time ?

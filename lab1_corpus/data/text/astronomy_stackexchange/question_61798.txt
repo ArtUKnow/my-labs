@@ -1,0 +1,4 @@
+Astrometry.net plate solving with fish eye lens
+I have some images taken with an Oculus all-sky camera that has a fish-eye lens with a 150-degree field of view. I have tried to perform plate solving using astrometry.net; however, it fails to plate-solve the image, which I am assuming is caused by the distortion in the fish-eye lens.
+I have also tried using astropy libraries to calculate a list of RA and Dec of the stars in the image. However, it seems that astrometry.net doesn't accept RA and Dec as inputs, so I'm still unable to identify the stars.
+Is there anything I can do to force the plate solver to account for the distortion? Alternatively, are there any astropy libraries which can perform the calculation?

@@ -1,0 +1,9 @@
+Are there any Earth orbits where the duration of eclipse increases with semi-major axis with all other parameters fixed?
+This answer to Is there a low Earth orbit with a 24-hour day night cycle? suggests that:
+In fact, it's a rule of thumb that the higher you go the less time you spend in Earth's shadow: the shadow not only gets narrower, your orbit gets bigger.
+Rules of thumb are never intended to be considered true in all cases; we use them in a pinch or when we plan to go back later and calculate rigorously (and often never do).
+I'm wondering how often (if ever) this rule of thumb fails; if there's a class of circular Earth orbits where it's ever, or even frequently not true.
+What's left out of the explanation is that when the satellite's orbit gets bigger, the satellite also moves more slowly.
+So while the fraction of the orbit that's spent in eclipse is very likely to decrease with increasing semi-major axis, it's not clear that the absolute duration of a given eclipse will always decrease with increasing semi-major axis as well.
+So I'd like to ask:
+Question: Are there any Earth orbits where the duration of eclipse increases with increasing semi-major axis with all other parameters fixed?

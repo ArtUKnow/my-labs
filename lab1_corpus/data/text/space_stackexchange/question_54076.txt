@@ -1,0 +1,10 @@
+Why not use alternative/low-pressure atmospheres in fairings during launch?
+For example: using a reduced pressure helium atmosphere.
+Most fairings are already cleanroom environments.
+Benefits I can see:
+Eliminate need for acoustic tiles as low pressure and/or light gasses (helium) carries significantly less acoustic energy.
+Slightly lower mass. Every cubic meter of air is an extra 1.2kg that needs to be accelerated.
+Underpressure inherently seals the fairing together at sea level, separation mechanisms might be different, potentially lighter.
+Downsides:
+Structural changes to permit underpressure would add mass.
+Helium affects some electronics. But, if this is known it wouldnt be an issue. Helium that seeps into devices would also seep back out.

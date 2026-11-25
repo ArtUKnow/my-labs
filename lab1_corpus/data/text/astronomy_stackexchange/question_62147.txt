@@ -1,0 +1,3 @@
+comet 3i/Atlas Larson-Sekanina Rotational Gradient Filter
+I want to know if the 3 equidistant jets of 120 degrees seen in the 3i/Atlas comet is artifact of the Larson-Sekanina Rotational Gradient Filter. The following is the Larson-Sekanina output and the Hubble image (and link to original Hubble file in google drive). To those familiar with Larson-Sekanina filter, pls download the original file in the google drive and share your filter output to see if you have the same equidistant 3 jets and it is not due to artifact of Larson-Sekanina filter.
+https://drive.google.com/file/d/1Zfl97pQpTZgXKKFHVNpNbLClR8LpQJKP/view?usp=sharing

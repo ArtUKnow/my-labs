@@ -1,0 +1,2 @@
+SLS Block 2: Original thrust
+In older graphics depicting the evolution of the SLS vehicle, it states that the Block 2 upgrade was to produce 11.9 million lbs of thrust. At some point in the last few years, however, this has quietly been updated to a more reasonable 9.5 million lbs. Quite the difference. How did NASA originally intend to fulfil the original thrust requirement? Was it a mistake?

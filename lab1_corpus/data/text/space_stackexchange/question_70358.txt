@@ -1,0 +1,2 @@
+Canted Antenna for spacecrafts
+I am designing a 6U CubeSat with a canted turnstile antenna for reception since the payload includes an SDR. I couldn’t find clear resources on how to properly build and simulate the antenna mounted on the CubeSat body in HFSS. Most examples only show antennas in free space or over an infinite ground plane. Any guidance or references would be appreciated

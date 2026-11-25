@@ -1,0 +1,11 @@
+Is Astronomical Twilight precisely 18 degrees?
+As I understand it, Astronomical Twilight is defined as ending ("Astronomical Dusk") when the sun is 18 degrees below the horizon.
+At this point (to quote Wikipedia):
+Theoretically, the faintest stars detectable by the naked eye (those
+of approximately the sixth magnitude) will become visible in the
+evening at astronomical dusk, and become invisible at astronomical
+dawn
+Is 18 degrees the precise point of maximum darkness (assuming no artificial light), or is it a convenient approximation? It feels like it would be a very strange coincidence that it should be a neat round number. The answers to this question here seem to suggest that 18 degrees is arbitrary, but does a precise measure exist at all for:
+a) The point at which all stars are visible?
+b) The point at which maximum darkness is reached?
+Does the degree amount for the above measure vary depending on location/time/atmospheric behavior? And by how much?

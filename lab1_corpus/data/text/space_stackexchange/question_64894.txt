@@ -1,0 +1,7 @@
+Using today's technology, is interstellar navigation possible?
+I was watching this video essay discussion about space elevators, and on a bit of a tangent, the physicist talks about difficulties with interstellar missions, specifically comments about navigation like
+...galactic navigation is an unsolved problem...
+and
+...we don't know where the Earth will be in, like, 8000 years. We can't do that math, it's non-linear dynamics, we cannot accurately predict where other stars would be in the time that it would take for us to get to them...
+Basically, is this true?
+I was under the impression that, yes, on long time scales the movements of celestial bodies become rather unpredictable because error builds up, however on cosmic time scales, 8000 years is rather "short" and still well within our ability to predict, especially if only considering our local stellar neighborhood. Given that we have several "realistic" proposals that could send probes on interstellar missions with "today's" technology including nuclear proposals or externally propelled ones like Breakthrough Starshot that could do the trip in, lets say, less than 1000 years, are our current navigational/mathematical/predictive skills good enough to actually reach the target? Granted, Starshot has additional difficulty because it can't course correct at all, but still.

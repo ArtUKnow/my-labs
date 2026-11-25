@@ -1,0 +1,6 @@
+How many decimal places in GNC numbers?
+My launch simulation's producing numbers on the order of 1e-12 and sometimes smaller.
+I can't imagine that any sensor would be so precise and therefore that 10+ decimal places would be meaningful or appropriate.
+And even if sensor readings were that precise, I can't imagine it being good use of memory to store numbers to the 10th+ decimal place.
+This has me wondering (and please excuse the dumb question, as I am not a computer scientist): how precise do GNC numbers get? How many decimal places would position/velocity state vectors retain? Would they be stored with more decimal places than the precision of their sources (sensors) justifies?
+(E.g., if position measurements were precise to within 0.1 m, then would position vectors be stored with more than one decimal place when expressed in m?)

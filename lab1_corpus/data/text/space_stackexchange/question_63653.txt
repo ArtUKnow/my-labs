@@ -1,0 +1,8 @@
+Which (vintage?) CAD software is this in the Scott Manley video regarding The Titan Rocket
+I was recently surprised by seeing a CAD software in the Scott Manley video that seems to be running on old computers in a command line like interface.
+Which software is this? and is it still used by any space organization?
+Is it BRL-CAD?
+May 13, 2023 Scott Manley Video The Titan Rocket - From War Machine to Space Giant to Obsolescence
+YouTube Transcript after 13:21 in the video:
+And now we get to the Titan 4, and development of this actually began in the mid-1980s as the Air Force was looking for an expendable rocket to complement the space shuttle. Titan IV would use even larger 1207 solid rocket motors with seven segments. The core stage was stretched and two third stages were offered depending upon the payload requirements.
+Screenshot at about 13:40 in the video:

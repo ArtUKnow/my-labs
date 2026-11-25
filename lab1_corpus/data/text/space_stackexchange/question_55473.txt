@@ -1,0 +1,2 @@
+How are vacuum optimized engines tested without disintegrating them?
+SpaceX recently test fired vacuum optimized raptor engines of starship. Doesn't vacuum optimized engines disintegrate when operated in atmosphere? If yes, what additional modifications are made to the engines to test them in sea level?

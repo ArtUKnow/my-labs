@@ -1,0 +1,8 @@
+Power pattern and effective area single dish radio telescope- reciprocity theorem
+I am studying the radioastronomy notes contained in the NRAO website (Essential Radio Astronomy).
+https://www.cv.nrao.edu/~sransom/web/Ch3.html#S1.SS5
+I have a terrible confusion in mind. The fact is that in these notes everything is computed in transmission and then applied to the receiving situation thanks to the reciprocity theorem (which states the proportionality between the power gain and the effective collecting area). But I do not understand clearly how to use the theorem.
+For example, in transmission, we find that if we illuminate a 1-d aperture of, say, size 1, the resultant power pattern is a sinc function in the sine of the angle $\theta$ between the axis perpendicular to the aperture and the direction of interest (so, we transmit most power inside the main lobe -essentially on axis-, and less in the sidelobes).
+Illuminating an aperture uniformly means that the feed generates on the aperture a uniform electric field. Now, how should I translate this situation into receiving terms (for example for the observation of a point source) by using the reciprocity theorem (especially the concept of uniform illumination)?
+What does the sinc function represent in the receiving situation? Does it tell me what is the output power of the antenna depending on the source position wrt the axis?
+Please, if you can, explain this step by step and as clear as possible because I am extremely confused.

@@ -1,0 +1,3 @@
+What does HJD-2450000 mean?
+I've been looking at the OGLE Collection of Variable stars for the purposes of making a machine learning model to classify variable stars by their plots. In each variable star, I see the following image:
+What does it mean? I know that the magnitude is the apparent magnitude of the star and err is the error, but what does HJD-2450000 mean? My guess would be a unit of time, but a quick google search didn't yield anything helpful.

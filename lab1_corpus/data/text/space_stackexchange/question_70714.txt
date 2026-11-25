@@ -1,0 +1,6 @@
+Are astronauts permanently tethered during an EVA?
+As I was watching Sophie Adenot's 3rd spacewalk the other day, it seemed to me that sometimes, when she moved by grabbing a handrail after another, she wasn't tethered at all (for example here at 4:31:55, maybe it was Jessica Meir and not Sophie). It seemed she tethered herself only once arrived at her designated working place (because she would need free hands).
+So far, I believed astronauts on EVA would always keep at least one line attached to the station and move the other one, in a similar fashion to rock climbers, so that if they accidentally let go of the handrail during movement, they are not stranded (I am aware of the SAFER device, but it seems a simple way to avoid having to use it).
+I also know about the MMU used in some Shuttle missions, but this question focuses on EVAs performed on the ISS.
+I've looked upon every eva post on this site and many NASA resources online but couldn't find details on how this part exactly works. If I missed anything or you know a relevant source, please let me know!
+Question: do astronauts on EVA around the ISS sometimes move completely freely around the station, without being tethered at all?

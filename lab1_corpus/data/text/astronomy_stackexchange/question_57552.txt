@@ -1,0 +1,8 @@
+Easy guideline for using JPL Horizons DE431 for planets in aphelion and perihelion from 11000 BC to 16000 AD?
+Can someone give me a step by step Guide how to use JPL DE431 or DE441 as a Beginner.
+I tried the Horizons website app and Webgeocalc but it didn't showed understandable Information.
+This websites forum and others were searched.
+It would be enough when I'm able to read one example like:
+Julian Day Number________Date__________Planet_________Position
+-652942.5000000_____-6500-05-05_______Venus________aphelion
+This would be very helpful.

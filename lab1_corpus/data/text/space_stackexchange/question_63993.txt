@@ -1,0 +1,7 @@
+For an object in a geostationary orbit to have the same apparent diameter as the sun, how big would it have to be?
+I know this is just a maths question, but sorry I can't work it out :p
+Suppose you wanted to make something like Mr Burns' sun blocker:
+But in orbit, not attached to the ground.
+This would be a stoopid way to tackle global warming, but it's the era we're living in.
+Geostationary orbits, as any kind repondent will know, have to be a specific distance from earth since the speed of the orbit is determined by its distance from the earth.
+Given that we know the distance, what circumference would a sun-blocking sphere have to be?

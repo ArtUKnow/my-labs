@@ -1,0 +1,2 @@
+Do full flow rocket engines still use injectors? If so, how? How exactly are the oxidizer and fuel sent into the combustion chamber?
+I'm learning about rocket engines and full flow engines, and I'm a little confused about what goes on in the combustion chamber. It was my understanding that injectors were pretty much necessary to diffuse the oxidizer and fuel and maintain a stable reaction. How is the hot gas from the preburner or turbopump sent into the combustion chamber?

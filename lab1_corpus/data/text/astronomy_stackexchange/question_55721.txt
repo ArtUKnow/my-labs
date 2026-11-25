@@ -1,0 +1,24 @@
+Visualizing difference in astropy's cylindrical representation
+I'm having trouble understanding why these two approaches have different results:
+from astropy import units as u
+from astropy.coordinates import SkyCoord
+lon, lat, dist_pc = 123.7, -1.4, 1789
+# Starting from galactic coordinates
+c = SkyCoord(l=lon*u.degree, b=lat*u.degree, distance=dist_pc*u.pc, frame='galactic')
+# To cylindrical
+c.representation_type = 'cylindrical'
+print(c)
+# From galactic
+c = SkyCoord(l=lon*u.degree, b=lat*u.degree, frame='galactic')
+# To (ra, dec)
+ra, dec = c.fk5.ra.deg, c.fk5.dec.deg
+c = SkyCoord(ra=ra*u.degree, dec=dec*u.degree, distance=dist_pc*u.pc)
+# To cylindrical
+c.representation_type = 'cylindrical'
+print(c)
+where the results are:
+<SkyCoord (Galactic): (rho, phi, z) in (pc, deg, pc)
+(1788.46596522, 123.7, -43.70916672)>
+<SkyCoord (ICRS): (rho, phi, z) in (pc, deg, pc)
+(854.67518315, 14.46690657, 1571.63969513)>
+I understand the Galactic results but I can't visualize what the ICRS results represent.

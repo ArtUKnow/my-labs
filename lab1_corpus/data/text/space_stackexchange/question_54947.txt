@@ -1,0 +1,13 @@
+How exactly did ground stations track the early Molniya satellites?
+Wikipedia's Orbita (TV system) says:
+Orbita (Russian: орбита) is a Soviet-Russian system of broadcasting and delivering TV signals via satellites. It is considered to be the first national network of satellite television.
+The Orbita system is based on communication satellites in highly elliptical Molniya orbits, as well as on many ground downlink TV stations for reception and relaying TV signals to antennas of TV sets of many local areas. The full deployment of the Orbita satellite system took place on 25 October 1967 when ground downlink stations of some cities of Soviet Siberia and the Far East began to receive regular TV programmes from Moscow-based uplink stations via a constellation of Molniya satellites.
+and includes the image below, of a large dish on an altitude/azimuth mount.
+Question: How exactly did ground stations track the early Molniya satellites?
+Since the ground station would (probably) want to look at the highest, slowest-moving of the three satellites in a given Molniya constellation, I'm guessing that it would slowly move from west to east for eight of the spacecraft's twelve sidereal hour orbit, then suddenly slew across the sky back west to pick up the next one.
+I'm guessing that in the early years this operation was somewhat manual. If the orbits were perfect and unperturbed it could be programmed into even a 1970's computer and once some calibrations were done could be automated, but
+these low Earth orbits could not be perfect and despite the near nulling of the apsidal precession there was drift and perturbations
+and because of that there would have been station keeping to make up for it
+Was there any element of active tracking by the dish itself, perhaps using some kind of conical scanning? (1, 2, 3) Or when a new satellite was acquired was it manually optimized in signal strength and then a program just continued the eight hour sweep across the sky?
+source
+Orbita ground station. Khabarovsk. 1977

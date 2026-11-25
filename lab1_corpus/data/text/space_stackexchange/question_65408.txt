@@ -1,0 +1,4 @@
+At which direction do you apply thrust to perform an inclination change maneuver?
+Assume that the vehicle is already at the orbital node. No combined plane changes are included.
+At which direction is the thrust applied to do an inclination change maneuver?
+So far, Google hasn't given me any useful answers. Some of the answers say to fire the thrust perpendicular to the velocity vector at the initial orbit to do a simple inclination change maneuver and some say to fire it tangentially which I could guess is related to the combined plane change maneuver.

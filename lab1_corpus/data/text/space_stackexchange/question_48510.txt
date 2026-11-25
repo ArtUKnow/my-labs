@@ -1,0 +1,46 @@
+CesiumJS: how to convert Alt/Az as seen from Earth surface in (x,y,z) position w.r.t Earth center?
+I know how an antenna located on Earth surface is poiting to an object in space, by means of Altitude and Azimuth.
+I would like to show the pointed object in the 3d view, so, as far as I can understand, I need its position in (x,y,z) format (Cartesian3 object?)
+But I can't undrestand exactly which is the exact process to follow.
+I am using this example to make experiments; I added one point on surface by adding these lines inside function addMultiplePoints() :
+viewer.entities.add({
+position: Cesium.Cartesian3.fromDegrees(290.6, -35.78),
+point: {
+color: Cesium.Color.RED,
+pixelSize: 18,
+},
+label: {
+text: "MLG",
+font: "14px Helvetica",
+pixelOffset: new Cesium.Cartesian2(0.0, 20),
+},
+description : "MLG"
+});
+Now I have to add a point with specific location w.r.t this point, say Alt=30, Az=0.
+I am trying with this.... but nothing happens; indeed, in this code there is no origin point for the coordinates...
+H2pointing = {"alt" : 30, "az" : 0};
+clock = 90 - H2pointing.az;
+cone = 90 - H2pointing.alt;
+H2spherical = new Cesium.Spherical(clock, cone, 10);
+console.log(clock);
+console.log(cone);
+console.log(H2spherical);
+H2cartesian = Cesium.Cartesian3.fromSpherical(H2spherical, null);
+viewer.entities.add({
+position: H2cartesian,
+point: {
+color: Cesium.Color.BLUE,
+pixelSize: 18,
+},
+label: {
+text: "Hayabusa2",
+font: "14px Helvetica",
+pixelOffset: new Cesium.Cartesian2(0.0, 20),
+},
+description : "Hayabusa2"
+});
+So, assuming my calculations are right (are they?), how do I center this point on previous point?
+note: "cone" and "clock" are defined in documentation https://cesium.com/docs/cesiumjs-ref-doc/Spherical.html
+"clock" The angular coordinate lying in the xy-plane measured from the positive x-axis and toward the positive y-axis.
+"cone" the angular coordinate measured from the positive z-axis and toward the negative z-axis.
+"magnitude" The linear coordinate measured from the origin.

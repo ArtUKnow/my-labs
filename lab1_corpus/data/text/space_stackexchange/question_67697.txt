@@ -1,0 +1,2 @@
+How does JPL Horizons know where satellites are?
+JPL Horizons offers various interfaces to query for ephemeris tables of various artificial satellites. I've read that spacecraft trajectory plans may be submitted in advance, but since actual positions may deviate from these plans especially over time, how (and by whom?) are actual spacecraft positions and orbital parameters observed, measured and submitted - and how up to date can one expect them to be?

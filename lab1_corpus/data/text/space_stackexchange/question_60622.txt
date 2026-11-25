@@ -1,0 +1,4 @@
+If James Webb goes "over the hill" is it gone for good?
+James Webb is in a Halo orbit around Earth's L2 point. It is in a gravitational saddle: two directions are stable ("up-down" and "front-back"). The "in-out" direction is unstable: Earth's tidal forces add to the Sun's and the combined gradient is too much for the Coriolis effect to stabilize.
+Webb only has thrusters on it's sunward side (the exhaust must not get to the instruments) and so stays just inside the balance point (which is in turn just inside the L2 point due to solar radiation pressure). It periodically fires it's thrusters to keep from falling toward Earth.
+Suppose a burn was an overcorrection (highly unlikely!) and Webb ended up just beyond the L2 point. Would it be forced to turn and expose it's delicate instruments to sunlight? Would we still be able to control and use it if it ends up "drifting away" (in some sort of horseshoe orbit)?

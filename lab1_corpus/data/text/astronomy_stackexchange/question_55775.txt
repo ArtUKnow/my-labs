@@ -1,0 +1,3 @@
+Why do these two sources list different values for the Solar axial tilt to the ecliptic and Earth's orbital inclination to the Solar equator?
+On the Wikipedia article for axial tilt the Solar axial tilt is listed as 7.25° to the ecliptic, whereas on the Wikipedia article of orbital inclination Earth is listed as having an orbital inclination of 7.155° to the Solar equator; to me this does not add up, because unless I'm entirely mistaken these two are exactly equivalent to one another.
+So, am I missing something here, or is one (or both) of those values outdated or incorrect?

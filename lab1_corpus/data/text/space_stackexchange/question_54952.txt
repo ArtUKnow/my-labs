@@ -1,0 +1,11 @@
+A passive radiation shield to protect a space settlement in Jupiter's orbit
+I know that passive radiation shielding blocks radiation.
+Layer 1: tin and lead - 1.5m
+Layer 2: Kevlar, Mylar - 0.5m for MMOD protection
+Layer 3: Carbyne - 1m for strength
+Layer 4: beta cloth and Nextel - 1m for MMOD protection and heat insulation
+Layer 5: Kapton cloth and polythene - 0.5m for MMOD protection as well as radiation shielding
+Total thickness of the shield 4.5m
+This is the composition of the outer wall of the settlement which acts as a whipple shield as well as a passive radiation shield.
+Can hydrogen and/or water be suitable choices?
+Would this shield be enough to block radiation emitted from Jupiter and shield a small space settlement in Jupiter's magnetosphere? The settlement orbits around Ganymede.

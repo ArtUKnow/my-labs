@@ -1,0 +1,3 @@
+Is hydraulic servo the only option for gimbaled thrust on an engine using the RP-1, or does electric actuators have some unique advantages?
+Hydraulic servo seems to be a perfect choice for gimbaled engine using RP-1: hydraulic pressure can be provided by a fuel pump,only two hydraulic valves are needed for control; the servo does not generate heat in static conditions; no reducer,gimbal system can be very simple
+Under such circumstances, is it a stupid choice to use electric actuators, or does it still have some unique advantages in some aspects?

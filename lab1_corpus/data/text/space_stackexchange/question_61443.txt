@@ -1,0 +1,5 @@
+Is it possible to avoid tearing apart from a blackhole if moving fast enough?
+I have a spacecraft zooming directly into a blackhole with constant thrust.
+Considering the gravitational force of that blackhole and that there is no terminal velocity to slow me down.
+According a study, particles are pulled at a speed of 56K miles/s into a blackhole.
+Theoretically, if my spacecraft moves fast enough (56K mi/s +1) will it overtake the force applied by that black hole and prevent it tearing its subatomic particles, keeping my spaceship intact?

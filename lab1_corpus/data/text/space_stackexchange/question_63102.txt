@@ -1,0 +1,2 @@
+What caused the falcon booster landing failure during the CRS-16 mission?
+On December 5, 2018 the Falcon 9 booster started spinning during the landing burn, and promptly appears to have soft landed on the ocean. While SpaceX stated that the booster could be reused it never was. But the question remains, what went wrong? Did it have to do with the small thing that flaked off? Did the grid fins fail?

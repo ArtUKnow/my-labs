@@ -1,0 +1,2 @@
+Axion Astrophysics
+Stars have been recognized as optimal laboratories to probe axion properties. In the last decades there have been significant advances in this field due to a better modelling of stellar systems and accurate observational data. In this work we review the current status of constraints on axions from stellar physics. We focus in particular on the Sun, globular cluster stars, white dwarfs and (proto)-neutron stars.

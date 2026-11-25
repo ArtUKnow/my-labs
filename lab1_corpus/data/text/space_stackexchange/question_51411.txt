@@ -1,0 +1,3 @@
+What is the procedure in case the ISS loses one of the evacuation crafts?
+Suppose that a micrometeorite or a sudden failure renders one of the Soyuz inoperable, or that a routine inspection discovers a defect in one of them that makes it unsafe.
+What is the protocol to follow in this case? I assume that the ISS is not under any threat and does not need immediate evacuation.

@@ -1,0 +1,8 @@
+How did the Kepler Telescope establish its orbit after third stage burn? (Follow Up)
+note: This is a follow-up question based on a discussion under this answer.
+The Kepler Telescope was (is) in a heliocentric Earth trailing orbit, but I want to figure out how it was able to reach this orbit exactly.
+It was launched on a Delta II with 3 stages and I studied the different burns and the parking orbit (picture below). After coasting in the parking orbit, the second and third stage put the telescope in its appropriate orbit.
+If I'm not mistaken. The last burn (third stage) put the spacecraft in it's hyperbolic escape trajectory from Earth.
+But doesn't their need to be another burn to establish the heliocentric orbit with it's specific parameters? Because if you escape Earth with a hyperbolic trajectory you stay on this path?
+And from what I found it doesn't seem like the telescope has an engine of it's own.
+Thanks!

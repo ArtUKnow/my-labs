@@ -1,0 +1,3 @@
+Why would some sources in a cross-matched DESI/SDSS catalog have different spectroscopic redshifts?
+I've crossmatched quasars from DESI DR9 and from SDSS DR16. When I plot the spectroscopic redshift from each of the individual catalogs for each source, I get:
+Naively, I'd expect the $z_{spec}$ to be the same from each catalog, so my question is why are there outliers, some of them catastrophic?

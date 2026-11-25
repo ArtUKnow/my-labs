@@ -1,0 +1,30 @@
+Which of the 2 delta-v calculations for a Mercury orbit insertion from LEO is right and which is wrong?
+This answer to the question "How to calculate delta-v required for a planet-to-planet Hohmann transfer?" gives among other things the 2 following equations:
+$v_{inject}=\sqrt{\left(\sqrt{\frac{2\mu_S r_2}{r_1(r_1+r_2)}}-
+\sqrt{\mu_S\over r_1}\right)^2+\frac{2\mu_1}{a_1}}-\sqrt{\mu_1\over a_1}$
+$v_{insert}=\sqrt{\left(\sqrt{\frac{2\mu_S r_1}{r_2(r_1+r_2)}}-
+\sqrt{\mu_S\over r_2}\right)^2+\frac{2\mu_2}{a_2}}-\sqrt{\mu_2\over a_2}$
+I filled in the following numbers:
+$\mu_S$ = 1.3271244e20 (GM of the Sun)
+$\mu_1$ = 3.986e14 (GM of the Earth)
+$\mu_2$ = 2.2032e13 (GM of Mercury)
+$r_1$ = 149.6e9 (Earth's radius of its orbit around the Sun)
+$r_2$ = 46e9 (Mercury's perihelion) or $r_2$ = 69.8e9 (Mercury's aphelion)
+$a_1$ = 6678e3 (orbit altitude 300 km above Earth)
+$a_2$ = 2600e3 (orbit altitude 160 km above Mercury)
+Results:
+Mercury at perihelion: $v_{inject}$ = 6659.7 m/s, $v_{insert}$ = 10457.4 m/s,Total $\Delta V$ = 17.1 km/s.
+Mercury at aphelion : $v_{inject}$ = 4751.8 m/s, $v_{insert}$ = 5483.8 m/s, Total $\Delta V$ = 10.2 km/s.
+Edit:
+The answer from @Notovny correctly states that instead of the velocity for a circular orbit at perihelion and aphelion, you need to have the velocities for the elliptic orbit of Mercury at those points !
+After applying the correct velocities (from this factsheet) the results become:
+Mercury at perihelion: $v_{inject}$ = 6659.7 m/s, $v_{insert}$ = 11653.6 m/s, Total $\Delta V$ = 18.3 km/s.
+Mercury at aphelion: $v_{inject}$ = 4751.8 m/s, $v_{insert}$ = 4800.0 m/s, Total $\Delta V$ = 9.5 km/s.
+Edit 2:
+A miscalculation was made after applying the correct velocities, so the correct results become:
+Mercury at perihelion: $v_{inject}$ = 6659.7 m/s, $v_{insert}$ = 5602.0 m/s, Total $\Delta V$ = 12.3 km/s.
+Mercury at aphelion: $v_{inject}$ = 4751.8 m/s, $v_{insert}$ = 9832.5 m/s, Total $\Delta V$ = 14.6 km/s.
+That's exactly the same result as the one in @BrendanLuke15's answer !
+However, this answer to this question gives very different values:
+Delta-v for a perihelion transfer: 4.37 km/s
+Delta-v for an aphelion tranfer: 8.58 km/s

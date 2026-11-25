@@ -1,0 +1,4 @@
+Local anisotropies in the expansion of the universe and tidal forces...?
+In the context of the large-scale structure of the universe, there can be local anisotropies (https://www.aanda.org/articles/aa/full_html/2021/05/aa40296-21/aa40296-21.html).
+I understand from this that there are superclusters that can expand asymmetrically. I mean, it makes sense because, if the supercluster has a higher density of clusters and galaxies in one side than in the other, then the first side would expand slower than the less dense one. And we have to consider the influence of voids as well.
+If this happens, does this cause tidal forces (or at least increases their strength)? I mean, if there is a gravitational gradient due to the interplay between gravity (related to matter density) and the expansion of the universe itself, wouldn’t that affect possible tidal influences?

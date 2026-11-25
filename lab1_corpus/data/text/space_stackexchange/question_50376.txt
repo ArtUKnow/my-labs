@@ -1,0 +1,12 @@
+Are nuclear thermal engine designs limited to about twice the Isp of existing chemical rocket engines? If so, why; what's the limiting factor?
+Discussion below With Ultra Safe Nuclear engines and hydrogen propellant, how far to Mars could you get and still be able to return to Earth in an emergency? including a comment that suggests that the following quote makes it sound like a "solid core nuclear thermal rocket", and that it is likely to have similar performance "as every other solid core nuclear thermal rocket."
+From their October 19, 2020 press release Ultra Safe Nuclear Technologies Delivers Advanced Nuclear Thermal Propulsion Design To NASA:
+NTP systems achieve expanded payload mass capabilities due to their two-fold increase in specific impulse compared with chemical propulsion systems.
+From kerolox to LOX LH2 Isp's range from roughly 360 to 440 seconds.
+Quesiton: Are nuclear thermal designs in the ballpark of roughly 700 to 900 seconds? If so, what is the limiting factor? Why can't they easily go higher?
+related and potentially helpful:
+Details about Rolls-Royce / UK Space Agency's nuclear propulsion?
+Are power nuclear reactors (including advanced designs) really vastly less "aggressive" in design than NTR cores?
+What is the limit on ISP for cooled physical nozzles -- and how hard is it? answer is the intuitive dimensional analysis for thermal velocity $I_{sp} \propto \sqrt{T/M}$ but it's only an unsourced estimate
+Is the propulsion for the Scorpion nuclear-thermal-electric ship concept viable and credible?
+Is there any way to get better performance from an NTR with non-H2 propellant? currently unanswered

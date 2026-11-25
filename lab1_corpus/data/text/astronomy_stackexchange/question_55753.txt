@@ -1,0 +1,8 @@
+What are the most up to date, accepted, evolution stages of big stars that end in compact objects or a planetary nebula?
+There are numerous charts and diagrams showing the stages of stellar evolution, as:
+or
+among many more (you can find several after googling a little), for example.
+When I studied my B.Sc. on Physics, I learned that compact objects (which today are stellar and intermediate mass black holes, white dwarves and neutron stars) are the final stages of some kind of massive stars, and depending primarily on the mass of the progenitor star, such different compact objects can be given birth.
+I would like to know if there is a place (like a book, a review or an official website) that can give a broad discussion about what is the best and most updated classification of the different stars, their type and which of them can give birth to WDs, NSs or BHs. This is because I am still learning about the different types of supernovae and I want to read more about them originating NSs or BHs.
+I have more questions on this, I want to know if red giants can give birth or not to compact objects, just like red supergiants and blue supergiants do? And if yes, what is the end story or process between a giant or instead a supergiant originating a compact object?
+Also, I know there is still a big discussion about our Sun ending only in a planetary nebula or becoming first a WD, and then becoming actually such kind of nebula. So I would like to know more about the most up-to-date stages of stellar evolution, as of today in 2024. This is why I would like to prefer reading a recent, good source. I know Shapiro & Teukolsky's book, but theirs is from 1983, even if they had a reprint some years ago.

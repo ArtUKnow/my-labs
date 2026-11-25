@@ -1,0 +1,10 @@
+Is the azimuthal angle always (exactly) 0 at solar noon?
+Update:
+After a bit of narrowing down, I have found that the analemma is comprised of the sun's positions at the same mean solar time, not apparent solar time. Is this the reason why there is a figure of 8 - due to the equation of time? And does this in fact confirm that at solar noon, the azimuthal angle is always 0 (or 180)?
+My lecture notes seem to be contradicting themselves, and I cannot seem to find a straight answer online. At one point my lectures say that the azimuthal angle is given by:
+$$
+sin(z) = \frac{cos(\delta) sin(h)}{ cos(\alpha)}
+$$
+where $\delta$ is declination, $\alpha$ is altitude angle and $h$ is hour angle (which is also defined to be 0 at noon).
+Later on, it also discusses the analemma, which shows a figure of 8 of the sun's position in the sky at the same apparent solar time on different days of the year. This would clearly mean that at solar noon the sun is not always at $z = 0$...
+Note: The lecture notes do not state what co-ordinate system they are using, if this is of relevance.

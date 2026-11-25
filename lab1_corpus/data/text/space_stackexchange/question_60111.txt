@@ -1,0 +1,5 @@
+Regarding planets capturing gases from space with their gravitational pull;
+We know most (or all) planets suffer atmospheric escape.
+Now, can planets gain atmosphere from drawing in gases drifting in space? Is there a formula for that?
+Is there a cutoff point between gravity, temperature, and gas density where this two processes invert (i.e. the planet gains atmosphere with time).
+Does this only happens during the accreation phase when the planetary system is forming?

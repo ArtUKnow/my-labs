@@ -1,0 +1,5 @@
+Using data from the Fine Guidance System (HST)
+Has anyone been able to successfully use data from the Hubble Space Telescope's fine guidance system in order to create light curves?
+I found a bunch of older papers that reference this instrument, but no one goes through the methods section with enough detail for that resource to be useful.
+The FGS documentation is old, talks about a bunch of IRAF software that seem to be really hard to download. I am looking for a relatively straightforward, preferably pythonic solution to use FGS data.
+Thanks!

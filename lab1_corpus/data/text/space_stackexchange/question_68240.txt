@@ -1,0 +1,6 @@
+Skywriting and advertising in space?
+An article on 'skywriting in space' was in the Atlantic; https://www.theatlantic.com/science/archive/2019/04/pepsi-advertisement-space/587608/ a while ago.
+Some discussion has been made here on Space SE in 2019, but things may have changed: What are the effects of orbital reflectors and advertising on scientific observation?
+A string of Starlink satellites looks light a bunch of dots, so perhaps that could do double duty (you might have Starlink satellites with tethers to other elements, but my guess is there would be drift, due to basic orbital mechanics). The cost, of course, would be huge, but never underestimate the lengths people will go to advertise.
+Is this too expensive (even for advertisers), or are there technical issues that prevent this from being done?
+There have been a few treaties regarding gathering resources (mining) from extraterrestrial bodies, but what if someone decided to start using a moon rover to draw things on the surface of the moon? There may be scientific opposition to advertising with Starlink-style satellites, and technical issues, but are there any legal restrictions in place?

@@ -1,0 +1,40 @@
+How to obtain 3d data from MER Spirit "Planetary Data System" products/files?
+TL;DR
+Given products available in this page, how can I get a 3d model, or at least a point cloud, or as a last chance just a suitable depth map for depth map viewer, for this image?
+What I tried
+I found a couple of interesting sites providing access to some interesting derived products of MER missions, widely superseding the original "old fashioned "Raw images page":
+Spirit notebook
+PDS Image Atlas
+In PDS image atlas I found these "3d" products available:
+terrain mesh: .rgb files; how to open them? - example id: 1p567549107rsld0ijp2376l2m1 (RSL product)
+terrain wedge: .vst (ViSTa) files: how to open them? - example id: 2p291489372vilb0ltp2356l2m1 (VIL product)
+range: .img files; each pixel contains a value representing distance from rover; I thought it was equivalent to depth map, but then found that actually it's the distance from camera, so it's not suitable for my use without a conversion - example id: 1p581745020rnld2fcp2681l8m1 (RNL product)
+xyz: img files; this should be actually a depth map, given by Z values (see below) - example id: 2p291489372xylb0ltp2356l2m1 (XYL product)
+I tried converting it into greyscale using irfanview, then I uploaded it to this Depthmap viewer together with the corresponding raw image, getting weird results; then I further studied the format and I probably understood the reason of weird results:
+the file contains 3 data per each pixel of original image: the X, Y and Z coordinates; this results into a "false colors" image, where each pixel "mixes" "Z" information (useful for depth map) with X and Y information; I should seaparate "Z" from other bands.
+If I understand correctly the format:
+each datum is a 32 bit float (see example label)
+file is of type "BSQ" (Band Sequential): this should mean that the 3 x,y,z matrix are stored sequentially
+Values for "Z" should be in 3rd band
+Using NASA Viewer I should be able to extract just the "Z" information and turn it into an image, but I don't understand how to use this dialog to get what I need:
+Documentation says:
+The window consists of buttons to increase/decrease the band strength
+and band intensity for red, green, and blue.
+The buttons that control the band strength for each color
+increase/decrease by 1 with each click of the button.
+Note: The band strengths should never be set to 0. Unexpected behavior
+will occur.
+The buttons that control the band intensity for each color
+increase/decrease by 0.1 with each click of the button.
+Alternatively, there are text boxes found to the right of the buttons
+where the band strengths and intensities can be entered manually.
+The Apply Selections button is used to apply the current settings to
+the image and displays it. The current settings are found to the left
+of the buttons.
+I should obtain a single-channel image, but I can't.
+Any help?
+== Useful resources ==
+Available file formats: https://an.rsl.wustl.edu/help/Content/About%20the%20data/Data%20sets/MER/MER%20Operations%20Image%20Product%20Data%20Set%20Descriptions.htm#OPS-DS-MER-XYZ
+"Transform" java software: https://nasa-pds.github.io/transform/install/index.html
+PDS Mars Viewer
+NASA Viewer

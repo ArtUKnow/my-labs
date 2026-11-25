@@ -1,0 +1,5 @@
+Are Redshifts as accurate as said to be?
+I was reading about how scientists can measure how far away an object is by using redshifts to determine the element/where it is on a spectrum.
+For example, if you take hydrogen and contain it in a small vial, force an electric current in it, then take the light and put it through a prism, they get four solid colors on the spectrum. Due to the Doppler effect, the light wave stretches out the farther away it is, and since the wave lengths are longer, they shift more up into the spectrum - thus earning the name redshift.
+My question is:
+When taking redshift into account, can it really be accurate (considering there is probably other factors that could bend light or distort it)?

@@ -1,0 +1,5 @@
+Is it plausible to use Sirius A for a proposed FOCAL mission in the future?
+For some time, the far-reaching and speculative idea of using the Sun as a gravitational lens has been floating around. This would require sending a spacecraft about ~550 AU of a distance away from Earth. Which seems very possible to happen in the next few decades.
+But I am wondering, is there any plausibility to using other stars (like the Sirius A) for possibly even higher resolution or greater distance imaging due to the stars brightness and size?
+Is there there enough parallax for this to be useful? How far away must a satellite go to be able to manipulate parallax to its advantage? Obviously let’s assume we have some type of interstellar propulsion system like laser propelled solar.
+I'm curious if anyone can give useful feedback or calculations on the distance it can image and the quality of images it can capture, because in the far future if the solar gravitational lense work why not use other stars?!

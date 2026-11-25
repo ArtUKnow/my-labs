@@ -1,0 +1,3 @@
+Why do we see performance drop in the aerospike engine in Mach 1 to Mach 3 speed?
+While reading about aerospike engine here https://www.hq.nasa.gov/office/pao/History/x-33/aero_faq.htm I read that (Question 11 in the FAQ) due to the slipstream turning into the nozzle region we observe a drop in nozzle efficiency.
+What does that mean in simple terms and do the simple bell nozzle also experiences this?

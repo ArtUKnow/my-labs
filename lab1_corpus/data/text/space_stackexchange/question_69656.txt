@@ -1,0 +1,5 @@
+Why is Starship made of several short cylinders instead of a few long ones?
+Weld failure was the cause of prototype failure early on. Yet SpaceX has limited itself to stacking 6ft cylinders, forcing it to make dozens of huge welds.
+Why not just make one sheet metal cylinder for each tank? That way you would only have to weld at the tank ends, instead of every 6ft.
+Update: sorry to appear to broaden the scope, bit when you think about it, it actually doesnt.
+Even if it was impossible to get sheets that big, wouldn't it be easier to weld them together on the ground to the required size before turning into cylinders for stacking? It would greatly reduce the number of precision stacking maneuvers required.

@@ -1,0 +1,3 @@
+How Comprehensive is DISCOSweb?
+The DISCOSweb API seems to contain a list of all launches as well as significant amounts of tracked debris.
+I'm just wondering how conclusive I can consider this dataset to be? Does it contain all tracked debris or just a subset?

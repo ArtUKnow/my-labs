@@ -1,0 +1,5 @@
+Can Vacuum nozzles be used as cooling radiators in LEO?
+Radiators are used for thermoregulation of spacecraft. https://www.academia.edu/934756/Thermal_Control_Handbook . Their effectiveness requires their surface be exposed to deep space, not an IR radiating body (like the Earth) or the sun. Closed loop fluid circulation is sometimes used to transport heat from inside the spacecraft to the radiator.
+In LEO, it is difficult to shade radiators from both the sun and the Earth
+The inside of a vacuum nozzle would seem to be an ideal radiator. It already has fluid passages. The surrounding spaceship skin shades it from one hemisphere. A final few seconds of fuel rich-rich burn would likely coat it with high-e coke.
+Are nozzles suitable as radiators?

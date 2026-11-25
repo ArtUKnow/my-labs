@@ -1,0 +1,2 @@
+How is the temperature of motors used in robotic arm and wheels maintained in a martian rover
+The electronic components of the mar's rover are protected from external extreme temperatures with the help of WEB warm electronic box. But what about the motors(which is also an electronic component) sticking out of the rover body, how are the motors protected from temperature (the ones used in wheels and arm of rover)?? Do they used special lubticants or alloy like titanium or are there any internal systems connected to the motors

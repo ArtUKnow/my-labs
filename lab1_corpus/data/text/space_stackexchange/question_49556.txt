@@ -1,0 +1,8 @@
+Are Powered Explicit Guidance calculations done before or during launch?
+Space shuttle orbital insertion was done using a powered explicit guidance algorithm.
+At the surface, the algorithm is simple, as it gives the instantaneous pitch as a linear function of time:
+$\phi = \arctan(at + b )$ which is ~$at + b$ at small pitch angles.
+Sadly, the simplicity is illusion, as the coefficients a and b aren't trivial to find. The calculations are fairly elaborate---so elaborate, in fact, they I wonder if they did them all in real time during launch...
+...or if they instead did the calculations on the ground in order to get the Powered Explicit Guidance trajectory they would need to feed their attitude controllers.
+Thing is... the calculations seem to require knowledge of your instantaneous state vector, which is a variable known with reasonable certainty only in flight. You could simulate on the ground and get some approximate numbers that way, and if you can live with the error that comes with conditions that are not nominal---unexpected differences in wind, engine performance, etc...
+Does anyone know where/when the P.E.G. calculations were done? On the ground before flight or in the rocket computers during launch?

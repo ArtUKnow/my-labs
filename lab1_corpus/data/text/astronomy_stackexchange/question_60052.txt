@@ -1,0 +1,2 @@
+Is it possible to determine the Sun's angle of illumination and elevation/altitude from the horizon using satellite imagery?
+Google Maps' imagery for the year 2025 imagery, has been recently updated. It can be seen that different imagery has different illumination angles created by the Sun. Using the shadows caused by slender and/or tall objects like skyscrapers or perhaps pinnacles or poles, is it possible to determine the azimuthal and zenithal angle of the Sun, as well as the altitude/elevation of the Sun?

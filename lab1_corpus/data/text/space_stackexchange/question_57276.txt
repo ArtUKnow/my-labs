@@ -1,0 +1,3 @@
+Failing at getting apogee and perigee from TLE
+At Celestrak, the current orbit for ISS is currently listed as 423x417 km, but if I'm getting the TLE data from Celestrak and use orb.get_lonlatalt(now) from pyorbital by iterating the orbit for the next period (I'm doing that by reading the altitudine every 30 seconds for the next 93 minutes in the future), I get a maximum altitude of 436 km instead of 423 km (the perigee is not off, at 417 km, exactly as specified on Celestrak website). What am I doing wrong and why my (apogee) data is different than on Celestrak?
+Secondary question: what's the cleanest, fastest, most elegant way to get apogee and perigee (in Python) from TLE data?

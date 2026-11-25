@@ -1,0 +1,4 @@
+Were both Computers active during the Landing of Curiosity and Perseverance
+Curiosity and Perseverance have 2 redundant computers, during surface operations, only one is active at a time, while the other one is there as a spare.
+Now I'm wondering if during landing they started the EDL software on both computers in case one of them fails, so the other one can jump in and do the landing.
+Thanks!

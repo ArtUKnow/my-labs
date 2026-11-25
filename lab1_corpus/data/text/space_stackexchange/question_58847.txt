@@ -1,0 +1,4 @@
+What caused the JWST Instrument Radiator temperature to start cooling faster on day 34?
+As shown on the temperature plots, the D-Instrument Radiator temperature was slowly dropping after sunshield deployment. Around day 34, however, the temperature started to decrease faster than before.
+The sunshield deployment started on day 6 and was fully deployed around day 10. This is clear to see on the plots. The mirrors were fully deployed around day 14. The MCC2 burn to orbit L2 was on day 30, but that seemed like a fairly small burn that didn't change the telescope's distance much. It seems like the only other deployments between that and the amazing cryocooler started up on day 87 were mirror segment alignment.
+What happened on day 34 to cause the temperatures to start dropping faster?

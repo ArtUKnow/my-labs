@@ -1,0 +1,3 @@
+what are some methods of side booster separation?
+Through some research, I got to know about the booster separation motors (BSMs) used on the space shuttle in order to separate the solid rocket boosters (SRBs). However I did not understand if this is similar to Hot staging on a rocket or does the separation and BSM firing take place simultaneously? and if so how?
+It also wonder what other methods of booster separation have been used throughout time and which of them are used today?

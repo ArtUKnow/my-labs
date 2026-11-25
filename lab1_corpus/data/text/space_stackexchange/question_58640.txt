@@ -1,0 +1,16 @@
+Calculating the propellant needed for a trip from LEO to Low Mars Orbit at constant acceleration of 1g
+I’ve been trying to calculate how much propellant a spaceship from Earth /LEO/ to Mars /LMO/ at constant acceleration of 1g would need. Here’s the data given:
+dry mass mf=100 t;
+g=9,81 m/s^2; Isp=10000 s /ion thruster/;
+trip duration Earth to Mars at constant acceleration of 1g, decelerating halfway
+1d 21h 13m1s = 162781 s, according to this source;
+Delta V from LEO to LMO = 6,6 km/s, according to this source.
+Initial total mass with propellant mo=? Mpropellant=?
+From the Isp=10000 s I get the exhaust velocity: Isp=ve/go; ve=Isp x go=10000s x 9,81m/s^2=98100 m/s.
+Then I continue with the Tsiolkovsky rocket equation and solve for the initial total mass with propellant:
+$$\Delta v = v_e \cdot \ln\frac{m_o}{m_f}$$
+$$m_o = m_f \cdot e^{\frac{\Delta v}{v_e}} = 100,000kg \cdot e^{\frac{6,600m/s}{98,100m/s}} = 100,000kg \cdot e^{0.067278287} = 100,000kg \cdot 1.06959 = 106,959kg$$
+That gives me the mass of the propellant – 6959 kg. With the total duration given at 162781s, I calculate the mass flow rate:
+$$\dot{m = \frac{\delta m_{propellant}}{\delta t}} = \frac{6,959kg}{162,781s} = 0.042751kg/s$$
+The mass of the propellant /6,9 tons/ and the mass flow rate seem to be too low – are the calculations correct or am I missing something? Also, the only connection to the constant acceleration of 1g was the duration of the trip – should the acceleration be considered in a different equation?
+Thank you in advance.

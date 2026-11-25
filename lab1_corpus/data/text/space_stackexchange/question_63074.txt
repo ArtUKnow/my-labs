@@ -1,0 +1,4 @@
+How close do gravitational 2-body hierarchy levels get?
+Due to very few 3-body arrangements being stable (this question thus excluding co-orbital objects like trojans), objects in space usually arrange themselves in a hierarchy of 2-body systems. When the scale difference between these systems is sufficiently large, the arrangements usually have a reasonably good long term stability.
+How close in scale do these hierarchy levels naturally get?
+The Earth-Moon system is pretty large, the moon completing only a bit over 13 orbits in a year. Even closer in scale are the Sun-Jupiter and Jupiter-Kore systems, the outermost moon completing only 5.58 orbits in a Jovian year. The outermost Saturn, Uranus and Neptune moons don't get any closer.

@@ -1,0 +1,8 @@
+Lunar power transmission using bare conductors laid on the regolith?
+Electrical power transmission on the lunar surface will likely become necessary to join solar farms and lunar facilities, especially if water hydrolysis is used to make hydolox propellant.
+Construction of conventional power lines with pylons and suspended cables would be a significant undertaking. Solar radiation is damaging to many common insulation materials. The large temperature fluctuations from lunar night to day (-175C to +127C) would change the tension in suspended wires.
+Why not just lay the bare conductors on the ground? Regolith has about the same dielectric constant as Teflon or cross-linked polyethylene (2.35 vs 2.02 and 2.5) so regolith is an excellent insulator.
+https://www.mdpi.com/2072-4292/14/18/4539#:~:text=The%20relative%20dielectric%20constant%20of,rocks%20in%20the%20landing%20site https://ieeexplore.ieee.org/abstract/document/7508671
+Moonwalkers would need to take a giant leap over the conductors, unless the wires were trenched.
+The illustration below is from a posted question which proposed a circum-lunar power transmission line using conventional suspended conductors..
+Mass of a circumlunar power transmission line?

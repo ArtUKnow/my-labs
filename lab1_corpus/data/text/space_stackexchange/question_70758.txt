@@ -1,0 +1,7 @@
+How would a large rotating payload mass affect spacecraft attitude control?
+I am a retired airline pilot investigating a concept involving a large rotating mass element (RME) integrated into a spacecraft.
+Unlike conventional reaction wheels, the proposed rotating element could incorporate useful onboard mass, such as payload or fuel, rather than being exclusively dedicated to attitude control.
+I would like to understand the implications of this configuration for spacecraft attitude dynamics.
+For a spacecraft with a single rotating element, how would its angular momentum affect the response to attitude maneuvers?
+What limitations would arise from conservation of angular momentum, gyroscopic coupling, and the need to control the rotating element?
+Are there existing studies or spacecraft systems that have investigated the use of payload or other onboard mass as part of an attitude-control mechanism?

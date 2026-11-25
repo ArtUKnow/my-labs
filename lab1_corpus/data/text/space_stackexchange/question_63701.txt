@@ -1,0 +1,5 @@
+Ariane 6 upper stage schematic showing integration of APU
+I've been reading about the Auxiliary Power Unit (APU) on the Ariane 6 upper stage and am looking for a schematic showing how it's integrated into the stage.
+From Thermal Control of the Cryogenic Upper Stage of Ariane 6 I found this, but it only mentions the APU as being located on the ViTF, but does not call it out on the drawing.
+The video Ariane 6 APU system - video presentation includes this, but it's not very helpful.
+Does anyone know of a schematic that shows clearly how the APU is integrated into the upper stage?

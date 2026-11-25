@@ -1,0 +1,5 @@
+Did India purchase the Gaganyaan design from Russia?
+Gaganyaan is an orbital crew module under development by the Indian Space Research Organisation. Sources indicate a design based on the Russian Soyuz:
+As of 2015 the design utilized a Soyuz-shaped reentry capsule with a mass of 3735 kg, a diameter of 3.100 m and height of 2.678 m.
+Does this mean that ISRO actually paid Russia for the design (like China did with Shenzhou), or did they merely make their own copy?
+The Wikipedia article does acknowledge Russian help with the life support system, thermal system, and astronaut selection and training. However, this question is about the overall spacecraft design.

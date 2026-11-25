@@ -1,0 +1,207 @@
+Get fully defined orbit from space-track.org SATCAT
+My question is related to this one on Physics SE. Admittedly, I'm somewhat preempting the answer over there being "you can't, there's a missing parameter", so if it comes back that you can derive this parameter mathematically, I'll close this question.
+The space-track.org API returns a model conforming to this from the /basicspacedata/modeldef/class/satcat endpoint:
+{
+"controller": "basicspacedata",
+"data": [
+{
+"Field": "INTLDES",
+"Type": "char(12)",
+"Null": "NO",
+"Key": "",
+"Default": "",
+"Extra": ""
+},
+{
+"Field": "NORAD_CAT_ID",
+"Type": "int(10) unsigned",
+"Null": "YES",
+"Key": "",
+"Default": null,
+"Extra": ""
+},
+{
+"Field": "OBJECT_TYPE",
+"Type": "varchar(12)",
+"Null": "YES",
+"Key": "",
+"Default": null,
+"Extra": ""
+},
+{
+"Field": "SATNAME",
+"Type": "char(25)",
+"Null": "NO",
+"Key": "",
+"Default": "",
+"Extra": ""
+},
+{
+"Field": "COUNTRY",
+"Type": "char(6)",
+"Null": "NO",
+"Key": "",
+"Default": "",
+"Extra": ""
+},
+{
+"Field": "LAUNCH",
+"Type": "date",
+"Null": "YES",
+"Key": "",
+"Default": null,
+"Extra": ""
+},
+{
+"Field": "SITE",
+"Type": "char(5)",
+"Null": "YES",
+"Key": "",
+"Default": null,
+"Extra": ""
+},
+{
+"Field": "DECAY",
+"Type": "date",
+"Null": "YES",
+"Key": "",
+"Default": null,
+"Extra": ""
+},
+{
+"Field": "PERIOD",
+"Type": "decimal(12,2)",
+"Null": "YES",
+"Key": "",
+"Default": null,
+"Extra": ""
+},
+{
+"Field": "INCLINATION",
+"Type": "decimal(12,2)",
+"Null": "YES",
+"Key": "",
+"Default": null,
+"Extra": ""
+},
+{
+"Field": "APOGEE",
+"Type": "bigint(10) unsigned",
+"Null": "YES",
+"Key": "",
+"Default": null,
+"Extra": ""
+},
+{
+"Field": "PERIGEE",
+"Type": "bigint(10) unsigned",
+"Null": "YES",
+"Key": "",
+"Default": null,
+"Extra": ""
+},
+{
+"Field": "COMMENT",
+"Type": "char(32)",
+"Null": "YES",
+"Key": "",
+"Default": null,
+"Extra": ""
+},
+{
+"Field": "COMMENTCODE",
+"Type": "tinyint(3) unsigned",
+"Null": "YES",
+"Key": "",
+"Default": null,
+"Extra": ""
+},
+{
+"Field": "RCSVALUE",
+"Type": "int(1)",
+"Null": "NO",
+"Key": "",
+"Default": "0",
+"Extra": ""
+},
+{
+"Field": "RCS_SIZE",
+"Type": "varchar(6)",
+"Null": "YES",
+"Key": "",
+"Default": null,
+"Extra": ""
+},
+{
+"Field": "FILE",
+"Type": "smallint(5) unsigned",
+"Null": "NO",
+"Key": "",
+"Default": "0",
+"Extra": ""
+},
+{
+"Field": "LAUNCH_YEAR",
+"Type": "smallint(5) unsigned",
+"Null": "NO",
+"Key": "",
+"Default": "0",
+"Extra": ""
+},
+{
+"Field": "LAUNCH_NUM",
+"Type": "smallint(5) unsigned",
+"Null": "NO",
+"Key": "",
+"Default": "0",
+"Extra": ""
+},
+{
+"Field": "LAUNCH_PIECE",
+"Type": "varchar(3)",
+"Null": "NO",
+"Key": "",
+"Default": "",
+"Extra": ""
+},
+{
+"Field": "CURRENT",
+"Type": "enum('Y','N')",
+"Null": "NO",
+"Key": "",
+"Default": "N",
+"Extra": ""
+},
+{
+"Field": "OBJECT_NAME",
+"Type": "char(25)",
+"Null": "NO",
+"Key": "",
+"Default": "",
+"Extra": ""
+},
+{
+"Field": "OBJECT_ID",
+"Type": "char(12)",
+"Null": "NO",
+"Key": "",
+"Default": "",
+"Extra": ""
+},
+{
+"Field": "OBJECT_NUMBER",
+"Type": "int(10) unsigned",
+"Null": "YES",
+"Key": "",
+"Default": null,
+"Extra": ""
+}
+]
+}
+In terms of fields that relate to the orbit of the satellite, I make it:
+Period
+Inclination
+Apogee
+Perigee
+Which is all great information. However, I want to be able to fully define these orbits in terms of the classical Keplerian representation used by the ESA such that I can compare data from the two. To do this, I somehow need to find the right ascension of the ascending node / longitude of the ascending node.
+Now, I'm assuming that space-track has this information somewhere... It seems somewhat pointless to miss a key parameter out of an orbital definition. So where can I find it?

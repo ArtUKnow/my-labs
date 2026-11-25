@@ -1,0 +1,23 @@
+In which direction does the x axis of the ECI at 1.1.2000 at 12:00 (J2000) go and where is the 0 deg meridian?
+I am currently getting a bit lost in reference frames and coordinate systems.
+From my point of view, I am currently in the ICRS frame. I know that the ECI from my point is only moving but not rotating, therefore its x,y,z-axis are always pointing in the same direction.
+I know that at the vernal equinox say 2021.3.20 at 9:43 the sun is directly above the equator. And at that date and time, the z-axis of the ECI is rotated -23.43653 deg around the line between earth and sun.
+Position of the Earth at 2021.3.20 9:43 in ICRS
+x -1.003059603498145 * AU
+y = 0.0104425511782964 * AU
+z = 0.0001246952057660868 AU
+Still, the vernal equinox does not define the direction of the x-axis of the ECI, I just know that it is 90 deg to the z-axis.
+Now I need the J2000 frame:
+x -0.17566 * AU
+y = 0.96599 * AU
+z = 0.00020 * AU
+here the x-axis of the ECI frame is defined as "The x-axis is aligned with the mean equinox" wiki and I assume, that at J2000 the x-axis of the ECEF and ECI frame are identical.
+Therefore, the ECI and ECEF x-axis at J2000 is aligned with the earth CG and a point on the earth surface a little bit south of Nigeria (0 deg lat/lon)
+Now my question, what is exactly meant by the "mean equinox"? I can't find any definition of that. Does it mean the point where the earth is on average in the ICRS at the vernal equinox? Is it parallel to the x-axis at the vernal equinox? But if so, then where is the x-axis at the vernal equinox?
+I have checked out this orbit simulation and here it seems, that the x-axis at J2000 of the ECI and ECEF point in the direction of the sun, but some degrees above. Does it mean, that the track of the x-axis in the orbital plane point at the sun? Could I use this as the additional definition of the ECI coord system to the 2021 vernal equinox?
+EDIT Comment Organic Marble:
+"In astronomy, an equinox is either of two places on the celestial sphere at which the ecliptic intersects the celestial equator". I have already read this article. But it still not 100% sure
+As I understand from this I made two drawings indicating the equinox "direction" at J2000 and the vernal equinox
+If these drawings are correct, then the ECI x-axsis is going to the "right" (relative to the view in the images). Therefore, the x-axsis must always align with the equinox direction (besides its precession and nutation motion).
+And my assumption, that at J2000 ECI and ECEF x-axis are colinear is incorrect.
+Is it correct, that under the simplification, that the z axis of the ECEF and the ECI are colinear, the rotation of ECEFs relative to the sun only depends on the time and earth rotational speed? If yes where could I find the rotation around the z-axis between ECI and ECED at J2000?

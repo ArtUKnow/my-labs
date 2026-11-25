@@ -1,0 +1,8 @@
+Where is the uncropped version of this cool Ingenuity navigation camera GIF?
+Ingenuity's Shadow During Third Flight shows the GIF below which is made from cropped bits from several downward-looking images from Ingenuity's navigation camera, stretched so that the ground is fixed and the helicopter's shadow moves. It shows several interesting features.
+The caption includes:
+The shadow of NASA’s Ingenuity Mars Helicopter can be seen in this animated GIF composed of images taken by its black-and-white navigation camera during the rotocraft’s third flight, on April 25, 2021. The camera, which tracks surface features below the helicopter, takes images at a rate at which the helicopter’s blades appear frozen in place, despite making 21 full rotations in-between each image. At full speed, the blades spin at 2,537 rpm. The images are aligned entirely using Ingenuity's on-board position tracking system highlighting the stability and accuracy of the navigation algorithm.
+The GIF has been cropped to fill the frame, and the contrast has been increased so it’s easier to see; the frame rate has also been sped up. An uncropped version is included to show what the view from the camera normally looks like. An additional visualization shows how the star shape of the images in the original video is created by the fisheye lens on the navigation camera.
+But I don't see said uncropped version anywhere. Does anyone know where/if it's been posted?
+Question: Where is the uncropped version of this cool Ingenuity navigation camera GIF?
+You can also see the shadow hiding/opposition surge effect around ingenuity's shadow. Cool!

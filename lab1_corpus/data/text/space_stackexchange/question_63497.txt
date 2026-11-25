@@ -1,0 +1,4 @@
+Anti-Geyser Test Full Scale
+I am working on the thesis about Geysering and Recirculation in Launch Vehicles. And I am having some diffucilties to understand that "do we need to use full-scale model to test geysering?". As in https://www.nasa.gov/sls/anti-geyser-testing.html . Are there any other possible ways to determine whether geyser occurs or not, or recirculation is enough to mitigate that issue. I have seen something called "Murphy Curve" (Fig.1. ref-> AN EXPERIMENTAL INVESTIGATION OF
+GEYSERING IN VERTICAL TUBES - D.W. Murphy 1965), but in some recent papers it is said that this Murphy Curve is not valid for all cases.
+Thank you in advance.

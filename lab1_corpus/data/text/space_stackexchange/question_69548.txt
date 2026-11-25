@@ -1,0 +1,14 @@
+What are these scoops on the Saturn V first stage?
+This is an image taken of the Saturn V on display at the U.S. Space and Rocket Center.
+Highlighted in the image is a sort of scoop attached to the engine cowl. It is placed such that it will impinge airflow and reroute it onto the base of the rocket. When I visited this vehicle in person, I recall seeing additional scoops not attached to the cowling, though I cannot find any pictures to confirm this.
+Here is a closeup of the same device on the JSC Saturn V from a different angle.
+It is known that rocket performance can be enhanced by increased base pressure, and it is my assumption that this is the intended result of the scoops (similar to some drag reducing features seen on vans or semi-trucks).
+My main questions are:
+What were these scoops called officially and what was their intended
+functionality?
+Were they ever flown?
+(Assuming they were intended to reduce drag) Were they effective
+despite protruding?
+And a bonus question:
+Was vortex shedding off the suction side of these scoops a noted
+problem?

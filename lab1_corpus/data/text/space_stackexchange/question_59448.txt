@@ -1,0 +1,2 @@
+Earth to Mars Transfer using GMAT
+I saw a couple of people mention here that in order to change the epoch date from the given Mars transfer example on GMAT I would need to change and re-optimize initial conditions. How would I do that? Also, has anyone done the transfer orbit from Mars back to Earth?

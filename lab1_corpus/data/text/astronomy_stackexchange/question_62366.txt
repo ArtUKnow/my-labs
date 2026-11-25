@@ -1,0 +1,10 @@
+If mass kept being removed from a red dwarf, at what mass would it stop fusing?
+We know that an object needs to be about 0.072 to 0.075 solar masses to ignite hydrogen at solar metallicity. Lower-mass objects will be stabilized by electron degeneracy pressure and form brown dwarfs instead.
+However, this is only the minimum mass for ignition. A lower-mass object won’t ignite hydrogen on its own. However, there are conceivable ways that a star with lower mass could be formed:
+A red dwarf could lose enough mass to a compact object that it falls below the threshold.
+A brown dwarf could be heated to the point of ignition by some external mechanism.
+Do either of these actually happen? If so, which ones do happen, and what is the minimum mass needed to sustain hydrogen fusion after ignition?
+If such objects do exist, what would their properties be, and are any examples known?
+Edit: See https://physics.stackexchange.com/a/667011. There is a range of masses for which two solutions exist. One corresponds to burning stars. It has high temperature and low density, and is supported by nuclear fusion. The other corresponds to brown dwarfs. It has low temperature and high density, and is supported by electron degeneracy pressure.
+According to the linked question, the brown dwarf branch terminates at around 0.6 solar masses. At higher masses, pycnonuclear fusion ignites. The main sequence branch will end when the temperature cannot remain high enough for nuclear fusion. Where does the main sequence branch end?
+In other words, suppose one kept stripping mass off of a red dwarf. How light would the red dwarf need to get before fusion stops?

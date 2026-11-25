@@ -1,0 +1,3 @@
+Finding satellite visibility with ephemeris state vectors instead of TLE
+I have been using Python excellent skyfield module to compute Earth satellite events from a given point (ie. visibility—rise, culmination, and set, as well as associated azimuth and elevation). However, for various reasons, I have to move away from using the given satellites' TLEs to ephemeris/state vector data (x, y, z, vx, vy, vz), both past and predicted.
+I am very new to using this kind of data instead of using TLE propagators (through skyfield) to find such events. What Python tools are available to do such analysis?

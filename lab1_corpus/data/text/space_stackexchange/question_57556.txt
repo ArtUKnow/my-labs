@@ -1,0 +1,5 @@
+A way to overcome fuel limits on JWST and its operational lifetime; "clip-on" propulsion systems in development that might work in the future?
+I was wondering:
+Although it has been widely publicised that the JWST has a lifetime limit. Is it not it possible given current technology regarding drones and the JWST itself as proof of concept to send a simpler clip on or add-on unit that comprises only of fuel and method of propulsion that could extend the lifetime?
+So I'd like to ask if there are examples of such propulsion systems at least under development. The target applications might be for high value satellites in LEO, but presumably once those are demonstrated they might be considered for spacecraft in more distant L1/L2 halo orbits or beyond.
+Note that I'm not asking if JWST would be easy to "clip on to", that's a separate challenge.

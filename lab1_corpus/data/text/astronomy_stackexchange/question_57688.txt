@@ -1,0 +1,38 @@
+"inconsistent TLE object name (LINE IGNORED)" error while using JPL Horizons API in python
+I have troubles with usage of JPL Horizons API to generate ephemeris of more than one satellites. I'm not using and don't want to use any external libraries to do this.
+Currently I have this piece of code:
+f = open("input.txt")
+url = 'https://ssd.jpl.nasa.gov/api/horizons_file.api'
+r = requests.post(url, data={'format':'json'}, files={'input': f})
+result = r.json()["result"].split("$$SOE")[-1].split("$$EOE")[0].lstrip("\n").rstrip("\n").split("\n")
+f.close()
+print(result)
+and my input.txt looks like this:
+!$$SOF
+COMMAND='TLE'
+TLE='
+sc1
+1 40045U 14033AM 24138.43332122 .00010340 00000-0 12461-2 0 9996
+2 40045 97.6690 313.1412 0050995 24.2209 336.1387 14.83088260533231
+sc2
+1 40046U 14033AN 24138.75674949 .00010420 00000-0 12311-2 0 9991
+2 40046 97.6653 312.1300 0049460 18.7462 341.5560 14.83957905533335'
+OBJ_DATA='NO'
+MAKE_EPHEM='YES'
+CSV_FORMAT='YES'
+TABLE_TYPE='OBSERVER'
+CENTER='coord'
+COORD_TYPE=GEODETIC
+SITE_COORD='-156.94105,21.072415,0.1'
+START_TIME='2024-05-18 5:00'
+STOP_TIME='2024-05-18 16:00'
+STEP_SIZE='1h'
+QUANTITIES='1,4,12'
+SKIP_DAYLT = 'YES'
+Unfortunately when I run this code I get this message printed as a result:
+['*** Error: inconsistent TLE object name (LINE IGNORED):', ' #1: "SC1"', ' #2: "SC2"', 'WLDINI: error loading execution-control file.']
+Does anyone know how to properly query multiple satellites objects? According to Horizons API Manual :
+The first line can be the objects’ name (“SC-1”), as can every 3rd line. Names are a maximum of 24 characters in length.
+and
+Multiple TLE sets can be input, up to some system limit which may change but is nominally 600 sets (1200 data lines … name lines are not counted)
+So I don't see a reason why this doesn't work.

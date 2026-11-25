@@ -1,0 +1,79 @@
+How to reliably convert equatorial (RA, Dec) to galactic (l, b) coods
+I am trying to find a way to reliably convert positions in RA and dec to their corresponding l and b positions (I also want to be able to go backward as well), I found in answer to an earlier question the following info:
+(from How can I convert my sky coordinate system (RA, Dec) into galactic coordinate system (l, b)?)
+Applying spherical trigonometry, it follows that the conversion from equatorial coordinates 𝛼
+and 𝛿
+to galactic coordinates 𝑙
+and 𝑏
+is:
+$$
+\left.
+\begin{aligned}
+\sin b &=\sin \delta_{NGP} \sin \delta + \cos \delta_{NGP} \cos \delta \cos ( \alpha - \alpha_{NGP}) \\
+\sin ( l_{NCP}-l) &=\dfrac{\cos \delta \sin ( \alpha - \alpha_{NGP})}{\cos b} \\
+\cos ( l_{NCP}-l) &=\dfrac{\cos \delta_{NGP}\sin \delta - \sin \delta_{NGP} \cos \delta \cos ( \alpha - \alpha_{NGP})}{\cos b}
+\end{aligned}
+\right \}$$
+The equatorial coordinates (J2000) of the North Galactic Pole are:
+𝛼𝑁𝐺𝑃=12ℎ51𝑚26.282𝑠=192.8595º=3.36603 𝑟𝑎𝑑
+𝛿𝑁𝐺𝑃=+27º07′42.01″=27.1283º=0.473479 𝑟𝑎𝑑
+And the galactic longitude of the North Celestial Pole is:
+𝑙𝑁𝐶𝑃=122.932º=2.14557 𝑟𝑎𝑑
+I gather that the back conversion is:
+$$
+\left.
+\begin{aligned}
+\sin \delta &=\sin \delta_{NGP} \sin b + \cos \delta_{NGP} \cos b \cos ( l_{NGP} - l) \\
+\sin ( \alpha - \alpha_{NGP}) &=\dfrac{\cos b \sin ( l_{NGP} - l)}{\cos \delta} \\
+\cos ( \alpha - \alpha_{NGP}) &=\dfrac{\cos \delta_{NGP}\sin b - \sin \delta_{NGP} \cos b \cos ( l_{NGP} - l)}{\cos \delta}
+\end{aligned}
+\right \}$$
+Now, going back to the first formulae, I thought I'd test everything out on Sagittarius A*, whose equatorial coords are said to be:
+Equatorial Coordinates (J2000):
+RA 17h 45m 40s = 255.761º = 4.4639 𝑟𝑎𝑑
+Dec -29º 00' 28'' = -28.992º = -0.506 𝑟𝑎𝑑
+The idea is that, by definition, I should get something close to l=0 and b=0 as a result, but I get nothing like that. The closest I've managed so far is:
+l = -5.2815, b = 7.6774
+I wasn't expecting to get it exact, but both results seem pretty far off. So I figure that the issue is how I'm using the equations.
+For l
+the situation seems pretty simple:
+$$
+\sin \delta =\sin \delta_{NGP} \sin b + \cos \delta_{NGP} \cos b \cos ( l_{NGP} - l)
+$$
+I plugged in the numbers on the right-hand side, then take the arcsin of both sides, but the initial result seems pretty unsatisfying:
+$$
+\begin{aligned}
+\sin b &=\sin \delta_{NGP} \sin \delta + \cos \delta_{NGP} \cos \delta \cos ( \alpha - \alpha_{NGP}) \\
+\sin b &= (0.456 * -0.485) + (0.89 * 0.874 * 0.4555) \\
+\sin b &= -0.221 + 0.354 \\
+\sin b &= 0.134 \\
+b &= 0.134 rad, 7.68º
+\end{aligned}
+$$
+For b
+I have tried to select the best results for (everything is in radians):
+$$
+\sin ( l_{NCP}-l) = 0.7857 \\
+\cos ( l_{NCP}-l) = -0.6186
+$$
+which looks like the second quadrant to me, given:
+$$
+\pi/2 < \theta < \pi, \\
+-\pi > \theta > -3\pi/2
+$$
+so out of the values for l_{NCP}-l:
+$$
+l_{NCP}-l = 2.2377 \\
+l_{NCP}-l = 0.90384
+$$
+we select 2.2377, and finally get (in degrees):
+$$
+l = -5.2815 \\
+b = 7.6774
+$$
+but all official sources show that Sagittarius A* is (again, in degrees):
+$$
+l = 0.068 \\
+b = -0.12
+$$
+So, what am I doing wrong? is there some aspect of trigonometry that's escaped me?

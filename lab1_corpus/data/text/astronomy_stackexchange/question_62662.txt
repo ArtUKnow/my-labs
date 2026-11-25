@@ -1,0 +1,8 @@
+Time evolution and large scale galaxy surveys
+There are some large scale galaxy surveys mapping billions of galaxies. What do they tell us about the time evolution of the universe?
+If you look at the spectra telling us about the chemical composition of galaxis "close" to us, say 0-100 million light years away, compared to galaxies 1 billion light years away or 3 billion light years away can we say something about the time evolution of the universe/galaxies from the statistics?
+Perhaps shape, luminosity, apparent size or other factors also can be found to vary over time if you look at large studies?
+I understand the problem in that the farther you go the fewer features you can see and only the brightest object may be visible.
+Question 1: What are some of the primary variables that can be automatically assigned to distant galaxies in large galaxy surveys and used to track time evolution of the universe (by comparing galaxies close with galaxies half a billion years, a billion years ago etc. )?
+Question 2: If we look at specifically spectra/chemical composition from nearby galaxies (close in time) with galaxies further away that we observe a long time ago, has large galaxy surveys told us anything about the time evolution?
+(So I am not asking about the average chemical composition of galaxies, but about the time evolution of the chemical composition of galaxies from statistical evaluations of data from large galaxy surveys).

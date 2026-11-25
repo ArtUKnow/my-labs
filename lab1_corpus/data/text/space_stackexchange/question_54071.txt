@@ -1,0 +1,5 @@
+Apollo 14-17 - Why didn't they keep the Lunar Module docked as a lifeboat for the way back to Earth?
+During Apollo 13, the Lunar Module had to be used as a lifeboat in order to save the astronauts. Then, it was only jettisoned from the Command Module shortly before Earth re-entry (even after the Service Module separation). (Source: Apollo 13)
+My thinking is that it would have been wise for succeeding missions (14-17) to keep the LM docked for the way back to Earth, to have a lifeboat in case of any similar problems with the SM/CM.
+Instead, the LM was jettisoned while still being in lunar orbit and commanded to impact on the moon surface to measure the seismic effects with sensors deployed while at the moon surface. (Source: Apollo 14)
+If I had to weigh up the pros/cons of having a lifeboat to save the Astronauts in case of emergency against some seismic measurements, I would rather go with the lifeboat. However, for some reasons NASA seems to have decided differently. Am I missing anything? Does anyone have any insights or ideas and can think of any reason why they did it this way?

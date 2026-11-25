@@ -1,0 +1,2 @@
+Using NASA Horizons with Celestrak Socrates's TLE CDMs?
+Has anyone succeeded with getting a list of Collision Data Messages (CDMs) from nice sites like Celestrak in order to feed them into NASA Horizon's ephemeris computation service. These would include LEO up to GEO probability of collision numbers

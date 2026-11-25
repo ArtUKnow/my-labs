@@ -1,0 +1,7 @@
+Is the set of software and hardware of modern attitude control systems exhaustive?
+In the book ADCS - Spacecraft Attitude Determination and Control on page 426 there is a diagram of the JWST ACS. Next I attach a reproduction of it from the book.
+The diagram shows the main soft- and hardware blocks of this system. It includes RCS thrusters, reaction wheels, IMU and FGS, star camera, torque control and distribution regulators, position control regulators, auxiliary astronomical blocks, etc.
+It has been suggested that the Gaia has the best characteristics. The corresponding article also provides a high-level block diagram, which essentially presents the same set of main components.
+There are some differences in the AСS for CubeSats. The used filters and types of controllers (Kalman and PID-) are described in more detail; there is also an additional block “magnetic field model” (Earth? Apparatus?) and a magnetometer. But otherwise it is the same control system as other spacecrafts.
+In some cases, ACS has to be built with advanced controllers on board, but a limited set of sensors. Or vice versa, an expanded range of sensors, but simpler regulators. Thus, ACS deteriorates its capabilities in the case of severe restrictions on the soft- and hardware parts (provided that the general structure is preserved).
+My question is: is this set of soft- and hardware position control systems generally comprehensive from a qualitative point of view (assuming there are no restrictions) and such systems do not need further improvement?

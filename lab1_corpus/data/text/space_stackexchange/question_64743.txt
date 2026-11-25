@@ -1,0 +1,25 @@
+Why use plutonium when sunlight is everywhere? Any proposals to use concentrated solar power instead of Pu238 as a heat source for TGs?
+Why use plutonium when sunlight is everywhere? The case for powering thermoelectric generators (TG) with concentrated solar rather than plutonium:
+Spacecraft operating in the inner Solar System usually rely on the use
+of … photovoltaic (PV) solar panels to derive electricity from sunlight.
+Outside the orbit of Jupiter, solar radiation is too weak to produce
+sufficient power within current solar technology and spacecraft mass
+limitations, so radioisotope thermoelectric generators (RTGs) are
+instead used as a power source.
+https://en.wikipedia.org/wiki/Solar_panels_on_spacecraft
+Solar flux falls with the square of the distance from the Sun. For space exploration in the inner solar system, solar flux is high enough for solar PV.
+For more distant voyages (i.e.: beyond Jupiter), RTGs take over. For instance, LUCY has solar arrays for working at Jupiter distance, while Cassini used RTGs in its Saturn voyage.
+An alternative to RGTs is to use solar concentrators paired with solar Thermoelectric Generators (TG)
+TGs are solid state generators which convert heat directly to electricity with no moving parts.
+https://en.wikipedia.org/wiki/Thermoelectric_generator
+The "R" in RTGs is usually plutonium as a heat source. TGs will also work with sources of heat other than radioactive decay, such as solar. https://www.nrel.gov/csp/facility-hfsf.html#:~:text=The%20solar%20furnace%20can%20quickly,up%20to%203%2C000%C2%B0 .
+Most current RTGs operate at over 1000C. Solar TGs would need a solar concentrator to produce temperatures in this range.
+High performance TGs can attain efficiencies of over 30%, which is similar to the photovoltaic (PV) panels on the ISS. However, this is an apples-and-oranges comparison since TGs can use a larger portion of the solar spectrum than PV. And PV performance is actually reduced by the heat produced from the thermal part of the solar spectrum.
+https://www.researchgate.net/publication/283471128_Spectrum_splitting_for_eicient_utilization_of_solar_radiation_a_novel_photovoltaic-thermoelectric_power_generation_system
+PV cells use only about half of the light spectrum provided by the sun. The infrared part is not utilized to produce electricity. Instead, the infrared light heats up the PV cells and thereby decreases the efficiency of the cell.
+A solar concentrator can be created with single layer of aluminized Mylar. Using an inflated structure, the mass per area of the reflector could be very low. Below is a picture of the 30m Echo satellite. The launch mass of the satellite was 180Kg, or 250 grams per square meter of cross sectional area. https://en.wikipedia.org/wiki/Project_Echo
+As an example, the 1.1m long RTG generator used in the Galileo spacecraft (drawing below) had a TG with a surface area of about 0.16m^2. If the light from a 6m solar collector at Saturn’s orbital distance is focused on a 0.16m^2 TG target, the solar flux would be the same as planet Mercury where daytime temperatures are 800F (700K).
+This implies that a solar TG with an 8m reflector at Saturn orbital distance would out-generate the RTG used in Galileo.
+Plutonium costs about $9,600,000/Kg to produce. That is 75,000,000 clams per RTG. Cassini had 3 of them. https://www.forbes.com/sites/williampentland/2015/11/08/peak-plutonium-238-u-s-starts-making-nuclear-fuel-for-deep-space-missions/?sh=3be1744b53b4
+Since RTGs have limitations due to longevity, cost and safety, have there been any proposals to use concentrated solar power as a heat source for TGs in exploration of the outer solar system?
+More to read: What is the status of concentrated solar energy (CSE) in space exploration?

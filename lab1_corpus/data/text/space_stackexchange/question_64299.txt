@@ -1,0 +1,3 @@
+Could you see a probe or space ship with a DS4G ion propulsion thruster with a telescope? Would you need IR or UV?
+I'm wondering what would be observable to an astronomer if one knew where to look for a distant space craft with a powerful ion engine such as a Dual-Stage 4-Grid (DS4G) electrostatic thruster. In the near future I suspect these to be used by drones and probes and I wonder if you'd need an observatory or just a nice telescope to see them.
+I've searched high and low for what kind of light comes out of an ion engine and how safe the plume is, and found only a single post from a then PhD student working on electrode erosion.

@@ -1,0 +1,6 @@
+Orion Navigation Camera Image Quality
+On November 21, 2022, the Orion Navigation Camera made several images of the lunar surface.
+Flight Day 6: Orion's Optical Navigation Camera Captures Lunar Surface
+The image quality is much lower than those from the Lunar Reconnaissance Orbiter (as an example). The images have poor contrast, blown out brightness and some have white lines across them that makes them look like they were faxed.
+Outside of Giordano Bruno
+Is this due to a priority for navigation over higher quality (cost, weight)? Or are they unprocessed or "previews" of slower-to-transmit, higher quality images?

@@ -1,0 +1,13 @@
+Where can I read about the other 17 telescope proposals that NASA’s Astrophysics Explorers Program didn't accept in 2019?
+Update: Per @DH's comment:
+Possibly nowhere, except for brief and oftentimes inscrutable summaries. The summaries have to be publicly releasable. Proposers often do their best to make the publicly releasably material not say much... The details can be deemed by the proposer to be proprietary.
+So if there is a summary of the publicly releasable bits, that would be sufficient to answer this question.
+Scitech Daily's NASA Selects Gamma-Ray Telescope To Probe Origins of Galactic Positrons, Chart Milky Way Evolution says:
+NASA has selected a new space telescope proposal that will study the recent history of star birth, star death, and the formation of chemical elements in the Milky Way. The gamma-ray telescope, called the Compton Spectrometer and Imager (COSI), is expected to launch in 2025 as NASA’s latest small astrophysics mission.
+NASA’s Astrophysics Explorers Program received 18 telescope proposals in 2019 and selected four for mission concept studies. After detailed review of these studies by a panel of scientists and engineers, NASA selected COSI to continue into development.
+and later
+NASA’s Explorers Program is the agency’s oldest continuous program. It provides frequent, low-cost access to space using principal investigator-led space research relevant to the astrophysics and heliophysics programs. Since the 1958 launch of Explorer 1, which discovered Earth’s radiation belts, the program has launched more than 90 missions. The Cosmic Background Explorer, another NASA Explorer mission, led to a Nobel Prize in 2006 for its principal investigators.
+NASA’s Goddard Space Flight Center in Greenbelt, Maryland, manages the program for the agency.
+If I understand correctly, there were 18 proposals filed in 2019 and one (COSI) was selected. It will not be hard now to read further about COSI.
+But how much information is available about the other 17?
+Question: Where can I read about the other 17 telescope proposals that NASA’s Astrophysics Explorers Program didn't accept in 2019?

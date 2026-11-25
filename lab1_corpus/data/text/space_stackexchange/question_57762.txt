@@ -1,0 +1,4 @@
+Why are the JWST A3 and A6 position sensors different from all the others?
+Copied from the Nasa.gov site 'Where is Webb?'
+NOTE: Segment A3 and A6 will be moved separately at the end of the process because their position sensors are read out in a different way.
+Why would they be different?

@@ -1,0 +1,21 @@
+Gravity Calculation Inaccurate?
+For the past week, I've been working on an Effective Gravitational Acceleration calculator on Desmos. This calculator ignores drag and assumes that a rocket is flying up completely straight.
+What this calculator does, is that it takes an input (of altitude above the Earth's surface), and then calculates what the acceleration of gravity (in seconds squared) would be on the interval from said altitude above Earth to the ground. This is done by taking the integral of the area under the cure that is the acceleration of gravity between the surface and the inputted altitude, and then divides it by the change in altitude.
+After this, the effective gravitational acceleration is inputted into some freefall equations, and we can then calculate what speed an object would reach if it was dropped from the inputted altitude to the ground (ignoring the atmosphere and terminal velocity etc.).
+In theory, this resulting total velocity of gravity is what a rocket flying straight up would need to achieve to reach the inputted altitude.
+However, when I input an altitude of 160 km, I get an output of around -1700 m/s of gravitational loss to reach that altitude, while online sources say that it should be around or less than -1500 m/s.
+Where am I making a mistake? Is there something wrong with my equation setup? Or, am I using a flawed logic.
+Here is the calculator: https://www.desmos.com/calculator/9k3etkwmol
+Here are the equations I used:
+altitude (a) = 160,000
+radius (r) = 6,371,000 + a
+Gravity of x [G(x)] = ((6.6725910^-11)(5.9721910^24))/x^2
+Delta x [dt(x)] = r - (r - a)
+Average G(x) (C) = (int. [r-a, r] G(x) dx)/dt(x)
+C is the average velocity of gravity.
+time (t) = -(sqrrt.(2a/-C))
+positive total velocity (w) = Ct
+total velocity (Tv) = -w
+Tv is the total velocity that an object would achieve if dropped from 'a' altitude.
+By the way, I don't know how to format math like this. I tried my best.
+Thank you!

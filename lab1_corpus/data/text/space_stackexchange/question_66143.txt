@@ -1,0 +1,8 @@
+Mean motion as indication for satellite (evasion) maneuvers
+I am interested in detecting satellite maneuvers, e.g., to avoid collissions.
+As far as I understand the best publicly available data comes from TLEs although they have their own problems.
+What is the "simplest" way to detect maneuvers.
+As an example here
+https://www.linkedin.com/pulse/chinese-space-station-starlink-conjunctions-closer-look-jim-shell/
+the mean motion is plotted and large differences betweeen TLEs are noted as indications for a maneuver.
+Would that be sufficient or are there other sources or ways how to detect these maneuvers? I'm aware of the paper below but as far as I see, the algorithm is not publicly available. https://www.researchgate.net/publication/355779339_Simplified_Approach_to_Detect_Satellite_Maneuvers_Using_TLE_Data_and_Simplified_Perturbation_Model_Utilizing_Orbital_Element_Variation

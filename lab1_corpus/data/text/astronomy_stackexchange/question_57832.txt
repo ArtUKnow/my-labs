@@ -1,0 +1,11 @@
+How are neutrinos able to cause a supernova explosion?
+I was trying to understand the type II supernovae's core collapse mechanism from Wikipedia.
+As the core's density increases, it becomes energetically favorable for electrons and protons to merge via inverse beta decay, producing neutrons and elementary particles called neutrinos.
+So far, everything's fine.
+Because neutrinos rarely interact with normal matter, they can escape from the core, carrying away energy and further accelerating the collapse, which proceeds over a timescale of milliseconds. As the core detaches from the outer layers of the star, some of these neutrinos are absorbed by the star's outer layers, beginning the supernova explosion.
+How do neutrinos initiate the supernova explosion? Don't they rarely interact with matter?
+The newly formed neutron core has an initial temperature of about 100 billion kelvins, 104 times the temperature of the Sun's core. Much of this thermal energy must be shed for a stable neutron star to form, otherwise the neutrons would "boil away". This is accomplished by a further release of neutrinos.
+These 'thermal' neutrinos form as neutrino-antineutrino pairs of all flavors, and total several times the number of electron-capture neutrinos. The two neutrino production mechanisms convert the gravitational potential energy of the collapse into a ten-second neutrino burst, releasing about 1046 joules (100 foe).
+We have two mechanisms of neutrinos production here. One is due to inverse beta decay leading to production of neutrons and neutrinos. The other is thermal neutrinos. What is their production due to? Heat of hot neutron core?
+What is their role? They sap away thermal energy from hot neutron core, and convert gravitational potential energy into neutrino bursts? What does that mean?
+My main question is: How are these neutrinos able to cause shockwave supernovae explosions?

@@ -1,0 +1,24 @@
+Mysterious factor of 30 in Coulomb cross section for electron–electron collisions
+I’m a bit stuck trying to understand where a numerical constant in an old paper comes from. The number in question is in eq. (A1) in Shull & van Steenberg (1985) (which gives the cross section for Coulomb collisions between electrons),
+$$
+\sigma_{ee} = (7.82 \times 10^{-11}) (0.05/f) (\ln \Lambda) E^{-2} \;\mathrm{cm}^2
+\tag{A1}
+$$
+specifically $7.82 \times 10^{-11}$. There are two papers cited in the same sentence (Habing & Goldsmith 1971, Shull 1979), and both give the equation
+$$
+\sigma_{ee} = 40\pi e^4 (0.05/f) (\ln \Lambda) E^{-2} \;\mathrm{cm}^2
+$$
+(both in turn citing Spitzer & Scott 1969, where they seem to have derived it from eq. (3)), which is also used in more recent papers (e. g. Furlanetto & Stoever 2010, Evoli et al. 2012).
+This would seem to suggest that
+$$
+7.82 \times 10^{-11} \stackrel{?}{=} 40\pi e^4
+.
+$$
+An immediate issue are the units. For (A1), given the context it seems that $E$ should be given in $\mathrm{eV}$ (which is missing in the equation). Apart from that, it looks like the equations are in the cgs unit system, although I think the “$\mathrm{cm}^2$” at the end of the equation with “$40\pi e^4$” is actually wrong, since $e^4/E^2$ in cgs should already have units of $\mathrm{cm}^2$. It’s a mess!
+Anyway, given that, I’ve found that
+$$
+40\pi e^4
+= 2.61 \times 10^{-12} \,\mathrm{eV}^2 \mathrm{cm}^2
+= (7.82 \times 10^{-11} \,\mathrm{eV}^2 \mathrm{cm}^2) \operatorname{/} 30
+$$
+So I can almost get it consistent, except for an extra factor of 30! Where could this be coming from? Maybe there’s a mistake somewhere in the mess with the units?

@@ -1,0 +1,9 @@
+Multi-stage combustion products?
+Okay so I've never seen anything about this before, and that's probably for a very obvious, very simple reason I am far too dim to think of, but here goes:
+Most combustion reactions in rocket chambers are of two or three reactants forming products in one "stage" of reaction. (i.e. 2(H2(l)) + (O2(l)) => 2(H2O(l)) + energy)
+Generally a monopropellant rocket engine achieves lower efficiencies due to having heavier atomic-mass exhaust products and lower exhaust velocity.
+My question relates to decomposing a complex molecule monopropellant into products that then react further:
+W(l) + Catalyst => Z(?) + Y(?), Z + Y => A + B + ...
+Basically a low energy monoprop => biprop + energy => combustion products and even more energy.
+I assume the reason for not using such a cycle is due to complex molecules being difficult to work with as propellants, and perhaps the most important: Maybe this is impossible, as a fuel? (such a reaction would have to be relatively fast to occur within the rocket engine and provide energy for heating and accelerating the fuel.)
+Anyway cheers.

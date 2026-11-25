@@ -1,0 +1,3 @@
+Equations evaluating engine performance
+What kind of equation would best evaluate a rocket engine's performance in foreign atmospheres such as Mars?
+Does it matter that specific impulse does not consider air resistance? Should I focus on thrust-to-weight since it takes into account gravity? How would one take into account the fact that gravity changes depending on where the rocket is, relative to the planet. For example, gravity decreases as you exit the atmosphere. Would you only calculate thrust to weight at certain points?

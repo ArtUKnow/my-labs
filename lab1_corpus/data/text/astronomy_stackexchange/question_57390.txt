@@ -1,0 +1,25 @@
+Range for Radius and Mass of Solar bodies
+I'm trying to build a table with the Min and Max Radius and Mass of Solar bodies. In order to get data to be able to random generate other solar systems. This is a basic exercise, I'm pulling data from the maximum and minimum classification we have in the Solar System Example:
+Body Type
+Min. Radius (km)
+Max. Radius (km)
+Min. Mass (kg)
+Max. Mass (kg)
+Planet
+470
+71492
+1.471*10e22
+1.899*10e27
+Dwarf Planet
+400
+1188
+2.000*10e20
+1.471*10e22
+Sat.
+400
+2634
+2.000*10e20
+1.340*10e23
+Asteroid
+When I was researching the Asteroids I got into conflicting data. It appears they can range from 1 meter into the 400 km but if I start reading about TNOs this number goes way in into the Dwarf Planet sizes. So I think I'm struggling to define the range for Asteroids since it appears they make a distinction based on their location on the Solar System, or am I reading this wrong? Should for generation of solar system purposes consider the range of 1m to 400km if the body resides in the inner system, and classify everything else has dwarf planet if it lives in the outer system?
+Appreciate any help and resources for further reading.

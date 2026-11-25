@@ -1,0 +1,5 @@
+Why do $\text{CH}_4$ (Raptor) engines produce less soot than RP-1 (Merlin) engines?
+SpaceX's Merlin engine, which burns RP-1 and LOX, has soot visible after the first stage lands. Many articles on the web say SpaceX's Raptor engine, which burns methane and LOX, is clean. Refurbishment is easier as it doesn't produce soot.
+The general formula for hydrocarbon complete combustion is:
+$$\text{Hydrocarbon fuel} + \text{Oxidiser} → \text{CO}_2 + \text{H}_2\text{O}$$
+Why do CH4 (Raptor) engines produce less soot than RP-1 (Merlin) engines?

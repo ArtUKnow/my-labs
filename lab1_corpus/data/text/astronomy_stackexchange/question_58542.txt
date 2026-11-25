@@ -1,0 +1,4 @@
+What is the unit for 'magnitude' in terms of the Isophotal diameter of a galaxy?
+Every site and AI and Google say that one way of measuring a galaxy's diameter is in terms of its isophotal diameter, using the blue D25 standard, using units of, "25 mag per arcsec2".
+But magnitude in astrophysics is a relative standard, so to speak, so...
+How much brightness is '25 magnitudes'?

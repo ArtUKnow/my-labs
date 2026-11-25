@@ -1,0 +1,4 @@
+ISS nodal precession
+I was confused by JPL Horizons data showing time variations in the ISS longitude of ascending node, until I realized maybe the orbital plane itself rotates around earth...
+A quick web search then turned up this thing called nodal precession, in which the orbital plane rotates around the polar axis of the host planet.
+Can someone confirm if this is a thing with the ISS? Does its orbital plane suffer from nodal precession around the earth's polar axis? I'd always imagined its orientation would be fixed in inertial space, but now I'm inclined to say no?

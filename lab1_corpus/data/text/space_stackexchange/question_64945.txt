@@ -1,0 +1,4 @@
+Equivalent Vis-Viva equation but for acceleration
+I know that thanks to the Vis-Viva equation, knowing the elliptic parameter of a celestial orbiting object we can get its speed on any point of the orbit.
+But what about the acceleration? Is there an equivalent famous formula?
+Thanks for your help

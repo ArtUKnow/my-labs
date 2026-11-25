@@ -1,0 +1,6 @@
+Is this possible?
+Say, hypothetically (these planets do not exist), you have two terrestrial planets (b,c), one gas dwarf(d), and one gas giant(e) all orbit the habitable zone in some manner.
+b, c, and d all have an orbital resonance, which cause an eccentricity of 0.04. They are always in the habitable zone.
+e has a very high eccentricity of 0.93, causing it to go on the outer fringe of the habitable zone, then go out into the frigid outer solar system. While e passes very near d, it does not orbit its star on the same plane as d.
+Let's pretend that this star is an M-type star, around 0.45 solar masses.
+I want to know if this is theoretically possible.

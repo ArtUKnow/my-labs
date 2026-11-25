@@ -1,0 +1,2 @@
+What is the relationship between core temperature and surface temperature in main-sequence stars?
+The core temperature of the Sun is approximately 15 million Kelvin. I am interested in understanding the core temperatures of main-sequence stars with various spectral types and surface temperatures, such as Proxima Centauri and Sirius. Additionally, What is the relationship between the core temperature and the surface temperature in main-sequence stars with solar metallicity? (A table or a graph showing the corresponding surface and core temperatures)

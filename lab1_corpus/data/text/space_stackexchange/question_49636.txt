@@ -1,0 +1,3 @@
+Why is the Orion spacecraft so big?
+The Orion spacecraft which is to be used for the Artemis missions will be rated for 6 astronauts. Why so many? Given the "political" assignment is to put "a woman and another man to the Moon" why don't we just build a spacecraft for a single astronaut, fly it twice and later develop a new spacecraft when more people need to fly?
+The best reason that comes to my mind is that the spacecraft development cycle is too long (too expensive). Thus it may actually be cheaper today to build one big spacecraft then to develop 2 different ones. If there are plans to send more humans to the Moon in the future we will develop a single spacecraft and use it for all missions even if the capsule is half empty for the initial missions. Is this true?

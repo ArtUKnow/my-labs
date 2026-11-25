@@ -1,0 +1,2 @@
+Would an observer falling into a black hole ever be observable from the outside due to quantum effects?
+Classically, objects falling into black holes appear frozen at the event horizon from an outside perspective. But quantum mechanics — especially Hawking radiation and potential horizon fluctuations — complicates this. Is there any theoretical mechanism by which the infalling object’s information or even appearance might re-emerge or be “echoed” to external observers? What does this mean for the principle of unitarity?

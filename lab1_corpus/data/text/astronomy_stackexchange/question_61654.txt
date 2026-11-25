@@ -1,0 +1,2 @@
+Main sequence stars vs black holes mass-radius relationship crossover
+At what mass should we expect the main sequence star radius to equal its Schwarzschild radius? The Schwarzschild radius increases linearly with mass, so the mass to radius ratio of black holes is constant for all masses. For main sequence stars, the mass to radius ratio tends to be greater for higher mass stars than for lower mass stars.

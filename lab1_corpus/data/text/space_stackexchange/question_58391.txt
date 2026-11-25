@@ -1,0 +1,16 @@
+Comparison of F-1 and RD-170 rocket engines
+The F-1 was the most powerful single-nozzle engine ever flown and the RD-170 the most powerful multiple-nozzle engine ever flown. Both engines use kerosin and LOX. The NK-33 was a smaller engine using kerosin and LOX too.
+F-1 RD-170 NK-33
+sea level thrust 6.77 7.25 1.51 MN
+vacuum thrust 7.77 7.90 1.68 MN
+chamber pressure 7 24.5 14.83 MPa
+expansion ratio 16:1 36.87:1
+turbine power 41 192 MW
+specific impulse sea level 263 309 297 s
+specific impulse vacuum 304 337 331 s
+exhaust speed sea level 2.58 3.03 2.91 km/s
+exhaust speed vacuum 2.98 3.30 3.25 km/s
+thrust to weight ratio 94:1 82:1 137:1 (vacuum)
+mixture ratio 2.27 2.63 O2/RP-1
+The sea level performance of the RD-170 and the NK-33 looks much better than the F-1.
+Is the much higher chamber pressure responsible for the better sea level performance?

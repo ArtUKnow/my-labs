@@ -1,0 +1,8 @@
+DIY Radio Telescope (High School)
+Background: I am attempting to build an RTL-SDR-based radio telescope for detecting hydrogen lines (21 cm) as a project with my HS Physics class. Several accounts are online, including parts lists and assembly instructions, and I am reasonably confident that I can get it working in a stationary "Scan as the Earth turns" mode.
+How big a patch of sky will we be "seeing?" If I view the celestial equator continuously and average the reading over 10 minutes, I will have 144 pixels or "buckets" of 2.5 degrees width. The receiving antenna I am starting with is a commercially available WiFi antenna.
+(2.4GHz 24DBI Directional High-Gain N-Type Female Aluminum Die Cast Grid Parabolic Antenna (ANT-GRID-24DBI))
+with this listed
+"Beam width/horizontal: 14 Beam width/vertical: 10 F/B ratio-db: >30"
+Does the beam width mean I am looking at "buckets" of sky either 10 or 14 degrees across?
+Is this 10-degrees the half-power beam width or the first null beam width?

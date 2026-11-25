@@ -1,0 +1,4 @@
+How do I simulate a magnetometer and get an attitude?
+I consider that I have a single magnetometer (i don't know if I need more), how can I model that sensor? This was my idea:
+Consider a random unit length vector $\textbf{m}$ which is the magnetic field vector. Consider the attitude matrix $R$. Consider the inertial unit length body magnetic vector $\textbf{m}_b=R\textbf{m}$. How do I find $R$ from a single measurement? What I attempted to do was to project $\textbf{m}_b$ and $\textbf{m}$ unto to x,y,z unit vectors so I had three vectors in body frame and three vectors in the inertial frame and then use TRIAD to get the attitude matrix. This did not work.
+I believe I must use three unit length measurement vectors but I don't know how to do it because I know the TRIAD in the context of two different star vectors (use cross product to get the third vector) but there exists only one magnet field vector? What should I do?

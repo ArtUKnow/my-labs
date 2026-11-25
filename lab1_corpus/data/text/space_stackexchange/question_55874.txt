@@ -1,0 +1,18 @@
+Satellite-Ground link and Intersatellite link
+I have seen an answer here how we can compute link budget in satellite communication.
+Link Budget
+$$ P_{RX} = P_{TX} + G_{TX} - L_{FS} + G_{RX} $$
+$P_{RX}$: received power by spacecraft
+$P_{TX}$: transmitted power by wristwatch
+$G_{TX}$: Gain of wristwatch's transmitting antenna (compared to isotropic)
+$L_{FS}$: Free space Loss, what we usually call $1/r^2$
+$G_{RX}$: Gain of spacecraft's receiving antenna (compared to isotropic)
+$$G \sim 20 \times \log_{10}\left( \frac{\pi d}{\lambda} \right)$$
+$$L_{FS} = 20 \times \log_{10}\left( 4 \pi \frac{R}{\lambda} \right).$$
+Free space Loss component: If we compute it for Satellite-Ground link or for Intersatellite link, will the computation equation be the same?
+In these two cases, we have two difference environment, and they should have different path losses.
+$$ P_{RX} = P_{TX} * G_{TX} * L_{FS} * G_{RX} * L_{atmosph} $$
+in log scale
+$$ P_{RX} = P_{TX} + G_{TX} + L_{FS} + G_{RX} + L_{atmosph} $$
+Why $-L_{FS} $ is in the equation above?
+Why does $L_{atmosph} $ skip?

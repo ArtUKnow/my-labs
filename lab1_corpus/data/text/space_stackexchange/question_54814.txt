@@ -1,0 +1,2 @@
+Would SpaceX Starship be able to slow down enough to enter orbit or land on Pluto-like objects?
+The probes that use current technology to get to Pluto or other outer solar system objects cannot slow down enough for orbit insertion, so they can only flyby. But would Starship be able to slow down enough?

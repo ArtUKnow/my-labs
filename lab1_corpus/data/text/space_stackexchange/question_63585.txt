@@ -1,0 +1,6 @@
+Which notes and/or books on mathematics, physics, 3D geometry preparatory to the study of orbital dynamics?
+I have a master's degree in aerospace engineering and I'm preparing for job interviews for orbital mechanics/space flight dynamics engineer positions and I need material about maths, physics, 3D geometry, something not too general but that is preparatory for orbital mechanics.
+I'm looking for something different from my academic material (that, for the mentioned subjects, is in Italian language), so I've posed this question with the hope to know new sources that can give me a more practical approach.
+Can you suggest me pdf notes or books?
+Info about jobs I'm applying for: entry level positions for European consulting companies that work for space agencies or other space companies.
+EDIT: For physics I found Physics for Scientists and Engineers 6th Edition by Tipler, Paul A., Mosca, Gene

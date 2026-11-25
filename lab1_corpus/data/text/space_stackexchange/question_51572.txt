@@ -1,0 +1,4 @@
+Why are Starship landings so difficult when SpaceX has landed so many boosters?
+Per Wikipedia, SpaceX has landed boosters successfully 79 out of 90 times.
+Yet Starships seem to be reliably exploding upon landing.
+What is so different about the two that Starships are so much more difficult to land? Is it something to do with the multiple engines? Or just that it's a larger scale? It seems like the starships are trying to accomplish something which they've done successfully many times already.

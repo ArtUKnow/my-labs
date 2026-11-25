@@ -1,0 +1,8 @@
+Is a Crew Dragon capsule really so "thin-skinned" that radiation specific to 1400 km can penetrate it?
+Crew Dragon: How thick is the skin? currently has no answer (so I've bountied it). The beginning of Wikipedia's Polaris Dawn suggests that in the early, high apogee (~1,200 km) part of the mission:
+They passed through parts of the Van Allen radiation belt to study the health effects of space radiation and spaceflight on the human body.
+Well there are already plenty of studies on "health effects of... spaceflight on the human body" so the specific passing through the Van Allen radiation belt would be, if anything, "to study the health effects of space radiation".
+Van Allen belts form when there is a source of ionized atoms (primarily protons) and electrons and a magnetic field that can hold on to them for a while. Earth's field is a fraction of a gauss on the surface and in LEO, so this limits the energy of the protons and electrons that would be present in, and specific to, the lower Van Allen belt.
+Question: Is Crew Dragon really so "thin-skinned" that protons and electrons that are trapped in (and specific to) the lower Van Allen belt can really penetrate it and reach the astronauts' bodies in a biologically meaningful way?
+There are range tables for protons and electrons (in say aluminum) as a function of energy, and certainly the lower Van Allen belt's charged particle energy spectrum has been characterized; this shouldn't be hard to figure out one way or the other.
+Not that the "space walks" (actually "space dunks" - no feet got wet) were not performed at this Van Allen belt exploring altitude. Unless I misunderstand, the capsule was closed and pressurized.

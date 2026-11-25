@@ -1,0 +1,9 @@
+Any large scale rocket static fires, like SpaceX's 3 in one day?
+SpaceX on Jan 13, 2021 did three static fires in one day.
+Elon Musk tweeted:
+All three static fires completed & no RUDs!
+And that was in response to this tweet of his own:
+Today at SpaceX is about practicing Starship engine starts. Ship is held down by massive pins while engines are fired. Two starts completed, about to try a third.
+This is a 400,000 lb thrust engine, and they fired three of them, three times in the same day on a prototype launch vehicle.
+Has there ever been anything even close? In terms of three firings in one day?
+Smaller engines like XCOR have been fired multiple times in one day, but not even within 3 orders of magnitude of thrust level, nor 3 big boys at one time.

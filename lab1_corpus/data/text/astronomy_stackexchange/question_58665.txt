@@ -1,0 +1,20 @@
+How close does a white dwarf need to be to pull mass from a companion star?
+How close does a white dwarf need to be to pull mass from a companion star?
+I am thinking about Type Ia supernovas and under what conditions a white dwarf companion might be a sign of a future supernova of this type. I offer my initial thoughts below and would welcome feedback on this zeroish approximation of an answer. It would also be welcome if you could suggest how angular momentum, tidal forces, and other factors complicate the situation.
+I imagine a straight line connecting the centers of the two stars, the primary (M1) and the white dwarf (M2). If a patch of the stellar atmosphere of the expanding (M1) experiences a greater gravitational pull from the white dwarf companion (M2) this mass of gas will acreete to M2.
+Let d be the distance between M1 and M2 and r be the radius of star M1 (Assume $M1 >> M2$).
+Thus, we have the condition that for a given mass of stellar atmosphere, the gravitational influence of M2 is greater than that of M1.
+$$
+F1 < F2
+$$
+Expanding the expression with the universal law of gravitation, we obtain
+\begin{align}
+G M1 * m /r^2 &< G M2 * m /(d-r)^2\\
+M1/r^2 &< M2 /(d-r)^2\\
+(d-r)^2 &< r^2 * M2/M1\\
+d-r &< \pm r * \sqrt{M2/M1}\\
+d &< r \pm r * \sqrt{M2/M1}\\
+d &< r ( 1 \pm \sqrt{M2/M1})
+\end{align}
+The first solution, $d < r ( 1 + \sqrt(M2/M1))$, represents a situation in which the radius (r) of the primary has expanded to a point greater than the separation between M1 and M2, and M2 is now inside M1. This is not the situation I was looking for, but it is still an interesting idea.
+The solution, $d < r ( 1 - \sqrt(M2/M1))$, represents a situation in which the separation (d) of M1 and M2 is less than the radius of M1.

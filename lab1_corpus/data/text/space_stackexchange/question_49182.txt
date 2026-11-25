@@ -1,0 +1,8 @@
+Compressed Air Spaceship
+Imagine a people who live within the debris ring of a planet. They make their homes on rocks that are only dozens of miles in diameter, so escape velocity is not a concern. They also do not need to travel very far: when orbital alignment is favorable, two rocks might be as close as 20,000 miles.
+Unfortunately, the primary means of propulsion used by these people is compressed air. How big do these ships need to be to get from one rock to another?
+Ideally, the journey should not take longer than 2 days.
+I tried to work this out myself using the rocket equation but my smooth brain can't figure it out.
+Specs
+For the tanks of air, consider this commercial product. It seems to weigh about 700 lbs empty, has a capacity of 400 gallons and is rated for 165 psi. One way of answering "how big" this ship needs to be would be to indicate how many of these tanks would be needed to make a 20,000 mile journey in 2 day.
+The payload is a cabin for two humans that weighs 2000 lbs.

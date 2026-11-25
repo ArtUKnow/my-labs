@@ -1,0 +1,29 @@
+Why the max dynamic pressure might not happen at maximum drag instant?
+I understand that is that when a rocket accelerates the drag force grows dramatically since the force is related to velocity squared. But, at the same time, the density is decreasing, so the force is also weakening. Thus, at some altitude, the decreasing density wins out over the increasing velocity, and the drag force starts to decrease.
+What is not very clear to me is how this can make the maximum dynamic pressure happen before or after the maximum drag point if they seem to be ruled by the same variables (speed and air density).
+edit 1:
+To better contextualize this question I'll add the constants that I used in a 1D simulation that I ran using an IPython notebook:
+g = 9.81 # gravitational acceleration [m/s^2]
+rho_0 = 1.225 # air density at sea level [kg/m^3]
+H = 8800 # scale height [m]
+c_D = 0.54 # drag coefficient for the rocket [-]
+A = 0.0103 # rocket body frontal area [m^2]
+m_i = 19.1 # “wet” mass of the rocket [kg]
+m_f = 10.604 # “dry” mass of the rocket [kg]
+T_avg = 2500 # average rocket engine thrust [N]
+t_burn = 6.09 # burn time [s]
+# Saving some parameters to optimize run time
+m = (m_i + m_f)/2 # average mass of the rocket
+k = 0.5*c_D*A*rho_0 # constant factor in the drag function
+Furthermore, I assumed that the air density varied as a function of the altitude ℎ given by:
+𝜌(ℎ) = 𝜌0 𝑒𝑥𝑝 (−ℎ/𝐻)
+with 𝐻 ≈ 8 800 m and 𝜌0 = 1.225 kg/m^3
+And here are the two curves I got:
+Maximum dynamic pressure: 267.11Pa
+Maximum dynamic pressure instant: 5.39s
+Maximum drag instant: 5.59s
+edit 2: It turns out that I forgot to square the speed in the formula of Q and that led to the unexpected outcome.
+Here is the corrected result plotted in the style @uhoh did. I have set the thrust to suddenly cut to zero at t_burn so de result differs a little.
+Maximum dynamic pressure: 1.81Pa
+Maximum dynamic pressure instant: 5.59s
+Maximum drag instant: 5.59s

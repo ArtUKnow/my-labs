@@ -1,0 +1,9 @@
+How to know in which quadrant is the RAAN?
+Having found the right ascension of the node, for example,
+$$
+\begin{align*}
+\boldsymbol{\Omega} &= cos^{-1}\frac{N_X}{N} \\
+&= \underline{15.60^\circ}
+\end{align*}
+$$
+How do we know in which quadrant does this lies?

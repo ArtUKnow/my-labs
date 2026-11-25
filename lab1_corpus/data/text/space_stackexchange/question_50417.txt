@@ -1,0 +1,3 @@
+Download all Perseverance Raw Images
+I want to make an archive of all the Raw Images Percy will make during her mission. I would love to have separate folders for each Sol. The plan is to run a script which then grabs the images from the Sols I selected. Maybe somebody has something similar running for Curiosity since the Raw Image sites are the same...
+Thanks for your help guys!

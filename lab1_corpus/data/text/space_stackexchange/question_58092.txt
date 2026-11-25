@@ -1,0 +1,7 @@
+"Honi soit qui mal y pense"
+In the Apollo 11 LEM source code, in the Burn Baby Burn master ignition routine, one of the most emphasized comment is a French citation, HONI SOIT QUI MAL Y PENSE.
+According to wikipedia, this locution is
+is a maxim in the Anglo-Norman language, a dialect of Old Norman French spoken by the medieval ruling class in England, meaning "shamed be whoever thinks ill of it" […]
+Note that the same Wikipedia article acknowledge the presence of that locution in the Apollo source code, but only provides sources, not explanations.
+(also, the same locution with two n to Honni, also valid in French, is the French title of an American movie)
+Why was such a locution placed there? Is their any evidence of why that comment was written and placed there?

@@ -1,0 +1,23 @@
+Just how preferable are afternoons for flying Ingenuity? Why?
+JPL tweet links to mars.nasa.gov's Flying on Mars Is Getting Harder and Harder which explains that seasonal changes are lowering the density of the local atmosphere, presumably due to warmer seasonal temperature.
+When we designed and tested Ingenuity on Earth, we expected Ingenuity’s five-flight mission to be completed within the first few months after Perseverance’s landing in February 2021. We therefore prepared for flights at atmospheric densities between 0.0145 and 0.0185 kg/m3, which is equivalent to 1.2-1.5% of Earth’s atmospheric density at sea level. With Ingenuity in its sixth month of operation, however, we have entered a season where the densities in Jezero Crater are dropping to even lower levels. In the coming months we may see densities as low as 0.012 kg/m3 (1.0% of Earth’s density) during the afternoon hours that are preferable for flight.
+Later it warns:
+A speed increase like this comes with a number of potential issues. One of these has to do with aerodynamics: A rotor speed of 2,800 rpm, in combination with wind and helicopter motion, could cause the tips of the rotor blades to encounter the air at nearly 0.8 Mach – that is, 80% of the speed of sound on Mars. (The speed of sound on Mars is somewhat lower than we are used to – about ¾ the speed of sound on Earth.) If the blade tips get sufficiently close to the speed of sound, they will experience a very large increase in aerodynamic drag that would be prohibitive for flight. For Ingenuity’s rotor we do not expect to encounter this phenomenon until even higher Mach numbers, but this has never been confirmed in testing on Earth.
+Since pushing the rotor tip speed closer to mach-1 is a bit of a concern, and the daily temperature cycle drives the atmospheric density to lower values in the afternoon, early morning flights might be preferable for strictly atmospheric density arguments.
+Sitting on Mars' surface at night Ingenuity is exposed to the "cold of space" through a wide thermal infrared optical window in the atmosphere. When the Sun goes down, the top layer of soil rapidly cools as well, leaving the large surface/volume ratio helicopter surrounded by cold in which to radiate.
+It runs electrical heaters for its electronics box off of its batteries overnight, so they will not be fully charged in the morning. So presumably at least some of the reason that afternoons are preferred is that it provides time for it to top-off its batteries before flight.
+How cold is the Martian sky at night? Or the day for that matter?
+What is the science behind the variation of Mars' effective sky temperature with latitude and longitude? Why the "hot spot"?
+Why is it so cold in the nighttime (-130 C at 25.1 degree North) at the location where the Chinese rover landed on Mars?
+From the contour map "Latitude-longitude cross section of downwelling longwave irradiance at the surface, expressed as sky temperature..."shown in the "What is the science behind..." question we can see that the sky is only about 150 to 160 Kelvin effective temperature at night!
+But that may not be the only, or even the primary reason, since the angle of the Sun also dramatically impacts Ingenuity's optical ground-based navigation and odometry/tachometry as well as the scientific value of the imagery it generates.
+Have lunar (or martian) rovers exploited shadows, perhaps for terrain comprehension or obstacle avoidance?
+How can a Mars helicopter be autonomous if there isn't a Martian GPS?
+What causes a visual odometry failure?
+this answer to On what kind of martian soil or rock will the Perseverance rover drop its helicopter?
+Alternative to GPS navigation for vertical landing, especially on other planets
+Where is the uncropped version of this cool Ingenuity navigation camera GIF?
+So I'd like to ask:
+Question: Just how preferable are afternoons for flying Ingenuity? What are the reasons?
+source
+example from a linked question:

@@ -1,0 +1,9 @@
+Has there ever been an instance of asteroid discovery by radar; seen first by radar rather than being observed after optical discovery?
+In a discussion below this answer to Can we use something like RADAR to detect asteroids? I'm complaining that the answer is essentially wrong;
+Yes, radar is one of the useful tools for detecting and observing asteroids.
+The answer goes on to talk about how radar is used to make measurements, and even that "Yes" link says:
+Discovered by astronomers using optical telescopes...
+I'd like to ask if radar has ever been used to detect previously unknown asteroids.
+Question: Has there ever been an instance of asteroid discovery by radar; seen first by radar rather than being observed after optical discovery?
+I find the other answer much more sound:
+...Can RADAR be used to systematically detect NEOs that escape telescopes' detection? The answer is: YES, in principle, but it would be very very costly. RADARs have to rely on very directive transmitters. It can illuminate only a small portion of the sky at each time.

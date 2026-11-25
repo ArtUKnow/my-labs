@@ -1,0 +1,6 @@
+Direction of precession in epicyclic approximation
+In an axisymmetric potential, if we denote the vertical (z direction) epicyclic frequency as $\nu_z$ and the guiding centre angular velocity as $\Omega$, then the rate of nodal precession is
+$$
+\Omega_p = \Omega - \nu_z.
+$$
+My question is, how does the sign of $\Omega_p$ correspond to the direction of precession? Intuitively I think that $\Omega_p > 0$ implies the nodes precess prograde (in the same sense as the circular guiding orbit) since the guiding orbit must sweep out an angle $> 2\pi$ in order for the slower $\nu_z$ oscillation to 'catch up' and reach a full oscillation. However I have seen conflicting information on this, so I would appreciate some clarification and better explanation if possible.

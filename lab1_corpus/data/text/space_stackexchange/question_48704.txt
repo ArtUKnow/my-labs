@@ -1,0 +1,14 @@
+GMAT targeting - why targeting RMAG and DEC works while RadApo and INC doesn't?
+The GMAT examples demonstrate targeting using this method for targeting a specific Apoapsis increase maneuver:
+Vary the prograde speed
+Apply Maneuver
+Propagate to the Apoapsis
+Achieve "the distance when at apoapsis = X"
+This first runs the simulation until the Apoapsis point and then looks for the distance at this point.
+The second way this could be done in theory is:
+Vary the prograde speed
+Apply Maneuver
+Achieve "Apoapsis = X"
+This, instead, applies the maneuver and looks at the calculated apoapsis of the orbit, without doing any propagation.
+In theory those should be the same and both methods should work in the target command. However, the second version (and INC instead of DEC for an inclination change) often doesn't converge, even if it comes really close to the answer.
+Why is this?

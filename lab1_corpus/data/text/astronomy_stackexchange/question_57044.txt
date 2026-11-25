@@ -1,0 +1,39 @@
+Position of Hamal (alpha Arietis) between 1582 and 1588
+Between 1582 and 1588, Tycho Brahe observed $\alpha$ Arietis from Uraniborg (55°54′28″N 12°41′48″E) on at least 27 separate occasions and made a record of the right ascension of the star (see Opera Omnia, pages 170-198). On February 27, 1582, for example, he recorded the position as 26 degrees, 4 minutes, 16 seconds, as shown in the image below.
+I'd like to determine the correct RA value for $\alpha$ Arietis on each of the dates that Tycho recorded an observation, cognizant of the fact that the star's proper motion is not insignificant. I'm also aware that Tycho made several, essentially paired, observations with the intention of balancing parallax errors.
+I'm not a professional astronomer but I have looked at both Stellarium and astropy as possible tools for doing the calculation. It looks as if astropy is likely to be the more suitable. I'm reasonably competent with Python but unfamilar with astropy so I have some questions:
+Am I correct in my assessment that astropy is likely provide a better approach than Stellarium
+Am I correct in thinking that this is a calculation that should be reasonably easy in astropy
+How do I ensure that astropy uses a Julian calendar as I'm reasonably sure that the dates recorded by Tycho Brahe are Julian calendar dates. As far as I know, the Gregorian calendar was adopted in some parts of the world in 1582 but not in many protestant countries until much later.
+Will astropy show a result "properly" biased by the parallax error that reflects what Tycho would be expected to have recorded (I hope I'm asking a sensible question here and not just showing my ignorance!)
+What is the best way to set up the calculation given that this is the only astronomical calculation I need to do.
+Added in response to the comment by @JohnDoty
+Can (or does?) either astropy or Stellarium take account of the precession of the equinoxes. My understanding is that Tycho determined RA relative to the position of the vernal equinox as calculated from his own measurements.
+Added data from the same publication. Dates and RA values
+|1582|02|26|26|00|44
+|1582|02|27|26|04|16
+|1582|03|05|25|56|33
+|1582|03|05|25|59|15
+|1582|03|09|25|59|49
+|1582|03|20|26|00|32
+|1582|04|03|26|00|30
+|1585|09|14|26|04|43
+|1585|09|15|26|01|21
+|1585|09|15|26|01|16
+|1585|09|21|25|56|23
+|1586|12|26|25|54|51
+|1586|12|27|25|52|22
+|1587|01|09|26|02|05
+|1587|01|24|26|06|44
+|1587|08|17|26|05|40
+|1587|08|17|26|01|01
+|1587|08|18|25|54|35
+|1587|08|18|25|54|49
+|1588|03|28|26|06|20
+|1588|04|16|25|54|48
+|1588|04|16|25|59|06
+|1588|04|16|26|06|30
+|1588|10|26|25|54|13
+|1588|11|29|26|08|52
+|1588|12|06|25|58|49
+|1588|12|15|26|06|32

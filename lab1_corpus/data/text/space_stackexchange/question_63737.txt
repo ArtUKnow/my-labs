@@ -1,0 +1,4 @@
+"Received power" on NASA's DSN web page
+Out of curiosity, the "received power" shown for a spacecraft on NASA's "DSN now" web page 1 - is that at the receiver, or at the antenna?
+I'm looking at one of the antennas now receiving data from Voyager 1 and it states the signal strength is -160 dBm. If that's at the antenna it's a crazy low signal level... if it's at the receiver, after the antenna's gain, it's even more crazy!
+Screenshot at 2023-05-25, 19.03.42 UTC showing Voyager 1 being received by 70 meter DSS 63 Madrid at -160 dBm:

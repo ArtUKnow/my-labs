@@ -1,0 +1,8 @@
+Comparing Japan's SLIM and India's Chandrayaan-3 trajectories
+I was reading this SpaceNews article on the launch, which states:
+SLIM won’t be taking a direct route to the moon. After a lunar transfer orbit burn, it will make a lunar flyby, heading into a wide loop away from the Earth-moon system and returning to enter lunar orbit in around four months’ time. This route allows for a smaller burn to enter lunar orbit, saving propellant and mass.
+SLIM will then orbit the moon for around a month before making its 20-minute descent and landing attempt, with the aim of demonstrating a lightweight landing capability with high accuracy.
+I recall that the Chandrayaan-3 mission did a series of ~6 burns each to raise and lower the orbit on each end, plus a transfer burn, or something along those lines, for better efficiency, which generally makes sense to me.
+I managed to find an animation of SLIM's trajectory on Wikipedia
+What I don't understand is why the trajectories are so different, if they both seem to be trying to optimize efficiency. The article states that the long loop allows for a smaller burn to enter lunar orbit, but doesn't mention anything about the propellant requirements pre-lunar transfer. Is there negligible impact propellant-wise to get it into that long loop? If so, are there disadvantages to that approach, as compared to Chandrayaan-3?
+As a bonus, do we have any information on the delta-V required for each of the two approaches?

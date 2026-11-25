@@ -1,0 +1,8 @@
+What will happen to JWST after its 10 year mission?
+JWST launched recently.
+https://en.wikipedia.org/wiki/James_Webb_Space_Telescope#Orbit
+JWST needs to use propellant to maintain its halo orbit around L2, which provides an upper limit to its designed lifetime, and it is being designed to carry enough for ten years.
+Since L2 is just an equilibrium point with no gravitational pull, a halo orbit is not an orbit in the usual sense: the spacecraft is actually in orbit around the Sun, and the halo orbit can be thought of as controlled drifting to remain in the vicinity of the L2 point. This requires some station-keeping: around 2–4 m/s per year from the total ∆v budget of 150 m/s.
+$\frac{150ms^{-1}}{3ms^{-1}y^{-1}}=50y$ so I'm not sure where they're getting 10 years from, but I digress.
+My main question is: what happens to JWST after that? It will drift from L2.. but where will it end up? I assume we can choose which direction to let it ultimately drift away to. Can we not put it into some sort of useful orbit around the Earth and/or Moon? Will it still be operational? I would expect it to be fine more or less anywhere. Will it still be mechanically operational and in communication for a long time?
+Basically, what happens after its 10 year mission ends?

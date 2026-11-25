@@ -1,0 +1,4 @@
+How do spacecraft protect their engines from micrometeroids?
+A meteoroid impact on an engine bell can easily rupture a coolant pipe. Or it can create an imperfection in the backing plate from where cracks can form. Or it can destroy an injector. All of these can be fatal.
+Yet by design, the interior of an engine bell cannot have a micrometeoroid shield. So how do spacecraft such as the Shuttle, Soyuz, and other manned and unmanned spacecraft protect the interior faces of the engines, main or otherwise?
+It does seem to be that the Shuttle pointed the main engines at Earth, and the Soyuz has a lid. Are these protective measures?

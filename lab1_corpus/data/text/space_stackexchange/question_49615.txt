@@ -1,0 +1,8 @@
+Rocket fuel cost to launch 1 kg to orbit
+I have 2 questions about the cost of liquid rocket fuel to launch (anything) to LEO orbit. Let's assume we use fuels used in commercial spaceflight today (probably LOX+LH2 or LOX+RP-1 etc.).
+What is the theoretical fuel cost to launch 1 kg of payload to orbit on an ideal rocket (rocket with 0 kg dry mass)?
+What is the fuel cost of todays (most economical) launch systems (probably SpaceX Falcon 9, Russian Proton etc.) per kilogram?
+I am not asking about the total cost to orbit (rocket + fuel) but rather the fuel cost only. There are some relevant questions, which are not duplicates of mine though (they neither ask nor answer what I want):
+How much Energy is required to put 1 kg in LEO? (particularly this answer)
+What is the current cost-per-pound to send something into LEO?
+What is the current cost per kg to send something into GSO/GEO?

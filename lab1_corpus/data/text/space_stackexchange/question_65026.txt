@@ -1,0 +1,57 @@
+Why is the value of the Isp of the Rocketdyne J-2 Saturn V engine in my calculation so off?
+While calculating the delta V the Saturn V has on its second stage, I wanted to also calculate the Isp of the J2 rockets engines. However, the value difference between my results and the values given on Wikipedia were larger than I expected. I wanted to know why there is such a large difference between my calculations and the numbers given on Wikipedia. Is it just that in real life other factors come into play which change the actual Isp or have I made a mistake with my calculation?
+Here are the values given on this wikiepdia page:
+Variables
+values
+Thrust in a vacuum
+1,033.1 kN (232,250 lbf)
+Thrust at sea-level
+486.2 kN (109,302 lbf)
+Specific impulse in a vacuum
+421 seconds (4.13 km/s)
+Specific impulse at sea-level
+200 seconds (2.0 km/s)
+Unfortunately Wikipedia didn't share the mass flow rate of the engine so I got the values from this site
+Mass flow rate
+values
+Oxidizer
+449 lb/s (203.663 kg/s)
+Fuel
+81.7 lb/s (37.0585 kg/s)
+Total
+240.7215 kg/s
+I used this formula to calculate the Isp:
+$$ I_{sp} = \frac{ Force\ [in\ N]}{gravitational\ acceleration\ [in\ m/s²] * mass\ flow\ rate\ [in\ kg/s]} $$
+Using the data from the charts I get 2 answers. One for the Isp of the J2 engine at Sealevel and the other for the Isp of the engine in a vacuum.
+Isp at Sealevel:
+$$ I_{sp} = \frac{ 486200\ N}{9.81\ m/s² * 240.7215\ kg/s} = 205.88\ s$$
+Isp in a vacuum:
+$$ I_{sp} = \frac{ 1033100\ N}{9.81\ m/s² * 240.7215\ kg/s} = 437,48\ s $$
+The value at Sea level is quite close to the actual value (200s vs 205s), but the Isp value that I got for the engine in a vacuum is quite different than what it says on wikipedia (421s vs 437). I wanted to use the Isp value to calculate the delta V the second stage of the Saturn V rocket had, but with a gap of this size, my calculations of the delta V were quite off.
+While calculating the delta V second stage I used these values as the mass
+Stages of the Saturn V
+Mass
+Total weight
+2 822 000 kg
+First stage gross mass
+2 280 000 kg
+Second stage gross mass
+480 000 kg
+Second stage propellant mass
+443 000 kg
+sources:
+Total mass
+First stage mass (aka S-IC)
+Second stage mass (aka S-II)
+$$m_{before} = m_{total} - m_{first\ stage} = 2 822 000 kg - 2 280 000 = 542 000\ kg$$
+$$m_{after} = m_{before} - m_{second\ stage\ propellant\ mass} = 542 000 kg - 443 000\ kg = 99 000\ kg$$
+edit
+M after is the total mass of the Saturn V with everything on top included minus the first stage and the propellant mass of the second stage.
+I used the Tsiolkovsky rocket equation to calculate the delta V of the second stage.
+$$ \Delta v = Isp * g * ln( \frac{m_{before}}{m_{after}}) $$
+The delta V using the Isp value I calculated:
+$$ \Delta v = 437,48\ s * 9.81\ m/s * ln( \frac{542 000\ kg}{99 000\ kg}) = 7296.48\ m/s$$
+The delta V value when using the value on wikipedia:
+$$ \Delta v = 421 * 9.81\ m/s * ln( \frac{542 000\ kg}{99 000\ kg}) = 7021.62\ m/s$$
+Just from the difference between the Isp value given by wikipedia and the one from my calucalation, I get a difference of about 200 m/s of delta V which is a quite large margin of error.
+My question: Why is there such a large gap between the Isp value of my calculation and the one given on Wikipedia. Is it just that in real life other factors come into play or is it because I made an error in my calculations?

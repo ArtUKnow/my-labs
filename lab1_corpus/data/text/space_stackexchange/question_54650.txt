@@ -1,0 +1,4 @@
+Would it have made a difference to the TPS design if the Shuttle used skip reentries?
+The Space Shuttle needed silica tiles and carbon-carbon panels to survive the sustained high temperatures of reentry. These materials were fragile and high-maintenance, and this led to the Columbia disaster.
+A skip reentry involves bouncing off the atmosphere repeatedly. This reduces temperatures, and allows heat to be radiated away between bounces. The shuttle was fully capable of skipping, however, it did not utilise this capabilty, and did the "dance" to prevent it, as such trajectories are hard to control precisely.
+What if the shuttle was intended from the start to regularly use skipping to reduced heating? How much lower would the temperatures and heating durations be? What material choices would this open up, and how much stronger, cheaper and tougher would these materials be?

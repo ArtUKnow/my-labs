@@ -1,0 +1,2 @@
+Falcon 9 Transporter Mission - Second Stage Attitude For Payload Deployment
+I have a very simple question: I am wondering what the second stage orientation is during payload separation for a sun-synchronous orbit for a Falcon 9 transporter mission. My logic tells me that it should be as pictured in the diagram below, but nowhere on the internet am I able to find a way to confirm my assumption (the orange dotted line is the orbital plane). Any thoughts? I also assume that the second stage has a Ran CS thruster to adjust the attitude?

@@ -1,0 +1,4 @@
+Are all Starship/Super Heavy "cylinders" 4mm thick?
+Source
+The bodies of both rocket stages are made from stainless steel[18] and are manufactured by stacking and welding stainless steel cylinders.[19] These cylinders have a diameter of 9 m (30 ft) a height of 1.8 m (5 ft 11 in), a thickness of 4 mm (0.16 in) and a mass of 1,600 kg (3,500 lb) each.[19
+Does this apply throughout the stack? Seems odd, because it would mean a dramatic mass penalty.

@@ -1,0 +1,6 @@
+Solar sail for a 3U cubesat: do we have to buy one or can we design one?
+We are working on a conceptual design for a 3U CubeSat with solar sail propulsion; we aren’t actually building one or buying one.
+However we still need to make decisions like whether to build our own solar sail from scratch or to buy one.
+So there's two parts to my question:
+Is it even possible to make our own solar sail?
+If so, how do we determine how big we need it to be and what materials might be suitable?

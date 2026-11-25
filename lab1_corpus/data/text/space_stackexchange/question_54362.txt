@@ -1,0 +1,6 @@
+What's the farthest an ISS astronaut gets from the station's center of mass during routine activities? At 0.5°/s what centrifugal effects are there?
+This answer to Are there really “Dead End” signs on the outside of the International Space Station? won't be helpful here since for the purposes of this question spacewalks aren't part of routine activities.
+This answer to Do astronauts aboard ISS notice a change in ISS orientation? indicates that for the recent turn of events (pun intended) the rate of rotation of the ISS wasn't more than about 0.5 degrees per second or about $8.7 \times 10^{-3}$ rad/sec.
+The largest centrifugal microgravity an astronaut aboard the ISS might have experienced will be something like the product of the largest angular rotation rate and the largest distance from the station's center of mass that they might have found themselves at the time.
+Question: What's the farthest an ISS astronaut gets from the station's center of mass during routine activities?
+This answer to Where is the center of mass of the ISS relative to it's internal coordinates? might be a good starting pont.

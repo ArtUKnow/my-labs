@@ -1,0 +1,5 @@
+Estimating time to engine cutoff?
+I'd like to calculate the approximate time left to my stage-1 velocity target.
+A simple way to do this would be to divide my Delta V by my acceleration. Trouble is... my acceleration changes drastically from 1g at launch to 3g before engine cutoff... so this calculation would give an unrealistically large number early in the launch.
+Is there a better way?
+I know I could divide my fuel mass by my mass flow rate, but since my cutoff time is set by the delta V between my current velocity and my target velocity, this (m/mdot) ratio would only tell me how much time I have left before I run out of fuel---which would hopefully be many seconds after my engine cutoff...

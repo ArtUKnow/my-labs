@@ -1,0 +1,5 @@
+Errors in SDSS photometry
+In plotting out the magnitude errors in SDSS photometry, I get the following pattern:
+Why do the errors go up to about 0.5, then down? In other words, why does it look like a high-heeled shoe (or Italy)?
+Secondary question: I'm trying to find the magnitude limit according to the $5\sigma$ method listed at this link. Would the magnitude limit be the highest magnitude in the 'sole' of the pattern, or at the back of the 'heel'?
+The data comes from VizieR.

@@ -1,0 +1,3 @@
+What's the point of Dream Chaser?
+Dream Chaser, a reusable spaceplane launching atop an expendable booster at first, to me at least, seems stupid. There's all the additional development costs, payload penalties, and maintenance hurdles, but in return what do you get? The same functions as Dragon. Overall this looks like a way to drive up launch costs. And the Shooting Star expendable module doesn't seem to improve things.
+It does not however seem stupid to NASA. What am I missing?

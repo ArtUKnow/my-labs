@@ -1,0 +1,4 @@
+Crawler-transporter's ground pressure?
+How many PSI does the CT-2 crawler carrying the Artemis I rocket exert on the ground?
+How does that compare to more conventional vehicles?
+NASA's fact sheet mentions relevant weights, and that each corner of the crawler has a two-belt truck, but it omits the footprint of the 8 belts.

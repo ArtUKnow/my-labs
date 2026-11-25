@@ -1,0 +1,16 @@
+Does NASA enforce urine production by ISS astronauts?
+Adequate urine output is essential for preventing kidney stones. If it is true that "you can't manage what you can't measure", does NASA monitor ongoing astronaut urine output volume so fluid intake can be increased if output is too low?
+Acute abdominal pain is a medical emergency which requires diagnostic facilities not available on board spacecraft. It could require emergency return from LEO or mission abort in cislunar missions. One of the causes of acute abdominal pain is renal stones.
+https://pubmed.ncbi.nlm.nih.gov/26456109
+Bone loss and renal stone risk are longstanding concerns for
+astronauts. Bone resorption brought on by spaceflight elevates urinary
+calcium and the risk of renal stone formation... Regardless of
+exercise, the risk of renal stone formation increases during
+spaceflight. A key factor in this increase was urine volume, which was
+lower during flight in all groups at all time points. Thus, the
+easiest way to mitigate renal stone risk is to increase fluid
+consumption.
+Prolonged microgravity causes significant calcium loss in bones (10 times the rate seen in Earth-bound osteoporosis), thereby increasing the risk of kidney stones. https://www.nasa.gov/mission_pages/station/research/benefits/bone_loss.html
+Between 1% and 15% of people globally are affected by kidney stones at some point. In 2015, they caused about 16,000 deaths worldwide… By far, the most common type of kidney stones worldwide contain calcium. https://en.wikipedia.org/wiki/Calcium_oxalate#Kidney_stones
+Acute abdominal pain in an ISS crewmember would necessitate return to Earth, along with the other crew in that Soyuz/Crew Dragon crew group. The same event on a Lunar mission would cause a mission abort. On a Mars mission...?
+Since the risk of kidney stones can be reduced by maintaining adequate urine volume, "which was lower during flight in all groups at all time points", does NASA routinely “police” astronaut urine production (monitor urine production and enforce fluid consumption)?

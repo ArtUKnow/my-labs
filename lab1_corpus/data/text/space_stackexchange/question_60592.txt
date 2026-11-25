@@ -1,0 +1,10 @@
+Electronic Circuits for Safe Initiation of Pyrotechnics?
+Pyrotechnic charges are initiated using e.g. the NASA Standard Detonator
+or the NASA Standard Initiator. I don't know the exact specs, but I assume that these will be driven with a few amps in the kV range (detonator), or 28V (initiator).
+The computer commanding the operation will use CMOS technology with gate oxide thicknesses in the nanometre range, , these are very fragile and could fail in any manner, open, shorted, stuck low/high, random oscillations etc. Also failures can affect a single or multiple pins of an IO group.
+A similar argument holds for the amplification circuit that will transform the logic output level to the power required for the initiator, great care has to be taken that no fault can accidentally trigger the initiator.
+For example, this circuit to control a lightbulb would be a very bad choice to launch a rocket, a single failure of the microcontroller or the MOSFET would lead to an uncommanded ignition .
+A related question explains that the SRB used a mechanical lock to move the initiator out of the way, but that only moves the problem, as a simple fault could still rotate the barrier.
+Also, mechanical arm devices are probably too heavy and bulky to be used everywhere
+My question is: What kind of electronic circuits are used to translate the output of a logic board into an initiation signal?
+What techniques are used to make them fail-safe, such that a single logic failure, stuck gate etc. doesn't cause a disaster?

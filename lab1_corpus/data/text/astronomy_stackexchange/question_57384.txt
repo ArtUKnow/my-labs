@@ -1,0 +1,3 @@
+Resource suggestions?
+If I want to research binary stars (to find out about their properties from their light curves) and I need to know how to interpret light curves for the same, what would be a good resource to refer to? I am looking for a short-read.
+Assume I have a first-year college-level understanding of mathematics and a basic idea of the related field of spectroscopy.

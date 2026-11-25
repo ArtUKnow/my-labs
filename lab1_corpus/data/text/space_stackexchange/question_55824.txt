@@ -1,0 +1,9 @@
+What is the "recovery" helicopter for the Electron booster carrying?
+This Rocket Lab tweet says
+While we won’t be attempting a mid-air capture today, for the first time a helicopter will be stationed in the recovery zone offshore to track and observe the descending stage. Today is about testing comms and tracking to refine operations for future Electron aerial captures.
+and caries the image below. I've included a crop of the package carried by the helicopter and using image processing skills learned watching reruns of Star Trek and other 60's and 70's TV shows ("Enhance!") I've tried to make it easier to see.
+Is this a sonar transducer used to track and map the location rocket body as it sinks to the likely shallow sea floor and to keep an eye on "prospectors" looking to salvage it? (looks like one)
+Or a communications package used to track and communicate with the booster on its way from space to the ocean's surface?
+Or something else entirely?
+Question: What is the "recovery" helicopter for the Electron booster carrying?
+Source

@@ -1,0 +1,24 @@
+Apollo landing abort times T1, T2, T3,
+In the transcript (1 and 2) of Apollo 11 lunar landing we can see ground control and crew talking about "T1" moment and "T2" moment:
+102:47:09 Duke: ...T1. Over. Eagle, you are Stay for T1.
+102:47:12 Armstrong: Roger. Understand, Stay for T1.
+102:47:15 Duke: Roger. And we see you venting the Ox(idizer).
+...
+102:51:45 Duke: Eagle, Houston. You are Stay for T2. Over.
+102:51:50 Duke: Correction, you're...
+102:51:52 Armstrong: Roger. Stay for T2. We thank you.
+102:51:54 Duke: Roger, sir.
+I find very difficult to find official documentation explaining this 2 moments, so I tried collecting & comparing all the descent checklists in this page, based on images found here:
+"T1" is explicitly declared at page 10 of Timeline Book:
+It means that T1 = PDI+15min, and PDI is defined at page 8 as being 102:35:13:
+Hence T1 = 102:50:13
+Then things become tricky, because apparently T1 is also defined as TD+3 (top of page 10):
+But page top also says that page itself covers period from TD+3 to T2... but apparently T2 is not explicitly declared: we only have a "no-stay" checklist at PDI + 19:30:
+PDI+19:30 means 102:35:13 + 00:19:30, hence 102:54:43 .
+Is there any confirmation that this is T2 time? I read about that T2 is instead the first time CSM comes back over the LM after one orbit.... but then I found also this on page 11:
+Is this "first CSM revolution"? It occurs at 104:42:05, i.e. around 2 hours after touchdown (102:47:11 planned, 102:45:40 actual), and some sources declare that T2 was planned 2 hours after touchdown... But probably this is instead T3?
+Then what is this on page 11?
+PDI+13 = 102:35:13 + 00:13:00 = 102:48:13
+PDI+23 = 102:35:13 + 00:23:00 = 102:58:13
+Aldrin in 1969 debriefing said "the Tig for this T-2 abort, which is PDI plus 23", explaining why ground control asked him to input 10254 "rather than something else" (which he typed wrong, he typed erroneously PDI+12).
+I ended up with this preliminary table (from timeline, flight plan and CMP solo checklist), but I am really confused...

@@ -1,0 +1,2 @@
+Vernal equinox for 2550 BC - why is it on Apr 12 and not May 12th?
+calculating exact date of vernal equinox in 2550BCE. A straight calc of 1 deg precession gives approx 45 days vernal equinox May 12 2550BCE ( from Mar 20 in 2024). other calc say Apr 12 2550BCE. Which is right?

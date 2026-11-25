@@ -1,0 +1,2 @@
+Are there any rockets that leave extra fuel as a backup?
+Are there any rockets that leave extra fuel as a backup? For this purpose I mean fuel that is not intended to be used at any point during the mission. I’d imagine this could be useful in case of a non critical failure that increases the amount of propellant needed to reach orbit. Do any rockets do this?

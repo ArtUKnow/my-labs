@@ -1,0 +1,5 @@
+Does Ingenuity rotate via differential rotor speeds or differential angles of attack?
+I've seen a few photos taken by Ingenuity of its own shadow, and the angle between the two sets of rotors is different in each.
+That suggests to me that spinning the counter-propagating rotors at very slightly different speeds could make the aircraft turn via some conservation of angular momentum argument; the two torques wouldn't exactly cancel.
+But the two torques could also differ by setting the angles of attack of the two rotors slightly differently as well.
+Question: Does Ingenuity rotate via differential rotor speeds or differential angles of attack?

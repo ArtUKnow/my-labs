@@ -1,0 +1,5 @@
+What was so hard about the washer nuts on the JWST?
+In a YouTube "Short", Dr. Becky explains that a problem with ten washer nuts wound up adding 800 days and $800 million to the JWST. The problem is that they came loose in the shake test, and I assume there were cascading problems that she didn't detail.
+But I can think of several ways to keep nuts tight. Lok-tite, a spot-weld at the nut-bolt interface, cotter pins,
+wire them on like the bolts on an airplane propeller,
+I assume the engineers know all that stuff, too. So... what was the $800 million problem, and how was it solved?

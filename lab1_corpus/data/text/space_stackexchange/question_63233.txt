@@ -1,0 +1,6 @@
+GEO station keeping in GMAT
+I am currently trying to implement station keeping maneuvers for a geosynchronous satellite in orbit around Earth using the General Mission Analysis Tool (GMAT) but I am not managing.
+I know there are 2 main maneuvers: East-West to correct longitude drift, and North-South to correct inclination but I am not managing to implement these in GMAT.
+I have reviewed GMAT's documentation and seen followed the code example for LEO station keeping, which is provided in the samples folder when downloading GMAT, but this deals with altitude station keeping as it is a LEO orbit.
+I have also followed an STK tutorial: for maintaining GEO orbit, but am having trouble translating the logic into GMAT's mission section.
+Any help or insight provided would be greatly appreciated.

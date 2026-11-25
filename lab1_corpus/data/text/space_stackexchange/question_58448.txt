@@ -1,0 +1,10 @@
+Why do "Relativistic Light Sails Need to Billow"?
+The University of Pennsylvania School of Engineering and Applied Science blogpost How to Design a Sail that Won’t Tear or Melt on an Interstellar Voyage
+links to two new Nano Letters papers:
+Matthew F. Campbell et al. (2022) Relativistic Light Sails Need to Billow (available in arXiv)
+John Brewer et al. (2022) Multiscale Photonic Emissivity Engineering for Relativistic Lightsail Thermal Regulation (available in arXiv)
+These describe some really detailed and thorough research and make for some excellent reading!
+The abstract of the billowing paper begins:
+We argue that light sails that are rapidly accelerated to relativistic velocities by lasers must be significantly curved in order to reduce their mechanical stresses and avoid tears.
+Generally people have assumed that solar sails will be nominally flat to maximize photon recoil.
+Question: Why do "Relativistic Light Sails Need to Billow"? Why does this unexpected and significant curvature they propose reduce mechanical stresses and avoid tears in these molecularly-thin sails undergoing intense laser illumination and acceleration?

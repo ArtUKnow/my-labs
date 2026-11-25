@@ -1,0 +1,5 @@
+Why was the Moon's antipode at 10 degrees south on July 1969?
+From what I understand, the TLI burn should be around the Moon's antipode projection on Earth. I get that. What I don't understand is why, according to this picture
+https://history.nasa.gov/afj/launchwindow/figs/Fig%209.png
+the antipode was at 10 degrees south for the 16th of July 1969? How was this calculated?
+Thanks.

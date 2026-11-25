@@ -1,0 +1,3 @@
+At what altitude is the ISP of a rocket in our atmospehre usually defined? Why is the vaccuum ISP not used for performance evaluations instead?
+If we are defining ISP (Ceff/g) at sea level, wouldn´t it be easier to just use the ISP in vaccuum and avoid the varying but common atmospheric pressure parameter (Po) in the thrust equation and hence in the equation for the effective exhaust velocity?
+Ceff = (mdotWe + (Pe-Po)Ae )/F

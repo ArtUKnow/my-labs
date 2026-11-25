@@ -1,0 +1,3 @@
+How much of the small (1 mm - 10 cm) LEO debris are electrically charged?
+Upon investigation of Soliton based LEO debris detection, most research require that the debris is electrically charged. So I would like to know what is causing the debris to be charged and how much of it, is charged, if not all.
+Q: How much of the orbiting small scale (1 mm - 10 cm) LEO (low earth orbit) space debris is electrically charged?

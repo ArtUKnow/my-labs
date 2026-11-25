@@ -1,0 +1,21 @@
+Is this depiction of a Z-Bar docking approach accurate?
+I am writing a document about orbital mechanics am trying to depict the different docking approaches in a simple way. Since I am using paint.net to draw the pictures, my drawings are not that great.
+The 3 main docking approaches I am trying to depict are:
+R-Bar
+V-Bar
+Z-Bar
+The Wikipedia definition of a R-Bar docking sequence is this:
+The R-bar approach consists of the chaser moving below or above the target spacecraft, along its radial vector. The motion is orthogonal to the orbital velocity of the passive spacecraft.
+From what I understand, it means that after the chaser and the targeted spacecraft have rendezvous, the chaser has to fly higher or lower to catch up with the satellite. If the chaser is in front of the satellite, the chaser will speed up to be in a higher orbit where it will move slower than the satellite so that satellite can catch up. If the chaser is behind the satellite, it will slow down to be in a lower orbit where it can catch up to the satellite.
+So I made these 2 drawings depicting an R-Bar approach:
+In the images, the "chaser" is called spaceship.
+The definition from Wikipedia about a V-Bar approach is also somewhat understandable.
+That is, from behind or from ahead, and in the same direction as the orbital motion of the passive target. The motion is parallel to the target's orbital velocity. In the V-bar approach from behind, the chaser fires small thrusters to increase its velocity in the direction of the target.
+I think the V-Bar approach is similar to an R-Bar approach, but instead of using the advantage of flying slightly higher or lower, the chaser fires the RCS in the radial or anti-radial direction to keep it level with the satellite.
+My question is about a Z-Bar approach, since I don't fully understand the definition of Wikipedia:
+An approach of the active, or "chaser", spacecraft horizontally from the side and orthogonal to the orbital plane of the passive spacecraft
+What I think Wikipedia is saying that the chaser comes in orthogonal to the orbital plane, meaning in the normal/ anti-normal direction of the satellite. However, I am not sure if I understand this correctly. I tried to depict what I understand a Z-Bar maneuver is below.
+For clarification: In the image above, the spaceship is not underneath the satellite flying upwards, even if it might appear so. Instead, the spacecraft is meant to be on a different plane heading towards the satellite in the normal/anti-normal direction.
+I drew this second image to demonstrate what I meant in the picture above:
+What I thought a Z-Bar approach is, is when a spacecraft docks to a satellite, but comes in at a different inclination.
+Q: Is this depiction of a Z-Bar approach accurate? Or did I misunderstand the definition of a Z-Bar approach.

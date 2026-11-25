@@ -1,0 +1,62 @@
+Why can't buoyancy of air be used to support a mega structure as an alternative to a space elevator?
+The reason for asking this question stems from recent articles about large loss of strength of carbon nano tubes with even single atom movement, tested samples showing high vulnerability to space environment oxygen radical damage, as well as my understanding of almost impossible tensile strength material requirements to suspend a massive 60,000km + long cable from GEO to the surface and also away from GEO as counterweight.
+Can the atmosphere not be used as a buoyant medium to support the weight of a mega structure that extends several tens of kilometres and instead act as a sort of poor substitute for what seems like impossible traditional space elevator concepts?
+Is a buoyant mega structure concept like the one below feasible?
+I think I am misunderstanding some basic premise of buoyancy or action and reaction here?
+*** Buoyant atmospheric mega structure basic supposition ***
+An outwardly smooth cone shape mega structure of 1cm thick Kevlar extends from sea level to 50 km with a small base and large 50 km diameter opening making a curved surface area of 4,398 km2.
+π * radius * L = 4,398 km2
+With a shell volume @ 1cm thick of 4.40E13 cm3 and Kevlar mass density @ 1.44g / cm3 the mega structure shell mass is 6.34E10 kg.
+50% of the mega structure interior is arrayed with 20 centrifugal compression blades also of 1cm thick Kevlar, altogether equal to an additional 2.5 mega structures worth of material and total mass of 2.2E11 kg.
+6.34E10 + ( 6.34E10 * 2.5 ) = 2.2E11 kg
+The entire mega structure rotates such that the entire volume ~ 3.27E13 m3 of air is reduced by 20% pressure.
+Volume = 1/3 * π * (radius)2 * height = (1/3) * π * (25km)2 * 50km = 32,725 km3 = 3.27E13 m3
+The buoyant force equation B = p V g assuming air pressure density @ 25km is 0.037 kg / m3 and 20% of the entire volume displaced gives 2.38E12 kg of buoyant displacement.
+0.037 * (3.27E13 * 0.2) * 9.81 = 2.38E12 kg
+The total mass of the structure + 2.5 additional structures of aero blade all 1cm Kevlar is 2.2E11 kg which means the tensile strength requirements of supporting it's own weight is negated by atmospheric buoyancy even at only 80% pressure differential???
+If the structure can be buoyant I tried to figure the speed required to spin the atmosphere "out" with Boyle's Law finding P2.
+P2 = ( P1 * V1 ) / V2
+Pressure of atmospheric air @ representative half height 25km = 256 kg / m2
+P1 mega structure reduced 80% pressure air = 256 * 0.8 kg / m2 = 205 kg / m2
+V1 mega structure total volume= 3.27E13 m3
+V2 interior volume of cone @ 50% air blade volume coverage which does the compression(?) : 3.27E13m * 0.5 = 1.64E13 m3
+Pressure required in centrifugal compression air blade volume P2 = ( 205 * 3.27E13 ) / ( 1.64E13 ) = 409 kg / m2
+Assuming can treat as an adiabatic centrifugal compressor with very low 1% efficiency???
+From https://missrifka.com/equipments/compressor/centrifugal-compressor-power-calculation.html
+Centrifugal compressor power calculations require (imperial):
+Compressibility Factor [Z] : Air = 1
+Molecular Weight [MW] : Air = 28.9647 g/mol (SI?)
+Gas Constant [R] : 1544/molecular weight
+Inlet Temperature [T1]: Average air temperature Earth : 287K = 13.85 degrees Celcius
+Inlet Pressure [P1] : 256 kg/m2 = 0.36 psia
+Outlet Pressure [P2] : 409 kg / m2 = 0.58 psia
+Heat Capacity Component [Adiabatic Component Cp/Cv] K ratio : Air @ low speeds = 1.4
+Adiabatic Head = ( ( Z * R * T1 ) / ( ( K - 1 ) / K ) ) * [ ( P2 / P1 )^( ( K - 1 ) / K ) - 1 ] = 7.48E4 * 0.15 = 1.12E4 ft.lbf / lbm
+Flow rate lb / minute : If assume 20% of the volume of air in the mega structure is required to be expelled to provide lifting force then assumed of every second / minute / hour that per minute is a reasonable supposition : (20% mass of air / minute ) = 1.42E13 lb / minute
+( flow rate * adiabatic head ) / ( Efficiency * 33,000 ) = ( 1.42E13 * 1.12E4 ) / ( 0.01 * 33000 ) = 4.82E14 horsepower!
+specificSpeed = ( rotationalSpeed * flowRate1/2 ) / ( adiabaticHead3/4 ) specific speed is assumed to be more similar to radial blade area pumps ~ 500 because the radial blade pumps are lower speed with larger areas and centrifugal compression as compared to higher speed axial flow pumps ~ 15,000, because the mega structure is so much bigger and not a cylinder I have chosen : 100
+rotationalSpeed = ( specificSpeed * adiabaticHead3/4 ) / ( flowRate1/2 ) = 1.06E5 / 3.77E6 = 2.89E-2 revolutions / minute
+I then tried to figure the tensile strength requirement with the rotational speed assuming calculation for stress in rotating disk.
+Stress = ( ( ( 2 * π * RevolutionsPerMinute ) / 60 )2 * Radius2 * Density ) / 3
+Stress [Pa.N/m2] = ?
+RevolutionsPerMinute [revolutions/minute] = 2.89E-2 revolutions / minute
+Radius [m] = 25 km = 25,000m
+Density [kg/m3] = 1.44 g / cm3 = 1440 kg/m3
+Stress = ( ( ( 2 * π * 2.89E-2 ) / 60 )2 * 25,0002 * 1440 ) / 3 = 9.16E-6 * 25,0002 * 1440 = 8.24E6 Pa.N/m2
+Maximum Tensile Strength of Kevlar @ 1m cross section = 3600 MPa = 3.6E9 Pascals
+Maximum Tensile Strength of Kevlar @ 1cm cross section = 3.6E9 * 0.0001 = 3.6E5 Pascals
+So I believed though the Kevlar does not have sufficient tensile strength to hold together such a massive 50km mega structure from centrifugal forces it is also not as "difficult" as the tensile strength aims for a traditional space elevator concept?
+**** Visual of how it works as launch system *******
+Large and looming into the upper atmosphere the mega structure appears from distance like a giant mountain range that looms ever upward becoming more akin to a storm cloud as the launch train moves closer.
+The top most reaches are surrounded by extensive white wisps of cloud while the environment around the launch site is drenched with perpetual moisture and rain as vast amounts of atmosphere are moved upward outward and then down from the mega structure.
+Before the train dips into the tunnel the surface is viewed as bare and lacking in external features, the smooth surface does not betray the rotational movement of the entire structure.
+As the train passes through a series of airlocks underneath the ground it rises into a near vertical position and is spun up within the tunnel to match the rotation of the launch mega structure, pinning the passengers to their seats.
+The airlock door opens and immediately the launch tunnel atmosphere condenses in the lower pressure environment and is vented into the vast eye of a hurricane like expanse before the passengers as viewed from their screens.
+The train is launched along an electric induction rail that runs along a track laid to the interior surface of the structure, slowly at first but building speed and acceleration as it climbs higher and higher.
+Passing through apertures underneath the giant air blades like a toy train under skyscrapers the train accelerates assisted by centrifugal force of the structure rotation.
+As the train climbs higher the trajectory flattens out before summiting the final maximum altitude and is flung out and away, the train carriage or "engine" first stage dropping away to be reused while the carried sleek "carriage" ignites a rocket motor and continues accelerating to orbit.
+Is this physically feasible?
+Like a boat taking on water, once the water or higher pressure lower altitude air is "thrown out" of the top of the cone it can't come back in again? and therefore will give buoyancy?
+If feasible is this easier / more reasonable than a traditional space elevator despite the lack of height?
+Once spun up once could a structure like this negate some of the energy requirement as the dense sea level atmosphere once evacuated in part cannot come in again?
+Can the buoyant force offset a large part of tensile strength requirements for a material to hold up it's own weight?

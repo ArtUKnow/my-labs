@@ -1,0 +1,2 @@
+Converting spectral luminosity density to absolute AB magnitude
+I have a spectral luminosity density in ergs/s/Angstrom of a galaxy at a given wavelength 1500 angstrom. How can I get the absolute AB magnitude this corresponds to assuming some sort of cosmology (i.e. H_0, Omega_b, Omega_m) and redshift?

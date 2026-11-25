@@ -1,0 +1,3 @@
+How does the expansion of the universe affect the shape of large-scale cosmic voids?
+I learnt that voids expand as the universe evolves, but does cosmic acceleration tend to make them rounder or more elongated over time? Also, can we observe statistical evidence of this effect in SDSS or DES void catalogues? Also, do models with evolving dark energy predict different evolving void shapes? How effective are simulations at predicting these shape distributions?
+I'd appreciate any helpful insights! Thanks for taking the time to read this!

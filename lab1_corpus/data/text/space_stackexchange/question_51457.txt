@@ -1,0 +1,9 @@
+Can we compare high microgravity to low microgravity? Can we say "what it's like to be in a significant amount of microgravity"?
+In this answer to What do ISS astronauts do while the ISS gets reboosted? I wrote
+They strap everything down first, then make videos about what it's like to be in a significant amount of microgravity when the ISS gets reboosted.
+My assumption
+The term "microgravity" prima facie admits that there is non-zero gravity or acceleration, and micro just indicates that it's small.
+Microgravity environments admittedly have some acceleration. It's just that it's quite small compared to 1 g gravity on Earth.
+When we are talking about how astronauts experience the acceleration during the altitude boost maneuver, we can say (if we want to) that they experience "a significant amount of microgravity".
+Question
+Can we say that? Can we suggest that there can be an amount of microgravity, that it is smaller in some cases and larger in others? If so, does higher/lower microgravity mean more/less acceleration, or less/more? Is the state of minimum acceleration "high microgravity" or "low microgravity"?

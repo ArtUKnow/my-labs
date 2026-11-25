@@ -1,0 +1,4 @@
+Why do we need to make probes land on other planets or moons?
+This is a very dumb question but I am really curious to know the answer. Today I was watching the live streaming of Chandrayan 3 landing on the moon (which it successfully did) and this question came in my mind.
+Making a probe land on other celestial planets is extremely difficult but why do we need to make them land if we can extract the data about the constituents of the surface from the measurements of the satellites orbitting the moon ?
+What kind of data can't be taken from up above using satellites and can only be obtained by collecting the materials from the surface ?

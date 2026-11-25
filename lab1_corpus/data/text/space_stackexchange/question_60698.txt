@@ -1,0 +1,2 @@
+Is a low-energy cruise an option for manned lunar flights?
+Some lunar probes such as GRAIL travelled on a different trajectory to the Moon that went even much farther than the Moon itself is from Earth, to a Langrangian point, so why isn't this option ever brought up for human Moon missions? It takes weeks to reach the Moon by that, but on the ISS astronauts are spending much longer times. And such cruise wouldn't require a carrier rocket as strong as the Saturn V / SLS, or does it for human flights? Wouldn't a Falcon 9 or Falcon Heavy suffice for such low-energy cruise?

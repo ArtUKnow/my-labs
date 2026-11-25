@@ -1,0 +1,4 @@
+What scientific constraints will the Nova C IM-1 mission have?
+The IM-1 mission flipped over during its landing attempt. Luckily there still is a decent connection with the spacecraft.
+From what I have seen, some things that they planned such as using an eagleCAM to record the landing couldn’t deploy, which limited the scientific data about how the moon dust interacts with the engine exhaust.
+Which scientific experiments cannot complete their mission or have only a limited use because the probe flipped?

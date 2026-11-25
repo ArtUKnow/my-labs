@@ -1,0 +1,5 @@
+Helium in solar spectra
+It appears that N.R. Pogson was the first to observe in the solar spectrum a line of an element that later became known as helium. This was an emission line in the spectrum of the chromosphere during a solar eclipse (India, 1868). B.B. Nath, W. Orchison, 2021
+I wonder why helium wasn't observed as an absorption line in the visible part of the spectrum of the photosphere, without the need for an expedition to a location where an eclipse could be expected.
+ProfRob writes: 'there are no observed helium atomic transitions in the visible part of the solar spectrum' on Stackexchange Physics.
+Are the helium absorption lines very weak or absent in the 390-780 nm spectrum of the photosphere? Why? How can I quantify this, e.g. using the Saha ionisation equation?

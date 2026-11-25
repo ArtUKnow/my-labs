@@ -1,0 +1,4 @@
+What is different between Hill frame and LVLH frame in satellite?
+What is different between Hill frame and local-vertical, local-horizontal (LVLH) frame in satellite? I add one figure to show this two frame.
+reference of figure:
+Weiss, Avishai, Uroš V. Kalabić, and Stefano Di Cairano. "Station keeping and momentum management of low-thrust satellites using MPC." Aerospace Science and Technology 76 (2018): 229-241.

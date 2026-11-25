@@ -1,0 +1,2 @@
+Which Mars probe went to the highest elevation and which one to the lowest on Mars so far?
+Considering Mars' mean atmospheric pressure of 610 Pa (0.088 psi) its "sea level altitude", how high went the highest probe/rover that ever successfully landed on Mars so far (respectively, what's the lowest atmospheric pressure a probe on the Martian surface has ever been in), and how low/deep the lowest one (or what's the highest pressure a probe/rover has been in)?

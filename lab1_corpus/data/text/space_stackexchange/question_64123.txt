@@ -1,0 +1,10 @@
+Was TTCA used during the Apollo 11 landing phase?
+Neil selected P66, so he used the ROD switch to adjust the altitude rate (he could not use the TTCA throttle). My question is whether he used the X,Y axis translation feature of TTCA or not.
+The document I referred to is below:
+APOLLO 11 MISSION REPORT
+Apollo 11: The Complete Descent
+Regarding forward, at approximately MET:102:44:25 to 102:44:37, I think that he fly over the Little West Crater as a result of operating the ACA and changing the pitch angle from about 6 degrees to about 0 degrees, which increased the velocity from 9.6 to 19.9 feet/sec and reduced the Altitude rate from -6.4 to -3.1 feet/sec.
+For more information on the lateral movement, I superimposed Figure 5-4 and Figure 5-6 to check the relationship between roll angle and lateral velocity, which seem to work together without any major discrepancies.
+It seems to me that he is controlling everything by attitude control with ACA and not TTCA. Does anyone know if he used TTCA?
+Additional note:
+Even if that is not definitive information, if you have some basis for it, we would love to know your thought

@@ -1,0 +1,4 @@
+Why don't stars 0.5<m<0.8 solar masses undergo a helium flash?
+Stars between 0.8 and 2 solar masses undergo a degenerative helium flash, per Wikipedia
+and these course notes
+The cores of stars <0.5 solar masses never heat up enough for helium fusion. In stars >2 solar masses, the core is already hot enough to fuse helium without becoming degenerate first, so no degenerate helium flash takes place; instead, helium fusion begins more gradually. How about stars between 0.5 and 0.8 solar masses?

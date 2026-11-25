@@ -1,0 +1,3 @@
+How much payload could Falcon 9 send to a 100km lunar orbit?
+SpaceX has said that Falcon 9 can send 4020 kilograms to Mars. However, I can't seem to find the payload capacity to lunar orbit. So, how much payload can Falcon 9 send to a lunar orbit at an altitude of, say, 100 kilometers?
+I would be interested in both expendable and drone ship landing configurations. Based on this answer, Falcon 9 cannot send anything even to Geostationary Orbit with an RTLS landing, so unless I'm missing something I don't think it could do so for the lunar surface either.

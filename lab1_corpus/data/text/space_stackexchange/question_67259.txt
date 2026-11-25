@@ -1,0 +1,7 @@
+Would a torchship be legal?
+The United Nations Treaty on Principles Governing the Activities of States in the Exploration and Use of Outer Space, including the Moon and Other Celestial Bodies explicitly states that
+States shall not place nuclear weapons or other weapons of mass destruction in orbit or on celestial bodies or station them in outer space in any other manner
+Citation: UNOOSA.
+I am more an expert on the technology and reality of space than the legality of it, but suppose an enterprising space agency invented a nuclear-fusion engine that has an extremely high specific impulse achieved by ejecting fusion products at significant fractions of $c$.
+All well and good, reaching Mars in days or weeks, reaching Jupiter in due time as well, but of course the Kzinti Lesson comes up: "A reaction drive's efficiency as a weapon is in direct proportion to its efficiency as a drive”. I can’t imagine a torch drive that isn’t functionally just a slow-burning nuclear fusion reactor, and of course if it can be used as a reactor it can be modified to be used as a weapon, and being a fusion weapon it is categorized as a weapon of mass destruction explicitly “shall not”’d by the UN.
+Would there be any precedent as to the torch drive’s legality if it were invented?

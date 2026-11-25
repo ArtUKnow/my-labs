@@ -1,0 +1,2 @@
+using Tesla turbines to pump rocket fuel
+From what I've read, tesla turbines are extremely lightweight and even more efficient (about 95% compared to 90% of turbopumps) when compared to turbopumps, and their bladeless design would also contribute to cost reduction. I would assume also that they would benefit from size reduction as the fluid being pump would have a higher viscosity where turbopumps start to experience inefficiencies. Have there been any proposals for a Tesla turbine-driven rocket engine, and if not, would it even be possible?

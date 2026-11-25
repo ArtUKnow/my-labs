@@ -1,0 +1,28 @@
+How did Stardust and LUCY save Delta-V
+Many spacecrafts (e.g. Stardust, LUCY) starting from Earth have performed the following maneuver I call self assist:
+get into an eccentric sun orbit
+near aphelion/perihelion do a deep-space maneuver (dsm) and reduce/increase speed slightly
+after exactly 1 year return and use Earth for a flyby to gain/loose speed
+Both, analytical derivations and numerical simulations (see below) indicate that you cannot save $\Delta v$ just in this particular case (other return times or flybys at other bodies work as expected).
+How did that work? What are the formulas for the $\Delta v$ in this special case.
+Remark:
+In general, for arbitrary return times to Earth, this maneuver is known as $\Delta v$-EGA and investigated since the 1990's. The goal is to change the hyperbolic excess velocity before the return. We can distinguish between two cases; the dsm point is inside (inner) or outside (outer) the original orbit. For the latter, the trajectory (black) for one self assist at $\alpha \approx 360°+50°$ is shown below.
+Assuming a circular orbit, in order to find the best possible self assist for given final $\Delta v_f$ (relative speed after the assist) an optimization problem has to be solved. The sum of departure + dsm + assist $\Delta v$ has to be minimized over several variables (dsm point, dsm time, angle/time the assist happens). Original orbit radius and $GM$ cancel out doing things dimensionless.
+Both, a pure analytical and a numerical simulation (using Lambert solver) led to the following results:
+start tangential
+perform dsm near periapsis (inner) or apoapsis (outer) $\beta=\theta=180°$
+do assist slightly before (inner) or slightly after (outer) $\alpha \approx 452°$
+That's in contrast to most real world examples of such a maneuver where
+the assist was performed near $\alpha\approx360°$ = 1 year (Stardust, LUCY) or $\alpha \approx 540°$ =1.5 years (BepiColombo). In the calculation/simulations that was the worst moment to do it (~0 savings), far away from the optimum at $\alpha \approx 452°$.
+Addendum LUCY:
+LUCY launched on October 16th 2021 into an elliptical orbit (blue) with aphelion of 1.16 AU and (after a negligible dsm of 14 m/s) returned exactly 1 year later for an Earth flyby to raise its aphelion to about 2.26 AU (black).
+Let $q_1$ be the perihelion of the blue orbit in AU's. It follows (as peri + aphelion $= 2$)
+\begin{align*}
+\Delta v_\text{departure} &=\sqrt{2 \mu} \sqrt{1-\sqrt{q_1 (2-q_1)}}.
+\end{align*}
+Since $\Delta v_\text{departure}$ is also the speed of the probe in Earth frame of reference before the assist (outside its SOI), for conservation of momentum, this has to be equal to the relative speed after the assist
+\begin{align*}
+\|\vec{V}_\text{after assist}-\vec{V}_\text{Earth}\|=\Delta v_\text{f},
+\end{align*}
+so $$\Delta v_\text{departure} = \Delta v_\text{f} \ \longrightarrow \text{no savings}.$$
+One solution indeed recovers approx. the values given in the references for the probe but there is no savings compared to an instant start.

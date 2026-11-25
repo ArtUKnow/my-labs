@@ -1,0 +1,10 @@
+How does Gen 1 StarTram manage to overcome atmospheric drag at the 4-8 km altitude?
+I'm reading about StarTram, and if I understand correctly, the idea of the Generation 1 design is to have a vacuum tube under a mountain slope, exiting into the atmosphere at the altitude of 4 to 8 km. However, I don't fully understand the idea:
+Do I understand it correctly that the acceleration given in the tube in the Gen 1 design is supposed to be enough for getting out of the atmosphere at the orbital velocity?
+If that's the case, how is StarTram supposed to deal with the atmospheric drag? The air density is still relatively high at 4-8 km.
+If it is possible to launch payload at higher-than-orbital velocity at 4-8 km, then what is the point of the Lofstrom Loop? I thought the whole point of constructing a megastructure at the altitude of 80 km is that the atmospheric drag at lower altitudes is too high for payloads at the orbital velocity.
+EDIT: According to @ErinAnne, the answer to question 1 is "yes", and the answer to question 2 is in the paper:
+Launch at (8+ΔV) km/sec, with sufficient ΔV so that the cargo craft velocity is 8 km/sec after it passes through the atmosphere.
+That is, the paper says that adding up to about 1 km/s to the muzzle velocity is enough for dealing with the atmospheric drag.
+I have one more question, then:
+Who is right? The proponents of StarTram, who claim that payloads can be launched from an altitude of 4-8 km at a speed of about 9 km/s, or the proponents of the Lofstrom Loop, who seem to assume that launch at such speeds requires the much less dense atmosphere at an altitude of many tens of kilometres? It seems that only one side can be right.

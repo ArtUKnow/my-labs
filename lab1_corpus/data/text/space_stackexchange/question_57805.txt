@@ -1,0 +1,3 @@
+Why is this Planet Labs video wobbly?
+Planet Labs recently tweeted ( https://twitter.com/planet/status/1481790983155044352 ) a video showing a Falcon 9 first stage landed on a pad.
+Strangely, the image looks like it was taken by a camera which was dangling on a rope. What is causing these oscillations? I thought Earth-observing satellites need to be extremely stable to provide a clear picture, but the video seems to suggest that the satellite is making lots of small corrections of its orientation with respect to Earth. Is this possibly correct? Or are those corrections slow and the video was just sped up?

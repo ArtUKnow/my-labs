@@ -1,0 +1,2 @@
+What is the advantage of optical astronomy over infrared astronomy in space telescopes?
+The Habitable Worlds Observatory, the proposed successor to the James Webb has an identically sized 6.5 meter mirror but operates primarily in visible light. Infrared telescopes like Webb have the benefit of making otherwise opaque objects transparent - this seems like a big advantage - why switch back to visible?

@@ -1,0 +1,2 @@
+Why did Starship lose an engine on IFT-4?
+By T+0:00:06 at the latest, the Super Heavy carrying Starship for Integrated Flight Test 4 appears to have lost an engine (source and image). I know it's not a huge deal, as they can complete missions with engines out, but do we have any idea why this engine actually cut off? Was it an intentional test conducted by SpaceX, the computer cutting it off automatically at launch due to it not falling in normal parameters, or an actual malfunction in flight?

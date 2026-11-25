@@ -1,0 +1,7 @@
+Largest single burn spacecraft delta-v in deep space?
+This 700 m/s maneuver that was avoided got me thinking and then CNN's NASA mission will zoom by asteroid before returning sample to Earth said:
+"Leaving Bennu's vicinity in May puts us in the 'sweet spot,' when the departure maneuver will consume the least amount of the spacecraft's onboard fuel," said Michael Moreau, OSIRIS-REx deputy project manager at NASA's Goddard Space Flight Center in Greenbelt, Maryland, in a statement.
+"Nevertheless, with over 593 miles per hour (265 meters per second) of velocity change, this will be the largest propulsive maneuver conducted by OSIRIS-REx since the approach to Bennu in October 2018."
+While OSIRIS-REx's 265 m/s delta-v maneuver seems quite large, they don't state that it's the largest ever, which leads me to wonder which one was.
+Question: What is the largest single burn spacecraft delta-v in deep space?
+Please exclude 2nd stages and kick stages and consider only the final deep-space spacecraft itself. Is it one of the flying fuel tanks's burn to be captured by a gas giant, or is it a six month uninterrupted "burn" of DAWN's ion engine, or something else entirely?

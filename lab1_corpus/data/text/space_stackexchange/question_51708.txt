@@ -1,0 +1,5 @@
+Can a human land on Deimos using pressurized deodorant cans?
+Can an astronaut use deodorant sprays which contain pressurized butane as cold gas thrusters to land on Deimos from Deimos' orbit?
+If yes, how many cans would be required to get 5 m/s of delta-v for a human with and without a EVA suit?
+What is the Isp and thrust of such a contraption?
+Ignore problems like deodorant cans exploding or getting humans to Deimos and other life support systems needed.

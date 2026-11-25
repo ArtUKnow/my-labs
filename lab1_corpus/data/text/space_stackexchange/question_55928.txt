@@ -1,0 +1,7 @@
+Do reversible proton-exchange membrane hydrolizer/fuel cells exist? Have they been incorporated into a “Hydrogen Battery”?
+Solar power on the Moon suffers from the month-long Lunar rotation which necessitates enough energy storage to last through the 2 week Lunar night.
+An alternative to battery storage would be a closed-circuit hydrolysis/fuel cell with H2 storage.
+Electrolyzers sometimes use proton-exchange membranes, as do fuel cells.
+If a combined electrolyzer/fuel cell were paired with solar cells and metal hydride H2 storage, it could function as a “hydrogen battery”. For a given charging rate, the H2 battery capacity would be proportional to the H2 storage capacity. The longer the storage period, the more this is potentially a cost/weight advantage. There could also be benefits of integrating with other aspects of a Lunar “Hydrogen Economy” such as propellant production or use as a reducing agent in manufacturing.
+Another potential application is on the long, inactive period in an interplanetary Cycler orbit.
+Question: Do reversible proton-exchange membrane hydrolizer/fuel cells exist? Have they been incorporated into a “Hydrogen Battery”?

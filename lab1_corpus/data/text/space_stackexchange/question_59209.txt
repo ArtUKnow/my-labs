@@ -1,0 +1,12 @@
+Helium balloon as a rocket
+This question is not about rockoons, which are rockets using balloons as launch platforms to start from a greater altitude. This question asks about using the balloon itself as the rocket, like a toy balloon one lets go of at home which flies around for a few seconds, making a farting sound.
+High-altitude helium balloons have reached altitudes of over 50km. Those balloons often rip because the light material cannot handle the overpressure at these high altitudes.
+Now when I let go of a little toy balloon in my living room they achieve astonishing speeds. Couldn't one use the gas in the pressurized balloon the same way? How fast could one go? Any chance to do a sub-orbital hop? (I'm aware of what is difficult about spaceflight — immortalized by xkcd — but just humor me.)
+Upsides:
+The thin atmosphere does not cause much friction at lower speeds (the returning first stages of the Falcon 9 start their entry burns at 55 km and > 7000 km/h).
+This is the first time that our propellant lifted us, and not the other way round.
+Downsides:
+I think helium or hydrogen are not our first choices as propellants but it's what we have to work with.
+The nozzle speed of the propellant is lamentably low.
+In order to get very high we need a huge balloon with very low density helium. Any chance to utilize an elastic hull material to store energy?
+Maybe the numbers indicate something crazy like a 10 km3 volume. Well: Why not? All rockets are crazy. (But we'd probably use hydrogen, not helium.)

@@ -1,0 +1,2 @@
+Can any other telescopes see the James Webb Space Telescope?
+The James Webb Space Telescope has no cameras mounted that look at itself. If a malfunction occurred on-board, would any other telescope be able to resolve it with sufficient clarity to provide useful images (assuming that any problem involved one of its large components such as the sun shield or mirror array)?

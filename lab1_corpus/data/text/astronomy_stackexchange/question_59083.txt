@@ -1,0 +1,9 @@
+Stellar Pulsation
+Excuse me, I have a question regarding thermodynamics of stars. I know the mechanism of stellar pulsation is indeed complicated. But I was interested to think of it from the door of energy conservation. I was thinking in this manner. Consider a weight on a piston oscillating in a cylinder. In experiment, as there is always friction, this oscillation ends up by converting all mechanical energy to heat energy exiting from the system and spreading to the environment.
+Now, can we consider that such an event is happening in those stars such as Betelgeuse?
+The interior temperature is increasing by contraction and decreasing by expansion, this is in agreement with changes that take place in gravitational potential energy of the star gas, when it expands or contracts.
+In addition, as there is no piston wall in the star and not any loss of heat energy by friction from the system, such movement could continue without stopping, forever in theory.
+Internal energy and potential energy are converting to each other and that results in oscillating temperature. Can this be thought as a soft volition of the second law of thermodynamics?
+Does such oscillation happen in gas planets too?
+Thanks a lot for your valuable suggestions, and it is of your kindness to let me know about any book or article regarding this subject.
+Can we have a cycle such as this in nature, where heat is converted to work and vice versa, continuously?

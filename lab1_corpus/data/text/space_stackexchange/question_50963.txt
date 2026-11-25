@@ -1,0 +1,4 @@
+What is inside Perseverance? Is the only scientific payload the bunch of instruments hanging from the arm?
+Perseverance weighs about one ton, it is as big as a car. But what is inside the vehicle that weighs so much? Is the payload only the instruments hanging from the arm? Is all the remaining hardware (cameras, wheels, suspensions, RTG, ...) there just to move this payload on the surface?
+I'm thinking that in the case of a one ton car, the payload is... 75 kg of driver, all the remaining hardware is to allow moving him from a place to another.
+How well does that analogy apply to the Mars rover?

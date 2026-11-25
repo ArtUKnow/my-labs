@@ -1,0 +1,5 @@
+Angular diameter and length of baseline
+How did they determine the angular diameter, please? How to predict the baseline length with the first lobe?
+Thank you.
+https://www.chara.gsu.edu/public/basics-of-interferometry
+If they are theoretical curves, my question is what formula is used. There needs to be some relation to how to compute the length of baseline for the particular angular diameter $\theta$.

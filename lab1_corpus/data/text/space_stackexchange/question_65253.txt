@@ -1,0 +1,3 @@
+STS: Why was there a two-minute delay between MECO and the LOX dump?
+Organic Marble's answer to STS: How much thrust did the nominal post-MECO LOX dump produce? explains that the LOX dump was only started two minutes after MECO, while it was also desirable to finish the dump as soon as possible to enable shutting down the APUs. Two minutes is quite a lot of time in the context of a rocket launch, and a SSME becomes completely useless the moment it shuts down as it can't be reignited, so there's no point keeping the engine "armed".
+What was the main factor determining the required length of the delay? (Corrosion of hot engine parts by the LOX dump? Temperature shocks? Venting of residual LH2 first? Something completely different?)

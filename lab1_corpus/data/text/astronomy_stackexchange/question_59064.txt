@@ -1,0 +1,3 @@
+BAO period of acoustic oscillations
+Baryonic Acoustic Oscillations (BAO) is used to analyze the structure of the early universe. Regions of over density lead to gravitational collapse, followed by a rebound driven by photonic pressure. This process is usually described as an oscillation, but I have not been able to determine the period of oscillation. What I have read implies that we see a gravitational collapse, followed by a single rebound, but I don't think that is correct.
+So, I am trying to understand how you would determine the period of oscillation for a single baryonic fluctuation.

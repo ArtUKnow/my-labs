@@ -1,0 +1,3 @@
+Who is the "KUS" ground station?
+I was listening in on the radio traffic from Artemis II, and there was some discussion about a less-than-perfect handover of communication from "Madrid" to "KUS", a weak signal from this "KUS", and a future handover to "Goldstone" that should produce a better signal.
+I know that "Madrid" and "Goldstone" refer to the Deep Space Network stations, but "KUS" doesn't appear to be the Canberra station: DSN Now doesn't show any Artemis-related activity. Who is it?

@@ -1,0 +1,4 @@
+Cosmic massive graviton bounds
+In the paper, Relativistic theory of gravitation and the graviton rest mass. Theoretical and Mathematical Physics, 65(1), 971–979. doi:10.1007/bf01028629, the mass bound
+$$m_g<6.4\cdot 10^{-66}g=6.4\cdot 10^{-69}kg$$
+is obtained. However, putting the numbers with $\rho=10^{-29}g/cm^3=10^{-26}kg/m^3$ I get $m_g< 6.4\cdot 10^{-60}kg=6.4\cdot 10^{-57}g$, with $k=8\pi G_N$. Where am I missing the power counting?

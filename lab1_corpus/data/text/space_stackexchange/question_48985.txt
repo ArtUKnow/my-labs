@@ -1,0 +1,3 @@
+How many docking operations have taken place beyond GEO?
+The Chang'e 5 ascent stage has docked with its parent craft in orbit around the Moon. The only other docking operations further out than geostationary orbit that I can find are the eight Apollo lunar missions that included an LM. I believe those were all manual procedures so Chang'e 5 seems to have carried out the first automated docking outside GEO, and the first of any kind since Apollo December 17 in 1972.
+Am I wrong? Have there been any other docking operations beyond GEO and if so, how many?

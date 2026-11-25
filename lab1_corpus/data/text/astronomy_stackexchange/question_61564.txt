@@ -1,0 +1,15 @@
+Computing eclipses and shadow transits of Jupter's moons and the light-time - Meeus, Ch.44?
+I am confused by a single statement at the end of Chapter 44 "Satellites of Jupiter", J. Meeus, Astronomical Algorithms, 2nd ed. In the last paragraph, on p.315, he says this:
+Eclipses and shadow transits can be calculated in the same way, except
+that one should replace $X$ and $Y$ by the apparent coordinates $X_0$ and
+$Y_0$, as seen from the Sun. These coordinates are obtained by putting $R = 0$
+in expressions (44.1). Moreover, the light-time $\tau$ to the Earth should be added to the true times of the eclipses or to those of the
+shadow transits, because we on Earth see these events later by the
+amount $\tau$.
+OK - all is clear, except for the "the light-time $\tau$ to the Earth should be added" part.
+Earlier in the same chapter, p.305, there is this paragraph:
+Let t be the time measured in ephemeris days from 1976 August 10 at 0h TD = JDE 2443000.5, decreased by the light-time $\tau$. In other words, if JDE is the Julian Ephemeris Day corresponding to the given instant,
+$$t = JDE - 2443000.5 — \tau$$
+Does he mean that that $\tau$ should now be added, instead of subtracted? If so, why? What is so different from the satellite positions proper?
+If not so, then what exactly does he mean? Is he referring to something else?
+Or is it just a redundant re-statement of what has already been prescribed by the above formula, i.e. $\tau$ is "added to $t$" by virtue of being subtracted from the other side of the equation? Why would he repeat that and add emphasis?

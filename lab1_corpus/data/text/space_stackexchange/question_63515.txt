@@ -1,0 +1,5 @@
+Does methalox fuel have a coking problem at all?
+Methane was chosen for SpaceX Raptor because it has less coking problem that kerosene. But does it completely eliminate it? If not, how much less severe is it?
+I googled 'thermal decomposition of methane", and got this
+In the thermal decomposition of methane at temperatures from 880 to 1103 K, hydrogen and ethane are the only primary products.
+This would suggest that it does not exist at all. Is that correct?

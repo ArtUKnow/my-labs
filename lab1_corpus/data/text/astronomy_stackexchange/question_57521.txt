@@ -1,0 +1,5 @@
+Single, binary, triple, .. fraction of star systems in our galaxy by mass
+What is the fraction of single, binary, triple and so on systems as a function of one of the stars masses (or their sum)?
+This can be either derived from simulation or measurement.
+I feel like I have seen this information in a lecture or similar, but just cannot find it again on Google or ADS. What I have in mind looks something like this qualitative "artists impression" below:
+All I find is the overall multiplicity fraction e.g. in Fig. 17 in Bate, 2012, but I would also like to specifically know how many triple systems there are.

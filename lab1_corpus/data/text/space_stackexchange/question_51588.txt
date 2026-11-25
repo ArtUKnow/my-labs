@@ -1,0 +1,21 @@
+How much is known about those liquid metal droplets orbiting the Earth? (e.g. sizes, composition, orbits...) Are any actually tracked?
+The question Orbit Guardians - bs, right? mentions a company proposing a smallsat that will capture then give a roughly 200 m/s retrograde "kick" to liquid metal NaK alloy droplets in LEO circa 800 to 900 km, apparently leaked by some old nuclear reactors still in orbit.
+How many nuclear fission reactors have been launched into space? How many are still there?
+Most recent launch of a nuclear reactor, and current barriers to launching the next one?
+Apparently these droplets are believed to be liquid not solid, but I think that would depend on several things, including their chemical composition (a wide range of ratios are soluble) and their emissivity = 1 - albedo.
+Pristine metal is presumably shiny with very high albedo $A$, but they could have space dust, dirt or other non-soluble contaminants their surfaces making them darker.
+For a sphere (blob of metal, planet, or otherwise) the equilibrium temperature is given as:
+$$T_{Eq} = \left(\frac{I_0 (1-A)}{4 \sigma} \right)^{1/4}$$
+where $I_0$ is the solar intensity at 1 AU of about 1361 W/m2 and $\sigma$ is the Stefan-Boltzmann constant 5.67E-08 W/m2/K4.
+For example:
+albedo T_Eq (K) T_Eq (C)
+0.1 271 -2
+0.5 234 -39
+0.9 157 -116
+Question(s):
+How much is known or at least generally believed to be true about those liquid metal droplets orbiting the Earth? (e.g. sizes, composition (stoichiometry), contamination, albedo, temperature...)
+Are any actually tracked? Are any specific orbits known? Or would a spacecraft have to go out there and scour the orbits of old nuclear reactors looking for them?
+Have any individual droplets ever been detected by any means, or are they strictly deduced to exist?
+While individually small, the 480,000,000 West Ford dipoles needles made a "shiny" radar target. These droplets are old and spread out and not so numerous, so it's conceivable that they've never actually been observed.
+Source
+Legend: Na - melting point of pure sodium, K - melting point of pure potassium, E - eutectic point, P - peritectic point, blue line - melting point of eutectic mixture, black line - melting point of compound Na2K, red line - melting point of surplus (Z. Anorg. Chem. 74 (1912) 152-156)

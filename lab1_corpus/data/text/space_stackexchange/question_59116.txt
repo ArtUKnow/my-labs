@@ -1,0 +1,3 @@
+What is Rocket Lab Electron's dry mass?
+Does anyone know how heavy Rocket Lab's Electron rocket is without fuel? Or do you by chance have any information about the fuel capacity of the first and second stage? I'm trying to model its flight profile but can't find any information about how much fuel it carries.
+Separate numbers on first and second stage would be optimal!

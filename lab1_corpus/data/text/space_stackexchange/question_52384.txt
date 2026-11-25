@@ -1,0 +1,5 @@
+What DID NASA do with "the world's largest quantum computer"? (re question from 2013)
+@TildalWave's 2013 question What does NASA plan to do with the world's largest quantum computer? has several answers, including one in a comment:
+Maintaining this computer is expected to bring new, high-paying jobs to California's 18th Congressional district.
+and of course something like that has never happened before.
+Question: But eight years on, how did it go? What DID NASA Ames do with what would have at the time been the the world's largest quantum computer, a 512-qubit D-Wave Two™ quantum computer housed in the Quantum Artificial Intelligence Laboratory (QuAIL) at its NASA Advanced Supercomputing (NAS) facility partnering with the independent, nonprofit research corporation Universities Space Research Association (USRA)?

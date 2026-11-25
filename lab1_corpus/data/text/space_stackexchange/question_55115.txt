@@ -1,0 +1,4 @@
+Frequency/Spectrum regulation document for laser communication
+For RF we have the frequency allocation table, where the RF spectrum is regulated. Optical has big bandwidth, there is a lot of frequency space.
+How do we regulate optical spectrum? I didnt find any regulation as for RF
+it can happen two systems will use the same frequency and it is not good

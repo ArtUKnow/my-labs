@@ -1,0 +1,8 @@
+Should the SpaceX Starship static fire tests more closely match actual flight parameters?
+Under the current 10 km flight program, all 3 Raptors are used at launch. During the ascent, they shut down one at a time.
+After a flop and free fall of several minutes, they are reignited, with the best 2 used for landing.
+Major issues with leaks and thrust control have emerged with tests SN 8 - 11, whereas the SN 5 and 6 constant light vertical flights went well.
+Using a 10 km vertical attitude only (with parachute instead of flop) was proposed, as SN 5 and 6 did not have an engine out/relight in their flight sequence, as a "bridge step" to what they are trying with SN 15.
+Could they try the engine out/relight (also vertically) program during the SN 15 static fire test?
+It seems on the 2nd light, the fuel could be exhausted, giving the technicians a rocket with its critical components intact to look at after the test.
+Could a more robust static fire program for SN 15 help it avoid its predecessors fate?

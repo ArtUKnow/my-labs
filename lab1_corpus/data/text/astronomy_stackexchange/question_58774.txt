@@ -1,0 +1,4 @@
+The intensity of moonlight
+Is there an equation to accurately measure the intensity of moonlight using the lunar altitude like in this question under natural conditions?
+By "under natural conditions" I mean "the moon is fully lit, there is no clouds and the location is in desert with and there is no other influences".
+I want to calculate it "comparison to its maximum intensity" so that the result is a percentage that I can control the maximum intensity I want according to my game which I'm developing, Note that there is a game development engine (called Unity) parameter for the intensity of sunlight in Lux. It doesn't matter to be very precise; the important thing is to simulate it similar to the way the moon actually works.

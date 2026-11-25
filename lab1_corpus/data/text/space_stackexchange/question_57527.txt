@@ -1,0 +1,15 @@
+Just how locked is Titan? Does it exhibit libration due to eccentricity? Have residual oscillations not yet damped out been detected or ruled out?
+Under Where is the Selk crater on Titan with respect to Saturn? there is @BrendanLuke15's comment which provides a helpful hint:
+Tidally locked moons have their 0° longitude defined as the 'sub-planet' point (In every instance I've seen)
+The first thing I think of is libration. (though when I was much younger it was often libation).
+I've included a libration GIF from Who does these mesmerizing simulations of the phases of the Moon? And how? below to show just how hard it is to try to figure out where the "'sub-planet' point" is here. This is because the Moon's eccentricity is pretty large so that while it rotates once a month steadily its rotation around Earth speeds up and slows down in angular velocity by quite a lot.
+For more on Earth's moon see:
+What are the "Moon L, B, C" angles shown in this solar eclipse simulation?
+How to get lunar L, B, C parameters from the Moon's 3x3 rotation matrix from the Python package Skyfield?
+Shape and dimensions of the Moon's reference surface for selenographic latitude/longitude? (no accepted answer yet)
+And for another tidally locked moon instance that @BL15 may or may not have seen:
+How "locked" are Pluto and Charon? How much does each librate as seen from the other?
+Question: How tidally locked is Titan? Does it exhibit libration due to eccentricity? Have any residual oscillations not yet damped out been detected or ruled out?
+By "ruled out" I mean by direct measurement: more than "we know Titan's been there a long time and made of normal materials and so it must have damped out by now".
+Animation used in EarthSky.org:
+Source but as pointed out in this answer by the GIF's creator, the original image is actually in Wikimedia

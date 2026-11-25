@@ -1,0 +1,5 @@
+Dragon launch escape: roll control?
+Dragon’s four superdraco pods are positioned well for pitch and yaw control, but not for roll control.
+So I’m wondering how they’ll control for roll during launch escape—or if they’ll even control for roll in those few seconds the superdracos are firing.
+They do carry 16 dracos which would normally provide roll control in space, but would they use them in the thicker atmosphere during launch escape?
+They also carry aerodynamic fins which would probably dampen any roll rate the dragon might get during escape. I don’t imagine this would make up for active roll control though?

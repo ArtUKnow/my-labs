@@ -1,0 +1,14 @@
+Out-of-sample clustering of newly cataloged 2025–2026 ETNOs (2025 MC403, 2026 HZ21) at pre-registered Rubin/LSST outer boundary radii?
+I was testing an open-source Python pipeline (it3_master_v22.0.py from https://github.com/Dr-Logvinovich/IT3-Solar-System-Quantum-Architecture) that pre-registered 50 blind ETNO target zones for the Vera C. Rubin Observatory (LSST) and a set of zero-parameter outer Solar System boundary radii. According to the Zenodo commit history (10.5281/zenodo.21792530), the code and constants were frozen on August 4, 2026, when MPCORB.DAT had $1,553,256$ orbits.
+When I ran the script with --fresh-download on the current Harvard MPC catalog ($1,580,093$ orbits, i.e., $+26,837$ new/updated objects since the August 4 freeze), several newly added 2025–2026 extreme TNOs landed directly on the pre-registered outer shells. Using the script's eccentricity-weighted aphelion $\tilde{R} = a(1+e)(1 + \frac{1}{2}e^2)$, bicone vertex scale $R_N = \frac{27\sqrt{5}}{2} \approx 30.187\text{ AU}$ ($0.39\%$ from Neptune's $a_N = 30.069\text{ AU}$; 1:2 cliff at $30.187 \times 2^{2/3} = 47.92\text{ AU}$), outer sphere $r_{\text{in}} = 243\text{ AU}$, and scale factor $\Lambda_1 = \sqrt{3}(3+2\sqrt{2}) \approx 10.09526$:
+$$R_{\text{deep}} = 243 \Lambda_1 = 243\sqrt{3}(3 + 2\sqrt{2}) \approx 2453.12\text{ AU}, \qquad R_{13} = 729\sqrt{3} \approx 1262.67\text{ AU}$$
+Here is the console output for the newly added 2025–2026 outer objects ($S_n \ge 6$, which grew from 43 to 47 objects):
+MPC Code Designation Floor (Sk,Sh) Q (AU) R_eff (AU) Pre-registered Target & Residual
+K25Me3C 2025 MC403 Sn=7 (2,1) 1686.83 2453.20 2453.12 AU (R_deep) -> 32.4 ppm (0.0034%)
+K26H21Z 2026 HZ21 Sn=6 (1,2) 901.03 1266.92 1262.67 AU (R_13) -> 0.34%
+K26EE7W 2026 EW147 Sn=6 (1,1) 911.18 1289.65 1262.67 AU (R_13) -> 2.09%
+90377 Sedna (ref) Sn=6 (2,1) 1011.24 1385.09 1383.18 AU (Bicone) -> 0.14%
+K25L02S 2025 LS2 Sn=6 (2,1) 1017.51 1446.85 Sn=6 Sednoid band (E_ion = +6.25)
+K26EC7G 2026 EG127 Sn=6 (2,2) 1216.89 1769.54 Sn=6 Sednoid band (E_ion = +6.61)
+K26ED0B 2026 EB130 Sn=9 (2,1) 4680.93 6970.09 Sn=9 Oort shell (E_ion = +9.11)
+Since 2025 MC403 (K25Me3C), 2026 HZ21, and 2026 EW147 entered the catalog after the August 4 freeze, what explains a $32.4\text{ ppm}$ hit at $2453.12\text{ AU}$ and clustering near $1263\text{ AU}$? Specifically, could this be an astrometric prior/selection effect in how initial heliocentric osculating elements $(a, e)$ are fitted over short observation arcs for distant Rubin/MPC candidates before barycentric conversion, or is there a known secular/diffusive boundary at these aphelion distances?

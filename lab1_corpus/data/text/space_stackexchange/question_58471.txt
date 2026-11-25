@@ -1,0 +1,21 @@
+Why was SERT-1 put in a suborbital trajectory (4000 km apogee) while SERT-2 (1970-009A) was put in a 1000 km circular polar orbit?
+Wikipedia's SERT-1 says
+SERT-1 (Space Electric Rocket Test) was a NASA probe used to test electrostatic ion thruster design and was built by NASA's Lewis Research Center (now NASA Glenn). SERT-1 was the first spacecraft to utilize ion engine design. It was launched on July 20, 1964 on a Scout rocket. It carried two electric propulsion engines; of the two, the first, an electron-bombardment ion engine ("Kaufman ion thruster") was run for a total of 31 minutes and 16 seconds. This was the first time that an ion engine of any type had been operated in space, and demonstrated that the neutralizer worked as predicted. (A second thruster, of a different type, failed to operate.)
+The test was followed by the SERT-II probe, launched into a 1000-km-high polar orbit on February 3, 1970, which demonstrated two mercury thrusters operating for 2011 hrs and 3781 hrs in space. Up to 300 thruster restarts were demonstrated.
+The SERT rocket tests demonstrated ion engine technology that was later used on the Deep Space 1 probe and later missions.
+and
+Mission type: Technology
+Operator: NASA
+Apogee: 4,002 kilometres (2,487 mi)
+Manufacturer: NASA Lewis Research Center
+Launch date: July 20, 1964, 10:53 UTC
+Rocket: Scout X-4
+Launch site: Wallops LA-3A
+Gunter's Space Page for SERT-II says:
+1040 km × 1048 km, 99.30°
+1970-009A
+04.02.1970
+Va SLC-2E
+Thorad-SLV2G Agena-D
+Question: Why was SERT-1 put in a suborbital trajectory (4000 km apogee) while SERT-2 (1970-009A) was put in a nice, circular 1000 km polar orbit?
+There is some interesting background information and history in the NASA reprint from Journal on Propulsion and Power: Ion Propulsion Development Projects in US: Space Electric Rocket Test I to Deep Space 1 that may or may not be helpful here.

@@ -1,0 +1,2 @@
+Why aren't Dual Engine Centaurs used anymore?
+The last DEC flew in 2004 (excluding Starliner) on an Atlas II. Why aren't they used today for commercial payloads (again, barring Starliner)? I understand that DEC is more expensive than SEC as it incorporates 2 RL10s, but is that the only reason why it isn't used? Perhaps plumbing complexity or improved rated burn time eliminated the need for it?

@@ -1,0 +1,3 @@
+Filling a small container with LN2 in a single feed line
+"I am conducting space-grade insulation testing using a cryostat system. Liquid nitrogen (LN2) is transferred from a pressurized supply Dewar (XL-55 at 2 bar) into a small internal test vessel through a single feed line.
+A vertical extension of this line serves as an open vent for boil-off gas. However, during operation, the LN2 flows directly upward through the vent line rather than filling the test vessel. Has boil-off gases from vessel blocked the down path? I would appreciate engineering insights into why this flow routing occurs and recommendations for rectifying the transfer process with little modification." It's very difficult to two different lines now.

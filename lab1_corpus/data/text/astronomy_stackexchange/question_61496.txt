@@ -1,0 +1,5 @@
+Has the similarity between diagrams of the expanding universe and of vapour pressure in mixtures been noted by others? Is this just coincidence?
+Here is a diagram of the expanding universe (https://map.gsfc.nasa.gov/media/060915/index.html).
+Here is an image of the the vapour pressure of propanol dissolved in water vs mole fraction (https://en.wikipedia.org/wiki/Azeotrope).
+The second diagram has been reflected just to enhance the similarity. From a chemistry point of view this makes no sense, but then the first diagram is really just a line diagram of scale factor against time, so it has also been significantly doctored.
+Is the similarity just coincidence? Most probably, but then inflation is sometimes explained as a phase change, which is what the second diagram is (liquid and vapour).

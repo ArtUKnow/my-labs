@@ -1,0 +1,6 @@
+L2 for JWST - EM barycenter used in calculation?
+I’ve been reading up on two and three body dynamics, wrt to L2 for the JWST.
+Are the calculations for this L2 based on the sun/earth masses and locations, or on the sun/(earth+moon barycenter) masses and locations?
+Along the same lines, how about using the solar system barycenter instead of the sun’s center of mass for M1?
+Can anyone provide a order of magnitude estimate of the difference of using barycenters, vs sun/earth masses and distances in calculating the L2 for the JWST?
+Perhaps the perturbations introduced by barycenter calculations are insignificant, but surely the actual location of L2 is more complicated than assuming a simplified 2-major-mass 3 body problem?

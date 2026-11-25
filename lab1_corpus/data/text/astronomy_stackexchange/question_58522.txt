@@ -1,0 +1,41 @@
+Determining the heliocentric co-ordinates of the earth's centre from the earth-moon barycentric coordinates using VSOP2013 model
+I've seen this question posed before but not answered fully at Converting Earth Moon Barycenter coordinate to Geocentric coordinate. There is an insightful answer given at https://space.stackexchange.com/questions/19035/converting-orbital-state-vectors-from-one-origin-to-another, but again no practical equations were given to easily calculate the coordinates of the centre of the earth by using the earth-moon-barycentre heliocentric coordinates calculated by VSOP2013 to enable one to calculate the positions of the planets for earth-based observation purposes by astronomers (this is of course not an issue for the VSOP87 coordinates as it includes a model that calculates the LBR coordinates of the centre of the earth).
+According to my understanding it should be a relatively easy task to determine the centre of the earth in heliocentric coordinates if one knows the position of the Moon relative to the earth, for example by using the ELP/MPP02 model.
+As an example of my problem I'll calculate the heliocentric coordinates for the Earth (using VSOP2013) and the geocentric coordinates of the Moon (using ELP/MPP02) for Julian date 2460564.50061489 11 September 2024 at midnight GMT) :
+Using VSOP2013 I calculated the Cartesian heliocentric ecliptic coordinates for the dynamic J2000 ecliptic for the EMB as
+\begin{align*}
+X&= 0.98622458 \\
+Y&= -0.20214571 \\
+Z&= 0,00000567\\
+\end{align*}
+Using ELP/Mpp02 I calculated the inertial mean ecliptic and equinox of J2000 ecliptic coordinates for the Moon to be
+\begin{align*}
+X&= -98286.95858km\\
+Y&= -378384.79064km \\
+Z&= -33687.61320km\\
+\end{align*}
+To calculate the coordinates of the Earth-Moon-Barycentre in the same coordinates as those of ELP/MPP02, I'll use the following formulae:
+\begin{equation*}
+X_{EMB}=\frac{mass_{moon} \cdot X_{moon}}{mass_{earth}+mass_{moon}}\\
+Y_{EMB}=\frac{mass_{moon} \cdot Y_{moon}}{mass_{earth}+mass_{moon}}\\
+Z_{EMB}=\frac{mass_{moon} \cdot Z_{moon}}{mass_{earth}+mass_{moon}}\\
+\end{equation*}
+The resulting coordinates of the EMB will then be:
+\begin{align*}
+X_{EMB}&=-1363.8226km\\
+Y_{EMB}&=-4561.4700km\\
+Z_{EMB}&=-404.2623km\\
+\end{align*}
+or, as expressed in AU:
+\begin{align*}
+X_{EMB}&=-7.9830279638\times10^{-6}\\
+Y_{EMB}&=-3.0733033237\times10^{-5}\\
+Z_{EMB}&=-2.7361631909\times10^{-6}\\
+\end{align*}
+Now, my question is: how do I calculate the centre of the earth in heliocentric coordinates given the VSOP2013 heliocentric coordinates of the EBM and the geocentric ELP/MPP02 coordinates of the EMB. Using VSOP87 the Earth's heliocentric rectangular coordinates (in AU) are:
+\begin{align*}
+X_{Earth}&=0.987431488\\
+Y_{Earth}&=-0.196173931\\
+Z_{Earth}&=2.08708\times10^{-6}\\
+\end{align*}
+I'm assuming there's a simple way to figure out how to use the geocentric rectangular coordinates of EMB calculated via ELP/MPP02 above in combination with the heliocentric EMB coordinates calculated via VSOP2013 to find the heliocentric rectangular coordinates of the centre of the Earth which should then enable one to calculate the geocentric positions of the other planets for terrestrial observation purposes. Any idea on how to go about this?

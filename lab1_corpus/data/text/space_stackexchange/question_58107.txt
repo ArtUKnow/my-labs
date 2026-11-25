@@ -1,0 +1,4 @@
+Apollo Guidance Computer (AGC) Compiler?
+I found a brochure by Raytheon about the Apollo Guidance Computer.
+A compiler was announced for the AGC.
+As far as I know the AGC was programmed in assembler only. What kind of high level language was used with this compiler? Was it used anytime for any later project? Was this compiler ever delivered to a costumer and used for a project?

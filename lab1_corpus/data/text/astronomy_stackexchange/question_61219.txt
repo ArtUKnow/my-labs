@@ -1,0 +1,4 @@
+Axial tilt of Saturn measurement literature request
+I am a novice trying to determine Saturn's axial tilt. I thought by looking at various images of Saturn (and using ratios of shadows, aspect ratio of rings, etc) we could use geometry to deduce its axial tilt angle. However, the perspectives of these photos taken (specifically ones from the Cassini-Huygens mission) is giving me some headache!
+I am wondering if there's any literature including calculations that determines this axial tilt. (How it was done in the past?) In particular ones that can be done with just visual observations of Saturn. Or any guidance how one might do a "back of the envelop" estimation of its tilt.
+Thanks you for your time.

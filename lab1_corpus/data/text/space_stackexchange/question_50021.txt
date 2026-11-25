@@ -1,0 +1,8 @@
+What is the "+" symbol for the drag term encoded in a TLE?
+I have two TLE, the drag term for the first TLE is -26868-1, which I suppose equals to -0.026868. But on the second TLE, we have 00000+0. What does the "+" symbol represents here?
+COSMOS 2549
+1 47546U 21008A 21040.52165678 -.00037182 00000-0 -26868-1 0 9998
+2 47546 67.1483 54.1721 0006757 284.8888 75.1223 13.96668399 985
+TJS-6
+1 47613U 21010A 21036.34392819 .00000403 -56594-6 00000+0 0 9998
+2 47613 28.3962 6.0839 7309460 180.1054 196.4507 2.28168883 27

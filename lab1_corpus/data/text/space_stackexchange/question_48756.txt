@@ -1,0 +1,9 @@
+Is the United Nations Outer Space Objects Index anything more than a clone of the Celestrak's Satcat? Is it even that, or less?
+This looks like this answer because that's where I found this.
+Ars Technica's SpaceX Starlink engineers take questions in Reddit AMA—here are highlights included a reader poll when I viewed it, screen shot below. It said:
+The United Nations Office for Outer Space Affairs monitors and logs objects, including satellites, launched each year.
+Their home page is at https://www.unoosa.org/ and there is a page called Outer Space Objects Index
+But this just looks like an attempt to make a "UN Satcat clone"
+Question: Is the United Nations Outer Space Objects Index anything more than a clone of the Satcat I can find in Celestrak? Is it even that, or less?
+I'm wondering if it uses a separate and independent process for discovery, enumeration and cataloging (I don't think they have their own, independent tracking system) and if there are any uses for which it is better than the Satcat.
+Or instead is it just a way of keeping an independent eye on space stuff?

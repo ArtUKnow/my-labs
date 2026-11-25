@@ -1,0 +1,2 @@
+JWST detector heat load
+A lot of information has been published about shielding the JWST from solar radiation and the need to maintain the detectors at a low temperature, but little has been said about the other sources of heat loading on the detectors. In particular, what is the heat load from the collected radiation of the main mirrors on the detector, and how does that vary depending on what objects or fields are being imaged?

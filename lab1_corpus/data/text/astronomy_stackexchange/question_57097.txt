@@ -1,0 +1,3 @@
+Why do we call radio images "maps"? Is it because it is not optical, so therefore not an "image", strictly speaking?
+Or is it just historical convention? I know that within research circles, it is common to also use the term "radio image". I am mainly wondering whether the term originally comes from wanting to differentiate between an "actual" image and something that is more of a representation.
+I know that if we want to be really precise, even optical images are representations, but still I feel there is a big difference between those and imaging wavelengths that we cannot see at all.

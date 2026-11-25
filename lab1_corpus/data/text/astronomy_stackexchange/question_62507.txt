@@ -1,0 +1,4 @@
+Atypical Milky Way?
+I've been working on a poster of the local group. Having plotted all galaxies of the Local Group above 450k solar masses stellar mass in py, there's something I've noticed that I can't explain. Despite the mutual barycenter of Andromeda and the Milky Way, estimated using outlying isolated Local Group dwarfs, being almost halfway towards the Milky Way, and every single study, estimating their mass through their own satellite systems, also pinning them down as almost equal, Milky Way's satellites are incredibly concentrated near our galaxy compared to those of Andromeda. No matter which mass cutoff you choose. Here is an 0.45M solar masses stellar mass cutoff.
+Why are the distributions of the satellite systems of the Milky Way and Andromeda Galaxy so incredibly different?
+The massive brown circle is the barycenter, as estimated by recent studies.

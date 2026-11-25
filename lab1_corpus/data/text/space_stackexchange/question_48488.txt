@@ -1,0 +1,10 @@
+What's the current state of Venus orbital infrastructure?
+As per this Wikipedia article there have been a total of 5 orbiters successfully deployed to Venus:
+Venera-15
+Venera-16
+Magellan
+Venus Express
+Akatsuki
+Of which only the Akatsuki seems to be currently operational.
+Could it be used to communicate to other potential satellites or for data relay purposes to communicate with Earth (e.g. when a potential new spacecraft is on the far side of Venus)? What would be the approximate bandwidth?
+Is there any other usable infrastructure in orbit around Venus? Could it be used for navigational purposes?

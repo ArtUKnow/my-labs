@@ -1,0 +1,3 @@
+If the universe is expanding equally in all directions at the same rate, why does redshift only stretch the wavelength and not the amplitude as well?
+If the 3D universe is expanding equally in all directions (at the same rate), why is it that only the wavelength / frequency of electromagnetic radiation (light) emitted from a distant source is stretched, while its amplitude not?
+If the light in the universe is represented as a 3D wave (x, y, z), with frequency along the x-axis and amplitude along the y-axis, then why does the expanding universe (x, y, z) cause only the frequency (x-axis) to stretch, and not the amplitude (y-axis) as well?

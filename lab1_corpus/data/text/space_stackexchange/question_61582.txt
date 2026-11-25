@@ -1,0 +1,5 @@
+What happened to ArgoMoon?
+The primary objective of the Italian ArgoMoon cubesat was to image the Interim Cryogenic Propulsion Stage (ICPS) after being jettisoned from it.
+Argotec engineers noticed the inability of the Interim Cryogenic Propulsion Stage to send telemetry during the CubeSat deployment phase, which occurs a few hours after the separation of the Orion spacecraft. It was this issue that triggered Argotec to propose a satellite capable of performing a proximity flight with the ICPS, able to take photographs and provide an inspection to confirm the success of CubeSat deployment.
+Since then, images of the Earth and the Moon from the spacecraft have been released.
+However there is still no image of its primary target, the ICPS. Did something go wrong?

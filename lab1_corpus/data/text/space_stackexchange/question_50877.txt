@@ -1,0 +1,7 @@
+Future trends in Earth Observation and Communications from VLEO; are there any?
+Question:
+In order to better understand the wider market need and uses for Very Low Earth Orbit (VLEO)-enabling technologies, I'd like to ask about future trends in Earth observation imagery and global communications, particularly:
+Is there a trend, or any current effort to push optical image resolution even lower by reducing altitude, or have the cost, location repeat cadence (time between one image/pas and the next for a given location), and diversity in electromagnetic spectrum now become the primary driving factors?
+Are there new or different application areas than optical imaging where there are opportunities to exploit VLEO over LEO?
+Background:
+I am a researcher at The University of Manchester where we’ve been exploring The Benefits of Very Low Earth Orbit for Earth Observation Missions. We believe that that spacecraft operating here could be smaller, lighter, and cheaper whilst maintaining or improving performance in comparison to those that currently operate at higher LEO altitudes. As part of the DISCOVERER project, we have been working on developing technologies to enable sustained operations at reduced orbital altitudes, principally materials that reduce the drag experienced in the rarefied flow in very low Earth orbits (VLEO) and new flow sensors that can assist atmosphere-breathing electric propulsion systems and aerodynamic control methods.

@@ -1,0 +1,6 @@
+Why do EVA suits have legs?
+Why do EVA suits have legs?
+Planetary exploration suits (PES) obviously need legs. Spacesuits with legs are “a classic icon of human space exploration” and a requirement for mobility. https://www.nasa.gov/feature/a-next-generation-spacesuit-for-the-artemis-generation-of-astronauts .
+But do extravehicular activity suits (EVA) need legs? It has been reported that EVA suits have very little knee mobility compared with PES suits (unsubstantiated) Judging by photographs of EVAs, legs on EVA suits provide little utility:
+If legs were not a requirement for EVA suits, it would provide more design latitude.
+Robonaut with mono-leg and bi-legs for comparison

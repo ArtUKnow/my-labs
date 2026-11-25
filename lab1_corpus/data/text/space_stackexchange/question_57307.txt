@@ -1,0 +1,2 @@
+How long does it take for Ariane 5 to roll to the launch pad?
+The launchpad is 2800 m away from the building where Ariane 5 is assembled. Based on the Ariane 5 user manual, Section 7.5.5, Figure 7.5.5.4.b, the Ariane 5 transfer to launchpad happens one day before the launch. How long does it take for Ariane 5 to go from hangar to launchpad?

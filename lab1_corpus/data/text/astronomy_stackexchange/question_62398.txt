@@ -1,0 +1,26 @@
+Are these filters reasonable for selecting promising host stars for exoplanet searches in TESS data?
+I'm a student working on an exoplanet search project using TESS data. To reduce the number of targets before manually checking light curves, I'm trying to filter stars in the TIC catalog through MAST.
+My goal is to focus on relatively stable K and G dwarf stars, since they seem to be among the most promising hosts for long lived planetary systems and potentially habitable planets.
+At the moment I'm using the following filters:
+T_eff: 3900 - 6000 K
+log(g): 4.0 - 5.5
+TESS Mag: 0 - 12.5
+Stellar Mass: 0.6 - 1.1 M☉
+Stellar Radius: 0.45 - 1.15 R☉
+Distance: 0 - 300 pc
+Contamination Ratio: 0 - 0.1
+Metallicity [Fe/H]: 0.0 - 0.5
+My reasoning is:
+T_eff, mass and radius are intended to select K and G dwarfs.
+log(g) should help exclude giants.
+Brighter TESS magnitudes should provide better photometric quality.
+Low contamination should reduce the risk of false positives from nearby stars.
+I included a metallicity filter because stars with higher metallicities are often reported to have a higher probability of hosting planets, especially giant planets.
+I limited the distance because nearby stars are generally easier to characterize and follow up.
+My main question is:
+Do these ranges make sense scientifically, or am I introducing unnecessary biases into my sample?
+Would you change any of these limits if your goal was to find promising host stars for potentially habitable planets?
+Also, are there any important TIC parameters that I should be using but currently ignore?
+I'm using the TIC catalog through MAST:
+https://mast.stsci.edu/portal/Mashup/Clients/Mast/Portal.html
+Thank you for any advice!

@@ -1,0 +1,2 @@
+Scalar Induced Gravitational Waves in Different Gauges
+In this letter we calculate the scalar induced gravitational waves (SIGWs) accompanying the formation of primordial black hole during the radiation dominated era in three different gauges, i.e. synchronous gauge, Newton gauge and uniform curvature gauge, and we find that the energy density spectra of SIGWs, $\ogw(k)$, are identical in these three different gauges.

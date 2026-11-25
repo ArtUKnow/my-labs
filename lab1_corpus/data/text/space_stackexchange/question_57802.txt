@@ -1,0 +1,6 @@
+New spin on laundry day: How will ISS cope with washing machine vibration and angular momentum?
+Although the ISS currently has no laundry facilities, NASA’s Glenn Research Center sponsored a washing machine design contest to do the drudgery during spaceflight. Plans have been made for testing a prototype on the ISS. https://www.nasa.gov/feature/glenn/2021/nasa-glenn-interns-take-space-washing-machine-designs-for-a-spin
+Currently, laundry is de-orbited rather than being washed. On prolonged future missions, laundry day will become a necessity.
+Technical design details of the winning projects are hard to find. It’s difficult to imagine they could have much in common with domestic laundry machines with their high speed spin-cycle baskets and "Dancing Girdy" antics.
+One option is to "soak, then wring" rather than "slosh then spin".
+How is the angular momentum and vibration from orbiting washing machines minimized or managed? Is their vibration worse than that from ISS exercise machines? Are there ISS experiments which could not be conducted on “laundry day”?

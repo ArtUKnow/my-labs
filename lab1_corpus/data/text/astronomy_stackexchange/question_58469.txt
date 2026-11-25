@@ -1,0 +1,4 @@
+Velocity dispersion of stars in galaxies
+Velocity dispersion of stars in a galaxy could be useful for example in calculating the galaxy's mass, using the viral theorem.
+I am wondering how this velocity dispersion (standard deviation in velocities) is usually calculated. Are doppler shifts of individual stars being measured (and is it the case that usually the spectral lines of individual stars can be resolved)?
+If so, I imagine that each spectral line of a star would have some width. Would we take the doppler shift of each star to be the velocity corresponding to the center of the line? Or are the widths of individual stars taken into account?

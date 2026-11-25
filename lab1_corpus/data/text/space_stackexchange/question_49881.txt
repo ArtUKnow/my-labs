@@ -1,0 +1,6 @@
+Is it possible to throw a baseball so hard it circles the earth above your head?
+Assuming the earth had no atmosphere, and you could throw a baseball as fast as you wanted to, and you were standing on the surface of the earth, is it possible to throw the baseball so fast that it circles the earth and flies over your head above the height you threw it at?
+The thinking goes like this: you throw a baseball and it lands far away from you. Then you throw it harder and it lands half way around the world. Then you throw it harder and it lands at your feet from behind. Then you throw it harder and it passes your head, in orbit.
+But could you throw it even faster so that it passes you above your head?
+I think this is not possible, because if you threw it even harder, the orbit would just become elliptical and the ball would still arrive at your head height. Even if you angled it slightly up or down, it would still only arrive back to your at head height. Right?
+It's because baseballs are not rockets. They can't circularize their orbits once they have some altitude. Right?

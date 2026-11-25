@@ -1,0 +1,28 @@
+calculating Sun's J band mag via integrating the Planck’s law
+T=5772 # surface temperature of the sun
+r1=1 # unit: in solar radius
+r2=r1*(6.957e8) # unit: radius in meter
+k = 1.381e-23 # Boltzmann
+h = 6.626e-34 # Planck
+c = 3e8 # light speed
+d = 3.086e17 # 10pc, in meter, absolute magnitude
+def pk(t, l): # l: wavelength in meter
+x = (h*c)/(k*t*l)
+c1 = 8*(np.pi)*h*(c**2)/(l**5) #l: wavelength in meter
+p1 = c1 / (np.exp(x)-1) # j/s/m2/m
+p2=(1e-7)*p1 # erg/s/cm2/angstron
+return(p2)
+eff = np.genfromtxt('2MASS_2MASS.J.dat', comments='#') #[1]
+a1,b1=eff[:,0],eff[:,1] # lambda and its transmission; Suppose dat's lambda has a step of 1 Angstron
+bbf=[] #wavelength--> Planck
+for i in np.arange(a1[0],a1[-1]+1): #i in Angstron
+j=i*(1e-10) #j in meter
+bbf=bbf+[pk(T,j)] #j in meter
+f1,f2=sum([o*p*q for o,p,q in zip(bbf,a1,b1)]),sum([p*q for p,q in zip(a1,b1)])
+mag=-2.5*np.log10(f1/f2/r2*r2/d/d)-23.75 #A11 of [2]
+print("J mag:",mag)
+Sun's absolute Vega magnitude in the J band is about 3.67 mag.
+The code above presents a very deviate result. So where is the mistake?
+The sun should NOT have a large deviation in the J band.
+http://svo2.cab.inta-csic.es/theory/fps/getdata.php?format=ascii&id=2MASS/2MASS.J
+https://doi.org/10.1086/664083

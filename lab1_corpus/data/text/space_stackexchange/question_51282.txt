@@ -1,0 +1,11 @@
+What causes GAIA rotational axis to precess the way it does? How exactly is this accomplished?
+The GAIA spacecraft rotates at 1 degree per minute about its axis, scanning two telescopes looking 106.5 degrees apart but imaging on the same focal plane around a circle every 6 hours.
+The rotation axis is kept at 45 degrees with respect to the direction of the Sun, but it is said that it precesses around an axis pointed at the Sun once every 63 days (4 degrees per day).
+Note that GAIA is in a Lissajous orbit around Sun-Earth L2 with a period of 180 days, and of course L2 orbits the Sun every 365 days, so the direction that points towards the sun also moves; this so-called "precession" is not about an inertial axis! I'm totally confused by all of this.
+Figures 6 and 7 in The Gaia mission
+(also here) as well as all the math there give some insight into the motion, but not necessarily the reason. There is some discussion of the spacecraft in this paper as well.
+GAIA's astrometric performance is at the micro-arcsecond level
+I don't think this is done by nudging with thrusters, there must be some elegant and super-smooth (and probably passive) way that this was implemented.
+Question: What causes GAIA rotational axis to precess the way it does? How exactly is this accomplished in such a super-smooth way?
+Source
+https://youtu.be/OBQEIV7A5c8 video no longer available

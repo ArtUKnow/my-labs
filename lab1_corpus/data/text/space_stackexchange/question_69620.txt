@@ -1,0 +1,11 @@
+What Isp can be gotten from a napthalene (mothball) hot gas thruster? Did it work in space?
+@Woody's comment under How does one "mothball" a spacecraft, and then how does one "un-mothball" it later? points to an application where napthalene ($\require{mhchem}\ce{C_10H_{8}}$, the traditional ingredient of mothballs) was used as a solid source of gas for a "hot gas thruster".
+The comment links to Australian National University's December 9, 2021 Moth balls thrust satellites into space (also archived):
+Naphthalene is ideal because when it is heated it goes straight from solid to gas, with no liquid sloshing about in the thruster," he said.
+"It is cheap, non-corrosive and easily available.
+[...]The Bogong thruster, heated at about 70 degrees Celsius, turns solid naphthalene to a gas, which is then further heated during its exit from the thruster nozzle to provide the rocket propulsion.
+quoting "ANU PhD scholar Mr Dimitrios Tsifakis ". It's described as a viable alternative to ion thrusters for small spacecraft:
+The simple design uses more propellant than the plasma thruster but uses very little complicated electronics so that weight can be used to increase the propellant carried.
+The article goes on to quote others from the ANU Space Plasma, Power and Propulsion laboratory, and the Project leader Professor Rod Boswell, from Boswell Technologies.
+While it is written before launch, the thruster was developed and tested in an appropriate vacuum chamber, so the Isp should be known. So I'd like to ask:
+Question: What Isp can be gotten from a napthalene (mothball) thruster? Did it work in space?
