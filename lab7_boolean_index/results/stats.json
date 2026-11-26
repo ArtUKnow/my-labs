@@ -1,13 +1,13 @@
 {
   "mode": "stem",
-  "documents": 30000,
-  "tokens": 19758970,
-  "terms": 516672,
-  "postings": 8678048,
-  "blocks": 40,
+  "documents": 32494,
+  "tokens": 220150161,
+  "terms": 756875,
+  "postings": 33242437,
+  "blocks": 437,
   "block_limit": 500000,
-  "dictionary_bytes": 13750468,
-  "postings_bytes": 34712192,
-  "avg_postings_per_term": 16.796,
-  "time_seconds": 65.354
+  "dictionary_bytes": 17529403,
+  "postings_bytes": 132969748,
+  "avg_postings_per_term": 43.921,
+  "time_seconds": 467.523
 }

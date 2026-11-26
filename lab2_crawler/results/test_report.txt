@@ -21,37 +21,37 @@ test_real_config (__main__.TestYaml.test_real_config) ... ok
 test_sections_and_types (__main__.TestYaml.test_sections_and_types) ... ok
 
 ----------------------------------------------------------------------
-Ran 21 tests in 5.817s
+Ran 21 tests in 5.911s
 
 OK
-new http://127.0.0.1:62127/index.html 140
-new http://127.0.0.1:62127/a.html 86
-new http://127.0.0.1:62127/b.html 32
-new http://127.0.0.1:62127/c.html 56
+new http://127.0.0.1:65033/index.html 140
+new http://127.0.0.1:65033/a.html 86
+new http://127.0.0.1:65033/b.html 32
+new http://127.0.0.1:65033/c.html 56
 queue is empty
 processed: 4
 new: 4 updated: 0 unchanged: 0 errors: 0
 documents in db: 4
 left in queue: 0
-error http://127.0.0.1:62132/missing.html HTTP Error 404: File not found
+error http://127.0.0.1:65046/missing.html HTTP Error 404: File not found
 queue is empty
 processed: 1
 new: 0 updated: 0 unchanged: 0 errors: 1
 documents in db: 0
 left in queue: 0
-new http://127.0.0.1:62134/index.html 140
-new http://127.0.0.1:62134/a.html 86
-new http://127.0.0.1:62134/b.html 32
-new http://127.0.0.1:62134/c.html 56
+new http://127.0.0.1:65053/index.html 140
+new http://127.0.0.1:65053/a.html 86
+new http://127.0.0.1:65053/b.html 32
+new http://127.0.0.1:65053/c.html 56
 queue is empty
 processed: 4
 new: 4 updated: 0 unchanged: 0 errors: 0
 documents in db: 4
 left in queue: 0
-new http://127.0.0.1:62139/index.html 140
-new http://127.0.0.1:62139/a.html 86
-new http://127.0.0.1:62139/b.html 32
-new http://127.0.0.1:62139/c.html 56
+new http://127.0.0.1:65059/index.html 140
+new http://127.0.0.1:65059/a.html 86
+new http://127.0.0.1:65059/b.html 32
+new http://127.0.0.1:65059/c.html 56
 queue is empty
 processed: 4
 new: 4 updated: 0 unchanged: 0 errors: 0
@@ -62,43 +62,43 @@ processed: 0
 new: 0 updated: 0 unchanged: 0 errors: 0
 documents in db: 4
 left in queue: 0
-new http://127.0.0.1:62144/index.html 140
-new http://127.0.0.1:62144/a.html 86
-new http://127.0.0.1:62144/b.html 32
-new http://127.0.0.1:62144/c.html 56
+new http://127.0.0.1:65064/index.html 140
+new http://127.0.0.1:65064/a.html 86
+new http://127.0.0.1:65064/b.html 32
+new http://127.0.0.1:65064/c.html 56
 queue is empty
 processed: 4
 new: 4 updated: 0 unchanged: 0 errors: 0
 documents in db: 4
 left in queue: 0
-unchanged http://127.0.0.1:62144/a.html
-updated http://127.0.0.1:62144/b.html 40
-unchanged http://127.0.0.1:62144/c.html
-unchanged http://127.0.0.1:62144/index.html
+unchanged http://127.0.0.1:65064/a.html
+updated http://127.0.0.1:65064/b.html 40
+unchanged http://127.0.0.1:65064/c.html
+unchanged http://127.0.0.1:65064/index.html
 queue is empty
 processed: 4
 new: 0 updated: 1 unchanged: 3 errors: 0
 documents in db: 4
 left in queue: 0
-new http://127.0.0.1:62187/index.html 140
-new http://127.0.0.1:62187/a.html 86
+new http://127.0.0.1:65093/index.html 140
+new http://127.0.0.1:65093/a.html 86
 processed: 2
 new: 2 updated: 0 unchanged: 0 errors: 0
 documents in db: 2
 left in queue: 2
-new http://127.0.0.1:62187/b.html 32
-new http://127.0.0.1:62187/c.html 56
+new http://127.0.0.1:65093/b.html 32
+new http://127.0.0.1:65093/c.html 56
 queue is empty
 processed: 2
 new: 2 updated: 0 unchanged: 0 errors: 0
 documents in db: 4
 left in queue: 0
-error http://127.0.0.1:62192/index.html HTTP Error 503: Service Unavailable
+error http://127.0.0.1:65098/index.html HTTP Error 503: Service Unavailable
 processed: 1
 new: 0 updated: 0 unchanged: 0 errors: 1
 documents in db: 0
 left in queue: 1
-new http://127.0.0.1:62192/index.html 140
+new http://127.0.0.1:65098/index.html 140
 processed: 1
 new: 1 updated: 0 unchanged: 0 errors: 0
 documents in db: 1

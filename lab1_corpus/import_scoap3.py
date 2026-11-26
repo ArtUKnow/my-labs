@@ -276,6 +276,7 @@ def collect(candidates, output_dir, manifest_path, target=50000, min_words=3000,
                 record = {"file": filename, **row, "words": words, "source_format": source_format,
                           "source_bytes": source_bytes,
                           "sha256": hashlib.sha256(content.encode()).hexdigest()}
+                record["title"] = " ".join(record["title"].split())
                 writer.writerow({field: record.get(field, "") for field in FIELDS})
                 manifest.flush()
                 completed[row["record_id"]] = record

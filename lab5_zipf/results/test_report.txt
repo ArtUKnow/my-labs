@@ -12,6 +12,6 @@ test_scale (__main__.TestSvg.test_scale) ... ok
 test_svg_generated (__main__.TestSvg.test_svg_generated) ... ok
 
 ----------------------------------------------------------------------
-Ran 12 tests in 0.015s
+Ran 12 tests in 0.014s
 
 OK

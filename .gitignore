@@ -4,3 +4,6 @@ __pycache__/
 .DS_Store
 lab1_corpus/data/tokens/*/*.txt
 lab1_corpus/data/tokens/scoap3/
+lab1_corpus/data/index/postings.bin
+lab1_corpus/data/index/blocks/
+lab1_corpus/data/sample_text/

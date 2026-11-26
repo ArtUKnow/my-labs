@@ -33,6 +33,7 @@ run_all.sh               запуск всех автотестов (или пе
 доступ к сети.
 
 ```
+gzip -dk lab1_corpus/data/index/postings.bin.gz  # распаковать готовый индекс после клонирования
 ./run_all.sh            # прогон тестовых планов всех лаб, отчёты в labXX/results/test_report.txt
 ./run_all.sh build      # пересчитать все результаты по корпусу
 ```
