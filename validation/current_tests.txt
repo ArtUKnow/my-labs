@@ -1,0 +1,27 @@
+native text tests: passed
+built 4 documents, 9 terms, 13 postings in 0.001 seconds
+built 4 documents, 9 terms, 13 postings in 0.001 seconds
+built 4 documents, 9 terms, 13 postings in 0.001 seconds
+native index tests: OK (0 failures)
+metrics fixtures: OK
+rank corpus_documents=4 total_tokens=10 query_terms=5
+rank corpus_documents=4 total_tokens=10 query_terms=4
+rank corpus_documents=8 total_tokens=8 query_terms=1
+rank corpus_documents=2 total_tokens=6 query_terms=2
+native rank tests: passed
+corpus field tests: OK
+native crawler HTTP200/304/changed, SQLite, gzip, SHA256: OK
+native HTTP helpers: OK (0 failures)
+native selftests: OK (0 failures)
+downloaded	http://127.0.0.1:62449/article.xml
+processed: 1
+errors: 0
+pending: 0
+unchanged	http://127.0.0.1:62449/article.xml
+processed: 1
+errors: 0
+pending: 0
+updated	http://127.0.0.1:62449/article.xml
+processed: 1
+errors: 0
+pending: 0

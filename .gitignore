@@ -2,20 +2,25 @@ __pycache__/
 *.py[cod]
 *.db
 .DS_Store
-lab1_corpus/data/tokens/*/*.txt
-lab1_corpus/data/tokens/scoap3/
-lab1_corpus/data/index/postings.bin
-lab1_corpus/data/index/blocks/
-lab1_corpus/data/sample_text/
+lab01_corpus/data/tokens/*/*.txt
+lab01_corpus/data/tokens/scoap3/
+lab01_corpus/data/index/postings.bin
+lab01_corpus/data/index/blocks/
+lab01_corpus/data/sample_text/
 
 build/
 *.sqlite
 *.sqlite-wal
 *.sqlite-shm
-lab1_corpus/data/archive_duplicates/
-lab1_corpus/data/native_documents.tsv
-lab1_corpus/data/native_index/
-lab1_corpus/data/native_index_raw/
-lab1_corpus/data/native_index_lemma/
+lab01_corpus/data/archive_duplicates/
+lab01_corpus/data/native_documents.tsv
+lab01_corpus/data/native_index/
+lab01_corpus/data/native_index_raw/
+lab01_corpus/data/native_index_lemma/
 
 *.sqlite.lock
+
+lab01_corpus/data/native_build_*/
+
+lab02_crawler/data/raw_parts/
+*.sqlite.tmp

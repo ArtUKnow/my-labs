@@ -1,0 +1,1 @@
+HTTP search: 200; exactly 50 results; malformed query: 400; paths prepared for 32491 documents.
