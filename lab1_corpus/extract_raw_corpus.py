@@ -1,10 +1,4 @@
-"""Extract/verify the active corpus against the robot's exact raw SQLite bodies.
 
-Default is check-only. --apply updates changed extracted documents and manifest
-hash/word/byte fields, so a subsequent native build sees recrawled content.
-Missing raw rows or articles that no longer meet the corpus contract are errors,
-never silently replaced with historical clean text.
-"""
 import argparse
 import csv
 import gzip

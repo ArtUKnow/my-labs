@@ -19,13 +19,8 @@ case "${1:-tests}" in
   reports)
     PYTHONPATH="../pdfdeps${PYTHONPATH:+:$PYTHONPATH}" python3 scripts/generate_reports.py
     ;;
-  legacy-tests)
-    for lab in lab1_corpus lab2_crawler lab3_tokenizer lab4_stemmer lab5_zipf lab6_search_quality lab7_boolean_index lab8_boolean_search; do
-      python3 "$lab/test_${lab%%_*}.py"
-    done
-    ;;
   *)
-    echo "usage: $0 [tests|build|crawl|reports|legacy-tests]" >&2
+    echo "usage: $0 [tests|build|crawl|reports]" >&2
     exit 2
     ;;
 esac

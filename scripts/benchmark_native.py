@@ -1,4 +1,4 @@
-"""Measure actual C++ query execution; startup measured separately."""
+
 import argparse
 import json
 from pathlib import Path

@@ -1,4 +1,4 @@
-"""Fill missing original SCOAP3 XML/PDF byte sizes via HTTP HEAD requests."""
+
 
 import argparse
 import csv

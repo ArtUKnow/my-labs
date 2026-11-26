@@ -1,4 +1,4 @@
-"""Compatibility command delegating all retrieval to C++."""
+
 import argparse
 import os
 from pathlib import Path

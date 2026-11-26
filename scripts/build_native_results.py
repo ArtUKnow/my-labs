@@ -1,4 +1,4 @@
-"""Reproduce the native lab artifacts; Python orchestrates C++ commands only."""
+
 from concurrent.futures import ThreadPoolExecutor
 import json
 from pathlib import Path

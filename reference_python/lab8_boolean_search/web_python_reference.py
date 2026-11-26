@@ -1,4 +1,4 @@
-"""Small UTF-8 web search service over the 30,000-document Boolean index."""
+
 
 import argparse
 import html

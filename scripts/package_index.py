@@ -1,4 +1,4 @@
-"""Portable gzip archive of the final binary C++ index, with safe extraction."""
+
 import argparse
 import hashlib
 import json
@@ -30,4 +30,12 @@ def extract(archive,index):
     print('Restored',json.loads((index/'stats.json').read_text())['documents'],'documents')
 
 if __name__=='__main__':
-    p=argparse.ArgumentParser();p.add_argument('--extract',action='store_true');p.add_argument('--index-dir',type=Path,default=ROOT/'lab1_corpus/data/native_index');p.add_argument('--archive',type=Path,default=ROOT/'lab7_boolean_index/results/native_index.tar.gz');a=p.parse_args();(extract if a.extract else package)(a.archive,a.index_dir) if a.extract else package(a.index_dir,a.archive)
+    parser=argparse.ArgumentParser()
+    parser.add_argument('--extract',action='store_true')
+    parser.add_argument('--index-dir',type=Path,default=ROOT/'lab1_corpus/data/native_index')
+    parser.add_argument('--archive',type=Path,default=ROOT/'lab7_boolean_index/results/native_index.tar.gz')
+    args=parser.parse_args()
+    if args.extract:
+        extract(args.archive,args.index_dir)
+    else:
+        package(args.index_dir,args.archive)

@@ -1,10 +1,4 @@
-"""Persistent raw-source crawler for the primary SCOAP3 journal corpus.
 
-SQLite stores exact HTTP response bodies compressed losslessly with gzip,
-original MIME, normalized source URL, source journal, UTC Unix fetch/check
-instants, content SHA256, ETag and Last-Modified. A durable retry queue makes
-interruptions resumable. Historical download times are never invented.
-"""
 import csv
 import gzip
 import hashlib
@@ -38,20 +32,8 @@ class RawStore:
         Path(path).parent.mkdir(parents=True,exist_ok=True)
         self.connection=sqlite3.connect(path)
         self.connection.row_factory=sqlite3.Row
-        self.connection.executescript('''
-          PRAGMA journal_mode=WAL;
-          CREATE TABLE IF NOT EXISTS raw_documents(
-            url TEXT PRIMARY KEY, record_id TEXT NOT NULL, record_url TEXT NOT NULL,
-            source TEXT NOT NULL, source_format TEXT NOT NULL, content_type TEXT NOT NULL,
-            raw_gzip BLOB NOT NULL, raw_bytes INTEGER NOT NULL, sha256 TEXT NOT NULL,
-            crawled_at INTEGER NOT NULL, checked_at INTEGER NOT NULL,
-            etag TEXT, last_modified TEXT);
-          CREATE TABLE IF NOT EXISTS raw_queue(
-            url TEXT PRIMARY KEY, payload TEXT NOT NULL, state TEXT NOT NULL DEFAULT 'pending',
-            attempts INTEGER NOT NULL DEFAULT 0, next_attempt INTEGER NOT NULL DEFAULT 0,
-            last_error TEXT, planned_at INTEGER NOT NULL);
-          CREATE INDEX IF NOT EXISTS raw_queue_ready ON raw_queue(state,next_attempt);
-        ''')
+        schema_path=Path(__file__).resolve().parent/'sql'/'schema.sql'
+        self.connection.executescript(schema_path.read_text(encoding='utf-8'))
         self.connection.execute("UPDATE raw_queue SET state='pending' WHERE state='inflight'")
         self.connection.commit()
 
@@ -67,7 +49,8 @@ class RawStore:
         return self.connection.execute('SELECT * FROM raw_documents WHERE url=?',(url,)).fetchone()
 
     def ready(self,limit):
-        return self.connection.execute("SELECT * FROM raw_queue WHERE state='pending' AND next_attempt<=? ORDER BY planned_at,url LIMIT ?",(int(time.time()),limit)).fetchall()
+        order='DESC' if getattr(self, 'reverse_queue', False) else 'ASC'
+        return self.connection.execute("SELECT * FROM raw_queue WHERE state='pending' AND next_attempt<=? ORDER BY planned_at,url "+order+" LIMIT ?",(int(time.time()),limit)).fetchall()
 
     def mark_inflight(self,url):
         self.connection.execute("UPDATE raw_queue SET state='inflight' WHERE url=?",(url,));self.connection.commit()
@@ -153,6 +136,7 @@ def crawl(config,config_path,fetcher=None):
     db_path=Path(config['db']['path']);db_path=db_path if db_path.is_absolute() else base/db_path
     manifest=Path(config['corpus']['manifest']);manifest=manifest if manifest.is_absolute() else base/manifest
     options=config['logic'];store=RawStore(db_path)
+    store.reverse_queue=bool(options.get('reverse_queue',False))
     sources=load_sources(manifest,bool(config['corpus'].get('samples_only',False)),bool(config['corpus'].get('include_landing',False)),bool(config['corpus'].get('landing_only',False)))
     store.plan(sources,int(options.get('recrawl_after',86400)))
     downloader=fetcher or Fetcher(float(options.get('delay',1)),int(options.get('timeout',30)),int(options.get('max_source_bytes',64*1024*1024)))
@@ -206,7 +190,7 @@ def export_samples(db_path,directory):
 
 
 def merge_completed_stores(destination, landing_database):
-    """Merge only quiescent completed queues. Resource URLs remain distinct."""
+
     connection=sqlite3.connect(destination)
     try:
         pending=connection.execute("SELECT COUNT(*) FROM raw_queue WHERE state!='done'").fetchone()[0]
@@ -224,7 +208,7 @@ def merge_completed_stores(destination, landing_database):
 
 
 def database_summary(database,manifest,verify_bodies=False):
-    """Count articles separately from resources; never infer completion from size."""
+
     connection=sqlite3.connect('file:'+str(Path(database).resolve())+'?mode=ro',uri=True)
     connection.row_factory=sqlite3.Row
     expected=load_sources(manifest,include_landing=True)

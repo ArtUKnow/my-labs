@@ -47,7 +47,7 @@ printf 'has\nдети\n' | ./build/ir lemma
 ./build/ir metrics lab6_search_quality/results/qrels.tsv lab6_search_quality/results/stem_run.tsv 5
 ```
 
-`native_documents.tsv` содержит локальные абсолютные пути и создаётся `python3 scripts/prepare_corpus.py --apply`. Переносимая таблица относительных путей — `lab1_corpus/data/provenance/documents.tsv`. Дубликаты по тексту и DOI выведены из активного корпуса; журнал очистки — `corpus_cleanup.json`. Исторические дополнительные коллекции и Python-версия не входят в нативные результаты.
+`native_documents.tsv` содержит локальные абсолютные пути и создаётся `python3 scripts/prepare_corpus.py --apply`. Переносимая таблица относительных путей — `lab1_corpus/data/provenance/documents.tsv`. Дубликаты по тексту и DOI выведены из активного корпуса; журнал очистки — `corpus_cleanup.json`. Исторические дополнительные коллекции и Python-версия в `reference_python/` не входят в нативные результаты.
 
 ## Индекс и нормализация
 

@@ -1,4 +1,4 @@
-"""Collect real astronomy paper titles and abstracts from arXiv OAI-PMH."""
+
 
 import argparse
 import csv

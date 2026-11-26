@@ -1,4 +1,4 @@
-"""Prepare queries and run the C++ retrieval/metrics programs; no Python ranking."""
+
 import argparse
 import csv
 import hashlib

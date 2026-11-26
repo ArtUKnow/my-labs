@@ -1,8 +1,4 @@
-"""Import real article text from Wikimedia's current-revision XML dumps.
 
-The input may be the first 128 MiB of a multistream .bz2 dump. Parsing stops
-as soon as the requested number of valid articles has been collected.
-"""
 
 import argparse
 import bz2

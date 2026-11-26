@@ -1,4 +1,4 @@
-"""Collect complete question texts from Space Exploration or Astronomy Stack Exchange."""
+
 
 import argparse
 import csv

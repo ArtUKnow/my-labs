@@ -4,10 +4,103 @@
 #include <string.h>
 
 namespace {
-struct Collected {char* tokens[64];size_t count;Collected():count(0){memset(tokens,0,sizeof(tokens));}~Collected(){for(size_t i=0;i<count;i++)free(tokens[i]);}};
-void collect(const char* text,size_t n,void* context){Collected* c=(Collected*)context;if(c->count>=64){fprintf(stderr,"too many test tokens\n");abort();}c->tokens[c->count]=(char*)malloc(n+1);memcpy(c->tokens[c->count],text,n);c->tokens[c->count][n]=0;c->count++;}
-int check_tokens(const char* input,const char* const* expected,size_t n){Collected c;ir_tokenize(input,strlen(input),collect,&c);if(c.count!=n){fprintf(stderr,"token count for %s: %zu instead of %zu\n",input,c.count,n);return 1;}for(size_t i=0;i<n;i++)if(strcmp(c.tokens[i],expected[i])){fprintf(stderr,"token mismatch %zu: %s instead of %s\n",i,c.tokens[i],expected[i]);return 1;}return 0;}
-int check_stem(const char* input,const char* expected){char buffer[256];strcpy(buffer,input);ir_stem(buffer);if(strcmp(buffer,expected)){fprintf(stderr,"stem %s: %s instead of %s\n",input,buffer,expected);return 1;}return 0;}
-int check_lemma(const char* input,const char* expected){char buffer[256];strcpy(buffer,input);ir_lemma(buffer);if(strcmp(buffer,expected)){fprintf(stderr,"lemma %s: %s instead of %s\n",input,buffer,expected);return 1;}return 0;}
+struct Collected {
+  char *tokens[64];
+  size_t count;
+  Collected() : count(0) { memset(tokens, 0, sizeof(tokens)); }
+  ~Collected() {
+    for (size_t i = 0; i < count; i++)
+      free(tokens[i]);
+  }
+};
+void collect(const char *text, size_t n, void *context) {
+  Collected *c = (Collected *)context;
+  if (c->count >= 64) {
+    fprintf(stderr, "too many test tokens\n");
+    abort();
+  }
+  c->tokens[c->count] = (char *)malloc(n + 1);
+  memcpy(c->tokens[c->count], text, n);
+  c->tokens[c->count][n] = 0;
+  c->count++;
 }
-int ir_text_tests(){int failed=0;const char* first[]={"dark","matter","союз-2","o’neill","3.14","1,25","x","y","αβ","ёж"};failed+=check_tokens("Dark matter! СОЮЗ-2 O’Neill 3.14 1,25 x.y ΑΒ ЁЖ",first,10);const char* second[]={"one","two","quoted","foo-bar","a'b","42","m²"};failed+=check_tokens("one--two 'quoted' foo-bar a'b 42 m²",second,7);failed+=check_tokens("",NULL,0);const char* unicode[]={"中文","١٢٣٫٤","e"};const char* unicode_expected[]={"中文","١٢٣","٤","e"};(void)unicode;failed+=check_tokens("中文 ١٢٣٫٤ e\xcc\x81",unicode_expected,4);const char invalid[]={'a',(char)0xff,'b',0};const char* invalid_expected[]={"a","b"};failed+=check_tokens(invalid,invalid_expected,2);failed+=check_stem("РАКЕТЫ","ракет");failed+=check_stem("спутников","спутник");failed+=check_stem("particles","particle");failed+=check_stem("running","runn");failed+=check_stem("studies","studi");failed+=check_stem("field","field");failed+=check_stem("ЁЛКИ","елк");failed+=check_lemma("went","go");failed+=check_lemma("children","child");failed+=check_lemma("studies","study");failed+=check_lemma("running","run");failed+=check_lemma("particles","particle");failed+=check_lemma("physics","physics");char expanded[64];if(!ir_lemma_copy("has",expanded,sizeof(expanded))||strcmp(expanded,"have"))failed++;if(!ir_lemma_copy("ДЕТИ",expanded,sizeof(expanded))||strcmp(expanded,"ребенок"))failed++;char small[4]={'x','x','x',0};if(ir_lemma_copy("has",small,sizeof(small))||strcmp(small,"xxx"))failed++;if(!failed)fprintf(stderr,"native text tests: passed\n");return failed?1:0;}
+int check_tokens(const char *input, const char *const *expected, size_t n) {
+  Collected c;
+  ir_tokenize(input, strlen(input), collect, &c);
+  if (c.count != n) {
+    fprintf(stderr, "token count for %s: %zu instead of %zu\n", input, c.count,
+            n);
+    return 1;
+  }
+  for (size_t i = 0; i < n; i++)
+    if (strcmp(c.tokens[i], expected[i])) {
+      fprintf(stderr, "token mismatch %zu: %s instead of %s\n", i, c.tokens[i],
+              expected[i]);
+      return 1;
+    }
+  return 0;
+}
+int check_stem(const char *input, const char *expected) {
+  char buffer[256];
+  strcpy(buffer, input);
+  ir_stem(buffer);
+  if (strcmp(buffer, expected)) {
+    fprintf(stderr, "stem %s: %s instead of %s\n", input, buffer, expected);
+    return 1;
+  }
+  return 0;
+}
+int check_lemma(const char *input, const char *expected) {
+  char buffer[256];
+  strcpy(buffer, input);
+  ir_lemma(buffer);
+  if (strcmp(buffer, expected)) {
+    fprintf(stderr, "lemma %s: %s instead of %s\n", input, buffer, expected);
+    return 1;
+  }
+  return 0;
+}
+} // namespace
+int ir_text_tests() {
+  int failed = 0;
+  const char *first[] = {"dark", "matter", "союз-2", "o’neill", "3.14",
+                         "1,25", "x",      "y",      "αβ",      "ёж"};
+  failed += check_tokens("Dark matter! СОЮЗ-2 O’Neill 3.14 1,25 x.y ΑΒ ЁЖ",
+                         first, 10);
+  const char *second[] = {"one", "two", "quoted", "foo-bar", "a'b", "42", "m²"};
+  failed += check_tokens("one--two 'quoted' foo-bar a'b 42 m²", second, 7);
+  failed += check_tokens("", NULL, 0);
+  const char *unicode[] = {"中文", "١٢٣٫٤", "e"};
+  const char *unicode_expected[] = {"中文", "١٢٣", "٤", "e"};
+  (void)unicode;
+  failed += check_tokens("中文 ١٢٣٫٤ e\xcc\x81", unicode_expected, 4);
+  const char invalid[] = {'a', (char)0xff, 'b', 0};
+  const char *invalid_expected[] = {"a", "b"};
+  failed += check_tokens(invalid, invalid_expected, 2);
+  failed += check_stem("РАКЕТЫ", "ракет");
+  failed += check_stem("спутников", "спутник");
+  failed += check_stem("particles", "particle");
+  failed += check_stem("running", "runn");
+  failed += check_stem("studies", "studi");
+  failed += check_stem("field", "field");
+  failed += check_stem("ЁЛКИ", "елк");
+  failed += check_lemma("went", "go");
+  failed += check_lemma("children", "child");
+  failed += check_lemma("studies", "study");
+  failed += check_lemma("running", "run");
+  failed += check_lemma("particles", "particle");
+  failed += check_lemma("physics", "physics");
+  char expanded[64];
+  if (!ir_lemma_copy("has", expanded, sizeof(expanded)) ||
+      strcmp(expanded, "have"))
+    failed++;
+  if (!ir_lemma_copy("ДЕТИ", expanded, sizeof(expanded)) ||
+      strcmp(expanded, "ребенок"))
+    failed++;
+  char small[4] = {'x', 'x', 'x', 0};
+  if (ir_lemma_copy("has", small, sizeof(small)) || strcmp(small, "xxx"))
+    failed++;
+  if (!failed)
+    fprintf(stderr, "native text tests: passed\n");
+  return failed ? 1 : 0;
+}

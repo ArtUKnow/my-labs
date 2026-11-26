@@ -1,4 +1,4 @@
-"""Integration checks using the compiled executable and real local HTTP requests."""
+
 import gzip
 import importlib.util
 import json

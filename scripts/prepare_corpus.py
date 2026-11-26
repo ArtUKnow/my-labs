@@ -1,9 +1,4 @@
-"""Validate the primary corpus and emit a stable portable/native document table.
 
-Deduplication is opt-in and reversible: source texts and original rows are
-archived, never deleted. A journal is a named source, independently of the
-SCOAP3 delivery repository. DOI repairs require matching DOI in fetched XML.
-"""
 import argparse
 import csv
 import gzip

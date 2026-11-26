@@ -18,7 +18,7 @@ struct RunItem {
 struct Scores {
   double precision, recall, ap, dcg, ndcg, err;
 };
-static void *checked_realloc(void *p, size_t n) {
+static void *resize_memory(void *p, size_t n) {
   void *q = realloc(p, n);
   if (!q) {
     fprintf(stderr, "out of memory\n");
@@ -28,7 +28,7 @@ static void *checked_realloc(void *p, size_t n) {
 }
 static char *copy_text(const char *s) {
   size_t n = strlen(s) + 1;
-  char *p = (char *)checked_realloc(NULL, n);
+  char *p = (char *)resize_memory(NULL, n);
   memcpy(p, s, n);
   return p;
 }
@@ -40,7 +40,7 @@ template <class T> struct Buffer {
   void add(T item) {
     if (size == capacity) {
       capacity = capacity ? capacity * 2 : 16;
-      data = (T *)checked_realloc(data, capacity * sizeof(T));
+      data = (T *)resize_memory(data, capacity * sizeof(T));
     }
     data[size++] = item;
   }
@@ -130,39 +130,12 @@ static void quoted(const char *s) {
   }
   putchar('"');
 }
-int ir_metrics_main(int argc, char **argv) {
-  if (argc < 3 || argc > 4) {
-    fprintf(stderr, "usage: ir metrics QRELS_TSV RUN_TSV [k]\n");
-    return 2;
-  }
-  int k = 5;
-  if (argc == 4) {
-    char *end = NULL;
-    errno = 0;
-    long value = strtol(argv[3], &end, 10);
-    if (errno || end == argv[3] || *end || value <= 0 || value > INT_MAX) {
-      fprintf(stderr, "k must be a positive integer\n");
-      return 2;
-    }
-    k = (int)value;
-  }
-  FILE *qfile = fopen(argv[1], "r");
-  FILE *rfile = fopen(argv[2], "r");
-  if (!qfile || !rfile) {
-    perror("metrics input");
-    if (qfile)
-      fclose(qfile);
-    if (rfile)
-      fclose(rfile);
-    return 1;
-  }
-  Buffer<Judgment> rows;
-  Buffer<RunItem> run;
-  Buffer<char *> queries;
+static int read_judgments(FILE *file, Buffer<Judgment> &rows,
+                          Buffer<char *> &queries) {
   char *line = NULL;
   size_t capacity = 0;
   int error = 0;
-  while (getline(&line, &capacity, qfile) >= 0) {
+  while (getline(&line, &capacity, file) >= 0) {
     if (!line[0] || line[0] == '\n')
       continue;
     char *a, *b, *c, *end;
@@ -191,7 +164,16 @@ int ir_metrics_main(int argc, char **argv) {
     if (!exists)
       queries.add(copy_text(a));
   }
-  while (!error && getline(&line, &capacity, rfile) >= 0) {
+  free(line);
+  return error;
+}
+
+static int read_results(FILE *file, Buffer<RunItem> &run,
+                        Buffer<char *> &queries) {
+  char *line = NULL;
+  size_t capacity = 0;
+  int error = 0;
+  while (getline(&line, &capacity, file) >= 0) {
     if (!line[0] || line[0] == '\n')
       continue;
     char *a, *b, *c, *end;
@@ -221,9 +203,45 @@ int ir_metrics_main(int argc, char **argv) {
       break;
     run.add({copy_text(a), copy_text(b), (int)rank});
   }
+  free(line);
+  return error;
+}
+
+int ir_metrics_main(int argc, char **argv) {
+  if (argc < 3 || argc > 4) {
+    fprintf(stderr, "usage: ir metrics QRELS_TSV RUN_TSV [k]\n");
+    return 2;
+  }
+  int k = 5;
+  if (argc == 4) {
+    char *end = NULL;
+    errno = 0;
+    long value = strtol(argv[3], &end, 10);
+    if (errno || end == argv[3] || *end || value <= 0 || value > INT_MAX) {
+      fprintf(stderr, "k must be a positive integer\n");
+      return 2;
+    }
+    k = (int)value;
+  }
+  FILE *qfile = fopen(argv[1], "r");
+  FILE *rfile = fopen(argv[2], "r");
+  if (!qfile || !rfile) {
+    perror("metrics input");
+    if (qfile)
+      fclose(qfile);
+    if (rfile)
+      fclose(rfile);
+    return 1;
+  }
+  Buffer<Judgment> rows;
+  Buffer<RunItem> run;
+  Buffer<char *> queries;
+  int error = 0;
+  error = read_judgments(qfile, rows, queries);
+  if (!error)
+    error = read_results(rfile, run, queries);
   fclose(qfile);
   fclose(rfile);
-  free(line);
   if (error || !queries.size) {
     fprintf(stderr, "invalid/empty qrels or run: need unique query/doc "
                     "judgments and unique positive ranks\n");

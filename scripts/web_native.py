@@ -1,4 +1,4 @@
-"""HTTP presentation only. Query parsing and retrieval run in compiled C++."""
+
 import argparse
 import html
 import json

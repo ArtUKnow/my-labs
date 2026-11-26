@@ -1,9 +1,4 @@
-"""Build a reproducible full-text high-energy-physics corpus from SCOAP3.
 
-Only CC BY journal articles with an actual XML/PDF body and at least 3000 words of
-prose are accepted. Metadata and full-text URLs come from the SCOAP3 API.
-The two stages are resumable: first discover metadata, then fetch full texts.
-"""
 
 import argparse
 import csv
@@ -111,7 +106,7 @@ def discover(path, workers=8):
         first = api_page(journal, 1)
         pages = math.ceil(first["count"] / 10)
         seen_pages = {row["page"] for row in found.values() if row.get("query_journal") == journal}
-        # Finished page numbers have a separate ledger because some pages have no usable XML.
+
         ledger = path.with_suffix(".pages")
         if ledger.exists():
             with ledger.open(encoding="utf-8") as file:
@@ -154,7 +149,7 @@ def extract_body(xml_bytes):
                       lambda match: html.unescape(match.group(0)) if html.unescape(match.group(0)) != match.group(0) else " ",
                       xml_text)
     xml_bytes = xml_text.encode("utf-8")
-    # Some harvested XML omits namespace declarations used by body markup.
+
     used = set(re.findall(rb"</?([A-Za-z][\w.-]*):", xml_bytes))
     used.update(re.findall(rb"\s([A-Za-z][\w.-]*):[\w.-]+=", xml_bytes))
     declared = set(re.findall(rb"xmlns:([A-Za-z][\w.-]*)=", xml_bytes))

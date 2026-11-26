@@ -1,4 +1,4 @@
-"""Measure Boolean search over the full index after a warm-up query."""
+
 
 from collections import Counter
 import json

@@ -1,4 +1,4 @@
-"""Read one Boolean query per UTF-8 input line and print matching documents."""
+
 
 import argparse
 import json

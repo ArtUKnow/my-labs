@@ -1,8 +1,4 @@
-"""Exact batch retrieval over every primary document, with bounded index memory.
 
-Only query postings are retained; term frequencies, normalization and ranking
-are identical to SimpleSearch. All documents compete for every query.
-"""
 import csv
 import gzip
 import hashlib
@@ -27,7 +23,7 @@ def manifest_rows():
 
 
 def prepare_queries(rows, per_journal=4):
-    """DOI-backed known-item labels; these are not human topical judgments."""
+
     groups = defaultdict(list)
     for row in rows:
         title = html.unescape(re.sub(r'<[^>]+>', '', row['title']))

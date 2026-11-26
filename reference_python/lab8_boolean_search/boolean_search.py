@@ -1,4 +1,4 @@
-"""Boolean query parser and sorted-posting evaluation for the lab 7 index."""
+
 
 import os
 import sys

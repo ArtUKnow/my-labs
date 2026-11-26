@@ -1,4 +1,4 @@
-"""Historical Wikipedia baseline; excluded from the primary SCOAP3 evaluation."""
+
 import os
 import sys
 import json
