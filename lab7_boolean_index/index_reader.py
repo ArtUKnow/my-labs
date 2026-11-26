@@ -36,18 +36,21 @@ class BooleanIndex:
         self.dictionary = {}
         self.doc_names = []
         self.mode = "raw"
-        for line in open(os.path.join(index_dir, "dictionary.txt"), encoding="utf-8"):
-            term, df, offset, length = line.rstrip("\n").split("\t")
-            self.dictionary[term] = (int(df), int(offset), int(length))
-        for line in open(os.path.join(index_dir, "docs.txt"), encoding="utf-8"):
-            doc_id, name = line.rstrip("\n").split("\t")
-            self.doc_names.append(name)
+        with open(os.path.join(index_dir, "dictionary.txt"), encoding="utf-8") as dictionary:
+            for line in dictionary:
+                term, df, offset, length = line.rstrip("\n").split("\t")
+                self.dictionary[term] = (int(df), int(offset), int(length))
+        with open(os.path.join(index_dir, "docs.txt"), encoding="utf-8") as docs:
+            for line in docs:
+                doc_id, name = line.rstrip("\n").split("\t")
+                self.doc_names.append(name)
         meta_path = os.path.join(index_dir, "meta.txt")
         if os.path.exists(meta_path):
-            for line in open(meta_path, encoding="utf-8"):
-                key, value = line.rstrip("\n").split("\t")
-                if key == "mode":
-                    self.mode = value
+            with open(meta_path, encoding="utf-8") as meta:
+                for line in meta:
+                    key, value = line.rstrip("\n").split("\t")
+                    if key == "mode":
+                        self.mode = value
         self.postings_file = open(os.path.join(index_dir, "postings.bin"), "rb")
 
     def normalize(self, token):

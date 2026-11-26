@@ -3,7 +3,7 @@ cd "$(dirname "$0")"
 
 MODE=${1:-tests}
 
-LABS="lab1_corpus lab2_crawler lab3_tokenizer lab4_stemmer lab5_zipf lab6_search_quality lab7_boolean_index"
+LABS="lab1_corpus lab2_crawler lab3_tokenizer lab4_stemmer lab5_zipf lab6_search_quality lab7_boolean_index lab8_boolean_search"
 
 if [ "$MODE" = "build" ]; then
   set -e
@@ -21,6 +21,8 @@ if [ "$MODE" = "build" ]; then
   python3 lab6_search_quality/evaluate.py
   echo "=== lab7: build index"
   python3 lab7_boolean_index/build_index.py lab1_corpus/data/text lab1_corpus/data/index stem 500000
+  echo "=== lab8: benchmark Boolean search"
+  python3 lab8_boolean_search/benchmark.py
   exit 0
 fi
 

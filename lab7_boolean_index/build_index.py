@@ -120,7 +120,8 @@ def build_index(text_dir, index_dir, mode="stem", block_limit=200000):
     for doc_id in range(len(documents)):
         name, path = documents[doc_id]
         docs_file.write("%d\t%s\n" % (doc_id, name))
-        text = open(path, encoding="utf-8").read()
+        with open(path, encoding="utf-8") as document:
+            text = document.read()
         for token in tokenize(text):
             term = normalize(token, mode)
             if term not in block:

@@ -19,6 +19,7 @@ lab4_stemmer/            стеммер Портера (ru/en), лемматиз
 lab5_zipf/               закон Ципфа и Мандельброта, график svg
 lab6_search_quality/     метрики P, R, MAP, DCG, NDCG, ERR и сравнение систем
 lab7_boolean_index/      булев инвертированный индекс (блочная сборка + слияние, бинарный формат)
+lab8_boolean_search/     булев поиск: И/ИЛИ/НЕ, скобки, CLI и веб-страница
 run_all.sh               запуск всех автотестов (или пересборка результатов: ./run_all.sh build)
 ```
 
@@ -96,5 +97,7 @@ python3 lab4_stemmer/lemmatizer.py < words.txt
 python3 lab4_stemmer/search.py stem < queries.txt
 python3 lab6_search_quality/evaluate.py --stdin < run.txt
 python3 lab7_boolean_index/index_reader.py < queries.txt
+python3 lab8_boolean_search/cli.py < queries.txt
+python3 lab8_boolean_search/web.py --port 8000
 python3 lab2_crawler/crawler.py lab2_crawler/config.yaml
 ```

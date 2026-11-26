@@ -1,0 +1,81 @@
+{
+  "index_documents": 30000,
+  "startup_ms": 214.32,
+  "repeats": 7,
+  "cache": "warm",
+  "cases": [
+    {
+      "case": "two_terms",
+      "query": "mars rover",
+      "documents": 182,
+      "median_ms": 0.093,
+      "min_ms": 0.079,
+      "max_ms": 0.109,
+      "sources": {
+        "arxiv_astronomy": 2,
+        "astronomy_stackexchange": 3,
+        "ru_wikipedia": 4,
+        "simple_wikipedia": 14,
+        "space_stackexchange": 159
+      }
+    },
+    {
+      "case": "two_languages",
+      "query": "(марс || mars) (ракета || rocket)",
+      "documents": 129,
+      "median_ms": 0.239,
+      "min_ms": 0.23,
+      "max_ms": 0.269,
+      "sources": {
+        "ru_wikipedia": 42,
+        "simple_wikipedia": 14,
+        "space_stackexchange": 73
+      }
+    },
+    {
+      "case": "exclusion",
+      "query": "(космос || space) !марс",
+      "documents": 3832,
+      "median_ms": 0.357,
+      "min_ms": 0.323,
+      "max_ms": 0.382,
+      "sources": {
+        "arxiv_astronomy": 693,
+        "astronomy_stackexchange": 572,
+        "ru_wikipedia": 451,
+        "simple_wikipedia": 516,
+        "space_stackexchange": 1600
+      }
+    },
+    {
+      "case": "nested",
+      "query": "((asteroid || астероид) (orbit || орбита)) || (спутник !луна)",
+      "documents": 524,
+      "median_ms": 0.517,
+      "min_ms": 0.493,
+      "max_ms": 0.542,
+      "sources": {
+        "arxiv_astronomy": 15,
+        "astronomy_stackexchange": 68,
+        "ru_wikipedia": 363,
+        "simple_wikipedia": 22,
+        "space_stackexchange": 56
+      }
+    },
+    {
+      "case": "broad",
+      "query": "(the || и || в || a) !(space || космос)",
+      "documents": 26028,
+      "median_ms": 7.593,
+      "min_ms": 7.468,
+      "max_ms": 7.782,
+      "sources": {
+        "arxiv_astronomy": 4307,
+        "astronomy_stackexchange": 4406,
+        "ru_wikipedia": 9467,
+        "simple_wikipedia": 4469,
+        "space_stackexchange": 3379
+      }
+    }
+  ]
+}
