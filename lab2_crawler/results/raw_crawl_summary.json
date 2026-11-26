@@ -1,72 +1,74 @@
 {
-  "status": "in_progress",
+  "status": "complete",
   "canonical_articles": 32491,
-  "raw_original_documents": 18267,
-  "raw_html_documents": 5437,
-  "raw_resource_documents": 23704,
+  "raw_original_documents": 32491,
+  "raw_html_documents": 32491,
+  "raw_resource_documents": 64982,
   "database": "lab2_crawler/data/scoap3_raw.sqlite",
-  "raw_bytes": 7106568911,
-  "stored_gzip_bytes": 1267454245,
+  "raw_bytes": 17154243234,
+  "stored_gzip_bytes": 5898743103,
   "sources": {
     "Nuclear Physics B": {
       "articles": 3460,
-      "original_documents": 2235,
-      "html_documents": 394
+      "original_documents": 3460,
+      "html_documents": 3460
     },
     "Physics Letters B": {
       "articles": 5337,
-      "original_documents": 3436,
-      "html_documents": 476
+      "original_documents": 5337,
+      "html_documents": 5337
     },
     "Journal of Cosmology and Astroparticle Physics": {
       "articles": 618,
-      "original_documents": 553,
-      "html_documents": 34
+      "original_documents": 618,
+      "html_documents": 618
     },
     "Progress of Theoretical and Experimental Physics": {
       "articles": 830,
-      "original_documents": 566,
-      "html_documents": 72
+      "original_documents": 830,
+      "html_documents": 830
     },
     "Advances in High Energy Physics": {
       "articles": 534,
-      "original_documents": 494,
-      "html_documents": 7
+      "original_documents": 534,
+      "html_documents": 534
     },
     "Journal of High Energy Physics": {
       "articles": 2268,
-      "original_documents": 328,
-      "html_documents": 1840
+      "original_documents": 2268,
+      "html_documents": 2268
     },
     "European Physical Journal C": {
       "articles": 2209,
-      "original_documents": 461,
-      "html_documents": 990
+      "original_documents": 2209,
+      "html_documents": 2209
     },
     "Chinese Physics C": {
       "articles": 655,
-      "original_documents": 397,
-      "html_documents": 78
+      "original_documents": 655,
+      "html_documents": 655
     },
     "Physical Review D": {
       "articles": 15520,
-      "original_documents": 9232,
-      "html_documents": 1418
+      "original_documents": 15520,
+      "html_documents": 15520
     },
     "Physical Review Letters": {
       "articles": 425,
-      "original_documents": 185,
-      "html_documents": 59
+      "original_documents": 425,
+      "html_documents": 425
     },
     "Physical Review C": {
       "articles": 635,
-      "original_documents": 381,
-      "html_documents": 69
+      "original_documents": 635,
+      "html_documents": 635
     }
   },
-  "pending": 41257,
-  "errors": 0,
-  "lossless_body_validation": false,
   "raw_capture_unix_min": 1795698173,
-  "raw_capture_unix_max": 1795698613
+  "raw_capture_unix_max": 1795699773,
+  "pending": 0,
+  "errors": 0,
+  "missing_resources": 0,
+  "lossless_body_validation": true,
+  "capture_time_note": "Actual repeat-download timestamps; earlier historical timestamps are unknown."
 }

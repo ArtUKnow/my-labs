@@ -1,7 +1,7 @@
 native text tests: passed
+built 4 documents, 9 terms, 13 postings in 0.000 seconds
 built 4 documents, 9 terms, 13 postings in 0.001 seconds
-built 4 documents, 9 terms, 13 postings in 0.001 seconds
-built 4 documents, 9 terms, 13 postings in 0.001 seconds
+built 4 documents, 9 terms, 13 postings in 0.000 seconds
 native index tests: OK (0 failures)
 metrics fixtures: OK
 rank corpus_documents=4 total_tokens=10 query_terms=5

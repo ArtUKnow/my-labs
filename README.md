@@ -65,7 +65,7 @@ python3 lab2_crawler/crawler.py lab2_crawler/config.yaml
 
 `db` задаёт SQLite, `logic` — задержку, число загрузок, таймаут, повтор и интервал переобкачки; `corpus` задаёт тот же каталог статей. В базе сохраняются нормализованный URL, точное исходное тело сжатое без потерь, MIME, журнал, Unix-время фактической загрузки, SHA-256, ETag/Last-Modified. HTML-страница и исходный XML/PDF — два ресурса одной статьи, их количество не выдаётся за количество статей. Очередь восстанавливается после остановки; 304 и совпадение SHA не переписывают исходное содержимое. Изменение ответа проверено настоящим локальным HTTP-тестом; 11 источников в CERN реально проверены условными запросами, результат — `live_recrawl.json`.
 
-Текущий статус полного сырого архива — `lab2_crawler/results/raw_crawl_summary.json`; только `status: complete` с проверенными телами означает завершённую загрузку. Архив базы публикуется отдельно от Git из-за размера. Примеры оригиналов и HTML всех журналов находятся в `lab1_corpus/data/raw_samples/`. После переобкачки:
+Текущий статус полного сырого архива — `lab2_crawler/results/raw_crawl_summary.json`; только `status: complete` с проверенными телами означает завершённую загрузку. Архив базы публикуется отдельно от Git из-за размера: [C++ labs and raw corpus](https://github.com/ArtUKnow/my-labs/releases/tag/cpp-labs-v1). После авторизации в GitHub CLI: `python3 scripts/download_raw.py`. Скрипт проверяет SHA-256 всех частей до сборки SQLite. Примеры оригиналов и HTML всех журналов находятся в `lab1_corpus/data/raw_samples/`. После переобкачки:
 
 ```sh
 python3 lab1_corpus/extract_raw_corpus.py lab2_crawler/data/scoap3_raw.sqlite --apply

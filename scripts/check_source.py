@@ -15,6 +15,9 @@ def check():
     files=list((ROOT/'native').glob('*.cpp'))+list((ROOT/'native').glob('*.h'))
     for path in files:
         text=path.read_text()
+        without_strings=re.sub(r'"(?:\\.|[^"\\])*"|\'(?:\\.|[^\'\\])*\'',' ',text,flags=re.S)
+        if re.search(r'//|/\*',without_strings):
+            raise ValueError('Unexpected C++ comment: '+str(path))
         if forbidden.search(code_only(text)):
             raise ValueError('Forbidden STL use: '+str(path))
     for folder in ['scripts','lab1_corpus','lab2_crawler','lab8_boolean_search']:

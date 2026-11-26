@@ -1,3 +1,4 @@
+test_only_one_crawler_opens_queue (__main__.TestDatabaseOwner.test_only_one_crawler_opens_queue) ... ok
 test_completed_stores_merge_without_counting_resources_as_articles (__main__.TestRawCorpusCrawler.test_completed_stores_merge_without_counting_resources_as_articles) ... ok
 test_exact_raw_body_conditional_unchanged_and_changed (__main__.TestRawCorpusCrawler.test_exact_raw_body_conditional_unchanged_and_changed) ... /opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/lib/python3.14/tempfile.py:484: ResourceWarning: Implicitly cleaning up <HTTPError 304: 'Not Modified'>
   _warnings.warn(self.warn_message, ResourceWarning)
@@ -8,6 +9,6 @@ test_resume_inflight_and_failed_request (__main__.TestRawCorpusCrawler.test_resu
 ok
 
 ----------------------------------------------------------------------
-Ran 4 tests in 3.110s
+Ran 5 tests in 3.135s
 
 OK

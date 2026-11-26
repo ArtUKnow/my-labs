@@ -1,0 +1,92 @@
+{
+  "release": "https://github.com/ArtUKnow/my-labs/releases/tag/cpp-labs-v1",
+  "raw_parts": 12,
+  "bytes": 6042750976,
+  "github_digest_matches": true,
+  "assets": [
+    {
+      "name": "scoap3_raw.sqlite.part001",
+      "bytes": 536870912,
+      "sha256": "51616202fe80e4416a1747044791c24c738e2bd66e03cef68fa59472748722cc",
+      "github_digest": "sha256:51616202fe80e4416a1747044791c24c738e2bd66e03cef68fa59472748722cc",
+      "state": "uploaded"
+    },
+    {
+      "name": "scoap3_raw.sqlite.part002",
+      "bytes": 536870912,
+      "sha256": "e8c4e5b184dab802beffd9514855e0c399154f48ec552277711de3b65594f6be",
+      "github_digest": "sha256:e8c4e5b184dab802beffd9514855e0c399154f48ec552277711de3b65594f6be",
+      "state": "uploaded"
+    },
+    {
+      "name": "scoap3_raw.sqlite.part003",
+      "bytes": 536870912,
+      "sha256": "f8ea1f0f6bf93567611d3fa5173c9f55dcc73e44ff1faf4b06dc307c1593a290",
+      "github_digest": "sha256:f8ea1f0f6bf93567611d3fa5173c9f55dcc73e44ff1faf4b06dc307c1593a290",
+      "state": "uploaded"
+    },
+    {
+      "name": "scoap3_raw.sqlite.part004",
+      "bytes": 536870912,
+      "sha256": "74fa7e45c92ed291c846515a906a13ea02f47b8224a0ac47a40f44d14d465bc2",
+      "github_digest": "sha256:74fa7e45c92ed291c846515a906a13ea02f47b8224a0ac47a40f44d14d465bc2",
+      "state": "uploaded"
+    },
+    {
+      "name": "scoap3_raw.sqlite.part005",
+      "bytes": 536870912,
+      "sha256": "f1a3251f56616be3bae149585a944cac52bdfee3272388248882bbcad990856a",
+      "github_digest": "sha256:f1a3251f56616be3bae149585a944cac52bdfee3272388248882bbcad990856a",
+      "state": "uploaded"
+    },
+    {
+      "name": "scoap3_raw.sqlite.part006",
+      "bytes": 536870912,
+      "sha256": "5aabb3a46d26d63d62a7d30ce46b23f86a0fec16560d898cbe18dc1551a854c0",
+      "github_digest": "sha256:5aabb3a46d26d63d62a7d30ce46b23f86a0fec16560d898cbe18dc1551a854c0",
+      "state": "uploaded"
+    },
+    {
+      "name": "scoap3_raw.sqlite.part007",
+      "bytes": 536870912,
+      "sha256": "ab77fe23a96422ec23d88c1f3916173e7ba9b8751770e30dd65b7b5e3a770c75",
+      "github_digest": "sha256:ab77fe23a96422ec23d88c1f3916173e7ba9b8751770e30dd65b7b5e3a770c75",
+      "state": "uploaded"
+    },
+    {
+      "name": "scoap3_raw.sqlite.part008",
+      "bytes": 536870912,
+      "sha256": "62eec1adc37a8cd9ee20613b64ad085bb87330cd26c16729dca9bd8ff5ca7f0e",
+      "github_digest": "sha256:62eec1adc37a8cd9ee20613b64ad085bb87330cd26c16729dca9bd8ff5ca7f0e",
+      "state": "uploaded"
+    },
+    {
+      "name": "scoap3_raw.sqlite.part009",
+      "bytes": 536870912,
+      "sha256": "cda97cc0eab2240fe4dc6d87dde23830cb497dec573a481cc105aa0d84222d24",
+      "github_digest": "sha256:cda97cc0eab2240fe4dc6d87dde23830cb497dec573a481cc105aa0d84222d24",
+      "state": "uploaded"
+    },
+    {
+      "name": "scoap3_raw.sqlite.part010",
+      "bytes": 536870912,
+      "sha256": "c304d624c988d9b781ada24279f2f03825fde258c1f7e7cb37da46c4811092fb",
+      "github_digest": "sha256:c304d624c988d9b781ada24279f2f03825fde258c1f7e7cb37da46c4811092fb",
+      "state": "uploaded"
+    },
+    {
+      "name": "scoap3_raw.sqlite.part011",
+      "bytes": 536870912,
+      "sha256": "7ee2495d0130e2c4a15483d346b7caef35c8a9483e94f7fdda029196ef94ebcf",
+      "github_digest": "sha256:7ee2495d0130e2c4a15483d346b7caef35c8a9483e94f7fdda029196ef94ebcf",
+      "state": "uploaded"
+    },
+    {
+      "name": "scoap3_raw.sqlite.part012",
+      "bytes": 137170944,
+      "sha256": "7149380c8583511443f1a68e2516629d9cb937356ba8a37016207a395a3a10a5",
+      "github_digest": "sha256:7149380c8583511443f1a68e2516629d9cb937356ba8a37016207a395a3a10a5",
+      "state": "uploaded"
+    }
+  ]
+}

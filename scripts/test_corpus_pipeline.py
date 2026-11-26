@@ -104,4 +104,18 @@ class TestRawCorpusCrawler(unittest.TestCase):
         with self.assertRaises(ValueError):normalize_url('file:///etc/passwd')
 
 
+class TestDatabaseOwner(unittest.TestCase):
+    def test_only_one_crawler_opens_queue(self):
+        with tempfile.TemporaryDirectory() as folder:
+            path=Path(folder)/'raw.sqlite'
+            first=RawStore(path)
+            try:
+                with self.assertRaises(RuntimeError):
+                    RawStore(path)
+            finally:
+                first.close()
+            second=RawStore(path)
+            second.close()
+
+
 if __name__=='__main__':unittest.main(verbosity=2)

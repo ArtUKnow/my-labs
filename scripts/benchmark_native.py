@@ -7,7 +7,7 @@ import subprocess
 import time
 
 ROOT=Path(__file__).resolve().parent.parent
-CASES=['dark matter','(neutrino || quark) mass','higgs !boson','((dark || black) (matter || hole)) || (neutrino !electron)','(the || a || and) !(particle || field)']
+CASES=json.loads((ROOT/'lab8_boolean_search/queries.json').read_text(encoding='utf-8'))
 
 
 def benchmark(binary,index,output):

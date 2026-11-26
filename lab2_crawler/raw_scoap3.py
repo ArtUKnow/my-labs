@@ -14,6 +14,12 @@ import urllib.parse
 import urllib.request
 from concurrent.futures import ThreadPoolExecutor, wait, FIRST_COMPLETED
 from pathlib import Path
+from functools import lru_cache
+
+@lru_cache(maxsize=None)
+def read_query(name):
+    return (Path(__file__).resolve().parent/'sql'/(name+'.sql')).read_text(encoding='utf-8')
+
 
 HEADERS={'User-Agent':'MAI-IR-coursework/2.0 (open-access journal corpus)'}
 
@@ -49,7 +55,7 @@ class RawStore:
         for row in rows:
             url=normalize_url(row['source_url']); previous=self.get(url)
             if previous is not None and previous['checked_at']>now-recrawl_after: continue
-            self.connection.execute("INSERT INTO raw_queue(url,payload,state,planned_at) VALUES(?,?,'pending',?) ON CONFLICT(url) DO UPDATE SET payload=excluded.payload,state=CASE WHEN raw_queue.state='done' THEN 'pending' ELSE raw_queue.state END",(url,json.dumps(row,ensure_ascii=False),now))
+            self.connection.execute(read_query('plan_recrawl'),(url,json.dumps(row,ensure_ascii=False),now))
         self.connection.commit()
 
     def get(self,url):

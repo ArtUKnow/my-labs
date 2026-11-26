@@ -1,0 +1,1 @@
+INSERT INTO raw_queue(url,payload,state,planned_at) VALUES(?,?,'pending',?) ON CONFLICT(url) DO UPDATE SET payload=excluded.payload,state=CASE WHEN raw_queue.state='done' THEN 'pending' ELSE raw_queue.state END

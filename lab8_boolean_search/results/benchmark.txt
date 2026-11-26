@@ -1,7 +1,7 @@
 {
   "implementation": "C++ without STL",
   "index_documents": 32491,
-  "startup_including_process_ms": 109.49087500011956,
+  "startup_including_process_ms": 112.03537499932281,
   "repeats": 7,
   "cache": "one warmup per query, then seven repetitions in one process",
   "timing_scope": "C++ lexing, normalization, posting reads and Boolean operations; JSON output and process startup excluded from per-query time",
@@ -9,37 +9,37 @@
     {
       "query": "dark matter",
       "documents": 8439,
-      "median_ms": 0.526,
-      "min_ms": 0.505,
-      "max_ms": 0.533
+      "median_ms": 0.541,
+      "min_ms": 0.498,
+      "max_ms": 0.604
     },
     {
       "query": "(neutrino || quark) mass",
       "documents": 17913,
-      "median_ms": 0.981,
-      "min_ms": 0.97,
-      "max_ms": 1.04
+      "median_ms": 1.016,
+      "min_ms": 0.962,
+      "max_ms": 1.114
     },
     {
       "query": "higgs !boson",
       "documents": 1575,
-      "median_ms": 0.626,
-      "min_ms": 0.609,
-      "max_ms": 0.635
+      "median_ms": 0.568,
+      "min_ms": 0.551,
+      "max_ms": 0.652
     },
     {
       "query": "((dark || black) (matter || hole)) || (neutrino !electron)",
       "documents": 15679,
-      "median_ms": 1.663,
-      "min_ms": 1.638,
-      "max_ms": 1.691
+      "median_ms": 1.608,
+      "min_ms": 1.545,
+      "max_ms": 1.638
     },
     {
       "query": "(the || a || and) !(particle || field)",
       "documents": 1088,
-      "median_ms": 3.022,
-      "min_ms": 2.956,
-      "max_ms": 3.049
+      "median_ms": 2.963,
+      "min_ms": 2.938,
+      "max_ms": 3.016
     }
   ]
 }
