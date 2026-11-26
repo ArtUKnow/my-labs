@@ -1,0 +1,72 @@
+{
+  "status": "in_progress",
+  "canonical_articles": 32491,
+  "raw_original_documents": 18267,
+  "raw_html_documents": 5437,
+  "raw_resource_documents": 23704,
+  "database": "lab2_crawler/data/scoap3_raw.sqlite",
+  "raw_bytes": 7106568911,
+  "stored_gzip_bytes": 1267454245,
+  "sources": {
+    "Nuclear Physics B": {
+      "articles": 3460,
+      "original_documents": 2235,
+      "html_documents": 394
+    },
+    "Physics Letters B": {
+      "articles": 5337,
+      "original_documents": 3436,
+      "html_documents": 476
+    },
+    "Journal of Cosmology and Astroparticle Physics": {
+      "articles": 618,
+      "original_documents": 553,
+      "html_documents": 34
+    },
+    "Progress of Theoretical and Experimental Physics": {
+      "articles": 830,
+      "original_documents": 566,
+      "html_documents": 72
+    },
+    "Advances in High Energy Physics": {
+      "articles": 534,
+      "original_documents": 494,
+      "html_documents": 7
+    },
+    "Journal of High Energy Physics": {
+      "articles": 2268,
+      "original_documents": 328,
+      "html_documents": 1840
+    },
+    "European Physical Journal C": {
+      "articles": 2209,
+      "original_documents": 461,
+      "html_documents": 990
+    },
+    "Chinese Physics C": {
+      "articles": 655,
+      "original_documents": 397,
+      "html_documents": 78
+    },
+    "Physical Review D": {
+      "articles": 15520,
+      "original_documents": 9232,
+      "html_documents": 1418
+    },
+    "Physical Review Letters": {
+      "articles": 425,
+      "original_documents": 185,
+      "html_documents": 59
+    },
+    "Physical Review C": {
+      "articles": 635,
+      "original_documents": 381,
+      "html_documents": 69
+    }
+  },
+  "pending": 41257,
+  "errors": 0,
+  "lossless_body_validation": false,
+  "raw_capture_unix_min": 1795698173,
+  "raw_capture_unix_max": 1795698613
+}

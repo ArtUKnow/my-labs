@@ -1,0 +1,145 @@
+{
+  "apply": true,
+  "original_records": 32494,
+  "documents": 32491,
+  "minimum_body_words": 3000,
+  "removed_duplicates": [
+    {
+      "file": "scoap3_92060.txt.gz",
+      "record_id": "92060",
+      "doi": "2406.08470",
+      "title": "Charged Pion Condensation and Color Superconductivity Phenomena in Chirally Asymmetric Dense Quark Matter",
+      "journal": "Progress of Theoretical and Experimental Physics",
+      "year": "2025",
+      "url": "https://repo.scoap3.org/records/92060",
+      "xml_url": "https://scoap3-prod-backend.s3.cern.ch/media/files/92060/10.1093/ptep/ptaf004.xml",
+      "pdf_url": "https://scoap3-prod-backend.s3.cern.ch/media/files/92060/10.1093/ptep/ptaf004.pdf",
+      "source_format": "xml",
+      "license": "CC-BY-4.0",
+      "source_bytes": "194019",
+      "words": "6844",
+      "sha256": "fa59f51f1335e29d7798ec13b56ba65dbe2a35be0500becc91d0c897a658f395"
+    },
+    {
+      "file": "scoap3_95322.txt.gz",
+      "record_id": "95322",
+      "doi": "2407.05263",
+      "title": "Impact of Finite Volume on Kaon, Antikaon, and <italic>&#981;</italic> Meson Masses and Decay Widths in Asymmetric Strange Hadronic Matter",
+      "journal": "Progress of Theoretical and Experimental Physics",
+      "year": "2025",
+      "url": "https://repo.scoap3.org/records/95322",
+      "xml_url": "https://scoap3-prod-backend.s3.cern.ch/media/harvested_files/10.1093/ptep/ptaf005/ptaf005.xml",
+      "pdf_url": "https://scoap3-prod-backend.s3.cern.ch/media/harvested_files/10.1093/ptep/ptaf005/ptaf005.pdf",
+      "source_format": "xml",
+      "license": "CC-BY-4.0",
+      "source_bytes": "293615",
+      "words": "9890",
+      "sha256": "e6c5975678ccbdd63c0fd257705075c735047806ca23fec66d48119f88dda11d"
+    },
+    {
+      "file": "scoap3_91584.txt.gz",
+      "record_id": "91584",
+      "doi": "10.1093/ptep/ptaf001",
+      "title": "Saddle-Point Approximation to the False-Vacuum Decay at Finite Temperature in 1D Quantum Mechanics The uses of instantons",
+      "journal": "Progress of Theoretical and Experimental Physics",
+      "year": "2025",
+      "url": "https://repo.scoap3.org/records/91584",
+      "xml_url": "https://scoap3-prod-backend.s3.cern.ch/media/files/91584/10.1093/ptep/ptaf001.xml",
+      "pdf_url": "https://scoap3-prod-backend.s3.cern.ch/media/files/91584/10.1093/ptep/ptaf001.pdf",
+      "source_format": "xml",
+      "license": "CC-BY-4.0",
+      "source_bytes": "187706",
+      "words": "6224",
+      "sha256": "d221c9cb86834d01853ceaeb21be106f7c0446a6f6d7b821e95518d98ce9e6e0"
+    }
+  ],
+  "doi_repairs": [
+    {
+      "record_id": "91584",
+      "old": "2410.19418v3",
+      "new": "10.1093/ptep/ptaf001",
+      "evidence_url": "https://scoap3-prod-backend.s3.cern.ch/media/files/91584/10.1093/ptep/ptaf001.xml",
+      "evidence_sha256": "09f87964bccb7358584cb3c256f1b16c46f655ea7c34bb707b306be430560757"
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "journal_advances_in_high_energy_physics",
+      "journal": "Advances in High Energy Physics",
+      "documents": 534,
+      "repository": "https://repo.scoap3.org/",
+      "source_meaning": "Distinct journal publication; SCOAP3 is the common delivery repository"
+    },
+    {
+      "source_id": "journal_chinese_physics_c",
+      "journal": "Chinese Physics C",
+      "documents": 655,
+      "repository": "https://repo.scoap3.org/",
+      "source_meaning": "Distinct journal publication; SCOAP3 is the common delivery repository"
+    },
+    {
+      "source_id": "journal_european_physical_journal_c",
+      "journal": "European Physical Journal C",
+      "documents": 2209,
+      "repository": "https://repo.scoap3.org/",
+      "source_meaning": "Distinct journal publication; SCOAP3 is the common delivery repository"
+    },
+    {
+      "source_id": "journal_journal_of_cosmology_and_astroparticle_physics",
+      "journal": "Journal of Cosmology and Astroparticle Physics",
+      "documents": 618,
+      "repository": "https://repo.scoap3.org/",
+      "source_meaning": "Distinct journal publication; SCOAP3 is the common delivery repository"
+    },
+    {
+      "source_id": "journal_journal_of_high_energy_physics",
+      "journal": "Journal of High Energy Physics",
+      "documents": 2268,
+      "repository": "https://repo.scoap3.org/",
+      "source_meaning": "Distinct journal publication; SCOAP3 is the common delivery repository"
+    },
+    {
+      "source_id": "journal_nuclear_physics_b",
+      "journal": "Nuclear Physics B",
+      "documents": 3460,
+      "repository": "https://repo.scoap3.org/",
+      "source_meaning": "Distinct journal publication; SCOAP3 is the common delivery repository"
+    },
+    {
+      "source_id": "journal_physical_review_c",
+      "journal": "Physical Review C",
+      "documents": 635,
+      "repository": "https://repo.scoap3.org/",
+      "source_meaning": "Distinct journal publication; SCOAP3 is the common delivery repository"
+    },
+    {
+      "source_id": "journal_physical_review_d",
+      "journal": "Physical Review D",
+      "documents": 15520,
+      "repository": "https://repo.scoap3.org/",
+      "source_meaning": "Distinct journal publication; SCOAP3 is the common delivery repository"
+    },
+    {
+      "source_id": "journal_physical_review_letters",
+      "journal": "Physical Review Letters",
+      "documents": 425,
+      "repository": "https://repo.scoap3.org/",
+      "source_meaning": "Distinct journal publication; SCOAP3 is the common delivery repository"
+    },
+    {
+      "source_id": "journal_physics_letters_b",
+      "journal": "Physics Letters B",
+      "documents": 5337,
+      "repository": "https://repo.scoap3.org/",
+      "source_meaning": "Distinct journal publication; SCOAP3 is the common delivery repository"
+    },
+    {
+      "source_id": "journal_progress_of_theoretical_and_experimental_physics",
+      "journal": "Progress of Theoretical and Experimental Physics",
+      "documents": 830,
+      "repository": "https://repo.scoap3.org/",
+      "source_meaning": "Distinct journal publication; SCOAP3 is the common delivery repository"
+    }
+  ],
+  "group_uniqueness": "Cannot be verified from this repository; requires comparison with classmates."
+}

@@ -204,12 +204,27 @@ def main():
         sys.exit(1)
     config = read_yaml(sys.argv[1])
     if config.get("corpus", {}).get("kind") == "scoap3":
-        from scoap3 import main as collect_scoap3
+        import csv
+        from pathlib import Path
+        from raw_scoap3 import crawl
         options = config["corpus"]
-        sys.argv = [sys.argv[0], "--collect-only", "--target", str(options["target"]),
-                    "--min-words", str(options["min_words"]),
-                    "--download-workers", str(options["download_workers"])]
-        return collect_scoap3()
+        manifest = Path(options["manifest"])
+        if not manifest.is_absolute():
+            manifest = Path(sys.argv[1]).resolve().parent / manifest
+        with manifest.open(encoding="utf-8", newline="") as file:
+            existing = sum(1 for _ in csv.DictReader(file, delimiter="\t"))
+        if existing < int(options["target"]):
+            from scoap3 import main as collect_scoap3
+            config_path = sys.argv[1]
+            sys.argv = [sys.argv[0], "--collect-only", "--target", str(options["target"]),
+                        "--min-words", str(options["min_words"]),
+                        "--download-workers", str(options["download_workers"])]
+            collect_scoap3()
+            sys.argv = [sys.argv[0], config_path]
+        result = crawl(config, sys.argv[1])
+        if result["errors"] or result["pending"]:
+            raise RuntimeError("Raw corpus capture incomplete; retry state is preserved in SQLite")
+        return result
     signal.signal(signal.SIGINT, handle_stop)
     signal.signal(signal.SIGTERM, handle_stop)
     db_path = config["db"]["path"]

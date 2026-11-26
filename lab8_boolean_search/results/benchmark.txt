@@ -1,7 +1,45 @@
-Индекс: 32494 документов; загрузка: 274.316 мс
-Поиск после прогрева, 7 повторов:
-two_terms | 8440 документов | медиана 1.570 мс | максимум 1.592 мс | dark matter
-alternatives | 17915 документов | медиана 3.706 мс | максимум 3.720 мс | (neutrino || quark) mass
-exclusion | 1576 документов | медиана 1.140 мс | максимум 1.184 мс | higgs !boson
-nested | 15680 документов | медиана 6.786 мс | максимум 6.874 мс | ((dark || black) (matter || hole)) || (neutrino !electron)
-broad | 1088 документов | медиана 11.058 мс | максимум 11.336 мс | (the || a || and) !(particle || field)
+{
+  "implementation": "C++ without STL",
+  "index_documents": 32491,
+  "startup_including_process_ms": 109.49087500011956,
+  "repeats": 7,
+  "cache": "one warmup per query, then seven repetitions in one process",
+  "timing_scope": "C++ lexing, normalization, posting reads and Boolean operations; JSON output and process startup excluded from per-query time",
+  "cases": [
+    {
+      "query": "dark matter",
+      "documents": 8439,
+      "median_ms": 0.526,
+      "min_ms": 0.505,
+      "max_ms": 0.533
+    },
+    {
+      "query": "(neutrino || quark) mass",
+      "documents": 17913,
+      "median_ms": 0.981,
+      "min_ms": 0.97,
+      "max_ms": 1.04
+    },
+    {
+      "query": "higgs !boson",
+      "documents": 1575,
+      "median_ms": 0.626,
+      "min_ms": 0.609,
+      "max_ms": 0.635
+    },
+    {
+      "query": "((dark || black) (matter || hole)) || (neutrino !electron)",
+      "documents": 15679,
+      "median_ms": 1.663,
+      "min_ms": 1.638,
+      "max_ms": 1.691
+    },
+    {
+      "query": "(the || a || and) !(particle || field)",
+      "documents": 1088,
+      "median_ms": 3.022,
+      "min_ms": 2.956,
+      "max_ms": 3.049
+    }
+  ]
+}

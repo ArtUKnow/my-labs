@@ -1,0 +1,764 @@
+<article xmlns="" xmlns:xlink="http://www.w3.org/1999/xlink">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">cpc</journal-id>
+<journal-id journal-id-type="coden">JPAPEH</journal-id>
+<journal-title-group>
+<journal-title>Chinese Physics C</journal-title>
+<abbrev-journal-title abbrev-type="IOP">CPC</abbrev-journal-title>
+<abbrev-journal-title abbrev-type="publisher"/>
+</journal-title-group>
+<issn pub-type="ppub">1674-1137</issn>
+<publisher>
+<publisher-name>Science Press</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1088/1674-1137/38/3/033101</article-id>
+<title-group>
+<article-title>Revisiting the K$\uppi$ puzzle in the pQCD factorization approach<xref ref-type="fn" rid="fn1">*</xref><fn id="fn1"><label>*</label><p>Supported by National Natural Science Foundation of China (10975074, 11235005)</p></fn></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name><surname>BAI</surname>
+<given-names>Wei</given-names></name>
+<xref ref-type="aff" rid="af1"/>
+<ext-link ext-link-type="orcid" xlink:type="simple">0000-0003-1705-8738</ext-link>
+</contrib>
+<contrib contrib-type="author">
+<name><surname>LIU</surname>
+<given-names>Min</given-names></name>
+<xref ref-type="aff" rid="af1"/>
+<ext-link ext-link-type="orcid" xlink:type="simple">0000-0003-2444-4709</ext-link>
+</contrib>
+<contrib contrib-type="author">
+<name><surname>FAN</surname>
+<given-names>Ying-Ying</given-names></name>
+<xref ref-type="aff" rid="af1"/>
+<ext-link ext-link-type="orcid" xlink:type="simple">0000-0001-8884-8361</ext-link>
+</contrib>
+<contrib contrib-type="author">
+<name><surname>WANG</surname>
+<given-names>Wen-Fei</given-names></name>
+<xref ref-type="aff" rid="af1"/>
+<ext-link ext-link-type="orcid" xlink:type="simple">0000-0001-6331-1621</ext-link>
+</contrib>
+<contrib contrib-type="author">
+<name><surname>CHENG</surname>
+<given-names>Shan</given-names></name>
+<xref ref-type="aff" rid="af1"/>
+<ext-link ext-link-type="orcid" xlink:type="simple">0000-0002-2787-4344</ext-link>
+</contrib>
+<contrib contrib-type="author">
+<name><surname>XIAO</surname>
+<given-names>Zhen-Jun</given-names></name>
+<xref ref-type="aff" rid="af1"/>
+<xref ref-type="fn" rid="em1">1</xref>
+<ext-link ext-link-type="orcid" xlink:type="simple">0000-0002-4879-209X</ext-link>
+</contrib>
+<aff id="af1">Department of Physics and Institute of Theoretical Physics, Nanjing Normal University, Nanjing 210023, <country>China</country></aff>
+</contrib-group>
+<author-notes>
+<fn id="em1">
+<label>1</label><p>xiaozhenjun@njnu.edu.cn</p></fn>
+</author-notes>
+<pub-date pub-type="ppub"><month>3</month><year>2014</year></pub-date>
+<volume>38</volume>
+<issue>3</issue>
+<elocation-id content-type="artnum">033101</elocation-id>
+<history>
+<date date-type="received"><day>3</day><month>5</month><year>2013</year></date>
+</history>
+<permissions>
+<copyright-statement>Article funded by SCOAP<sup>3</sup> and published under licence by Chinese Physical Society and the Institute of High Energy Physics of the Chinese Academy of Sciences and the Institute of Modern Physics of the Chinese Academy of Sciences and IOP Publishing Ltd</copyright-statement>
+<copyright-year>2013</copyright-year>
+<license license-type="cc-by" xlink:href=" http://creativecommons.org/licenses/by/3.0/">
+<license-p>
+<graphic content-type="print" xlink:href="by-grey.eps"/>
+ Content from this work may be used under the terms of the Creative
+Commons Attribution 3.0 licence. Any further distribution of this
+work must maintain attribution to the author(s) and the title of
+the work, journal citation and DOI. </license-p>
+</license>
+</permissions>
+<related-article related-article-type="arxiv"><pub-id pub-id-type="arxiv">1305.6103</pub-id></related-article>
+<abstract><title>Abstract</title><p>In this paper, we calculated the branching ratios and direct <inline-formula><tex-math>$$CP$</tex-math></inline-formula> violation of the four <inline-formula><tex-math>$$\rm B\to K\uppi$</tex-math></inline-formula> decays with the inclusion of all currently known next-to-leading order (NLO) contributions by employing the perturbative QCD (pQCD) factorization approach. We found that (a) Besides the 10\% enhancement from the NLO vertex corrections, the quark-loops and magnetic penguins, the NLO contributions  to the form factors can provide an additional <inline-formula><tex-math>$$\sim 15\%$</tex-math></inline-formula> enhancement to the branching ratios, and lead to a very good agreement with the data; (b) The NLO pQCD predictions are <inline-formula><tex-math>$$\acp^{\rm dir}\rm (B^0\to K^+\uppi^- )=(-6.5\pm 3.1)\%$</tex-math></inline-formula> and
+<inline-formula><tex-math>$$\acp^{\rm dir}(\rm B^+\to K^+ \uppi^0)=(2.2\pm 2.0)\%$</tex-math></inline-formula>,
+become well consistent with the data due to the inclusion of the NLO contributions.</p></abstract>
+<kwd-group kwd-group-type="author-pacs">
+<kwd>13.25.Hw</kwd>
+<kwd>12.38.Bx</kwd>
+<kwd>14.40.Nd</kwd>
+</kwd-group>
+<kwd-group kwd-group-type="author">
+<kwd>the pQCD factorization approach</kwd>
+<kwd>B meson decays</kwd>
+<kwd>branching ratio</kwd>
+<kwd>CP violation</kwd>
+</kwd-group>
+<funding-group>
+<open-access>
+<p content-type="scoap3">Article funded by SCOAP<sup>3</sup></p>
+</open-access>
+</funding-group>
+<counts>
+<page-count count="6"/>
+</counts>
+</article-meta>
+</front>
+
+<body>
+
+<sec>
+<title>Introduction</title>
+<p>
+The four $\rm B \to K \uppi$ decays play an important role in the precision test of
+the standard model (SM) and the searching for the new physics beyond the SM \cite{pdg2012}.
+The branching ratios of these four decays have been measured with high precision
+\cite{pdg2012,hfag2012}, but it is still very difficult to interpret
+the so-called $\rm``K\uppi"$-puzzle:
+why {are} the measured direct $CP$ violation $\acp^{\rm dir}\rm (B^0\to K^\pm \uppi^\mp)$
+and $\acp^{\rm dir}\rm(B^\pm\to K^\pm \uppi^0)$ so different?
+At the quark level, $\rm B^0\to K^+ \uppi^-$ and $\rm B^+\to K^+\uppi^0$ decay differ only
+by {the} sub-leading color-suppressed tree and the electroweak penguin.
+Their $CP$ asymmetry are expected to be similar, but the measured values differ
+by $5\sigma$ \cite{pdg2012,hfag2012,exp2013}:
+$ \acp^{\rm exp}\rm (B^0\to K^+ \uppi^-) = -0.087 \pm 0.008$
+while $\acp^{\rm exp}\rm (B^+\to K^+ \uppi^0) =  0.037 \pm 0.021$.
+
+In Ref.~\cite{nlo05}, the authors studied the $\rm``K\uppi"$ puzzle in the pQCD
+factorization approach, took the NLO contributions known at 2005 into account,
+and provided a pQCD interpretation for the large difference between
+$\acp^{\rm dir}\rm(B^0\to K^\pm \uppi^\mp)$ and $\acp^{\rm dir}\rm(B^\pm\to K^\pm \uppi^0)$.
+In this paper, we re-calculate these four $\rm B \to K\uppi$ decays with the inclusion
+of all currently known NLO contributions in the pQCD approach, especially
+the newly known NLO corrections to the form factors of $\rm B \to (K,\uppi)$
+transitions \cite{prd85-074004}.
+
+The paper is organized as follows. In Section~2 we calculate the
+decay amplitudes for the considered decay modes.
+The numerical results, some discussions and {a} short summary,
+are presented in Section~3.
+</p>
+</sec>
+
+<sec>
+<title>Decay amplitudes in the pQCD approach</title>
+<p>
+
+In the pQCD approach, we treat the B meson as a heavy-light system, and consider
+the B meson at rest for simplicity. By using the light-cone coordinates, the B
+meson momentum $P_{\rm B}$ and the two final state mesons' momenta $P_2$ and $P_3$
+(for $\rm M_2$ and $\rm M_3$, respectively) can be written as
+\beq
+%1
+P_{\rm B} &amp;=&amp; \frac{M_{\rm B}}{\sqrt{2}} (1,1,{\bf 0}_{\rm T}), ~~
+P_2 = \frac{M_{\rm B}}{\sqrt{2}}(1-r_3^2,r^2_2,{\bf 0}_{\rm T}),\nonumber\\[2mm]
+P_3 &amp;=&amp; \frac{M_{\rm B}}{\sqrt{2}} (r_3^2,1-r^2_2,{\bf 0}_{\rm T}),
+\eeq
+where $r_{\rm i}^2=m_{\rm i}^2/M_{\rm B}^2$ are very small for $m_{\rm i}=(m_\uppi,m_{\rm K})$ and
+will be neglected safely. Putting the light quark momenta in B, $\rm M_2$
+and $\rm M_3$ meson as $k_1$, $k_2$, and $k_3$, respectively, we can choose
+\beq
+%2
+k_1 &amp;=&amp; (x_1 P_{\rm B}^+,0,{\bm k}_{\rm 1T}),~~
+k_2 = (x_2 P_2^+,0,{\bm k}_{\rm 2T}),\nonumber\\[2mm]
+k_3 &amp;=&amp; (0, x_3 P_3^-,{\bm k}_{\rm 3T}).
+\eeq
+The decay amplitude after the integration over $k_{1,2}^-$ and $k_3^+$ can
+then be written as
+\beq
+%3
+&amp;&amp;{\cal A}(B_{\rm d} \to M_2 M_3 ) \sim \vint{\rm d} x_1{\rm d} x_2{\rm d}
+x_3 b_1{\rm d} b_1 b_2{\rm d} b_2 b_3{\rm d} b_3 \nonumber\\[1mm]
+&amp;&amp;\times \mathrm{Tr} \left [ C(t) \varPhi_{\rm B}(x_1,b_1) \varPhi_{\rm M_2}(x_2,b_2)
+\varPhi_{\rm M_3}(x_3, b_3)\right.\nonumber\\[1mm]
+&amp;&amp;\left.\times H(x_{\rm i}, b_{\rm i}, t) S_{\rm t}(x_{\rm i})\,{\rm e}^{-S(t)} \right ],
+\quad \label{eq:a2}
+\eeq
+where $b_{\rm i}$ is the conjugate space coordinate of $k_{{\rm i}T}$.
+$C(t)$ is the Wilson coefficient evaluated at scale $t$,
+the hard function $H(k_1,k_2,k_3,t)$ describes the four
+quark {operators} and the spectator quark connected by  a hard gluon.
+The wave {functions} $\varPhi_{\rm B}(k_1)$ and $\varPhi_{\rm M_i}$ describe the hadronization of the
+quark and anti-quark in the B meson and $\rm M_i$ mesons.
+The Sudakov factor $S_{\rm t}(x_{\rm i})$ and
+${\rm e}^{-S(t)} = {\rm e}^{-S_{\rm B}(t)-S_{\rm M_2}(t)-S_{\rm M_3}(t)}$
+can together suppress the soft dynamics effectively \cite{li2003}.
+
+For the B meson,  we adopt the widely used distribution amplitude
+$\phi_{\rm B}$ as in Refs.~\cite{keum01,lu01,xiao2008a}
+\beq
+%4
+\phi_{\rm B}(x,b)&amp;=&amp; N_{\rm B}x^2(1-x)^2 \exp\left[-\frac{1}{2}\left(\frac{xm_{\rm B}}{\omega_{\rm b}}\right)^2
+-\frac{\omega_{\rm b}^2 b^2}{2}\right],~~~~
+\eeq
+where the normalization factor $N_{\rm B}$ depends on the values of the shape
+parameter $\omega_{\rm B}$ and the decay constant $f_{\rm B}$ and defined through
+the normalization relation $\vint\nolimits_0^1{\rm d}x\; \phi_{\rm B}(x,b=0)=f_{\rm B}/(2\sqrt{6})$.
+The shape parameter $\omega_{\rm b}=0.40\pm 0.04$ has been fixed \cite{li2003}
+from the fit to the $\rm B \to \uppi$ form factors derived from {the} lattice QCD and
+from {the} Light-cone sum rule. For the light $\uppi$ and K mesons, we  adopt
+the same set of distribution amplitudes $\phi_{\uppi,\rm K}^{\rm A,P,T}(x_{\rm i})$ as
+those defined  in Ref.~\cite{ball2006} and being used widely
+for example in Refs.~\cite{liy2004,ali2007,xiao2008a}.
+
+</p>
+</sec>
+
+<sec>
+<title>Leading-order contributions</title>
+<p>
+
+In the pQCD factorization approach, the leading order contributions to $\rm B \to K \uppi$ decays come from
+the eight Feynman diagrams as shown in Fig.~1.
+Following Ref.~\cite{ali2007}, we here also use the terms $(F_{\rm e}^{\rm LL}$,
+$F_{\rm e}^{\rm LR}$, $F_{\rm e}^{\rm SP})$ and
+$(M_{\rm e}^{\rm LL}$, $M_{\rm e}^{\rm LR}$, $M_{\rm e}^{\rm SP})$ to describe the contributions
+from the factorizable emission diagrams (Fig.~1(a) and 1(b)) and
+non-factorizable emission diagrams (Fig.~1(c) and 1(d))
+through the $(V-A)(V-A)$, $(V-A)(V+A)$ and $(S-P)(S+P)$ operators, respectively.
+In a similar way, we also adopt $(F_{\rm a}^{\rm LL}$, $F_{\rm a}^{\rm LR}$, $F_{\rm a}^{\rm SP})$
+and $(M_{\rm a}^{\rm LL}$, $M_{\rm a}^{\rm LR}$, $M_{\rm a}^{\rm SP})$ to stand for the contributions
+from the factorizable annihilation diagrams (Fig.~1(e) and 1(f))
+and non-factorizable annihilation diagrams (Fig.~1(g) and 1(h)).
+From the analytic calculations we obtain all relevant decay amplitudes
+for the four $\rm B \to K \uppi$ decays:
+
+%fig 1
+\begin{center}
+\includegraphics{baiw-1}
+\figcaption{\label{fig:fig1}The Feynman diagrams for the LO contributions in the pQCD approach:
+(a, b) factorizable emission diagrams; (c, d) hard-spectator diagrams;
+(e--h) annihilation diagrams.}
+\end{center}
+
+By evaluating the emission diagrams Fig.~1(a)--1(d), for example,
+we find the following decay amplitudes
+\end{multicols}
+\ruleup
+\beq
+%5
+F_{\rm e}^{\rm LL}&amp;=&amp; - F_{\rm e}^{\rm LR}=16 \uppi C_{\rm F} M_{\rm B}^2
+\vint\nolimits_0^1{\rm d} x_{1}{\rm d}x_3\, \vint\nolimits_{0}^{\infty}
+b_1{\rm d}b_1 b_3{\rm d}b_3\; \phi_{\rm B}(x_1)\nonumber\\[1mm]
+&amp; &amp; \times \left \{ \left [ (x_3+1) \phi_3^{\rm A}(x_3)
++ r_3 (1-2x_3) \left ( \phi_3^{\rm P}(x_3) +\phi_3^{\rm T}(x_3)\right )\right ]\cdot
+ h_{\rm a}(x_1,x_3,b_1,b_3) \;E_{\rm e}(t_{\rm a})\right.\nonumber\\[1mm]
+&amp;&amp; \left.+2 r_3 \phi_3^{\rm P}(x_3) \cdot h_{\rm b}
+(x_1,x_3,b_1,b_3) \;E_{\rm e}(t_{\rm b})\right \}, \label{eq:fell}\\[1mm]
+%%  6
+F_{\rm e}^{\rm SP}&amp;=&amp; 32 \uppi C_{\rm F} M_{\rm B}^2  \vint\nolimits_0^1{\rm d} x_{1}{\rm d}x_3\,
+\vint\nolimits_{0}^{\infty} b_1{\rm d}b_1 b_3{\rm d}b_3\; \phi_{\rm B}(x_1) r_2\nonumber\\[1mm]
+&amp;&amp;\times \left \{ \left [  r_3(2+x_3) \phi_3^{\rm P}(x_3) -r_3 x_3 \phi_3^{\rm T}(x_3)+\phi_3^{\rm A}(x_3)\right ]
+ \cdot h_{\rm a}(x_1,x_3,b_1,b_3) \cdot E_{\rm e}(t_{\rm a})\right.\nonumber\\[1mm]
+&amp;&amp; \left.+2 r_3 \phi_3^{\rm P}(x_3)\cdot h_{\rm b}(x_1,x_3,b_1,b_3) \cdot E_{\rm e}
+(t_{\rm b})\right \}, \label{eq:fesp}
+\eeq
+\beq
+%7
+M_{\rm e}^{\rm LL}&amp;=&amp; \frac{64}{\sqrt{6}} \uppi C_{\rm F} M_{\rm B}^2
+\vint\nolimits_0^1{\rm d}x_1{\rm d} x_{2}{\rm d}x_3\,
+\vint\nolimits_{0}^{\infty} b_1{\rm d}b_1 b_2{\rm d}b_2 \,\phi_{\rm B}(x_1) \phi_2^{\rm A}(x_2)\nonumber\\[3mm]
+&amp; &amp; \times \left \{ \left [ \bar{x}_2 \phi_3^{\rm A}(x_3)
+- x_3 r_3 \left ( \phi_3^{\rm P}(x_3) -\phi_3^{\rm T}(x_3)\right ) \right ] \cdot
+h_{\rm c}(x_i,b_1,b_2) \;E_{\rm e}^{'}(t_{\rm c})\right.\non
+&amp;&amp; \left.
++ \left [ (-x_2-x_3) \phi_3^{\rm A}(x_3) + x_3 r_2 \left ( \phi_3^{\rm P}(x_3)+ \phi_3^{\rm T}(x_3)\right)
+ \right ]\cdot
+h_{\rm d}(x_i,b_1,b_2) \;E_{\rm e}^{'}(t_{\rm d})\right \}, \label{eq:mell}
+\eeq
+%%
+\begin{multicols}{2}
+\beq
+%8
+M_{\rm e}^{\rm LR}&amp;=&amp; \frac{64}{\sqrt{6}} \uppi C_{\rm F} M_{\rm B}^2
+\vint\nolimits_0^1{\rm d}x_1{\rm d} x_{2}{\rm d}x_3\,
+\vint\nolimits_{0}^{\infty} b_1{\rm d}b_1 b_2{\rm d}b_2 \,\phi_{\rm B}(x_1)\non
+&amp; &amp;\times \left \{ \left [ \bar{x}_2 \left ( \phi_2^{\rm P}(x_2) +\phi_2^{\rm T}(x_2)\right ) \phi_3^{\rm A}(x_3)
++x_3 r_3  ( \phi_3^{\rm P}(x_3)\right.\right.\nonumber\\
+&amp;&amp;+\phi_3^{\rm T}(x_3) ) \left ( \phi_2^{\rm P}(x_2) -\phi_2^{\rm T}(x_2)\right )
++\bar{x}_2r_3  ( \phi_3^{\rm P}(x_3)\non
+&amp;&amp; \left.\left.
+ -\phi_3^{\rm T}(x_3) ) \left ( \phi_2^{\rm P}(x_2)
++\phi_2^{\rm T}(x_2)\right ) \right]
+\cdot h_{\rm c}(x_i,b_1,b_2) \;E_{\rm e}^{'}(t_{\rm c})\right.\non
+&amp;&amp; \left.
+-\left [ x_2  \left ( \phi_2^{\rm P}(x_2) -\phi_2^{\rm T}(x_2)\right ) \phi_3^{\rm A}(x_3)
++x_2 r_3  ( \phi_3^{\rm P}(x_3)\right.\right.\nonumber\\
+&amp;&amp;+\phi_3^{\rm T}(x_3) )\left ( \phi_2^{\rm P}(x_2) -\phi_2^{\rm T}(x_2)\right )\non
+&amp;&amp;
++x_3 r_3 \left ( \phi_3^{\rm P}(x_3) +\phi_3^{\rm T}(x_3)\right ) ( \phi_2^{\rm P}(x_2)\nonumber\\
+&amp;&amp;\left.\left.+\phi_2^{\rm T}(x_2) ) \right]
+\cdot h_{\rm d}(x_i,b_1,b_2) \;E_{\rm e}^{'}(t_{\rm d})\right \}, \label{eq:melr}
+\eeq
+\beq
+%9
+M_{\rm e}^{\rm SP}&amp;=&amp; \frac{64}{\sqrt{6}} \uppi C_{\rm F} M_{\rm B}^2
+\vint\nolimits_0^1{\rm d}x_1{\rm d} x_{2}{\rm d}x_3\,
+\vint\nolimits_{0}^{\infty} b_1{\rm d}b_1 b_2{\rm d}b_2 \,\phi_{\rm B}(x_1)\nonumber\\
+&amp;&amp;\times \phi_2^{\rm A}(x_2) \left \{ \left [ (x_2-x_3-1) \phi_3^{\rm A}(x_3)
++ x_3 r_3  \left ( \phi_3^{\rm P}(x_3)\right.\right.\right.\nonumber
+\eeq
+\beq
+&amp;&amp;\left.\left. +\phi_3^{\rm T}(x_3)\right ) \right]
+\cdot h_{\rm c}(x_{\rm i},b_1,b_2) \;E_{\rm e}^{'}(t_{\rm c})\non
+&amp;&amp; + \left [ x_2 \phi_3^{\rm A}(x_3) -x_3 r_3 \left ( \phi_3^{\rm P}(x_3)\right.\right.\nonumber\\
+&amp;&amp;\left.\left.\left. -\phi_3^{\rm T}(x_3)\right )
+\right]\cdot h_{\rm d}(x_{\rm i},b_1,b_2) \;E_{\rm e}^{'}(t_{\rm d})\right \}, \label{eq:mesp}
+\eeq
+where $r_2=m_2/m_{\rm B}$, $r_3=m_3/m_{\rm B}$ and $C_{\rm F}=4/3$ is a color factor.
+The explicit expressions for the convolution functions
+$E_{\rm e}(t_{\rm a,})$ and $E_{\rm a}^{'}(t_{\rm c,d})$, the hard scales
+$t_{\rm a,b,c,d}$, and the hard functions $h_{\rm a,b,c,d}(x_{\rm i},b_{\rm i})$ can be found
+in Ref.~\cite{xiao2008a}. By evaluating the annihilation diagrams Fig.~1(e)--1(h)
+we can find the corresponding decay amplitudes $F_{\rm a}^{\rm LL,LR,SP}$ and $M_{\rm a}^{\rm LL,LR,SP}$,
+similar with those as given in Eqs.~(34)--(38) in Ref.~\cite{fan2013}.
+
+Taking into account the contributions from different Feynman
+diagrams, the total decay amplitudes for $\rm B^0 \to K^+ \uppi^-$ and
+$\rm B^+ \to K^+ \uppi^0$ decays can be written explicitly as:
+\end{multicols}
+\ruleup
+\beq
+%10
+{\cal A}({\rm B^0 \to K^{+} }\uppi^{-}) &amp;=&amp;  V_{\rm ub}^* V_{\rm ud}\; \left [
+f_{\rm K}\; a_1 F_{\rm e}^{\rm LL} +  C_1 \; M_{\rm e}^{\rm LL} \right ]
+- V_{\rm tb}^*V_{\rm td} \Bigl \{ f_{\rm K}\left( a_4+a_{10} \right)F_{\rm e}^{\rm LL} + f_{\rm K}( a_6+
+a_8 ) \; F_{\rm e}^{\rm SP}  + ( C_3 +C_9 )M_{\rm e}^{\rm LL} \non &amp;&amp; +( C_5 +C_7
+)M_{\rm e}^{\rm LR} + f_{\rm B}  \left[  \left(a_4 -\frac{a_{10}}{2} \right) \;
+F_{\rm a}^{\rm LL} +\left ( a_{6} -\frac{a_8}{2} \right ) \; F_{\rm a}^{\rm SP}
+\right] +\left ( C_{3}-\frac{C_9}{2}\right )\; M_{\rm a}^{\rm LL}
++\left (C_{5} -\frac{C_7}{2} \right ) M_{\rm a}^{\rm LR} \Bigr \},~~~~
+\label{eq:abspipi1}
+\eeq
+\beq
+%11
+\sqrt{2} \; {\cal A}{\rm(B^+ \to K^{+}} \uppi^0) &amp;=&amp; V_{\rm ub}^*
+V_{\rm ud}\cdot \left \{ \left [ a_1 f_{\rm K} + a_2 f_{\uppi} \right]F_{\rm e}^{\rm LL}
++ ( C_1 + C_2) M_{\rm e}^{\rm LL} + a_2 f_{\rm B} F_{\rm a}^{\rm LL} + C_1 M_{\rm a}^{\rm LL}\right\} \non
+&amp;&amp; - V_{\rm tb}^* V_{\rm td}\cdot \Bigl \{ \left
+( a_4+ a_{10} \right) \left (f_{\rm K} F_{\rm e}^{\rm LL} + f_{\rm B} F_{\rm a}^{\rm LL} \right)
++(a_6 + a_8 ) \left ( f_{\rm K} F_{\rm e}^{\rm SP} +f_{\rm B} F_{\rm a}^{\rm SP} \right) \non
+&amp;&amp;+ ( C_3 +C_9 ) \left ( M_{\rm e}^{\rm LL} +M_{\rm a}^{\rm LL} \right ) +( C_5 + C_7
+) \left ( M_{\rm e}^{\rm LR} +M_{\rm a}^{\rm LR} \right ) \non
+&amp;&amp; +\frac{3}{2}( -a_8+ a_{10} )  f_{\uppi}\; F_{\rm e}^{\rm LL} +\frac{3}{2} C_8 \; M_{\rm e}^{\rm SP} +
+\frac{3}{2} C_{10} \; M_{\rm e}^{\rm LL} \Bigr \},
+\label{eq:abspipi2}
+\eeq
+\ruledown
+\begin{multicols}{2}
+
+\noindent where $a_i$ is the combination of the Wilson coefficients $C_i$ with the definitions:
+$a_{1,2}=C_{2,1}+\dfrac{C_{1,2}}{3}$, $a_i=C_i+\dfrac{C_{i+1}}{3}$ $\left(a_i= C_i+\dfrac{C_{i-1}}{3}\right)$
+for $i=$3, 5, 7, 9 ($i$=4, 6, 8, 10) respectively.
+The explicit expressions for $\rm B^0 \to K^0 \uppi^0$ and $\rm B^+ \to K^0 \uppi^+$
+decays are similar with those as shown in Eqs.~(\ref{eq:abspipi1}), (\ref{eq:abspipi2}).
+</p>
+</sec>
+
+<sec><title>NLO contributions</title>
+<p>
+
+Based on the power counting rule in the pQCD factorization approach \cite{nlo05},
+the following NLO contributions should be included \cite{nlo05}:
+
+1) The Wilson coefficients $C_i(M_{\rm W})$ at NLO level \cite{buras96},
+the renormalization group evolution matrix $U(t,m,\alpha)$ at NLO level
+and the strong coupling constant $\alpha_{\rm s}(t)$ at {the} two-loop level \cite{pdg2012}.
+
+2) The currently known NLO contributions to hard kernel $H^{(1)}(\alpha_{\rm s}^2)$ include
+\cite{nlo05,o8g2003,prd85-074004}:
+
+(a) The vertex correction (VC) from the Feynman diagrams Fig.~2(a)--2(d);
+
+(b) The NLO contributions from the quark-loops (QL) as shown in Fig.~2(e)--2(f);
+
+(c) The NLO contributions from the operator $O_{8g}$ as shown in Fig.~2(g)--2(h) \cite{o8g2003};
+
+(d) The NLO contributions to the form factors as shown in Fig.~2(i)--2(l)~\cite{prd85-074004}.
+
+
+%fig 2
+\vspace{-4mm}
+\begin{center}
+\includegraphics{baiw-2}
+\figcaption{\label{fig:fig2}The typical Feynman diagrams for currently known NLO contributions:
+the vertex corrections (a--d); the quark-loop (e--f);  the chromo-magnetic
+penguins (g--h); and the NLO contributions to form factors (i--l).\vspace{-3mm}}
+\end{center}
+
+The still missing NLO parts in the pQCD approach are the $O(\alpha_{\rm s}^2)$
+contributions from hard spectator diagrams and annihilation diagrams,
+as illustrated by Fig.~5 in Ref.~\cite{fan2013}.
+According to the general arguments as presented in Ref.~\cite{nlo05} and
+explicit numerical comparisons of the contributions from
+different sources for $\rm B \to K \uppi$ decays as made in Ref.~\cite{fan2013},
+one generally {believes} that these still missing NLO parts should be very small
+and can be neglected safely. The major reasons are the following:
+
+1) For the non-factorizable spectator diagrams in Fig.~1(c)--1(d),
+their LO contributions are strongly suppressed by the isospin symmetry
+and color-suppression with respect to the factorizable emission diagrams Fig.~1(a)--1(b).
+The NLO contributions from Figs.~5(a)--5(d) in Ref.~\cite{fan2013} are higher
+order corrections to small LO quantities.
+
+2) For the annihilation spectator diagrams at leading order, i.e. Figs.~1(e)--1(h),
+they are power suppressed and generally much smaller with respect to the
+contributions from the emission diagrams Fig.~1(a)--1(b).
+The NLO contributions from Figs.~5(e)--5(h) in Ref.~\cite{fan2013}
+are also {in} the higher order corrections to the small LO quantities.
+
+3) Taking $\rm B^+ \to K^+ \upeta$ decay as an example, as shown in Eq.~(87) of
+Ref.~\cite{fan2013}, the relative strength of the individual LO contribution
+$\calm^{\rm a+b}$ from the emission diagrams, $\calm^{\rm c+d}$ and $\calm^{\rm anni}$ from
+the spectator and the annihilation diagram respectively can be evaluated through the following ratio:
+\beq
+%12
+|\calm^{\rm a+b}|^2:|\calm^{\rm c+d}|^2:|\calm^{\rm anni}|^2=3.23\bb 0.02\bb 0.33.
+\eeq
+One can see directly from the above ratio that the contribution from {the}
+emission diagram is indeed dominant, while the contribution from
+$\calm^{\rm c+d}$ ( $\calm^{\rm anni}$ ) is less than $1\%$ ($10\%$) of the dominant one.
+
+
+Based on about reasonable arguments and explicit numerical examinations, one can
+see that the still missing NLO parts in the pQCD approach are higher order corrections
+to those small LO quantities, and therefore should be very small and can be neglected
+safely. For more details of numerical comparisons, one can see Ref.~\cite{fan2013}.
+
+The vertex corrections from the Feynman diagrams as shown in Figs.~2(a)--2(d),
+have been calculated years ago in the QCD factorization {approach} \cite{bbns99,npb675}.
+Since there is no end-point singularity in the evaluations of
+Figs.~2(a)--2(d), it is unnecessary to employ the $k_{\rm T}$ factorization
+theorem here \cite{nlo05}. The NLO vertex corrections will be included by adding a same vertex function $V_i(M)$
+to the corresponding Wilson coefficients $a_i(\mu)$ as in Refs.~\cite{bbns99,npb675,xiao2008a}.
+
+For the $\rm b\rightarrow s$ transition, the contributions from the various quark
+loops are given by \cite{nlo05}
+\beq
+%13
+H_{\rm eff}&amp;=&amp;-\sum_{\rm q=u,c,t}\sum_{\rm q^{\prime}}\frac{G_{\rm F}}{\sqrt{2}}V_{\rm qb}V_{\rm qs}^{*}
+\frac{\alpha_{\rm s}(\mu)}{2\uppi}C^{\rm (q)}(\mu,l^{2})\nonumber\\[3mm]
+&amp;&amp;\times\left [ \bar{s}\gamma_{\uprho} \left ( 1-\gamma_{5} \right )T^{\rm a}b \right ]
+\left (\bar{q}^{\prime}\gamma^{\uprho}T^{\rm a}q^{\prime} \right ),
+\eeq
+where $l^{2}$ is the invariant mass of the gluon, which attaches the quark loops
+in Fig.~2(e) and 2(f). The expressions of the functions $C^{\rm q}(\mu,l^{2})$ for $\rm q=(u,c,t)$
+can be found easily in Refs.~\cite{nlo05,xiao2008a}.
+
+The magnetic penguin is another kind penguin correction induced by the insertion of
+the operator $O_{8g}$, as illustrated by Fig.~2(g) and 2(h). The corresponding weak
+effective Hamiltonian {which} contains the $\rm b\to s g$ transition can be written as
+\beq
+%14
+H_{\rm eff}^{\rm mp} =-\frac{G_{\rm F}}{\sqrt{2}} \frac{g_{\rm s}}{8\uppi^2} m_{\rm b}
+V_{\rm tb}V_{\rm ts}^* C_{\rm 8g}^{\rm eff} \left [\bar{s}_{\rm i} \sigma^{\mu\nu}\; (1+\gamma_5)\;
+ T^{\rm a}_{\rm ij}\; G^{\rm a}_{\mu\nu} b_{\rm j} \right ],\nonumber\\
+\label{eq:o8g}
+\eeq
+where i, j are the color indices of quarks, $C_{\rm 8g}^{\rm eff}= C_{\rm 8g} + C_5$ \cite{nlo05}
+is the effective Wilson coefficient.
+
+For the sake of convenience we denote all current known NLO
+contributions except for those to the form factors by the term
+Set-A. For the four $\rm B\to K \uppi$ decays, the Set-A NLO contributions
+will be included in a simple way:
+\beq
+%15
+\begin{split}
+{\cal A}_{\uppi\rm K} &amp;\to  {\cal A}_{\uppi\rm K} +
+\sum_{\rm q=u,c,t} \xi_{\rm q}{\cal M}_{\uppi\rm K}^{\rm(q)} + \xi_{\rm t}{\cal M}_{\uppi\rm K}^{\rm(g)}, \\
+{\cal A}_{\rm K \uppi} &amp;\to {\cal A}_{\rm K \uppi}+ \sum_{\rm q=u,c,t}
+\xi^{\prime}_{\rm q}{\cal M}_{\rm K \uppi}^{\rm (q)}+ \xi^{\prime}_{\rm t}{\cal M}_{\rm K \uppi}^{\rm(g)},
+\end{split}
+\eeq
+where $\xi_{\rm q}= V_{\rm qb}V_{\rm qd}^*$, $\xi^{\prime}_{\rm q} = V_{\rm qb}V_{\rm qs}^*$ with
+$\rm q=u,c,t$, while the decay
+amplitudes ${\cal M}^{\rm (q)}_{M_{\rm i},M_{\rm j}}$ and ${\cal M}^{\rm (g)}_{M_{\rm i},M_{\rm j}}$
+are of the form:
+\end{multicols}
+\ruleup
+\beq
+%16
+{\cal M}^{\rm (q)}_{\rm \uppi^- K^+}&amp;=&amp; -8m_{\rm B}^4\frac{{C_{\rm F}}^2}{\sqrt{2N_{\rm c}}}
+\vint\nolimits_0^1{\rm d}x_1{\rm d}x_2 {\rm d}x_3
+\vint\nolimits_0^\infty b_1{\rm d}b_1b_3{\rm d}b_3 \,\phi_{\rm B}(x_1) \left \{ \left [
+(1+x_3)\phi_{\uppi}^{\rm A}(x_3) \phi_{\rm K}^{\rm A}(x_2)+
+2r_{\uppi}\phi_{\rm K}^{\rm P}(x_2) \phi_{\uppi}^{\rm A}(x_3) \right.\right. \non &amp;&amp;
+\left.\left. + r_{\uppi}(1-2x_3)\phi_{\rm K}^{\rm A}(x_2)(\phi_{\uppi}^{\rm P}(x_3)+\phi_{\uppi}^{\rm T}(x_3))
++ 2r_{\uppi} r_{\rm K} \phi_{\rm K}^{\rm P}(x_2)
+((2+x_3)\phi_{\uppi}^{\rm P}(x_3) -x_3\phi_{\uppi}^{\rm T}(x_3)) \right ] \right.\non &amp;&amp;
+\left. \times \alpha_{\rm s}^2(t_{\rm a}) h_{\rm e}(x_1,x_3,b_1,b_3)
+\exp[-S_{\rm ab}(t_{\rm a})] C^{\rm (q)}(t_{\rm a},l^2) \right.  \left. + \left [
+2r_{\uppi}\phi_{\rm K}^{\rm A}(x_2)\phi_{\uppi}^{\rm P}(x_3) +
+4r_{\uppi}r_{\rm K}\phi_{\rm K}^{\rm P}(x_2)\phi_{\uppi}^{\rm P}(x_3) \right ] \right. \non &amp;&amp;
+\left. \times \alpha_{\rm s}^2(t_{\rm b}) h_{\rm e}(x_3,x_1,b_3,b_1)
+\exp[-S_{\rm ab}(t_{\rm b})] C^{\rm(q)}(t_{\rm b},l'^2)\right \},\\
+\label{eq:mqkpi}
+{\cal M}^{\rm (g)}_{\rm\uppi^- K^+} &amp;=&amp;-16m_{\rm B}^6\frac{{C_{\rm F}}^2}
+{\sqrt{2N_{\rm c}}} \vint\nolimits_0^1{\rm d}x_1{\rm d}x_2{\rm d}x_3
+\vint\nolimits_0^\infty b_1{\rm d}b_1b_2{\rm d}b_2b_3{\rm d}b_3\, \phi_{\rm B}(x_1)
+\cdot \left \{ \left [ (1-x_3) \left [ 2\phi_{\uppi}^{\rm A}(x_3) +
+r_{\uppi}(3\phi_{\uppi}^{\rm P}(x_3) +\phi_{\uppi}^{\rm T}(x_3) )
+\right.\right.\right.
+\non &amp;&amp; \left.\left.\left.
++ r_{\uppi} x_3(\phi_{\uppi}^{\rm P}(x_3)-\phi_{\uppi}^{\rm T}(x_3)) \right ]
+\phi_{\rm K}^{\rm A}(x_2)- r_{\rm K}x_2(1+x_3) (3\phi_{\rm K}^{\rm P}(x_2)
+-\phi_{\rm K}^{\rm T}(x_2))\phi_{\uppi}^{\rm A}(x_3)
+ -r_{\uppi}r_{\rm K}(1-x_3)(3\phi_{\rm K}^{\rm P}(x_2)\right.\right.\nonumber
+\eeq
+\beq
+%17
+&amp;&amp; \left.\left.
++ \phi_{\rm K}^{\rm T}(x_2))(\phi_{\uppi}^{\rm P}(x_3) -\phi_{\uppi}^{\rm T}(x_3))
+- r_{\uppi}r_{\rm K} x_2 (1-2x_3)(3\phi_{\rm K}^{\rm P}(x_2) -
+\phi_{\rm K}^{\rm T}(x_2))(\phi_{\uppi}^{\rm P}(x_3) + \phi_{\uppi}^{\rm T}(x_3)) \right ]\right.\non
+&amp;&amp;\times \alpha_{\rm s}^2(t_{\rm a})
+h_{\rm g}(x_{\rm i},b_{\rm i}) \exp[-S_{\rm cd}(t_{\rm a})] C_{\rm 8g}^{\rm eff}(t_{\rm a})
++ \left [ 4r_{\uppi}\phi_{\rm K}^{\rm A}(x_2)\phi_{\uppi}^{\rm P}(x_3)
++ 2r_{\rm K}r_{\uppi} x_2(3\phi_{\rm K}^{\rm P}(x_2)\right.\non
+&amp;&amp;\left.- \phi_{\rm K}^{\rm T}(x_2))\phi_{\uppi}^{\rm P}(x_3)\right ]\left.
+\alpha_{\rm s}^2(t_{\rm b}) h'_{\rm g}(x_{\rm i},b_{\rm i})
+\exp[-S_{\rm cd}(t_{\rm b})] C_{\rm 8g}^{\rm eff}(t_{\rm b})\right\},
+\label{eq:mgkpi}
+\eeq
+\ruledown
+\begin{multicols}{2}
+\beq
+%18,19
+\sqrt{2}{\cal M}^{\rm (q)}_{\rm K^0 \uppi^0}&amp;=&amp;  {\cal M}^{\rm (q)}_{\rm \uppi^- K^+}=
+{\cal M}^{\rm (q)}_{\rm K^0 \uppi^+}= {\cal M}^{\rm (q)}_{\rm K^+ \uppi^0}, \\[3mm]
+\sqrt{2}{\cal M}^{\rm (g)}_{\rm K^0 \uppi^0}&amp;=&amp; {\cal M}^{\rm (g)}_{\rm \uppi^- K^+}
+={\cal M}^{\rm (g)}_{\rm K^0 \uppi^+}= {\cal M}^{\rm (g)}_{\rm K^+ \uppi^0} ,
+\eeq
+where the expressions of the Sudakov factors $S_{\rm ab}(t_{\rm i})$ and $S_{\rm cd}(t_{\rm i})$,
+the functions $C^{\rm (q)}(t_{\rm a},l^2)$ and $C^{\rm (q)}(t_{\rm b},l'^2)$, can be found easily in
+Refs.~\cite{nlo05,xiao2008a}.
+
+In Ref.~\cite{prd85-074004}, the authors derived the $k_{\rm T}$-dependent NLO hard kernel
+$H^{(1)}$ for the $\rm B \to \uppi$ transition form factor.
+Here we quote their results directly, and extend the expressions to the $\rm B \to K$
+transitions under the assumption of $SU(3)$ flavor symmetry.
+At the NLO level, the hard kernel function $H$ can then be written as
+\beq
+%20
+H&amp;=&amp;H^{(0)}(\alpha_{\rm s})+ H^{(1)}(\alpha_{\rm s}^2)\nonumber\\
+&amp;=&amp; \left [ 1+F(x_1,x_3,\mu,\mu_{\rm f},\eta,\zeta_1) \right ] H^{(0)}(\alpha_{\rm s}),
+\eeq
+where the expression of the NLO factor $F(x_1$, $x_3$, $\mu$, $\mu_{\rm f}$, $\eta$, $\zeta_1)$ can
+be found in Eq.~(56) of Ref.~\cite{prd85-074004}.
+
+</p>
+</sec>
+
+<sec><title>NLO contributions</title>
+<p>
+
+In numerical calculations, the following input parameters will be used \cite{pdg2012}
+( all the masses, QCD scale and decay constants are in units of GeV):
+\beq
+%21
+\varLambda_{\rm QCD}&amp;=&amp; 0.25, \quad m_{\rm W}=80.40, \quad m_{\rm B} = 5.28, \quad m_{\uppi}=0.14,\nonumber\\[1mm]
+m_{\rm K}&amp;=&amp;0.494; \quad f_{\uppi}= 0.13, \quad f_{\rm K}=0.16,\\[1mm]
+\tau_{\rm B^0}&amp;=&amp; 1.528~\rm ps,\quad \tau_{B^{+}} = 1.643~\rm ps.\nonumber
+\label{eq:mass}
+\eeq
+For the CKM  matrix elements in the Wolfenstein
+parametrization, we use $\lambda = 0.2254$, $A= 0.817$,
+$\bar{\rho} = 0.136^{+0.019}_{-0.018}$ and $ \bar{\eta}= 0.348\pm 0.013$ \cite{pdg2012}.
+For the Gegenbauer moments and other relevant input parameters,
+we use~\cite{ball2006}
+\beq
+%22
+a_1^\uppi &amp;=&amp; 0, \quad a_1^{\rm K}=0.06, \quad a_2^{\uppi}=a_2^{\rm K}=0.25\pm 0.15, \non
+a_4^{\uppi} &amp;=&amp; -0.015,\quad a_4^{\rm K} = 0, \quad \rho_\uppi = m_\uppi/m_0^\uppi,\\
+\rho_{\rm K} &amp;=&amp; m_{\rm K}/m_0^{\rm K}, \quad \eta_3 = 0.015, \quad \omega_3=-3.0,\nonumber
+\label{eq:pa-1}
+\eeq
+with the chiral mass $m_0^\uppi=(1.4 \pm 0.1)$~GeV, and $m_0^{\rm K}=(1.6 \pm 0.1)$~GeV.
+
+
+From the decay amplitudes and the input parameters, it is straightforward to calculate the branching
+ratios and $CP$ violating asymmetries for the four considered $\rm B \to K \uppi$ decays \cite{nlo05,xiao2008a}.
+
+In Tables~1 and 2, we show the LO and NLO pQCD predictions for the branching ratios
+and the direct $CP$ violating asymmetries of the considered four $\rm B\to K\uppi$ decays.
+In Tables~1 and 2, we list only the central values of the LO pQCD predictions in
+column two, and the central values and the major theoretical errors simultaneously
+in column four. The first error arises from the uncertainty of
+$\omega_{\rm B}=(0.40\pm 0.04)$~GeV, the second one from the uncertainty of
+$a_2^{\rm \uppi,K}=0.25\pm 0.15$, and the third one is induced by the
+variations of both $m_0^{\rm K}=(1.6 \pm 0.1)$~GeV and $m_0^\uppi=(1.4 \pm 0.1)$~GeV.
+The errors induced by the uncertainties of other input parameters are very
+small and have been neglected. As a comparison, we also show the partial
+pQCD predictions obtained in this work (labeled by Set-A in column three)
+and those as given in Ref.~\cite{nlo05} in the column five, where the same
+Set-A NLO contributions are included. One can see from those numerical results that:
+
+1) For branching ratios, the central values of pQCD predictions as given in column three
+in Table~1 are smaller than those as shown in column five by about thirty percent,
+such {differences} are largely induced by the change of the lower cutoff of the hard scale
+$t$ from $\mu_0=0.5$~GeV in Ref.~\cite{nlo05} to $\mu_0=1$~GeV here,
+because it may be conceptually incorrect to evaluate the Wilson coefficients
+at scales down to 0.5~GeV \cite{xiao2008a,beneke07}.
+For direct $CP$ violating asymmetries, as shown in the third and fifth column of
+Table~2, the changes of the pQCD predictions due to the variation of $\mu_0$ are
+rather small, this is consistent with the general expectation.
+
+2) Analogous to the case for $\rm B \to K \etap$ decays
+as shown explicitly in Table &amp;#xa2;&amp;#xf8;\/ and &amp;#xa2;&amp;#xf9;\/ in Ref.~\cite{fan2013},
+the NLO contributions to the decay amplitudes from the vertex, the
+quark-loop and the magnetic penguins are largely canceled from each
+other, and in turn leaving only a roughly 10\% enhancement to the
+LO pQCD predictions of the branching ratios.
+
+3) As listed in Table~1 of Ref.~\cite{wang2012}, the NLO contribution to the
+form factor for $\rm B \to \uppi$ ($\rm B\to K$) transition can provide a 18\% (15\%)
+enhancement to the corresponding LO result:
+\beq
+%23
+F_0^{\rm LO}(0){\rm (B\to} \uppi)&amp;=&amp;0.22\pm 0.04 \longrightarrow F_0^{\rm NLO}(0)\rm(B\to \uppi)\nonumber\\
+&amp;=&amp;0.26\pm 0.04, \non
+F_0^{\rm LO}(0){\rm (B\to K)}&amp;=&amp; 0.27\pm 0.05 \longrightarrow F_0^{\rm NLO}(0)\rm(B\to K)\nonumber\\
+&amp;=&amp;0.31\pm 0.05.
+\eeq
+Such enhancement to form factors $F_0^{\rm B\to \uppi}(0)$ and $F_0^{\rm B\to K}(0)$
+can in turn result in an additional 12\% to 18\% enhancement to branching ratios
+relative to the results in the third column with the label ``Set-A",
+as illustrated clearly by the numerical results in column four of Table~1,
+
+
+%table 1
+\end{multicols}
+\begin{center}
+\renewcommand{\arraystretch}{1.5}
+\tabcaption{\label{tab:br}The LO and NLO pQCD predictions for branching ratios $Br(\rm B \to K\uppi)$
+(in units of $10^{-6}$), the previous pQCD predictions in Ref.~\cite{nlo05} and
+the relevant data \cite{pdg2012,hfag2012} {will} also be listed in {the} last two columns.}
+\footnotesize
+\begin{tabular*}{178mm}{@{\extracolsep{\fill}}cccccccc}
+\toprule
+&amp; decay modes &amp; LO  &amp; Set-A &amp; NLO: this work   &amp; pQCD \cite{nlo05} &amp; data \\
+\hline
+ &amp; $\rm B^0\rightarrow K^{0}\uppi^{0}$               &amp; $6.3$   &amp; $6.6$   &amp;$7.4^{+2.2+1.3+0.9}_{-1.5-1.2-0.9}$
+  &amp;$ 9.1^{+5.6}_{-3.3}$&amp;$9.9\pm 0.5$ \\
+ &amp; $\rm B^0\rightarrow K^{+}\uppi^{-}$                &amp; $14.4$   &amp; $15.3$   &amp;$17.7^{+5.5+2.6+2.0}_{-3.8-2.4-2.0}$
+  &amp;$20.9^{+15.6}_{-6.3}$&amp; $19.6\pm0.5$ \\
+ &amp; $\rm B^+\rightarrow K^{+}\uppi^{0}$                &amp; $10.1$   &amp; $10.6$   &amp;$12.5^{+4.0+1.7+1.3}_{-2.8-1.6-1.2}$
+  &amp;$13.9^{+10}_{-5.6}$&amp;$12.9\pm0.5$ \\
+ &amp; $\rm B^+\rightarrow K^{0}\uppi^{+}$             &amp; $17.5$   &amp; $18.4$  &amp; $21.5^{+6.7+3.4+2.8}_{-4.7-3.1-2.3}$
+  &amp;$24.5^{+13.6}_{-8.1}$&amp;$23.8\pm 0.7$\\
+\bottomrule
+\end{tabular*}%
+\end{center}
+
+%table 2
+\begin{center}
+\renewcommand{\arraystretch}{1.5}
+\tabcaption{\label{tab:acpdir}The same as in Table 1, but for the pQCD predictions for the
+direct $CP$ violations $\acp^{\rm dir}\rm(B \to K \uppi)$ (in units of $10^{-2}$).}
+\footnotesize
+\begin{tabular*}{178mm}{@{\extracolsep{\fill}}cccccccc}
+\toprule
+&amp; decay modes  &amp; LO   &amp; Set-A  &amp; NLO: this work &amp; pQCD \cite{nlo05} &amp; data \\
+\hline
+&amp; $\acp^{\rm dir}\rm(B^0\to K^{0}\uppi^{0})$           &amp; $-2.2$     &amp;$-7.0$
+  &amp;$-7.9^{+0.3+0.8+0.4}_{-0.23-0.9-0.5}$     &amp;$-7\pm 3$&amp; $0\pm 13$ \\
+ &amp; $\acp^{\rm dir}\rm(B^+\to K^{0}\uppi^{+})$           &amp; $-0.75$     &amp; $0.40$
+  &amp;$0.38 ^{+0.09+0.02+0.03} _{-0.11-0.07-0.05}$             &amp;$0\pm 0$&amp;$-1.5\pm 1.2$\\
+ &amp; $\acp^{\rm dir}\rm (B^0\to K^{+}\uppi^{-})$           &amp; $-12.6$    &amp; $-6.4$
+  &amp;$-6.5 ^{+2.1} _{-2.0}\pm 2.3\pm 0.3$             &amp;$-9^{+6}_{-8}$&amp;$-8.7\pm 0.8$ \\
+ &amp; $\acp^{\rm dir}\rm (B^+\to K^{+}\uppi^{0})$           &amp; $-8.6$     &amp; $2.0$
+  &amp;$2.2^{+1.7}_{-1.8} \pm 1.2 \pm 0.1$      &amp;$-1^{+3}_{-5}$&amp;$ 3.7\pm 2.1$ \\
+\bottomrule
+\end{tabular*}%
+\end{center}
+\begin{multicols}{2}
+
+\noindent and consequently lead to a very good agreement
+between the NLO pQCD predictions and the measured values within errors.
+
+4) For $\acp^{\rm dir}\rm (B^0\to K^{0}\uppi^{0})$ and $\acp^{\rm dir}\rm(B^+\to K^{0}\uppi^{+})$,
+the  pQCD predictions agree well with the data.
+
+5) At the leading order, the pQCD predictions for
+$\acp^{\rm dir}\rm(B^0\to K^+\uppi^- )$ and $\acp^{\rm dir}\rm(B^+\to K^+ \uppi^0)$
+are indeed similar in both the sign and the magnitude, $-12.6\%$ vs $-8.6\%$,
+as generally expected. After the inclusion of the NLO contributions, however, they become rather different
+as can be seen from Table~2. The NLO pQCD predictions, consequently,
+{come to} agree well with the data. One can also see that the pQCD predictions for
+$\acp^{\rm dir}\rm(B^0\to K^+\uppi^- )$ and
+$\acp^{\rm dir}\rm(B^+\to K^+ \uppi^0)$ remain basically unchanged when the NLO
+corrections to the form factors are taken into account.
+
+In summary, we studied the $\rm B \to K \uppi$ decays by employing the pQCD
+factorization approach. We focus on checking the effects of all currently known
+NLO contributions to the branching ratios and direct $CP$ violations of the considered
+decay modes, especially the rule of the NLO corrections to
+the form factors $F_0^{\rm B\to \uppi}(q^2)$ and $F_0^{\rm B\to K}(q^2)$.
+Based on the numerical calculations and the
+phenomenological analysis, the following points have been observed:
+
+1) Besides the 10\% enhancement from the Set-A NLO contributions,
+the NLO contributions to the form factors can provide an additional $\sim 15\%$
+enhancement to the branching ratios, and lead to a very good agreement with the data.
+
+2) With the inclusion of all known NLO contributions, the NLO pQCD predictions are
+\begin{eqnarray}
+\begin{split}
+%24
+\acp^{\rm dir}\rm(B^0\to K^+\uppi^- )&amp;=(-6.5\pm 3.1)\%, \\[3mm]
+\acp^{\rm dir}\rm(B^+\to K^+ \uppi^0)&amp;=(2.2\pm 2.0)\%,
+\end{split}
+\end{eqnarray}
+where the theoretical errors have been added in quadrature, which
+agree well with the data.
+</p>
+</sec>
+</body>
+
+<back>
+<ref-list content-type="numerical">
+<title>References</title>
+
+<ref id="pdg2012"><label>1</label><element-citation><uri>http://dx.doi.org/10.1103/PhysRevD.86.010001</uri></element-citation></ref>
+
+<ref id="hfag2012"><label>2</label><mixed-citation>Heavy Flavor Averaging Group, Amhis Y. et al. arXiv:1207.1158 [hep-ex]; www.slac.stanford.edu/xorg/hfag</mixed-citation></ref>
+
+<ref id="exp2013"><label>3</label><element-citation><uri>http://dx.doi.org/10.1103/PhysRevLett.108.201601</uri></element-citation></ref>
+
+<ref id="nlo05"><label>4</label><element-citation><uri>http://dx.doi.org/10.1103/PhysRevD.72.114005</uri></element-citation></ref>
+
+<ref id="prd85-074004"><label>5</label><element-citation><uri>http://dx.doi.org/10.1103/PhysRevD.85.074004</uri></element-citation></ref>
+
+<ref id="li2003"><label>6</label><element-citation><uri>http://dx.doi.org/10.1016/S0146-6410(03)90013-5</uri></element-citation></ref>
+
+<ref id="keum01"><label>7</label><element-citation><uri>http://dx.doi.org/10.1016/S0370-2693(01)00247-7</uri></element-citation><element-citation><uri>http://dx.doi.org/10.1103/PhysRevD.63.054008</uri></element-citation></ref>
+
+<ref id="lu01"><label>8</label><element-citation><uri>http://dx.doi.org/10.1103/PhysRevD.63.074009</uri></element-citation></ref>
+
+<ref id="xiao2008a"><label>9</label><element-citation><uri>http://dx.doi.org/10.1103/PhysRevD.78.114001</uri></element-citation></ref>
+
+<ref id="ball2006"><label>10</label><mixed-citation>Ball P. \jhep, 1998, {\bf 09}: 005</mixed-citation><mixed-citation>\jhep, 1999, {\bf 01}: 010</mixed-citation><element-citation><uri>http://dx.doi.org/10.1103/PhysRevD.71.014015</uri></element-citation><mixed-citation>Ball P, Braun V M, Lenz A. \jhep, 2006, {\bf 05}: 004</mixed-citation></ref>
+
+<ref id="liy2004"><label>11</label><element-citation><uri>http://dx.doi.org/10.1103/PhysRevD.70.034009</uri></element-citation></ref>
+
+<ref id="ali2007"><label>12</label><element-citation><uri>http://dx.doi.org/10.1103/PhysRevD.76.074018</uri></element-citation></ref>
+
+<ref id="fan2013"><label>13</label><element-citation><uri>http://dx.doi.org/10.1103/PhysRevD.87.094003</uri></element-citation></ref>
+
+<ref id="buras96"><label>14</label><mixed-citation>Buchalla G, Buras A J, Lautenbacher M E. \rmp, 1996, {\bf 68}: 1215</mixed-citation></ref>
+
+<ref id="o8g2003"><label>15</label><element-citation><uri>http://dx.doi.org/10.1143/PTP.110.549</uri></element-citation></ref>
+
+<ref id="bbns99"><label>16</label><element-citation><uri>http://dx.doi.org/10.1103/PhysRevLett.83.1914</uri></element-citation><element-citation><uri>http://dx.doi.org/10.1016/S0550-3213(00)00559-9</uri></element-citation></ref>
+
+<ref id="npb675"><label>17</label><element-citation><uri>http://dx.doi.org/10.1016/j.nuclphysb.2003.09.026</uri></element-citation></ref>
+
+<ref id="beneke07"><label>18</label><element-citation><uri>http://dx.doi.org/10.1016/j.nuclphysbps.2007.05.002</uri></element-citation></ref>
+
+<ref id="wang2012"><label>19</label><element-citation><uri>http://dx.doi.org/10.1103/PhysRevD.86.114025</uri></element-citation>
+</ref></ref-list>
+</back>
+</article>

@@ -1,25 +1,25 @@
 test_and_search (__main__.TestBuild.test_and_search) ... ok
-test_binary_format (__main__.TestBuild.test_binary_format) ... /Users/alexganyak/Documents/Codex/2026-11-25/files-mentioned-by-the-user-python/work/github-my-labs/lab7_boolean_index/test_lab7.py:113: ResourceWarning: unclosed file <_io.BufferedReader name='/var/folders/g6/q7ypm1kn7b36np4md8krwc5r0000gn/T/tmpvxylp1wp/index_raw_1000000/postings.bin'>
+test_binary_format (__main__.TestBuild.test_binary_format) ... /Users/alexganyak/Documents/Codex/2026-11-25/files-mentioned-by-the-user-python/work/github-my-labs/lab7_boolean_index/test_lab7.py:113: ResourceWarning: unclosed file <_io.BufferedReader name='/var/folders/g6/q7ypm1kn7b36np4md8krwc5r0000gn/T/tmpqqi1fjsx/index_raw_1000000/postings.bin'>
   raw = open(os.path.join(index_dir, "postings.bin"), "rb").read()
 ResourceWarning: Enable tracemalloc to get the object allocation traceback
 ok
 test_cli (__main__.TestBuild.test_cli) ... ok
-test_dictionary_sorted (__main__.TestBuild.test_dictionary_sorted) ... /Users/alexganyak/Documents/Codex/2026-11-25/files-mentioned-by-the-user-python/work/github-my-labs/lab7_boolean_index/test_lab7.py:75: ResourceWarning: unclosed file <_io.TextIOWrapper name='/var/folders/g6/q7ypm1kn7b36np4md8krwc5r0000gn/T/tmp05p7znub/index_raw_1000000/dictionary.txt' mode='r' encoding='utf-8'>
+test_dictionary_sorted (__main__.TestBuild.test_dictionary_sorted) ... /Users/alexganyak/Documents/Codex/2026-11-25/files-mentioned-by-the-user-python/work/github-my-labs/lab7_boolean_index/test_lab7.py:75: ResourceWarning: unclosed file <_io.TextIOWrapper name='/var/folders/g6/q7ypm1kn7b36np4md8krwc5r0000gn/T/tmpplirnr4q/index_raw_1000000/dictionary.txt' mode='r' encoding='utf-8'>
   terms = [line.split("\t")[0] for line in open(os.path.join(index_dir, "dictionary.txt"), encoding="utf-8")]
 ResourceWarning: Enable tracemalloc to get the object allocation traceback
 ok
 test_doc_names (__main__.TestBuild.test_doc_names) ... ok
 test_files_created (__main__.TestBuild.test_files_created) ... ok
-test_multi_block_same_result (__main__.TestBuild.test_multi_block_same_result) ... /Users/alexganyak/Documents/Codex/2026-11-25/files-mentioned-by-the-user-python/work/github-my-labs/lab7_boolean_index/test_lab7.py:102: ResourceWarning: unclosed file <_io.TextIOWrapper name='/var/folders/g6/q7ypm1kn7b36np4md8krwc5r0000gn/T/tmp545pxpro/index_raw_1000000/dictionary.txt' mode='r' encoding='utf-8'>
+test_multi_block_same_result (__main__.TestBuild.test_multi_block_same_result) ... /Users/alexganyak/Documents/Codex/2026-11-25/files-mentioned-by-the-user-python/work/github-my-labs/lab7_boolean_index/test_lab7.py:102: ResourceWarning: unclosed file <_io.TextIOWrapper name='/var/folders/g6/q7ypm1kn7b36np4md8krwc5r0000gn/T/tmpj9zh8v76/index_raw_1000000/dictionary.txt' mode='r' encoding='utf-8'>
   single = open(os.path.join(single_dir, "dictionary.txt"), encoding="utf-8").read()
 ResourceWarning: Enable tracemalloc to get the object allocation traceback
-/Users/alexganyak/Documents/Codex/2026-11-25/files-mentioned-by-the-user-python/work/github-my-labs/lab7_boolean_index/test_lab7.py:103: ResourceWarning: unclosed file <_io.TextIOWrapper name='/var/folders/g6/q7ypm1kn7b36np4md8krwc5r0000gn/T/tmp545pxpro/index_raw_3/dictionary.txt' mode='r' encoding='utf-8'>
+/Users/alexganyak/Documents/Codex/2026-11-25/files-mentioned-by-the-user-python/work/github-my-labs/lab7_boolean_index/test_lab7.py:103: ResourceWarning: unclosed file <_io.TextIOWrapper name='/var/folders/g6/q7ypm1kn7b36np4md8krwc5r0000gn/T/tmpj9zh8v76/index_raw_3/dictionary.txt' mode='r' encoding='utf-8'>
   multi = open(os.path.join(multi_dir, "dictionary.txt"), encoding="utf-8").read()
 ResourceWarning: Enable tracemalloc to get the object allocation traceback
-/Users/alexganyak/Documents/Codex/2026-11-25/files-mentioned-by-the-user-python/work/github-my-labs/lab7_boolean_index/test_lab7.py:105: ResourceWarning: unclosed file <_io.BufferedReader name='/var/folders/g6/q7ypm1kn7b36np4md8krwc5r0000gn/T/tmp545pxpro/index_raw_1000000/postings.bin'>
+/Users/alexganyak/Documents/Codex/2026-11-25/files-mentioned-by-the-user-python/work/github-my-labs/lab7_boolean_index/test_lab7.py:105: ResourceWarning: unclosed file <_io.BufferedReader name='/var/folders/g6/q7ypm1kn7b36np4md8krwc5r0000gn/T/tmpj9zh8v76/index_raw_1000000/postings.bin'>
   single_bin = open(os.path.join(single_dir, "postings.bin"), "rb").read()
 ResourceWarning: Enable tracemalloc to get the object allocation traceback
-/Users/alexganyak/Documents/Codex/2026-11-25/files-mentioned-by-the-user-python/work/github-my-labs/lab7_boolean_index/test_lab7.py:106: ResourceWarning: unclosed file <_io.BufferedReader name='/var/folders/g6/q7ypm1kn7b36np4md8krwc5r0000gn/T/tmp545pxpro/index_raw_3/postings.bin'>
+/Users/alexganyak/Documents/Codex/2026-11-25/files-mentioned-by-the-user-python/work/github-my-labs/lab7_boolean_index/test_lab7.py:106: ResourceWarning: unclosed file <_io.BufferedReader name='/var/folders/g6/q7ypm1kn7b36np4md8krwc5r0000gn/T/tmpj9zh8v76/index_raw_3/postings.bin'>
   multi_bin = open(os.path.join(multi_dir, "postings.bin"), "rb").read()
 ResourceWarning: Enable tracemalloc to get the object allocation traceback
 ok
@@ -31,6 +31,6 @@ test_merge_empty (__main__.TestMerge.test_merge_empty) ... ok
 test_merge_sorted_lists (__main__.TestMerge.test_merge_sorted_lists) ... ok
 
 ----------------------------------------------------------------------
-Ran 13 tests in 0.036s
+Ran 13 tests in 0.034s
 
 OK

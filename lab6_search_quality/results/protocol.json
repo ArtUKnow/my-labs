@@ -1,0 +1,362 @@
+{
+  "task": "known_item_title_retrieval",
+  "corpus_documents": 32491,
+  "selection": "four per journal by SHA256(source URL), at least six title words",
+  "query_rule": "first eight title words",
+  "labels": "one original target article per query, identified by source record; other documents are non-targets in this identity task",
+  "limitations": "Automatic identity labels, not independent human topical judgments. Titles occur in indexed documents. Search uses all corpus documents. Boolean results ordered by document ID; no TF-IDF ranking is claimed.",
+  "queries": [
+    {
+      "query_id": "q1",
+      "query": "A New Flavor Symmetry in Model with Neutral",
+      "target": 392,
+      "title": "A New Flavor Symmetry in 3-3-1 Model with Neutral Fermions",
+      "url": "https://repo.scoap3.org/records/1837",
+      "journal": "Advances in High Energy Physics"
+    },
+    {
+      "query_id": "q2",
+      "query": "Singlet Fermion Assisted Dominant Seesaw with Lepton Flavor",
+      "target": 3970,
+      "title": "Singlet Fermion Assisted Dominant Seesaw with Lepton Flavor and Number Violations and Leptogenesis",
+      "url": "https://repo.scoap3.org/records/19421",
+      "journal": "Advances in High Energy Physics"
+    },
+    {
+      "query_id": "q3",
+      "query": "Regular Bulk Solutions in Brane-Worlds with Inhomogeneous Dust",
+      "target": 1169,
+      "title": "Regular Bulk Solutions in Brane-Worlds with Inhomogeneous Dust and Generalized Dark Radiation",
+      "url": "https://repo.scoap3.org/records/8981",
+      "journal": "Advances in High Energy Physics"
+    },
+    {
+      "query_id": "q4",
+      "query": "Hybrid Meson Interpretation of the Exotic Resonance",
+      "target": 9830,
+      "title": "Hybrid Meson Interpretation of the Exotic Resonance",
+      "url": "https://repo.scoap3.org/records/53340",
+      "journal": "Advances in High Energy Physics"
+    },
+    {
+      "query_id": "q5",
+      "query": "Exclusive photoproduction of vector meson at next-to-leading order",
+      "target": 10870,
+      "title": "Exclusive photoproduction of vector meson at next-to-leading order from color glass condensate Supported by the National Natural Science Foundation of China (11765005, 11947119, 11305040, 11847152, 11775097), the Fund of Science and Technology Department of Guizhou Province ([2018]1023, [2019]5653), the Education Department of Guizhou Province (KY[2017]004), Qian Kehe Platform Talents ([2017]5736-027), the National key research and development program of China (2018YFE0104700, CCNU18ZDPY04), and the 2018 scientific research startup foundation for the introduced talent of Guizhou University of Finance and Economics (2018YJ60)",
+      "url": "https://repo.scoap3.org/records/56471",
+      "journal": "Chinese Physics C"
+    },
+    {
+      "query_id": "q6",
+      "query": "Discovery prospects for a leptophilic gauge boson Z",
+      "target": 27136,
+      "title": "Discovery prospects for a leptophilic gauge boson Z$_{ℓ}$ at CEPC and ILC",
+      "url": "https://repo.scoap3.org/records/104220",
+      "journal": "Chinese Physics C"
+    },
+    {
+      "query_id": "q7",
+      "query": "Contributions of textit textit to Cabibbo-favored textit D",
+      "target": 26801,
+      "title": "Contributions of $\\textit{ρ}$(770,1450)→$\\textit{ωπ}$ to Cabibbo-favored $\\textit{D}$→$\\textit{hωπ}$ decays * Supported in part by the National Natural Science Foundation of China (12465017) and the Foundation of Shanxi '1331 Project' Key Subjects Construction",
+      "url": "https://repo.scoap3.org/records/103789",
+      "journal": "Chinese Physics C"
+    },
+    {
+      "query_id": "q8",
+      "query": "A family of double-beauty tetraquarks Axial-vector state",
+      "target": 11860,
+      "title": "A family of double-beauty tetraquarks: Axial-vector state",
+      "url": "https://repo.scoap3.org/records/59411",
+      "journal": "Chinese Physics C"
+    },
+    {
+      "query_id": "q9",
+      "query": "Scattering of charged massive scalar waves by Kerr",
+      "target": 28696,
+      "title": "Scattering of charged massive scalar waves by Kerr–Newman black holes",
+      "url": "https://repo.scoap3.org/records/106226",
+      "journal": "European Physical Journal C"
+    },
+    {
+      "query_id": "q10",
+      "query": "Inflation with Gauss Bonnet correction and Higgs potential",
+      "target": 29829,
+      "title": "Inflation with Gauss–Bonnet correction and Higgs potential",
+      "url": "https://repo.scoap3.org/records/107696",
+      "journal": "European Physical Journal C"
+    },
+    {
+      "query_id": "q11",
+      "query": "Unifying dark matter and dark energy as a",
+      "target": 27010,
+      "title": "Unifying dark matter and dark energy as a Fermi gas in extra dimensions",
+      "url": "https://repo.scoap3.org/records/104052",
+      "journal": "European Physical Journal C"
+    },
+    {
+      "query_id": "q12",
+      "query": "Shadow radius and classical scattering analysis of two",
+      "target": 24611,
+      "title": "Shadow radius and classical scattering analysis of two secondary hair Horndeski black holes",
+      "url": "https://repo.scoap3.org/records/100933",
+      "journal": "European Physical Journal C"
+    },
+    {
+      "query_id": "q13",
+      "query": "Supersymmetry searches in GUT models with non-universal scalar",
+      "target": 2978,
+      "title": "Supersymmetry searches in GUT models with non-universal scalar masses",
+      "url": "https://repo.scoap3.org/records/14885",
+      "journal": "Journal of Cosmology and Astroparticle Physics"
+    },
+    {
+      "query_id": "q14",
+      "query": "Extended maximum likelihood halo-independent analysis of dark matter",
+      "target": 2517,
+      "title": "Extended maximum likelihood halo-independent analysis of dark matter direct detection data",
+      "url": "https://repo.scoap3.org/records/12773",
+      "journal": "Journal of Cosmology and Astroparticle Physics"
+    },
+    {
+      "query_id": "q15",
+      "query": "Unifying leptogenesis dark matter and high-energy neutrinos with",
+      "target": 3678,
+      "title": "Unifying leptogenesis, dark matter and high-energy neutrinos with right-handed neutrino mixing via Higgs portal",
+      "url": "https://repo.scoap3.org/records/17996",
+      "journal": "Journal of Cosmology and Astroparticle Physics"
+    },
+    {
+      "query_id": "q16",
+      "query": "Taking Halo-independent dark matter methods out of the",
+      "target": 931,
+      "title": "Taking Halo-independent dark matter methods out of the bin",
+      "url": "https://repo.scoap3.org/records/4590",
+      "journal": "Journal of Cosmology and Astroparticle Physics"
+    },
+    {
+      "query_id": "q17",
+      "query": "High-energy evolution in planar QCD to three loops",
+      "target": 25913,
+      "title": "High-energy evolution in planar QCD to three loops: the non-conformal contribution",
+      "url": "https://repo.scoap3.org/records/102636",
+      "journal": "Journal of High Energy Physics"
+    },
+    {
+      "query_id": "q18",
+      "query": "Universal features of chiral symmetry breaking in large-",
+      "target": 28699,
+      "title": "Universal features of chiral symmetry breaking in large-$\\textit{N}$ QCD",
+      "url": "https://repo.scoap3.org/records/106230",
+      "journal": "Journal of High Energy Physics"
+    },
+    {
+      "query_id": "q19",
+      "query": "Effective field theory factorization for diffraction",
+      "target": 26205,
+      "title": "Effective field theory factorization for diffraction",
+      "url": "https://repo.scoap3.org/records/103019",
+      "journal": "Journal of High Energy Physics"
+    },
+    {
+      "query_id": "q20",
+      "query": "The analytic bootstrap at finite temperature",
+      "target": 29372,
+      "title": "The analytic bootstrap at finite temperature",
+      "url": "https://repo.scoap3.org/records/107101",
+      "journal": "Journal of High Energy Physics"
+    },
+    {
+      "query_id": "q21",
+      "query": "Effect of final state interactions on neutrino energy",
+      "target": 5542,
+      "title": "Effect of final state interactions on neutrino energy reconstruction at DUNE",
+      "url": "https://repo.scoap3.org/records/40438",
+      "journal": "Nuclear Physics B"
+    },
+    {
+      "query_id": "q22",
+      "query": "Universality of transverse-momentum resummation and hard factors at",
+      "target": 269,
+      "title": "Universality of transverse-momentum resummation and hard factors at the NNLO",
+      "url": "https://repo.scoap3.org/records/1343",
+      "journal": "Nuclear Physics B"
+    },
+    {
+      "query_id": "q23",
+      "query": "And Anomalies Resolved With Lepton Mixing",
+      "target": 5722,
+      "title": "And ( ) Anomalies Resolved With Lepton Mixing",
+      "url": "https://repo.scoap3.org/records/40945",
+      "journal": "Nuclear Physics B"
+    },
+    {
+      "query_id": "q24",
+      "query": "The omega-infinity limit of single spikes",
+      "target": 3048,
+      "title": "The omega-infinity limit of single spikes",
+      "url": "https://repo.scoap3.org/records/15152",
+      "journal": "Nuclear Physics B"
+    },
+    {
+      "query_id": "q25",
+      "query": "Hybrid model of proton structure functions",
+      "target": 14942,
+      "title": "Hybrid model of proton structure functions",
+      "url": "https://repo.scoap3.org/records/69471",
+      "journal": "Physical Review C"
+    },
+    {
+      "query_id": "q26",
+      "query": "Sensitivity of nuclear clocks to new physics",
+      "target": 24684,
+      "title": "Sensitivity of nuclear clocks to new physics",
+      "url": "https://repo.scoap3.org/records/101030",
+      "journal": "Physical Review C"
+    },
+    {
+      "query_id": "q27",
+      "query": "decay spectrum of tritiated graphene Combining nuclear quantum",
+      "target": 29385,
+      "title": "β-decay spectrum of tritiated graphene: Combining nuclear quantum mechanics with density functional theory",
+      "url": "https://repo.scoap3.org/records/107115",
+      "journal": "Physical Review C"
+    },
+    {
+      "query_id": "q28",
+      "query": "Overall momentum balance and redistribution of the lost",
+      "target": 5196,
+      "title": "Overall momentum balance and redistribution of the lost energy in asymmetric dijet events in 2.76A TeV Pb-Pb collisions with a multiphase transport model",
+      "url": "https://repo.scoap3.org/records/24866",
+      "journal": "Physical Review C"
+    },
+    {
+      "query_id": "q29",
+      "query": "Nucleon in a periodic magnetic field Finite-volume aspects",
+      "target": 7370,
+      "title": "Nucleon in a periodic magnetic field: Finite-volume aspects",
+      "url": "https://repo.scoap3.org/records/46036",
+      "journal": "Physical Review D"
+    },
+    {
+      "query_id": "q30",
+      "query": "Lessons for quantum cosmology from anti de Sitter",
+      "target": 11193,
+      "title": "Lessons for quantum cosmology from anti–de Sitter black holes",
+      "url": "https://repo.scoap3.org/records/57480",
+      "journal": "Physical Review D"
+    },
+    {
+      "query_id": "q31",
+      "query": "Search for resonances in the mass distribution of",
+      "target": 6160,
+      "title": "Search for resonances in the mass distribution of jet pairs with one or two jets identified as b-jets in proton-proton collisions at s=13 TeV with the ATLAS detector",
+      "url": "https://repo.scoap3.org/records/42365",
+      "journal": "Physical Review D"
+    },
+    {
+      "query_id": "q32",
+      "query": "Worldline instantons for nonlinear Breit-Wheeler pair production and",
+      "target": 15204,
+      "title": "Worldline instantons for nonlinear Breit-Wheeler pair production and Compton scattering",
+      "url": "https://repo.scoap3.org/records/70375",
+      "journal": "Physical Review D"
+    },
+    {
+      "query_id": "q33",
+      "query": "Estimate for the Bulk Viscosity of Strongly Coupled",
+      "target": 21002,
+      "title": "Estimate for the Bulk Viscosity of Strongly Coupled Quark Matter Using Perturbative QCD and Holography",
+      "url": "https://repo.scoap3.org/records/87786",
+      "journal": "Physical Review Letters"
+    },
+    {
+      "query_id": "q34",
+      "query": "Krylov Spread Complexity as Holographic Complexity beyond Jackiw-Teitelboim",
+      "target": 25231,
+      "title": "Krylov Spread Complexity as Holographic Complexity beyond Jackiw-Teitelboim Gravity",
+      "url": "https://repo.scoap3.org/records/101738",
+      "journal": "Physical Review Letters"
+    },
+    {
+      "query_id": "q35",
+      "query": "Combination of ATLAS and CMS Searches for Higgs",
+      "target": 31605,
+      "title": "Combination of ATLAS and CMS Searches for Higgs Boson Pair Production at s=13 TeV",
+      "url": "https://repo.scoap3.org/records/111484",
+      "journal": "Physical Review Letters"
+    },
+    {
+      "query_id": "q36",
+      "query": "Evidence for Longitudinally Polarized W Bosons in the",
+      "target": 24662,
+      "title": "Evidence for Longitudinally Polarized W Bosons in the Electroweak Production of Same-Sign W Boson Pairs in Association with Two Jets in pp Collisions at s=13 TeV with the ATLAS Detector",
+      "url": "https://repo.scoap3.org/records/100998",
+      "journal": "Physical Review Letters"
+    },
+    {
+      "query_id": "q37",
+      "query": "Energy and momentum dependence of nuclear short-range correlations",
+      "target": 7270,
+      "title": "Energy and momentum dependence of nuclear short-range correlations - Spectral function, exclusive scattering experiments and the contact formalism",
+      "url": "https://repo.scoap3.org/records/45715",
+      "journal": "Physics Letters B"
+    },
+    {
+      "query_id": "q38",
+      "query": "Application of interpretable data-driven methods for the reconstruction",
+      "target": 28410,
+      "title": "Application of interpretable data-driven methods for the reconstruction of supernova neutrino energy spectra following fast neutrino flavor conversions",
+      "url": "https://repo.scoap3.org/records/105864",
+      "journal": "Physics Letters B"
+    },
+    {
+      "query_id": "q39",
+      "query": "Impact of microscopic structural transitions on particle stability",
+      "target": 27964,
+      "title": "Impact of microscopic structural transitions on particle stability and lifetimes of hot nuclei",
+      "url": "https://repo.scoap3.org/records/105313",
+      "journal": "Physics Letters B"
+    },
+    {
+      "query_id": "q40",
+      "query": "Floquet analysis of self-resonance in single-field models of",
+      "target": 7103,
+      "title": "Floquet analysis of self-resonance in single-field models of inflation",
+      "url": "https://repo.scoap3.org/records/45225",
+      "journal": "Physics Letters B"
+    },
+    {
+      "query_id": "q41",
+      "query": "K-Theoretic Computation of the Atiyah Patodi Singer Index",
+      "target": 23624,
+      "title": "K-Theoretic Computation of the Atiyah(–Patodi)–Singer Index of Lattice Dirac Operators",
+      "url": "https://repo.scoap3.org/records/99243",
+      "journal": "Progress of Theoretical and Experimental Physics"
+    },
+    {
+      "query_id": "q42",
+      "query": "Chiral anomaly as a composite operator in the",
+      "target": 17839,
+      "title": "Chiral anomaly as a composite operator in the gradient flow exact renormalization group formalism",
+      "url": "https://repo.scoap3.org/records/78440",
+      "journal": "Progress of Theoretical and Experimental Physics"
+    },
+    {
+      "query_id": "q43",
+      "query": "Excitation spectra of heavy baryons in diquark models",
+      "target": 15123,
+      "title": "Excitation spectra of heavy baryons in diquark models",
+      "url": "https://repo.scoap3.org/records/70025",
+      "journal": "Progress of Theoretical and Experimental Physics"
+    },
+    {
+      "query_id": "q44",
+      "query": "Stochastic Quantization with Discrete Fictitious Time",
+      "target": 23053,
+      "title": "Stochastic Quantization with Discrete Fictitious Time",
+      "url": "https://repo.scoap3.org/records/97599",
+      "journal": "Progress of Theoretical and Experimental Physics"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "apply": true,
+  "original_records": 32491,
+  "documents": 32491,
+  "minimum_body_words": 3000,
+  "removed_duplicates": [],
+  "doi_repairs": [],
+  "sources": [
+    {
+      "source_id": "journal_advances_in_high_energy_physics",
+      "journal": "Advances in High Energy Physics",
+      "documents": 534,
+      "repository": "https://repo.scoap3.org/",
+      "source_meaning": "Distinct journal publication; SCOAP3 is the common delivery repository"
+    },
+    {
+      "source_id": "journal_chinese_physics_c",
+      "journal": "Chinese Physics C",
+      "documents": 655,
+      "repository": "https://repo.scoap3.org/",
+      "source_meaning": "Distinct journal publication; SCOAP3 is the common delivery repository"
+    },
+    {
+      "source_id": "journal_european_physical_journal_c",
+      "journal": "European Physical Journal C",
+      "documents": 2209,
+      "repository": "https://repo.scoap3.org/",
+      "source_meaning": "Distinct journal publication; SCOAP3 is the common delivery repository"
+    },
+    {
+      "source_id": "journal_journal_of_cosmology_and_astroparticle_physics",
+      "journal": "Journal of Cosmology and Astroparticle Physics",
+      "documents": 618,
+      "repository": "https://repo.scoap3.org/",
+      "source_meaning": "Distinct journal publication; SCOAP3 is the common delivery repository"
+    },
+    {
+      "source_id": "journal_journal_of_high_energy_physics",
+      "journal": "Journal of High Energy Physics",
+      "documents": 2268,
+      "repository": "https://repo.scoap3.org/",
+      "source_meaning": "Distinct journal publication; SCOAP3 is the common delivery repository"
+    },
+    {
+      "source_id": "journal_nuclear_physics_b",
+      "journal": "Nuclear Physics B",
+      "documents": 3460,
+      "repository": "https://repo.scoap3.org/",
+      "source_meaning": "Distinct journal publication; SCOAP3 is the common delivery repository"
+    },
+    {
+      "source_id": "journal_physical_review_c",
+      "journal": "Physical Review C",
+      "documents": 635,
+      "repository": "https://repo.scoap3.org/",
+      "source_meaning": "Distinct journal publication; SCOAP3 is the common delivery repository"
+    },
+    {
+      "source_id": "journal_physical_review_d",
+      "journal": "Physical Review D",
+      "documents": 15520,
+      "repository": "https://repo.scoap3.org/",
+      "source_meaning": "Distinct journal publication; SCOAP3 is the common delivery repository"
+    },
+    {
+      "source_id": "journal_physical_review_letters",
+      "journal": "Physical Review Letters",
+      "documents": 425,
+      "repository": "https://repo.scoap3.org/",
+      "source_meaning": "Distinct journal publication; SCOAP3 is the common delivery repository"
+    },
+    {
+      "source_id": "journal_physics_letters_b",
+      "journal": "Physics Letters B",
+      "documents": 5337,
+      "repository": "https://repo.scoap3.org/",
+      "source_meaning": "Distinct journal publication; SCOAP3 is the common delivery repository"
+    },
+    {
+      "source_id": "journal_progress_of_theoretical_and_experimental_physics",
+      "journal": "Progress of Theoretical and Experimental Physics",
+      "documents": 830,
+      "repository": "https://repo.scoap3.org/",
+      "source_meaning": "Distinct journal publication; SCOAP3 is the common delivery repository"
+    }
+  ],
+  "group_uniqueness": "Cannot be verified from this repository; requires comparison with classmates."
+}

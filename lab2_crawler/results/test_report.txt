@@ -11,34 +11,34 @@ test_fragment_removed (__main__.TestNormalize.test_fragment_removed) ... ok
 test_host_lowercase (__main__.TestNormalize.test_host_lowercase) ... ok
 test_percent_decoded (__main__.TestNormalize.test_percent_decoded) ... ok
 test_trailing_slash (__main__.TestNormalize.test_trailing_slash) ... ok
-test_resume_uses_the_existing_complete_manifest (__main__.TestSharedCorpus.test_resume_uses_the_existing_complete_manifest) ... new http://127.0.0.1:52336/index.html 140
-new http://127.0.0.1:52336/a.html 86
-new http://127.0.0.1:52336/b.html 32
-new http://127.0.0.1:52336/c.html 56
+test_resume_uses_the_existing_complete_manifest (__main__.TestSharedCorpus.test_resume_uses_the_existing_complete_manifest) ... new http://127.0.0.1:54004/index.html 140
+new http://127.0.0.1:54004/a.html 86
+new http://127.0.0.1:54004/b.html 32
+new http://127.0.0.1:54004/c.html 56
 queue is empty
 processed: 4
 new: 4 updated: 0 unchanged: 0 errors: 0
 documents in db: 4
 left in queue: 0
-error http://127.0.0.1:52341/missing.html HTTP Error 404: File not found
+error http://127.0.0.1:54009/missing.html HTTP Error 404: File not found
 queue is empty
 processed: 1
 new: 0 updated: 0 unchanged: 0 errors: 1
 documents in db: 0
 left in queue: 0
-new http://127.0.0.1:52351/index.html 140
-new http://127.0.0.1:52351/a.html 86
-new http://127.0.0.1:52351/b.html 32
-new http://127.0.0.1:52351/c.html 56
+new http://127.0.0.1:54013/index.html 140
+new http://127.0.0.1:54013/a.html 86
+new http://127.0.0.1:54013/b.html 32
+new http://127.0.0.1:54013/c.html 56
 queue is empty
 processed: 4
 new: 4 updated: 0 unchanged: 0 errors: 0
 documents in db: 4
 left in queue: 0
-new http://127.0.0.1:52356/index.html 140
-new http://127.0.0.1:52356/a.html 86
-new http://127.0.0.1:52356/b.html 32
-new http://127.0.0.1:52356/c.html 56
+new http://127.0.0.1:54018/index.html 140
+new http://127.0.0.1:54018/a.html 86
+new http://127.0.0.1:54018/b.html 32
+new http://127.0.0.1:54018/c.html 56
 queue is empty
 processed: 4
 new: 4 updated: 0 unchanged: 0 errors: 0
@@ -49,43 +49,43 @@ processed: 0
 new: 0 updated: 0 unchanged: 0 errors: 0
 documents in db: 4
 left in queue: 0
-new http://127.0.0.1:52361/index.html 140
-new http://127.0.0.1:52361/a.html 86
-new http://127.0.0.1:52361/b.html 32
-new http://127.0.0.1:52361/c.html 56
+new http://127.0.0.1:54023/index.html 140
+new http://127.0.0.1:54023/a.html 86
+new http://127.0.0.1:54023/b.html 32
+new http://127.0.0.1:54023/c.html 56
 queue is empty
 processed: 4
 new: 4 updated: 0 unchanged: 0 errors: 0
 documents in db: 4
 left in queue: 0
-unchanged http://127.0.0.1:52361/a.html
-updated http://127.0.0.1:52361/b.html 40
-unchanged http://127.0.0.1:52361/c.html
-unchanged http://127.0.0.1:52361/index.html
+unchanged http://127.0.0.1:54023/a.html
+updated http://127.0.0.1:54023/b.html 40
+unchanged http://127.0.0.1:54023/c.html
+unchanged http://127.0.0.1:54023/index.html
 queue is empty
 processed: 4
 new: 0 updated: 1 unchanged: 3 errors: 0
 documents in db: 4
 left in queue: 0
-new http://127.0.0.1:52387/index.html 140
-new http://127.0.0.1:52387/a.html 86
+new http://127.0.0.1:54044/index.html 140
+new http://127.0.0.1:54044/a.html 86
 processed: 2
 new: 2 updated: 0 unchanged: 0 errors: 0
 documents in db: 2
 left in queue: 2
-new http://127.0.0.1:52387/b.html 32
-new http://127.0.0.1:52387/c.html 56
+new http://127.0.0.1:54044/b.html 32
+new http://127.0.0.1:54044/c.html 56
 queue is empty
 processed: 2
 new: 2 updated: 0 unchanged: 0 errors: 0
 documents in db: 4
 left in queue: 0
-error http://127.0.0.1:52392/index.html HTTP Error 503: Service Unavailable
+error http://127.0.0.1:54055/index.html HTTP Error 503: Service Unavailable
 processed: 1
 new: 0 updated: 0 unchanged: 0 errors: 1
 documents in db: 0
 left in queue: 1
-new http://127.0.0.1:52392/index.html 140
+new http://127.0.0.1:54055/index.html 140
 processed: 1
 new: 1 updated: 0 unchanged: 0 errors: 0
 documents in db: 1
@@ -103,6 +103,6 @@ test_real_config (__main__.TestYaml.test_real_config) ... ok
 test_sections_and_types (__main__.TestYaml.test_sections_and_types) ... ok
 
 ----------------------------------------------------------------------
-Ran 22 tests in 5.945s
+Ran 22 tests in 5.921s
 
 OK

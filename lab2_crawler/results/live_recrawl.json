@@ -1,0 +1,117 @@
+{
+  "checks": [
+    {
+      "record_id": "987",
+      "source": "Advances in High Energy Physics",
+      "source_url": "https://scoap3-prod-backend.s3.cern.ch/media/files/987/10.1155/2014/901434.xml",
+      "checked_at": 1795698398,
+      "conditional_etag": "\"20b030462bbf14a807d68ca6cbb199b8\"",
+      "conditional_last_modified": "Thu, 09 Jan 2025 19:57:57 GMT",
+      "http_not_modified": true,
+      "status": "unchanged"
+    },
+    {
+      "record_id": "1723",
+      "source": "Chinese Physics C",
+      "source_url": "https://scoap3-prod-backend.s3.cern.ch/media/files/1723/10.1088/1674-1137/38/3/033101.xml",
+      "checked_at": 1795698399,
+      "conditional_etag": "\"84d18c9718f595d28f3660f3fe28c026\"",
+      "conditional_last_modified": "Thu, 09 Jan 2025 18:50:31 GMT",
+      "http_not_modified": true,
+      "status": "unchanged"
+    },
+    {
+      "record_id": "1097",
+      "source": "European Physical Journal C",
+      "source_url": "https://scoap3-prod-backend.s3.cern.ch/media/files/1097/10.1140/epjc/s10052-013-2707-0_a.pdf",
+      "checked_at": 1795698400,
+      "conditional_etag": "\"0b46e619bde762d0b95e20413a218f73\"",
+      "conditional_last_modified": "Thu, 09 Jan 2025 16:52:41 GMT",
+      "http_not_modified": true,
+      "status": "unchanged"
+    },
+    {
+      "record_id": "782",
+      "source": "Journal of Cosmology and Astroparticle Physics",
+      "source_url": "https://scoap3-prod-backend.s3.cern.ch/media/files/782/10.1088/1475-7516/2014/01/001.xml",
+      "checked_at": 1795698401,
+      "conditional_etag": "\"df5c921c1efcf60e6ebd3625e7cd2cf6\"",
+      "conditional_last_modified": "Thu, 09 Jan 2025 16:56:26 GMT",
+      "http_not_modified": true,
+      "status": "unchanged"
+    },
+    {
+      "record_id": "1000",
+      "source": "Journal of High Energy Physics",
+      "source_url": "https://scoap3-prod-backend.s3.cern.ch/media/files/1000/10.1007/JHEP01(2014)092_a.pdf",
+      "checked_at": 1795698402,
+      "conditional_etag": "\"0d52b423234d17c6339865b18c578aad\"",
+      "conditional_last_modified": "Thu, 09 Jan 2025 16:09:59 GMT",
+      "http_not_modified": true,
+      "status": "unchanged"
+    },
+    {
+      "record_id": "633",
+      "source": "Nuclear Physics B",
+      "source_url": "https://scoap3-prod-backend.s3.cern.ch/media/files/633/10.1016/j.nuclphysb.2014.01.002.xml",
+      "checked_at": 1795698402,
+      "conditional_etag": "\"21acf46ce84b37a5d52821babd252b31\"",
+      "conditional_last_modified": "Thu, 09 Jan 2025 17:00:03 GMT",
+      "http_not_modified": true,
+      "status": "unchanged"
+    },
+    {
+      "record_id": "23172",
+      "source": "Physical Review C",
+      "source_url": "https://scoap3-prod-backend.s3.cern.ch/media/files/23172/10.1103/PhysRevC.97.015204.xml",
+      "checked_at": 1795698403,
+      "conditional_etag": "\"067dcfd8647d0663f80b4a8a200bf6b0\"",
+      "conditional_last_modified": "Thu, 09 Jan 2025 14:56:53 GMT",
+      "http_not_modified": true,
+      "status": "unchanged"
+    },
+    {
+      "record_id": "4502",
+      "source": "Physical Review D",
+      "source_url": "https://scoap3-prod-backend.s3.cern.ch/media/harvested_files/10.1103/PhysRevD.110.116020/PhysRevD.110.116020.xml",
+      "checked_at": 1795698404,
+      "conditional_etag": "\"c4ab02b42b996fb378c5e98780bd96f6\"",
+      "conditional_last_modified": "Tue, 14 Jan 2025 01:34:34 GMT",
+      "http_not_modified": true,
+      "status": "unchanged"
+    },
+    {
+      "record_id": "4593",
+      "source": "Physical Review Letters",
+      "source_url": "https://scoap3-prod-backend.s3.cern.ch/media/harvested_files/10.1103/PhysRevLett.134.021601/PhysRevLett.134.021601.xml",
+      "checked_at": 1795698405,
+      "conditional_etag": "\"92c54430813ca7c39aa6435816522647\"",
+      "conditional_last_modified": "Wed, 15 Jan 2025 02:30:49 GMT",
+      "http_not_modified": true,
+      "status": "unchanged"
+    },
+    {
+      "record_id": "635",
+      "source": "Physics Letters B",
+      "source_url": "https://scoap3-prod-backend.s3.cern.ch/media/files/635/10.1016/j.physletb.2014.01.004.xml",
+      "checked_at": 1795698406,
+      "conditional_etag": "\"395d98e4a593559f5d94289fd46b2fcc\"",
+      "conditional_last_modified": "Thu, 09 Jan 2025 19:22:59 GMT",
+      "http_not_modified": true,
+      "status": "unchanged"
+    },
+    {
+      "record_id": "899",
+      "source": "Progress of Theoretical and Experimental Physics",
+      "source_url": "https://scoap3-prod-backend.s3.cern.ch/media/files/899/10.1093/ptep/ptt095.xml",
+      "checked_at": 1795698407,
+      "conditional_etag": "\"314a308cf2664a9dfeb3738369c22719\"",
+      "conditional_last_modified": "Thu, 09 Jan 2025 17:00:32 GMT",
+      "http_not_modified": true,
+      "status": "unchanged"
+    }
+  ],
+  "http_304_count": 11,
+  "changed_source_count": 0,
+  "note": "Actual public-source second pass. A controlled changed-content HTTP fixture is exercised separately in scripts/test_corpus_pipeline.py."
+}

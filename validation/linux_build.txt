@@ -1,0 +1,90 @@
+Selecting previously unselected package make.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 74467 files and directories currently installed.)
+Preparing to unpack .../make_4.3-4.1build1_amd64.deb ...
+Unpacking make (4.3-4.1build1) ...
+Setting up make (4.3-4.1build1) ...
+Processing triggers for man-db (2.10.2-1) ...
+NEEDRESTART-VER: 3.5
+NEEDRESTART-KCUR: 5.15.0-113-generic
+NEEDRESTART-KEXP: 5.15.0-113-generic
+NEEDRESTART-KSTA: 1
+NEEDRESTART-SVC: cirrum-api.service
+NEEDRESTART-SVC: containerd.service
+NEEDRESTART-SVC: cron.service
+NEEDRESTART-SVC: dbus.service
+NEEDRESTART-SVC: docker.service
+NEEDRESTART-SVC: fail2ban.service
+NEEDRESTART-SVC: getty@tty1.service
+NEEDRESTART-SVC: irqbalance.service
+NEEDRESTART-SVC: ModemManager.service
+NEEDRESTART-SVC: multipathd.service
+NEEDRESTART-SVC: networkd-dispatcher.service
+NEEDRESTART-SVC: nginx.service
+NEEDRESTART-SVC: packagekit.service
+NEEDRESTART-SVC: polkit.service
+NEEDRESTART-SVC: postgresql@14-main.service
+NEEDRESTART-SVC: qemu-guest-agent.service
+NEEDRESTART-SVC: rsyslog.service
+NEEDRESTART-SVC: serial-getty@ttyS0.service
+NEEDRESTART-SVC: snyato-studio.service
+NEEDRESTART-SVC: ssh.service
+NEEDRESTART-SVC: systemd-journald.service
+NEEDRESTART-SVC: systemd-logind.service
+NEEDRESTART-SVC: systemd-networkd.service
+NEEDRESTART-SVC: systemd-resolved.service
+NEEDRESTART-SVC: systemd-timesyncd.service
+NEEDRESTART-SVC: systemd-udevd.service
+NEEDRESTART-SVC: udisks2.service
+NEEDRESTART-SVC: unattended-upgrades.service
+NEEDRESTART-SVC: user@0.service
+NEEDRESTART-SVC: uxgen-site-runtime.service
+NEEDRESTART-SVC: uxuid-hosting-relay.service
+NEEDRESTART-SVC: uxuid-tenant-alias.service
+NEEDRESTART-SVC: uxuid-vm-web-relay.service
+NEEDRESTART-SVC: yav-app.service
+NEEDRESTART-SVC: yav-computer.service
+NEEDRESTART-SVC: yav-runtime.service
+mkdir -p build
+g++ -O2 -std=c++17 -Wall -Wextra -Wpedantic native/main.cpp native/text.cpp native/text_tests.cpp native/index.cpp native/index_tests.cpp native/metrics.cpp -o build/ir -lz
+native/index_tests.cpp: In function ‘int ir_index_tests()’:
+native/index_tests.cpp:16:2417: warning: ‘%s’ directive output may be truncated writing likely 14 or more bytes into a region of size between 0 and 4095 [-Wformat-truncation=]
+   16 | int ir_index_tests(){char folder[]="/tmp/ir-index-tests-XXXXXX";char*root=mkdtemp(folder);if(!root){fprintf(stderr,"cannot create index test folder\n");return 1;}char manifest[4096],directory[4096];snprintf(manifest,sizeof manifest,"%s/documents.tsv",root);snprintf(directory,sizeof directory,"%s/index",root);FILE*f=fopen(manifest,"w");expect(f!=0,"manifest fixture");if(!f)return 1;fputs("id\tpath\turl\ttitle\tjournal\n",f);const char*texts[]={"dark dark matter particles","dark energy electron","quark matter","electron quark ракеты"};for(unsigned i=0;i<4;++i){char path[4096];snprintf(path,sizeof path,"%s/doc%u.txt.gz",root,i);gzip_text(path,texts[i]);fprintf(f,"%u\t%s\thttps://example.test/%u\tArticle \"%u\"\tTest journal\n",i,path,i,i);}fclose(f);char*args[]={(char*)"build",manifest,directory,(char*)"raw",(char*)"3"};expect(ir_index_main(5,args)==0,"build raw blocked index");check_query(directory,"dark matter\n","\"ids\":[0]");check_query(directory,"[dark || quark] !electron\n","\"ids\":[0,2]");check_query(directory,"dark || quark matter\n","\"ids\":[0,1,2]");check_query(directory,"!!dark\n","\"ids\":[0,1]");check_query(directory,"!!!dark\n","\"ids\":[2,3]");check_query(directory,"ракеты\n","\"ids\":[3]");check_query(directory,"missing\n","\"ids\":[]");check_query(directory,"\n","\"ids\":[]");int status=0;char*t=search_capture(directory,"!missing\n",status,"1","2");expect(status==0&&t&&strstr(t,"\"count\":4")&&strstr(t,"\"ids\":[1,2]"),"paged results preserve full result count");expect(t&&strstr(t,"Article \\\"1\\\""),"JSON escaping of metadata");free(t);t=search_capture(directory,"dark & matter\n(dark]\ndark ||\n()\ndark\n",status);expect(status==1,"invalid query causes nonzero exit after batch");expect(t&&strstr(t,"\"error\":")&&strstr(t,"\"ids\":[0,1]"),"malformed query does not suppress following valid query");free(t);char deep[1100];memset(deep,'!',600);memcpy(deep+600,"dark\n",6);t=search_capture(directory,deep,status);expect(status==1&&t&&strstr(t,"exceeds 256"),"limit adversarial recursive query depth");free(t);args[3]=(char*)"stem";expect(ir_index_main(5,args)==0,"rebuild existing directory as stem index");check_query(directory,"particle\n","\"ids\":[0]");check_query(directory,"ракета\n","\"ids\":[3]");const char*names[]={"dictionary.bin","postings.bin","documents.bin","meta.bin","stats.json"};for(unsigned i=0;i<5;++i){char path[4096];snprintf(path,sizeof path,"%s/%s",directory,names[i]);remove(path);}rmdir(directory);remove(manifest);for(unsigned i=0;i<4;++i){char path[4096];snprintf(path,sizeof path,"%s/doc%u.txt.gz",root,i);remove(path);}rmdir(root);fprintf(stderr,"native index tests: %s (%d failures)\n",failures?"FAILED":"OK",failures);return failures?1:0;}
+      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 ^~
+native/index_tests.cpp:16:2413: note: assuming directive output of 14 bytes
+   16 | int ir_index_tests(){char folder[]="/tmp/ir-index-tests-XXXXXX";char*root=mkdtemp(folder);if(!root){fprintf(stderr,"cannot create index test folder\n");return 1;}char manifest[4096],directory[4096];snprintf(manifest,sizeof manifest,"%s/documents.tsv",root);snprintf(directory,sizeof directory,"%s/index",root);FILE*f=fopen(manifest,"w");expect(f!=0,"manifest fixture");if(!f)return 1;fputs("id\tpath\turl\ttitle\tjournal\n",f);const char*texts[]={"dark dark matter particles","dark energy electron","quark matter","electron quark ракеты"};for(unsigned i=0;i<4;++i){char path[4096];snprintf(path,sizeof path,"%s/doc%u.txt.gz",root,i);gzip_text(path,texts[i]);fprintf(f,"%u\t%s\thttps://example.test/%u\tArticle \"%u\"\tTest journal\n",i,path,i,i);}fclose(f);char*args[]={(char*)"build",manifest,directory,(char*)"raw",(char*)"3"};expect(ir_index_main(5,args)==0,"build raw blocked index");check_query(directory,"dark matter\n","\"ids\":[0]");check_query(directory,"[dark || quark] !electron\n","\"ids\":[0,2]");check_query(directory,"dark || quark matter\n","\"ids\":[0,1,2]");check_query(directory,"!!dark\n","\"ids\":[0,1]");check_query(directory,"!!!dark\n","\"ids\":[2,3]");check_query(directory,"ракеты\n","\"ids\":[3]");check_query(directory,"missing\n","\"ids\":[]");check_query(directory,"\n","\"ids\":[]");int status=0;char*t=search_capture(directory,"!missing\n",status,"1","2");expect(status==0&&t&&strstr(t,"\"count\":4")&&strstr(t,"\"ids\":[1,2]"),"paged results preserve full result count");expect(t&&strstr(t,"Article \\\"1\\\""),"JSON escaping of metadata");free(t);t=search_capture(directory,"dark & matter\n(dark]\ndark ||\n()\ndark\n",status);expect(status==1,"invalid query causes nonzero exit after batch");expect(t&&strstr(t,"\"error\":")&&strstr(t,"\"ids\":[0,1]"),"malformed query does not suppress following valid query");free(t);char deep[1100];memset(deep,'!',600);memcpy(deep+600,"dark\n",6);t=search_capture(directory,deep,status);expect(status==1&&t&&strstr(t,"exceeds 256"),"limit adversarial recursive query depth");free(t);args[3]=(char*)"stem";expect(ir_index_main(5,args)==0,"rebuild existing directory as stem index");check_query(directory,"particle\n","\"ids\":[0]");check_query(directory,"ракета\n","\"ids\":[3]");const char*names[]={"dictionary.bin","postings.bin","documents.bin","meta.bin","stats.json"};for(unsigned i=0;i<5;++i){char path[4096];snprintf(path,sizeof path,"%s/%s",directory,names[i]);remove(path);}rmdir(directory);remove(manifest);for(unsigned i=0;i<4;++i){char path[4096];snprintf(path,sizeof path,"%s/doc%u.txt.gz",root,i);remove(path);}rmdir(root);fprintf(stderr,"native index tests: %s (%d failures)\n",failures?"FAILED":"OK",failures);return failures?1:0;}
+      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             ^~~~~~~
+In file included from /usr/include/stdio.h:894,
+                 from native/index_tests.cpp:2:
+/usr/include/x86_64-linux-gnu/bits/stdio2.h:71:35: note: ‘__builtin___snprintf_chk’ output 2 or more bytes (assuming 4111) into a destination of size 4096
+   71 |   return __builtin___snprintf_chk (__s, __n, __USE_FORTIFY_LEVEL - 1,
+      |          ~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   72 |                                    __glibc_objsize (__s), __fmt,
+      |                                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   73 |                                    __va_arg_pack ());
+      |                                    ~~~~~~~~~~~~~~~~~
+native/metrics.cpp: In function ‘int ir_metrics_main(int, char**)’:
+native/metrics.cpp:51:9: warning: this ‘if’ clause does not guard... [-Wmisleading-indentation]
+   51 |         if(!line[0]||line[0]=='\n')continue;char *a,*b,*c,*end;
+      |         ^~
+native/metrics.cpp:51:45: note: ...this statement, but the latter is misleadingly indented as if it were guarded by the ‘if’
+   51 |         if(!line[0]||line[0]=='\n')continue;char *a,*b,*c,*end;
+      |                                             ^~~~
+native/metrics.cpp:61:9: warning: this ‘if’ clause does not guard... [-Wmisleading-indentation]
+   61 |         if(!line[0]||line[0]=='\n')continue;char *a,*b,*c,*end;
+      |         ^~
+native/metrics.cpp:61:45: note: ...this statement, but the latter is misleadingly indented as if it were guarded by the ‘if’
+   61 |         if(!line[0]||line[0]=='\n')continue;char *a,*b,*c,*end;
+      |                                             ^~~~
+native/metrics.cpp:67:9: warning: this ‘if’ clause does not guard... [-Wmisleading-indentation]
+   67 |         if(error)break;run.add({copy_text(a),copy_text(b),(int)rank});
+      |         ^~
+native/metrics.cpp:67:24: note: ...this statement, but the latter is misleadingly indented as if it were guarded by the ‘if’
+   67 |         if(error)break;run.add({copy_text(a),copy_text(b),(int)rank});
+      |                        ^~~
+./build/ir selftest
+native text tests: passed
+built 4 documents, 7 terms, 11 postings in 0.000 seconds
+built 4 documents, 7 terms, 11 postings in 0.000 seconds
+native index tests: OK (0 failures)
+metrics fixtures: OK
+native selftests: OK (0 failures)

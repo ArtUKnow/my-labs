@@ -1,0 +1,1821 @@
+<article xsi:noNamespaceSchemaLocation="http://jats.nlm.nih.gov/publishing/1.1/xsd/JATS-journalpublishing1-mathml3.xsd" dtd-version="1.1" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">AHEP</journal-id>
+            <journal-title-group>
+                <journal-title>Advances in High Energy Physics</journal-title></journal-title-group>
+            <issn pub-type="epub">1687-7365</issn>
+            <issn pub-type="ppub">1687-7357</issn>
+            <publisher>
+                <publisher-name>Hindawi Publishing Corporation</publisher-name></publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="other">901434</article-id>
+            <article-id pub-id-type="doi">10.1155/2014/901434</article-id>
+            <article-id pub-id-type="publisher-id">901434</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Research Article</subject></subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>Radio-Wave Propagation in Salt Domes: Implications for a UHE Cosmic Neutrino Detector</article-title></title-group>
+            <contrib-group>
+                <contrib contrib-type="author" id="U20538973" corresp="yes">
+                    <name>
+                        <surname>Badescu</surname>
+                        <given-names>Alina-Mihaela</given-names></name>
+                    
+                    <xref ref-type="aff" rid="I1">
+                        <sup>1</sup></xref>
+                </contrib>
+                <contrib contrib-type="author" id="U71608786">
+                    <name>
+                        <surname>Saftoiu</surname>
+                        <given-names>Alexandra</given-names></name>
+                    
+                    <xref ref-type="aff" rid="I2">
+                        <sup>2</sup></xref>
+                </contrib>
+                <contrib contrib-type="Academic Editor" id="U51827420">
+                    <name>
+                        <surname>Bektasoglu</surname>
+                        <given-names>Mehmet</given-names></name>
+                </contrib></contrib-group>
+            <aff id="I1">
+                <sup>1</sup>
+                <addr-line>University Politehnica of Bucharest</addr-line>
+                <addr-line>Boulevard Iuliu-Maniu</addr-line>
+                <addr-line>No. 1-3</addr-line>
+                <addr-line>Bucharest</addr-line>
+                <country>Romania</country>
+                <ext-link ext-link-type="domain-name">upb.ro</ext-link></aff>
+            <aff id="I2">
+                <sup>2</sup>
+                <addr-line>IFIN-Horia Hulubei</addr-line>
+                <addr-line>Strada Reactorului No. 30</addr-line>
+                <addr-line>P.O. Box MG-6</addr-line>
+                <addr-line>Bucharest-Magurele</addr-line>
+                <country>Romania</country>
+                <ext-link ext-link-type="domain-name">nipne.ro</ext-link></aff>
+            <pub-date pub-type="publication-year">
+                <year>2014</year></pub-date>
+            <pub-date pub-type="archival-date"><day>20</day><month>1</month><year>2014</year></pub-date>
+            <volume>2014</volume>
+            <history>
+                <date date-type="received">
+                    <day>03</day>
+                    <month>09</month>
+                    <year>2013</year></date>
+                <date date-type="rev-recd">
+                    <day>21</day>
+                    <month>12</month>
+                    <year>2013</year></date>
+                <date date-type="accepted">
+                    <day>24</day>
+                    <month>12</month>
+                    <year>2013</year></date>
+                <date date-type="pub">
+                    <day>20</day>
+                    <month>1</month>
+                    <year>2014</year></date>
+            </history>
+            <permissions>
+                <copyright-year>2014</copyright-year>
+                <copyright-holder>Copyright &#xA9; 2014 Alina-Mihaela Badescu and Alexandra Saftoiu.</copyright-holder>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                    <license-p>This is an open access article distributed under the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. The publication of this article was funded by SCOAP<sup>3</sup>.</license-p></license>
+            </permissions>
+            <abstract>
+                <p>Salt deposits can be used as a natural dielectric medium for a UHE cosmic neutrino radio detector. Such a detector relies on the capability of reconstructing the initial characteristics of the cosmic neutrino from the measured radio electrical field produced at neutrino&#x2019;s interaction in salt by the subsequent particle shower. A rigorous characterization of the propagation medium becomes compulsory. It is shown here that the amplitude of the electric field vector is attenuated by almost 90&#x25; after 100&#x2009;m of propagation in a typical salt rock volume. The heterogeneities in salt also determine the minimal uncertainty (estimated at 19&#x25;) and the resolution of the detector.</p></abstract>
+            <counts>
+                <ref-count count="39" />
+                <page-count count="9" /></counts>
+        </article-meta></front>
+    <body>
+        <sec id="sec1">
+            <title>1. Introduction</title>
+            <p>Ultra high energy neutrinos can be a proof of the theoretical upper limit on the energy of cosmic rays from distant sources, play an important role in the Big Bang scenario, and also unveil the mystery of the cosmic accelerator (pulsars, active galactic nuclei, etc.). In the same time they travel undeflected by intervening magnetic fields and interact very weakly. This makes their observation a scientifical and technical challenge.</p>
+            <p>A cosmic neutrino detector images the sky using interactions of a nearly massless subatomic particle called neutrino. Neutrinos are weakly interacting particles that cannot be detected directly. Their properties are deduced by analyzing the showers resulted from their interaction with nuclei in the medium.</p>
+            <p>One detection method was proposed by Askaryan [<xref ref-type="bibr" rid="B1">1</xref>]. He suggested that if a particle, including neutrinos, interacts within a volume of dielectric, a broadband electromagnetic (EM) field (including radio frequencies), that can be measured, will be generated. In order to compensate for the small interaction probability of the neutrino [<xref ref-type="bibr" rid="B2">2</xref>], a huge volume of detecting material is required that can be found in natural dielectric volumes, such as the ice sheets at the poles or natural salt domes. The medium should be transparent for the produced waves to ensure large propagation distances. Thus, ice can serve as the detecting medium for optical and radio waves (an example is the IceCube detector [<xref ref-type="bibr" rid="B3">3</xref>] that uses photomultipliers to measure the EM field) and salt&#x2014;for radio waves. The latter was tested at Stanford Linear Accelerator where radio waves from high energy particles interacting in synthetic rock salt were detected [<xref ref-type="bibr" rid="B4">4</xref>].</p>
+            <p>One of the key problems associated with a neutrino radio detector in salt is the capability of reconstructing the characteristics of the cosmic neutrinos that interact in the salt volume from measurements of the radio radiation which resulted in their interaction. Detection can be performed using arrays of (standard) radio antennas placed in boreholes: the more transparent the medium, the larger the usable distance between antennas. The radio waves produced by the neutrino-induced shower travel through salt so the propagation medium has a huge impact on measurements and results. Most of the medium&#x2019;s properties can be described using the relative permittivity. In order to achieve the highest detection performances, antennas should be placed away from the periphery of the dome (including its cap rock).</p>
+            <p>The existing optical neutrino detector at the South Pole IceCube pointed out serious problems in detection and data analysis due to the effects that the nonideal medium has on wave propagation. A detailed study of the properties of the glacial ice at the South Pole has been performed by the AMANDA collaboration [<xref ref-type="bibr" rid="B5">5</xref>]. They found that ice is very clear in the optical and near UV regions but both scattering and absorption are strongly depth dependent. At each 10&#x2009;m depth interval, the effective scattering and absorption lengths as a function of wavelength were determined.</p>
+            <p>In this work, we investigate the possibility of detecting cosmic neutrinos in salt by measuring and analyzing their interaction products: radio waves [<xref ref-type="bibr" rid="B6">6</xref>, <xref ref-type="bibr" rid="B7">7</xref>]. Radio waves are the result of the Askaryan effect [<xref ref-type="bibr" rid="B1">1</xref>]. The broadband frequency spectrum peaks at a few GHz, but due to several reasons (attenuation, temperature dependence, etc.) we decided to select an operating frequency of about 200&#x2009;MHz [<xref ref-type="bibr" rid="B6">6</xref>]. As waves propagate in a nonideal medium before being measured, it is mandatory to have first a good geophysical material description for radio waves propagation. Hapke already remarked that this regime is not well understood [<xref ref-type="bibr" rid="B8">8</xref>]. It was suggested that an effective-medium theory should be applied to calculate the permittivity.</p>
+            <p>The influence of the medium can be quantified by <italic>transmission</italic>&#x2014;a parameter that incorporates all propagation effects (more details are given in Section <xref ref-type="sec" rid="sec3">3</xref>). Transmission should be estimated because the data to be analyzed&#x2014;for example, measurements recorded by each antenna&#x2014;is proportional to the product of transmission and the radio field generated at interaction. For the latter, the model in [<xref ref-type="bibr" rid="B9">9</xref>, <xref ref-type="bibr" rid="B10">10</xref>] will be used.</p>
+            <p>One method to achieve medium characterization is by downhole geophysical logging. This technique involves installing sensing devices into a borehole to record physical parameters that may be interpreted as specific rock characteristics. The geological mapping of underground mine working and geological logging of core samples are insufficient to make an identification of the internal structure of evaporites [<xref ref-type="bibr" rid="B11">11</xref>].</p>
+            <p>Another method to obtain information about the spatial variation in dielectric properties is ground penetrating radar. A pulse radar emits an electromagnetic pulse from a dipole antenna into a rock and the returned signal contains reflections caused by subsurface contrasts in electromagnetic impedance. The travel time reflects the depth to the impedance contrasts [<xref ref-type="bibr" rid="B12">12</xref>].</p>
+            <p>The same issue&#x2014;good geophysical material description for radio waves propagation&#x2014;has been addressed by other types of applications: locating buried utilities [<xref ref-type="bibr" rid="B13">13</xref>&#x2013;<xref ref-type="bibr" rid="B15">15</xref>], detecting buried land mines [<xref ref-type="bibr" rid="B16">16</xref>&#x2013;<xref ref-type="bibr" rid="B18">18</xref>], profiling the subsurface of highway pavement, and so forth. Although theoretical approaches have been reported by [<xref ref-type="bibr" rid="B19">19</xref>, <xref ref-type="bibr" rid="B20">20</xref>] and others, models for propagation are rare because the heterogeneity in salt clearly affects radio waves. First tests on determining the attenuation length of a radio signal at 400 and 800&#x2009;MHz on samples from the &#x201c;Unirea&#x201d; salt dome in Slanic Prahova, Romania, showed a large deviation from the ideal medium case [<xref ref-type="bibr" rid="B21">21</xref>]. The &#x201c;Unirea&#x201d; salt mine will be considered a conservative case. It was chosen in our analysis because we already have a working laboratory installed so we had access to different results concerning the purity of salt.</p>
+            <p>In the following we investigate and quantify the effect of the medium on wave propagation. In Section <xref ref-type="sec" rid="sec2">2</xref> we briefly review the geological properties of salt domes, including main heterogeneities and other factors that can affect propagation. In the next section, natural occurring impurities and main heterogeneities in a salt dome and their effects on radio wave propagation are analyzed. The last part summarizes our results.</p></sec>
+        <sec id="sec2">
+            <title>2. Geological Properties of Salt Mines</title>
+            <p>Rock salt deposits are widely distributed throughout the world. The salt accumulations in Romania are among the largest in Europe and thus construction of a neutrino detector would be well justified here. The salt that forms diapirs studied here is Early Miocene in age [<xref ref-type="bibr" rid="B22">22</xref>]. In the following, we will only refer to Unirea mine, in Slanic Prahova (Romania), characterized by a domal folding structure (Figure <xref ref-type="fig" rid="fig1">1</xref>).</p>
+            <fig id="fig1">
+                <label>Figure 1</label>
+                <caption>
+                    <p>Genesis Room (54&#x2009;m height, 208&#x2009;m depth) of the &#x201c;Unirea&#x201d; salt mine, Slanic Prahova, Romania. Photo courtesy of &#xa9; Andrei Niculescu.</p></caption>
+                <graphic xlink:href="901434.fig.001" /></fig>
+            <p>This salt dome represents a gigantic plug that has risen upward diapirically, because of its low density, into the overlying strata [<xref ref-type="bibr" rid="B22">22</xref>]. Originally the sedimentary salt deposits were at depths of several kilometers. Under hydrostatic pressure, the very plastic salt of lower density starts to flow upward through sediments of greater density. Salt flow is controlled through the fault intersections resulting in a domal structure. The shape of the salt deposit depends on the specific conditions of its emplacement in geological environment (&#x201c;Unirea&#x201d; dome has a lenticular shape) [<xref ref-type="bibr" rid="B22">22</xref>].</p>
+            <p>Following [<xref ref-type="bibr" rid="B11">11</xref>], we considered four basic heterogeneous internal structures of the salt deposits.</p>
+            <sec id="sec2.1">
+                <title>2.1. Domal Heterogeneity</title>
+                <p>The main characteristic of domal heterogeneity is the mixture of halite and anhydrite. Darker salts owe their color to dissemination of anhydrite. A mixture of salt and anhydrite can be found in various proportions at short distance, which will result in extreme heterogeneity. Generally, the content of anhydrite in salt dome varies from 1&#x25; to 80&#x25;.</p>
+                <p>The effect of the main domal heterogeneities (listed in Table <xref ref-type="table" rid="tab1">1</xref>) was simulated and their influence on the properties of the medium was presented in [<xref ref-type="bibr" rid="B23">23</xref>].</p>
+                <table-wrap id="tab1">
+                    <label>Table 1</label>
+                    <caption>
+                        <p>Concentration of main impurities in Slanic Prahova mine, according to [<xref ref-type="bibr" rid="B24">38</xref>]. </p></caption>
+                    <table>
+                        <thead>
+                            <tr>
+                                <th align="left">&#x2009;</th>
+                                <th align="center">Al</th>
+                                <th align="center">Ca</th>
+                                <th align="center">Ti</th>
+                                <th align="center">Fe</th>
+                                <th align="center">V</th>
+                                <th align="center">Mn</th>
+                                <th align="center">Cu</th>
+                                <th align="center">Br</th></tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td align="left">
+                                    <inline-formula>
+                                        <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M1">
+                                            <mml:mrow>
+                                                <mml:mi>C</mml:mi></mml:mrow>
+                                        </mml:math></inline-formula> [<italic>&#x3bc;</italic>g/kg]</td>
+                                <td align="center">14.7</td>
+                                <td align="center">2190</td>
+                                <td align="center">2260</td>
+                                <td align="center">33</td>
+                                <td align="center">14.9</td>
+                                <td align="center">61.7</td>
+                                <td align="center">7.9</td>
+                                <td align="center">126</td></tr>
+                        </tbody></table>
+                </table-wrap></sec>
+            <sec id="sec2.2">
+                <title>2.2. Sedimentary Heterogeneity</title>
+                <p>On ancient oceans bottoms, layers of sediment were deposited as a sequence of horizontal beds. An unaltered sedimentary structure of a dome is represented by a column of various beds which could be grouped in function of their chemical composition or facial development (Figure <xref ref-type="fig" rid="fig2">2</xref>) [<xref ref-type="bibr" rid="B11">11</xref>]. Thick sedimentary beds are classified as relatively homogeneous, nondispersive, isotropic, and linear medium. In this model, we ignored interbedded layers as they are not a common feature in salt diapirs. The transmission coefficient <inline-formula>
+                        <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M2">
+                            <mml:mrow>
+                                <mml:mi>&#x3c4;</mml:mi></mml:mrow>
+                        </mml:math></inline-formula> due to wave propagation from layer 1 to layer 3 (that is the fraction of wave energy that reaches layer 3) is given by [<xref ref-type="bibr" rid="B25">24</xref>]
+                                <disp-formula>
+                        <mml:math display="block" xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M3">
+                            <mml:mtable>
+                                <mml:mlabeledtr id="EEq1">
+                                    <mml:mtd>
+                                        <mml:mtext>(1)</mml:mtext></mml:mtd>
+                                    <mml:mtd>
+                                        <mml:mi>&#x3c4;</mml:mi>
+                                        <mml:mo>=</mml:mo>
+                                        <mml:msup>
+                                            <mml:mrow>
+                                                <mml:mrow>
+                                                    <mml:mo class="left">&#x7C;</mml:mo>
+                                                    <mml:mrow>
+                                                        <mml:mi>w</mml:mi></mml:mrow>
+                                                    <mml:mo class="right">&#x7C;</mml:mo></mml:mrow>
+                                            </mml:mrow>
+                                            <mml:mrow>
+                                                <mml:mn mathvariant="normal">2</mml:mn></mml:mrow>
+                                        </mml:msup>
+                                        <mml:mo>,</mml:mo></mml:mtd>
+                                </mml:mlabeledtr></mml:mtable>
+                        </mml:math></disp-formula>
+                            where <inline-formula>
+                        <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M4">
+                            <mml:mrow>
+                                <mml:mi>w</mml:mi></mml:mrow>
+                        </mml:math></inline-formula> is
+                                <disp-formula>
+                        <mml:math display="block" xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M5">
+                            <mml:mtable>
+                                <mml:mlabeledtr id="EEq2">
+                                    <mml:mtd>
+                                        <mml:mtext>(2)</mml:mtext></mml:mtd>
+                                    <mml:mtd>
+                                        <mml:mi>w</mml:mi>
+                                        <mml:mo>=</mml:mo>
+                                        <mml:mfrac>
+                                            <mml:mrow>
+                                                <mml:mn mathvariant="normal">1</mml:mn>
+                                                <mml:mo>-</mml:mo>
+                                                <mml:msubsup>
+                                                    <mml:mrow>
+                                                        <mml:mi>r</mml:mi></mml:mrow>
+                                                    <mml:mrow>
+                                                        <mml:mn mathvariant="normal">12</mml:mn></mml:mrow>
+                                                    <mml:mrow>
+                                                        <mml:mn mathvariant="normal">2</mml:mn></mml:mrow>
+                                                </mml:msubsup></mml:mrow>
+                                            <mml:mrow>
+                                                <mml:mrow>
+                                                    <mml:mrow>
+                                                        <mml:mi>exp</mml:mi>
+                                                        <mml:mo>&#x2061;</mml:mo></mml:mrow>
+                                                    <mml:mo>&#x2061;</mml:mo>
+                                                    <mml:mrow>
+                                                        <mml:mrow>
+                                                            <mml:mo class="left">(</mml:mo>
+                                                            <mml:mrow>
+                                                                <mml:mo>-</mml:mo>
+                                                                <mml:mi>i</mml:mi>
+                                                                <mml:mi mathvariant="normal">&#x3a8;</mml:mi></mml:mrow>
+                                                            <mml:mo class="right">)</mml:mo></mml:mrow>
+                                                    </mml:mrow></mml:mrow>
+                                                <mml:mo>-</mml:mo>
+                                                <mml:msubsup>
+                                                    <mml:mrow>
+                                                        <mml:mi>r</mml:mi></mml:mrow>
+                                                    <mml:mrow>
+                                                        <mml:mn mathvariant="normal">12</mml:mn></mml:mrow>
+                                                    <mml:mrow>
+                                                        <mml:mn mathvariant="normal">2</mml:mn></mml:mrow>
+                                                </mml:msubsup>
+                                                <mml:mrow>
+                                                    <mml:mrow>
+                                                        <mml:mi>exp</mml:mi>
+                                                        <mml:mo>&#x2061;</mml:mo></mml:mrow>
+                                                    <mml:mo>&#x2061;</mml:mo>
+                                                    <mml:mrow>
+                                                        <mml:mrow>
+                                                            <mml:mo class="left">(</mml:mo>
+                                                            <mml:mrow>
+                                                                <mml:mi>i</mml:mi>
+                                                                <mml:mi mathvariant="normal">&#x3a8;</mml:mi></mml:mrow>
+                                                            <mml:mo class="right">)</mml:mo></mml:mrow>
+                                                    </mml:mrow></mml:mrow>
+                                            </mml:mrow></mml:mfrac>
+                                        <mml:mo>,</mml:mo></mml:mtd>
+                                </mml:mlabeledtr></mml:mtable>
+                        </mml:math></disp-formula>
+                            with
+                                <disp-formula>
+                        <mml:math display="block" xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M6">
+                            <mml:mtable>
+                                <mml:mlabeledtr id="EEq3">
+                                    <mml:mtd>
+                                        <mml:mtext>(3)</mml:mtext></mml:mtd>
+                                    <mml:mtd>
+                                        <mml:mi mathvariant="normal">&#x3a8;</mml:mi>
+                                        <mml:mo>=</mml:mo>
+                                        <mml:mfrac>
+                                            <mml:mrow>
+                                                <mml:mi>&#x3c9;</mml:mi></mml:mrow>
+                                            <mml:mrow>
+                                                <mml:mi>c</mml:mi></mml:mrow>
+                                        </mml:mfrac>
+                                        <mml:msub>
+                                            <mml:mrow>
+                                                <mml:mi>h</mml:mi></mml:mrow>
+                                            <mml:mrow>
+                                                <mml:mn mathvariant="normal">2</mml:mn></mml:mrow>
+                                        </mml:msub>
+                                        <mml:msqrt>
+                                            <mml:msub>
+                                                <mml:mrow>
+                                                    <mml:mi>&#x3b5;</mml:mi></mml:mrow>
+                                                <mml:mrow>
+                                                    <mml:mi>r</mml:mi>
+                                                    <mml:mn mathvariant="normal">2</mml:mn></mml:mrow>
+                                            </mml:msub>
+                                            <mml:mo>-</mml:mo>
+                                            <mml:mtext>si</mml:mtext>
+                                            <mml:msup>
+                                                <mml:mrow>
+                                                    <mml:mtext>n</mml:mtext></mml:mrow>
+                                                <mml:mrow>
+                                                    <mml:mn mathvariant="normal">2</mml:mn></mml:mrow>
+                                            </mml:msup>
+                                            <mml:mi>&#x3b1;</mml:mi></mml:msqrt>
+                                    </mml:mtd></mml:mlabeledtr>
+                            </mml:mtable></mml:math>
+                    </disp-formula>
+                            being a measure of the absorption in medium 2; <inline-formula>
+                        <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M7">
+                            <mml:mrow>
+                                <mml:msub>
+                                    <mml:mrow>
+                                        <mml:mi>h</mml:mi></mml:mrow>
+                                    <mml:mrow>
+                                        <mml:mn mathvariant="normal">2</mml:mn></mml:mrow>
+                                </mml:msub></mml:mrow>
+                        </mml:math></inline-formula> is the height of the second medium (layer&#x2019;s thickness), <inline-formula>
+                        <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M8">
+                            <mml:mrow>
+                                <mml:msub>
+                                    <mml:mrow>
+                                        <mml:mi>&#x3b5;</mml:mi></mml:mrow>
+                                    <mml:mrow>
+                                        <mml:mi>r</mml:mi>
+                                        <mml:mn mathvariant="normal">2</mml:mn></mml:mrow>
+                                </mml:msub></mml:mrow>
+                        </mml:math></inline-formula> is the permittivity of medium 2, and <inline-formula>
+                        <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M9">
+                            <mml:mrow>
+                                <mml:mi>&#x3b1;</mml:mi></mml:mrow>
+                        </mml:math></inline-formula> is the incidence angle with respect to the normal (Figure <xref ref-type="fig" rid="fig2">2</xref>).</p>
+                <fig id="fig2">
+                    <label>Figure 2</label>
+                    <caption>
+                        <p>An unaltered sedimentary structure of a salt dome [<xref ref-type="bibr" rid="B23">23</xref>]. The solid thin lines represent waves that propagate in each layer. The dashed lines show the reflected ones. The thick solid line shows the wave that enters in a layer after multiple reflections. The thickness of layer <inline-formula>
+                                <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M10">
+                                    <mml:mrow>
+                                        <mml:mi>i</mml:mi></mml:mrow>
+                                </mml:math></inline-formula> is <inline-formula>
+                                <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M11">
+                                    <mml:mrow>
+                                        <mml:msub>
+                                            <mml:mrow>
+                                                <mml:mi>d</mml:mi></mml:mrow>
+                                            <mml:mrow>
+                                                <mml:mi>L</mml:mi>
+                                                <mml:mi>i</mml:mi></mml:mrow>
+                                        </mml:msub></mml:mrow>
+                                </mml:math></inline-formula>.</p>
+                    </caption>
+                    <graphic xlink:href="901434.fig.002" /></fig>
+                <p>The coefficient <inline-formula>
+                        <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M12">
+                            <mml:mrow>
+                                <mml:msub>
+                                    <mml:mrow>
+                                        <mml:mi>r</mml:mi></mml:mrow>
+                                    <mml:mrow>
+                                        <mml:mn mathvariant="normal">12</mml:mn></mml:mrow>
+                                </mml:msub></mml:mrow>
+                        </mml:math></inline-formula> describes the reflections at the first interface. If one considers nonpolarized waves, then
+                                <disp-formula>
+                        <mml:math display="block" xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M13">
+                            <mml:mtable>
+                                <mml:mlabeledtr id="EEq4">
+                                    <mml:mtd>
+                                        <mml:mtext>(4)</mml:mtext></mml:mtd>
+                                    <mml:mtd>
+                                        <mml:mi>r</mml:mi>
+                                        <mml:mo>=</mml:mo>
+                                        <mml:mfrac>
+                                            <mml:mrow>
+                                                <mml:msub>
+                                                    <mml:mrow>
+                                                        <mml:mi>r</mml:mi></mml:mrow>
+                                                    <mml:mrow>
+                                                        <mml:mn mathvariant="normal">12</mml:mn>
+                                                        <mml:mi>s</mml:mi></mml:mrow>
+                                                </mml:msub>
+                                                <mml:mo>+</mml:mo>
+                                                <mml:msub>
+                                                    <mml:mrow>
+                                                        <mml:mi>r</mml:mi></mml:mrow>
+                                                    <mml:mrow>
+                                                        <mml:mn mathvariant="normal">12</mml:mn>
+                                                        <mml:mi>p</mml:mi></mml:mrow>
+                                                </mml:msub></mml:mrow>
+                                            <mml:mrow>
+                                                <mml:mn mathvariant="normal">2</mml:mn></mml:mrow>
+                                        </mml:mfrac>
+                                        <mml:mo>,</mml:mo></mml:mtd>
+                                </mml:mlabeledtr></mml:mtable>
+                        </mml:math></disp-formula>
+                            where <inline-formula>
+                        <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M14">
+                            <mml:mrow>
+                                <mml:msub>
+                                    <mml:mrow>
+                                        <mml:mi>r</mml:mi></mml:mrow>
+                                    <mml:mrow>
+                                        <mml:mn mathvariant="normal">12</mml:mn>
+                                        <mml:mi>s</mml:mi>
+                                        <mml:mo>,</mml:mo>
+                                        <mml:mi>p</mml:mi></mml:mrow>
+                                </mml:msub></mml:mrow>
+                        </mml:math></inline-formula> is the ratio of the amplitudes of the reflected electric field to the incident one when the field vector is perpendicular (index <inline-formula>
+                        <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M15">
+                            <mml:mrow>
+                                <mml:mi>s</mml:mi></mml:mrow>
+                        </mml:math></inline-formula>)/parallel (index <inline-formula>
+                        <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M16">
+                            <mml:mrow>
+                                <mml:mi>p</mml:mi></mml:mrow>
+                        </mml:math></inline-formula>) to the propagation plane. The reflection coefficients are given by [<xref ref-type="bibr" rid="B8">8</xref>]
+                                <disp-formula>
+                        <mml:math display="block" xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M17">
+                            <mml:mtable>
+                                <mml:mlabeledtr id="EEq5">
+                                    <mml:mtd rowspan="2">
+                                        <mml:mtext>(5)</mml:mtext></mml:mtd>
+                                    <mml:mtd>
+                                        <mml:msub>
+                                            <mml:mrow>
+                                                <mml:mi>r</mml:mi></mml:mrow>
+                                            <mml:mrow>
+                                                <mml:mn mathvariant="normal">12</mml:mn>
+                                                <mml:mi>s</mml:mi></mml:mrow>
+                                        </mml:msub>
+                                        <mml:mo>=</mml:mo>
+                                        <mml:mfrac>
+                                            <mml:mrow>
+                                                <mml:mn mathvariant="normal">2</mml:mn>
+                                                <mml:mi>cos</mml:mi>
+                                                <mml:mo>&#x2061;</mml:mo>
+                                                <mml:mi>&#x3b1;</mml:mi></mml:mrow>
+                                            <mml:mrow>
+                                                <mml:mi>cos</mml:mi>
+                                                <mml:mo>&#x2061;</mml:mo>
+                                                <mml:mi>&#x3b1;</mml:mi>
+                                                <mml:mo>+</mml:mo>
+                                                <mml:mi>m</mml:mi>
+                                                <mml:mi>cos</mml:mi>
+                                                <mml:mo>&#x2061;</mml:mo>
+                                                <mml:msub>
+                                                    <mml:mrow>
+                                                        <mml:mi>&#x3b1;</mml:mi></mml:mrow>
+                                                    <mml:mrow>
+                                                        <mml:mi>t</mml:mi></mml:mrow>
+                                                </mml:msub></mml:mrow>
+                                        </mml:mfrac>
+                                        <mml:mo>,</mml:mo></mml:mtd>
+                                </mml:mlabeledtr>
+                                <mml:mtr>
+                                    <mml:mtd>
+                                        <mml:msub>
+                                            <mml:mrow>
+                                                <mml:mi>r</mml:mi></mml:mrow>
+                                            <mml:mrow>
+                                                <mml:mn mathvariant="normal">12</mml:mn>
+                                                <mml:mi>p</mml:mi></mml:mrow>
+                                        </mml:msub>
+                                        <mml:mo>=</mml:mo>
+                                        <mml:mfrac>
+                                            <mml:mrow>
+                                                <mml:mn mathvariant="normal">2</mml:mn>
+                                                <mml:mi>cos</mml:mi>
+                                                <mml:mo>&#x2061;</mml:mo>
+                                                <mml:mi>&#x3b1;</mml:mi></mml:mrow>
+                                            <mml:mrow>
+                                                <mml:mi>m</mml:mi>
+                                                <mml:mi>cos</mml:mi>
+                                                <mml:mo>&#x2061;</mml:mo>
+                                                <mml:mi>&#x3b1;</mml:mi>
+                                                <mml:mo>+</mml:mo>
+                                                <mml:mi>cos</mml:mi>
+                                                <mml:mo>&#x2061;</mml:mo>
+                                                <mml:msub>
+                                                    <mml:mrow>
+                                                        <mml:mi>&#x3b1;</mml:mi></mml:mrow>
+                                                    <mml:mrow>
+                                                        <mml:mi>t</mml:mi></mml:mrow>
+                                                </mml:msub></mml:mrow>
+                                        </mml:mfrac>
+                                        <mml:mo>,</mml:mo></mml:mtd>
+                                </mml:mtr></mml:mtable>
+                        </mml:math></disp-formula>
+                            where <inline-formula>
+                        <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M18">
+                            <mml:mrow>
+                                <mml:mi>m</mml:mi></mml:mrow>
+                        </mml:math></inline-formula> is the ratio of the refractive indexes (the refractive index of a medium is defined as the square root of the medium&#x2019;s permittivity) and <inline-formula>
+                        <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M19">
+                            <mml:mrow>
+                                <mml:msub>
+                                    <mml:mrow>
+                                        <mml:mi>&#x3b1;</mml:mi></mml:mrow>
+                                    <mml:mrow>
+                                        <mml:mi>t</mml:mi></mml:mrow>
+                                </mml:msub></mml:mrow>
+                        </mml:math></inline-formula> is the angle that the transmitted wave makes with the normal at the interface with the second medium. It can be calculated using Snell&#x2019;s law of refraction:
+                                <disp-formula>
+                        <mml:math display="block" xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M20">
+                            <mml:mtable>
+                                <mml:mlabeledtr id="EEq7">
+                                    <mml:mtd>
+                                        <mml:mtext>(6)</mml:mtext></mml:mtd>
+                                    <mml:mtd>
+                                        <mml:mi>sin</mml:mi>
+                                        <mml:mi>&#x3b1;</mml:mi>
+                                        <mml:mo>=</mml:mo>
+                                        <mml:mi>m</mml:mi>
+                                        <mml:mi>sin</mml:mi>
+                                        <mml:msub>
+                                            <mml:mrow>
+                                                <mml:mi>&#x3b1;</mml:mi></mml:mrow>
+                                            <mml:mrow>
+                                                <mml:mi>t</mml:mi></mml:mrow>
+                                        </mml:msub>
+                                        <mml:mo>.</mml:mo></mml:mtd>
+                                </mml:mlabeledtr></mml:mtable>
+                        </mml:math></disp-formula>
+                </p>
+                <p>If the permittivity is a complex number, <inline-formula>
+                        <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M21">
+                            <mml:mrow>
+                                <mml:msub>
+                                    <mml:mrow>
+                                        <mml:mi>&#x3b1;</mml:mi></mml:mrow>
+                                    <mml:mrow>
+                                        <mml:mi>t</mml:mi></mml:mrow>
+                                </mml:msub></mml:mrow>
+                        </mml:math></inline-formula> will also be complex. The physical meaning of a complex number is a phase shift of the transmitted wave.</p>
+                <p>The sedimentary heterogeneity effect (the transmitted fraction from layer 1 to layer <inline-formula>
+                        <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M22">
+                            <mml:mrow>
+                                <mml:mi>n</mml:mi></mml:mrow>
+                        </mml:math></inline-formula>) can be evaluated using the model described by (<xref ref-type="disp-formula" rid="EEq1">1</xref>)&#x2013;(<xref ref-type="disp-formula" rid="EEq7">6</xref>). As shown in Figure <xref ref-type="fig" rid="fig2">2</xref>, the electromagnetic radiation crosses the first layer and only a fraction of it enters the second layer. The reminder is reflected and can be regarded as a loss. In order to show that the loss assumption is well justified, the power of the transmitted waves in layer two (thick arrow in Figure <xref ref-type="fig" rid="fig2">2</xref>) that resides after multiple reflections in layer 1 (dashed arrow in Figure <xref ref-type="fig" rid="fig2">2</xref>) has been calculated. As it is more than three orders of smaller magnitude it can be ignored [<xref ref-type="bibr" rid="B7">7</xref>].</p>
+            </sec>
+            <sec id="sec2.3">
+                <title>2.3. Mineral Heterogeneity</title>
+                <p>With respect to mineral heterogeneity, the spatial relationship between halite salts and potassium salts is primarily important. The multimineral development is of a complex nature and is usually located at the boundary of a sedimentary basin. The development of potassium salts in a majority of cases occurs like a frame around the rock salt body.</p>
+                <p>The mineral heterogeneity will not be further investigated in this paper, due to lack of experimental probes. For further processing, multiple samples should be collected from different locations and chemically analyzed. We estimate that this heterogeneity (associated with peripheral areas of the dome) can be disregarded in the case of a neutrino detector since data acquisition will be made only in the central parts of the salt block.</p></sec>
+            <sec id="sec2.4">
+                <title>2.4. Structural Heterogeneities</title>
+                <p>Structural heterogeneities of evaporated strata are the product of tectonic movements of the earth&#x2019;s crust in the region of their deposition.</p>
+                <p>The structural heterogeneities in evaporated strata could vary significantly due to differences in elasticity of individual layers. For example, gypsum, anhydrite, marl, and others might have developed an apparent internal blocky structure. It is specific to cap rocks or other types of folding structures and thus it will not represent a case study here.</p>
+                <p>Another geological property of a salt mine is the <italic>faulting structures. </italic>A problem associated with the step faults is that they can be a water feeder to the salt deposits.</p>
+                <p>Investigations of radio wave propagation in salt are difficult because a priori knowledge of the location of water- or brine-bearing zones is seldom available.</p>
+                <p>Rock salt is a conductor for electric current mostly due to internally contained water in the pores&#x2019; interstices. The water induced conductivity in rock salt can be determined using the model in [<xref ref-type="bibr" rid="B27">25</xref>]. The value for the conductivity induced by a 0.02&#x25; water content is 2 &#xd7; 10<sup>&#x2212;6</sup>&#x2009;&#x3a9;<sup>&#x2212;1</sup>&#x2009;m<sup>&#x2212;1</sup> [<xref ref-type="bibr" rid="B28">26</xref>]. Such small water content is not expected to decrease significantly the transmission in salt beds.</p>
+                <p>The effect of brines in forms of fluid inclusions was also estimated in [<xref ref-type="bibr" rid="B23">23</xref>]. The brine induced radio wave attenuation was calculated following [<xref ref-type="bibr" rid="B29">27</xref>, <xref ref-type="bibr" rid="B30">28</xref>]. If the waves travel a distance of 1.1&#x2009;cm in brine, about 70&#x25; of their energy will be lost. If the distance increases to 1.4&#x2009;cm, only 20&#x25; of energy will remain. For propagation distances larger than 2.1&#x2009;cm, the transmission coefficient will be smaller than 10&#x25;.</p>
+                <p>It is concluded that connate water and secondary trapped water [<xref ref-type="bibr" rid="B11">11</xref>] will absorb all radio electromagnetic radiation. Location of such caverns must be determined a priori. They can be traced only experimentally (i.e., using GPR measurements, as suggested in [<xref ref-type="bibr" rid="B26">29</xref>]). Another groundwater source tracer can be achieved by chemical composition analysis (e.g., a high MgCl<sub>2</sub> content indicates connate water, the Cl/Br coefficient-primary trapped water etc. [<xref ref-type="bibr" rid="B11">11</xref>]).</p></sec>
+        </sec>
+        <sec id="sec3">
+            <title>3. Propagation Studies</title>
+            <sec id="sec3.1">
+                <title>3.1. Effect of Heterogeneous Zones on Electromagnetic Waves</title>
+                <p>Pure sodium chloride is an isotropic crystal. Entering radiation is refracted at a constant angle and passes through the crystal at a single velocity without being polarized by interaction with the electronic components of the crystalline lattice. Thus, for as long as impurities are in small number, one can expect no <italic>birefringence phenomenon</italic> in all frequency bands.</p>
+                <p>The electromagnetic (EM) data observed in geophysical experiments in heterogeneous media generally reflect two phenomena: <italic>electromagnetic induction</italic> (EMI) in the earth and the <italic>induced polarization</italic> (IP) effect related to the relaxation of polarized charges in rock formations. The IP effect is caused by the complex electrochemical reactions phenomena that accompany current flow in the earth and it is manifested by accumulating electric charges on the surface of different grains forming the rock.</p>
+                <p>EMI and IP phenomena occur in rock formations in areas of mineralization (areas with mineralized particles) and hydrocarbon reservoirs [<xref ref-type="bibr" rid="B31">30</xref>].</p>
+                <p>
+                    <italic>Areas of mineralization</italic> are observed in salt dome&#x2019;s cap rock. The cap rock is composed mainly of anhydrite, gypsum, and calcite arranged in heterogeneous layers. Cap rock layering is irregular and varies greatly from dome to dome. Structural deformation and fracturing are common, as are cavernous voids. Analysis of other features as the locations of kimberlites, faulting, including zones of mineralization, can be determined from, for example, aeromagnetic data [<xref ref-type="bibr" rid="B32">31</xref>].</p>
+                <p>Salt is impermeable and when it reaches a layer of permeable rock, in which hydrocarbons are migrating, it blocks the pathway in much the same manner as a fault trap. Due to that, the region around the perimeter of the salt dome is an ideal geologic environment for <italic>hydrocarbon traps</italic> [<xref ref-type="bibr" rid="B33">32</xref>].</p>
+                <p>The fracturing of surrounding rocks due to the intruding salt and the lifting of the rocks above the salt dome also provide an environment for the existence of fault traps and anticlinal traps in addition to the salt dome traps around the perimeter of the dome. A salt dome region, therefore, is an excellent geologic environment for all types of traps [<xref ref-type="bibr" rid="B34">33</xref>]. Moreover, association with evaporite minerals can provide excellent sealing capabilities. The monitoring of reservoir production can be performed using EM methods [<xref ref-type="bibr" rid="B35">34</xref>].</p>
+                <p>Since in the case of a cosmic neutrino detector the detecting elements are placed away from periphery of the dome, we can conclude that neither EMI nor IP will affect radio wave propagation. Moreover, these effects are important at kHz frequencies, so observations at &#x7e;200&#x2009;MHz will not be affected.</p></sec>
+            <sec id="sec3.2">
+                <title>3.2. Radio Transmission Estimates</title>
+                <p>We consider long-range propagation of radio waves, which implies a large number of crossed sedimentary layers. For this purpose, we will introduce the transmission&#x2014;that is, the ratio of the transmitted electric field strength after propagation through the entire salt medium to the initial electrical field strength. Absorption and scattering effects are also included in this quantity.</p>
+                <p>For the simulations presented in this paper, we considered the classical propagation model. We assumed that there are only a forward and a backward traveling wave in each layer. A limitation of the model that would require further investigation is connected to the evanescent fields at the separation borders between layers which could react with the evanescent fields of adjacent layers.</p>
+                <p>In real situations, one can neither predict nor measure the permittivities of all the salt layers (especially when the volume of interest is of the order of cubic kilometers) and extended invasive procedures are not an option before excavating the boreholes. Thus, one should investigate the possibility of approximating the real environment by considering an &#x201c;equivalent permittivity&#x201d; of the medium (given by the mean of the permittivities of the constituents layers, here considered equal in size). The assumption of a media build of homogeneous layers with constant thickness does not fit the in situ characteristics of a salt dome in most cases, but it is treated here as a conservative case.</p>
+                <p>To study the effect of the impurities on long-range propagation, we simulated a situation where only one impurity is changing its concentration from layer to layer. If the layer to layer variations in concentration are small (about 0.1<inline-formula>
+                        <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M23">
+                            <mml:mrow>
+                                <mml:msub>
+                                    <mml:mrow>
+                                        <mml:mi>C</mml:mi></mml:mrow>
+                                    <mml:mrow>
+                                        <mml:mtext>element</mml:mtext></mml:mrow>
+                                </mml:msub></mml:mrow>
+                        </mml:math></inline-formula>&#x2014;where <inline-formula>
+                        <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M24">
+                            <mml:mrow>
+                                <mml:msub>
+                                    <mml:mrow>
+                                        <mml:mi>C</mml:mi></mml:mrow>
+                                    <mml:mrow>
+                                        <mml:mtext>element</mml:mtext></mml:mrow>
+                                </mml:msub></mml:mrow>
+                        </mml:math></inline-formula> is the concentration of the element given in Table <xref ref-type="table" rid="tab1">1</xref>), the results are independent of the impurity type that varies its concentration. This is due to the fact that most of the power is lost by reflections between layers while absorption and scattering due to impurities are very small.</p>
+                <p>Absorption remains small compared to reflections even if layer to layer difference in concentration is large (about <inline-formula>
+                        <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M25">
+                            <mml:mn mathvariant="normal">0.5</mml:mn>
+                            <mml:msub>
+                                <mml:mrow>
+                                    <mml:mi>C</mml:mi></mml:mrow>
+                                <mml:mrow>
+                                    <mml:mtext>element</mml:mtext></mml:mrow>
+                            </mml:msub></mml:math>
+                    </inline-formula>). The transmission is poorer for impurities of higher physical dimension. Most losses are associated with reflections at interfaces between layers. The higher the number of layers is, the higher the losses (reflections) are.</p>
+                <p>In order to evaluate the effects of the number of layers and of a single type of impurity on long-range propagation, we have performed a simulation in which all layers have a constant thickness <inline-formula>
+                        <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M26">
+                            <mml:mrow>
+                                <mml:msub>
+                                    <mml:mrow>
+                                        <mml:mi>d</mml:mi></mml:mrow>
+                                    <mml:mrow>
+                                        <mml:mi>L</mml:mi></mml:mrow>
+                                </mml:msub></mml:mrow>
+                        </mml:math></inline-formula>. From layer to layer, only one impurity varies its concentration, uniformly distributed in the interval [0, <inline-formula>
+                        <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M27">
+                            <mml:mrow>
+                                <mml:msub>
+                                    <mml:mrow>
+                                        <mml:mi>C</mml:mi></mml:mrow>
+                                    <mml:mrow>
+                                        <mml:mtext>element</mml:mtext></mml:mrow>
+                                </mml:msub></mml:mrow>
+                        </mml:math></inline-formula>]. The rest of impurities have the same concentration in all layers (again given in Table <xref ref-type="table" rid="tab1">1</xref>). For each number of layers <inline-formula>
+                        <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M28">
+                            <mml:mrow>
+                                <mml:mi>N</mml:mi></mml:mrow>
+                        </mml:math></inline-formula>, an &#x201c;equivalent&#x201d; situation has been calculated (in which the permittivity of a single layer of length <inline-formula>
+                        <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M29">
+                            <mml:mi>N</mml:mi>
+                            <mml:mo>&#xd7;</mml:mo>
+                            <mml:msub>
+                                <mml:mrow>
+                                    <mml:mi>d</mml:mi></mml:mrow>
+                                <mml:mrow>
+                                    <mml:mi>L</mml:mi></mml:mrow>
+                            </mml:msub></mml:math>
+                    </inline-formula> is determined using the mean volume averaged concentration of impurities), represented in Figure <xref ref-type="fig" rid="fig3">3</xref> by dotted lines. In Figure <xref ref-type="fig" rid="fig3">3</xref>, both the actual transmission and the &#x201c;equivalent&#x201d; transmission are shown. One can see that the &#x201c;equivalent&#x201d; transmission is overestimating the actual situation. Moreover, if only one impurity varies its concentration layer to layer, reflections at interfaces are extremely small. Results are independent of the impurity type but dependent on their volume concentration. We have shown results for just one type of impurity (Br) because results are much alike for the rest.</p>
+                <fig-group id="fig3">
+                    <caption>
+                        <p>Effect of wave reflection when the concentration of one impurity varies randomly from layer to layer. All layers have the same thickness (20&#x2009;cm&#x2014;thinner lines&#x2014;or 2&#x2009;m&#x2014;thicker lines marked by &#x201c;+&#x201d;). The continuous lines (b) mark the actual transmitted field and the dotted ones (a) mark the transmitted field in the &#x201c;equivalent&#x201d; situation.</p></caption>
+                    <fig id="fig3a">
+                        <label>(a)</label>
+                        <graphic xlink:href="901434.fig.003a" /></fig>
+                    <fig id="fig3b">
+                        <label>(b)</label>
+                        <graphic xlink:href="901434.fig.003b" /></fig>
+                </fig-group>
+                <p>To make an estimate of the magnitude of absorption only, we have calculated the difference between the transmission with and without absorption, when the total propagation distance is up to 100&#x2009;m and the layers are of thickness 2, 4, or 10&#x2009;cm. Absorption accounts for less than 10<sup>&#x2212;9</sup> of the total loss of energy. Thus, the main mechanism that causes the decrease of a wave&#x2019;s amplitude is reflection at interfaces between sedimented layers.</p></sec>
+            <sec id="sec3.3">
+                <title>3.3. Propagation Induced Limitations in a Cosmic Neutrino Detector</title>
+                <p>Transmission through salt layers should be carefully estimated because the data to be analyzed&#x2014;for example, measurements recorded by each antenna&#x2014;is proportional to the product of transmission and the neutrino generated radio field at interaction in salt. Moreover, the resolution and sensitivity of the detector depend on this factor.</p>
+                <p>In previous studies, the propagation medium was considered homogeneous and the attenuation length was defined straightforward [<xref ref-type="bibr" rid="B36">35</xref>]:
+                                <disp-formula>
+                        <mml:math display="block" xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M30">
+                            <mml:mtable>
+                                <mml:mlabeledtr id="eq7">
+                                    <mml:mtd>
+                                        <mml:mtext>(7)</mml:mtext></mml:mtd>
+                                    <mml:mtd>
+                                        <mml:mi>L</mml:mi>
+                                        <mml:mo>=</mml:mo>
+                                        <mml:mfrac>
+                                            <mml:mrow>
+                                                <mml:msub>
+                                                    <mml:mrow>
+                                                        <mml:mi>c</mml:mi></mml:mrow>
+                                                    <mml:mrow>
+                                                        <mml:mn mathvariant="normal">0</mml:mn></mml:mrow>
+                                                </mml:msub></mml:mrow>
+                                            <mml:mrow>
+                                                <mml:mi>&#x3c0;</mml:mi>
+                                                <mml:mi>f</mml:mi>
+                                                <mml:msqrt>
+                                                    <mml:mi>&#x211C;</mml:mi>
+                                                    <mml:mrow>
+                                                        <mml:mo class="left">{</mml:mo>
+                                                        <mml:mrow>
+                                                            <mml:msub>
+                                                                <mml:mrow>
+                                                                    <mml:mi>&#x3b5;</mml:mi></mml:mrow>
+                                                                <mml:mrow>
+                                                                    <mml:mi>r</mml:mi></mml:mrow>
+                                                            </mml:msub></mml:mrow>
+                                                        <mml:mo class="right">}</mml:mo></mml:mrow>
+                                                </mml:msqrt>
+                                                <mml:mi>tan</mml:mi>
+                                                <mml:mi>&#x3b4;</mml:mi></mml:mrow>
+                                        </mml:mfrac>
+                                        <mml:mo>,</mml:mo></mml:mtd>
+                                </mml:mlabeledtr></mml:mtable>
+                        </mml:math></disp-formula>
+                            where the loss tangent is
+                                <disp-formula>
+                        <mml:math display="block" xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M31">
+                            <mml:mtable>
+                                <mml:mlabeledtr id="eq8">
+                                    <mml:mtd>
+                                        <mml:mtext>(8)</mml:mtext></mml:mtd>
+                                    <mml:mtd>
+                                        <mml:mi>tan</mml:mi>
+                                        <mml:mi>&#x3b4;</mml:mi>
+                                        <mml:mo>=</mml:mo>
+                                        <mml:mfrac>
+                                            <mml:mrow>
+                                                <mml:mi>&#x2111;</mml:mi>
+                                                <mml:mrow>
+                                                    <mml:mo class="left">{</mml:mo>
+                                                    <mml:mrow>
+                                                        <mml:msub>
+                                                            <mml:mrow>
+                                                                <mml:mi>&#x3b5;</mml:mi></mml:mrow>
+                                                            <mml:mrow>
+                                                                <mml:mi>r</mml:mi></mml:mrow>
+                                                        </mml:msub></mml:mrow>
+                                                    <mml:mo class="right">}</mml:mo></mml:mrow>
+                                            </mml:mrow>
+                                            <mml:mrow>
+                                                <mml:mi>&#x211C;</mml:mi>
+                                                <mml:mrow>
+                                                    <mml:mo class="left">{</mml:mo>
+                                                    <mml:mrow>
+                                                        <mml:msub>
+                                                            <mml:mrow>
+                                                                <mml:mi>&#x3b5;</mml:mi></mml:mrow>
+                                                            <mml:mrow>
+                                                                <mml:mi>r</mml:mi></mml:mrow>
+                                                        </mml:msub></mml:mrow>
+                                                    <mml:mo class="right">}</mml:mo></mml:mrow>
+                                            </mml:mrow></mml:mfrac>
+                                        <mml:mo>.</mml:mo></mml:mtd>
+                                </mml:mlabeledtr></mml:mtable>
+                        </mml:math></disp-formula>
+                            In both equations, <inline-formula>
+                        <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M32">
+                            <mml:mi>&#x211C;</mml:mi>
+                            <mml:mrow>
+                                <mml:mo stretchy="false">{</mml:mo>
+                                <mml:mrow>
+                                    <mml:msub>
+                                        <mml:mrow>
+                                            <mml:mi>&#x3b5;</mml:mi></mml:mrow>
+                                        <mml:mrow>
+                                            <mml:mi>r</mml:mi></mml:mrow>
+                                    </mml:msub></mml:mrow>
+                                <mml:mo stretchy="false">}</mml:mo></mml:mrow>
+                        </mml:math></inline-formula> denotes the real part of the permittivity and <inline-formula>
+                        <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M33">
+                            <mml:mi>&#x2111;</mml:mi>
+                            <mml:mrow>
+                                <mml:mo stretchy="false">{</mml:mo>
+                                <mml:mrow>
+                                    <mml:msub>
+                                        <mml:mrow>
+                                            <mml:mi>&#x3b5;</mml:mi></mml:mrow>
+                                        <mml:mrow>
+                                            <mml:mi>r</mml:mi></mml:mrow>
+                                    </mml:msub></mml:mrow>
+                                <mml:mo stretchy="false">}</mml:mo></mml:mrow>
+                        </mml:math></inline-formula> is the imaginary part.</p>
+                <p>For pure salt, the attenuation length reaches more than 1&#x2009;km at a few hundreds MHz. This is the case reported in [<xref ref-type="bibr" rid="B37">36</xref>] where attenuation lengths of 900&#x2009;m were measured at 200&#x2009;MHz in Hockley Mine, USA. One of the most precise measurements of radio attenuation in a natural salt formation performed in the Cote Blanche salt mine found attenuation lengths from 93&#x2009;m (at 150&#x2009;MHz) to 63&#x2009;m (at 300&#x2009;MHz) [<xref ref-type="bibr" rid="B38">37</xref>]. However, salt in other deposits in North America showed dielectric constants ranging 5&#x2013;7 and loss tangents 0.015&#x2013;0.030 or more at 300&#x2009;MHz, implying attenuation lengths below 10&#x2009;m [<xref ref-type="bibr" rid="B36">35</xref>].</p>
+                <p>In the previous section, it was shown that the permittivity cannot be approximated by any kind of &#x201c;mean&#x201d; value (Figure <xref ref-type="fig" rid="fig3">3</xref>) of permittivities from different (possibly collected) samples. This has direct consequences on the construction and predictions for the detector. A realistic model for propagation should consider a layered medium and in each layer the impurities should have a random concentration. To this end, we allowed each impurity type in each layer to take a random concentration in the interval [0.5<inline-formula>
+                        <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M34">
+                            <mml:mrow>
+                                <mml:msub>
+                                    <mml:mrow>
+                                        <mml:mi>C</mml:mi></mml:mrow>
+                                    <mml:mrow>
+                                        <mml:mtext>element</mml:mtext></mml:mrow>
+                                </mml:msub></mml:mrow>
+                        </mml:math></inline-formula>, 1.5<inline-formula>
+                        <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M35">
+                            <mml:mrow>
+                                <mml:msub>
+                                    <mml:mrow>
+                                        <mml:mi>C</mml:mi></mml:mrow>
+                                    <mml:mrow>
+                                        <mml:mtext>element</mml:mtext></mml:mrow>
+                                </mml:msub></mml:mrow>
+                        </mml:math></inline-formula>]&#x2014;where <inline-formula>
+                        <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M36">
+                            <mml:mrow>
+                                <mml:msub>
+                                    <mml:mrow>
+                                        <mml:mi>C</mml:mi></mml:mrow>
+                                    <mml:mrow>
+                                        <mml:mtext>element</mml:mtext></mml:mrow>
+                                </mml:msub></mml:mrow>
+                        </mml:math></inline-formula> is the nominal concentration given in Table <xref ref-type="table" rid="tab1">1</xref>&#x2014;and repeated each simulation multiple times.</p>
+                <p>We considered sets of 30 simulations, in each of which we used random values for concentrations of all impurity types, different from layer to layer. The transmission was calculated in each simulation and a mean value and standard deviation were determined for the set of 30 simulations. Figure <xref ref-type="fig" rid="fig4">4</xref> shows results when equal layers of thickness 2&#x2009;cm, 4&#x2009;cm, and 6&#x2009;cm were considered.</p>
+                <fig id="fig4">
+                    <label>Figure 4</label>
+                    <caption>
+                        <p>Mean and standard deviation for transmission when different propagation distances and layers thickness are considered (details are given in text).</p></caption>
+                    <graphic xlink:href="901434.fig.004" /></fig>
+                <p>Figure <xref ref-type="fig" rid="fig4">4</xref> shows that in the case of a known value of transmission (ratio <inline-formula>
+                        <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M37">
+                            <mml:mrow>
+                                <mml:msub>
+                                    <mml:mrow>
+                                        <mml:mi>E</mml:mi></mml:mrow>
+                                    <mml:mrow>
+                                        <mml:mi>t</mml:mi></mml:mrow>
+                                </mml:msub></mml:mrow>
+                        </mml:math></inline-formula>/<inline-formula>
+                        <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M38">
+                            <mml:mrow>
+                                <mml:msub>
+                                    <mml:mrow>
+                                        <mml:mi>E</mml:mi></mml:mrow>
+                                    <mml:mrow>
+                                        <mml:mi>i</mml:mi></mml:mrow>
+                                </mml:msub></mml:mrow>
+                        </mml:math></inline-formula>) not only the propagation distance (e.g., distance between the neutrino interaction and radio detector element) but also the thickness of the sedimentary layers can be determined. Results in Figure <xref ref-type="fig" rid="fig4">4</xref> are obtained in the assumption of equal sedimentary layers.</p>
+                <p>As a next step, we considered simultaneous random variations in propagation distance and layer thickness. Figure <xref ref-type="fig" rid="fig5">5</xref> shows the mean values of the transmission factors for each combination of layer thickness-propagation distance. The widest layers and smallest propagation length produce the highest transmission.</p>
+                <fig id="fig5">
+                    <label>Figure 5</label>
+                    <caption>
+                        <p>Mean transmission values versus different propagation distances and thickness of constituents (equal) layers.</p></caption>
+                    <graphic xlink:href="901434.fig.005" /></fig>
+                <p>Depending on the layer&#x2019;s thickness, the 1<italic>&#x3c3;</italic> standard deviation of the transmission varies. For 1&#x2009;cm thick layers, it is equal to 18.75&#x25; and it decreases with the increase in the layer&#x2019;s thickness (for layers of thickness 2&#x2009;cm it becomes 17.9&#x25;).</p>
+                <p>The minimal resolution of the detector is given by the standard deviation. The larger the standard deviation is, the larger the ambiguity in determining the thickness of the layers is. However, for particular propagation distances, it is still possible to uniquely estimate the thickness of the layers.</p>
+                <p>In Figure <xref ref-type="fig" rid="fig6">6</xref>, the isosurfaces of transmission are shown. From the cost point of view, we are interested in a detector that allows maximum propagation distance (i.e., distance between antennas) but is capable of good reconstruction of signals (thus neutrino properties) in a given medium. If we impose a maximum propagation distance of 100&#x2009;m and a threshold of 10&#x25; (the medium itself produces 90&#x25; losses), the medium should be formed by layers of minimum 9&#x2009;cm thickness. A smaller distance between receivers of 80&#x2009;m allows a threshold of 12&#x25; when the minimum thickness of the layers is 8&#x2009;cm.</p>
+                <fig id="fig6">
+                    <label>Figure 6</label>
+                    <caption>
+                        <p>The isosurfaces for transmission when different layer thickness&#x2019; and propagation distances were considered.</p></caption>
+                    <graphic xlink:href="901434.fig.006" /></fig>
+                <p>An important observation is the phase change. When crossing interfaces between different layers, not only the amplitude of the wave is reduced but also a phase shift occurs. Figure <xref ref-type="fig" rid="fig7">7</xref> shows the phase shift versus the number of layers of thickness equal to 20&#x2009;cm. The measured phase cannot be used to determine the initial particle direction.</p>
+                <fig id="fig7">
+                    <label>Figure 7</label>
+                    <caption>
+                        <p>The phase shift as function of the number of layers of thickness 20&#x2009;cm. With dashed line we presented results corresponding to variations in the concentration of calcium and with dotted line&#x2014;concentration of titanium.</p></caption>
+                    <graphic xlink:href="901434.fig.007" /></fig>
+                <p>To obtain the optimal detection equipment characteristics (antenna and filters), we simulated propagation through layers of different thickness, at two frequencies: 187.5&#x2009;MHz (the corresponding value for a half wave dipole of 80&#x2009;cm) and 1&#x2009;GHz, and plotted the difference. We considered that the total propagation distance was formed by equal layers of thickness <inline-formula>
+                        <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M39">
+                            <mml:mrow>
+                                <mml:msub>
+                                    <mml:mrow>
+                                        <mml:mi>d</mml:mi></mml:mrow>
+                                    <mml:mrow>
+                                        <mml:mi>L</mml:mi></mml:mrow>
+                                </mml:msub></mml:mrow>
+                        </mml:math></inline-formula> (in the first simulation 2&#x2009;cm, followed by 4&#x2009;cm and 10&#x2009;cm). In each layer, the concentration of each impurity type varied randomly, having values of 0.5 to 1.5 times the nominal concentration given in Table <xref ref-type="table" rid="tab1">1</xref>. As shown in Figure <xref ref-type="fig" rid="fig8">8</xref>, the difference in transmission for the two considered frequencies is extremely small, especially for layers of greater thickness. When <inline-formula>
+                        <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M40">
+                            <mml:mrow>
+                                <mml:msub>
+                                    <mml:mrow>
+                                        <mml:mi>d</mml:mi></mml:mrow>
+                                    <mml:mrow>
+                                        <mml:mi>L</mml:mi></mml:mrow>
+                                </mml:msub></mml:mrow>
+                        </mml:math></inline-formula> is smaller, one should choose the smaller frequency as central frequency for the electronic equipment.</p>
+                <fig id="fig8">
+                    <label>Figure 8</label>
+                    <caption>
+                        <p>Difference between transmission at 187.5&#x2009;MHz and 1&#x2009;GHz. Layers have a thickness of 2&#x2009;cm (continuous line), 4&#x2009;cm (dash-dotted line), and 10&#x2009;cm (dotted line, marked by &#x201c;+&#x201d;).</p></caption>
+                    <graphic xlink:href="901434.fig.008" /></fig>
+            </sec></sec>
+        <sec id="sec4">
+            <title>4. Conclusions</title>
+            <p>In this paper, we simulated some effects that influence radio wave propagation in layered media. Our research was driven by the desire to build a neutrino radio detector in a Romanian salt mine. &#x201c;Unirea&#x201d; mine was chosen because we already have a working laboratory installed. As stated in the first section, neutrino-salt interactions generate an electromagnetic field that can be measured by radio antennas. By studying this interaction, the main characteristics of the cosmic particle can be found: the energy can be determined from the amplitude of the EM field, the direction from the arrival time of the radio pulse at different antennas. The neutrino type may be inferred from the signature of the shower (the three flavors have distinct interactions characteristics). The issue of determining the flavour of the primary neutrino in a radio experiment is a complex problem and is not the scope of this study. A good theoretical description and mathematical model of radio wave propagation in salt is necessary for frequencies around 200&#x2009;MHz.</p>
+            <p>The subject requires a deep investigation as the propagating environment is the main factor that determines the energy threshold of the detector, its resolution, and the uncertainties in determining the primary particle characteristics. Up to date, there are no extensive studies on the effects that the layered medium has on the performances of the detector.</p>
+            <p>We analyzed all possible types of salt heterogeneities and concluded that in the specific case of a radio neutrino detector in &#x201c;Unirea&#x201d; salt mine only sedimentary and domal heterogeneities will affect radio wave propagation. Peripheral associated effects can be excluded because the detector would be built in the central part of the dome. Moreover, the attenuation length for propagation in salt is small compared to ice and thus for this type of neutrino detector, we expect an extension of only about 0.2&#x2009;km<sup>3</sup> for a 1&#x2009;km<sup>3</sup> instrumented volume.</p>
+            <p>For homogeneous medium, the equivalent dielectric constant of salt was calculated at 187.5&#x2009;MHz: <inline-formula>
+                    <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M41">
+                        <mml:msub>
+                            <mml:mrow>
+                                <mml:mi>&#x3b5;</mml:mi></mml:mrow>
+                            <mml:mrow>
+                                <mml:mi>r</mml:mi></mml:mrow>
+                        </mml:msub>
+                        <mml:mo>=</mml:mo>
+                        <mml:mn>7.4747</mml:mn>
+                        <mml:mo>+</mml:mo>
+                        <mml:mi>i</mml:mi>
+                        <mml:mn>0.0003</mml:mn></mml:math>
+                </inline-formula>. If the concentration of all elements increases 5 times their value in [<xref ref-type="bibr" rid="B24">38</xref>], the imaginary part of permittivity increases almost 10 times (up to 0.002) [<xref ref-type="bibr" rid="B23">23</xref>]. This would correspond to an attenuation length greater than 1&#x2009;km. The distance between detecting elements&#x2014;antennas here&#x2014;could be at that order. Moreover the threshold energy for the cosmic neutrino would be less than 1&#x2009;PeV [<xref ref-type="bibr" rid="B6">6</xref>].</p>
+            <p>Compared to absorption caused by impurities, the scattering effect is 40 orders of magnitude smaller, so it can be easily ignored. Waves at higher frequencies are scattered more efficiently as the corresponding wavelengths are smaller and approach the size of impurities. However, at &#x7e;200&#x2009;MHz, the dimensions of any heterogeneity that can be found in natural rock salt (including anhydrite, hydrocarbons, etc.) are small compared to the wavelength and thus scattering in the Mie regime is insignificant.</p>
+            <p>When considering a sedimentary layered medium, simulations have shown that absorption accounts for less than 10<sup>&#x2212;9</sup> of the total loss of energy and thus the main mechanism that causes the decrease of wave amplitude is reflections at interfaces between layers of different permittivity. Multiple reflections due to back-reflected waves within one layer can be directly considered to be losses.</p>
+            <p>A gradual change in concentration of impurities within layers diminishes reflections. The transmission becomes almost independent of number of crossed layers if only one element varies in concentration from layer to layer.</p>
+            <p>As mentioned, simulations have shown that the main factor that contributes to the decrease of signal was reflections at interfaces between layers. The worst case scenario (the smallest layers, here considered to be 1&#x2009;cm, together with concentration of elements unknown by a factor of 2) leads to a transmission factor unknown by &#x7e;20&#x25;.</p>
+            <p>Another factor to consider for radio wave propagation is the presence of water in the salt structure: if the waves travel a distance higher than 2&#x2009;cm in a brine bubble, about 90&#x25; of their energy will be lost [<xref ref-type="bibr" rid="B23">23</xref>]. It is clear that secondary trapped water in caverns will absorb all electromagnetic radiation. It becomes mandatory to locate such caverns by complementary techniques (such as geoelectrics, GPR, etc.).</p>
+            <p>It has been shown that wave polarization information is completely lost in propagation. This is due to the fact that at each layer crossing a phase shift occurs. Given that the number of layers between production and reception of the electromagnetic wave cannot be accurately known, the initial phase cannot be inferred correctly based on the final measured phase.</p>
+            <p>The medium itself determines the optimal observational frequency. If layers of sediments are thin (a case closer to reality), one should choose a smaller frequency as central frequency for the electronic equipment (propagation losses are smaller).</p>
+            <p>If the medium is homogeneous, the value of its permittivity determines the attenuation length which in turn determines the energy threshold and also the distance between antennas. If the medium is heterogeneous, one cannot use a mean value of the permittivities (e.g., from multiple samples collected in situ) to estimate the effect of reflections. In all considered scenarios, the &#x201c;mean&#x201d; situation clearly underestimated the real situation.  The implications are straightforward: in [<xref ref-type="bibr" rid="B39">39</xref>], the medium was considered homogeneous with an attenuation length of 250&#x2009;m. This allowed detection of cosmic neutrinos with energies above 10&#x2009;PeV if spacing between detecting stations was 225&#x2009;m. If a heterogeneous medium is considered and spacing is kept at the same value, the energy threshold should increase to 10<sup>19</sup>&#x2009;eV [<xref ref-type="bibr" rid="B39">39</xref>].</p>
+            <p>When it comes to estimating the performances of such a detector, for recovering 10&#x25; of the original EM field created by a neutrino interaction in a medium where the sedimentary layers have at least 9&#x2009;cm thickness, the distance from the interaction point to detecting antenna should be less than 100&#x2009;m. A distance between receivers of 80&#x2009;m allows a threshold of 12&#x25; of the original EM field but only when the minimum thickness of the layers is 8&#x2009;cm.</p>
+            <p>The consequences on construction of the detector are straightforward: the detection elements should be as close as possible to each other. On the other hand, this will increase the cost of electronics as the volume will have to be instrumented with a larger number of stations. However, since the EM field is proportional to the energy of the primary neutrino, the spacing between antennas will be determined by the threshold energy we select to measure.</p>
+            <p>We estimate that for such a neutrino detector the main factor of uncertainty is represented by the properties of the propagation medium (e.g., by the thickness of sedimented layers and their constituents). In our analysis, we considered data from &#x201c;Unirea&#x201d; salt mine (e.g., impurities concentration and thickness of layers). However, there is no obvious reason not to extend the results to other salt mines that were formed by the same geological mechanisms, especially since we allowed a loose variation for the concentration of impurities. Our main conclusion is that for a cosmic neutrino detector in salt the uncertainty due solely to the medium is 19&#x25;.</p></sec>
+    </body>
+    <back>
+        <sec sec-type="conflict">
+            <title>Conflict of Interests</title>
+            <p>The authors declare that there is no conflict of interests regarding the publication of this paper.</p></sec>
+        <ack>
+            <title>Acknowledgments</title>
+            <p>Part of this work was supported by the Projects CORONA (no. 194/2012) and AugerNext (Contract no. 1 ASPERA 2 ERA-NET). The authors would like to thank the referees for their useful comments.</p></ack>
+        <ref-list>
+            <ref id="B1" content-type="article">
+                <label>1</label>
+                <nlm-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Askaryan</surname>
+                            <given-names>G.</given-names></name>
+                    </person-group>
+                    <article-title>Excess negative charge of electron-photon shower and the coherent radiation originating from it. Radiorecording of showers under the ground and on the moon</article-title>
+                    <source>
+                        <italic>Journal of the Physical Society of Japan</italic></source>
+                    <year>1962</year>
+                    <volume>17</volume>
+                    <fpage>7</fpage>
+                    <lpage>9</lpage></nlm-citation>
+            </ref>
+            <ref id="B2" content-type="article">
+                <label>2</label>
+                <nlm-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Gandhi</surname>
+                            <given-names>R.</given-names></name>
+                        <name>
+                            <surname>Quigg</surname>
+                            <given-names>C.</given-names></name>
+                        <name>
+                            <surname>Reno</surname>
+                            <given-names>M. H.</given-names></name>
+                        <name>
+                            <surname>Sarcevic</surname>
+                            <given-names>I.</given-names></name>
+                    </person-group>
+                    <article-title>Neutrino interactions at ultrahigh energies</article-title>
+                    <source>
+                        <italic>Physical Review D</italic></source>
+                    <year>1998</year>
+                    <volume>58</volume>
+                    <issue>9</issue>
+                    <lpage>15</lpage>
+                    <pub-id pub-id-type="other">2-s2.0-1542470896</pub-id>
+                    <pub-id pub-id-type="publisher-id">093009</pub-id></nlm-citation>
+            </ref>
+            <ref id="B3" content-type="article">
+                <label>3</label>
+                <nlm-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Landsman</surname>
+                            <given-names>H.</given-names></name>
+                        <name>
+                            <surname>Ruckman</surname>
+                            <given-names>L.</given-names></name>
+                        <name>
+                            <surname>Varner</surname>
+                            <given-names>G. S.</given-names></name>
+                    </person-group>
+                    <article-title>AURA-a radio frequency extension to IceCube</article-title>
+                    <source>
+                        <italic>Nuclear Instruments and Methods in Physics Research A</italic></source>
+                    <year>2009</year>
+                    <volume>604</volume>
+                    <issue>1-2, supplement</issue>
+                    <fpage>S70</fpage>
+                    <lpage>S75</lpage>
+                    <pub-id pub-id-type="other">2-s2.0-66149112172</pub-id>
+                    <pub-id pub-id-type="doi">10.1016/j.nima.2009.03.030</pub-id></nlm-citation>
+            </ref>
+            <ref id="B4" content-type="misc">
+                <label>4</label>
+                <nlm-citation publication-type="other">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Milincic</surname>
+                            <given-names>R.</given-names></name>
+                        <name>
+                            <surname>Gorham</surname>
+                            <given-names>P.</given-names></name>
+                        <name>
+                            <surname>Guillian</surname>
+                            <given-names>E.</given-names></name>
+                        <name>
+                            <surname>Saltzberg</surname>
+                            <given-names>D.</given-names></name>
+                        <name>
+                            <surname>Williams</surname>
+                            <given-names>D.</given-names></name>
+                        <name>
+                            <surname>Field</surname>
+                            <given-names>R.</given-names></name>
+                        <name>
+                            <surname>Walz</surname>
+                            <given-names>D.</given-names></name>
+                    </person-group>
+                    <article-title>Measurements of coherent cherenkov radiation in rock salt: implications for GZK neutrino underground detector</article-title>
+                    <comment>2005, <ext-link ext-link-type="url" xlink:href="http://arxiv.org/abs/astro-ph/0503353">http://arxiv.org/abs/astro-ph/0503353</ext-link></comment>
+                </nlm-citation></ref>
+            <ref id="B5" content-type="article">
+                <label>5</label>
+                <nlm-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Ackermann</surname>
+                            <given-names>M.</given-names></name>
+                        <name>
+                            <surname>Adams</surname>
+                            <given-names>J.</given-names></name>
+                        <name>
+                            <surname>Ahrens</surname>
+                            <given-names>J.</given-names></name>
+                        <etal /></person-group>
+                    <article-title>Optical properties of deep glacial ice at the South Pole</article-title>
+                    <source>
+                        <italic>Journal of Geophysical Research</italic></source>
+                    <year>2006</year>
+                    <volume>111</volume>
+                    <fpage>13</fpage>
+                    <pub-id pub-id-type="doi">10.1029/2005JD006687</pub-id></nlm-citation>
+            </ref>
+            <ref id="B6" content-type="article">
+                <label>6</label>
+                <nlm-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>B&#x1ce;descu</surname>
+                            <given-names>A. M.</given-names></name>
+                        <name>
+                            <surname>Petrescu</surname>
+                            <given-names>T.</given-names></name>
+                    </person-group>
+                    <article-title>Observational limits of a large scale neutrino detector in a salt dome</article-title>
+                    <source>
+                        <italic>Acta Astronautica</italic></source>
+                    <year>2011</year>
+                    <volume>69</volume>
+                    <issue>7-8</issue>
+                    <fpage>375</fpage>
+                    <lpage>380</lpage>
+                    <pub-id pub-id-type="other">2-s2.0-79960990601</pub-id>
+                    <pub-id pub-id-type="doi">10.1016/j.actaastro.2011.05.001</pub-id></nlm-citation>
+            </ref>
+            <ref id="B7" content-type="inproceedings">
+                <label>7</label>
+                <nlm-citation publication-type="confproc">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Badescu</surname>
+                            <given-names>A. M.</given-names></name>
+                        <name>
+                            <surname>Petrescu</surname>
+                            <given-names>T.</given-names></name>
+                        <name>
+                            <surname>Fratu</surname>
+                            <given-names>O.</given-names></name>
+                        <name>
+                            <surname>Saftoiu</surname>
+                            <given-names>A.</given-names></name>
+                        <name>
+                            <surname>Brancus</surname>
+                            <given-names>I.</given-names></name>
+                        <name>
+                            <surname>Mitrica</surname>
+                            <given-names>B.</given-names></name>
+                        <name>
+                            <surname>Sima</surname>
+                            <given-names>O.</given-names></name>
+                        <name>
+                            <surname>Lazanu</surname>
+                            <given-names>I.</given-names></name>
+                        <name>
+                            <surname>Halunga</surname>
+                            <given-names>S.</given-names></name>
+                        <name>
+                            <surname>Toma</surname>
+                            <given-names>G.</given-names></name>
+                    </person-group>
+                    <article-title>Propagation effects on radio signals emitted in salt by neutrino-induced electromagnetic showers</article-title>
+                    <conf-name>Proceedings of the 21st International Conference Radioelektronika</conf-name>
+                    <conf-date>April 2011</conf-date>
+                    <conf-loc>Brno, Czech Republic</conf-loc>
+                    <fpage>1</fpage>
+                    <lpage>4</lpage>
+                    <pub-id pub-id-type="other">2-s2.0-79960743073</pub-id>
+                    <pub-id pub-id-type="doi">10.1109/RADIOELEK.2011.5936405</pub-id></nlm-citation>
+            </ref>
+            <ref id="B8" content-type="book">
+                <label>8</label>
+                <nlm-citation publication-type="book">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Hapke</surname>
+                            <given-names>B.</given-names></name>
+                    </person-group>
+                    <source>
+                        <italic>Theory of Reflectance and Emittance Spectroscopy</italic></source>
+                    <year>1993</year>
+                    <publisher-loc>Cambridge, UK</publisher-loc>
+                    <publisher-name>Cambridge University Press</publisher-name></nlm-citation>
+            </ref>
+            <ref id="B9" content-type="article">
+                <label>9</label>
+                <nlm-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Alvarez-Muniz</surname>
+                            <given-names>J.</given-names></name>
+                        <name>
+                            <surname>Vazquez</surname>
+                            <given-names>R. A.</given-names></name>
+                        <name>
+                            <surname>Zas</surname>
+                            <given-names>E.</given-names></name>
+                    </person-group>
+                    <article-title>Calculation methods for radio pulses from high energy showers</article-title>
+                    <source>
+                        <italic>Physical Review D</italic></source>
+                    <year>2000</year>
+                    <volume>62</volume>
+                    <issue>6</issue>
+                    <lpage>9</lpage>
+                    <pub-id pub-id-type="doi">10.1103/PhysRevD.62.063001</pub-id>
+                    <pub-id pub-id-type="other">2-s2.0-0348006460</pub-id>
+                    <pub-id pub-id-type="publisher-id">063001</pub-id></nlm-citation>
+            </ref>
+            <ref id="B10" content-type="article">
+                <label>10</label>
+                <nlm-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Alvarez-Muniz</surname>
+                            <given-names>J.</given-names></name>
+                        <name>
+                            <surname>Marques</surname>
+                            <given-names>E.</given-names></name>
+                        <name>
+                            <surname>Vazquez</surname>
+                            <given-names>R. A.</given-names></name>
+                        <name>
+                            <surname>Zas</surname>
+                            <given-names>E.</given-names></name>
+                    </person-group>
+                    <article-title>Coherent radio pulses from showers in different media: a unified parameterization</article-title>
+                    <source>
+                        <italic>Physical Review D</italic></source>
+                    <year>2006</year>
+                    <volume>74</volume>
+                    <issue>7</issue></nlm-citation>
+            </ref>
+            <ref id="B11" content-type="book">
+                <label>11</label>
+                <nlm-citation publication-type="book">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Jeremic</surname>
+                            <given-names>M.</given-names></name>
+                    </person-group>
+                    <source>
+                        <italic>Rock Mechanics in Salt Mining</italic></source>
+                    <year>1994</year>
+                    <publisher-loc>New York, NY, USA</publisher-loc>
+                    <publisher-name>Taylor and Francis</publisher-name></nlm-citation>
+            </ref>
+            <ref id="B12" content-type="inproceedings">
+                <label>12</label>
+                <nlm-citation publication-type="confproc">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Gundelach</surname>
+                            <given-names>V.</given-names></name>
+                        <name>
+                            <surname>Eisenburger</surname>
+                            <given-names>D.</given-names></name>
+                    </person-group>
+                    <article-title>Principle of a direction sensitive borehole antenna with advanced technology and data examples</article-title>
+                    <conf-name>Proceedings of the 4th International Workshop on Advanced Ground Penetrating Radar (IWAGPR '07)</conf-name>
+                    <conf-date>June 2007</conf-date>
+                    <fpage>28</fpage>
+                    <lpage>31</lpage>
+                    <pub-id pub-id-type="other">2-s2.0-46849121190</pub-id>
+                    <pub-id pub-id-type="doi">10.1109/AGPR.2007.386519</pub-id></nlm-citation>
+            </ref>
+            <ref id="B13" content-type="article">
+                <label>13</label>
+                <nlm-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Al-Nuaimy</surname>
+                            <given-names>W.</given-names></name>
+                        <name>
+                            <surname>Huang</surname>
+                            <given-names>Y.</given-names></name>
+                        <name>
+                            <surname>Nakhkash</surname>
+                            <given-names>M.</given-names></name>
+                        <name>
+                            <surname>Fang</surname>
+                            <given-names>M. T. C.</given-names></name>
+                        <name>
+                            <surname>Nguyen</surname>
+                            <given-names>V. T.</given-names></name>
+                        <name>
+                            <surname>Eriksen</surname>
+                            <given-names>A.</given-names></name>
+                    </person-group>
+                    <article-title>Automatic detection of buried utilities and solid objects with GPR using neural networks and pattern recognition</article-title>
+                    <source>
+                        <italic>Journal of Applied Geophysics</italic></source>
+                    <year>2000</year>
+                    <volume>43</volume>
+                    <issue>2&#x2013;4</issue>
+                    <fpage>157</fpage>
+                    <lpage>165</lpage>
+                    <pub-id pub-id-type="other">2-s2.0-0034162355</pub-id>
+                    <pub-id pub-id-type="doi">10.1016/S0926-9851(99)00055-5</pub-id></nlm-citation>
+            </ref>
+            <ref id="B14" content-type="article">
+                <label>14</label>
+                <nlm-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Moffatt</surname>
+                            <given-names>D. L.</given-names></name>
+                        <name>
+                            <surname>Puskar</surname>
+                            <given-names>R. J.</given-names></name>
+                    </person-group>
+                    <article-title>A subsurface electromagnetic pulse radar</article-title>
+                    <source>
+                        <italic>Geophysics</italic></source>
+                    <year>1976</year>
+                    <volume>41</volume>
+                    <issue>3</issue>
+                    <fpage>506</fpage>
+                    <lpage>518</lpage>
+                    <pub-id pub-id-type="other">2-s2.0-0016970788</pub-id></nlm-citation>
+            </ref>
+            <ref id="B15" content-type="incollection">
+                <label>15</label>
+                <nlm-citation publication-type="book">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Peters</surname>
+                            <given-names>L.</given-names>
+                            <suffix>Jr.</suffix></name>
+                        <name>
+                            <surname>Young</surname>
+                            <given-names>J. D.</given-names></name>
+                    </person-group>
+                    <person-group person-group-type="editor">
+                        <name>
+                            <surname>Miller</surname>
+                            <given-names>E. K.</given-names></name>
+                    </person-group>
+                    <article-title>Applications of subsurface transient radars</article-title>
+                    <source>
+                        <italic>Time-Domain Measurements in Electromagnetics</italic></source>
+                    <year>1986</year>
+                    <publisher-loc>London, UK</publisher-loc>
+                    <publisher-name>Van Nostrand Reinhold</publisher-name></nlm-citation>
+            </ref>
+            <ref id="B16" content-type="article">
+                <label>16</label>
+                <nlm-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Missaoui</surname>
+                            <given-names>O.</given-names></name>
+                        <name>
+                            <surname>Frigui</surname>
+                            <given-names>H.</given-names></name>
+                        <name>
+                            <surname>Gader</surname>
+                            <given-names>P.</given-names></name>
+                    </person-group>
+                    <article-title>Land-mine detection with ground-penetrating radar using multistream discrete hidden Markov models</article-title>
+                    <source>
+                        <italic>IEEE Transactions on Geoscience and Remote Sensing</italic></source>
+                    <year>2011</year>
+                    <volume>49</volume>
+                    <issue>6</issue>
+                    <fpage>2080</fpage>
+                    <lpage>2099</lpage>
+                    <pub-id pub-id-type="other">2-s2.0-79957645046</pub-id>
+                    <pub-id pub-id-type="doi">10.1109/TGRS.2010.2090886</pub-id></nlm-citation>
+            </ref>
+            <ref id="B17" content-type="article">
+                <label>17</label>
+                <nlm-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Zyada</surname>
+                            <given-names>Z.</given-names></name>
+                        <name>
+                            <surname>Matsuno</surname>
+                            <given-names>T.</given-names></name>
+                        <name>
+                            <surname>Hasegawa</surname>
+                            <given-names>Y.</given-names></name>
+                        <name>
+                            <surname>Sato</surname>
+                            <given-names>S.</given-names></name>
+                        <name>
+                            <surname>Fukuda</surname>
+                            <given-names>T.</given-names></name>
+                    </person-group>
+                    <article-title>Advances in GPR-based landmine automatic detection</article-title>
+                    <source>
+                        <italic>Journal of the Franklin Institute</italic></source>
+                    <year>2011</year>
+                    <volume>348</volume>
+                    <issue>1</issue>
+                    <fpage>66</fpage>
+                    <lpage>78</lpage>
+                    <pub-id pub-id-type="other">2-s2.0-78650772078</pub-id>
+                    <pub-id pub-id-type="doi">10.1016/j.jfranklin.2009.02.014</pub-id></nlm-citation>
+            </ref>
+            <ref id="B18" content-type="techreport">
+                <label>18</label>
+                <nlm-citation publication-type="gov">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Bechtel</surname>
+                            <given-names>M. E.</given-names></name>
+                        <name>
+                            <surname>Alongi</surname>
+                            <given-names>A. V.</given-names></name>
+                    </person-group>
+                    <article-title>Antennas and pulses for a vehicular-mounted mine detector</article-title>
+                    <source>
+                        <italic>Report</italic></source>
+                    <year>1974</year>
+                    <issue>MA-5366-E-1</issue>
+                    <publisher-loc>Buffalo, NY, USA</publisher-loc>
+                    <publisher-name>Calspan Corporation</publisher-name></nlm-citation>
+            </ref>
+            <ref id="B19" content-type="article">
+                <label>19</label>
+                <nlm-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Smith</surname>
+                            <given-names>G. S.</given-names></name>
+                        <name>
+                            <surname>Scott</surname>
+                            <given-names>W. R.</given-names></name>
+                    </person-group>
+                    <article-title>A scale model for studying ground penetrating radars</article-title>
+                    <source>
+                        <italic>IEEE Transactions on Geoscience and Remote Sensing</italic></source>
+                    <year>1989</year>
+                    <volume>27</volume>
+                    <issue>4</issue>
+                    <fpage>358</fpage>
+                    <lpage>363</lpage>
+                    <pub-id pub-id-type="other">2-s2.0-0024704722</pub-id>
+                    <pub-id pub-id-type="doi">10.1109/36.29554</pub-id></nlm-citation>
+            </ref>
+            <ref id="B20" content-type="article">
+                <label>20</label>
+                <nlm-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Hill</surname>
+                            <given-names>D. A.</given-names></name>
+                    </person-group>
+                    <article-title>Fields of horizontal currents located above the earth</article-title>
+                    <source>
+                        <italic>IEEE Transactions on Geoscience and Remote Sensing</italic></source>
+                    <year>1988</year>
+                    <volume>26</volume>
+                    <issue>6</issue>
+                    <fpage>726</fpage>
+                    <lpage>732</lpage>
+                    <pub-id pub-id-type="other">2-s2.0-0024107325</pub-id>
+                    <pub-id pub-id-type="doi">10.1109/36.7703</pub-id></nlm-citation>
+            </ref>
+            <ref id="B21" content-type="techreport">
+                <label>21</label>
+                <nlm-citation publication-type="gov">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Badescu</surname>
+                            <given-names>A. M.</given-names></name>
+                        <name>
+                            <surname>Savu</surname>
+                            <given-names>V.</given-names></name>
+                        <name>
+                            <surname>Fratu</surname>
+                            <given-names>O.</given-names></name>
+                    </person-group>
+                    <article-title>Preliminary tests in Unirea salt mine (Slanic Prahova, Romania)</article-title>
+                    <source>
+                        <italic>Report</italic></source>
+                    <year>2011</year>
+                    <issue>4</issue>
+                    <publisher-loc>Bucharest, Romania</publisher-loc>
+                    <publisher-name>University Politehnica of Bucharest</publisher-name></nlm-citation>
+            </ref>
+            <ref id="B22" content-type="article">
+                <label>22</label>
+                <nlm-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Stefanescu</surname>
+                            <given-names>M.</given-names></name>
+                        <name>
+                            <surname>Dicea</surname>
+                            <given-names>O.</given-names></name>
+                        <name>
+                            <surname>Tari</surname>
+                            <given-names>G.</given-names></name>
+                    </person-group>
+                    <article-title>Influence of extension and compression on salt diapirism in its type area, East Carpathians Bend area, Romania</article-title>
+                    <source>
+                        <italic>Geological Society Special Publication</italic></source>
+                    <year>2000</year>
+                    <volume>174</volume>
+                    <fpage>131</fpage>
+                    <lpage>147</lpage>
+                    <pub-id pub-id-type="other">2-s2.0-0033838635</pub-id>
+                    <pub-id pub-id-type="doi">10.1144/GSL.SP.1999.174.01.08</pub-id></nlm-citation>
+            </ref>
+            <ref id="B23" content-type="article">
+                <label>23</label>
+                <nlm-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Badescu</surname>
+                            <given-names>A. M.</given-names></name>
+                    </person-group>
+                    <article-title>Considerations on an underground neutrino radio detector in salt</article-title>
+                    <source>
+                        <italic>Journal of Instrumentation</italic></source>
+                    <year>2013</year>
+                    <pub-id pub-id-type="doi">10.1088/1748-0221/8/03/P03010</pub-id></nlm-citation>
+            </ref>
+            <ref id="B25" content-type="book">
+                <label>24</label>
+                <nlm-citation publication-type="book">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Landau</surname>
+                            <given-names>L. D.</given-names></name>
+                        <name>
+                            <surname>Lifschitz</surname>
+                            <given-names>E. M.</given-names></name>
+                    </person-group>
+                    <source>
+                        <italic>Electrodynamics of Continuous Media</italic></source>
+                    <year>1968</year>
+                    <publisher-loc>Bucharest, Romania</publisher-loc>
+                    <publisher-name>Tehnica</publisher-name></nlm-citation>
+            </ref>
+            <ref id="B27" content-type="article">
+                <label>25</label>
+                <nlm-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Archie</surname>
+                            <given-names>G. E.</given-names></name>
+                    </person-group>
+                    <article-title>Electrical resistivity as an aid in core analysis interpretation</article-title>
+                    <source>
+                        <italic>Transaction of the American Institute of Mining Engineers</italic></source>
+                    <year>1942</year>
+                    <volume>146</volume>
+                    <fpage>4</fpage>
+                    <lpage>2</lpage></nlm-citation>
+            </ref>
+            <ref id="B28" content-type="article">
+                <label>26</label>
+                <nlm-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Yaramanci</surname>
+                            <given-names>U.</given-names></name>
+                    </person-group>
+                    <article-title>Geoelectric exploration and monitoring in rock salt for the safety assessment of underground waste disposal sites</article-title>
+                    <source>
+                        <italic>Journal of Applied Geophysics</italic></source>
+                    <year>2000</year>
+                    <volume>44</volume>
+                    <issue>2-3</issue>
+                    <fpage>181</fpage>
+                    <lpage>196</lpage>
+                    <pub-id pub-id-type="other">2-s2.0-0034077578</pub-id>
+                    <pub-id pub-id-type="doi">10.1016/S0926-9851(99)00013-0</pub-id></nlm-citation>
+            </ref>
+            <ref id="B29" content-type="article">
+                <label>27</label>
+                <nlm-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Somaraju</surname>
+                            <given-names>R.</given-names></name>
+                        <name>
+                            <surname>Trumpf</surname>
+                            <given-names>J.</given-names></name>
+                    </person-group>
+                    <article-title>Frequency, temperature and salinity variation of the permittivity of seawater</article-title>
+                    <source>
+                        <italic>IEEE Transactions on Antennas and Propagation</italic></source>
+                    <year>2006</year>
+                    <volume>54</volume>
+                    <issue>11</issue>
+                    <fpage>3441</fpage>
+                    <lpage>3448</lpage>
+                    <pub-id pub-id-type="other">2-s2.0-34547195893</pub-id>
+                    <pub-id pub-id-type="doi">10.1109/TAP.2006.884290</pub-id></nlm-citation>
+            </ref>
+            <ref id="B30" content-type="article">
+                <label>28</label>
+                <nlm-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Meissner</surname>
+                            <given-names>T.</given-names></name>
+                        <name>
+                            <surname>Wentz</surname>
+                            <given-names>F. J.</given-names></name>
+                    </person-group>
+                    <article-title>The complex dielectric constant of pure and sea water from microwave satellite observations</article-title>
+                    <source>
+                        <italic>IEEE Transactions on Geoscience and Remote Sensing</italic></source>
+                    <year>2004</year>
+                    <volume>42</volume>
+                    <issue>9</issue>
+                    <fpage>1836</fpage>
+                    <lpage>1849</lpage>
+                    <pub-id pub-id-type="other">2-s2.0-4744373490</pub-id>
+                    <pub-id pub-id-type="doi">10.1109/TGRS.2004.831888</pub-id></nlm-citation>
+            </ref>
+            <ref id="B26" content-type="article">
+                <label>29</label>
+                <nlm-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Sato</surname>
+                            <given-names>M.</given-names></name>
+                        <name>
+                            <surname>Thierbach</surname>
+                            <given-names>R.</given-names></name>
+                    </person-group>
+                    <article-title>Analysis of a borehole radar in cross-hole mode</article-title>
+                    <source>
+                        <italic>IEEE Transactions on Geoscience and Remote Sensing</italic></source>
+                    <year>1991</year>
+                    <volume>29</volume>
+                    <issue>6</issue>
+                    <fpage>899</fpage>
+                    <lpage>904</lpage>
+                    <pub-id pub-id-type="other">2-s2.0-0026254126</pub-id>
+                    <pub-id pub-id-type="doi">10.1109/36.101368</pub-id></nlm-citation>
+            </ref>
+            <ref id="B31" content-type="article">
+                <label>30</label>
+                <nlm-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Zhdanov</surname>
+                            <given-names>M.</given-names></name>
+                    </person-group>
+                    <article-title>Generalized effective-medium theory of induced polarization</article-title>
+                    <source>
+                        <italic>Geophysics</italic></source>
+                    <year>2008</year>
+                    <volume>73</volume>
+                    <issue>5</issue>
+                    <fpage>F197</fpage>
+                    <lpage>F211</lpage>
+                    <pub-id pub-id-type="other">2-s2.0-53849108147</pub-id>
+                    <pub-id pub-id-type="doi">10.1190/1.2973462</pub-id></nlm-citation>
+            </ref>
+            <ref id="B32" content-type="article">
+                <label>31</label>
+                <nlm-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>O&#x27;Connell</surname>
+                            <given-names>M. D.</given-names></name>
+                    </person-group>
+                    <article-title>A heuristic method of removing micropulsations from airborne magnetic data</article-title>
+                    <source>
+                        <italic>The Society of Exploration Geophysicists</italic></source>
+                    <year>2001</year>
+                    <volume>20</volume>
+                    <issue>11</issue>
+                    <fpage>1242</fpage>
+                    <lpage>1246</lpage>
+                    <pub-id pub-id-type="doi">10.1190/1.1487256</pub-id>
+                    <pub-id pub-id-type="other">2-s2.0-0035507395</pub-id></nlm-citation>
+            </ref>
+            <ref id="B33" content-type="book">
+                <label>32</label>
+                <nlm-citation publication-type="book">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Melvin</surname>
+                            <given-names>J.</given-names></name>
+                    </person-group>
+                    <source>
+                        <italic>Evaporites Petroleum and Mineral Resources</italic></source>
+                    <year>1991</year>
+                    <publisher-loc>London, UK</publisher-loc>
+                    <publisher-name>Elsevier</publisher-name></nlm-citation>
+            </ref>
+            <ref id="B34" content-type="article">
+                <label>33</label>
+                <nlm-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Alsharhan</surname>
+                            <given-names>A. S.</given-names></name>
+                        <name>
+                            <surname>Salah</surname>
+                            <given-names>M. G.</given-names></name>
+                    </person-group>
+                    <article-title>Tectonic implications of diapirism on hydrocarbon accumulation in the United Arab Emirates</article-title>
+                    <source>
+                        <italic>Bulletin of Canadian Petroleum Geology</italic></source>
+                    <year>1997</year>
+                    <volume>45</volume>
+                    <issue>3</issue>
+                    <fpage>279</fpage>
+                    <lpage>296</lpage>
+                    <pub-id pub-id-type="other">2-s2.0-0031396658</pub-id></nlm-citation>
+            </ref>
+            <ref id="B35" content-type="incollection">
+                <label>34</label>
+                <nlm-citation publication-type="book">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Black</surname>
+                            <given-names>N.</given-names></name>
+                        <name>
+                            <surname>Zhdanov</surname>
+                            <given-names>M. S.</given-names></name>
+                    </person-group>
+                    <person-group person-group-type="editor">
+                        <name>
+                            <surname>Kasahara</surname>
+                            <given-names>J.</given-names></name>
+                        <name>
+                            <surname>Korneev</surname>
+                            <given-names>V.</given-names></name>
+                        <name>
+                            <surname>Zhdanov</surname>
+                            <given-names>M. S.</given-names></name>
+                    </person-group>
+                    <article-title>Active geophysical monitoring of hydrocarbon reservoirs using EM methods</article-title>
+                    <source>
+                        <italic>Active Geophysical Monitoring</italic></source>
+                    <year>2010</year>
+                    <publisher-loc>London, UK</publisher-loc>
+                    <publisher-name>Elsevier</publisher-name>
+                    <fpage>135</fpage>
+                    <lpage>159</lpage></nlm-citation>
+            </ref>
+            <ref id="B36" content-type="article">
+                <label>35</label>
+                <nlm-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Gorham</surname>
+                            <given-names>P.</given-names></name>
+                        <name>
+                            <surname>Saltzberg</surname>
+                            <given-names>D.</given-names></name>
+                        <name>
+                            <surname>Odian</surname>
+                            <given-names>A.</given-names></name>
+                        <name>
+                            <surname>Williams</surname>
+                            <given-names>D.</given-names></name>
+                        <name>
+                            <surname>Besson</surname>
+                            <given-names>D.</given-names></name>
+                        <name>
+                            <surname>Frichter</surname>
+                            <given-names>G.</given-names></name>
+                        <name>
+                            <surname>Tantawi</surname>
+                            <given-names>S.</given-names></name>
+                    </person-group>
+                    <article-title>Measurements of the suitability of large rock salt formations for radio detection of high-energy neutrinos</article-title>
+                    <source>
+                        <italic>Nuclear Instruments and Methods in Physics Research A</italic></source>
+                    <year>2002</year>
+                    <volume>490</volume>
+                    <issue>3</issue>
+                    <fpage>476</fpage>
+                    <lpage>491</lpage>
+                    <pub-id pub-id-type="other">2-s2.0-0037063418</pub-id>
+                    <pub-id pub-id-type="doi">10.1016/S0168-9002(02)01077-X</pub-id></nlm-citation>
+            </ref>
+            <ref id="B37" content-type="article">
+                <label>36</label>
+                <nlm-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Chiba</surname>
+                            <given-names>M.</given-names></name>
+                        <name>
+                            <surname>Kamijo</surname>
+                            <given-names>T.</given-names></name>
+                        <name>
+                            <surname>Yasuda</surname>
+                            <given-names>O.</given-names></name>
+                        <name>
+                            <surname>Chikashige</surname>
+                            <given-names>Y.</given-names></name>
+                        <name>
+                            <surname>Kon</surname>
+                            <given-names>T.</given-names></name>
+                        <name>
+                            <surname>Takeoka</surname>
+                            <given-names>Y.</given-names></name>
+                        <name>
+                            <surname>Yoshida</surname>
+                            <given-names>R.</given-names></name>
+                    </person-group>
+                    <article-title>Salt neutrino detector for ultrahigh-energy neutrinos</article-title>
+                    <source>
+                        <italic>Physics of Atomic Nuclei</italic></source>
+                    <year>2004</year>
+                    <volume>67</volume>
+                    <issue>11</issue>
+                    <fpage>2050</fpage>
+                    <lpage>2053</lpage>
+                    <pub-id pub-id-type="other">2-s2.0-11144311962</pub-id>
+                    <pub-id pub-id-type="doi">10.1134/1.1825527</pub-id></nlm-citation>
+            </ref>
+            <ref id="B38" content-type="article">
+                <label>37</label>
+                <nlm-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Connolly</surname>
+                            <given-names>A.</given-names></name>
+                        <name>
+                            <surname>Goodhue</surname>
+                            <given-names>A.</given-names></name>
+                        <name>
+                            <surname>Miki</surname>
+                            <given-names>C.</given-names></name>
+                        <name>
+                            <surname>Nichol</surname>
+                            <given-names>R.</given-names></name>
+                        <name>
+                            <surname>Saltzberg</surname>
+                            <given-names>D.</given-names></name>
+                    </person-group>
+                    <article-title>Measurements of radio propagation in rock salt for the detection of high-energy neutrinos</article-title>
+                    <source>
+                        <italic>Nuclear Instruments and Methods in Physics Research A</italic></source>
+                    <year>2009</year>
+                    <volume>599</volume>
+                    <issue>2-3</issue>
+                    <fpage>184</fpage>
+                    <lpage>191</lpage>
+                    <pub-id pub-id-type="other">2-s2.0-58549090292</pub-id>
+                    <pub-id pub-id-type="doi">10.1016/j.nima.2008.11.008</pub-id></nlm-citation>
+            </ref>
+            <ref id="B24" content-type="article">
+                <label>38</label>
+                <nlm-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Cristache</surname>
+                            <given-names>C.</given-names></name>
+                        <name>
+                            <surname>Simion</surname>
+                            <given-names>C. A.</given-names></name>
+                        <name>
+                            <surname>Margineanu</surname>
+                            <given-names>R. M.</given-names></name>
+                        <name>
+                            <surname>Culicov</surname>
+                            <given-names>O. A.</given-names></name>
+                        <name>
+                            <surname>Frontasyeva</surname>
+                            <given-names>M. V.</given-names></name>
+                        <name>
+                            <surname>Matei</surname>
+                            <given-names>M.</given-names></name>
+                        <name>
+                            <surname>Duliu</surname>
+                            <given-names>O. G.</given-names></name>
+                    </person-group>
+                    <article-title>Epithermal neutrons activation analysis, radiochemical and radiometric investigations of evaporitic deposits of Slanic-Prahova (Romania) salt mine</article-title>
+                    <source>
+                        <italic>Radiochimica Acta</italic></source>
+                    <year>2009</year>
+                    <volume>97</volume>
+                    <issue>6</issue>
+                    <fpage>333</fpage>
+                    <lpage>337</lpage>
+                    <pub-id pub-id-type="other">2-s2.0-67651114222</pub-id>
+                    <pub-id pub-id-type="doi">10.1524/ract.2009.1622</pub-id></nlm-citation>
+            </ref>
+            <ref id="B39" content-type="article">
+                <label>39</label>
+                <nlm-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Gorham</surname>
+                            <given-names>P. W.</given-names></name>
+                        <name>
+                            <surname>Saltzberg</surname>
+                            <given-names>D.</given-names></name>
+                        <name>
+                            <surname>Field</surname>
+                            <given-names>R. C.</given-names></name>
+                        <name>
+                            <surname>Guillian</surname>
+                            <given-names>E.</given-names></name>
+                        <name>
+                            <surname>Milin&#x10d;i&#x107;</surname>
+                            <given-names>R.</given-names></name>
+                        <name>
+                            <surname>Mio&#x10d;inovi&#x107;</surname>
+                            <given-names>P.</given-names></name>
+                        <name>
+                            <surname>Walz</surname>
+                            <given-names>D.</given-names></name>
+                        <name>
+                            <surname>Williams</surname>
+                            <given-names>D.</given-names></name>
+                    </person-group>
+                    <article-title>Accelerator measurements of the Askaryan effect in rock salt: a roadmap toward teraton underground neutrino detectors</article-title>
+                    <source>
+                        <italic>Physical Review D</italic></source>
+                    <year>2005</year>
+                    <volume>72</volume>
+                    <issue>2</issue>
+                    <fpage>1</fpage>
+                    <lpage>22</lpage>
+                    <pub-id pub-id-type="other">2-s2.0-26944493822</pub-id>
+                    <pub-id pub-id-type="doi">10.1103/PhysRevD.72.023002</pub-id>
+                    <pub-id pub-id-type="publisher-id">023002</pub-id></nlm-citation>
+            </ref></ref-list>
+    </back></article>

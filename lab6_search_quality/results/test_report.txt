@@ -33,6 +33,6 @@ ok
 test_artifact_uses_every_primary_document (__main__.TestSharedCorpusEvaluation.test_artifact_uses_every_primary_document) ... ok
 
 ----------------------------------------------------------------------
-Ran 27 tests in 0.310s
+Ran 27 tests in 0.305s
 
 OK

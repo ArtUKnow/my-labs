@@ -142,26 +142,11 @@ def make_handler(engine, catalog):
 
 
 def main():
-    parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--host", default="127.0.0.1")
-    parser.add_argument("--port", type=int, default=8000)
-    parser.add_argument("--index-dir", default=str(DATA_DIR / "index"))
-    parser.add_argument("--data-dir", default=str(DATA_DIR))
-    args = parser.parse_args()
-    engine = BooleanSearch(args.index_dir)
-    server = None
-    try:
-        catalog = DocumentCatalog(args.data_dir, engine.index.doc_names)
-        server = HTTPServer((args.host, args.port), make_handler(engine, catalog))
-        print("Поиск: http://%s:%d/" % server.server_address, flush=True)
-        server.serve_forever()
-    except KeyboardInterrupt:
-        pass
-    finally:
-        if server is not None:
-            server.server_close()
-        engine.close()
-
+    import sys
+    from pathlib import Path
+    sys.path.insert(0,str(Path(__file__).resolve().parent.parent/'scripts'))
+    from web_native import main as native_web_main
+    native_web_main()
 
 if __name__ == "__main__":
     main()

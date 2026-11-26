@@ -1,0 +1,222 @@
+[
+  {
+    "url": "https://repo.scoap3.org/records/987",
+    "record_id": "987",
+    "source": "Advances in High Energy Physics",
+    "source_format": "html",
+    "content_type": "text/html; charset=utf-8",
+    "raw_bytes": 19934,
+    "sha256": "ba5ba2219a4c1825e741de18a4f2229c3cd7d013151aed8392cfacf886eb5ad3",
+    "crawled_at": 1795698196
+  },
+  {
+    "url": "https://scoap3-prod-backend.s3.cern.ch/media/files/987/10.1155/2014/901434.xml",
+    "record_id": "987",
+    "source": "Advances in High Energy Physics",
+    "source_format": "xml",
+    "content_type": "text/xml; charset=utf-8",
+    "raw_bytes": 140929,
+    "sha256": "39b06412bf308f8f3ceb885db00626646d1b40704347fe4c550f5cc6d0eaa7c2",
+    "crawled_at": 1795698199
+  },
+  {
+    "url": "https://repo.scoap3.org/records/1723",
+    "record_id": "1723",
+    "source": "Chinese Physics C",
+    "source_format": "html",
+    "content_type": "text/html; charset=utf-8",
+    "raw_bytes": 21930,
+    "sha256": "4c5bb80806a0b2dcd51a4230892df52957ff26ca5bcb435f5c1649e351ed388f",
+    "crawled_at": 1795698195
+  },
+  {
+    "url": "https://scoap3-prod-backend.s3.cern.ch/media/files/1723/10.1088/1674-1137/38/3/033101.xml",
+    "record_id": "1723",
+    "source": "Chinese Physics C",
+    "source_format": "xml",
+    "content_type": "text/xml; charset=utf-8",
+    "raw_bytes": 40746,
+    "sha256": "ecd91d92392cfb0d4b2bca9b3cb4e05db3206d015ed2f59a913a90f27d0f1709",
+    "crawled_at": 1795698197
+  },
+  {
+    "url": "https://repo.scoap3.org/records/1097",
+    "record_id": "1097",
+    "source": "European Physical Journal C",
+    "source_format": "html",
+    "content_type": "text/html; charset=utf-8",
+    "raw_bytes": 32308,
+    "sha256": "0789347dc03891e974a07050136a9a1a2defa4b76b2bede84e90b0a736480cf4",
+    "crawled_at": 1795698195
+  },
+  {
+    "url": "https://scoap3-prod-backend.s3.cern.ch/media/files/1097/10.1140/epjc/s10052-013-2707-0_a.pdf",
+    "record_id": "1097",
+    "source": "European Physical Journal C",
+    "source_format": "pdf",
+    "content_type": "application/pdf",
+    "raw_bytes": 576559,
+    "sha256": "2afa90be56465d059577640da0c11bfa5bf9c568f48b01eb7971397d39df1416",
+    "crawled_at": 1795698200
+  },
+  {
+    "url": "https://repo.scoap3.org/records/782",
+    "record_id": "782",
+    "source": "Journal of Cosmology and Astroparticle Physics",
+    "source_format": "html",
+    "content_type": "text/html; charset=utf-8",
+    "raw_bytes": 23861,
+    "sha256": "5f0ffb919dc84b895f76313219395937d21047133e264f513f98969c40352166",
+    "crawled_at": 1795698196
+  },
+  {
+    "url": "https://scoap3-prod-backend.s3.cern.ch/media/files/782/10.1088/1475-7516/2014/01/001.xml",
+    "record_id": "782",
+    "source": "Journal of Cosmology and Astroparticle Physics",
+    "source_format": "xml",
+    "content_type": "text/xml; charset=utf-8",
+    "raw_bytes": 160572,
+    "sha256": "a0467c2a5658925c66c411fa92703e059697e2b19fd6d226e8abf0773a43e2c7",
+    "crawled_at": 1795698198
+  },
+  {
+    "url": "https://repo.scoap3.org/records/1000",
+    "record_id": "1000",
+    "source": "Journal of High Energy Physics",
+    "source_format": "html",
+    "content_type": "text/html; charset=utf-8",
+    "raw_bytes": 21919,
+    "sha256": "ac81fa93fe0dd301f528cdc94b70784194e10d252fdaf0394e4664398c49d457",
+    "crawled_at": 1795698195
+  },
+  {
+    "url": "https://scoap3-prod-backend.s3.cern.ch/media/files/1000/10.1007/JHEP01(2014)092_a.pdf",
+    "record_id": "1000",
+    "source": "Journal of High Energy Physics",
+    "source_format": "pdf",
+    "content_type": "application/pdf",
+    "raw_bytes": 1636777,
+    "sha256": "04ca25bb6b072d33e357c39f10c644a01e453bc8ed4eb3bff87d2c4807116ec1",
+    "crawled_at": 1795698216
+  },
+  {
+    "url": "https://repo.scoap3.org/records/633",
+    "record_id": "633",
+    "source": "Nuclear Physics B",
+    "source_format": "html",
+    "content_type": "text/html; charset=utf-8",
+    "raw_bytes": 22122,
+    "sha256": "3348c1fa7bf7c09b602a9aee344ae1d1c67115470dd71a9b805785961314ee30",
+    "crawled_at": 1795698195
+  },
+  {
+    "url": "https://scoap3-prod-backend.s3.cern.ch/media/files/633/10.1016/j.nuclphysb.2014.01.002.xml",
+    "record_id": "633",
+    "source": "Nuclear Physics B",
+    "source_format": "xml",
+    "content_type": "text/xml; charset=utf-8",
+    "raw_bytes": 293276,
+    "sha256": "8638c71dd7423df079259824d968a7bd2b23aeb1399db905e38a82530fc6064d",
+    "crawled_at": 1795698198
+  },
+  {
+    "url": "https://repo.scoap3.org/records/23172",
+    "record_id": "23172",
+    "source": "Physical Review C",
+    "source_format": "html",
+    "content_type": "text/html; charset=utf-8",
+    "raw_bytes": 21609,
+    "sha256": "ecc6dfe0d52945f648795c0e1948992e97ea7b09ebea63da94aa9e80fcf3a1eb",
+    "crawled_at": 1795698195
+  },
+  {
+    "url": "https://scoap3-prod-backend.s3.cern.ch/media/files/23172/10.1103/PhysRevC.97.015204.xml",
+    "record_id": "23172",
+    "source": "Physical Review C",
+    "source_format": "xml",
+    "content_type": "text/xml; charset=utf-8",
+    "raw_bytes": 112934,
+    "sha256": "7a1ff9e699dd60e5df742a0373e2d5b7f1f2c12b12228936b188680969fa7a56",
+    "crawled_at": 1795698198
+  },
+  {
+    "url": "https://repo.scoap3.org/records/4502",
+    "record_id": "4502",
+    "source": "Physical Review D",
+    "source_format": "html",
+    "content_type": "text/html; charset=utf-8",
+    "raw_bytes": 19616,
+    "sha256": "fa93940a04d9da679421fcd5608141023ad3f35bd2769270c17b6674506bbc92",
+    "crawled_at": 1795698195
+  },
+  {
+    "url": "https://scoap3-prod-backend.s3.cern.ch/media/harvested_files/10.1103/PhysRevD.110.116020/PhysRevD.110.116020.xml",
+    "record_id": "4502",
+    "source": "Physical Review D",
+    "source_format": "xml",
+    "content_type": "binary/octet-stream",
+    "raw_bytes": 1184722,
+    "sha256": "67105b368d03211e6488e7a82013e3728e5e20077d569a32962f1457b5e09e7b",
+    "crawled_at": 1795698201
+  },
+  {
+    "url": "https://repo.scoap3.org/records/4593",
+    "record_id": "4593",
+    "source": "Physical Review Letters",
+    "source_format": "html",
+    "content_type": "text/html; charset=utf-8",
+    "raw_bytes": 22490,
+    "sha256": "ddb4ab114ba81c8d7b76da9b02fae59d17b77fde11c061df5b6d5da7c88cbfcc",
+    "crawled_at": 1795698196
+  },
+  {
+    "url": "https://scoap3-prod-backend.s3.cern.ch/media/harvested_files/10.1103/PhysRevLett.134.021601/PhysRevLett.134.021601.xml",
+    "record_id": "4593",
+    "source": "Physical Review Letters",
+    "source_format": "xml",
+    "content_type": "binary/octet-stream",
+    "raw_bytes": 180948,
+    "sha256": "e8d48d06fbd3a92ecb12540f91eac4e148a1eefa4ecf743283eaed2879b07d3d",
+    "crawled_at": 1795698199
+  },
+  {
+    "url": "https://repo.scoap3.org/records/635",
+    "record_id": "635",
+    "source": "Physics Letters B",
+    "source_format": "html",
+    "content_type": "text/html; charset=utf-8",
+    "raw_bytes": 22235,
+    "sha256": "e0fefb5693db313f446cfaf6b2b69fdd04df4d6522d7ee19ffcfa55fa73fffee",
+    "crawled_at": 1795698196
+  },
+  {
+    "url": "https://scoap3-prod-backend.s3.cern.ch/media/files/635/10.1016/j.physletb.2014.01.004.xml",
+    "record_id": "635",
+    "source": "Physics Letters B",
+    "source_format": "xml",
+    "content_type": "text/xml; charset=utf-8",
+    "raw_bytes": 97285,
+    "sha256": "4b9fc517f9e8a3cdca5538d886d44138e8fa8837384efbafd90f8b60358e33d6",
+    "crawled_at": 1795698198
+  },
+  {
+    "url": "https://repo.scoap3.org/records/899",
+    "record_id": "899",
+    "source": "Progress of Theoretical and Experimental Physics",
+    "source_format": "html",
+    "content_type": "text/html; charset=utf-8",
+    "raw_bytes": 29120,
+    "sha256": "d3431034fe83612b493afcd36309b43634a4e28a947b3b4843a3a2722b0e6f42",
+    "crawled_at": 1795698196
+  },
+  {
+    "url": "https://scoap3-prod-backend.s3.cern.ch/media/files/899/10.1093/ptep/ptt095.xml",
+    "record_id": "899",
+    "source": "Progress of Theoretical and Experimental Physics",
+    "source_format": "xml",
+    "content_type": "text/xml; charset=utf-8",
+    "raw_bytes": 1091274,
+    "sha256": "0121f275ce5f5ff01ddd45f154c48eeee4167ab28e930d3a997d56176b5b9af2",
+    "crawled_at": 1795698199
+  }
+]

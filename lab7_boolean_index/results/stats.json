@@ -1,13 +1,14 @@
 {
-  "mode": "stem",
-  "documents": 32494,
-  "tokens": 220150161,
-  "terms": 756875,
-  "postings": 33242437,
+  "documents": 32491,
+  "tokens": 220126009,
+  "terms": 756775,
+  "postings": 33239364,
   "blocks": 437,
-  "block_limit": 500000,
-  "dictionary_bytes": 17529403,
-  "postings_bytes": 132969748,
-  "avg_postings_per_term": 43.921,
-  "time_seconds": 467.523
+  "block_token_limit": 500000,
+  "input_bytes": 1351842072,
+  "time_seconds": 31.425337,
+  "seconds_per_document": 0.000967201,
+  "kilobytes_per_second": 42009.359,
+  "average_term_length": 8.696741,
+  "mode": "stem"
 }

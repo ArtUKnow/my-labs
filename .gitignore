@@ -7,3 +7,13 @@ lab1_corpus/data/tokens/scoap3/
 lab1_corpus/data/index/postings.bin
 lab1_corpus/data/index/blocks/
 lab1_corpus/data/sample_text/
+
+build/
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
+lab1_corpus/data/archive_duplicates/
+lab1_corpus/data/native_documents.tsv
+lab1_corpus/data/native_index/
+lab1_corpus/data/native_index_raw/
+lab1_corpus/data/native_index_lemma/

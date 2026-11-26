@@ -1,6 +1,6 @@
 test_stdin_stdout (__main__.TestCli.test_stdin_stdout) ... ok
 test_rebuild_discards_removed_documents (__main__.TestCorpusRun.test_rebuild_discards_removed_documents) ... ok
-test_stats (__main__.TestCorpusRun.test_stats) ... /Users/alexganyak/Documents/Codex/2026-11-25/files-mentioned-by-the-user-python/work/github-my-labs/lab3_tokenizer/test_lab3.py:99: ResourceWarning: unclosed file <_io.TextIOWrapper name='/var/folders/g6/q7ypm1kn7b36np4md8krwc5r0000gn/T/tmpjgkkausl/tokens/src/b.txt' mode='r' encoding='utf-8'>
+test_stats (__main__.TestCorpusRun.test_stats) ... /Users/alexganyak/Documents/Codex/2026-11-25/files-mentioned-by-the-user-python/work/github-my-labs/lab3_tokenizer/test_lab3.py:99: ResourceWarning: unclosed file <_io.TextIOWrapper name='/var/folders/g6/q7ypm1kn7b36np4md8krwc5r0000gn/T/tmpft3hkbek/tokens/src/b.txt' mode='r' encoding='utf-8'>
   out = open(os.path.join(self.tmp, "tokens", "src", "b.txt"), encoding="utf-8").read()
 ResourceWarning: Enable tracemalloc to get the object allocation traceback
 ok
@@ -21,6 +21,6 @@ test_token_kind (__main__.TestTokenizer.test_token_kind) ... ok
 test_unicode_letters (__main__.TestTokenizer.test_unicode_letters) ... ok
 
 ----------------------------------------------------------------------
-Ran 18 tests in 0.019s
+Ran 18 tests in 0.020s
 
 OK

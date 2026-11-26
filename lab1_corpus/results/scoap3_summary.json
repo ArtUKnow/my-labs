@@ -1,25 +1,28 @@
 {
-  "documents": 32494,
+  "documents": 32491,
   "minimum_body_words": 3000,
   "journals": {
-    "Physical Review D": 15520,
     "Nuclear Physics B": 3460,
-    "Chinese Physics C": 655,
-    "Journal of Cosmology and Astroparticle Physics": 618,
-    "Physical Review C": 635,
-    "Advances in High Energy Physics": 534,
-    "Physical Review Letters": 425,
     "Physics Letters B": 5337,
-    "Progress of Theoretical and Experimental Physics": 833,
+    "Journal of Cosmology and Astroparticle Physics": 618,
+    "Progress of Theoretical and Experimental Physics": 830,
+    "Advances in High Energy Physics": 534,
+    "Journal of High Energy Physics": 2268,
     "European Physical Journal C": 2209,
-    "Journal of High Energy Physics": 2268
+    "Chinese Physics C": 655,
+    "Physical Review D": 15520,
+    "Physical Review Letters": 425,
+    "Physical Review C": 635
   },
   "formats": {
-    "xml": 28017,
+    "xml": 28014,
     "pdf": 4477
   },
   "requested_target": 50000,
   "target_reached": false,
   "assignment_minimum": 30000,
-  "assignment_minimum_reached": true
+  "assignment_minimum_reached": true,
+  "unique_sha256": 32491,
+  "unique_doi": 32491,
+  "raw_database_capture": "In progress on auxiliary server; historical clean-text downloads have not been assigned invented timestamps."
 }

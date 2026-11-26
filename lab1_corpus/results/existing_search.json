@@ -1,0 +1,218 @@
+{
+  "existing_search": "SCOAP3 repository search API",
+  "documentation": "https://github.com/SCOAP3/scoap3/wiki/JSON-API-(legacy-schema)",
+  "captures": [
+    {
+      "query": "dark matter",
+      "url": "https://repo.scoap3.org/api/records/?format=json&search=dark+matter&page=1",
+      "captured_at": 1795698269,
+      "elapsed_seconds": 1.667,
+      "total_count": 7094,
+      "returned": 10,
+      "results": [
+        {
+          "record_id": "112992",
+          "title": "Interpreting the 95 GeV di-photon and di-tau excesses in the Georgi–Machacek model * Supported by the National Natural Science Foundation of China (12447167, 12275067), the Joint Fund of Henan Province Science and Technology R&D Program (225200810030, 225200810092 and 225200810014), the Startup Research Fund of Henan Academy of Sciences (231820011), the Basic Research Fund of Henan Academy of Sciences (240620006), the Graduate Innovation Fund of Henan Academy of Sciences (243320031), the National Key R&D Program of China (2023YFA1606000) and the Science and Technology Innovation Leading Talent Support Program of Henan Province (254000510039). PZ is supported by the ARC Discovery Project DP220100007 and the Centre for the Subatomic Structure of Matter (CSSM)",
+          "doi_values": [
+            "10.1088/1674-1137/ae9f36",
+            "2509.26155"
+          ]
+        },
+        {
+          "record_id": "113284",
+          "title": "Heavy neutral bosons and dark matter in the 3-3-1 model with axionlike particle",
+          "doi_values": [
+            "10.1088/1674-1137/aea10c",
+            "2512.19636"
+          ]
+        },
+        {
+          "record_id": "113285",
+          "title": "Detailed study of the dual symmetry of dense quark matter within the effective action formalism * The work of T. G. Khunjua was supported by Shota Rustaveli National Science Foundation of Georgia (SRNSFG) [grant number FR-25-7544, “Nonperturbative Analysis of the QCD Critical Point: Regularization problems in the Effective Models and Renormalization Group Techniques”]",
+          "doi_values": [
+            "10.1088/1674-1137/ae97ec"
+          ]
+        },
+        {
+          "record_id": "113497",
+          "title": "Generalized chiral <math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mi>U</mi><mo stretchy=\"false\">(</mo><mn>1</mn><msub><mo stretchy=\"false\">)</mo><mrow><mi>B</mi><mo>−</mo><mi>L</mi></mrow></msub></math>: Toward a less constrained <math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><msup><mi>Z</mi><mo>′</mo></msup></math> and dark matter",
+          "doi_values": [
+            "10.1103/d59r-yk66",
+            "2608.23521"
+          ]
+        },
+        {
+          "record_id": "113495",
+          "title": "Extremely High-Energy Bremsstrahlung in Matter",
+          "doi_values": [
+            "10.1103/rk4d-45t9",
+            "2604.18685"
+          ]
+        },
+        {
+          "record_id": "113496",
+          "title": "Dark matter in composite Higgs models with a scotogenic EFT",
+          "doi_values": [
+            "10.1103/bm7v-csk4",
+            "2607.14210"
+          ]
+        },
+        {
+          "record_id": "113487",
+          "title": "Calculating extremely high-energy bremsstrahlung in matter",
+          "doi_values": [
+            "10.1103/8rg8-tmgg",
+            "2605.03002"
+          ]
+        },
+        {
+          "record_id": "113436",
+          "title": "Influence of perfect fluid dark matter on shadow observables of Yang–Mills modified charged black holes",
+          "doi_values": [
+            "10.1140/epjc/s10052-026-16612-0",
+            "2509.03507"
+          ]
+        },
+        {
+          "record_id": "113439",
+          "title": "Gravitational positivity bounds on Higgs-portal dark matter",
+          "doi_values": [
+            "10.1140/epjc/s10052-026-16593-0",
+            "2504.16525"
+          ]
+        },
+        {
+          "record_id": "113446",
+          "title": "Search for dark matter produced in association with a dark Higgs boson decaying into a bottom quark–antiquark pair in proton–proton collisions at $$\\sqrt{s}=13\\,\\text {Te}\\hspace{-.08em}\\text {V} $$",
+          "doi_values": [
+            "10.1140/epjc/s10052-026-16277-9",
+            "2604.20999"
+          ]
+        }
+      ]
+    },
+    {
+      "query": "ATLAS OR CMS",
+      "url": "https://repo.scoap3.org/api/records/?format=json&search=ATLAS+OR+CMS&page=1",
+      "captured_at": 1795698273,
+      "elapsed_seconds": 3.572,
+      "total_count": 1639,
+      "returned": 10,
+      "results": [
+        {
+          "record_id": "113291",
+          "title": "Crossover or first-order? Regularization effects in a contact interaction treatment * Supported by the Natural Science Foundation of Jiangsu Province (BK20220122); the National Natural Science Foundation of China (12233002), and the Program of China Scholarship Council (202606190076)",
+          "doi_values": [
+            "10.1088/1674-1137/aea287",
+            "2512.15094"
+          ]
+        },
+        {
+          "record_id": "113001",
+          "title": "Collisional energy loss distribution of a fast parton in a hot or dense QCD medium",
+          "doi_values": [
+            "10.1007/JHEP11(2026)119",
+            "2604.25997"
+          ]
+        },
+        {
+          "record_id": "112903",
+          "title": "Small-instanton effects in an atlas of Kim-Shifman-Vainshtein-Zakharov axion models",
+          "doi_values": [
+            "10.1103/t3qf-t6bp",
+            "2608.08602"
+          ]
+        },
+        {
+          "record_id": "113154",
+          "title": "Reinterpretation of searches for supersymmetry in models with variable R-parity-violating coupling strength using the full ATLAS Run 2 dataset",
+          "doi_values": [
+            "10.1007/JHEP11(2026)064",
+            "2603.15007"
+          ]
+        },
+        {
+          "record_id": "113251",
+          "title": "Evidence for longitudinally polarised $\\textit{Z}$ bosons in electroweak $\\textit{W}$ $\\textit{±}$ $\\textit{Z}$ production in association with two jets from $\\textit{pp}$ collisions at $$ \\sqrt{s}=13 $$ TeV and 13.6 TeV with the ATLAS detector",
+          "doi_values": [
+            "10.1007/JHEP11(2026)070",
+            "2607.20246"
+          ]
+        },
+        {
+          "record_id": "113030",
+          "title": "Measurement of $\\textit{J/ψ}$-jet correlations in $\\textit{pp}$ and Pb+Pb collisions at $$ \\sqrt{s_{\\mathrm{NN}}}=5.02 $$ TeV with the ATLAS detector",
+          "doi_values": [
+            "10.1007/JHEP11(2026)020",
+            "2606.31375"
+          ]
+        },
+        {
+          "record_id": "112919",
+          "title": "Search for dark photons from Higgs boson decays in the gluon-gluon fusion channel in proton-proton collisions at $$ \\sqrt{s}=13.6 $$ TeV with the ATLAS detector",
+          "doi_values": [
+            "10.1007/JHEP10(2026)270",
+            "2606.14362"
+          ]
+        },
+        {
+          "record_id": "112643",
+          "title": "Search for pair production of additional neutral scalars within the Inert Doublet Model in a final state with two electrons or two muons in proton-proton collisions at $$\\sqrt{s}=13$$ TeV and 13.6 TeV",
+          "doi_values": [
+            "10.1007/JHEP10(2026)249",
+            "2605.13614"
+          ]
+        },
+        {
+          "record_id": "112666",
+          "title": "Measurement of isolated photon plus two-jet correlations in Pb+Pb and <italic>pp</italic> collisions at 5.02 TeV with ATLAS",
+          "doi_values": [
+            "10.1016/j.physletb.2026.141083"
+          ]
+        },
+        {
+          "record_id": "112306",
+          "title": "Publisher Correction: Calibration of the jet energy scale and resolution of small-radius jets using semileptonic $$t\\bar{t}$$ events with the ATLAS detector",
+          "doi_values": [
+            "10.1140/epjc/s10052-026-16348-x",
+            "0000.00000"
+          ]
+        }
+      ]
+    },
+    {
+      "query": "\"10.1093/ptep/ptaf001\"",
+      "url": "https://repo.scoap3.org/api/records/?format=json&search=%2210.1093%2Fptep%2Fptaf001%22&page=1",
+      "captured_at": 1795698273,
+      "elapsed_seconds": 0.848,
+      "total_count": 0,
+      "returned": 0,
+      "results": []
+    },
+    {
+      "query": "10.1093/ptep/ptaf001",
+      "url": "https://repo.scoap3.org/api/records/?format=json&search=10.1093%2Fptep%2Fptaf001",
+      "captured_at": 1795698369,
+      "elapsed_seconds": 1.069,
+      "total_count": 1,
+      "returned": 1,
+      "results": [
+        {
+          "record_id": "95323",
+          "title": "Saddle-Point Approximation to the False-Vacuum Decay at Finite Temperature in 1D Quantum Mechanics",
+          "doi_values": [
+            "10.1093/ptep/ptaf001",
+            "2410.19418"
+          ]
+        }
+      ]
+    }
+  ],
+  "observed_limitations": [
+    "The unauthenticated API exposes at most ten records per request; broad queries require pagination.",
+    "Exact-DOI lookup requires knowing the article identifier in advance and is not a natural-language relevance evaluation.",
+    "These captured metadata results are not a manually judged topical relevance benchmark.",
+    "The documented quoted DOI search returned zero records for 10.1093/ptep/ptaf001, although that DOI is present in the corpus as SCOAP3 record 95323 and corroborated by the original article XML. This is a captured query failure, not an inferred relevance score."
+  ],
+  "comparison_scope": "External repository search covers the entire repository; our local corpus is its journal/length/license-filtered subset. Counts are not directly comparable as relevance metrics."
+}
