@@ -17,3 +17,5 @@ lab1_corpus/data/native_documents.tsv
 lab1_corpus/data/native_index/
 lab1_corpus/data/native_index_raw/
 lab1_corpus/data/native_index_lemma/
+
+*.sqlite.lock

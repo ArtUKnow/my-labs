@@ -2,8 +2,7 @@
 #define IR_TEXT_H
 #include <stddef.h>
 typedef void (*IrTokenCallback)(const char *, size_t, void *);
-void ir_tokenize(const char *text, size_t length, IrTokenCallback callback,
-                 void *context);
+void ir_tokenize(const char *text, size_t length, IrTokenCallback callback, void *context);
 void ir_stem(char *token);
 
 void ir_lemma(char *token);

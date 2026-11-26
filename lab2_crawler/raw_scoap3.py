@@ -1,5 +1,6 @@
 
 import csv
+import fcntl
 import gzip
 import hashlib
 import json
@@ -30,6 +31,12 @@ def normalize_url(url):
 class RawStore:
     def __init__(self,path):
         Path(path).parent.mkdir(parents=True,exist_ok=True)
+        self.lock_file=open(str(path)+'.lock','a')
+        try:
+            fcntl.flock(self.lock_file.fileno(),fcntl.LOCK_EX|fcntl.LOCK_NB)
+        except BlockingIOError:
+            self.lock_file.close()
+            raise RuntimeError('Another crawler already owns this database')
         self.connection=sqlite3.connect(path)
         self.connection.row_factory=sqlite3.Row
         schema_path=Path(__file__).resolve().parent/'sql'/'schema.sql'
@@ -81,7 +88,10 @@ class RawStore:
                 'raw_bytes':self.connection.execute('SELECT COALESCE(SUM(raw_bytes),0) FROM raw_documents').fetchone()[0],
                 'stored_gzip_bytes':self.connection.execute('SELECT COALESCE(SUM(LENGTH(raw_gzip)),0) FROM raw_documents').fetchone()[0]}
 
-    def close(self): self.connection.close()
+    def close(self):
+        self.connection.close()
+        fcntl.flock(self.lock_file.fileno(),fcntl.LOCK_UN)
+        self.lock_file.close()
 
 
 class Fetcher:
