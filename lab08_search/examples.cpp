@@ -65,6 +65,7 @@ void shell_quote(Text &out,const char *text){
     out.letter('\'');for(;*text;++text){if(*text=='\'')out.add("'\\''");else out.letter(*text);}out.letter('\'');
 }
 void command(const Example &example,Text &out){
+    if(!strcmp(example.args[0],"inspect")){inspection_command(example.args[1],out);return;}
     if(example.sample || !strcmp(example.id,"corpus-paths"))out.add("mkdir -p build/examples\n");
     if(example.sample)out.add("head -n 101 lab01_corpus/data/native_documents.tsv > build/examples/articles_100.tsv\n");
     if(example.input){out.add("printf '%s' ");shell_quote(out,example.input);out.add(" | ");}

@@ -8,3 +8,9 @@ Source listing includes byte sizes; source file reading succeeded.
 Lab 6, unknown commands and path traversal returned HTTP 400.
 Embedded JavaScript syntax: node --check passed.
 Browser visual verification unavailable: computer-control connection timed out.
+Expanded inspection commands:
+7 server-provided commands contain explicit paths and standard shell operations.
+HTTP output matches direct execution for index, corpus, terms, crawler, timings and Zipf.
+Memory command uses the current server PID and returns ps RSS/VSZ.
+All 22 example commands contain no inspect wrapper.
+All 22 executions, reports, sources and error checks passed again.
