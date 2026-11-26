@@ -195,12 +195,23 @@ class Crawler:
 
 
 def main():
+    if len(sys.argv) > 1 and sys.argv[1] == "--scoap3":
+        from scoap3 import main as collect_scoap3
+        sys.argv = [sys.argv[0]] + sys.argv[2:]
+        return collect_scoap3()
     if len(sys.argv) != 2:
         print("usage: python crawler.py config.yaml")
         sys.exit(1)
+    config = read_yaml(sys.argv[1])
+    if config.get("corpus", {}).get("kind") == "scoap3":
+        from scoap3 import main as collect_scoap3
+        options = config["corpus"]
+        sys.argv = [sys.argv[0], "--collect-only", "--target", str(options["target"]),
+                    "--min-words", str(options["min_words"]),
+                    "--download-workers", str(options["download_workers"])]
+        return collect_scoap3()
     signal.signal(signal.SIGINT, handle_stop)
     signal.signal(signal.SIGTERM, handle_stop)
-    config = read_yaml(sys.argv[1])
     db_path = config["db"]["path"]
     if not os.path.isabs(db_path):
         config["db"]["path"] = os.path.join(os.path.dirname(os.path.abspath(sys.argv[1])), db_path)

@@ -158,5 +158,48 @@ class TestCli(unittest.TestCase):
         self.assertEqual(result.stdout.decode("utf-8"), "ракет\nспутник\n")
 
 
+class TestFullCorpusBatch(unittest.TestCase):
+    def test_all_documents_compete_with_identical_ranking(self):
+        import gzip
+        import tempfile
+        from collections import Counter
+        from pathlib import Path
+        from corpus_evaluation import retrieve
+        documents = [("scoap3/a", "particles particle field"),
+                     ("scoap3/b", "particle field field"),
+                     ("scoap3/c", "dark matter particle"),
+                     ("scoap3/unlabeled", "particle")]
+        queries = [("q1", "particle"), ("q2", "field field"), ("q3", "missing")]
+        vocabulary = Counter(word for _, text in documents for word in text.split())
+        with tempfile.TemporaryDirectory() as folder:
+            rows, paths = [], []
+            for doc_id, text in documents:
+                name = doc_id.split("/")[1] + ".txt.gz"
+                path = Path(folder) / name
+                with gzip.open(path, "wt") as file:
+                    file.write("\n".join(text.split()))
+                rows.append({"file": name})
+                paths.append(path)
+            runs, sizes = retrieve(rows, paths, queries, k=4)
+        for mode in ["raw", "stem", "lemma"]:
+            engine = SimpleSearch(documents, mode, vocabulary)
+            self.assertEqual(sizes[mode], len(engine.index))
+            for query_id, text in queries:
+                self.assertEqual(runs[mode][query_id], engine.search(text, 4))
+            self.assertIn("scoap3/unlabeled", runs[mode]["q1"])
+
+    def test_known_item_protocol_covers_each_journal(self):
+        from corpus_evaluation import manifest_rows, prepare_queries, QUERY_DIR
+        import json
+        rows = manifest_rows()
+        queries = prepare_queries(rows)
+        protocol = json.loads((QUERY_DIR / "protocol.json").read_text())
+        self.assertEqual(protocol["corpus_documents"], len(rows))
+        self.assertEqual({q["journal"] for q in protocol["queries"]}, {row["journal"] for row in rows})
+        expected = {"scoap3/" + row["file"].removesuffix(".txt.gz") for row in rows}
+        self.assertTrue(all(q["target"] in expected for q in protocol["queries"]))
+        self.assertEqual(len(queries), len(protocol["queries"]))
+
+
 if __name__ == "__main__":
     unittest.main(verbosity=2)

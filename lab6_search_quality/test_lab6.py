@@ -119,11 +119,33 @@ class TestRunFiles(unittest.TestCase):
 
     def test_cli_stdin(self):
         script = os.path.join(os.path.dirname(os.path.abspath(__file__)), "evaluate.py")
-        data = "q1\tru_wikipedia/Ракета\t1\n"
+        qrels = evaluate.load_qrels(evaluate.QRELS_PATH)
+        target = next(iter(qrels["q1"]))
+        data = "q1\t" + target + "\t1\n"
         result = subprocess.run([sys.executable, script, "--stdin"], input=data.encode("utf-8"), stdout=subprocess.PIPE)
         output = result.stdout.decode("utf-8")
-        self.assertIn("NDCG=", output)
+        self.assertIn("NDCG=1.000", output)
         self.assertIn("q1", output)
+
+
+class TestSharedCorpusEvaluation(unittest.TestCase):
+    def test_artifact_uses_every_primary_document(self):
+        import json
+        from pathlib import Path
+        sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "lab4_stemmer"))
+        from corpus_evaluation import manifest_rows, RUNS_PATH, QUERY_DIR
+        corpus = manifest_rows()
+        report = json.loads((Path(__file__).parent / "results" / "metrics.json").read_text())
+        runs = json.loads(RUNS_PATH.read_text())
+        self.assertEqual(report["evaluation_documents"], len(corpus))
+        self.assertEqual(runs["evaluation_documents"], len(corpus))
+        self.assertEqual(report["task"], "known_item_title_retrieval")
+        self.assertEqual({system["name"] for system in report["systems"]}, {"raw", "stem", "lemma"})
+        ids = {"scoap3/" + row["file"].removesuffix(".txt.gz") for row in corpus}
+        for system in report["systems"]:
+            self.assertEqual(len(system["queries"]), report["query_count"])
+            for query in system["queries"]:
+                self.assertTrue(set(query["results"]).issubset(ids))
 
 
 if __name__ == "__main__":

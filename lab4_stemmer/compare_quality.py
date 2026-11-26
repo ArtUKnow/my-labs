@@ -4,13 +4,13 @@ import json
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
-from search import SimpleSearch, load_documents, LEGACY_TEXT_DIR, TOKENS_DIR
+from search import SimpleSearch
 from lemmatizer import load_vocabulary
 
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-QUERIES_PATH = os.path.join(BASE_DIR, "..", "lab1_corpus", "data", "queries", "queries.txt")
-QRELS_PATH = os.path.join(BASE_DIR, "..", "lab1_corpus", "data", "queries", "qrels.txt")
+QUERIES_PATH = os.path.join(BASE_DIR, "..", "lab1_corpus", "data", "queries", "scoap3", "queries.txt")
+QRELS_PATH = os.path.join(BASE_DIR, "..", "lab1_corpus", "data", "queries", "scoap3", "qrels.txt")
 RESULTS_DIR = os.path.join(BASE_DIR, "results")
 
 
@@ -84,14 +84,24 @@ def evaluate_mode(mode, documents, vocabulary, queries, qrels, k):
 
 def main():
     k = 5
+    from corpus_evaluation import ensure_runs
+    corpus = ensure_runs()
     queries = load_queries(QUERIES_PATH)
     qrels = load_qrels(QRELS_PATH)
-    labeled_ids = {doc_id for grades in qrels.values() for doc_id in grades}
-    documents = load_documents(LEGACY_TEXT_DIR, labeled_ids)
-    vocabulary = load_vocabulary(TOKENS_DIR, labeled_ids)
-    report = {"k": k, "evaluation_documents": len(documents), "modes": []}
+    report = {"k": k, "evaluation_documents": corpus["evaluation_documents"],
+              "task": corpus["task"], "query_count": len(queries), "modes": []}
     for mode in ["raw", "stem", "lemma"]:
-        result = evaluate_mode(mode, documents, vocabulary, queries, qrels, k)
+        per_query = []
+        for query_id, text in queries:
+            results = corpus["runs"][mode][query_id]
+            grades = qrels[query_id]
+            per_query.append({"query_id": query_id, "query": text,
+                              "precision": precision_at_k(results, grades, k),
+                              "recall": recall_at_k(results, grades, k), "results": results})
+        result = {"mode": mode, "terms_in_index": corpus["terms_in_index"][mode],
+                  "avg_precision": sum(row["precision"] for row in per_query) / len(per_query),
+                  "avg_recall": sum(row["recall"] for row in per_query) / len(per_query),
+                  "queries": per_query}
         report["modes"].append(result)
         print("mode:", mode)
         print("  terms in index:", result["terms_in_index"])

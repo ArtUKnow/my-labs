@@ -9,9 +9,8 @@ import metrics
 
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-QUERIES_PATH = os.path.join(BASE_DIR, "..", "lab1_corpus", "data", "queries", "queries.txt")
-QRELS_PATH = os.path.join(BASE_DIR, "..", "lab1_corpus", "data", "queries", "qrels.txt")
-WIKI_PATH = os.path.join(BASE_DIR, "..", "lab1_corpus", "data", "queries", "wikipedia_results.txt")
+QUERIES_PATH = os.path.join(BASE_DIR, "..", "lab1_corpus", "data", "queries", "scoap3", "queries.txt")
+QRELS_PATH = os.path.join(BASE_DIR, "..", "lab1_corpus", "data", "queries", "scoap3", "qrels.txt")
 RESULTS_DIR = os.path.join(BASE_DIR, "results")
 
 
@@ -84,6 +83,8 @@ def print_table(name, result, k):
 
 def main():
     k = 5
+    from corpus_evaluation import manifest_rows, prepare_queries
+    prepare_queries(manifest_rows())
     queries = load_queries(QUERIES_PATH)
     qrels = load_qrels(QRELS_PATH)
     if len(sys.argv) > 1 and sys.argv[1] == "--stdin":
@@ -95,19 +96,11 @@ def main():
             print("  %s\tP=%.2f\tNDCG=%.3f\tERR=%.3f" % (item["query_id"], m["p"], m["ndcg"], m["err"]))
         return
 
-    from search import SimpleSearch, load_documents, LEGACY_TEXT_DIR, TOKENS_DIR
-    from lemmatizer import load_vocabulary
-
-    labeled_ids = {doc_id for grades in qrels.values() for doc_id in grades}
-    documents = load_documents(LEGACY_TEXT_DIR, labeled_ids)
-    vocabulary = load_vocabulary(TOKENS_DIR, labeled_ids)
-    report = {"k": k, "evaluation_documents": len(documents), "systems": []}
-    systems = []
-    if os.path.exists(WIKI_PATH):
-        systems.append(("wikipedia", load_run(open(WIKI_PATH, encoding="utf-8"))))
-    for mode in ["raw", "stem", "lemma"]:
-        engine = SimpleSearch(documents, mode, vocabulary)
-        systems.append((mode, run_from_engine(engine, queries, k)))
+    from corpus_evaluation import ensure_runs
+    corpus = ensure_runs()
+    report = {"k": k, "evaluation_documents": corpus["evaluation_documents"],
+              "task": corpus["task"], "query_count": len(queries), "systems": []}
+    systems = [(mode, corpus["runs"][mode]) for mode in ["raw", "stem", "lemma"]]
     for name, run in systems:
         result = evaluate_run(run, queries, qrels, k)
         result["name"] = name

@@ -3,6 +3,11 @@ test_dispatch (__main__.TestEnglishStemmer.test_dispatch) ... ok
 test_ing_ed (__main__.TestEnglishStemmer.test_ing_ed) ... ok
 test_plural (__main__.TestEnglishStemmer.test_plural) ... ok
 test_short_not_touched (__main__.TestEnglishStemmer.test_short_not_touched) ... ok
+test_all_documents_compete_with_identical_ranking (__main__.TestFullCorpusBatch.test_all_documents_compete_with_identical_ranking) ... normalization raw terms 5
+normalization stem terms 4
+normalization lemma terms 4
+ok
+test_known_item_protocol_covers_each_journal (__main__.TestFullCorpusBatch.test_known_item_protocol_covers_each_journal) ... ok
 test_adjective (__main__.TestLemmatizer.test_adjective) ... ok
 test_cache (__main__.TestLemmatizer.test_cache) ... ok
 test_english (__main__.TestLemmatizer.test_english) ... ok
@@ -30,6 +35,6 @@ test_stem_search_all_forms (__main__.TestSearch.test_stem_search_all_forms) ... 
 test_stop_words_ignored (__main__.TestSearch.test_stop_words_ignored) ... ok
 
 ----------------------------------------------------------------------
-Ran 30 tests in 0.016s
+Ran 32 tests in 0.199s
 
 OK

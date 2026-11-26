@@ -20,18 +20,19 @@ test_precision_short_results (__main__.TestPrecisionRecall.test_precision_short_
 test_recall (__main__.TestPrecisionRecall.test_recall) ... ok
 test_recall_no_relevant (__main__.TestPrecisionRecall.test_recall_no_relevant) ... ok
 test_zero_grade_not_relevant (__main__.TestPrecisionRecall.test_zero_grade_not_relevant) ... ok
-test_cli_stdin (__main__.TestRunFiles.test_cli_stdin) ... ok
-test_evaluate_run (__main__.TestRunFiles.test_evaluate_run) ... ok
-test_load_run_sorted (__main__.TestRunFiles.test_load_run_sorted) ... ok
-test_real_qrels_match_queries (__main__.TestRunFiles.test_real_qrels_match_queries) ... /Users/alexganyak/Documents/Codex/2026-11-25/files-mentioned-by-the-user-python/work/github-my-labs/lab6_search_quality/evaluate.py:20: ResourceWarning: unclosed file <_io.TextIOWrapper name='/Users/alexganyak/Documents/Codex/2026-11-25/files-mentioned-by-the-user-python/work/github-my-labs/lab6_search_quality/../lab1_corpus/data/queries/queries.txt' mode='r' encoding='utf-8'>
-  for line in open(path, encoding="utf-8"):
-ResourceWarning: Enable tracemalloc to get the object allocation traceback
-/Users/alexganyak/Documents/Codex/2026-11-25/files-mentioned-by-the-user-python/work/github-my-labs/lab6_search_quality/evaluate.py:31: ResourceWarning: unclosed file <_io.TextIOWrapper name='/Users/alexganyak/Documents/Codex/2026-11-25/files-mentioned-by-the-user-python/work/github-my-labs/lab6_search_quality/../lab1_corpus/data/queries/qrels.txt' mode='r' encoding='utf-8'>
+test_cli_stdin (__main__.TestRunFiles.test_cli_stdin) ... /Users/alexganyak/Documents/Codex/2026-11-25/files-mentioned-by-the-user-python/work/github-my-labs/lab6_search_quality/evaluate.py:30: ResourceWarning: unclosed file <_io.TextIOWrapper name='/Users/alexganyak/Documents/Codex/2026-11-25/files-mentioned-by-the-user-python/work/github-my-labs/lab6_search_quality/../lab1_corpus/data/queries/scoap3/qrels.txt' mode='r' encoding='utf-8'>
   for line in open(path, encoding="utf-8"):
 ResourceWarning: Enable tracemalloc to get the object allocation traceback
 ok
+test_evaluate_run (__main__.TestRunFiles.test_evaluate_run) ... ok
+test_load_run_sorted (__main__.TestRunFiles.test_load_run_sorted) ... ok
+test_real_qrels_match_queries (__main__.TestRunFiles.test_real_qrels_match_queries) ... /Users/alexganyak/Documents/Codex/2026-11-25/files-mentioned-by-the-user-python/work/github-my-labs/lab6_search_quality/evaluate.py:19: ResourceWarning: unclosed file <_io.TextIOWrapper name='/Users/alexganyak/Documents/Codex/2026-11-25/files-mentioned-by-the-user-python/work/github-my-labs/lab6_search_quality/../lab1_corpus/data/queries/scoap3/queries.txt' mode='r' encoding='utf-8'>
+  for line in open(path, encoding="utf-8"):
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+ok
+test_artifact_uses_every_primary_document (__main__.TestSharedCorpusEvaluation.test_artifact_uses_every_primary_document) ... ok
 
 ----------------------------------------------------------------------
-Ran 26 tests in 0.019s
+Ran 27 tests in 0.310s
 
 OK

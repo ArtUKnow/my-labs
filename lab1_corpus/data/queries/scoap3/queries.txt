@@ -1,0 +1,44 @@
+q1	Interacting Dark Matter and Deformed Dark Energy Nonminimally
+q2	Exploring New Models in All Detail with SARAH
+q3	A Review of the Intrinsic Heavy Quark Content
+q4	Noncommutative Wormhole Solutions in Einstein Gauss-Bonnet Gravity
+q5	Fixing three dimensional geometries from entanglement entropies of
+q6	Broken S L S R flavor symmetry and
+q7	Positivity in electron-positron scattering testing the axiomatic quantum
+q8	Physics potential of searching for decays in JUNOSupported
+q9	Polarized equatorial emission and hot spots around black
+q10	Statefinder hierarchy exploration of the extended Ricci dark
+q11	Could a thin-shell configuration lie hidden within the
+q12	Prospects of V us and axial vector form
+q13	Dynamics of cosmic strings with higher-dimensional windings
+q14	Phenomenology of left-right symmetric dark matter
+q15	Chiral charge erasure via thermal fluctuations of magnetic
+q16	Axion mass limit from observations of the neutron
+q17	Magnetised bounds for conformal field theories
+q18	Holographic correlators from multi-mode AdS bubbling geometries
+q19	Non-anomalous non-invertible symmetries in D from gapped boundaries
+q20	Significance of soft-scale breaking on primordial black hole
+q21	Measurement of the cross-section ratio S J S
+q22	Off-shell scalar products for the XXZ spin chain
+q23	Gravitational threshold corrections in non-supersymmetric heterotic strings
+q24	Analysis of the pentaquark states in the diquark
+q25	Analysis of the resonance and K scattering length
+q26	Machine learning representation of the F structure function
+q27	Collision centrality and energy dependence of strange hadron
+q28	Measurement of J at forward and backward rapidity
+q29	Consistency checks for two-body finite-volume matrix elements II
+q30	Radiative meson and glueball decays in the Witten-Sakai-Sugimoto
+q31	Complete analysis of the Landau-gauge three-gluon vertex from
+q32	Effective Goldstone dynamics on cosmological spacetimes
+q33	New Constraints on Dark Photon Dark Matter with
+q34	Isotensor Scattering with a Resonant Subsystem from QCD
+q35	First Directional Measurement of Sub-MeV Solar Neutrinos with
+q36	Search for an Anomalous Production of Charged-Current e
+q37	Model independent tests of the Kerr bound with
+q38	An analytic effective model for hairy black holes
+q39	Can nuclear physics explain the anomaly observed in
+q40	Search for sub-GeV dark matter by annual modulation
+q41	Singular Field Redefinition between Witten s String Field
+q42	Anomaly flow by an Aharonov Bohm phase
+q43	A study of stress-tensor distribution around the flux
+q44	Exotic hadrons with heavy flavors X Y Z

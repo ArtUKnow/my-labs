@@ -1,484 +1,1745 @@
 {
   "k": 5,
-  "evaluation_documents": 46,
+  "evaluation_documents": 32494,
+  "task": "known_item_title_retrieval",
+  "query_count": 44,
   "modes": [
     {
       "mode": "raw",
-      "terms_in_index": 10234,
-      "avg_precision": 0.4667,
-      "avg_recall": 0.4777,
+      "terms_in_index": 790687,
+      "avg_precision": 0.15000000000000002,
+      "avg_recall": 0.75,
       "queries": [
         {
           "query_id": "q1",
-          "query": "ракеты носители",
-          "precision": 1.0,
-          "recall": 0.625,
+          "query": "Interacting Dark Matter and Deformed Dark Energy Nonminimally",
+          "precision": 0.2,
+          "recall": 1.0,
           "results": [
-            "ru_wikipedia/Ракета",
-            "ru_wikipedia/Циклограмма_пуска",
-            "ru_wikipedia/Стартовое_окно",
-            "ru_wikipedia/Суборбитальный_космический_полёт",
-            "ru_wikipedia/Космонавтика"
+            "scoap3/scoap3_18403",
+            "scoap3/scoap3_59292",
+            "scoap3/scoap3_18065",
+            "scoap3/scoap3_65324",
+            "scoap3/scoap3_83426"
           ]
         },
         {
           "query_id": "q2",
-          "query": "невесомость в космосе",
-          "precision": 0.6,
-          "recall": 0.75,
+          "query": "Exploring New Models in All Detail with SARAH",
+          "precision": 0.2,
+          "recall": 1.0,
           "results": [
-            "ru_wikipedia/Невесомость",
-            "ru_wikipedia/Микрогравитация",
-            "ru_wikipedia/Реклама_в_космосе",
-            "ru_wikipedia/Искусственная_сила_тяжести",
-            "ru_wikipedia/Коммерциализация_космической_деятельности"
+            "scoap3/scoap3_12496",
+            "scoap3/scoap3_73326",
+            "scoap3/scoap3_12095",
+            "scoap3/scoap3_23289",
+            "scoap3/scoap3_104281"
           ]
         },
         {
           "query_id": "q3",
-          "query": "космическим мусором",
-          "precision": 0.4,
-          "recall": 0.5,
+          "query": "A Review of the Intrinsic Heavy Quark Content",
+          "precision": 0.2,
+          "recall": 1.0,
           "results": [
-            "ru_wikipedia/Космический_аппарат",
-            "ru_wikipedia/Суборбитальный_космический_полёт",
-            "ru_wikipedia/Синдром_Кесслера",
-            "ru_wikipedia/Коммерциализация_космической_деятельности",
-            "ru_wikipedia/Солнечный_парус"
+            "scoap3/scoap3_13528",
+            "scoap3/scoap3_13364",
+            "scoap3/scoap3_55349",
+            "scoap3/scoap3_48210",
+            "scoap3/scoap3_68981"
           ]
         },
         {
           "query_id": "q4",
-          "query": "посадка на марс",
-          "precision": 0.6,
-          "recall": 0.429,
+          "query": "Noncommutative Wormhole Solutions in Einstein Gauss-Bonnet Gravity",
+          "precision": 0.2,
+          "recall": 1.0,
           "results": [
-            "ru_wikipedia/Космонавтика",
-            "ru_wikipedia/Мягкая_посадка",
-            "ru_wikipedia/Биоспутник",
-            "ru_wikipedia/Спускаемый_аппарат",
-            "ru_wikipedia/Небесный_кран"
+            "scoap3/scoap3_15042",
+            "scoap3/scoap3_85525",
+            "scoap3/scoap3_104083",
+            "scoap3/scoap3_23590",
+            "scoap3/scoap3_104825"
           ]
         },
         {
           "query_id": "q5",
-          "query": "солнечные паруса",
-          "precision": 0.6,
-          "recall": 0.75,
+          "query": "Fixing three dimensional geometries from entanglement entropies of",
+          "precision": 0.2,
+          "recall": 1.0,
           "results": [
-            "ru_wikipedia/Солнечный_парус",
-            "ru_wikipedia/Двигательная_установка_космического_аппарата",
-            "ru_wikipedia/Автоматическая_межпланетная_станция"
+            "scoap3/scoap3_105487",
+            "scoap3/scoap3_95697",
+            "scoap3/scoap3_107804",
+            "scoap3/scoap3_76511",
+            "scoap3/scoap3_40225"
           ]
         },
         {
           "query_id": "q6",
-          "query": "коммерческая космонавтика",
-          "precision": 0.4,
-          "recall": 0.333,
+          "query": "Broken S L S R flavor symmetry and",
+          "precision": 0.0,
+          "recall": 0.0,
           "results": [
-            "ru_wikipedia/Космонавтика",
-            "ru_wikipedia/Коридор_входа",
-            "ru_wikipedia/Мягкая_посадка",
-            "ru_wikipedia/Циклограмма_пуска",
-            "ru_wikipedia/Коммерциализация_космической_деятельности"
+            "scoap3/scoap3_105467",
+            "scoap3/scoap3_104975",
+            "scoap3/scoap3_14373",
+            "scoap3/scoap3_111776",
+            "scoap3/scoap3_107651"
           ]
         },
         {
           "query_id": "q7",
-          "query": "собаки в космосе",
-          "precision": 0.4,
-          "recall": 0.5,
+          "query": "Positivity in electron-positron scattering testing the axiomatic quantum",
+          "precision": 0.2,
+          "recall": 1.0,
           "results": [
-            "ru_wikipedia/Реклама_в_космосе",
-            "ru_wikipedia/Искусственная_сила_тяжести",
-            "ru_wikipedia/Коммерциализация_космической_деятельности",
-            "ru_wikipedia/Список_рекордов_в_космонавтике",
-            "ru_wikipedia/Биоспутник"
+            "scoap3/scoap3_67371",
+            "scoap3/scoap3_68216",
+            "scoap3/scoap3_53730",
+            "scoap3/scoap3_70696",
+            "scoap3/scoap3_49477"
           ]
         },
         {
           "query_id": "q8",
-          "query": "гравитационный манёвр",
+          "query": "Physics potential of searching for decays in JUNOSupported",
           "precision": 0.2,
-          "recall": 0.167,
+          "recall": 1.0,
           "results": [
-            "ru_wikipedia/Двигательная_установка_космического_аппарата",
-            "ru_wikipedia/Автоматическая_межпланетная_станция",
-            "ru_wikipedia/Точки_Лагранжа"
+            "scoap3/scoap3_20015",
+            "scoap3/scoap3_104805",
+            "scoap3/scoap3_79281",
+            "scoap3/scoap3_110189",
+            "scoap3/scoap3_72426"
           ]
         },
         {
           "query_id": "q9",
-          "query": "точек лагранжа",
+          "query": "Polarized equatorial emission and hot spots around black",
           "precision": 0.2,
-          "recall": 0.333,
+          "recall": 1.0,
           "results": [
-            "ru_wikipedia/Точки_Лагранжа",
-            "ru_wikipedia/Невесомость"
+            "scoap3/scoap3_101522",
+            "scoap3/scoap3_110892",
+            "scoap3/scoap3_60514",
+            "scoap3/scoap3_104113",
+            "scoap3/scoap3_78149"
           ]
         },
         {
           "query_id": "q10",
-          "query": "выход в открытый космос",
+          "query": "Statefinder hierarchy exploration of the extended Ricci dark",
           "precision": 0.2,
-          "recall": 0.25,
+          "recall": 1.0,
           "results": [
-            "ru_wikipedia/Список_рекордов_в_космонавтике",
-            "ru_wikipedia/Микрогравитация",
-            "ru_wikipedia/Биоспутник",
-            "ru_wikipedia/Реклама_в_космосе",
-            "ru_wikipedia/Аэрокосмическая_компания"
+            "scoap3/scoap3_10748",
+            "scoap3/scoap3_100456",
+            "scoap3/scoap3_77116",
+            "scoap3/scoap3_99232",
+            "scoap3/scoap3_99845"
           ]
         },
         {
           "query_id": "q11",
-          "query": "interplanetary missions",
-          "precision": 0.6,
-          "recall": 0.429,
+          "query": "Could a thin-shell configuration lie hidden within the",
+          "precision": 0.2,
+          "recall": 1.0,
           "results": [
-            "simple_wikipedia/Interstellar_travel",
-            "ru_wikipedia/Двигательная_установка_космического_аппарата",
-            "simple_wikipedia/Interplanetary_spaceflight",
-            "simple_wikipedia/Spaceflight",
-            "simple_wikipedia/Gravity_assist"
+            "scoap3/scoap3_103631",
+            "scoap3/scoap3_113480",
+            "scoap3/scoap3_105527",
+            "scoap3/scoap3_113430",
+            "scoap3/scoap3_108144"
           ]
         },
         {
           "query_id": "q12",
-          "query": "dogs in space",
-          "precision": 0.4,
-          "recall": 0.667,
+          "query": "Prospects of V us and axial vector form",
+          "precision": 0.0,
+          "recall": 0.0,
           "results": [
-            "simple_wikipedia/Laika",
-            "simple_wikipedia/Exploration_of_Mars",
-            "simple_wikipedia/Spaceflight",
-            "simple_wikipedia/Ariane_5",
-            "simple_wikipedia/Kessler_Syndrome"
+            "scoap3/scoap3_59321",
+            "scoap3/scoap3_88554",
+            "scoap3/scoap3_61396",
+            "scoap3/scoap3_101262",
+            "scoap3/scoap3_102809"
+          ]
+        },
+        {
+          "query_id": "q13",
+          "query": "Dynamics of cosmic strings with higher-dimensional windings",
+          "precision": 0.2,
+          "recall": 1.0,
+          "results": [
+            "scoap3/scoap3_10789",
+            "scoap3/scoap3_100582",
+            "scoap3/scoap3_104327",
+            "scoap3/scoap3_74643",
+            "scoap3/scoap3_82721"
+          ]
+        },
+        {
+          "query_id": "q14",
+          "query": "Phenomenology of left-right symmetric dark matter",
+          "precision": 0.0,
+          "recall": 0.0,
+          "results": [
+            "scoap3/scoap3_42870",
+            "scoap3/scoap3_53767",
+            "scoap3/scoap3_89201",
+            "scoap3/scoap3_62997",
+            "scoap3/scoap3_15918"
+          ]
+        },
+        {
+          "query_id": "q15",
+          "query": "Chiral charge erasure via thermal fluctuations of magnetic",
+          "precision": 0.2,
+          "recall": 1.0,
+          "results": [
+            "scoap3/scoap3_15561",
+            "scoap3/scoap3_109328",
+            "scoap3/scoap3_80577",
+            "scoap3/scoap3_106570",
+            "scoap3/scoap3_47230"
+          ]
+        },
+        {
+          "query_id": "q16",
+          "query": "Axion mass limit from observations of the neutron",
+          "precision": 0.0,
+          "recall": 0.0,
+          "results": [
+            "scoap3/scoap3_81827",
+            "scoap3/scoap3_24791",
+            "scoap3/scoap3_81757",
+            "scoap3/scoap3_100275",
+            "scoap3/scoap3_108684"
+          ]
+        },
+        {
+          "query_id": "q17",
+          "query": "Magnetised bounds for conformal field theories",
+          "precision": 0.2,
+          "recall": 1.0,
+          "results": [
+            "scoap3/scoap3_101778",
+            "scoap3/scoap3_104336",
+            "scoap3/scoap3_51331",
+            "scoap3/scoap3_79872",
+            "scoap3/scoap3_48530"
+          ]
+        },
+        {
+          "query_id": "q18",
+          "query": "Holographic correlators from multi-mode AdS bubbling geometries",
+          "precision": 0.2,
+          "recall": 1.0,
+          "results": [
+            "scoap3/scoap3_107097",
+            "scoap3/scoap3_3939",
+            "scoap3/scoap3_107029",
+            "scoap3/scoap3_102400",
+            "scoap3/scoap3_65172"
+          ]
+        },
+        {
+          "query_id": "q19",
+          "query": "Non-anomalous non-invertible symmetries in D from gapped boundaries",
+          "precision": 0.2,
+          "recall": 1.0,
+          "results": [
+            "scoap3/scoap3_106967",
+            "scoap3/scoap3_103323",
+            "scoap3/scoap3_105443",
+            "scoap3/scoap3_107121",
+            "scoap3/scoap3_107086"
+          ]
+        },
+        {
+          "query_id": "q20",
+          "query": "Significance of soft-scale breaking on primordial black hole",
+          "precision": 0.2,
+          "recall": 1.0,
+          "results": [
+            "scoap3/scoap3_102191",
+            "scoap3/scoap3_95229",
+            "scoap3/scoap3_84897",
+            "scoap3/scoap3_100799",
+            "scoap3/scoap3_88357"
+          ]
+        },
+        {
+          "query_id": "q21",
+          "query": "Measurement of the cross-section ratio S J S",
+          "precision": 0.0,
+          "recall": 0.0,
+          "results": [
+            "scoap3/scoap3_105190",
+            "scoap3/scoap3_103299",
+            "scoap3/scoap3_110764",
+            "scoap3/scoap3_102630",
+            "scoap3/scoap3_106629"
+          ]
+        },
+        {
+          "query_id": "q22",
+          "query": "Off-shell scalar products for the XXZ spin chain",
+          "precision": 0.2,
+          "recall": 1.0,
+          "results": [
+            "scoap3/scoap3_9185",
+            "scoap3/scoap3_9627",
+            "scoap3/scoap3_71508",
+            "scoap3/scoap3_50678",
+            "scoap3/scoap3_11557"
+          ]
+        },
+        {
+          "query_id": "q23",
+          "query": "Gravitational threshold corrections in non-supersymmetric heterotic strings",
+          "precision": 0.2,
+          "recall": 1.0,
+          "results": [
+            "scoap3/scoap3_18713",
+            "scoap3/scoap3_20045",
+            "scoap3/scoap3_104359",
+            "scoap3/scoap3_106234",
+            "scoap3/scoap3_105900"
+          ]
+        },
+        {
+          "query_id": "q24",
+          "query": "Analysis of the pentaquark states in the diquark",
+          "precision": 0.2,
+          "recall": 1.0,
+          "results": [
+            "scoap3/scoap3_17266",
+            "scoap3/scoap3_89495",
+            "scoap3/scoap3_49660",
+            "scoap3/scoap3_47819",
+            "scoap3/scoap3_66758"
+          ]
+        },
+        {
+          "query_id": "q25",
+          "query": "Analysis of the resonance and K scattering length",
+          "precision": 0.2,
+          "recall": 1.0,
+          "results": [
+            "scoap3/scoap3_82898",
+            "scoap3/scoap3_12253",
+            "scoap3/scoap3_100054",
+            "scoap3/scoap3_85381",
+            "scoap3/scoap3_107264"
+          ]
+        },
+        {
+          "query_id": "q26",
+          "query": "Machine learning representation of the F structure function",
+          "precision": 0.2,
+          "recall": 1.0,
+          "results": [
+            "scoap3/scoap3_66783",
+            "scoap3/scoap3_76590",
+            "scoap3/scoap3_103976",
+            "scoap3/scoap3_108551",
+            "scoap3/scoap3_97152"
+          ]
+        },
+        {
+          "query_id": "q27",
+          "query": "Collision centrality and energy dependence of strange hadron",
+          "precision": 0.0,
+          "recall": 0.0,
+          "results": [
+            "scoap3/scoap3_51954",
+            "scoap3/scoap3_95010",
+            "scoap3/scoap3_9992",
+            "scoap3/scoap3_61737",
+            "scoap3/scoap3_76452"
+          ]
+        },
+        {
+          "query_id": "q28",
+          "query": "Measurement of J at forward and backward rapidity",
+          "precision": 0.2,
+          "recall": 1.0,
+          "results": [
+            "scoap3/scoap3_19506",
+            "scoap3/scoap3_54785",
+            "scoap3/scoap3_10458",
+            "scoap3/scoap3_4846",
+            "scoap3/scoap3_718"
+          ]
+        },
+        {
+          "query_id": "q29",
+          "query": "Consistency checks for two-body finite-volume matrix elements II",
+          "precision": 0.2,
+          "recall": 1.0,
+          "results": [
+            "scoap3/scoap3_51402",
+            "scoap3/scoap3_61757",
+            "scoap3/scoap3_54537",
+            "scoap3/scoap3_96123",
+            "scoap3/scoap3_60739"
+          ]
+        },
+        {
+          "query_id": "q30",
+          "query": "Radiative meson and glueball decays in the Witten-Sakai-Sugimoto",
+          "precision": 0.2,
+          "recall": 1.0,
+          "results": [
+            "scoap3/scoap3_78328",
+            "scoap3/scoap3_84651",
+            "scoap3/scoap3_51862",
+            "scoap3/scoap3_79110",
+            "scoap3/scoap3_67209"
+          ]
+        },
+        {
+          "query_id": "q31",
+          "query": "Complete analysis of the Landau-gauge three-gluon vertex from",
+          "precision": 0.2,
+          "recall": 1.0,
+          "results": [
+            "scoap3/scoap3_86793",
+            "scoap3/scoap3_66558",
+            "scoap3/scoap3_73505",
+            "scoap3/scoap3_110498",
+            "scoap3/scoap3_24416"
+          ]
+        },
+        {
+          "query_id": "q32",
+          "query": "Effective Goldstone dynamics on cosmological spacetimes",
+          "precision": 0.2,
+          "recall": 1.0,
+          "results": [
+            "scoap3/scoap3_108792",
+            "scoap3/scoap3_83586",
+            "scoap3/scoap3_96798",
+            "scoap3/scoap3_45141",
+            "scoap3/scoap3_72487"
+          ]
+        },
+        {
+          "query_id": "q33",
+          "query": "New Constraints on Dark Photon Dark Matter with",
+          "precision": 0.0,
+          "recall": 0.0,
+          "results": [
+            "scoap3/scoap3_42739",
+            "scoap3/scoap3_107609",
+            "scoap3/scoap3_63475",
+            "scoap3/scoap3_56835",
+            "scoap3/scoap3_47986"
+          ]
+        },
+        {
+          "query_id": "q34",
+          "query": "Isotensor Scattering with a Resonant Subsystem from QCD",
+          "precision": 0.2,
+          "recall": 1.0,
+          "results": [
+            "scoap3/scoap3_111010",
+            "scoap3/scoap3_110101",
+            "scoap3/scoap3_69895",
+            "scoap3/scoap3_100623",
+            "scoap3/scoap3_105211"
+          ]
+        },
+        {
+          "query_id": "q35",
+          "query": "First Directional Measurement of Sub-MeV Solar Neutrinos with",
+          "precision": 0.2,
+          "recall": 1.0,
+          "results": [
+            "scoap3/scoap3_68930",
+            "scoap3/scoap3_68922",
+            "scoap3/scoap3_53140",
+            "scoap3/scoap3_991",
+            "scoap3/scoap3_82103"
+          ]
+        },
+        {
+          "query_id": "q36",
+          "query": "Search for an Anomalous Production of Charged-Current e",
+          "precision": 0.0,
+          "recall": 0.0,
+          "results": [
+            "scoap3/scoap3_54840",
+            "scoap3/scoap3_102326",
+            "scoap3/scoap3_51686",
+            "scoap3/scoap3_83465",
+            "scoap3/scoap3_84530"
+          ]
+        },
+        {
+          "query_id": "q37",
+          "query": "Model independent tests of the Kerr bound with",
+          "precision": 0.2,
+          "recall": 1.0,
+          "results": [
+            "scoap3/scoap3_57539",
+            "scoap3/scoap3_10857",
+            "scoap3/scoap3_11003",
+            "scoap3/scoap3_4392",
+            "scoap3/scoap3_108857"
+          ]
+        },
+        {
+          "query_id": "q38",
+          "query": "An analytic effective model for hairy black holes",
+          "precision": 0.2,
+          "recall": 1.0,
+          "results": [
+            "scoap3/scoap3_55528",
+            "scoap3/scoap3_65118",
+            "scoap3/scoap3_25444",
+            "scoap3/scoap3_15144",
+            "scoap3/scoap3_78486"
+          ]
+        },
+        {
+          "query_id": "q39",
+          "query": "Can nuclear physics explain the anomaly observed in",
+          "precision": 0.0,
+          "recall": 0.0,
+          "results": [
+            "scoap3/scoap3_80490",
+            "scoap3/scoap3_50828",
+            "scoap3/scoap3_56054",
+            "scoap3/scoap3_84199",
+            "scoap3/scoap3_74678"
+          ]
+        },
+        {
+          "query_id": "q40",
+          "query": "Search for sub-GeV dark matter by annual modulation",
+          "precision": 0.0,
+          "recall": 0.0,
+          "results": [
+            "scoap3/scoap3_46877",
+            "scoap3/scoap3_67052",
+            "scoap3/scoap3_66290",
+            "scoap3/scoap3_23086",
+            "scoap3/scoap3_64254"
+          ]
+        },
+        {
+          "query_id": "q41",
+          "query": "Singular Field Redefinition between Witten s String Field",
+          "precision": 0.0,
+          "recall": 0.0,
+          "results": [
+            "scoap3/scoap3_107366",
+            "scoap3/scoap3_99717",
+            "scoap3/scoap3_60474",
+            "scoap3/scoap3_21714",
+            "scoap3/scoap3_103516"
+          ]
+        },
+        {
+          "query_id": "q42",
+          "query": "Anomaly flow by an Aharonov Bohm phase",
+          "precision": 0.2,
+          "recall": 1.0,
+          "results": [
+            "scoap3/scoap3_71180",
+            "scoap3/scoap3_69353",
+            "scoap3/scoap3_899",
+            "scoap3/scoap3_5169",
+            "scoap3/scoap3_78636"
+          ]
+        },
+        {
+          "query_id": "q43",
+          "query": "A study of stress-tensor distribution around the flux",
+          "precision": 0.2,
+          "recall": 1.0,
+          "results": [
+            "scoap3/scoap3_49599",
+            "scoap3/scoap3_102074",
+            "scoap3/scoap3_111485",
+            "scoap3/scoap3_105064",
+            "scoap3/scoap3_111088"
+          ]
+        },
+        {
+          "query_id": "q44",
+          "query": "Exotic hadrons with heavy flavors X Y Z",
+          "precision": 0.2,
+          "recall": 1.0,
+          "results": [
+            "scoap3/scoap3_51685",
+            "scoap3/scoap3_20988",
+            "scoap3/scoap3_15980",
+            "scoap3/scoap3_102631",
+            "scoap3/scoap3_103019"
           ]
         }
       ]
     },
     {
       "mode": "stem",
-      "terms_in_index": 6780,
-      "avg_precision": 0.5167,
-      "avg_recall": 0.5347,
+      "terms_in_index": 756867,
+      "avg_precision": 0.14545454545454548,
+      "avg_recall": 0.7272727272727273,
       "queries": [
         {
           "query_id": "q1",
-          "query": "ракеты носители",
-          "precision": 0.8,
-          "recall": 0.5,
+          "query": "Interacting Dark Matter and Deformed Dark Energy Nonminimally",
+          "precision": 0.2,
+          "recall": 1.0,
           "results": [
-            "ru_wikipedia/Космический_аппарат",
-            "ru_wikipedia/Ракета",
-            "ru_wikipedia/Циклограмма_пуска",
-            "ru_wikipedia/Аэрокосмическая_компания",
-            "ru_wikipedia/Стартовое_окно"
+            "scoap3/scoap3_18403",
+            "scoap3/scoap3_65324",
+            "scoap3/scoap3_69640",
+            "scoap3/scoap3_101843",
+            "scoap3/scoap3_73777"
           ]
         },
         {
           "query_id": "q2",
-          "query": "невесомость в космосе",
-          "precision": 0.6,
-          "recall": 0.75,
+          "query": "Exploring New Models in All Detail with SARAH",
+          "precision": 0.2,
+          "recall": 1.0,
           "results": [
-            "ru_wikipedia/Невесомость",
-            "ru_wikipedia/Биоспутник",
-            "ru_wikipedia/Искусственная_сила_тяжести",
-            "ru_wikipedia/Микрогравитация",
-            "ru_wikipedia/Космонавтика"
+            "scoap3/scoap3_101636",
+            "scoap3/scoap3_12496",
+            "scoap3/scoap3_109582",
+            "scoap3/scoap3_96383",
+            "scoap3/scoap3_55854"
           ]
         },
         {
           "query_id": "q3",
-          "query": "космическим мусором",
-          "precision": 0.4,
-          "recall": 0.5,
+          "query": "A Review of the Intrinsic Heavy Quark Content",
+          "precision": 0.2,
+          "recall": 1.0,
           "results": [
-            "ru_wikipedia/Реклама_в_космосе",
-            "ru_wikipedia/Синдром_Кесслера",
-            "ru_wikipedia/Страхование_космических_рисков",
-            "ru_wikipedia/Космическая_навигация",
-            "ru_wikipedia/Космический_аппарат"
+            "scoap3/scoap3_75735",
+            "scoap3/scoap3_55349",
+            "scoap3/scoap3_13528",
+            "scoap3/scoap3_13364",
+            "scoap3/scoap3_48210"
           ]
         },
         {
           "query_id": "q4",
-          "query": "посадка на марс",
-          "precision": 0.8,
-          "recall": 0.571,
+          "query": "Noncommutative Wormhole Solutions in Einstein Gauss-Bonnet Gravity",
+          "precision": 0.2,
+          "recall": 1.0,
           "results": [
-            "ru_wikipedia/Небесный_кран",
-            "ru_wikipedia/Спускаемый_аппарат",
-            "ru_wikipedia/Космонавтика",
-            "ru_wikipedia/Автоматическая_межпланетная_станция",
-            "ru_wikipedia/Мягкая_посадка"
+            "scoap3/scoap3_15042",
+            "scoap3/scoap3_85525",
+            "scoap3/scoap3_104083",
+            "scoap3/scoap3_75403",
+            "scoap3/scoap3_57159"
           ]
         },
         {
           "query_id": "q5",
-          "query": "солнечные паруса",
-          "precision": 0.6,
-          "recall": 0.75,
+          "query": "Fixing three dimensional geometries from entanglement entropies of",
+          "precision": 0.2,
+          "recall": 1.0,
           "results": [
-            "ru_wikipedia/Солнечный_парус",
-            "ru_wikipedia/Двигательная_установка_космического_аппарата",
-            "ru_wikipedia/Космический_аппарат",
-            "ru_wikipedia/Автоматическая_межпланетная_станция",
-            "ru_wikipedia/Точки_Лагранжа"
+            "scoap3/scoap3_48271",
+            "scoap3/scoap3_105487",
+            "scoap3/scoap3_95697",
+            "scoap3/scoap3_104196",
+            "scoap3/scoap3_77308"
           ]
         },
         {
           "query_id": "q6",
-          "query": "коммерческая космонавтика",
-          "precision": 0.6,
-          "recall": 0.5,
+          "query": "Broken S L S R flavor symmetry and",
+          "precision": 0.0,
+          "recall": 0.0,
           "results": [
-            "ru_wikipedia/Коммерциализация_космической_деятельности",
-            "ru_wikipedia/Космонавтика",
-            "ru_wikipedia/Премия_Хайнлайна_за_достижения_в_коммерциализации_космоса",
-            "ru_wikipedia/Коридор_входа",
-            "ru_wikipedia/Циклограмма_пуска"
+            "scoap3/scoap3_105467",
+            "scoap3/scoap3_104975",
+            "scoap3/scoap3_14373",
+            "scoap3/scoap3_111776",
+            "scoap3/scoap3_107651"
           ]
         },
         {
           "query_id": "q7",
-          "query": "собаки в космосе",
-          "precision": 0.4,
-          "recall": 0.5,
+          "query": "Positivity in electron-positron scattering testing the axiomatic quantum",
+          "precision": 0.2,
+          "recall": 1.0,
           "results": [
-            "ru_wikipedia/Биоспутник",
-            "ru_wikipedia/Ракета",
-            "ru_wikipedia/Суборбитальный_космический_полёт",
-            "ru_wikipedia/Список_рекордов_в_космонавтике",
-            "ru_wikipedia/Премия_Хайнлайна_за_достижения_в_коммерциализации_космоса"
+            "scoap3/scoap3_67371",
+            "scoap3/scoap3_47948",
+            "scoap3/scoap3_98036",
+            "scoap3/scoap3_79167",
+            "scoap3/scoap3_103658"
           ]
         },
         {
           "query_id": "q8",
-          "query": "гравитационный манёвр",
-          "precision": 0.4,
-          "recall": 0.333,
+          "query": "Physics potential of searching for decays in JUNOSupported",
+          "precision": 0.2,
+          "recall": 1.0,
           "results": [
-            "ru_wikipedia/Пролётная_аномалия",
-            "ru_wikipedia/Двигательная_установка_космического_аппарата",
-            "ru_wikipedia/Автоматическая_межпланетная_станция",
-            "ru_wikipedia/Точки_Лагранжа",
-            "ru_wikipedia/Невесомость"
+            "scoap3/scoap3_20015",
+            "scoap3/scoap3_103062",
+            "scoap3/scoap3_54245",
+            "scoap3/scoap3_110189",
+            "scoap3/scoap3_43274"
           ]
         },
         {
           "query_id": "q9",
-          "query": "точек лагранжа",
+          "query": "Polarized equatorial emission and hot spots around black",
           "precision": 0.2,
-          "recall": 0.333,
+          "recall": 1.0,
           "results": [
-            "ru_wikipedia/Точки_Лагранжа",
-            "ru_wikipedia/Космонавтика",
-            "ru_wikipedia/Невесомость"
+            "scoap3/scoap3_101522",
+            "scoap3/scoap3_110892",
+            "scoap3/scoap3_104113",
+            "scoap3/scoap3_60514",
+            "scoap3/scoap3_88607"
           ]
         },
         {
           "query_id": "q10",
-          "query": "выход в открытый космос",
+          "query": "Statefinder hierarchy exploration of the extended Ricci dark",
           "precision": 0.2,
-          "recall": 0.25,
+          "recall": 1.0,
           "results": [
-            "ru_wikipedia/Список_рекордов_в_космонавтике",
-            "ru_wikipedia/Микрогравитация",
-            "ru_wikipedia/Двигательная_установка_космического_аппарата",
-            "ru_wikipedia/Ракета",
-            "ru_wikipedia/Суборбитальный_космический_полёт"
+            "scoap3/scoap3_10748",
+            "scoap3/scoap3_100456",
+            "scoap3/scoap3_104241",
+            "scoap3/scoap3_77116",
+            "scoap3/scoap3_99232"
           ]
         },
         {
           "query_id": "q11",
-          "query": "interplanetary missions",
-          "precision": 0.6,
-          "recall": 0.429,
+          "query": "Could a thin-shell configuration lie hidden within the",
+          "precision": 0.2,
+          "recall": 1.0,
           "results": [
-            "simple_wikipedia/Interstellar_travel",
-            "ru_wikipedia/Двигательная_установка_космического_аппарата",
-            "simple_wikipedia/Interplanetary_spaceflight",
-            "simple_wikipedia/InSight",
-            "simple_wikipedia/Spaceflight"
+            "scoap3/scoap3_103631",
+            "scoap3/scoap3_113480",
+            "scoap3/scoap3_105527",
+            "scoap3/scoap3_85010",
+            "scoap3/scoap3_113430"
           ]
         },
         {
           "query_id": "q12",
-          "query": "dogs in space",
-          "precision": 0.6,
+          "query": "Prospects of V us and axial vector form",
+          "precision": 0.0,
+          "recall": 0.0,
+          "results": [
+            "scoap3/scoap3_59321",
+            "scoap3/scoap3_88554",
+            "scoap3/scoap3_61396",
+            "scoap3/scoap3_101262",
+            "scoap3/scoap3_68617"
+          ]
+        },
+        {
+          "query_id": "q13",
+          "query": "Dynamics of cosmic strings with higher-dimensional windings",
+          "precision": 0.2,
           "recall": 1.0,
           "results": [
-            "simple_wikipedia/Laika",
-            "simple_wikipedia/Félicette",
-            "simple_wikipedia/Exploration_of_Mars",
-            "simple_wikipedia/Spaceflight",
-            "simple_wikipedia/Ariane_5"
+            "scoap3/scoap3_74643",
+            "scoap3/scoap3_87903",
+            "scoap3/scoap3_83844",
+            "scoap3/scoap3_10789",
+            "scoap3/scoap3_110721"
+          ]
+        },
+        {
+          "query_id": "q14",
+          "query": "Phenomenology of left-right symmetric dark matter",
+          "precision": 0.0,
+          "recall": 0.0,
+          "results": [
+            "scoap3/scoap3_42870",
+            "scoap3/scoap3_53767",
+            "scoap3/scoap3_89201",
+            "scoap3/scoap3_62997",
+            "scoap3/scoap3_15918"
+          ]
+        },
+        {
+          "query_id": "q15",
+          "query": "Chiral charge erasure via thermal fluctuations of magnetic",
+          "precision": 0.2,
+          "recall": 1.0,
+          "results": [
+            "scoap3/scoap3_15561",
+            "scoap3/scoap3_109328",
+            "scoap3/scoap3_80577",
+            "scoap3/scoap3_106570",
+            "scoap3/scoap3_47230"
+          ]
+        },
+        {
+          "query_id": "q16",
+          "query": "Axion mass limit from observations of the neutron",
+          "precision": 0.0,
+          "recall": 0.0,
+          "results": [
+            "scoap3/scoap3_81827",
+            "scoap3/scoap3_51705",
+            "scoap3/scoap3_24791",
+            "scoap3/scoap3_108684",
+            "scoap3/scoap3_81757"
+          ]
+        },
+        {
+          "query_id": "q17",
+          "query": "Magnetised bounds for conformal field theories",
+          "precision": 0.2,
+          "recall": 1.0,
+          "results": [
+            "scoap3/scoap3_101778",
+            "scoap3/scoap3_104336",
+            "scoap3/scoap3_87646",
+            "scoap3/scoap3_59865",
+            "scoap3/scoap3_79872"
+          ]
+        },
+        {
+          "query_id": "q18",
+          "query": "Holographic correlators from multi-mode AdS bubbling geometries",
+          "precision": 0.2,
+          "recall": 1.0,
+          "results": [
+            "scoap3/scoap3_107097",
+            "scoap3/scoap3_3939",
+            "scoap3/scoap3_107029",
+            "scoap3/scoap3_103619",
+            "scoap3/scoap3_102400"
+          ]
+        },
+        {
+          "query_id": "q19",
+          "query": "Non-anomalous non-invertible symmetries in D from gapped boundaries",
+          "precision": 0.2,
+          "recall": 1.0,
+          "results": [
+            "scoap3/scoap3_106967",
+            "scoap3/scoap3_103323",
+            "scoap3/scoap3_105443",
+            "scoap3/scoap3_107121",
+            "scoap3/scoap3_107086"
+          ]
+        },
+        {
+          "query_id": "q20",
+          "query": "Significance of soft-scale breaking on primordial black hole",
+          "precision": 0.2,
+          "recall": 1.0,
+          "results": [
+            "scoap3/scoap3_102191",
+            "scoap3/scoap3_95229",
+            "scoap3/scoap3_88161",
+            "scoap3/scoap3_107272",
+            "scoap3/scoap3_84897"
+          ]
+        },
+        {
+          "query_id": "q21",
+          "query": "Measurement of the cross-section ratio S J S",
+          "precision": 0.0,
+          "recall": 0.0,
+          "results": [
+            "scoap3/scoap3_105190",
+            "scoap3/scoap3_103299",
+            "scoap3/scoap3_110764",
+            "scoap3/scoap3_102630",
+            "scoap3/scoap3_106629"
+          ]
+        },
+        {
+          "query_id": "q22",
+          "query": "Off-shell scalar products for the XXZ spin chain",
+          "precision": 0.2,
+          "recall": 1.0,
+          "results": [
+            "scoap3/scoap3_9185",
+            "scoap3/scoap3_8714",
+            "scoap3/scoap3_71508",
+            "scoap3/scoap3_9627",
+            "scoap3/scoap3_50678"
+          ]
+        },
+        {
+          "query_id": "q23",
+          "query": "Gravitational threshold corrections in non-supersymmetric heterotic strings",
+          "precision": 0.2,
+          "recall": 1.0,
+          "results": [
+            "scoap3/scoap3_15976",
+            "scoap3/scoap3_18713",
+            "scoap3/scoap3_20045",
+            "scoap3/scoap3_104359",
+            "scoap3/scoap3_11543"
+          ]
+        },
+        {
+          "query_id": "q24",
+          "query": "Analysis of the pentaquark states in the diquark",
+          "precision": 0.2,
+          "recall": 1.0,
+          "results": [
+            "scoap3/scoap3_68268",
+            "scoap3/scoap3_17266",
+            "scoap3/scoap3_47819",
+            "scoap3/scoap3_41379",
+            "scoap3/scoap3_89495"
+          ]
+        },
+        {
+          "query_id": "q25",
+          "query": "Analysis of the resonance and K scattering length",
+          "precision": 0.2,
+          "recall": 1.0,
+          "results": [
+            "scoap3/scoap3_101280",
+            "scoap3/scoap3_82898",
+            "scoap3/scoap3_68145",
+            "scoap3/scoap3_12603",
+            "scoap3/scoap3_12253"
+          ]
+        },
+        {
+          "query_id": "q26",
+          "query": "Machine learning representation of the F structure function",
+          "precision": 0.2,
+          "recall": 1.0,
+          "results": [
+            "scoap3/scoap3_66783",
+            "scoap3/scoap3_106438",
+            "scoap3/scoap3_76590",
+            "scoap3/scoap3_84112",
+            "scoap3/scoap3_103976"
+          ]
+        },
+        {
+          "query_id": "q27",
+          "query": "Collision centrality and energy dependence of strange hadron",
+          "precision": 0.2,
+          "recall": 1.0,
+          "results": [
+            "scoap3/scoap3_61023",
+            "scoap3/scoap3_51954",
+            "scoap3/scoap3_95010",
+            "scoap3/scoap3_98561",
+            "scoap3/scoap3_75705"
+          ]
+        },
+        {
+          "query_id": "q28",
+          "query": "Measurement of J at forward and backward rapidity",
+          "precision": 0.2,
+          "recall": 1.0,
+          "results": [
+            "scoap3/scoap3_19506",
+            "scoap3/scoap3_54785",
+            "scoap3/scoap3_10458",
+            "scoap3/scoap3_4846",
+            "scoap3/scoap3_77303"
+          ]
+        },
+        {
+          "query_id": "q29",
+          "query": "Consistency checks for two-body finite-volume matrix elements II",
+          "precision": 0.2,
+          "recall": 1.0,
+          "results": [
+            "scoap3/scoap3_51402",
+            "scoap3/scoap3_54537",
+            "scoap3/scoap3_61757",
+            "scoap3/scoap3_75697",
+            "scoap3/scoap3_88377"
+          ]
+        },
+        {
+          "query_id": "q30",
+          "query": "Radiative meson and glueball decays in the Witten-Sakai-Sugimoto",
+          "precision": 0.2,
+          "recall": 1.0,
+          "results": [
+            "scoap3/scoap3_78328",
+            "scoap3/scoap3_84651",
+            "scoap3/scoap3_79110",
+            "scoap3/scoap3_51862",
+            "scoap3/scoap3_67209"
+          ]
+        },
+        {
+          "query_id": "q31",
+          "query": "Complete analysis of the Landau-gauge three-gluon vertex from",
+          "precision": 0.2,
+          "recall": 1.0,
+          "results": [
+            "scoap3/scoap3_86793",
+            "scoap3/scoap3_66558",
+            "scoap3/scoap3_73505",
+            "scoap3/scoap3_66028",
+            "scoap3/scoap3_85767"
+          ]
+        },
+        {
+          "query_id": "q32",
+          "query": "Effective Goldstone dynamics on cosmological spacetimes",
+          "precision": 0.2,
+          "recall": 1.0,
+          "results": [
+            "scoap3/scoap3_108058",
+            "scoap3/scoap3_112909",
+            "scoap3/scoap3_96302",
+            "scoap3/scoap3_46886",
+            "scoap3/scoap3_108792"
+          ]
+        },
+        {
+          "query_id": "q33",
+          "query": "New Constraints on Dark Photon Dark Matter with",
+          "precision": 0.0,
+          "recall": 0.0,
+          "results": [
+            "scoap3/scoap3_95841",
+            "scoap3/scoap3_42739",
+            "scoap3/scoap3_107609",
+            "scoap3/scoap3_47986",
+            "scoap3/scoap3_63475"
+          ]
+        },
+        {
+          "query_id": "q34",
+          "query": "Isotensor Scattering with a Resonant Subsystem from QCD",
+          "precision": 0.2,
+          "recall": 1.0,
+          "results": [
+            "scoap3/scoap3_111010",
+            "scoap3/scoap3_85694",
+            "scoap3/scoap3_110101",
+            "scoap3/scoap3_95957",
+            "scoap3/scoap3_69895"
+          ]
+        },
+        {
+          "query_id": "q35",
+          "query": "First Directional Measurement of Sub-MeV Solar Neutrinos with",
+          "precision": 0.2,
+          "recall": 1.0,
+          "results": [
+            "scoap3/scoap3_68930",
+            "scoap3/scoap3_991",
+            "scoap3/scoap3_82103",
+            "scoap3/scoap3_83928",
+            "scoap3/scoap3_68922"
+          ]
+        },
+        {
+          "query_id": "q36",
+          "query": "Search for an Anomalous Production of Charged-Current e",
+          "precision": 0.0,
+          "recall": 0.0,
+          "results": [
+            "scoap3/scoap3_54840",
+            "scoap3/scoap3_102326",
+            "scoap3/scoap3_51686",
+            "scoap3/scoap3_83465",
+            "scoap3/scoap3_84530"
+          ]
+        },
+        {
+          "query_id": "q37",
+          "query": "Model independent tests of the Kerr bound with",
+          "precision": 0.2,
+          "recall": 1.0,
+          "results": [
+            "scoap3/scoap3_107475",
+            "scoap3/scoap3_77681",
+            "scoap3/scoap3_4692",
+            "scoap3/scoap3_113253",
+            "scoap3/scoap3_57539"
+          ]
+        },
+        {
+          "query_id": "q38",
+          "query": "An analytic effective model for hairy black holes",
+          "precision": 0.0,
+          "recall": 0.0,
+          "results": [
+            "scoap3/scoap3_55528",
+            "scoap3/scoap3_65118",
+            "scoap3/scoap3_57362",
+            "scoap3/scoap3_85933",
+            "scoap3/scoap3_113104"
+          ]
+        },
+        {
+          "query_id": "q39",
+          "query": "Can nuclear physics explain the anomaly observed in",
+          "precision": 0.0,
+          "recall": 0.0,
+          "results": [
+            "scoap3/scoap3_80490",
+            "scoap3/scoap3_50828",
+            "scoap3/scoap3_56054",
+            "scoap3/scoap3_23743",
+            "scoap3/scoap3_74678"
+          ]
+        },
+        {
+          "query_id": "q40",
+          "query": "Search for sub-GeV dark matter by annual modulation",
+          "precision": 0.0,
+          "recall": 0.0,
+          "results": [
+            "scoap3/scoap3_46877",
+            "scoap3/scoap3_67052",
+            "scoap3/scoap3_66290",
+            "scoap3/scoap3_23086",
+            "scoap3/scoap3_85263"
+          ]
+        },
+        {
+          "query_id": "q41",
+          "query": "Singular Field Redefinition between Witten s String Field",
+          "precision": 0.0,
+          "recall": 0.0,
+          "results": [
+            "scoap3/scoap3_21714",
+            "scoap3/scoap3_60474",
+            "scoap3/scoap3_45578",
+            "scoap3/scoap3_73833",
+            "scoap3/scoap3_107366"
+          ]
+        },
+        {
+          "query_id": "q42",
+          "query": "Anomaly flow by an Aharonov Bohm phase",
+          "precision": 0.2,
+          "recall": 1.0,
+          "results": [
+            "scoap3/scoap3_71180",
+            "scoap3/scoap3_69353",
+            "scoap3/scoap3_899",
+            "scoap3/scoap3_5169",
+            "scoap3/scoap3_78636"
+          ]
+        },
+        {
+          "query_id": "q43",
+          "query": "A study of stress-tensor distribution around the flux",
+          "precision": 0.2,
+          "recall": 1.0,
+          "results": [
+            "scoap3/scoap3_49599",
+            "scoap3/scoap3_102074",
+            "scoap3/scoap3_111485",
+            "scoap3/scoap3_105064",
+            "scoap3/scoap3_111088"
+          ]
+        },
+        {
+          "query_id": "q44",
+          "query": "Exotic hadrons with heavy flavors X Y Z",
+          "precision": 0.0,
+          "recall": 0.0,
+          "results": [
+            "scoap3/scoap3_11327",
+            "scoap3/scoap3_51685",
+            "scoap3/scoap3_20988",
+            "scoap3/scoap3_104670",
+            "scoap3/scoap3_14326"
           ]
         }
       ]
     },
     {
       "mode": "lemma",
-      "terms_in_index": 8034,
-      "avg_precision": 0.5,
-      "avg_recall": 0.5208,
+      "terms_in_index": 757004,
+      "avg_precision": 0.14545454545454548,
+      "avg_recall": 0.7272727272727273,
       "queries": [
         {
           "query_id": "q1",
-          "query": "ракеты носители",
-          "precision": 0.8,
-          "recall": 0.5,
+          "query": "Interacting Dark Matter and Deformed Dark Energy Nonminimally",
+          "precision": 0.2,
+          "recall": 1.0,
           "results": [
-            "ru_wikipedia/Космический_аппарат",
-            "ru_wikipedia/Ракета",
-            "ru_wikipedia/Циклограмма_пуска",
-            "ru_wikipedia/Аэрокосмическая_компания",
-            "ru_wikipedia/Стартовое_окно"
+            "scoap3/scoap3_18403",
+            "scoap3/scoap3_100621",
+            "scoap3/scoap3_59292",
+            "scoap3/scoap3_86261",
+            "scoap3/scoap3_72987"
           ]
         },
         {
           "query_id": "q2",
-          "query": "невесомость в космосе",
-          "precision": 0.6,
-          "recall": 0.75,
+          "query": "Exploring New Models in All Detail with SARAH",
+          "precision": 0.2,
+          "recall": 1.0,
           "results": [
-            "ru_wikipedia/Невесомость",
-            "ru_wikipedia/Биоспутник",
-            "ru_wikipedia/Искусственная_сила_тяжести",
-            "ru_wikipedia/Микрогравитация",
-            "ru_wikipedia/Космонавтика"
+            "scoap3/scoap3_101636",
+            "scoap3/scoap3_12496",
+            "scoap3/scoap3_96383",
+            "scoap3/scoap3_109582",
+            "scoap3/scoap3_89345"
           ]
         },
         {
           "query_id": "q3",
-          "query": "космическим мусором",
-          "precision": 0.4,
-          "recall": 0.5,
+          "query": "A Review of the Intrinsic Heavy Quark Content",
+          "precision": 0.2,
+          "recall": 1.0,
           "results": [
-            "ru_wikipedia/Реклама_в_космосе",
-            "ru_wikipedia/Синдром_Кесслера",
-            "ru_wikipedia/Страхование_космических_рисков",
-            "ru_wikipedia/Космическая_навигация",
-            "ru_wikipedia/Космический_аппарат"
+            "scoap3/scoap3_75735",
+            "scoap3/scoap3_55349",
+            "scoap3/scoap3_13528",
+            "scoap3/scoap3_13364",
+            "scoap3/scoap3_48210"
           ]
         },
         {
           "query_id": "q4",
-          "query": "посадка на марс",
-          "precision": 0.8,
-          "recall": 0.571,
+          "query": "Noncommutative Wormhole Solutions in Einstein Gauss-Bonnet Gravity",
+          "precision": 0.2,
+          "recall": 1.0,
           "results": [
-            "ru_wikipedia/Небесный_кран",
-            "ru_wikipedia/Спускаемый_аппарат",
-            "ru_wikipedia/Космонавтика",
-            "ru_wikipedia/Автоматическая_межпланетная_станция",
-            "ru_wikipedia/Мягкая_посадка"
+            "scoap3/scoap3_15042",
+            "scoap3/scoap3_85525",
+            "scoap3/scoap3_104083",
+            "scoap3/scoap3_75403",
+            "scoap3/scoap3_57159"
           ]
         },
         {
           "query_id": "q5",
-          "query": "солнечные паруса",
-          "precision": 0.6,
-          "recall": 0.75,
+          "query": "Fixing three dimensional geometries from entanglement entropies of",
+          "precision": 0.0,
+          "recall": 0.0,
           "results": [
-            "ru_wikipedia/Солнечный_парус",
-            "ru_wikipedia/Двигательная_установка_космического_аппарата",
-            "ru_wikipedia/Космический_аппарат",
-            "ru_wikipedia/Автоматическая_межпланетная_станция",
-            "ru_wikipedia/Точки_Лагранжа"
+            "scoap3/scoap3_105515",
+            "scoap3/scoap3_58890",
+            "scoap3/scoap3_40983",
+            "scoap3/scoap3_81335",
+            "scoap3/scoap3_43391"
           ]
         },
         {
           "query_id": "q6",
-          "query": "коммерческая космонавтика",
-          "precision": 0.4,
-          "recall": 0.333,
+          "query": "Broken S L S R flavor symmetry and",
+          "precision": 0.0,
+          "recall": 0.0,
           "results": [
-            "ru_wikipedia/Космонавтика",
-            "ru_wikipedia/Коридор_входа",
-            "ru_wikipedia/Циклограмма_пуска",
-            "ru_wikipedia/Мягкая_посадка",
-            "ru_wikipedia/Коммерциализация_космической_деятельности"
+            "scoap3/scoap3_105467",
+            "scoap3/scoap3_14373",
+            "scoap3/scoap3_104975",
+            "scoap3/scoap3_111776",
+            "scoap3/scoap3_107651"
           ]
         },
         {
           "query_id": "q7",
-          "query": "собаки в космосе",
-          "precision": 0.4,
-          "recall": 0.5,
+          "query": "Positivity in electron-positron scattering testing the axiomatic quantum",
+          "precision": 0.2,
+          "recall": 1.0,
           "results": [
-            "ru_wikipedia/Биоспутник",
-            "ru_wikipedia/Ракета",
-            "ru_wikipedia/Суборбитальный_космический_полёт",
-            "ru_wikipedia/Список_рекордов_в_космонавтике",
-            "ru_wikipedia/Премия_Хайнлайна_за_достижения_в_коммерциализации_космоса"
+            "scoap3/scoap3_67371",
+            "scoap3/scoap3_47948",
+            "scoap3/scoap3_98036",
+            "scoap3/scoap3_79167",
+            "scoap3/scoap3_103658"
           ]
         },
         {
           "query_id": "q8",
-          "query": "гравитационный манёвр",
-          "precision": 0.4,
-          "recall": 0.333,
+          "query": "Physics potential of searching for decays in JUNOSupported",
+          "precision": 0.2,
+          "recall": 1.0,
           "results": [
-            "ru_wikipedia/Пролётная_аномалия",
-            "ru_wikipedia/Двигательная_установка_космического_аппарата",
-            "ru_wikipedia/Автоматическая_межпланетная_станция",
-            "ru_wikipedia/Точки_Лагранжа",
-            "ru_wikipedia/Невесомость"
+            "scoap3/scoap3_20015",
+            "scoap3/scoap3_54245",
+            "scoap3/scoap3_110189",
+            "scoap3/scoap3_70615",
+            "scoap3/scoap3_49656"
           ]
         },
         {
           "query_id": "q9",
-          "query": "точек лагранжа",
+          "query": "Polarized equatorial emission and hot spots around black",
           "precision": 0.2,
-          "recall": 0.333,
+          "recall": 1.0,
           "results": [
-            "ru_wikipedia/Точки_Лагранжа",
-            "ru_wikipedia/Космонавтика",
-            "ru_wikipedia/Невесомость"
+            "scoap3/scoap3_101522",
+            "scoap3/scoap3_110892",
+            "scoap3/scoap3_104113",
+            "scoap3/scoap3_60514",
+            "scoap3/scoap3_88607"
           ]
         },
         {
           "query_id": "q10",
-          "query": "выход в открытый космос",
+          "query": "Statefinder hierarchy exploration of the extended Ricci dark",
           "precision": 0.2,
-          "recall": 0.25,
+          "recall": 1.0,
           "results": [
-            "ru_wikipedia/Список_рекордов_в_космонавтике",
-            "ru_wikipedia/Микрогравитация",
-            "ru_wikipedia/Двигательная_установка_космического_аппарата",
-            "ru_wikipedia/Ракета",
-            "ru_wikipedia/Суборбитальный_космический_полёт"
+            "scoap3/scoap3_10748",
+            "scoap3/scoap3_100456",
+            "scoap3/scoap3_104241",
+            "scoap3/scoap3_77116",
+            "scoap3/scoap3_99232"
           ]
         },
         {
           "query_id": "q11",
-          "query": "interplanetary missions",
-          "precision": 0.6,
-          "recall": 0.429,
+          "query": "Could a thin-shell configuration lie hidden within the",
+          "precision": 0.2,
+          "recall": 1.0,
           "results": [
-            "simple_wikipedia/Interstellar_travel",
-            "ru_wikipedia/Двигательная_установка_космического_аппарата",
-            "simple_wikipedia/Interplanetary_spaceflight",
-            "simple_wikipedia/InSight",
-            "simple_wikipedia/Spaceflight"
+            "scoap3/scoap3_103631",
+            "scoap3/scoap3_113480",
+            "scoap3/scoap3_105527",
+            "scoap3/scoap3_85010",
+            "scoap3/scoap3_113430"
           ]
         },
         {
           "query_id": "q12",
-          "query": "dogs in space",
-          "precision": 0.6,
+          "query": "Prospects of V us and axial vector form",
+          "precision": 0.0,
+          "recall": 0.0,
+          "results": [
+            "scoap3/scoap3_88554",
+            "scoap3/scoap3_59321",
+            "scoap3/scoap3_61396",
+            "scoap3/scoap3_101262",
+            "scoap3/scoap3_68617"
+          ]
+        },
+        {
+          "query_id": "q13",
+          "query": "Dynamics of cosmic strings with higher-dimensional windings",
+          "precision": 0.2,
           "recall": 1.0,
           "results": [
-            "simple_wikipedia/Laika",
-            "simple_wikipedia/Félicette",
-            "simple_wikipedia/Exploration_of_Mars",
-            "simple_wikipedia/Spaceflight",
-            "simple_wikipedia/Ariane_5"
+            "scoap3/scoap3_10789",
+            "scoap3/scoap3_100582",
+            "scoap3/scoap3_104327",
+            "scoap3/scoap3_74643",
+            "scoap3/scoap3_82721"
+          ]
+        },
+        {
+          "query_id": "q14",
+          "query": "Phenomenology of left-right symmetric dark matter",
+          "precision": 0.0,
+          "recall": 0.0,
+          "results": [
+            "scoap3/scoap3_42870",
+            "scoap3/scoap3_53767",
+            "scoap3/scoap3_89201",
+            "scoap3/scoap3_62997",
+            "scoap3/scoap3_15918"
+          ]
+        },
+        {
+          "query_id": "q15",
+          "query": "Chiral charge erasure via thermal fluctuations of magnetic",
+          "precision": 0.2,
+          "recall": 1.0,
+          "results": [
+            "scoap3/scoap3_15561",
+            "scoap3/scoap3_109328",
+            "scoap3/scoap3_80577",
+            "scoap3/scoap3_106570",
+            "scoap3/scoap3_47230"
+          ]
+        },
+        {
+          "query_id": "q16",
+          "query": "Axion mass limit from observations of the neutron",
+          "precision": 0.0,
+          "recall": 0.0,
+          "results": [
+            "scoap3/scoap3_81827",
+            "scoap3/scoap3_51705",
+            "scoap3/scoap3_24791",
+            "scoap3/scoap3_81757",
+            "scoap3/scoap3_108684"
+          ]
+        },
+        {
+          "query_id": "q17",
+          "query": "Magnetised bounds for conformal field theories",
+          "precision": 0.2,
+          "recall": 1.0,
+          "results": [
+            "scoap3/scoap3_19137",
+            "scoap3/scoap3_98486",
+            "scoap3/scoap3_101778",
+            "scoap3/scoap3_104336",
+            "scoap3/scoap3_69236"
+          ]
+        },
+        {
+          "query_id": "q18",
+          "query": "Holographic correlators from multi-mode AdS bubbling geometries",
+          "precision": 0.2,
+          "recall": 1.0,
+          "results": [
+            "scoap3/scoap3_107097",
+            "scoap3/scoap3_110534",
+            "scoap3/scoap3_104985",
+            "scoap3/scoap3_44381",
+            "scoap3/scoap3_60392"
+          ]
+        },
+        {
+          "query_id": "q19",
+          "query": "Non-anomalous non-invertible symmetries in D from gapped boundaries",
+          "precision": 0.2,
+          "recall": 1.0,
+          "results": [
+            "scoap3/scoap3_106967",
+            "scoap3/scoap3_103323",
+            "scoap3/scoap3_107086",
+            "scoap3/scoap3_105443",
+            "scoap3/scoap3_101335"
+          ]
+        },
+        {
+          "query_id": "q20",
+          "query": "Significance of soft-scale breaking on primordial black hole",
+          "precision": 0.2,
+          "recall": 1.0,
+          "results": [
+            "scoap3/scoap3_102191",
+            "scoap3/scoap3_95229",
+            "scoap3/scoap3_107272",
+            "scoap3/scoap3_84897",
+            "scoap3/scoap3_100799"
+          ]
+        },
+        {
+          "query_id": "q21",
+          "query": "Measurement of the cross-section ratio S J S",
+          "precision": 0.0,
+          "recall": 0.0,
+          "results": [
+            "scoap3/scoap3_105190",
+            "scoap3/scoap3_103299",
+            "scoap3/scoap3_110764",
+            "scoap3/scoap3_102630",
+            "scoap3/scoap3_106629"
+          ]
+        },
+        {
+          "query_id": "q22",
+          "query": "Off-shell scalar products for the XXZ spin chain",
+          "precision": 0.2,
+          "recall": 1.0,
+          "results": [
+            "scoap3/scoap3_9185",
+            "scoap3/scoap3_8714",
+            "scoap3/scoap3_71508",
+            "scoap3/scoap3_9627",
+            "scoap3/scoap3_50678"
+          ]
+        },
+        {
+          "query_id": "q23",
+          "query": "Gravitational threshold corrections in non-supersymmetric heterotic strings",
+          "precision": 0.2,
+          "recall": 1.0,
+          "results": [
+            "scoap3/scoap3_18713",
+            "scoap3/scoap3_20045",
+            "scoap3/scoap3_104359",
+            "scoap3/scoap3_105900",
+            "scoap3/scoap3_106234"
+          ]
+        },
+        {
+          "query_id": "q24",
+          "query": "Analysis of the pentaquark states in the diquark",
+          "precision": 0.2,
+          "recall": 1.0,
+          "results": [
+            "scoap3/scoap3_17266",
+            "scoap3/scoap3_47819",
+            "scoap3/scoap3_89495",
+            "scoap3/scoap3_68268",
+            "scoap3/scoap3_49660"
+          ]
+        },
+        {
+          "query_id": "q25",
+          "query": "Analysis of the resonance and K scattering length",
+          "precision": 0.2,
+          "recall": 1.0,
+          "results": [
+            "scoap3/scoap3_101280",
+            "scoap3/scoap3_82898",
+            "scoap3/scoap3_68145",
+            "scoap3/scoap3_12253",
+            "scoap3/scoap3_111751"
+          ]
+        },
+        {
+          "query_id": "q26",
+          "query": "Machine learning representation of the F structure function",
+          "precision": 0.2,
+          "recall": 1.0,
+          "results": [
+            "scoap3/scoap3_66783",
+            "scoap3/scoap3_106438",
+            "scoap3/scoap3_76590",
+            "scoap3/scoap3_84112",
+            "scoap3/scoap3_103976"
+          ]
+        },
+        {
+          "query_id": "q27",
+          "query": "Collision centrality and energy dependence of strange hadron",
+          "precision": 0.2,
+          "recall": 1.0,
+          "results": [
+            "scoap3/scoap3_76452",
+            "scoap3/scoap3_95010",
+            "scoap3/scoap3_98561",
+            "scoap3/scoap3_51954",
+            "scoap3/scoap3_75705"
+          ]
+        },
+        {
+          "query_id": "q28",
+          "query": "Measurement of J at forward and backward rapidity",
+          "precision": 0.2,
+          "recall": 1.0,
+          "results": [
+            "scoap3/scoap3_19506",
+            "scoap3/scoap3_54785",
+            "scoap3/scoap3_10458",
+            "scoap3/scoap3_4846",
+            "scoap3/scoap3_77303"
+          ]
+        },
+        {
+          "query_id": "q29",
+          "query": "Consistency checks for two-body finite-volume matrix elements II",
+          "precision": 0.2,
+          "recall": 1.0,
+          "results": [
+            "scoap3/scoap3_51402",
+            "scoap3/scoap3_54537",
+            "scoap3/scoap3_61757",
+            "scoap3/scoap3_75697",
+            "scoap3/scoap3_88377"
+          ]
+        },
+        {
+          "query_id": "q30",
+          "query": "Radiative meson and glueball decays in the Witten-Sakai-Sugimoto",
+          "precision": 0.2,
+          "recall": 1.0,
+          "results": [
+            "scoap3/scoap3_78328",
+            "scoap3/scoap3_84651",
+            "scoap3/scoap3_79110",
+            "scoap3/scoap3_51862",
+            "scoap3/scoap3_67209"
+          ]
+        },
+        {
+          "query_id": "q31",
+          "query": "Complete analysis of the Landau-gauge three-gluon vertex from",
+          "precision": 0.2,
+          "recall": 1.0,
+          "results": [
+            "scoap3/scoap3_86793",
+            "scoap3/scoap3_66558",
+            "scoap3/scoap3_73505",
+            "scoap3/scoap3_110498",
+            "scoap3/scoap3_24416"
+          ]
+        },
+        {
+          "query_id": "q32",
+          "query": "Effective Goldstone dynamics on cosmological spacetimes",
+          "precision": 0.2,
+          "recall": 1.0,
+          "results": [
+            "scoap3/scoap3_108792",
+            "scoap3/scoap3_83586",
+            "scoap3/scoap3_96798",
+            "scoap3/scoap3_45141",
+            "scoap3/scoap3_72487"
+          ]
+        },
+        {
+          "query_id": "q33",
+          "query": "New Constraints on Dark Photon Dark Matter with",
+          "precision": 0.0,
+          "recall": 0.0,
+          "results": [
+            "scoap3/scoap3_42739",
+            "scoap3/scoap3_107609",
+            "scoap3/scoap3_47986",
+            "scoap3/scoap3_63475",
+            "scoap3/scoap3_72316"
+          ]
+        },
+        {
+          "query_id": "q34",
+          "query": "Isotensor Scattering with a Resonant Subsystem from QCD",
+          "precision": 0.2,
+          "recall": 1.0,
+          "results": [
+            "scoap3/scoap3_111010",
+            "scoap3/scoap3_85694",
+            "scoap3/scoap3_110101",
+            "scoap3/scoap3_95957",
+            "scoap3/scoap3_69895"
+          ]
+        },
+        {
+          "query_id": "q35",
+          "query": "First Directional Measurement of Sub-MeV Solar Neutrinos with",
+          "precision": 0.2,
+          "recall": 1.0,
+          "results": [
+            "scoap3/scoap3_68930",
+            "scoap3/scoap3_991",
+            "scoap3/scoap3_82103",
+            "scoap3/scoap3_83928",
+            "scoap3/scoap3_68922"
+          ]
+        },
+        {
+          "query_id": "q36",
+          "query": "Search for an Anomalous Production of Charged-Current e",
+          "precision": 0.0,
+          "recall": 0.0,
+          "results": [
+            "scoap3/scoap3_54840",
+            "scoap3/scoap3_102326",
+            "scoap3/scoap3_51686",
+            "scoap3/scoap3_83465",
+            "scoap3/scoap3_98974"
+          ]
+        },
+        {
+          "query_id": "q37",
+          "query": "Model independent tests of the Kerr bound with",
+          "precision": 0.2,
+          "recall": 1.0,
+          "results": [
+            "scoap3/scoap3_107475",
+            "scoap3/scoap3_77681",
+            "scoap3/scoap3_4692",
+            "scoap3/scoap3_113253",
+            "scoap3/scoap3_57539"
+          ]
+        },
+        {
+          "query_id": "q38",
+          "query": "An analytic effective model for hairy black holes",
+          "precision": 0.2,
+          "recall": 1.0,
+          "results": [
+            "scoap3/scoap3_55528",
+            "scoap3/scoap3_65118",
+            "scoap3/scoap3_57362",
+            "scoap3/scoap3_15144",
+            "scoap3/scoap3_25444"
+          ]
+        },
+        {
+          "query_id": "q39",
+          "query": "Can nuclear physics explain the anomaly observed in",
+          "precision": 0.0,
+          "recall": 0.0,
+          "results": [
+            "scoap3/scoap3_80490",
+            "scoap3/scoap3_50828",
+            "scoap3/scoap3_109579",
+            "scoap3/scoap3_23743",
+            "scoap3/scoap3_84199"
+          ]
+        },
+        {
+          "query_id": "q40",
+          "query": "Search for sub-GeV dark matter by annual modulation",
+          "precision": 0.0,
+          "recall": 0.0,
+          "results": [
+            "scoap3/scoap3_46877",
+            "scoap3/scoap3_66290",
+            "scoap3/scoap3_67052",
+            "scoap3/scoap3_23086",
+            "scoap3/scoap3_85263"
+          ]
+        },
+        {
+          "query_id": "q41",
+          "query": "Singular Field Redefinition between Witten s String Field",
+          "precision": 0.0,
+          "recall": 0.0,
+          "results": [
+            "scoap3/scoap3_21714",
+            "scoap3/scoap3_60474",
+            "scoap3/scoap3_45578",
+            "scoap3/scoap3_73833",
+            "scoap3/scoap3_107366"
+          ]
+        },
+        {
+          "query_id": "q42",
+          "query": "Anomaly flow by an Aharonov Bohm phase",
+          "precision": 0.2,
+          "recall": 1.0,
+          "results": [
+            "scoap3/scoap3_71180",
+            "scoap3/scoap3_69353",
+            "scoap3/scoap3_899",
+            "scoap3/scoap3_5169",
+            "scoap3/scoap3_78636"
+          ]
+        },
+        {
+          "query_id": "q43",
+          "query": "A study of stress-tensor distribution around the flux",
+          "precision": 0.2,
+          "recall": 1.0,
+          "results": [
+            "scoap3/scoap3_49599",
+            "scoap3/scoap3_62687",
+            "scoap3/scoap3_102074",
+            "scoap3/scoap3_111485",
+            "scoap3/scoap3_109742"
+          ]
+        },
+        {
+          "query_id": "q44",
+          "query": "Exotic hadrons with heavy flavors X Y Z",
+          "precision": 0.0,
+          "recall": 0.0,
+          "results": [
+            "scoap3/scoap3_11327",
+            "scoap3/scoap3_51685",
+            "scoap3/scoap3_20988",
+            "scoap3/scoap3_104670",
+            "scoap3/scoap3_14326"
           ]
         }
       ]

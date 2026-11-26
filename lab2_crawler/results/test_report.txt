@@ -11,47 +11,34 @@ test_fragment_removed (__main__.TestNormalize.test_fragment_removed) ... ok
 test_host_lowercase (__main__.TestNormalize.test_host_lowercase) ... ok
 test_percent_decoded (__main__.TestNormalize.test_percent_decoded) ... ok
 test_trailing_slash (__main__.TestNormalize.test_trailing_slash) ... ok
-test_deferred_page_waits_until_due (__main__.TestStorage.test_deferred_page_waits_until_due) ... ok
-test_old_documents (__main__.TestStorage.test_old_documents) ... ok
-test_queue_no_duplicates (__main__.TestStorage.test_queue_no_duplicates) ... ok
-test_queue_order (__main__.TestStorage.test_queue_order) ... ok
-test_save_and_get (__main__.TestStorage.test_save_and_get) ... ok
-test_quoted_values (__main__.TestYaml.test_quoted_values) ... ok
-test_real_config (__main__.TestYaml.test_real_config) ... ok
-test_sections_and_types (__main__.TestYaml.test_sections_and_types) ... ok
-
-----------------------------------------------------------------------
-Ran 21 tests in 5.911s
-
-OK
-new http://127.0.0.1:65033/index.html 140
-new http://127.0.0.1:65033/a.html 86
-new http://127.0.0.1:65033/b.html 32
-new http://127.0.0.1:65033/c.html 56
+test_resume_uses_the_existing_complete_manifest (__main__.TestSharedCorpus.test_resume_uses_the_existing_complete_manifest) ... new http://127.0.0.1:52336/index.html 140
+new http://127.0.0.1:52336/a.html 86
+new http://127.0.0.1:52336/b.html 32
+new http://127.0.0.1:52336/c.html 56
 queue is empty
 processed: 4
 new: 4 updated: 0 unchanged: 0 errors: 0
 documents in db: 4
 left in queue: 0
-error http://127.0.0.1:65046/missing.html HTTP Error 404: File not found
+error http://127.0.0.1:52341/missing.html HTTP Error 404: File not found
 queue is empty
 processed: 1
 new: 0 updated: 0 unchanged: 0 errors: 1
 documents in db: 0
 left in queue: 0
-new http://127.0.0.1:65053/index.html 140
-new http://127.0.0.1:65053/a.html 86
-new http://127.0.0.1:65053/b.html 32
-new http://127.0.0.1:65053/c.html 56
+new http://127.0.0.1:52351/index.html 140
+new http://127.0.0.1:52351/a.html 86
+new http://127.0.0.1:52351/b.html 32
+new http://127.0.0.1:52351/c.html 56
 queue is empty
 processed: 4
 new: 4 updated: 0 unchanged: 0 errors: 0
 documents in db: 4
 left in queue: 0
-new http://127.0.0.1:65059/index.html 140
-new http://127.0.0.1:65059/a.html 86
-new http://127.0.0.1:65059/b.html 32
-new http://127.0.0.1:65059/c.html 56
+new http://127.0.0.1:52356/index.html 140
+new http://127.0.0.1:52356/a.html 86
+new http://127.0.0.1:52356/b.html 32
+new http://127.0.0.1:52356/c.html 56
 queue is empty
 processed: 4
 new: 4 updated: 0 unchanged: 0 errors: 0
@@ -62,44 +49,60 @@ processed: 0
 new: 0 updated: 0 unchanged: 0 errors: 0
 documents in db: 4
 left in queue: 0
-new http://127.0.0.1:65064/index.html 140
-new http://127.0.0.1:65064/a.html 86
-new http://127.0.0.1:65064/b.html 32
-new http://127.0.0.1:65064/c.html 56
+new http://127.0.0.1:52361/index.html 140
+new http://127.0.0.1:52361/a.html 86
+new http://127.0.0.1:52361/b.html 32
+new http://127.0.0.1:52361/c.html 56
 queue is empty
 processed: 4
 new: 4 updated: 0 unchanged: 0 errors: 0
 documents in db: 4
 left in queue: 0
-unchanged http://127.0.0.1:65064/a.html
-updated http://127.0.0.1:65064/b.html 40
-unchanged http://127.0.0.1:65064/c.html
-unchanged http://127.0.0.1:65064/index.html
+unchanged http://127.0.0.1:52361/a.html
+updated http://127.0.0.1:52361/b.html 40
+unchanged http://127.0.0.1:52361/c.html
+unchanged http://127.0.0.1:52361/index.html
 queue is empty
 processed: 4
 new: 0 updated: 1 unchanged: 3 errors: 0
 documents in db: 4
 left in queue: 0
-new http://127.0.0.1:65093/index.html 140
-new http://127.0.0.1:65093/a.html 86
+new http://127.0.0.1:52387/index.html 140
+new http://127.0.0.1:52387/a.html 86
 processed: 2
 new: 2 updated: 0 unchanged: 0 errors: 0
 documents in db: 2
 left in queue: 2
-new http://127.0.0.1:65093/b.html 32
-new http://127.0.0.1:65093/c.html 56
+new http://127.0.0.1:52387/b.html 32
+new http://127.0.0.1:52387/c.html 56
 queue is empty
 processed: 2
 new: 2 updated: 0 unchanged: 0 errors: 0
 documents in db: 4
 left in queue: 0
-error http://127.0.0.1:65098/index.html HTTP Error 503: Service Unavailable
+error http://127.0.0.1:52392/index.html HTTP Error 503: Service Unavailable
 processed: 1
 new: 0 updated: 0 unchanged: 0 errors: 1
 documents in db: 0
 left in queue: 1
-new http://127.0.0.1:65098/index.html 140
+new http://127.0.0.1:52392/index.html 140
 processed: 1
 new: 1 updated: 0 unchanged: 0 errors: 0
 documents in db: 1
 left in queue: 2
+accepted 1 remaining candidates 0
+accepted 1 full-text articles
+ok
+test_deferred_page_waits_until_due (__main__.TestStorage.test_deferred_page_waits_until_due) ... ok
+test_old_documents (__main__.TestStorage.test_old_documents) ... ok
+test_queue_no_duplicates (__main__.TestStorage.test_queue_no_duplicates) ... ok
+test_queue_order (__main__.TestStorage.test_queue_order) ... ok
+test_save_and_get (__main__.TestStorage.test_save_and_get) ... ok
+test_quoted_values (__main__.TestYaml.test_quoted_values) ... ok
+test_real_config (__main__.TestYaml.test_real_config) ... ok
+test_sections_and_types (__main__.TestYaml.test_sections_and_types) ... ok
+
+----------------------------------------------------------------------
+Ran 22 tests in 5.945s
+
+OK

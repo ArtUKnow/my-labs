@@ -1,0 +1,944 @@
+{
+  "fingerprint": "43112fb86b084455af42b0adb3ffe1c9cf9190cec030ce8c13e8f1901ac0f546",
+  "evaluation_documents": 32494,
+  "k": 5,
+  "task": "known_item_title_retrieval",
+  "query_count": 44,
+  "terms_in_index": {
+    "raw": 790687,
+    "stem": 756867,
+    "lemma": 757004
+  },
+  "runs": {
+    "raw": {
+      "q1": [
+        "scoap3/scoap3_18403",
+        "scoap3/scoap3_59292",
+        "scoap3/scoap3_18065",
+        "scoap3/scoap3_65324",
+        "scoap3/scoap3_83426"
+      ],
+      "q2": [
+        "scoap3/scoap3_12496",
+        "scoap3/scoap3_73326",
+        "scoap3/scoap3_12095",
+        "scoap3/scoap3_23289",
+        "scoap3/scoap3_104281"
+      ],
+      "q3": [
+        "scoap3/scoap3_13528",
+        "scoap3/scoap3_13364",
+        "scoap3/scoap3_55349",
+        "scoap3/scoap3_48210",
+        "scoap3/scoap3_68981"
+      ],
+      "q4": [
+        "scoap3/scoap3_15042",
+        "scoap3/scoap3_85525",
+        "scoap3/scoap3_104083",
+        "scoap3/scoap3_23590",
+        "scoap3/scoap3_104825"
+      ],
+      "q5": [
+        "scoap3/scoap3_105487",
+        "scoap3/scoap3_95697",
+        "scoap3/scoap3_107804",
+        "scoap3/scoap3_76511",
+        "scoap3/scoap3_40225"
+      ],
+      "q6": [
+        "scoap3/scoap3_105467",
+        "scoap3/scoap3_104975",
+        "scoap3/scoap3_14373",
+        "scoap3/scoap3_111776",
+        "scoap3/scoap3_107651"
+      ],
+      "q7": [
+        "scoap3/scoap3_67371",
+        "scoap3/scoap3_68216",
+        "scoap3/scoap3_53730",
+        "scoap3/scoap3_70696",
+        "scoap3/scoap3_49477"
+      ],
+      "q8": [
+        "scoap3/scoap3_20015",
+        "scoap3/scoap3_104805",
+        "scoap3/scoap3_79281",
+        "scoap3/scoap3_110189",
+        "scoap3/scoap3_72426"
+      ],
+      "q9": [
+        "scoap3/scoap3_101522",
+        "scoap3/scoap3_110892",
+        "scoap3/scoap3_60514",
+        "scoap3/scoap3_104113",
+        "scoap3/scoap3_78149"
+      ],
+      "q10": [
+        "scoap3/scoap3_10748",
+        "scoap3/scoap3_100456",
+        "scoap3/scoap3_77116",
+        "scoap3/scoap3_99232",
+        "scoap3/scoap3_99845"
+      ],
+      "q11": [
+        "scoap3/scoap3_103631",
+        "scoap3/scoap3_113480",
+        "scoap3/scoap3_105527",
+        "scoap3/scoap3_113430",
+        "scoap3/scoap3_108144"
+      ],
+      "q12": [
+        "scoap3/scoap3_59321",
+        "scoap3/scoap3_88554",
+        "scoap3/scoap3_61396",
+        "scoap3/scoap3_101262",
+        "scoap3/scoap3_102809"
+      ],
+      "q13": [
+        "scoap3/scoap3_10789",
+        "scoap3/scoap3_100582",
+        "scoap3/scoap3_104327",
+        "scoap3/scoap3_74643",
+        "scoap3/scoap3_82721"
+      ],
+      "q14": [
+        "scoap3/scoap3_42870",
+        "scoap3/scoap3_53767",
+        "scoap3/scoap3_89201",
+        "scoap3/scoap3_62997",
+        "scoap3/scoap3_15918"
+      ],
+      "q15": [
+        "scoap3/scoap3_15561",
+        "scoap3/scoap3_109328",
+        "scoap3/scoap3_80577",
+        "scoap3/scoap3_106570",
+        "scoap3/scoap3_47230"
+      ],
+      "q16": [
+        "scoap3/scoap3_81827",
+        "scoap3/scoap3_24791",
+        "scoap3/scoap3_81757",
+        "scoap3/scoap3_100275",
+        "scoap3/scoap3_108684"
+      ],
+      "q17": [
+        "scoap3/scoap3_101778",
+        "scoap3/scoap3_104336",
+        "scoap3/scoap3_51331",
+        "scoap3/scoap3_79872",
+        "scoap3/scoap3_48530"
+      ],
+      "q18": [
+        "scoap3/scoap3_107097",
+        "scoap3/scoap3_3939",
+        "scoap3/scoap3_107029",
+        "scoap3/scoap3_102400",
+        "scoap3/scoap3_65172"
+      ],
+      "q19": [
+        "scoap3/scoap3_106967",
+        "scoap3/scoap3_103323",
+        "scoap3/scoap3_105443",
+        "scoap3/scoap3_107121",
+        "scoap3/scoap3_107086"
+      ],
+      "q20": [
+        "scoap3/scoap3_102191",
+        "scoap3/scoap3_95229",
+        "scoap3/scoap3_84897",
+        "scoap3/scoap3_100799",
+        "scoap3/scoap3_88357"
+      ],
+      "q21": [
+        "scoap3/scoap3_105190",
+        "scoap3/scoap3_103299",
+        "scoap3/scoap3_110764",
+        "scoap3/scoap3_102630",
+        "scoap3/scoap3_106629"
+      ],
+      "q22": [
+        "scoap3/scoap3_9185",
+        "scoap3/scoap3_9627",
+        "scoap3/scoap3_71508",
+        "scoap3/scoap3_50678",
+        "scoap3/scoap3_11557"
+      ],
+      "q23": [
+        "scoap3/scoap3_18713",
+        "scoap3/scoap3_20045",
+        "scoap3/scoap3_104359",
+        "scoap3/scoap3_106234",
+        "scoap3/scoap3_105900"
+      ],
+      "q24": [
+        "scoap3/scoap3_17266",
+        "scoap3/scoap3_89495",
+        "scoap3/scoap3_49660",
+        "scoap3/scoap3_47819",
+        "scoap3/scoap3_66758"
+      ],
+      "q25": [
+        "scoap3/scoap3_82898",
+        "scoap3/scoap3_12253",
+        "scoap3/scoap3_100054",
+        "scoap3/scoap3_85381",
+        "scoap3/scoap3_107264"
+      ],
+      "q26": [
+        "scoap3/scoap3_66783",
+        "scoap3/scoap3_76590",
+        "scoap3/scoap3_103976",
+        "scoap3/scoap3_108551",
+        "scoap3/scoap3_97152"
+      ],
+      "q27": [
+        "scoap3/scoap3_51954",
+        "scoap3/scoap3_95010",
+        "scoap3/scoap3_9992",
+        "scoap3/scoap3_61737",
+        "scoap3/scoap3_76452"
+      ],
+      "q28": [
+        "scoap3/scoap3_19506",
+        "scoap3/scoap3_54785",
+        "scoap3/scoap3_10458",
+        "scoap3/scoap3_4846",
+        "scoap3/scoap3_718"
+      ],
+      "q29": [
+        "scoap3/scoap3_51402",
+        "scoap3/scoap3_61757",
+        "scoap3/scoap3_54537",
+        "scoap3/scoap3_96123",
+        "scoap3/scoap3_60739"
+      ],
+      "q30": [
+        "scoap3/scoap3_78328",
+        "scoap3/scoap3_84651",
+        "scoap3/scoap3_51862",
+        "scoap3/scoap3_79110",
+        "scoap3/scoap3_67209"
+      ],
+      "q31": [
+        "scoap3/scoap3_86793",
+        "scoap3/scoap3_66558",
+        "scoap3/scoap3_73505",
+        "scoap3/scoap3_110498",
+        "scoap3/scoap3_24416"
+      ],
+      "q32": [
+        "scoap3/scoap3_108792",
+        "scoap3/scoap3_83586",
+        "scoap3/scoap3_96798",
+        "scoap3/scoap3_45141",
+        "scoap3/scoap3_72487"
+      ],
+      "q33": [
+        "scoap3/scoap3_42739",
+        "scoap3/scoap3_107609",
+        "scoap3/scoap3_63475",
+        "scoap3/scoap3_56835",
+        "scoap3/scoap3_47986"
+      ],
+      "q34": [
+        "scoap3/scoap3_111010",
+        "scoap3/scoap3_110101",
+        "scoap3/scoap3_69895",
+        "scoap3/scoap3_100623",
+        "scoap3/scoap3_105211"
+      ],
+      "q35": [
+        "scoap3/scoap3_68930",
+        "scoap3/scoap3_68922",
+        "scoap3/scoap3_53140",
+        "scoap3/scoap3_991",
+        "scoap3/scoap3_82103"
+      ],
+      "q36": [
+        "scoap3/scoap3_54840",
+        "scoap3/scoap3_102326",
+        "scoap3/scoap3_51686",
+        "scoap3/scoap3_83465",
+        "scoap3/scoap3_84530"
+      ],
+      "q37": [
+        "scoap3/scoap3_57539",
+        "scoap3/scoap3_10857",
+        "scoap3/scoap3_11003",
+        "scoap3/scoap3_4392",
+        "scoap3/scoap3_108857"
+      ],
+      "q38": [
+        "scoap3/scoap3_55528",
+        "scoap3/scoap3_65118",
+        "scoap3/scoap3_25444",
+        "scoap3/scoap3_15144",
+        "scoap3/scoap3_78486"
+      ],
+      "q39": [
+        "scoap3/scoap3_80490",
+        "scoap3/scoap3_50828",
+        "scoap3/scoap3_56054",
+        "scoap3/scoap3_84199",
+        "scoap3/scoap3_74678"
+      ],
+      "q40": [
+        "scoap3/scoap3_46877",
+        "scoap3/scoap3_67052",
+        "scoap3/scoap3_66290",
+        "scoap3/scoap3_23086",
+        "scoap3/scoap3_64254"
+      ],
+      "q41": [
+        "scoap3/scoap3_107366",
+        "scoap3/scoap3_99717",
+        "scoap3/scoap3_60474",
+        "scoap3/scoap3_21714",
+        "scoap3/scoap3_103516"
+      ],
+      "q42": [
+        "scoap3/scoap3_71180",
+        "scoap3/scoap3_69353",
+        "scoap3/scoap3_899",
+        "scoap3/scoap3_5169",
+        "scoap3/scoap3_78636"
+      ],
+      "q43": [
+        "scoap3/scoap3_49599",
+        "scoap3/scoap3_102074",
+        "scoap3/scoap3_111485",
+        "scoap3/scoap3_105064",
+        "scoap3/scoap3_111088"
+      ],
+      "q44": [
+        "scoap3/scoap3_51685",
+        "scoap3/scoap3_20988",
+        "scoap3/scoap3_15980",
+        "scoap3/scoap3_102631",
+        "scoap3/scoap3_103019"
+      ]
+    },
+    "stem": {
+      "q1": [
+        "scoap3/scoap3_18403",
+        "scoap3/scoap3_65324",
+        "scoap3/scoap3_69640",
+        "scoap3/scoap3_101843",
+        "scoap3/scoap3_73777"
+      ],
+      "q2": [
+        "scoap3/scoap3_101636",
+        "scoap3/scoap3_12496",
+        "scoap3/scoap3_109582",
+        "scoap3/scoap3_96383",
+        "scoap3/scoap3_55854"
+      ],
+      "q3": [
+        "scoap3/scoap3_75735",
+        "scoap3/scoap3_55349",
+        "scoap3/scoap3_13528",
+        "scoap3/scoap3_13364",
+        "scoap3/scoap3_48210"
+      ],
+      "q4": [
+        "scoap3/scoap3_15042",
+        "scoap3/scoap3_85525",
+        "scoap3/scoap3_104083",
+        "scoap3/scoap3_75403",
+        "scoap3/scoap3_57159"
+      ],
+      "q5": [
+        "scoap3/scoap3_48271",
+        "scoap3/scoap3_105487",
+        "scoap3/scoap3_95697",
+        "scoap3/scoap3_104196",
+        "scoap3/scoap3_77308"
+      ],
+      "q6": [
+        "scoap3/scoap3_105467",
+        "scoap3/scoap3_104975",
+        "scoap3/scoap3_14373",
+        "scoap3/scoap3_111776",
+        "scoap3/scoap3_107651"
+      ],
+      "q7": [
+        "scoap3/scoap3_67371",
+        "scoap3/scoap3_47948",
+        "scoap3/scoap3_98036",
+        "scoap3/scoap3_79167",
+        "scoap3/scoap3_103658"
+      ],
+      "q8": [
+        "scoap3/scoap3_20015",
+        "scoap3/scoap3_103062",
+        "scoap3/scoap3_54245",
+        "scoap3/scoap3_110189",
+        "scoap3/scoap3_43274"
+      ],
+      "q9": [
+        "scoap3/scoap3_101522",
+        "scoap3/scoap3_110892",
+        "scoap3/scoap3_104113",
+        "scoap3/scoap3_60514",
+        "scoap3/scoap3_88607"
+      ],
+      "q10": [
+        "scoap3/scoap3_10748",
+        "scoap3/scoap3_100456",
+        "scoap3/scoap3_104241",
+        "scoap3/scoap3_77116",
+        "scoap3/scoap3_99232"
+      ],
+      "q11": [
+        "scoap3/scoap3_103631",
+        "scoap3/scoap3_113480",
+        "scoap3/scoap3_105527",
+        "scoap3/scoap3_85010",
+        "scoap3/scoap3_113430"
+      ],
+      "q12": [
+        "scoap3/scoap3_59321",
+        "scoap3/scoap3_88554",
+        "scoap3/scoap3_61396",
+        "scoap3/scoap3_101262",
+        "scoap3/scoap3_68617"
+      ],
+      "q13": [
+        "scoap3/scoap3_74643",
+        "scoap3/scoap3_87903",
+        "scoap3/scoap3_83844",
+        "scoap3/scoap3_10789",
+        "scoap3/scoap3_110721"
+      ],
+      "q14": [
+        "scoap3/scoap3_42870",
+        "scoap3/scoap3_53767",
+        "scoap3/scoap3_89201",
+        "scoap3/scoap3_62997",
+        "scoap3/scoap3_15918"
+      ],
+      "q15": [
+        "scoap3/scoap3_15561",
+        "scoap3/scoap3_109328",
+        "scoap3/scoap3_80577",
+        "scoap3/scoap3_106570",
+        "scoap3/scoap3_47230"
+      ],
+      "q16": [
+        "scoap3/scoap3_81827",
+        "scoap3/scoap3_51705",
+        "scoap3/scoap3_24791",
+        "scoap3/scoap3_108684",
+        "scoap3/scoap3_81757"
+      ],
+      "q17": [
+        "scoap3/scoap3_101778",
+        "scoap3/scoap3_104336",
+        "scoap3/scoap3_87646",
+        "scoap3/scoap3_59865",
+        "scoap3/scoap3_79872"
+      ],
+      "q18": [
+        "scoap3/scoap3_107097",
+        "scoap3/scoap3_3939",
+        "scoap3/scoap3_107029",
+        "scoap3/scoap3_103619",
+        "scoap3/scoap3_102400"
+      ],
+      "q19": [
+        "scoap3/scoap3_106967",
+        "scoap3/scoap3_103323",
+        "scoap3/scoap3_105443",
+        "scoap3/scoap3_107121",
+        "scoap3/scoap3_107086"
+      ],
+      "q20": [
+        "scoap3/scoap3_102191",
+        "scoap3/scoap3_95229",
+        "scoap3/scoap3_88161",
+        "scoap3/scoap3_107272",
+        "scoap3/scoap3_84897"
+      ],
+      "q21": [
+        "scoap3/scoap3_105190",
+        "scoap3/scoap3_103299",
+        "scoap3/scoap3_110764",
+        "scoap3/scoap3_102630",
+        "scoap3/scoap3_106629"
+      ],
+      "q22": [
+        "scoap3/scoap3_9185",
+        "scoap3/scoap3_8714",
+        "scoap3/scoap3_71508",
+        "scoap3/scoap3_9627",
+        "scoap3/scoap3_50678"
+      ],
+      "q23": [
+        "scoap3/scoap3_15976",
+        "scoap3/scoap3_18713",
+        "scoap3/scoap3_20045",
+        "scoap3/scoap3_104359",
+        "scoap3/scoap3_11543"
+      ],
+      "q24": [
+        "scoap3/scoap3_68268",
+        "scoap3/scoap3_17266",
+        "scoap3/scoap3_47819",
+        "scoap3/scoap3_41379",
+        "scoap3/scoap3_89495"
+      ],
+      "q25": [
+        "scoap3/scoap3_101280",
+        "scoap3/scoap3_82898",
+        "scoap3/scoap3_68145",
+        "scoap3/scoap3_12603",
+        "scoap3/scoap3_12253"
+      ],
+      "q26": [
+        "scoap3/scoap3_66783",
+        "scoap3/scoap3_106438",
+        "scoap3/scoap3_76590",
+        "scoap3/scoap3_84112",
+        "scoap3/scoap3_103976"
+      ],
+      "q27": [
+        "scoap3/scoap3_61023",
+        "scoap3/scoap3_51954",
+        "scoap3/scoap3_95010",
+        "scoap3/scoap3_98561",
+        "scoap3/scoap3_75705"
+      ],
+      "q28": [
+        "scoap3/scoap3_19506",
+        "scoap3/scoap3_54785",
+        "scoap3/scoap3_10458",
+        "scoap3/scoap3_4846",
+        "scoap3/scoap3_77303"
+      ],
+      "q29": [
+        "scoap3/scoap3_51402",
+        "scoap3/scoap3_54537",
+        "scoap3/scoap3_61757",
+        "scoap3/scoap3_75697",
+        "scoap3/scoap3_88377"
+      ],
+      "q30": [
+        "scoap3/scoap3_78328",
+        "scoap3/scoap3_84651",
+        "scoap3/scoap3_79110",
+        "scoap3/scoap3_51862",
+        "scoap3/scoap3_67209"
+      ],
+      "q31": [
+        "scoap3/scoap3_86793",
+        "scoap3/scoap3_66558",
+        "scoap3/scoap3_73505",
+        "scoap3/scoap3_66028",
+        "scoap3/scoap3_85767"
+      ],
+      "q32": [
+        "scoap3/scoap3_108058",
+        "scoap3/scoap3_112909",
+        "scoap3/scoap3_96302",
+        "scoap3/scoap3_46886",
+        "scoap3/scoap3_108792"
+      ],
+      "q33": [
+        "scoap3/scoap3_95841",
+        "scoap3/scoap3_42739",
+        "scoap3/scoap3_107609",
+        "scoap3/scoap3_47986",
+        "scoap3/scoap3_63475"
+      ],
+      "q34": [
+        "scoap3/scoap3_111010",
+        "scoap3/scoap3_85694",
+        "scoap3/scoap3_110101",
+        "scoap3/scoap3_95957",
+        "scoap3/scoap3_69895"
+      ],
+      "q35": [
+        "scoap3/scoap3_68930",
+        "scoap3/scoap3_991",
+        "scoap3/scoap3_82103",
+        "scoap3/scoap3_83928",
+        "scoap3/scoap3_68922"
+      ],
+      "q36": [
+        "scoap3/scoap3_54840",
+        "scoap3/scoap3_102326",
+        "scoap3/scoap3_51686",
+        "scoap3/scoap3_83465",
+        "scoap3/scoap3_84530"
+      ],
+      "q37": [
+        "scoap3/scoap3_107475",
+        "scoap3/scoap3_77681",
+        "scoap3/scoap3_4692",
+        "scoap3/scoap3_113253",
+        "scoap3/scoap3_57539"
+      ],
+      "q38": [
+        "scoap3/scoap3_55528",
+        "scoap3/scoap3_65118",
+        "scoap3/scoap3_57362",
+        "scoap3/scoap3_85933",
+        "scoap3/scoap3_113104"
+      ],
+      "q39": [
+        "scoap3/scoap3_80490",
+        "scoap3/scoap3_50828",
+        "scoap3/scoap3_56054",
+        "scoap3/scoap3_23743",
+        "scoap3/scoap3_74678"
+      ],
+      "q40": [
+        "scoap3/scoap3_46877",
+        "scoap3/scoap3_67052",
+        "scoap3/scoap3_66290",
+        "scoap3/scoap3_23086",
+        "scoap3/scoap3_85263"
+      ],
+      "q41": [
+        "scoap3/scoap3_21714",
+        "scoap3/scoap3_60474",
+        "scoap3/scoap3_45578",
+        "scoap3/scoap3_73833",
+        "scoap3/scoap3_107366"
+      ],
+      "q42": [
+        "scoap3/scoap3_71180",
+        "scoap3/scoap3_69353",
+        "scoap3/scoap3_899",
+        "scoap3/scoap3_5169",
+        "scoap3/scoap3_78636"
+      ],
+      "q43": [
+        "scoap3/scoap3_49599",
+        "scoap3/scoap3_102074",
+        "scoap3/scoap3_111485",
+        "scoap3/scoap3_105064",
+        "scoap3/scoap3_111088"
+      ],
+      "q44": [
+        "scoap3/scoap3_11327",
+        "scoap3/scoap3_51685",
+        "scoap3/scoap3_20988",
+        "scoap3/scoap3_104670",
+        "scoap3/scoap3_14326"
+      ]
+    },
+    "lemma": {
+      "q1": [
+        "scoap3/scoap3_18403",
+        "scoap3/scoap3_100621",
+        "scoap3/scoap3_59292",
+        "scoap3/scoap3_86261",
+        "scoap3/scoap3_72987"
+      ],
+      "q2": [
+        "scoap3/scoap3_101636",
+        "scoap3/scoap3_12496",
+        "scoap3/scoap3_96383",
+        "scoap3/scoap3_109582",
+        "scoap3/scoap3_89345"
+      ],
+      "q3": [
+        "scoap3/scoap3_75735",
+        "scoap3/scoap3_55349",
+        "scoap3/scoap3_13528",
+        "scoap3/scoap3_13364",
+        "scoap3/scoap3_48210"
+      ],
+      "q4": [
+        "scoap3/scoap3_15042",
+        "scoap3/scoap3_85525",
+        "scoap3/scoap3_104083",
+        "scoap3/scoap3_75403",
+        "scoap3/scoap3_57159"
+      ],
+      "q5": [
+        "scoap3/scoap3_105515",
+        "scoap3/scoap3_58890",
+        "scoap3/scoap3_40983",
+        "scoap3/scoap3_81335",
+        "scoap3/scoap3_43391"
+      ],
+      "q6": [
+        "scoap3/scoap3_105467",
+        "scoap3/scoap3_14373",
+        "scoap3/scoap3_104975",
+        "scoap3/scoap3_111776",
+        "scoap3/scoap3_107651"
+      ],
+      "q7": [
+        "scoap3/scoap3_67371",
+        "scoap3/scoap3_47948",
+        "scoap3/scoap3_98036",
+        "scoap3/scoap3_79167",
+        "scoap3/scoap3_103658"
+      ],
+      "q8": [
+        "scoap3/scoap3_20015",
+        "scoap3/scoap3_54245",
+        "scoap3/scoap3_110189",
+        "scoap3/scoap3_70615",
+        "scoap3/scoap3_49656"
+      ],
+      "q9": [
+        "scoap3/scoap3_101522",
+        "scoap3/scoap3_110892",
+        "scoap3/scoap3_104113",
+        "scoap3/scoap3_60514",
+        "scoap3/scoap3_88607"
+      ],
+      "q10": [
+        "scoap3/scoap3_10748",
+        "scoap3/scoap3_100456",
+        "scoap3/scoap3_104241",
+        "scoap3/scoap3_77116",
+        "scoap3/scoap3_99232"
+      ],
+      "q11": [
+        "scoap3/scoap3_103631",
+        "scoap3/scoap3_113480",
+        "scoap3/scoap3_105527",
+        "scoap3/scoap3_85010",
+        "scoap3/scoap3_113430"
+      ],
+      "q12": [
+        "scoap3/scoap3_88554",
+        "scoap3/scoap3_59321",
+        "scoap3/scoap3_61396",
+        "scoap3/scoap3_101262",
+        "scoap3/scoap3_68617"
+      ],
+      "q13": [
+        "scoap3/scoap3_10789",
+        "scoap3/scoap3_100582",
+        "scoap3/scoap3_104327",
+        "scoap3/scoap3_74643",
+        "scoap3/scoap3_82721"
+      ],
+      "q14": [
+        "scoap3/scoap3_42870",
+        "scoap3/scoap3_53767",
+        "scoap3/scoap3_89201",
+        "scoap3/scoap3_62997",
+        "scoap3/scoap3_15918"
+      ],
+      "q15": [
+        "scoap3/scoap3_15561",
+        "scoap3/scoap3_109328",
+        "scoap3/scoap3_80577",
+        "scoap3/scoap3_106570",
+        "scoap3/scoap3_47230"
+      ],
+      "q16": [
+        "scoap3/scoap3_81827",
+        "scoap3/scoap3_51705",
+        "scoap3/scoap3_24791",
+        "scoap3/scoap3_81757",
+        "scoap3/scoap3_108684"
+      ],
+      "q17": [
+        "scoap3/scoap3_19137",
+        "scoap3/scoap3_98486",
+        "scoap3/scoap3_101778",
+        "scoap3/scoap3_104336",
+        "scoap3/scoap3_69236"
+      ],
+      "q18": [
+        "scoap3/scoap3_107097",
+        "scoap3/scoap3_110534",
+        "scoap3/scoap3_104985",
+        "scoap3/scoap3_44381",
+        "scoap3/scoap3_60392"
+      ],
+      "q19": [
+        "scoap3/scoap3_106967",
+        "scoap3/scoap3_103323",
+        "scoap3/scoap3_107086",
+        "scoap3/scoap3_105443",
+        "scoap3/scoap3_101335"
+      ],
+      "q20": [
+        "scoap3/scoap3_102191",
+        "scoap3/scoap3_95229",
+        "scoap3/scoap3_107272",
+        "scoap3/scoap3_84897",
+        "scoap3/scoap3_100799"
+      ],
+      "q21": [
+        "scoap3/scoap3_105190",
+        "scoap3/scoap3_103299",
+        "scoap3/scoap3_110764",
+        "scoap3/scoap3_102630",
+        "scoap3/scoap3_106629"
+      ],
+      "q22": [
+        "scoap3/scoap3_9185",
+        "scoap3/scoap3_8714",
+        "scoap3/scoap3_71508",
+        "scoap3/scoap3_9627",
+        "scoap3/scoap3_50678"
+      ],
+      "q23": [
+        "scoap3/scoap3_18713",
+        "scoap3/scoap3_20045",
+        "scoap3/scoap3_104359",
+        "scoap3/scoap3_105900",
+        "scoap3/scoap3_106234"
+      ],
+      "q24": [
+        "scoap3/scoap3_17266",
+        "scoap3/scoap3_47819",
+        "scoap3/scoap3_89495",
+        "scoap3/scoap3_68268",
+        "scoap3/scoap3_49660"
+      ],
+      "q25": [
+        "scoap3/scoap3_101280",
+        "scoap3/scoap3_82898",
+        "scoap3/scoap3_68145",
+        "scoap3/scoap3_12253",
+        "scoap3/scoap3_111751"
+      ],
+      "q26": [
+        "scoap3/scoap3_66783",
+        "scoap3/scoap3_106438",
+        "scoap3/scoap3_76590",
+        "scoap3/scoap3_84112",
+        "scoap3/scoap3_103976"
+      ],
+      "q27": [
+        "scoap3/scoap3_76452",
+        "scoap3/scoap3_95010",
+        "scoap3/scoap3_98561",
+        "scoap3/scoap3_51954",
+        "scoap3/scoap3_75705"
+      ],
+      "q28": [
+        "scoap3/scoap3_19506",
+        "scoap3/scoap3_54785",
+        "scoap3/scoap3_10458",
+        "scoap3/scoap3_4846",
+        "scoap3/scoap3_77303"
+      ],
+      "q29": [
+        "scoap3/scoap3_51402",
+        "scoap3/scoap3_54537",
+        "scoap3/scoap3_61757",
+        "scoap3/scoap3_75697",
+        "scoap3/scoap3_88377"
+      ],
+      "q30": [
+        "scoap3/scoap3_78328",
+        "scoap3/scoap3_84651",
+        "scoap3/scoap3_79110",
+        "scoap3/scoap3_51862",
+        "scoap3/scoap3_67209"
+      ],
+      "q31": [
+        "scoap3/scoap3_86793",
+        "scoap3/scoap3_66558",
+        "scoap3/scoap3_73505",
+        "scoap3/scoap3_110498",
+        "scoap3/scoap3_24416"
+      ],
+      "q32": [
+        "scoap3/scoap3_108792",
+        "scoap3/scoap3_83586",
+        "scoap3/scoap3_96798",
+        "scoap3/scoap3_45141",
+        "scoap3/scoap3_72487"
+      ],
+      "q33": [
+        "scoap3/scoap3_42739",
+        "scoap3/scoap3_107609",
+        "scoap3/scoap3_47986",
+        "scoap3/scoap3_63475",
+        "scoap3/scoap3_72316"
+      ],
+      "q34": [
+        "scoap3/scoap3_111010",
+        "scoap3/scoap3_85694",
+        "scoap3/scoap3_110101",
+        "scoap3/scoap3_95957",
+        "scoap3/scoap3_69895"
+      ],
+      "q35": [
+        "scoap3/scoap3_68930",
+        "scoap3/scoap3_991",
+        "scoap3/scoap3_82103",
+        "scoap3/scoap3_83928",
+        "scoap3/scoap3_68922"
+      ],
+      "q36": [
+        "scoap3/scoap3_54840",
+        "scoap3/scoap3_102326",
+        "scoap3/scoap3_51686",
+        "scoap3/scoap3_83465",
+        "scoap3/scoap3_98974"
+      ],
+      "q37": [
+        "scoap3/scoap3_107475",
+        "scoap3/scoap3_77681",
+        "scoap3/scoap3_4692",
+        "scoap3/scoap3_113253",
+        "scoap3/scoap3_57539"
+      ],
+      "q38": [
+        "scoap3/scoap3_55528",
+        "scoap3/scoap3_65118",
+        "scoap3/scoap3_57362",
+        "scoap3/scoap3_15144",
+        "scoap3/scoap3_25444"
+      ],
+      "q39": [
+        "scoap3/scoap3_80490",
+        "scoap3/scoap3_50828",
+        "scoap3/scoap3_109579",
+        "scoap3/scoap3_23743",
+        "scoap3/scoap3_84199"
+      ],
+      "q40": [
+        "scoap3/scoap3_46877",
+        "scoap3/scoap3_66290",
+        "scoap3/scoap3_67052",
+        "scoap3/scoap3_23086",
+        "scoap3/scoap3_85263"
+      ],
+      "q41": [
+        "scoap3/scoap3_21714",
+        "scoap3/scoap3_60474",
+        "scoap3/scoap3_45578",
+        "scoap3/scoap3_73833",
+        "scoap3/scoap3_107366"
+      ],
+      "q42": [
+        "scoap3/scoap3_71180",
+        "scoap3/scoap3_69353",
+        "scoap3/scoap3_899",
+        "scoap3/scoap3_5169",
+        "scoap3/scoap3_78636"
+      ],
+      "q43": [
+        "scoap3/scoap3_49599",
+        "scoap3/scoap3_62687",
+        "scoap3/scoap3_102074",
+        "scoap3/scoap3_111485",
+        "scoap3/scoap3_109742"
+      ],
+      "q44": [
+        "scoap3/scoap3_11327",
+        "scoap3/scoap3_51685",
+        "scoap3/scoap3_20988",
+        "scoap3/scoap3_104670",
+        "scoap3/scoap3_14326"
+      ]
+    }
+  }
+}

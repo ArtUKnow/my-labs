@@ -107,6 +107,11 @@ class TestYaml(unittest.TestCase):
     def test_real_config(self):
         path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "config.yaml")
         data = yaml_reader.read_yaml(path)
+        self.assertEqual(data["corpus"]["kind"], "scoap3")
+        self.assertGreaterEqual(data["corpus"]["target"], 30000)
+        self.assertGreaterEqual(data["corpus"]["min_words"], 3000)
+        path = os.path.join(os.path.dirname(path), "config_html_example.yaml")
+        data = yaml_reader.read_yaml(path)
         self.assertIn("db", data)
         self.assertIn("logic", data)
         self.assertIn("delay", data["logic"])
@@ -270,6 +275,25 @@ class TestCrawl(unittest.TestCase):
             self.assertEqual(bot.storage.get_document(url)["html"], PAGES["index.html"])
             bot.storage.close()
             self.assertEqual(fetch.call_count, 2)
+
+
+class TestSharedCorpus(unittest.TestCase):
+    def test_resume_uses_the_existing_complete_manifest(self):
+        import scoap3
+        from pathlib import Path
+        self.assertEqual(scoap3.DATA.resolve(), (Path(__file__).resolve().parent.parent / "lab1_corpus" / "data").resolve())
+        with tempfile.TemporaryDirectory() as folder:
+            path = Path(folder)
+            output = path / "text"
+            manifest = path / "manifest.tsv"
+            import csv
+            with manifest.open("w") as file:
+                writer = csv.DictWriter(file, scoap3.FIELDS, delimiter="\t")
+                writer.writeheader()
+                writer.writerow({"record_id": "1", "file": "scoap3_1.txt.gz"})
+            with mock.patch.object(scoap3, "fetch_article") as fetch_article:
+                scoap3.collect({"1": {"record_id": "1"}}, output, manifest, target=1)
+                fetch_article.assert_not_called()
 
 
 if __name__ == "__main__":

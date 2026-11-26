@@ -1,3 +1,4 @@
+"""Historical Wikipedia baseline; excluded from the primary SCOAP3 evaluation."""
 import os
 import sys
 import json
@@ -8,8 +9,8 @@ import urllib.parse
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 TEXT_DIR = os.path.join(BASE_DIR, "..", "lab1_corpus", "data", "text")
-QUERIES_PATH = os.path.join(BASE_DIR, "..", "lab1_corpus", "data", "queries", "queries.txt")
-OUT_PATH = os.path.join(BASE_DIR, "..", "lab1_corpus", "data", "queries", "wikipedia_results.txt")
+QUERIES_PATH = os.path.join(BASE_DIR, "..", "lab1_corpus", "data", "queries", "legacy", "queries.txt")
+OUT_PATH = os.path.join(BASE_DIR, "..", "lab1_corpus", "data", "queries", "legacy", "wikipedia_results.txt")
 
 HOSTS = {"ru_wikipedia": "https://ru.wikipedia.org", "simple_wikipedia": "https://simple.wikipedia.org"}
 

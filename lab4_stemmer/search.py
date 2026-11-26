@@ -93,16 +93,16 @@ def main():
     mode = "raw"
     if len(sys.argv) > 1:
         mode = sys.argv[1]
-    documents = load_documents(TEXT_DIR)
-    vocabulary = load_vocabulary(TOKENS_DIR)
-    engine = SimpleSearch(documents, mode, vocabulary)
-    for line in sys.stdin:
-        query = line.strip()
-        if query == "":
-            continue
+    from corpus_evaluation import manifest_rows, token_paths, retrieve
+    rows = manifest_rows()
+    queries = [(str(index), line.strip()) for index, line in enumerate(sys.stdin) if line.strip()]
+    if not queries:
+        return
+    runs, _ = retrieve(rows, token_paths(rows), queries, k=10, modes=(mode,))
+    for query_id, query in queries:
         print("query:", query)
-        for position, doc_id in enumerate(engine.search(query)):
-            print("  %d. %s" % (position + 1, doc_id))
+        for position, doc_id in enumerate(runs[mode][query_id], 1):
+            print("  %d. %s" % (position, doc_id))
 
 
 if __name__ == "__main__":

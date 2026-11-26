@@ -7,8 +7,9 @@ LABS="lab1_corpus lab2_crawler lab3_tokenizer lab4_stemmer lab5_zipf lab6_search
 
 if [ "$MODE" = "build" ]; then
   set -e
-  echo "=== lab1: extract text and stats"
-  python3 lab1_corpus/extract_text.py
+  echo "=== lab2: resume the shared SCOAP3 corpus"
+  python3 lab2_crawler/crawler.py lab2_crawler/config.yaml
+  echo "=== lab1: corpus stats"
   python3 lab1_corpus/corpus_stats.py
   echo "=== lab3: tokenize corpus"
   python3 lab3_tokenizer/tokenize_corpus.py
