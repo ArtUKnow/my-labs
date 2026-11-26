@@ -33,6 +33,14 @@ case "${1:-help}" in
   build)
     make -j4
     ;;
+  test3)
+    make -j4
+    ./build/ir test-tokenizer
+    ;;
+  test4)
+    make -j4
+    ./build/ir test-stemmer
+    ;;
   test)
     make -j4
     ./build/ir selftest
@@ -71,6 +79,6 @@ case "${1:-help}" in
     mv lab02_crawler/data/scoap3_raw.sqlite.tmp lab02_crawler/data/scoap3_raw.sqlite
     ;;
   *)
-    printf '%s\n' './run.sh build' './run.sh test' './run.sh search dark matter' './run.sh web' './run.sh prepare' './run.sh restore-index' './run.sh download-raw'
+    printf '%s\n' './run.sh build' './run.sh test' './run.sh test3' './run.sh test4' './run.sh search dark matter' './run.sh web' './run.sh prepare' './run.sh restore-index' './run.sh download-raw'
     ;;
 esac

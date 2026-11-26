@@ -9,12 +9,16 @@ endif
 SOURCES = main.cpp $(wildcard common/*.cpp lab*/*.cpp)
 HEADERS = $(wildcard common/*.h lab*/*.h)
 
-.PHONY: all test clean
+.PHONY: all test test-tokenizer test-stemmer clean
 all: build/ir
 build/ir: $(SOURCES) $(HEADERS)
 	mkdir -p build
 	$(CXX) $(CPPFLAGS) $(CXXFLAGS) $(SOURCES) -o $@ $(LIBS)
 test: build/ir
 	./build/ir selftest
+test-tokenizer: build/ir
+	./build/ir test-tokenizer
+test-stemmer: build/ir
+	./build/ir test-stemmer
 clean:
 	rm -f build/ir

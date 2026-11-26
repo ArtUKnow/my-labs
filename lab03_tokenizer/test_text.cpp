@@ -4,100 +4,113 @@
 #include <string.h>
 
 namespace {
-struct Collected {
-    char *tokens[64];
+struct Tokens {
+    char *items[64];
     size_t count;
-    Collected() : count(0) {
-        memset(tokens, 0, sizeof(tokens));
+    Tokens() : count(0) {
+        memset(items, 0, sizeof(items));
     }
-    ~Collected() {
+    ~Tokens() {
         for (size_t i = 0; i < count; i++)
-            free(tokens[i]);
+            free(items[i]);
     }
 };
-void collect(const char *text, size_t n, void *context) {
-    Collected *c = (Collected *)context;
-    if (c->count >= 64) {
-        fprintf(stderr, "too many test tokens\n");
+void save_token(const char *text, size_t size, void *state) {
+    Tokens *tokens = (Tokens *)state;
+    if (tokens->count == 64)
         abort();
-    }
-    c->tokens[c->count] = (char *)malloc(n + 1);
-    memcpy(c->tokens[c->count], text, n);
-    c->tokens[c->count][n] = 0;
-    c->count++;
+    char *copy = (char *)malloc(size + 1);
+    if (!copy)
+        abort();
+    memcpy(copy, text, size);
+    copy[size] = 0;
+    tokens->items[tokens->count++] = copy;
 }
-int check_tokens(const char *input, const char *const *expected, size_t n) {
-    Collected c;
-    ir_tokenize(input, strlen(input), collect, &c);
-    if (c.count != n) {
-        fprintf(stderr, "token count for %s: %zu instead of %zu\n", input, c.count, n);
-        return 1;
-    }
-    for (size_t i = 0; i < n; i++)
-        if (strcmp(c.tokens[i], expected[i])) {
-            fprintf(stderr, "token mismatch %zu: %s instead of %s\n", i, c.tokens[i], expected[i]);
-            return 1;
-        }
-    return 0;
-}
-int check_stem(const char *input, const char *expected) {
-    char buffer[256];
-    strcpy(buffer, input);
-    ir_stem(buffer);
-    if (strcmp(buffer, expected)) {
-        fprintf(stderr, "stem %s: %s instead of %s\n", input, buffer, expected);
-        return 1;
-    }
-    return 0;
-}
-int check_lemma(const char *input, const char *expected) {
-    char buffer[256];
-    strcpy(buffer, input);
-    ir_lemma(buffer);
-    if (strcmp(buffer, expected)) {
-        fprintf(stderr, "lemma %s: %s instead of %s\n", input, buffer, expected);
-        return 1;
-    }
-    return 0;
-}
-}
-int ir_text_tests() {
+struct TokenTests {
+    int total = 0;
     int failed = 0;
-    const char *first[] = {"dark", "matter", "союз-2", "o’neill", "3.14",
-                           "1,25", "x",      "y",      "αβ",      "ёж"};
-    failed += check_tokens("Dark matter! СОЮЗ-2 O’Neill 3.14 1,25 x.y ΑΒ ЁЖ", first, 10);
-    const char *second[] = {"one", "two", "quoted", "foo-bar", "a'b", "42", "m²"};
-    failed += check_tokens("one--two 'quoted' foo-bar a'b 42 m²", second, 7);
-    failed += check_tokens("", NULL, 0);
-    const char *unicode[] = {"中文", "١٢٣٫٤", "e"};
-    const char *unicode_expected[] = {"中文", "١٢٣", "٤", "e"};
-    (void)unicode;
-    failed += check_tokens("中文 ١٢٣٫٤ e\xcc\x81", unicode_expected, 4);
-    const char invalid[] = {'a', (char)0xff, 'b', 0};
-    const char *invalid_expected[] = {"a", "b"};
-    failed += check_tokens(invalid, invalid_expected, 2);
-    failed += check_stem("РАКЕТЫ", "ракет");
-    failed += check_stem("спутников", "спутник");
-    failed += check_stem("particles", "particle");
-    failed += check_stem("running", "runn");
-    failed += check_stem("studies", "studi");
-    failed += check_stem("field", "field");
-    failed += check_stem("ЁЛКИ", "елк");
-    failed += check_lemma("went", "go");
-    failed += check_lemma("children", "child");
-    failed += check_lemma("studies", "study");
-    failed += check_lemma("running", "run");
-    failed += check_lemma("particles", "particle");
-    failed += check_lemma("physics", "physics");
-    char expanded[64];
-    if (!ir_lemma_copy("has", expanded, sizeof(expanded)) || strcmp(expanded, "have"))
-        failed++;
-    if (!ir_lemma_copy("ДЕТИ", expanded, sizeof(expanded)) || strcmp(expanded, "ребенок"))
-        failed++;
-    char small[4] = {'x', 'x', 'x', 0};
-    if (ir_lemma_copy("has", small, sizeof(small)) || strcmp(small, "xxx"))
-        failed++;
-    if (!failed)
-        fprintf(stderr, "native text tests: passed\n");
-    return failed ? 1 : 0;
+    void check(const char *name, const char *input, size_t length, const char *expected) {
+        total++;
+        Tokens tokens;
+        ir_tokenize(input, length, save_token, &tokens);
+        const char *word = expected;
+        size_t index = 0;
+        bool good = true;
+        while (*word) {
+            const char *end = strchr(word, ' ');
+            size_t size = end ? (size_t)(end - word) : strlen(word);
+            if (index >= tokens.count || strlen(tokens.items[index]) != size ||
+                memcmp(tokens.items[index], word, size)) {
+                good = false;
+                break;
+            }
+            index++;
+            word += size;
+            if (*word)
+                word++;
+        }
+        if (index != tokens.count)
+            good = false;
+        printf("  [%s] %s\n", good ? "OK" : "ОШИБКА", name);
+        if (!good) {
+            failed++;
+            fprintf(stderr, "Ожидалось: %s\nПолучено:", expected);
+            for (size_t i = 0; i < tokens.count; i++)
+                fprintf(stderr, " <%s>", tokens.items[i]);
+            fprintf(stderr, "\n");
+        }
+    }
+    void check(const char *name, const char *input, const char *expected) {
+        check(name, input, strlen(input), expected);
+    }
+};
+}
+
+int ir_tokenizer_tests() {
+    puts("\nЮнит-тесты: токенизация");
+    TokenTests tests;
+    tests.check("Пустой текст", "", "");
+    tests.check("Только пробелы и переводы строк", " \t\r\n ", "");
+    tests.check("Только пунктуация", ".,!?:;()[]{}---''", "");
+    tests.check("Пунктуация и нижний регистр", "Hello, WORLD!", "hello world");
+    tests.check("Русские буквы и ё", "РАКЕТА ЁЖ ёлка", "ракета ёж ёлка");
+    tests.check("Смешанные алфавиты и десятичные числа",
+                "Dark matter! СОЮЗ-2 O’Neill 3.14 1,25 x.y ΑΒ ЁЖ",
+                "dark matter союз-2 o’neill 3.14 1,25 x y αβ ёж");
+    tests.check("Внутренний дефис", "foo-bar Союз-2 -start end-", "foo-bar союз-2 start end");
+    tests.check("Два дефиса разделяют слова", "one--two", "one two");
+    tests.check("Кавычки и внутренний апостроф", "'quoted' a'b O’Neill", "quoted a'b o’neill");
+    tests.check("Числа, десятичные разделители", "42 3.14 1,25 .5 6.", "42 3.14 1,25 5 6");
+    tests.check("Точка и запятая между буквами", "a.b c,d", "a b c d");
+    tests.check("Пробел, табуляция и новая строка", "one\ttwo\nthree\r\nfour",
+                "one two three four");
+    tests.check("Греческий регистр", "ΑΒ Ω", "αβ ω");
+    tests.check("Китайские символы и арабские цифры", "中文 ١٢٣٫٤ e\xcc\x81", "中文 ١٢٣ ٤ e");
+    tests.check("Степени и обозначения", "42 m² x2", "42 m² x2");
+    tests.check("Unicode-преобразование с расширением", "İ", "i\xcc\x87");
+    const char invalid[] = {'a', (char)0xff, 'b'};
+    tests.check("Повреждённый UTF-8 разделяет слова", invalid, sizeof(invalid), "a b");
+    const char incomplete[] = {'a', (char)0xd0};
+    tests.check("Незавершённый UTF-8 в конце", incomplete, sizeof(incomplete), "a");
+    const char bounded[] = {'A', 'B', ' ', 'C', 'D'};
+    tests.check("Соблюдается длина буфера", bounded, 2, "ab");
+    const char zero[] = {'A', 0, 'B'};
+    tests.check("Нулевой байт внутри буфера", zero, sizeof(zero), "a b");
+    const char unchanged[] = "MiXeD ЁЖ";
+    tests.check("Входной текст сохраняется", unchanged, "mixed ёж");
+    if (strcmp(unchanged, "MiXeD ЁЖ"))
+        tests.failed++;
+    char long_word[4097];
+    memset(long_word, 'a', 4096);
+    long_word[4096] = 0;
+    tests.check("Длинный токен не обрезается", long_word, long_word);
+    printf("Итого: %d; успешно: %d; ошибок: %d\n", tests.total, tests.total - tests.failed,
+           tests.failed);
+    return tests.failed ? 1 : 0;
+}
+
+int ir_text_tests() {
+    int tokenizer = ir_tokenizer_tests();
+    int stemmer = ir_stemmer_tests();
+    return tokenizer || stemmer ? 1 : 0;
 }

@@ -13,4 +13,6 @@ int ir_stem_main(int argc, char **argv);
 int ir_zipf_main(int argc, char **argv);
 int ir_text_main(int argc, char **argv);
 int ir_text_tests();
+int ir_tokenizer_tests();
+int ir_stemmer_tests();
 #endif

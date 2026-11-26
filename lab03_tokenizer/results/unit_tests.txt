@@ -1,0 +1,27 @@
+mkdir -p build
+c++ -Icommon -Ilab02_crawler -Ilab04_stemmer -Ilab08_search -O2 -std=c++17 -Wall -Wextra -Wpedantic main.cpp common/demo.cpp common/text_commands.cpp lab01_corpus/corpus.cpp lab01_corpus/statistics.cpp lab02_crawler/crawler.cpp lab02_crawler/crawler_tests.cpp lab03_tokenizer/test_text.cpp lab03_tokenizer/token_rules.cpp lab03_tokenizer/tokenizer.cpp lab04_stemmer/lemma.cpp lab04_stemmer/stemmer.cpp lab04_stemmer/test_stemmer.cpp lab05_zipf/zipf.cpp lab06_quality/metrics.cpp lab06_quality/rank.cpp lab06_quality/test_rank.cpp lab07_index/index.cpp lab07_index/test_index.cpp lab08_search/search.cpp lab08_search/server.cpp lab08_search/server_html.cpp lab08_search/server_json.cpp lab08_search/server_tests.cpp lab08_search/server_url.cpp -o build/ir -lz -lcurl -lsqlite3
+
+Юнит-тесты: токенизация
+  [OK] Пустой текст
+  [OK] Только пробелы и переводы строк
+  [OK] Только пунктуация
+  [OK] Пунктуация и нижний регистр
+  [OK] Русские буквы и ё
+  [OK] Смешанные алфавиты и десятичные числа
+  [OK] Внутренний дефис
+  [OK] Два дефиса разделяют слова
+  [OK] Кавычки и внутренний апостроф
+  [OK] Числа, десятичные разделители
+  [OK] Точка и запятая между буквами
+  [OK] Пробел, табуляция и новая строка
+  [OK] Греческий регистр
+  [OK] Китайские символы и арабские цифры
+  [OK] Степени и обозначения
+  [OK] Unicode-преобразование с расширением
+  [OK] Повреждённый UTF-8 разделяет слова
+  [OK] Незавершённый UTF-8 в конце
+  [OK] Соблюдается длина буфера
+  [OK] Нулевой байт внутри буфера
+  [OK] Входной текст сохраняется
+  [OK] Длинный токен не обрезается
+Итого: 22; успешно: 22; ошибок: 0
