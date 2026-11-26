@@ -1,3 +1,0 @@
-Design of starship fins
-How much can the falling speed of starship approximately be reduced by the bellyflop fall with fins? Are we talking about numbers around 5% or 50% here?
-Wouldn't it make sense to put holes where the fins are attached to the body and blow out the air at the end of the fin through channels to "increase" the fin size with air?

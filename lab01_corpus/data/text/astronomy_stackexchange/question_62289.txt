@@ -1,2 +1,0 @@
-SExtractor on JWST images
-I have run SExtractor in previous versions but not SourcExtractor++. I want to use the improved star/galaxy classifier Spread_Model on JWST images but cannot see how to include it in the output parameter list particularly for SourcExtractor++.

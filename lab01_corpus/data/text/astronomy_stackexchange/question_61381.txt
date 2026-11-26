@@ -1,6 +1,0 @@
-Is differential rotation continuous?
-I was reading up on differential rotation and noticed some ambiguity with its manifestation on various celestial objects, such as on the Sun and Jupiter. Wikipedia mentions these two statements on the Sun and Jupiter:
-The Sun has an equatorial rotation speed of ~2 km/s; its differential rotation implies that the angular velocity decreases with increased latitude. The poles make one rotation every 34.3 days and the equator every 25.05 days, as measured relative to distant stars (sidereal rotation).
-Because Jupiter is not a solid body, its upper atmosphere undergoes differential rotation. The rotation of Jupiter's polar atmosphere is about five minutes longer than that of the equatorial atmosphere.
-Looking at this series of photographs from Voyager 1 seems to show that Jupiter's cloud bands exhibit significant differences in rotation periods, with Kelvin-Helmholtz instabilities occurring at band boundaries.
-I was wondering if differential rotation of celestial bodies is discontinuous like the cloud bands in Jupiter's atmosphere or if it is a continuous gradient.

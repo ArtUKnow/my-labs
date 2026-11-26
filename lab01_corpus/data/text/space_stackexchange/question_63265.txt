@@ -1,6 +1,0 @@
-Rocket Turbopump Energy Balance
-The exhaust velocity of a rocket is given by:
-$v_e = \sqrt{\frac{2k}{k-1} \cdot R \cdot T_c \cdot (1-(P_e/P_c))^{\frac{k-1}{k}}}$
-The velocity tends to a finite asymptote as $P_c$ increases. Therefore, the specific kinetic energy of the exhaust jet, $\frac{1}{2}v_e^2$ (kinetic energy per unit mass of exhaust jet) cannot be increased beyond a finite value.
-But, it takes energy to pressurize the propellants before they are injected into the combustion chamber. If we had a nuclear reactor driving the turbopumps, we could pressurize our propellants to arbitrarily high values, using vast amounts of energy to do so. However, as the above equation shows, we are not gaining anything by doing so beyond a certain point.
-Where does that pressurization energy go?

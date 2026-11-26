@@ -1,7 +1,35 @@
 #!/bin/sh
 set -eu
 cd "$(dirname "$0")"
+
+prepare_program() {
+    if [ ! -x build/ir ]; then
+        make -j4
+    fi
+}
+
+prepare_paths() {
+    prepare_program
+    if [ ! -f lab01_corpus/data/native_documents.tsv ]; then
+        ./build/ir prepare
+    fi
+}
+
+prepare_index() {
+    prepare_program
+    if [ ! -f lab01_corpus/data/native_index/meta.bin ]; then
+        mkdir -p lab01_corpus/data/native_index
+        (cd lab07_index/results && shasum -a 256 -c native_index.tar.gz.sha256)
+        tar -xzf lab07_index/results/native_index.tar.gz -C lab01_corpus/data/native_index
+    fi
+}
+
 case "${1:-help}" in
+  1|2|3|4|5|6|7|8)
+    prepare_paths
+    if [ "$1" = 8 ]; then prepare_index; fi
+    ./build/ir demo "$1"
+    ;;
   build)
     make -j4
     ;;
@@ -10,6 +38,7 @@ case "${1:-help}" in
     ./build/ir selftest
     ;;
   search)
+    prepare_index
     shift
     if [ "$#" -gt 0 ]; then
       printf '%s\n' "$*" | ./build/ir search lab01_corpus/data/native_index --json --limit 50
@@ -18,9 +47,11 @@ case "${1:-help}" in
     fi
     ;;
   web)
+    prepare_index
     ./build/ir serve --index-dir lab01_corpus/data/native_index --port 8000
     ;;
   prepare)
+    prepare_program
     ./build/ir prepare
     ;;
   restore-index)

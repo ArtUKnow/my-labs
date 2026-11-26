@@ -1,3 +1,0 @@
-Options to improve current visual filter
-I am struggling with heavy light pollution (Bortle 9) using a TeleVue Nebustar Type 2 UHC filter. While it works for the Orion Nebula, it isn’t providing enough contrast for targets like the Owl, Rosette, M1, or Wizard Nebulae, nor for planetary nebulae.
-How effective would a dedicated $OIII$ filter – specifically the Svbony SV115 or the Astronomik $OIII$ — be for cutting through city light pollution to see emission nebulae?

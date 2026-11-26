@@ -1,5 +1,0 @@
-Why were they using segmented boosters on Space Shuttle?
-After learning how the solid fuel is protecting the casing of the SRB from the heat of the combustion in this answer I have to ask this question.
-As we know, it's exactly this segmentation of the boosters that led to the Challenger Disaster
-Sure, since the boosters were built in Utah transportation of the almost 600 metric ton boosters was an issue. But were those the only concerns (because I think there would have been other solutions to this with lower risk) or were there manufacturability issues or the like as well that led to the fatefull decision to use segmented SRB with field joints?
-Sure, the Question for "failure modes of segmented SRB" did not garner many answers but "risk of leaks" seems quite a big issue to address.

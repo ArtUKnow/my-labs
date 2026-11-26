@@ -1,5 +1,0 @@
-Which nozzle will fill the tank faster (or will they fill at the same rate), assuming that the tank is initially evacuated? for (C-duct -- CD nozzle )
-There are two types of nozzles: Convergent duct and Convergent-Divergent nozzle. Both are operated under the same conditions for filling the same tank.
-The answer says that the CD nozzle fills the tank faster since it can operate over a wider range of pressure ratios.
-My doubt is that both nozzles get choked after a certain pressure ratio. Although the CD nozzle can have supersonic flow through it at a low pressure ratio, the mass flow remains constant after the Mach number reaches 1 at the throat. The same applies to the convergent duct, which also gets choked once the flow reaches Mach 1 at the throat. Now, if we follow the answer given, which states that the CD nozzle can operate over a wide range of pressure ratios, this is also true for the convergent duct. I mean, the convergent duct can still operate at the maximum mass flow condition, which is its choked condition.
-So, I think that both nozzles will fill the tank at the same rate.

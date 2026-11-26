@@ -1,8 +1,0 @@
-GMAT Sun Ephemeris Output
-I need the sun's position vector for an analysis, conducted in Matlab.
-Thus, I let output the ephemeris files for the spacecrafts and additionally I would like to do the same with the sun.
-A Report file is not an option, as the integrator step size varys from iteration to iteration. And setting the stepsize to a fixed value is not good practice, and time costy in the propagation.
-So my question is: How do I output the ephemeris file of the sun from a GMAT propagation, as you can easily do with the spacecrafts?
-I would highly appreciate help here!
-Thanks a lot!
-Cheers!

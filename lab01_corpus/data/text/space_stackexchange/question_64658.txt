@@ -1,9 +1,0 @@
-How to maintain minimum distance between satellites for duration of their orbits
-I am working on a simulation in python that involves propagating hundreds of satellites over time. For simplicity, let's assume I have satellites at only a single inclination separated into multiple orbital planes by some right ascension offset. So the first plane would have inclined satellites at 0 deg RAAN, the second would have satellites at 30 deg RAAN, and so on. Furthermore, the satellites are all separated equally within each orbital plane by some true anomaly.
-My issue is that no two satellites should come within 100 km of each other for the duration of their orbital periods. This holds for most of the orbits, but each pair of orbital planes seems to intersect at two points, both of which may bring satellites within the minimum distance of each other (or even into each other). Additionally, if I introduce new orbital planes, there will be even more points of intersection among them. I am allowed to configure the following parameters:
-altitude by +/- 50 km,
-inclination by +/- 0.5 deg,
-RAAN by +/- 0.1 deg, and
-true anomaly by +/- 0.1 deg
-I am assuming 0 eccentricity for each orbit, so argument of periapsis isn't configurable.
-What would be the best way to approach this problem? Should I treat as an optimization problem and set the inter satellite distance for each pair of satellites as an objective function that needs to be maximized? In that case, I am assuming I can define constraints based on the existing constellation geometry and configurable parameters. Any help or guidance would be greatly appreciated!

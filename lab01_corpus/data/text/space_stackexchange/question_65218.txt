@@ -1,4 +1,0 @@
-How to do Preliminary Analysis of Spacecraft Primary Structure?
-I'm looking for specifics as to how preliminary analysis on spacecraft primary structure is performed (prior to CLA).
-I understand LV providers include CG load factors in their user manuals, but how exactly is this information used? Is it as simple as creating a FEM, fixing the spacecraft base (how it would be secured to the LV), and then applying the different loads through the corresponding axes?
-For example, the below table is taken from ECSS-E-HB-32-26A: Spacecraft Mechanical Loads Analysis Handbook for Ariane 5. Would I step through each flight phase and apply the combination of longitudinal and lateral accelerations? What is meant by "static" acceleration here and what is the additional line load?

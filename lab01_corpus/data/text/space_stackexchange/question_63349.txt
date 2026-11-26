@@ -1,7 +1,0 @@
-If a spacecraft's double hull filled with water is hit by a micrometeorite, could the water freezing or surface tension stop the leak?
-I'm thinking about the possibilities of water storage also serving radiation shielding for long space journeys (months to years).
-Assume within the solar system but outside of upper earth orbit. Consider a spacecraft with two outer hulls, with a water layer between them, partitioned into sections. Similar to double hulled oil tanker ships:
-If a low pressure, thin-walled (aluminum or steel?) tank of water surrounding the hull of a spacecraft is hit by a micrometeorite, could the water freezing seal the hole? Or would the thermal transfer in near vacuum be too slow?
-If the water tank pressure is low enough, would surface tension slow the water escaping enough to aid the freezing? Before the water becomes a bubble outside of the ship, or spreading all over the exterior.
-Because of all this contact with the ship, hopefully I'm not wrong in assuming the water would be liquid phase in the tank.
-The tank breach-hole would be fairly small but not insignificant to water. The most common micrometeorites near Earth mostly measure no more than a millimeter across and weigh less than a gram (or 0.04 inches and 0.04 ounces).

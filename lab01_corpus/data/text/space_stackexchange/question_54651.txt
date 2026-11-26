@@ -1,4 +1,0 @@
-How do orbits around Jacobi ellipsoids behave?
-The Earth is a Maclaurin spheroid (aka. oblate). This affects orbits, most notably $J_2$ rotating the node line for inclined orbits, enabling thins like Sun-synchronous orbits.
-But the Maclourin spheroid is only one of the hydrostatic equilibriums a body can be in. At higher angular momentum, it collapses into a Jacobi ellipsoid, having two different equatorial diameters.
-How does this shape affect orbits? Clearly, there can be stable orbits as Haumea has moons. But what effects do such orbits experience? In particular, there seems to be the possibility of "exotic" cases, such as synchronised polar orbits where the orbital radius is less than the greater axis of the body. Also, the shape of Jacobi ellipsoids kinds resembles tidal bulges, so can tidal forces be used to model such effects?

@@ -1,4 +1,0 @@
-Why does the hot side of the JWST vary so much?
-Usually the a sensor is in the low $50s$, yesterday it was $38^\circ C$, and today it is $55^\circ C$. Was it a measuring/reporting anomaly or does it really change that much?
-Here is the link to current temperature data:
-https://webb.nasa.gov/content/webbLaunch/whereIsWebb.html?units=metric

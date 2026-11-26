@@ -1,5 +1,0 @@
-Open problems in astronomy that a BSc. could contribute / attempt to solve?
-From this related question:
-Open problems in astronomy that an amateur (with a PhD in some other field) would have a chance of solving?
-What are some open problems in astronomy that an amateur would have a chance of solving? Suppose the amateur has a PhD in some other field, owns a basic telescope, a set of filters, diffraction gratings, cameras, and happens to know a lot about machine learning, signal processing, spectral estimation, statistics & design of experiments, and basic physics and chemistry...
-I'd like to extend it to the question: what are some open problems in astronomy that a graduated BSc. in astronomy, physics, math, etc could contribute towards solving? Without the limitation of observational research only. One related resource could be this List of unsolved problems in astronomy.

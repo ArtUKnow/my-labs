@@ -1,6 +1,0 @@
-Solid metal fuel for nano satellite thrusters
-A South African company is developing a solid metal fuel thruster that was initially researched by NASA but was not further developed,
-an electric reaction could be used to vaporise solid metal fuel, a process which then created a jet of fast-moving plasma that could propel a satellite
-They hope to develop a system that can,
-move stuff around in space with cheap and abandoned iron ore or other metals.
-For such a system to work, would the metal fuel need to be powdered, granular or in a slab, ribbon or metal strip form?

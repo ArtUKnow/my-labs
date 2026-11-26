@@ -1,7 +1,0 @@
-How to calculate degrees above/below horizon? (For KiNET-X rocket getting to an altitude of over 200 miles.)
-I live near Detroit, Michigan, USA. Let's say I'm viewing from 42.34768° N, 83.47610° W, altitude 718 feet (219 meters) above MSL (mean sea level.) (No, these are not my exact coordinates.)
-I've been ready each night to view the KiNET-X rocket launch, from Wallops Island, Virginia, USA, which will wind up near Bermuda at an altitude of over 200 miles (322 km.) 32.3078° N, 64.7505° W.
-Assuming the rocket winds up 200 miles over Bermuda, what is the degrees above or below the horizon that would be at, seen by my location?
-And, how is that figured out? All news sites covering this are using the same graphic, saying it should be visible even farther from me, as far as Chicago. Maybe it will be visible during its journey, but maybe by the time it's over Bermuda it won't be visible. I unfortunately can't find its expected trajectory.
-From my latitude and longitude to Bermuda's, https://www.nhc.noaa.gov/gccalc.shtml gives a distance of 1056 nautical miles (1956 km.)
-Ultimately, what I'm trying to figure out is how close it will be to the horizon, so if it's very close, I can decide whether to drive somewhere with better visibility every night until it actually launches.

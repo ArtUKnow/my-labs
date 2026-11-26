@@ -1,3 +1,0 @@
-RS-25 Component weight
-I need to determine the weight for specific components of the RS-25 Rocket engine. Namely the combustion chamber and nozzle separate from all other engine components?
-I must have found hundreds of pages containing fun facts about the shuttle rocket engine. But nothing that will tell me the weight of the combustion chamber and nozzle in isolation.

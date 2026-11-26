@@ -1,6 +1,0 @@
-SpaceX Super Heavy booster: Is it publicly known whether the failure of one engine to start prior to liftoff will result in a pad abort?
-Elon Musk, SpaceX’s founder and CEO, tweeted minutes later that engineers turned off one of the booster’s 33 engines just before ignition, and another engine “stopped itself.”
-“So 31 engines fired overall,” Musk tweeted. “But still enough engines to reach orbit!”
-Source: Spaceflight Now article
-One engine out after liftoff for this beast of a booster is unlikely to result in mission failure. But is it publicly known whether one engine out on the pad will cause a pad abort (meaning a shutdown of the running engines and termination of the launch attempt)?
-Note: Not looking for guesses or unsubstantiated answers.

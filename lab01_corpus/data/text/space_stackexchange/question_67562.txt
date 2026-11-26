@@ -1,2 +1,0 @@
-Modeling magnetometer for attitude estimation
-I am trying to model a magnetometer for attitude estimation of a CubeSat. I am confused on whether to use my estimated position from GPS or my true position from dynamics when calculating my magnetic field. The reference magnetic field is in the ECI frame and I need my measurement in the body frame. Do I transform this vector using the estimated attitude or truth attitude from dynamics. How will my kalman filter implementation look like?

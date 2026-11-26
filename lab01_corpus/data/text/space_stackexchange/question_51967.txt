@@ -1,3 +1,0 @@
-Why Starship prototype live video feed often fails but rocket telemeteries work consistently?
-On board Starship prototype cameras seemed to fail during test launches very often. However, during such video dropouts, the rocket telemeteries are still received without a hitch, so satellite uplink issue due to vibration is unlikely . Also the Falcon 9 launch footages on the other hand are pretty well taken.
-One possiblity may be that the video band width far out weighs telemetry signal. Is the vibration too much to handle or the speed of the rocket or is it weather driven or any other reason? What can be the solution, a new camera technology or a gyro-stabilized camera or use a C-band/Ku band frequency video feed?

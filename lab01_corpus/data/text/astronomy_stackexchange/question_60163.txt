@@ -1,8 +1,0 @@
-Where is earth located after 2 years in relation to Mars assuming perfect circle orbit and at the start both planets are aligned?
-According to Copernicus the assumption was that the planets orbit in perfect circles. Based on that his model was created. I was reading about this and I am confused on the following:
-The earth moves per day $\frac{360 ^\circ}{365} \approx 1 ^\circ$ per day
-Mars moves $\frac{360 ^\circ}{697} \approx \frac{1}{2} ^\circ$ per day (taking as the sidereal period for Mars as 697 days).
-Now lets assume that at a specific instance in time Earth and Mars are relatively aligned e.g. when Mars is in the meridian at midnight e.g. lets say positions $E_1$ and $M_1$.
-Now after 1 sidereal period of 697 days Mars will be again at the same position $M_1$.
-Earth will have completed 2 rotations around the sun within $( 365\frac{1}{4}\times 2 )$ days which is approximately 34 days after Mars completes its sidereal rotation.
-So at this point: would earth be at $E_1 + 34^\circ$ and Mars at M1 again or would both be at the same positions $E_1$ and $M_1$ and somehow the 2 sidereal periods of Earth align with 1 of Mars?

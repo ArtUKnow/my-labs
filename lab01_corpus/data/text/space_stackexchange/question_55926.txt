@@ -1,8 +1,0 @@
-Why does the Buzz Aldrin Mars Cycler not play a larger role in planning for Mars exploration?
-In 1985 Buzz Aldrin AKA “Dr. Rendezvous” proposed using a pair of space station habitats in solar cycler orbits as “Up and Down Escalators” for crewed Earth-Mars transfers. https://en.wikipedia.org/wiki/Mars_cycler
-The primary advantage is to reduce transit time and propellant consumption by leaving the most massive components in solar orbit. These two advantages are connected since required radiation shielding mass is proportional to transit time. None of the active shielding methods proposed to date appear to offer a weight savings over bulk material shielding. http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.733.9425&rep=rep1&type=pdf .
-Cycler space stations (“Castles”) uses were outlined in What uses would the Aldrin-Cycler have?
-In particular, radiation shielding mass, habitat and solar panels can be left in orbit instead of being repeatedly relaunched.
-The big downside appears to be the delta V at each end of the transfer, but this is only being applied to the small mass of cargo and its "taxi", not the entire “castle”. Propellant consumption is proportional to the mass being "delta-ed".
-The cycler concept seems to attract little attention compared with discrete spacecraft using Hohmann transfer orbits.
-Question: Why does the Buzz Aldrin Mars Cycler not play a larger role in planning for Mars exploration?

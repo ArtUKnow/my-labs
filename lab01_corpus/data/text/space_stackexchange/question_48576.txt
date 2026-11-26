@@ -1,3 +1,0 @@
-Closest distance at which cubesat (or comparable smallsat) has communicated with the Deep Space Network or any large 10+ meter dish? Cis-lunar ever?
-Discussion below Will future deep space optical communications "ground stations" actually be in space, or on the ground? has got me wondering about the improbable situation where a giant dish antenna on the ground has communicated with a tiny spacecraft.
-Question: Whatg is the closest distance at which cubesat (or comparable smallsat) has communicated with the Deep Space Network *or any large dish (say >10 meters) of any "space network"? Ever in cis-lunar space? Ever in Earth orbit proper?

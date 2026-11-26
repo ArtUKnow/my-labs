@@ -1,6 +1,0 @@
-Can liquid rocket engines have the same thrust as solid rocket engines?
-Take the Vega rocket launcher for example. Its first three stages are solid rocket engines and burn at a relatively short time. If I were to change its first stage into a liquid rocket engine, can this theoretical engine have the same thrust as the original one? Or would it make more sense to have a thrust-to-weight ratio greater than one but have a longer burn time?
-Possible constraints are:
-Same diameter
-Same mission profile (bring upper stages + payload up to 53 km of altitude)
-Same optimal expansion pressure

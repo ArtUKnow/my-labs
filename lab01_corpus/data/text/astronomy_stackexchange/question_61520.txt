@@ -1,9 +1,0 @@
-What is the Roche limit distance for a neutron star orbiting a supermassive black hole?
-There are three formulae for the Roche limit distance. They are all simple, but the second one doesn't require knowing the densities, just the ratio of their masses and the size of the neutron star.
-$d= R_m(2$${M_M}\over{M_
-m}$$)^{1/3}$
-where $R$ is the radius of the neutron star, $M_M$ is the mass of the black hole, and $M_m$ is the mass of the star.
-If the mass ratio is a billion, and the neutron star radius is 5 miles, the formula says that a neutron star could orbit a black hole until its surface was 1,260 miles above the event horizon.
-Right?
-So if a neutron star orbits lower than this, the tidal force will tear it apart even though its surface gravity is 200 million Gs.
-Is this correct?

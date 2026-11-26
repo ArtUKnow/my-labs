@@ -1,9 +1,0 @@
-Strict trigonmetric equality in the derivation of Analemma equation
-In the PDF "EQUATION OF TIME | PROBLEM IN ASTRONOMY" by M. Müller available here:
-https://users.ictp.it/~markusm/Papers/EquationOfTime.pdf
-We have the following part at pages 12 and 13:
-However i feel it's a little bit wrong because it shouldn't be a strict equality:
-$\tan (\varphi)=\cos (\varepsilon) \tan (\varphi^{\mathrm{P}})$
-but instead an approximation for small angles:
-$\tan (\varphi)\cong \cos (\varepsilon) \tan (\varphi^{\mathrm{P}})$
-If my feeling is wrong could you explain why? Thanks

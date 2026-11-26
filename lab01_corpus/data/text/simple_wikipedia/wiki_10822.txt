@@ -1,4 +1,0 @@
-Fangame
-Fangames are computer games created by fans based on popular video games. They are often made using C++, The Games Factory, Multimedia Fusion Express, and GameMaker. But now with free versions available of powerful game development tools available, some fangames are made in either Unity or Unreal Engine. One fangame planned to be produced by Capcom and Marvel Comics was 1992's fighting game Marvel Task Force, similar to Justice League: Task Force, another fighting game.
-Other websites
-The Click Wiki - information about Multimedia Fusion, The Games Factory.

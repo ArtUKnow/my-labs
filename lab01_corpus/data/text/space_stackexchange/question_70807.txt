@@ -1,4 +1,0 @@
-Is Gordon Cooper the first object to launch into Earth orbit twice?
-I began wondering about the first object to fly twice, and realized astronauts certainly re-flew on missions, so they may be the best contender.
-I then referenced Jonathan McDowell's list of astronaut flights, maintained here: https://planet4589.org/space/astro/lists/rides.html and scanned down the column identifying riders sequentially (the column which has AS-00001 as its first entry). The numbers count up continuously, aside from AS-00011 (Joe Walker's X15 flights), AS-00003 (Gus Grissom, first on Mercury-Redstone 4 and then on Gemini III), AS-00024 (Joe Engle, X15), and then AS-00012, Gordon Cooper flying on Gemini V after his earlier flight on Mercury-Atlas 9.
-Grissom's first flight was suborbital, and the Joes were also suborbital on X-15, so I feel pretty confident that Cooper was the first person to fly into orbit twice. Was any other object flown into orbit twice prior to him?

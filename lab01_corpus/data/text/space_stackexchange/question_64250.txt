@@ -1,6 +1,0 @@
-How long would it take to travel from the moon to the asteroid belt/Jupiter with fusion powered space travel?
-I am writing a science fiction story that involves fusion powered space travel, but not constant acceleration like in the Expanse. Instead, the manned spacecraft accelerates at the beginning of the journey but coasts at constant velocity most of the way. The setting is roughly 100 years from now, so technology has developed significantly.
-I would like to know how long it would take to travel from the moon to the asteroid belt with this technology, assuming realistic constraints and optimal trajectories.
-Additionally, how long might it take to reach Jupiter from the moon?
-What plausible future technologies might allow for a shorter journey (without achieving constant acceleration)?
-Edit - To clarify, by "optimal trajectories" I mean shortest travel time. Thank you all for the helpful resources.

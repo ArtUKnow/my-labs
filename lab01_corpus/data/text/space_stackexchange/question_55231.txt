@@ -1,7 +1,0 @@
-How would you calculate the Delta-v needed to intersect a target on the ground on a sub-orbital trajectory?
-Let's say I have a sub-orbital trajectory, meaning I'm going to crash into the earth at some point within the first orbital period. I know the true anomaly in which I will impact the surface and by reversing kepleriain orbital elements I also know the position vector of my impact. I've also taken into account earth's rotational speed to find my actual position of impact.
-I also know my targets position vector and have also calculated the actual position vector of my target accounting for earth's rotation.
-Though I want my current impact position to intersect my target's position.
-So what I did was convert my impact position and my targets position into latitude and longitude coordinates.
-Then I calculated the bearing between them which gave me the direction I should point towards to get my current impact position to intersect with the target's position. Now I Know the heading I should burn towards.
-Ignoring aerodynamic effect and earths rotation. How would I calculate the Delta-v needed to change my impact position so that it intersects with the target's position?

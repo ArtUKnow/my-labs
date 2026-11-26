@@ -1,7 +1,0 @@
-Weaponizing the Starlink constellation
-Starlink aims at having tens of thousands of satellites in orbit in a few years. At any given point in time there will be a large number of satellites close by any inhabited places, including the launch sites of the space faring nations.
-The Starlink satellites are maneuverable and can slightly alter their orbits.
-Could this satellite cloud be used to deny access to space? Launches typically follow a predictable protocol along a timeline because of fueling constraints, weather and probably other factors. Would it be possible to mass-target a launch window and destroy any vehicle passing through Starlink's orbital altitude?
-Could the satellites be used as kinetic weapons to destroy other satellites in equal or lower orbits? After all, they already unintentionally cause an increasing number of close encounters that must be managed.
-Could the satellites' radio equipment be used to blind or impede electronic installations? Even if each satellite's signal strength is low, targeting specific enemy satellites or even Earth-bound stations with thousands of Starlink satellites at the same time may cause significant interference.
-If Starlink has this strategic potential: Is there anything known about backdoor access by the U.S. military to Starlink satellites?

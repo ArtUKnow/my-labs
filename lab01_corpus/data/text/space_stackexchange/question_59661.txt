@@ -1,4 +1,0 @@
-Are J2 and J4 cases of EGM2008 and other spherical harmonics models?
-EGM84, EGM96, EGM2008... are Earth gravity models that contain coefficients "up to" a number of degrees. When using GMAT, STK, MATLAB Aerospace, this parameter is the "spherical harmonics degree" that is usually configured along with the desired EGM. For example, one may use EGM2008 with 60 degrees, or 120 degrees, etc.
-I wonder if the simpler gravity model of order J2 or J4 are a low-order instance of EGM2008, and can therefore be expressd in terms of spherical harmonics degrees of such EGMs.
-Is there a correspondence between J2/J4 and the degrees of these EGM?

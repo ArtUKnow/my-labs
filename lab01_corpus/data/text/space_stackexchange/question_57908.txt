@@ -1,4 +1,0 @@
-How do I know the exact TLE of my satellite after its deployment?
-The satellites are launched in a cluster. How can I validate the TLE of my satellite in the early days following deployment, because there are more than two satellites that are close to each other and it's difficult to identify the TLE of a certain satellite?
-When I questioned one professor about it, he stated that we should start by assuming the TLE of one satellite and we need to claim our satellite to satellite tracker station based on TLE. As time passes, the satellites will spread apart and their locations will change. After that, we need to rotate our satellite's antenna, and once we obtain a signal, we'll know the satellite's TLE by cross-checking, and we'll be able to corroborate our prior supposition.
-How do we know the TLE after getting the signal and how do cross-check work? I'm not sure I've grasped the full picture here. Is this the only technique to determine the satellite's TLE?

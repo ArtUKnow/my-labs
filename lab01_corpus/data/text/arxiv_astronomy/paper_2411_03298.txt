@@ -1,2 +1,0 @@
-Production and propagation of secondary antideuteron in the Galaxy
-This work reviews the current state of the antideuteron ($\bar{d}$) production cross-sections in cosmic ray interactions and its uncertainties, considering the coalescence model and measurements in accelerator experiments. These cross-sections have been included in a simulation of cosmic rays propagation in the Galaxy using GALPROP v.57, with updated parameters of the diffusive reacceleration model. An estimation of the expected antideuteron flux at Earth is presented.

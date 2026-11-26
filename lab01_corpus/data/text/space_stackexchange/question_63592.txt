@@ -1,4 +1,0 @@
-Reducing degree of ICGEM's Gravity Field Models for orbit propagation
-I would like to use one of the static gravity field models published at ICGEM for satellite orbit propagation. For example, EGM2008. Its degree is 2190. I would like to use only 360 (may be even less) coefficients of this model to get precession that is good enough while keeping algorythm peformance acceptable.
-Accoding to .gfc file the coefficients are "fully_normalized".
-Does that mean that I can't just peform 360 iterations instead of 2190? And I need to convert 2190 nomalized coefficients to unnormalized then limit their number to 360 and renormalize them? If so, am I right that I can use eq. 1-2 from this article for that?

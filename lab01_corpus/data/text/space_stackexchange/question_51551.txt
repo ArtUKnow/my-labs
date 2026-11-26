@@ -1,2 +1,0 @@
-Why is an inflatable balloon inside a fuel tank not used to prevent fuel from "sloshing around"?
-After seeing all the Starship failures, having something with a membrane keep things in place seems like an obvious solution. Has it been considered or tested - or do we simply lack a material that is elastic at the (cryogenic) temperatures required? What would it theoretically take? What subjects would you need to study to develop such a material?

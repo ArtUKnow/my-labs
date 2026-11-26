@@ -1,7 +1,0 @@
-Can the Tirada-2S satellite communications electronic jamming system be used to jam the Starlink network?
-In this October ~7, 2022 Reddit post, I'm reading some conflicting information on whether the Tirada-2S satellite communications electronic jamming system can be used to jam the Starlink network:
-Interruptions in work with Starlink in Ukraine may be related to the field tests of the Tirada electronic warfare systems, designed to suppress enemy satellite communication lines, conducted this week. Says the Russkie rybar channel
-Ukrainian troops are complaining about disruptions in the Starlink satellite communications system owned by American billionaire Musk, the Financial Times writes, citing sources.
-A senior Ukrainian government official told the publication that some of these outages resulted in "catastrophic" loss of communications and caused panic.
-Problems with the operation of the devices were serious in the regions of Kherson and Zaporozhye regions, they were also observed in the Kharkiv region and during the activities of Ukrainian troops against the troops of the DPR and LPR.
-Question: Can the Tirada-2S satellite communications electronic jamming system be used to jam the Starlink network?

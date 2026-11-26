@@ -1,6 +1,0 @@
-Is it possible to conclude the expansion is accelerated only from distance modulus vs redshift
-Is it possible only from the average distance modulus and redshift Z in the set of data :
-https://supernova.lbl.gov/Union/figures/SCPUnion2.1_mu_vs_z.txt
-Which can be represented by :
-To conclude that the expansion of the universe is accelerated ?
-And above all, if yes, how ? With what calculation ?

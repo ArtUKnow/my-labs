@@ -1,6 +1,0 @@
-How do the roll-rings at the ISS work?
-I get that on the ISS they need to keep the solar panels constantly rotating to keep them looking towards the sun.
-To transmit the electricity and data to and from the Solar panels truss structure they use a piece of equipment called roll-rings, that transmit data and energy through an external strip to a rotating conductive middle circunference, and then to an internal conductive strip.
-My question is:
-How do you keep that middle circunference rotating, making electric contact and not fusing (soldering/welding) with any of the two conductive strips?
-If there is vacuum in space, then when you send something to space, there is no small air cushion between the parts, and that's why I think it makes sense that 2 metallic parts touching each other ,in the (almost) vacuum of space, would solder.

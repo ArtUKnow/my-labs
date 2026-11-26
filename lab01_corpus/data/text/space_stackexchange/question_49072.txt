@@ -1,4 +1,0 @@
-Is there a publicly available inventory of things sent to the ISS?
-I spent some time looking through NASA datasets and news articles, and couldn't find anything, so I'm hoping that someone in the community will know better than I do:
-I'm trying to understand what the ISS consumes and how much. Water, food, oxygen reclaimers with limited service lives, etc. Is there a publicly available list of everything sent to the ISS, or at least everything sent in a certain timeframe, including either individual items or general categories and quantities of each in a given launch or timeframe?
-Note: This question is superficially similar to Is there an inventory of what is on the ISS?, but that question disregards the ongoing replacement of things like food and water, only considering how much food and water is on the ISS at any given time. I'm interested in the total flow of stuff, how much is sent and how often, so I can get a better idea of what the ISS consumes.

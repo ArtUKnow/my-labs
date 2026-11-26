@@ -1,6 +1,0 @@
-Space comms technologies to implement as a side project
-I am an embedded SW engineer working on audio DSP and in my spare time I am trying to learn about space communications, as a vehicle to get into the field, which I find very interesting but I don't know much about.
-I would like to start perhaps with writing some software to implement downlink telemetry (CCSDS, FEC, timing and SNR measurements, on an stm32, ground station simulation with Python, etc).
-Any comments on following this path? are these technologies in demand? any caveats?
-Thanks,
-Juan.

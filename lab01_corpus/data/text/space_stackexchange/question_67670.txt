@@ -1,5 +1,0 @@
-Would large fauna besides humans make a CELSS more stable?
-The Biosphere II project showed us - by failing - that building a CLESS (Closed Ecological Life Support System) is very difficult, although (obviously) one failure does not prove impossibility.
-I have read (although I do not remember where!) that one of the reasons that the project failed was that, since humans were the only large fauna in the system, and humans live a very long time, there was very little decomposition of animal tissue going on, which meant that those biochemical cycles which rely on animal decomposition to function were severely hampered.
-If the hypothesis I have described in the above paragraph is true, it would seem to me that adding some kind of large but relatively short-lived fauna should make the CLESS more stable and less likely to fail, but I cannot be sure.
-To summarise the question, then: Would adding some kind of large but relatively short-lived non-human animal to a Closed Ecological Life Support System make the system's biochemical cycles less likely to break down?

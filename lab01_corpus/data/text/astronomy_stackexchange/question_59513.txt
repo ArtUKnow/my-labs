@@ -1,5 +1,0 @@
-Are there any images of solar flares in the visible spectrum?
-Whenever I see images of a solar flare on the internet, I only tend to come across images of the flare in the UV/X-ray spectrum, for example, this one (The numbers in the image refer to the wavelength of EM radiation it was imaged in, in angstroms) :
-The only instances I've come across descriptions of a solar flare in the visible spectrum were from text descriptions describing it as a "bright flash of white light", and only sketches of solar flares in the visible light.
-So, my question is, are there any images of solar flares in visible light? (Barring H-$\alpha$)
-When I mean visible light images, I'm referring to pictures of flares which were imaged in the entire range of EM radiation with wavelengths between 380 to 750 nm, not just in an exclusive wavelength of light (like H-$\alpha$)

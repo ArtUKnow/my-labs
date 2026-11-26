@@ -1,7 +1,0 @@
-Why are ceramic tiles used instead of other novel solutions, for non-ablative heatshields?
-Are tiles that much more cost effective as a thermal protection system?
-What other novel methods have been tried? The obvious issues seem to be different thermal properties and rigidity and how to attach them, and weight.
-Non-ablatives/erosives are of course required for reuse. After some research I found fibre-glass with novel resins (Mercury reentry heat shields; material composition, manufacturing process and explanation of all those concentric ridges?), reinforced carbon, glass and aerogel as alternatives.
-First question: Which novel materials have been conceived and if not tested yet, what technical challenges prevented that? Eg. Fibreglass blankets (does it even have to be attached?), or paints and resins containing things like aerogels or glass, or simply steels with higher temperature tolerances - what are the limits here?
-Why not use the existing rocket engines, that seem to be able to take much more heat, as heatshield?
-Follow-up question moved here: Why does the heatshield have to be on the outside?

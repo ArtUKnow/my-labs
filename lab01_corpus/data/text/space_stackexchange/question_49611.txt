@@ -1,6 +1,0 @@
-What are the implications of North Korean black and white patterns on missiles?
-Black and white patterns on rockets were originally intended as roll patterns. They helped as a visual back-up for acceleration sensors measuring the roll, as discussed in this previous question What is the purpose of the black-and-white patterns on some rockets?.
-However, many modern rockets don't have these patterns, implying they are no longer necessary, which makes sense as accelerometers have become more than accurate enough to just smack on a few extra for redundancy and be fine, I'd assume.
-Nonetheless a few recent missiles revealed by North Korea do have these roll patterns (see for example this ICBM or sub-marine launched missiles). I find this quite weird as I'd assume North Korea to have access to modern accelerometers through China.
-So the real question becomes: Could there be other reasons to have these black and white patterns apart from aiding in roll measurements?
-Or do the North Koreans just like the old school look of the rockets as much as I do?

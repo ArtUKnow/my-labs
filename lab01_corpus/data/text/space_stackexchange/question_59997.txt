@@ -1,6 +1,0 @@
-What is the best chemical rocket fuel from a purely specific impulse standpoint?
-A variety of different rocket programs use a variety of different fuel types. Researching this, the main fuel combinations I saw were: RP-1 / LOX (SpaceX's Falcon rockets, early stage Atlas and Saturn rockets), methane / LOX (SpaceX's Starship), HTPB (ISRO's PSLV), PBAN (NASA's SLS boosters), LH2 / LOX (upper stage Ariane rockets and SLS) and UDMH/N204 (ISRO's GSLV). Nevertheless, these fuels aren’t used solely for their specific impulse because other factors such as toxicity and cost are considered.
-According to Wikipedia
-The highest specific impulse for a chemical propellant ever test-fired in a rocket engine was 542 seconds (5.32 km/s) with a tripropellant of lithium, fluorine, and hydrogen. However, this combination is impractical.
-Theoretically, what other chemical propellant combinations would yield high specific impulse values and why would those combinations have a high specific impulse?
-Edit: Thanks to Organic Marble for pointing out that I missed the LH2/LOX combination and pointing out that I hadn't thought of ion drives (though this question is limited to chemical rockets).

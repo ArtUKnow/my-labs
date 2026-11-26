@@ -1,4 +1,0 @@
-What do the module walls look like on the ISS?
-I know they are about 10cm thick and act like a whipple shield. https://ntrs.nasa.gov/citations/20120002584
-It should be two layers of aluminum. But when I look at the photos from the inside, the walls look black.
-Is there anything else in the walls? For example cooling (tubes with cooling liquid), some sensors, distributions and so on? How "functional" are the walls? Or is it just several layers of different materials?

@@ -1,9 +1,0 @@
-Did JWST launch directly into an earth escape trajectory?
-My understanding of the JWST trajectory timetable (or the bits that I care about for the purpose of this question) is the following:
-Launched by Ariane rocket directly into escape trajectory (from earth).
-Unfold (for a month), with occasional trajectory modifications.
-More time passes, with more trajectory modifications.
-Arrive in operational (unstable) halo orbit around earth-sun L2.
-But I recall something about a "preliminary orbit" in the broadcast. And it seems to me that, if the Ariane upper stage can fire a second time after a delay, it would make sense to perform some checks in orbit before launching the telescope onto an escape trajectory -- ranging from "deploy solar panels and check power levels" to "unfold everything" depending on how much delay the upper stage can tolerate. (Although I'm guessing that "unfold everything" would give the liquid hydrogen fuel plenty of time to boil off.)
-Looking online, I have a hard time finding a direct statement answering this question; most of the information that comes up in my search is about the final orbit.
-Does/did the JWST have any kind of stable earth orbit (with no rockets firing for at least, say, 60s) before being propelled into an earth escape trajectory, and if so, what was done during this time?

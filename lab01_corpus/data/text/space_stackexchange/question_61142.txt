@@ -1,2 +1,0 @@
-How to make my generated two line elements more accurate?
-I am using Orekit to generate TLEs. I am then propagating those elements out and comparing it to the ephemeris used to generate them. This results in a residual error in excess of 20 km. I am not exactly sure why my answers are so off. Is there any general way I can improve my answer?

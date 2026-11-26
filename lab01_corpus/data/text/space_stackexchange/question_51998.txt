@@ -1,9 +1,0 @@
-Has sound ever been used to diagnose a problem not shown by other measurements?
-In a video released by NASA here, showing Perseverance recording one of Ingenuity's flights, they have the quotes:
-Sound adds a new dimension to space exploration.
-and
-As a mechanic listens to a car, engineers can now hear how their machinery is performing on another planet.
-I'm curious at to whether there have been any documented issues solved by an engineer or astronaut hearing something out of place.
-While I'm mainly looking for humans diagnosing an issue based on sound, we already know that acoustic triangulation has been used to determine failure within a rocket:
-"We’ve got microphones, technically accelerometers, at various points on the upper stage, and by looking at the exact timing of high-frequency events on the stage, we can, by acoustic triangulation, identify the location where the snap occurred or the breakage occurred via sound." - Elon Musk
-So any examples of automated acoustic diagnosis would also be interesting.

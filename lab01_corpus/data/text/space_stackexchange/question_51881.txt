@@ -1,7 +1,0 @@
-Dragon RCS: Four controlled degrees of freedom... or six?
-Would Dragon's RCS clusters allow it to translate cleanly left-right and backward-forward, like a crab? Or are they meant only for roll/pitch/yaw control + longitudinal (up/down) translation, like an airplane?
-In other words, do the RCS clusters allow control over a full six degrees of freedom (x/y/z translation, x/y/z rotation), or just four degrees of freedom (x translation, x/y/z rotation)?
-EDIT
-I'm sure some RCS thruster combinations would give you a sideways translational velocity, even if this is not by design. But an incidental sideways translational velocity isn't very useful if it comes coupled with undesired rotations or translations (along other axes).
-If all you need is a pure +Y translation, but that translation comes with +Z rotation and +X translation, you're in trouble if you don't cancel out those undesired motions---you wouldn't want an inadvertent yaw when you're about to dock, nor would you want to inadvertently accelerate forward and risk a harder collision with the docking port.
-So what I'm asking, I guess, is this: Is there any combination of RCS thrusters that will give you *clean, pure left-to-right and back-to-front translation with those RCS clusters? And is this required for rendezvous, or do spacecraft normally rendezvous and dock with just the four degrees of freedom an airplane operates with?

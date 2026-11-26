@@ -1,7 +1,0 @@
-Are there plans to return empty sample containers as an experimental control?
-The Perseverance rover contains 43 sample tubes for collecting Martian soil and rock samples that will eventually be returned to Earth. The tubes have been extensively cleaned, so their contents reflect the actual conditions of Mars and not contaminants from Earth.
-It is good scientific practice to process an empty container as an experimental control. Such a control can help evaluate whether contamination or other issues have occurred. Are any of the sample tubes expected to be returned empty as an experimental control?
-(The five additional "witness tubes" are designed as a kind of control, so an answer explaining them would get my upvote. However, they are not empty, so such an answer will not get the checkmark.)
-Related:
-Why does the Perseverance Rover do sample caching?
-Are the Perseverance core samples extracted from the drill bit before being stored?

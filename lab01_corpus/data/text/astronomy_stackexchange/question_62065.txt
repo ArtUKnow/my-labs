@@ -1,9 +1,0 @@
-Why does Mars show greater retrograde arc amplitude when farther from Earth (2012) than when closer (2003)?
-I've been comparing Mars retrograde motion data from JPL Horizons for the 2003 and 2012 oppositions and noticed something unexpected:
-2003 opposition: Earth-Mars distance = 0.373 AU (55.8 Mkm), retrograde arc ≈ 40 arcminutes in RA (over 61 days)
-2012 opposition: Earth-Mars distance = 0.674 AU (100.8 Mkm), retrograde arc ≈ 72 arcminutes in RA (over 81 days)
-In the heliocentric model, retrograde motion results from Earth overtaking Mars, creating an apparent parallax effect. Geometrically, I would expect the angular amplitude of retrograde motion to be inversely proportional to the Earth-Mars distance—greater amplitude when closer, smaller when farther.
-However, the data shows the opposite: nearly twice the retrograde arc amplitude when Mars is almost twice as far away.
-I understand that Mars was near perihelion in 2003 (moving faster) and near aphelion in 2012 (moving slower), which affects the duration of retrograde motion. But duration and amplitude are geometrically distinct—like overtaking a car on a highway: regardless of relative speeds, the angular displacement during overtaking should depend on distance, not velocity.
-What is the standard astronomical explanation for this counter-intuitive observation? Are there geometric factors (orbital inclination, 3D projection effects, etc.) that I'm missing, or is there published literature addressing this specific phenomenon?
-I'm seeking a rigorous geometric explanation, ideally with references to technical literature.

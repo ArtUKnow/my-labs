@@ -1,2 +1,0 @@
-How do I make thrust dependent on the altitude of a spacecraft in GMAT?
-I want to simulate the low-orbit flight of a spacecraft with atmosphere-breathing electric propulsion in GMAT. However, I couldn't seem to find any way to make the thrust, produced by any of the available choice of thrusters, dependent on the atmospheric density or the altitude of the spacecraft. Is there any way to do that in GMAT?

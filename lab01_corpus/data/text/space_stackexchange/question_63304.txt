@@ -1,6 +1,0 @@
-Why don't SpaceX boosters belly flop?
-The first F9 booster landing attempts failed because the booster broke up. After that, they began lighting the engines in the upper atmosphere to slow the booster.
-It seems to me that their problem was created by the fact that they pointed the ends of the slender booster into the airflow, preventing it from slowing down in the upper atmosphere. Wouldn't belly flopping the F9 (and Super Heavy) like Starship solve this problem?
-The answer to this question depends on a number of questions. What is the CG of the booster? For the F9, empty weight is 25.6t, of which on 4.23t us the engunes. This suggest a the CG us very close to halfway up. For the Super Heavy, it seems that the engines weigh 50 tons, the interstage weighs 30 tons, and the tanks weigh 80 tons. It would seem that the Super Heavy CG is also close to the middle.
-EDIT
-Many are suggesting that the boosters cannot handle the lateral forces. But the above data shows that both of them can withstand accelerations of 30gs axially when empty.

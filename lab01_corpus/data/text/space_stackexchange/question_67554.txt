@@ -1,5 +1,0 @@
-Would it be possible to use a Cygnus resupply spacecraft as a temporary space station?
-The Cygnus spacecraft used for resupply missions to the ISS is built by Orbital Sciences. The Mission B variant is due to fly next year and has an internal volume of 36 cubic metres, (1,300 cu ft) and a design life of 2 years.
-Would it be possible to avoid the development problems of designing a new station and use an off-the-shelf one of these as a stop-gap space station if Axiom et al don't have their space stations available when the ISS is deorbited?
-Cygnus has its own power supply but probably not life support, that would have to be provided by visiting craft as is planned for the Haven-1 station.
-I notice this idea is not in the CLD proposals.

@@ -1,3 +1,0 @@
-About telescope load
-I am using planewave CDK24 Telescope. The focuser I am using is IRF90 which has maximum load capacity of 18 kg. The load that I am going to attach is 14 kg. Is this alright to attach this weight?
-Is there any rule or reference in telescope and astronomy community, on the permissible weight of the load given the max load capacity of the focuser which is 18 kg in this situation.

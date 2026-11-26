@@ -1,5 +1,0 @@
-What is an eastward tilt of the Earth's rotational axis?
-I recently read this article that states that groundwater pumping has caused an eastward tilt of the Earth's rotational axis.
-I am confused about which direction an "eastward tilt" is in regards to the rotational axis, as it seems to me that "east" is not well defined at the pole.
-Is it simply that since the rotational axis is different from magnetic north, they are saying that the rotational axis moved east as defined by the magnetic north pole?
-If this isn't astronomical enough, I guess the question could be generalized to ask what an eastward movement of an arbitrary planetary body's rotational axis is defined as. Bonus points for also considering the case where the planetary body's magnetic north and rotational axis are the same, or even a planetary body without a magnetic field.

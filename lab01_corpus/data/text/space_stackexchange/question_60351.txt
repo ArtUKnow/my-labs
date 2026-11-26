@@ -1,4 +1,0 @@
-What happens if the mass flow rate is increased continuously in a converging nozzle?
-I recently studied about nozzles where I came to know that the maximum velocity one could attain using a converging nozzle is the sonic velocity at the exit of the converging nozzle. An further decrease in the exit area would only decrease the mass flow rate (as area is decreased) and the velocity at exit would remain sonic.
-So, what happens if we keep on increasing the mass flow rate through a converging nozzle after attaining sonic velocity at exit?
-My intuition says the mass gets accumulated inside the nozzle and the nozzle would explode eventually.

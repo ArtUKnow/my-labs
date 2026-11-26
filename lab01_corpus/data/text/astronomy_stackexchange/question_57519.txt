@@ -1,5 +1,0 @@
-Radar Observation of a Meteor Shower (April-Lyrids)
-The 2024 Meteor Shower Calendar of the International Meteor Organization mention the April Lyrids (006 LYR) as follows: Lyrids (006 LYR) - activity: April 14–30, maximum is expected on April 22, 07^h UT [p.6/28]; radiant: α=271°, δ=+34°.
-Translating 0700h UT to Indian Standard Time [IST] is 1230h IST.
-At Ernakulam (10.04 °N, 76.33 °E), the radiant of the April Lyrids rise is at 21h56m, transit at 4h29m and set at 10h58m (as per Stellarium).
-If I need to make a radar observation of the shower's peak for detection and the probable ionosphere disturbances, should I focus on the expected maximum at 1230h IST or during the window 2156p.m.-1058a.m. IST [22-23 April]?

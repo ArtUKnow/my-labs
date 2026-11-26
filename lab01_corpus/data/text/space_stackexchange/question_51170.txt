@@ -1,8 +1,0 @@
-Has any rover dragged a magnet across any solar system body to see what gets picked up or made magnetic measurements of specific rocks or particles?
-On Earth, amateur and sometimes professional scientists collect dust from the tops of buildings or mountains (see also) and separate it with a magnet to obtain meteoric material. Not all meteoric material is ferromagnetic, but plenty is.
-I am curious if anything has ever been done a similar test on another solar system body, Mars, Moon or otherwise.
-CNET's NASA Perseverance Mars rover investigates 'odd' rock, zaps it says:
-Mars is a haven for meteorites, and it's always notable when a rover comes across one of these emissaries from space. Scientists are scrutinizing a holey rock spotted by NASA's Perseverance rover that bears a resemblance to meteorites seen elsewhere.
-and here's another example from this answer to Who discovered “Egg Rock”? The Curiosity rover or people?
-Question: I'm simply wondering; has anybody or anyrover dragged a magnet across any solar system body to see what gets picked up or made magnetic measurements of specific rocks or particles?
-note: If I had a rover on Mars I'd have it throw out a fishing line with many thin, flat rare earth magnets and "fish" for magnetic particles by dragging it along for a while, then go back and check it with a MAHLI-type inspection. Of course it would get hung up and jeopardize the mission and they wouldn't let me have any more rovers to play with.

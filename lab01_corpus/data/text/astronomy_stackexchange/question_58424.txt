@@ -1,2 +1,0 @@
-Drawing celestial equator, ecliptic, and galactic equator on a stereographic star chart
-Given a star map (stereographic projection), suppose I have identified the pole star, latitude, and one zodiac constellation. After that, how do I precisely draw upon the map the celestial equator, the ecliptic, and the galactic equator (maybe some other information is needed for this)? What will be the shapes of these structures?

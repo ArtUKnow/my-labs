@@ -1,6 +1,0 @@
-Why do multiple parachutes have stable spacing rather than bunching together?
-https://commons.wikimedia.org/wiki/File:Apollo_17_Splashdown.jpg
-https://avitec.pl/wp-content/uploads/2023/01/G-11B-cargo-parachute_1.jpg
-Since the riser can only generate tension along its axis and drag can only be in the axis of motion, a simple vector diagram implies all parachutes should experience a resultant which moves them towards their common vertical.
-In addition, the venturi effect of air flowing between adjacent parachutes should generate a force to draw the parachutes together. This is the same effect which “sucks ships together” when they are steaming in close parallel formation (as in when replenishing underway) .https://www.youtube.com/watch?v=c_DUlhl0oxk
-Obviously this problem has been solved, but how?

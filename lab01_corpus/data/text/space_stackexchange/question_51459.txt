@@ -1,6 +1,0 @@
-How problematic is debris for Starship storage/depots?
-So with the recent announcement that Starship has been selected as NASA's HLS (which is pretty radical), it's raised a question in me that been around for a while.
-For HLS; a Starship storage(depot) will be placed into LEO and then have 10 launches to refuel it. The HLS Starship will then dock with the Starship storage and go off to NRHO. This means that a relatively large object/target (Starship storage) will be in LEO for an extended period of time (depending on turn around time and amount of tanker ships of course). Unlike the ISS, it looks like Starship will be using 3-4mm steel tanking instead of a whipple shield, making it (I think) more vulnerable to debris. If the Starship storage methalox tanks gets hit by a Micrometeoroids and Orbital Debris (MMOD) that punctures it; I think the mission becomes untenable as a result of the leakage/contamination. There's also an ever increasing population of debris in LEO. This leads to these questions:
-How big of a piece of MMOD would be required to penetrate the Starship tankers?
-Is this sized MMOD trackable and avoidable?
-If not, on average how frequently would Starship be hit by the unavoidable MMOD?

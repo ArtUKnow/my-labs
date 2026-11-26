@@ -1,4 +1,0 @@
-Matching reference thrust to engine given certain parameters
-I am running a simulation where a reference thrust value is meant to be matched by a liquid engine which I know the following information about:
-$"F_{vac}=100000"$ N, $I_{sp}=364$ sec, $D_e=1.01$ m, $P_e=9800$ Pa. The $F_{vac}$ is its maximum achievable force in vacuum, and the engine can be fully throttleable from $10\%$ to $100\%$ of this value.
-From a reference solution, the reference thrust to be match varies. For each different time step, $P_a$ ambient pressure varies too and I know that value as well. How can I calculate the overall thrust given thrust pressure losses for both when the nozzle is over-expanded and under-expanded?

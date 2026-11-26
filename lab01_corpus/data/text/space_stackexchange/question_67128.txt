@@ -1,7 +1,0 @@
-What's a realistic cadence for refueling an HLS Starship on-orbit?
-In the wake of the IFT-5 booster catch, I've started to wonder what a realistic timeframe for refueling a lunar starship is. From T-0 of a lunar starship launch to fully fueled for an Artemis mission, how much time will elapse?
-It seems like there are a few potential long-poles to slow things down:
-the rate of Starbase and/or KSC to take delivery of liquid oxygen and liquid methane.
-the number of pads available (2 at Starbase, 1 or 2 at KSC?)
-launch opportunities for minimizing rendezvous cross-track/plane changes
-I don't think I've seen a lunar Starship HLS concept-of-operations (CONOPS) that includes a timeframe, just the infamous numbers of launches.

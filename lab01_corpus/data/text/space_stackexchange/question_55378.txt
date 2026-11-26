@@ -1,9 +1,0 @@
-Number of satellites needed for global 4-fold coverage as a function of altitude?
-I want to estimate how many satellites (and how many number of planes) are needed for achieving a 4-fold global coverage on earth (global coverage with at least 4 satellites in view in each location). To do this I basically compute the area of coverage for a single satellite (A_Cap), and I divide the total earth surface by the coverage of a single satellite. The equations I use are (based on Figure 1):
-Acap = 2*pi*Re^2*(1-cosd(Phi))
-Where Phi is the cap angle and is computed as:
-Phi = acosd(Re/(Re+h)*cosd(Alpha))-Alpha;
-Where Re is the radius of the Earth, h is the orbit altitude and Alpha is the minimum elevation angle for consider the satellite in view.
-To compute the numbe rof satellites I need I do:
-Nsv = N_fold*A_Earth/Acap
-Where N_fold is the needed number of satellites in view at any location (in my case 4). Doing this I belive I'm overestimating the number of satellites (since I'm just multiplicing the coverage of 1-fold by N). Do you have any other idea how I could solve this problem?

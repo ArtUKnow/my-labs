@@ -1,2 +1,0 @@
-SNR (Signal to noise ratio) from image
-I have JWST images across 7 filters. I extracted sources by using SExtractor. How can I estimate the SNR of each source in each filter. Should I use flux/flux_err or use flux/background_rms. (flux and flux_err are in units of counts and background_rms is the value given by SExtractor) ?

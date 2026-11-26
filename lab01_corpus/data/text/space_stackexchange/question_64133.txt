@@ -1,8 +1,0 @@
-Gemini Ejection seat usage during late stages of reentry
-Gemini in one way or another was a somewhat unique spacecraft. One such unique feature was having a ejection seat. While reading trough the document Development and qualification of gemini escape system a specific question came to my mind.
-In the document you can read the following
-the Gemini ejection seat is qualified for flightcrew escape from the Gemini spacecraft from pad aborts to 45000 feet (13.7km)
-These ejections seats where mainly meant to be used in case of a Titan booster failure. Some small mentions are made of using them in case of a parachute failure but what about using the ejection seats during the late stages of reentry?
-I could find another source quote
-The test simulated conditions of maximum dynamic pressure following an abort from the powered phase of Gemini flight, the vehicle being positioned heatshield forward as in reentry.
-I'm curious whether the approximate 45,000 feet limit was applicable only during ascent or also during reentry. Additionally, considering the crew was wearing spacesuits, what might be the theoretical maximum altitude/mach number from which they could safely abort during reentry?

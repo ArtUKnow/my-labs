@@ -1,6 +1,0 @@
-Does SpaceX Starship have significant methane emissions?
-SpaceX Starship apparently uses liquid methane and liquid oxygen as its fuel. Liquid methane is not ideal for its environmental problems (burning it creates CO2 which can't be captured from a rocket, and we don't have a cost-effective way of sequestering the emitted carbon dioxide from the atmosphere to create new methane via Sabatier reaction).
-However, the ratio of oxygen to methane is according to Wikipedia only 3.6 : 1 and not the stoichiometric ratio of 4 : 1:
-Raptor operates with an oxygen-to-methane mixture ratio of about 3.6:1, lower than the stoichiometric mixture ratio of 4:1 necessary for complete combustion, since operating a higher temperatures would melt the engine
-Does this mean that a significant amount of the methane is left unburned? Methane is a very potent greenhouse gas, far more than carbon dioxide.
-Or is the methane in the exhaust so hot that it would combine with atmospheric oxygen anyway, not leaving any unburned methane to the atmosphere?

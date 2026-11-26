@@ -1,5 +1,0 @@
-What can/do astronauts look at with the portable telescopes aboard the ISS?
-I would like to know what will be the visibility from the portable telescope aboard the International Space Station.
-What could they potentially view, and what are (at least some of) the things they are known to have looked at?
-Presumably they use it inside the ISS and not outside, and are therefore constrained by there needing to be a window providing access, to the sky, and the window should have good optical quality to preserve the resolution of the telescope?
-For additional background, see Is there a telescope on board the ISS?

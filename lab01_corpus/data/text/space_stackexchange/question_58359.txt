@@ -1,6 +1,0 @@
-How does JPL define the exact position of Lagrange points in the real solar system where (I thought that) they can't be defined?
-My answer to Does the distance to L2 vary? is
-The correct answer is "No, they are only mathematically defined when the orbit is circular".
-but @DavidHammen's answer explains that they can be defined in the elliptical restricted three body problem and @PM2Ring's answer shows that JLP's Horizons provides eight specifically defined Lagrange points from which you can calculate distances to other things; L1, L2, L4 and L5 for the Earth/Moon system and for the Sun/Earth-Moon-Barycenter system.
-Question: How (the heck) does JPL define the exact position of Lagrange points in the real solar system where (I thought that) they can't be defined?
-There must be some kind of compromise here as Horizons reflects a realistic n-body simulation without any "restricted three body" conditions that I know of. They must use some equation or rule to calculate the position of these spots that I don't believe can be defined. What is it?

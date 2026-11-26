@@ -1,7 +1,0 @@
-Does an overexpanded nozzle behave like a suction cup?
-It is generally said that, to obtain optimal specific impulse, a nozzle should be just the right size that the exhaust pressure is equal to the ambient pressure. Quoting this answer, a relevant equation is
-$$F = q V_e + (P_e-P_a) A_e$$
-Where $P_e$ is the exit plane pressure, $P_a$ is ambient pressure, and $A_e$ is the exit plane area. $qV_e$ without the correction term gives the thrust when the exit plane pressure matches ambient. Here $q$ is mass flow and $V_e$ is exit velocity.
-Is it a valid interpretation to say that an overexpanded nozzle behaves like a suction cup? By this I mean that the thrust reduction from overexpansion is due to the ambient pressure on the outside of the nozzle being greater than the exhaust pressure in the inside of the nozzle (at least around the rim).
-One thing I like about this explanation is that it neatly explains why even a sea-level-optimized engine gives better performance in a vacuum than at sea level. (The ambient pressure means that there is a smaller delta between the pressure inside the nozzle and the pressure outside it.) One thing I don't like about this explanation is that it suggests that a rocket engine's performance ought to change based on how fast the rocket is moving through the atmosphere (on account of dynamic pressure).
-Obviously the mechanism that allows the pressure on the interior to be less than the ambient pressure is vastly more complex for a rocket engine than for a suction cup.

@@ -1,9 +1,0 @@
-What kind of signals and encodings were used to send tilt/pan commands to TV cameras on the Moon (up through Apollo)?
-This answer to Has anyone in space beyond LEO seen or has anything photographed a non-pointer laser from Earth? shows a frame from video shot by Surveyor 7 on the Moon, looking at Earth, and specifically two lasers beams coming from Earth seen as two dots on Earth's nighttime side.
-Unlike the retroreflectors left on the Moon that could be optimally oriented by the astronauts before they went home and modern landers like Insight that had inertial navigation systems and could orient themselves during landing, I don't think that the Surveyors couldn't possibly land such that the TV camera was already pointed at Earth.
-So my premise is that the Surveyors probably received tilt/pan commands from Earth to move the camera around to look at various things, including the Earth.
-Certainly the camera that broadcast the launch of the astronauts back off the Moon into lunar orbit was controlled by the ground.
-How did NASA get the video camera on the Moon to track the LM ascent stage, considering the substantial delay?
-Question: What kind of signals and encodings were used to send tilt/pan commands to early TV cameras on the Moon (up through Apollo)?
-Were there digital commands like "pan left, 20 degrees" (or "for 5 seconds") or was it done with tones somehow, like a modulation at say 10 kHz would cause the camera to continue to pan left as long as it was turned on, or something else entirely?
-note: I'll ask separately about the Soviet Lunokhod rovers as they were developed by a different space agency and researching the question will require different sources.

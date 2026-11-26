@@ -1,5 +1,0 @@
-What was the first satellite built with mostly COTS electronics?
-Computers and memory, radios, cameras, light sensors, temperature sensors, accelerometers & gyros1, power supplies, power conditioners and converters and battery interfaces can all be put together with Commercial Off-The-Shelf or COTS components.
-That doesn't necessarily meant they will work well together or individually in space.
-Question: What was the first satellite built with mostly COTS electronics? How well did it work?
-1MEMS accelerometers & gyros can be bought now but may not have been available when a potential answering-spacecraft was launched, so I've specified "most COTS electronics" above.

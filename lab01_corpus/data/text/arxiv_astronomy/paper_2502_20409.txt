@@ -1,2 +1,0 @@
-Arcminute Microkelvin Imager observations at 15.5 GHz of multiple outbursts of Cygnus X-3 in 2024
-We report radio monitoring of Cygnus X-3 at 15.5 GHz during 2024 with the Arcminute Microkelvin Imager. Observations were made on 296 days throughout the year, and reveal five radio outbursts to multi-jansky levels, peaking in Feb, Apr, Jun, Jul and Aug. The brightest peak, with $\approx 16$ Jy, was on Jun 27th.

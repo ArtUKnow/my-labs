@@ -1,2 +1,0 @@
-What are the challenges with building nuclear salt-water rockets?
-Obviously there's the problem of testing such an engine. You'd be ejecting uranium fission products into the environment, making it extremely dangerous for any people nearby and doing significant damage to any wildlife present. But are there any other factors that would make making a nuclear salt-water rocket difficult?

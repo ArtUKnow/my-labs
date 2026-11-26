@@ -1,6 +1,0 @@
-Can space debris capture be modeled on surgical grapple baskets?
-Can space debris capture be modeled on surgical grapple baskets?
-Most plans for de-orbiting space debris involve orbital rendezvous and grappling the debris. Grappling an uncooperative, spinning, irregularly shaped object is challenging. Some proposals involve analyzing the object’s spin and grabbing a suitable appendage as it whizzes by. There is a sudden transfer of angular momentum between debris and spacecraft. What could go wrong?
-Surgeons must grapple irregular objects like kidney stones. Fortunately, they are not spinning. They have designed a wide variety of “baskets” for this purpose. The basket is initially collapsed inside a catheter (tube). As it is pushed from the tube, elasticity opens the wires into a cage much larger than the object to be grabbed. Once the object is positioned inside the cage, the process is reversed and the object is captured.
-If this design was applied to debris capture, angular momentum would be transferred to the spacecraft to be dealt with by its attitude control system.
-Is this a sound design for debris capture? Are there any real world de-orbiting design projects using this principle?

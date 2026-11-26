@@ -1,9 +1,0 @@
-Why do the New Shepard capsule windows appear to produce so much glare and reflection?
-After watching several videos recorded inside Blue Origin's New Shepard capsule, I noticed that the large windows often show significant reflections and glare from the cabin interior.
-Given that one of the main attractions of the flight is the view through the windows, I was surprised by the amount of reflected light visible in many recordings.
-Are there technical reasons why the windows cannot be optimized further for reflection reduction?
-For example:
-Do structural or thermal requirements limit the use of anti-reflective coatings?
-Are there durability or safety concerns?
-Is the effect mainly caused by camera exposure and not as noticeable to passengers?
-I am interested in the engineering constraints involved rather than business or marketing considerations.

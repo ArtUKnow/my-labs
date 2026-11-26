@@ -1,7 +1,0 @@
-PID Control with Error Rotation Matrices?
-I'm modeling a rocket with PID controllers for thrust vectoring.
-The PID controllers take in attitude errors as input, then output engine gimbal actuator commands.
-The attitude errors are individual roll, pitch, and yaw angles that I obtain from error rotation matrices coming from guidance calculations.
-Everything in guidance is based on rotation matrices. The individual errors each feed into a separate PID controller---one for roll, one for pitch, one for yaw. Roll, pitch, and yaw are each defined in the rocket's main frame.
-This all works great, but I'm bothered by my conversion from rotation matrix to roll/pitch/yaw. The conversion is approximate and works well up to ~10 deg errors. I got it from an old Apollo-era paper I found in the NASA repository, but which I've since lost track of.
-I'm wondering: is there a way to pass the error rotation matrix directly to a single PID controller and have it output a vector of roll/pitch/yaw commands (in the rocket's axes)?

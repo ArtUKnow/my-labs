@@ -1,5 +1,0 @@
-Tutorial for orbits from TLE data
-I've been looking for a new hobby, and have been reading some about satellite tracking. I was wondering if there was a good tutorial that walks through how to use TLE data. So far I have found CelesTrack it has a lot of good material and it looks like the python code Skyfield might be a good place to start. I've started to read some about SPG4 propagation, but haven't gotten very far yet.
-It seems in general there are a variety of websites for satellite orbit prediction, but some seem to be overrun by ads. Any pointers to books or good websites appreciated.
-I think I would like to be able to get to the point where I could get a TLE for a particular satellite, figure out if and when it might pass over my location. Eventually, time permitting either point a telescope or radio antenna as it goes over.
-So to sum up the question is there a tutorial that walks through how to go from TLE data, walks through how SPG4 can be used to propagate the orbit and then calculate the ground track? Is this the right question to be asking?

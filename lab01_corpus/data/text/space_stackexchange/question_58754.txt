@@ -1,2 +1,0 @@
-How does a spacecraft know what communication network to use?
-Spacecrafts use different networks like TDRSS, DSN, ... to accomplish uplink/downlink. But how does it know which one to use during the mission? At what point does it find TDRSS more suitable than DSN (Brazil)? How does it know which TDRSS satellite to point its antennas toward?

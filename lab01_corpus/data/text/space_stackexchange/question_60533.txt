@@ -1,4 +1,0 @@
-How to calculate the ECEF coordinates of a satellite given its elevation and azimuth angle, plus the coordinates of a reference object on Earth
-So I am looking for a way to 'reverse engineer' satellite ECEF coordinates given its angles of elevation and azimuth and given the coordinates of an object on Earth serving as a reference ground. The satellite is from the Galileo constellation (MEO). Ideally, the solution should be represented as
-[x, y, z]=elaz2coords(el, az, xe, ye, ze),
-where elaz2coords encapsulates the set of equations which transform coordinates. If someone could point me towards such a set of equations or towards a procedure towards deriving such a set, I would appreciate it greatly.

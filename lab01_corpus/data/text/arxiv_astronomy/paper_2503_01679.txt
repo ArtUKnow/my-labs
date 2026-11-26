@@ -1,2 +1,0 @@
-Swift Observations of Gaia BH3
-We present UV and X-ray observations, obtained with the Swift Observatory, of Gaia BH3 a binary system containing a 33 solar masses black hole discovered through Gaia astrometry. The system is well detected in all UV and optical filters (1700-6500 Å). We compare our results with the modeling of the non collapsed component using synthetic stellar libraries, a good agreement is found with our UV observations

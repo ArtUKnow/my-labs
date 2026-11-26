@@ -1,2 +1,0 @@
-Effects of Neutron-Antineutron Transitions in Neutron Stars
-We analyze effects of neutron-antineutron transitions in neutron stars, specifically on (i) cooling, (ii) rotation rate, and (iii) for binary pulsars, the increase in the orbital period. We show that these effects are negligibly small.

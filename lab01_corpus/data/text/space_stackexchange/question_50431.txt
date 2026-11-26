@@ -1,7 +1,0 @@
-Ingenuity Three Axis Velocity Derivation from Camera, Gyro and Altimeter
-It seems that Ingenuity has a 4000 pixel camera, a gyro, inclinometer and an altimeter. Using these information, they are able to derive three axis velocity information. Thereby compensating for the inability to put a doppler velocity instrument.
-In Page 11 of Mars Helicopter Technology Demonstrator (also here 1, 2):
-This processor implements visual navigation via a velocity estimate derived from features tracked in the VGA camera, filter propagation for use in flight control, data management, command processing, telemetry generation, and radio communication.
-I have two questions basically,
-How are they able to do that? I am looking for the algorithm/equations used. Are they looking at pixel shift or some ML algorithm is implemented?
-What are the accuracies compared the traditional doppler velocity instruments in landers at the height where ingenuity will operate.

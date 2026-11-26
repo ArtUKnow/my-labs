@@ -1,9 +1,0 @@
-When is the last time that a battery-powered spacecraft was launched without an RTG or solar-electric power?
-Except for special sun-synchronous, Earth orbit eventually leads to eclipses, so spacecraft in Earth orbit generally have solar panels with electrical energy "buffered" by batteries. And those in orbit or on the surface of Mars need batteries every night.
-For some deep space missions solar panels are replaced by RTGs.
-Batteries don't work well when they get cold and can be permanently damaged if it's too cold, so they are kept warm when necessary either by thermal energy from an RTG or radioisotope thermal generator, or by resistive heaters powered by the batteries themselves.
-Some of the earliest satellites were launched with only batteries and when the batteries drained the spacecraft was dead, but soon after that at least small photovoltaic cells were sufficiently available that they could trickle-charge batteries.
-Question: When was the last time that a battery-powered spacecraft was launched without an RTG or solar-electric power?
-notes:
-For the purposes of this question propulsion systems don't count, so no upper stages, kick-stages, etc. Answers should be considered to be primary payloads. Since I am primarily interested in historical spacecraft secondary payloads like hitch-hiking cubesats or "secondary science probes" deployed by a primary payload spacecraft don't count here. For those I have just asked What secondary science payloads deployed from primary science payloads were strictly battery powered?
-About fuel cells; normally if it looks like a duck and quacks like a duck, then some would argue that this is sufficient to call it a duck. But I'm really after historical early spacecraft, so for the purposes of this questions fuel cells don't count.

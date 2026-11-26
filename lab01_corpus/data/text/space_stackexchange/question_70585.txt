@@ -1,2 +1,0 @@
-Do the LAGEOS satellites rotate?
-The LAGEOS satellites are near-perfect retroreflective spheres in medium Earth orbit. They should have the same mass moment of inertia in all axes and a center of mass coincident with the centroid, although the four germanium reflectors may cause a slight deviation. Do they retain any angular momentum from an imperfect deployment, and are they affected by any perturbations? Would they be stabilized by these effects, e.g. gravity gradient?

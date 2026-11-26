@@ -1,2 +1,0 @@
-Calculate ephemeris for Mars before 1600 in Stellarium
-I am trying to calculate Mars' ephemeris for XVI century (specifically from 1570 to 1599). However, Stellarium only allows calculations beyond 1600. Is there optional package that I can install to obtain the Mars' ephemeris for the range I 1570-1599 using Stellarium? I am a Windows 10 user.

@@ -1,4 +1,0 @@
-Where does the ecliptic cross the horizon during the course of a night?
-The Nebra Sky Disc has side-arcs which are interpreted as marking the extent of movement of the sunrise and sunset, during the course of a year. I think they can also be interpreted as marking the extent of movement of the ecliptic where it crosses the horizon, during the course of a single night (especially the winter solstice).
-That's what it looks like when I simulate this in Stellarium, but I am looking for an authoritative statement of this (if correct), and I haven't been able to find one.
-Am I correct? Anyone have a citation?

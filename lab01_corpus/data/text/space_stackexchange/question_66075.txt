@@ -1,4 +1,0 @@
-Does earth's revolving around sun affect polar orbit ground track?
-As the earth revolves around the sun, does the ground track of a polar orbit change? I realize the oblateness of the earth causes precession of the nodes, I want to know if there's another effect.
-As an example, suppose the polar orbit ground track on an equinox follows the 0 deg/180 deg longitude. The earth's axis would be in the plane of the polar orbit. What would the ground track be like on solstice? Would the earth's axis be tilted 23.5 degrees out of the plane of the polar orbit?
-Maybe what I want to know is better phrased as: does the plane of a high polar orbit, high enough to not experience much precession of the nodes, change relative to the sun as the earth and satellite rotate around the sun? If the plane of the orbit is facing the sun at an equinox, is it edge on at a solstice? If the plane of the orbit changes, where is the torque coming from that changes it?

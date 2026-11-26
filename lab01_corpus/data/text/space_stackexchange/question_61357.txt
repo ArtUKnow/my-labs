@@ -1,4 +1,0 @@
-Shuttle emergency landing location question
-There are lists of airports identified as emergency landing locations, many on the east coast. Some are military, some are public airports.
-Has anyone ever seen procedures on how this would be handled? It doesn't appear these airports were on any sort of alert, not like the trans Atlantic aboard locations that had technicians, medical and rescue personnel on standby.
-I'm most wondering about the PAPI systems at these airports (the red and white lights that indicate the proper glide slope). Nearly all airports have their PAPI systems set to 3º, but the shuttle comes in at 20º. Would these just be ignored? Were there provisions for quickly changing the glideslope? Would the orbiters have been able to use the ILS at these airports?

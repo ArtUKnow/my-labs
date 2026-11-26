@@ -1,7 +1,0 @@
-From where will the planned Artemis I launch be visible?
-The latest planned Artemis I launch window is 69 minutes long, opening 2022-11-14T00:07:00−05:00, which if used will lead to a launch in complete darkness. I'm interested in the possibility of observing the launch from a relatively long distance away. To work out if anything will be visible to an observer we need to know:
-If there will be a line of sight from the observer to the SLS
-Any bounds there are on the trajectory the launch will follow will thus be useful
-How bright the SLS exhaust will be, and whether this changes along its trajectory
-From this we can make some estimate of whether an observer with direct line of sight is near enough to see it by naked eye or with some magnification
-My personal interest in this is the possibility of observing the launch from on board a flight that departs Nassau (some 490km from the KSC) shortly before the launch window opens. This seems to be in the realms of possibility given by this answer but I don't know how much difference the engineering of the SLS compared to the STS or launching for lunar orbit rather than earth orbit might make to the trajectory and/or brightness of the upcoming launch. Any details that contribute to predicting the visibility from any location would be welcome.

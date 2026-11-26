@@ -1,7 +1,0 @@
-Could the James Webb Resolve Earth?
-Hypothetically, if one were to point the James Webb at Earth:
-Could it be focused in such a way that the entire Earth was in it's FOV, or is it too close?
-If this were possible, what would be the smallest object that could be resolved in orbit?
-If this weren't possible, could it be focused in any way such that things in orbit could be resolved?
-Bonus) If none of the above is possible, what satellite currently offers the best capabilities for imaging other things in orbit? Ideally with the widest possible FOV.
-Yes, I know it's not optical, and yes I know it's not really designed for this, but I've got an idea and I'm wondering if it would even be plausible.

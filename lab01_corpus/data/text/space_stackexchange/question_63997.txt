@@ -1,5 +1,0 @@
-How much of what we see as “satellites” is space junk?
-Ground observers using naked eyes see several LEO objects per minute under good observing conditions, and many times more with binoculars. These are usually referred to as “satellites”. Many are, truly, operational satellites. But what proportion are non-functional satellites or debris?
-According to United Nations Office for Outer Space Affairs (UNOOSA) registry, there have been 12,293 registered objects launched into space. As of April 2022 there were 8,261 satellites in Earth orbit, but only 4.852 (59%) are still active.
-The exact numbers vary between databases, but a large minority of registered objects have become junk. (In addition, there are 27,000+ objects tracked by NASA, most >10cm diameter debris.)
-So, when Little Johnny looks up and asks, “Daddy, what’s that?”, what’s the chance it is garbage?

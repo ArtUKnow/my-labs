@@ -1,2 +1,0 @@
-What if both SRBs failed in a shuttle launch?
-I'm certain there are several flight regimes where this could happen, and that the procedures should be different for each one. For instance, this is a very different question before lift off than it is at 40km. So, presuming that the SRBs were burning and then both cut out, what was the procedure at each regime, and what would have happened?

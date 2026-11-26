@@ -1,4 +1,0 @@
-Apollo Inertial Measurement Unit Platform Gyro Stabilization Feedback Signals
-When the spacecraft is maneuvered, orthogonally-mounted gyros on the IMU Platform detect this motion. The gyros emit electrical signals proportional to the detected angular rates. These signals power gimbal-mounted electric motors to drive the platform to maintain its position relative to an inertial coordinate system.
-When the gimbal axes and the platform axes are not in the same plane, how are these error signals divided (resolved?) before transmission to the gimbal motors? This is accomplished via an analog process. Any info I have found offers no explanation or formulas for this calculation...
-As can be seen, only the X & Z Error components need be resolved.

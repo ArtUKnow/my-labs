@@ -1,2 +1,0 @@
-References on Launch Trajectories
-Are there any good texts/papers about computing trajectories from launch to LEO? Specifically discussing atmospheric effects, gravity turns, launch sties, etc. and numerical simulation. I've seen a lot on astrodynamics but not so much on actually launching the vehicle from the ground up.

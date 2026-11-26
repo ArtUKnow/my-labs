@@ -1,4 +1,0 @@
-Did the Apollo Command Module launch with the docking probe already in place?
-This question is spun off from a different question I posted, where I was told I should not combine questions into one.
-I am interested to learn more about the Apollo Docking System, and particularly I am interested in what the exact launch configuration was.
-I know that the CM has a Probe that docks to the LM's Drogue. At the time of initial launch, the probe is not yet needed. Is it installed at launch, or is installing the probe part of the initial LM extraction procedure?

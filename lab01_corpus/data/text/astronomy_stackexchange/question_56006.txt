@@ -1,4 +1,0 @@
-Why was the standard distance set to 10 parsec and not simply to 1 parsec?
-On closer inspection of the absolute visual magnitude and the apparent visual magnitude of the sun, I noticed that their magnitude range (4.83 + 26.74 = 31.57) exactly matches the human eye. The already no longer healthy brightness (-26.74) in 1 AU and just visible with the naked eye (4.83) in 10 parsec.
-In addition, these approx. 30 mag are also represented by the entire brightness range from the dimmest (e.g. LHS 2924 with 20) to the brightest fixed star (-9).
-So could it be that when the standard distance was set at 10 parsecs, the visible distance of the sun was taken into account or is there another objective reason?

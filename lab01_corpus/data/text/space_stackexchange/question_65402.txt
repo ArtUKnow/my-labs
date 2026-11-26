@@ -1,4 +1,0 @@
-Change in True Anomaly over time
-From Wikipedia, the True anomaly is defined as the angle between the direction of periapsis and the position of the celestial body. I'm trying to find how the true anomaly changed over time for a spacecraft over one orbit.
-The following plot is a simulation ran on GMAT based on a spacecraft at 575km altitude (~5740 secs orbit period), at a 10 degree inclination. Eccentricity is set at approximately 0 (circular orbit). The initial True Anomaly is set at 0 degrees.
-Can anyone explain how this plot would make sense? I would expect that for a nearly circular orbit, the True Anomaly would increase rather linearly from 0 - 360 degrees, and not experience the abrupt jumps. Is my understanding of True Anomaly incorrect?

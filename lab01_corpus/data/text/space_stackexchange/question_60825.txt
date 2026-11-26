@@ -1,5 +1,0 @@
-Vernal equinox direction and origin of longitude difference?
-I am trying to visualise satellite orbits from a top-down perspective on the Earth, with down as 0° longitude. I am getting confused as to which the reference direction is using the right ascension of the ascending node. I am seeing one thing saying it's the vernal equinox direction, which I am confused on how to calculate, and other saying it's just the prime meridian?
-Following this link (https://en.wikipedia.org/wiki/Longitude_of_the_ascending_node) it shows the reference direction as the prime meridian.
-But on this, it shows the direction as the vernal equinox direction (https://en.wikipedia.org/wiki/Orbital_elements)
-Is the prime meridian and vernal equinox direction the same?

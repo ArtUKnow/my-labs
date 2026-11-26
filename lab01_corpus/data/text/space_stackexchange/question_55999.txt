@@ -1,3 +1,0 @@
-How we can relate rotary inverted pendulum to a rocket system?
-Initially I posted this question on EE Stack Exchange but I am also posting it here in Space Stack Exchange so I may get attention from a much related audience.
-I am interested in control systems applications and currently I am trying to learn about Quanser rotary inverted pendulum system. I studied that it can be used to model/demonstrate some aspects of rocket system especially during take off (Launch) stage but I am unable to understand its relation to rocket. What are those aspects and how they relate? Can some one please guide?

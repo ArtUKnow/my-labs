@@ -1,4 +1,0 @@
-NTR performance of hydrazine compared to ammonia?
-Methane, ammonia and water are sometimes suggested as alternatives to hydrogen for a nuclear thermal rocket.
-While they have a lower specific impulse, they offer much better density, thrust, and handling characteristics.
-How does hydrazine $N_2 H_4$ compare to ammonia $NH_3$ in terms of specific impulse? Its density is significantly better (1.021 g/cm³, compared to 0.682 g/cm³), and the hydrogen content isn't too much lower. The performance here depends heavily on the dissociation of these molecules at high temperatures, and I haven't found good numbers on how the $H_2$-$NH_3$-$N_2$ ratios work out.

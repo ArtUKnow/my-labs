@@ -1,2 +1,0 @@
-Using of the rocket propellant for engine cooling
-Why does liquid space propellant make a good engine coolant? I was researching the regeneratively cooled nozzle and combustion chamber on the Merlin 1D when I found this out. I do know that the pipes are built around the combustion chamber and nozzle, but don’t know how it gets cooled by the propellant.

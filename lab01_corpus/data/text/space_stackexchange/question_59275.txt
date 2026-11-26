@@ -1,6 +1,0 @@
-NASA GMAT Hardware in the Loop testing
-We are currently evaluating various Mission Analysis & Simulation tools, one of which is NASA's GMAT (2020). One of our requirements is for the tool to support HITL testing. However, i am unable to find anything in the docs regarding the feasibility of this.
-Specifically, we want to be able to hook up our test satellite to the simulator in order to facilitate the following:
-Override the satellites sensor values with values from the simulator
-The corresponding control response from satellite should be reflected back to simulator
-Is this something that is supported out of the box, or requires customization?

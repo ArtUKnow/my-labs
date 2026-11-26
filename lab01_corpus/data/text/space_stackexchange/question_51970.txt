@@ -1,2 +1,0 @@
-How are thrust specifications for multi-nozzle engines given?
-The Soviet R-7 ICBM used 5 RD-107/RD-108 engines in its first stage in a "Quincunx" formation. Each engine had four CD nozzles, and 1 propellant pump, common for all four nozzles. The thrust of the engine is given as 1000/1020 kN at sea level. Is this thrust the cumulative thrust from all 4 nozzles, or from each individual nozzle?

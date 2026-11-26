@@ -1,5 +1,0 @@
-What's the distribution of the difference between the ecclesiastical and astronomical date of Easter?
-According to Jean Meeus, Astronomical Algorithms, Easter is defined as the first Sunday after the 1st full moon after the vernal equinox. The equinox is fixed for ecclesiastical purposes on March 21, and the full moon does not correspond exactly to the astronomical full moon.
-E.g., the astronomical rule does not hold in 2038; the vernal equinox is on March 20, and the 1st full moon falls <24h afterwards, but Easter is not on the following Sunday (March 21), but April 25 that year.
-What's the distribution of the difference between the ecclesiastical and astronomical date of Easter over the algorithm's full 5.7 Myr cycle?
-I'm looking for a histogram similar to "Figure 9.2 Distribution of Gregorian Easter dates over the full 5700000-year cycle." in Reingold & Dershowitz, Calendrical Calculations p. 149.

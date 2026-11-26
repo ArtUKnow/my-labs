@@ -1,2 +1,0 @@
-Starship deorbit process
-It does not seem to me that SpaceX will use thrusters similar to Draco to deorbit Starship, and I think firing a Raptor would be too powerful. All I can imagine is that it will use ullage gases through the existing vents to slow the spacecraft's orbital velocity. Am I correct?

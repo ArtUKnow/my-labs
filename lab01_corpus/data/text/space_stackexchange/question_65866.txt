@@ -1,2 +1,0 @@
-How can I plot ground tracks on the surface of the Moon?
-I'm curious if there's a module or Python library capable of plotting ground tracks on the Moon's surface, similar to how Skyfield or Astropy functions. I understand that Two-Line Elements (TLEs) are utilized as input, and SGP4 propagates these mean elements. However, as far as I know, SGP4 is primarily used to account for perturbations in Earth's environment but for the moon. My main goal is to crear a single ground track on Moon's surface using a propagation method.

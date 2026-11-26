@@ -1,2 +1,0 @@
-Speed of sound in Kaluza-Klein Fermi gas
-A five-dimensional Kaluza-Klein spacetime model is considered, with one extra compactified spatial dimension. The equation of state of an electrically neutral, zero-temperature Fermi gas with a repulsive linear potential is described. From the equation of state, the speed of sound squared is calculated and shown for different model parameters. Its properties are studied from lower energies up to the conformal limit.

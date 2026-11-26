@@ -1,3 +1,0 @@
-Why is Artemis 1 swinging well out of the plane of the moon's orbit on its return to Earth?
-According to the 3-D model of the Artemis 1 mission (click on the "Mission View" button and use the slider to zoom out a bit), the outbound trip was close to the plane of the moon's orbit, but the return trip is swinging way to the south.
-Is there a reason for this? Is it perhaps to gather data on a different part of the radiation environment around Earth?

@@ -1,8 +1,0 @@
-Estimations for Gas-Side Wall Temperature Within Rocket Engines
-I'm in the process of reading Modern Engineering for Design of Liquid Propellant Rocket Engines and am stuck on this one example given in chapter 4 on the calculations for the cooling system around a thrust chamber. Here is a direct quote from the textbook:
-Since there is no solid deposit on the chamber walls, an average gas-side wall temperature of $1500^{\circ}\text{ R}$ is assumed, and a $T_{wg}/(T_c)_{\text{ns}}$ value of $1500/5740$ or $0.26$ is used to determine the $\sigma$ values from Fig. 4-28.
-For a little bit of context, the problem asks to calculate the overall gas-side thermal conductance value $h_g$ for an engine that uses $\text{LOX}$ and $\text{LH}_2$ by using Bartz equation
-$$h_g=\frac {0.026}{D_t^{0.2}}\left(\frac {\mu^{0.2}C_p}{\operatorname{Pr}^{0.6}}\right)_{\text{ns}}\left(\frac {(p_c)_{\text{ns}}g}{c^*}\right)^{0.8}\left(\frac {D_t}R\right)^{0.1}\left(\frac {A_t}A\right)^{0.9}\sigma$$
-Where $\sigma$ is another complicated expression that makes use of the $T_{wg}/(T_c)_{\text{ns}}$ ratio mentioned in the excerpt above. And the variable $T_{wg}$ is the temperature of the side of the wall around the combustion chamber that interfaces with the hot combustion gases.
-I'm having a hard time digesting the part where the authors just assumed that the side of the wall that interfaces with the hot combustion gases would be $1500^{\circ}\text{ R}$. What made them choose that value?
-Does anybody know of any resources or equations that would allow one to predict the value of $T_{wg}$ or roughly approximate it instead of using sheer guess-work? The authors mention it as if they pulled the number out of thin air.

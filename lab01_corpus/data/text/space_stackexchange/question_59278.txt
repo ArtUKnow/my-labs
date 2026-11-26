@@ -1,2 +1,0 @@
-Is there any chance that Opportunity survived, but NASA kept pinging it at the wrong time?
-In 2018, NASA's beloved little Opportunity (oppy) was declared dead after a dust storm "killed" it. It may still be OK, but when NASA began recovery effort, they pinged oppy when it was still in sleep mode gaining power, Oppy may not have noticed any of the commands that it was sent, it probably entered "Uploss fault" which it was designed to do when it hadn't heard from earth in a long time. Maybe it's still out there... any chance???

@@ -1,5 +1,0 @@
-What is happening when a TV satellite stops broadcasting during an "eclipse"?
-I was watching a video on an 80s era satellite TV and it mentioned that the channel would occasionally stop broadcasting due to an "eclipse".
-Only if you absolutely must, skip to 18:12 for the bit about the satellite eclipse in this video:
-What does this mean? A geostationary satellite is always going to be visible to everyone on the same side of Earth and there's no objects in orbit between us and the geostationary ring that would cause more than a momentary blip in the signal.
-(I've tried searching but everything I've found talks about lunar or solar eclipses.)

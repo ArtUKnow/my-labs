@@ -1,5 +1,0 @@
-Is it conceivable to visit L2 and service the James Webb Space Telescope?
-Everybody is super nervous about possible hiccups or, goodness forbid, failure modes of the telescope. It is a fairly complicated machine.
-The telescope will be at the second Lagrange point, several light seconds away from Earth, about five times as far as the Moon. But then L2 is not a gravity well so that no descend vehicle is needed; all that is needed is a launch system and a spacecraft that have enough capacity for the crew, material and fuel needed to stop and return, and that can keep the crew alive long enough for a return trip.
-Is there a theoretical possibility for a manned mission to reach that point with existing launch systems and spacecraft, possibly after ad-hoc modifications? (I'm aware that NASA says it is not an option but we are more agile and inventive than that, right?)
-I suppose StarShip, potentially with minor modifications, could do the job hands down; anything before that?

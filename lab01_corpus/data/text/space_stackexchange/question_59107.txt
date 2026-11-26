@@ -1,7 +1,0 @@
-What are the negatives associated with Thrust-augmented Nozzles aka Afterburning Rocket Engines?
-An interesting comment here introduced me to the concept of Thrust-augmented Nozzles aka Afterburning Rocket Engines. The pubs I've read on it so far introduce the concept as a way to provide good performance throughout ascent. The nozzle performance is enhanced at low altitudes by engaging the afterburner at ignition, possibly turning it off later at altitude.
-This kind of sounds like a good idea, but all the pubs I've see so far are from the originators of the idea, and as far as I know, it's never been adopted. (F-1s dumped the gas generator exhaust into the nozzle - it was fuel-rich so presumably burned, but that's not the same thing at all).
-What are the downsides to this concept? (I mean, besides the obvious "the benefit wasn't worth the cost", but why?)
-References
-Thrust-Augmented Nozzles for Rocket Engines
-The Afterburning Rocket Engine

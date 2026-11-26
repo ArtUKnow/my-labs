@@ -1,7 +1,0 @@
-Why are there different types of fiducial markers on Perseverance?
-I have noticed that there are different types of fiducial markers on Preseverance.
-While I have seen the round markers on other rovers before, it is the first time that I see the rectengular markers. Of course this does not mean, that earlier rovers did not use them.
-However, I wonder why there are different markers at all. I thought these markers would be used to calibrate the cameras, help to measure positions, orientations, distances, etc. But the rectengular markers look like AprilTags (are they?).
-Do these different tags serve different purposes?
-EDIT:
-The picture is a screenshot from a NASA video I found on Twitter: https://twitter.com/NASA/status/1363940380346118144/video/1

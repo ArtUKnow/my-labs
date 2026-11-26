@@ -1,3 +1,0 @@
-Radius of hydrogen cloud
-I am using a 1.4 meter parabolic dish with HPBW of 10 degrees and a RTLSDR to study our milky way in hydrogen line. The structure of the galaxy is deduced as shown in the picture by plugging the corresponding radial velocity peaks in the brightness temperature vs radial velocity graph into formulas to calculate the coordinates of the hydrogen cloud on the galactic plane.
-I am curious to know how astronomers plot structures as shown below. How do we determine the resolution of hydrogen cloud pixels in the x-y plane? Each blue dot can be modelled as a ring sector with angle width of $10°$. What about the radius? What information do we need to obtain the radius/thickness of the cloud?

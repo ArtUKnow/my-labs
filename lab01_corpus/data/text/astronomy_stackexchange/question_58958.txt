@@ -1,3 +1,0 @@
-If the Celestial Sphere was shrunk down so it stuck against the surface of the earth, how wide would a star be?
-Assume a celestial globe the size of Earth: how big would the "points" or footprints be which indicate the individual stars?
-One can assume a typical naked-eye visible star, e.g. an angular diameter of 2 mas (milli arc seconds).

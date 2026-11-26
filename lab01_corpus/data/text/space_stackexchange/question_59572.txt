@@ -1,6 +1,0 @@
-What is the largest number of rocket engines ever successfully used on a single craft as of 2022?
-A fully stacked Starship was rolled to the pad this week for testing. The byline caught my eye, though (emphasis mine)
-SpaceX moves a massive rocket with 33 engines to its launch pad for tests
-No rocket with this many engines has ever successfully launched.
-The "successfully launched" part is a clear nod to the failed Soviet N1 rocket, which had 42 engines (30 + 8 + 4) and went 0 for 4 in launch attempts.
-What craft currently holds the "most engines successfully launched" record as of now?

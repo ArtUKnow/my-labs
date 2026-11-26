@@ -1,7 +1,0 @@
-How much electrical energy is required to dissipate heat?
-I'm modeling the electrical energy consumption of a chemical reactor for the Moon base.
-The reaction taking place in this reactor is highly exothermic, and the device must be cooled.
-My question is how do I estimate the electrical energy required to dissipate a certain amount of heat to space.
-Does anyone know publications on this topic. Like the Wattage of the thermal control pumps, and the relationship of Heat generated in some system to amount of pumping required.
-There is an extensive post on heat sink here: Finned heatsinks in space
-a nice image of ISS thermal control system:

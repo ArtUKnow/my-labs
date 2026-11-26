@@ -1,4 +1,0 @@
-Ноw to configure mission sequence for propagate until desired date in GMAT?
-In GMAT, I have a state of satellite for a date (for example, 24.04.2022). Now, I need to propagate its motion for some days forward, until selected date (say, 29.04.2022).
-I added Propagation into Mission Sequence, and in ParameterSelectDialog, for selected sat added parameter UTCModJulian, and set it equal to 59698.000000 (i.e., UT 00:00:00.0 29.04.2022 - by analog, same as we do for a parameter ElapsedDate).
-But, GMAT doesn't stop after reached selected time, and simulation continues unstoppably. I'm confused. What am I doing wrong?

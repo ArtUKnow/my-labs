@@ -1,4 +1,0 @@
-Are pictures taken from ISS geolocalized?
-I guess my question is "naive".
-I get from https://images-api.nasa.gov some pictures of Earth from ISS without any description (just the mission number) or pictures of crewmembers.
-Taken with a DSLR device, are these pictures actually geolocalized (or space-localized?)? I mean: I suppose GPS Satellites signals cannot reach ISS, so do astronauts take notes from each taken picture? or is there a software which converts pictures timestamps to space localization?

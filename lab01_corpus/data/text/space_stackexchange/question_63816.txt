@@ -1,4 +1,0 @@
-Propellant choices for a Mars landing; tradeoffs between LOX/CH4 and H2O2/RP-1?
-What are the tradeoffs between LOX/methane and peroxide/kerosene for a Mars landing mission?
-In which ways are each better or worse than the other?
-I think the second one would more attractive for storability for example since LOX is cryogenic, but I’m not sure if that's as true for a deep space mission.

@@ -1,2 +1,0 @@
-What's the difference between cryogenic and Liquid propellant?
-According to my understanding (which may be incorrect), the cryogenic form and liquid form of propellant both use a fluid as an oxidizer and fuel. Research tells me crygenic propellant is more efficient and provides more thrust in comprison to normal liquids. What is the reason behind that and what is main difference between these two?

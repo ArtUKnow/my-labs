@@ -1,7 +1,0 @@
-Why would surface flux include radiation pointing inward the target?
-I have this integral limit question with how Sara Seager calculates the surface flux in her Exoplanet Atmospheres. As I understand it, the surface flux is the outgoing flux at a particular point on a planet's surface, and it's calculated by integrating the specific intensity at this point across a solid angle range of radiation pointings, which is $F_k(\vec x)=\int_{\Omega}I(\vec x, \hat n, \nu, t)\hat n \cdot \hat k d\Omega$
-The book works with a planetary latitude and longitude coordinate system, like this
-And, after some work of expressing the $\hat n \cdot \hat k$ and $d\Omega$, the book goes on to write
-And $-\pi/2 < \theta_n < \pi/2$, $-\pi/2 < \phi_n < \pi/2$ is the half sphere in front of the yoz plane in the +x direction. I get that we only see radiation that's not pointing away from us. However, for any points apart from the center, part of the radiation pointing in this range would go inside the sphere. For example, look down from the north pole into the xoy equatorial plane and examine a surface element at the planet's equator. Here red arrows indicate radiation going inside the surface, blue leaving.
-So isn't it more accurate to use a solid angle range intersected by both yoz plane (in the +x direction) and the tangential plane (in the outward direction)? Which means keeping only the blue pointings? Although dealing with the tangential plane for every surface element would be bit of a headache.
-Original text is included for verification.

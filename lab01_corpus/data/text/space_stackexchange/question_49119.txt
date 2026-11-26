@@ -1,5 +1,0 @@
-Could the Sea Dragon light it's main engines once it is airborne, or is it too big?
-Could the Sea Dragon light it's main engines once it is airborne, or is it too big?
-Modern submarine launched missiles use compressed gas and the buoyancy of the missile to propel the missile out of the water. The missile's main engine then ignites once it is airborne.
-While the Sea Dragon is not launched from a tube, the ballast unit could pull the rocket down, and high pressure gas could be released into the engine bell to help propel the rocket out of the water.
-The advantage of an airborne ignition is that it would be far less deadly to sea life. Shock waves travel very efficiently underwater, but most of the energy from an airborne explosion is lost at the air water interface.

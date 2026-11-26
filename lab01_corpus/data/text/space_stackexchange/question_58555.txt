@@ -1,4 +1,0 @@
-Using belt drive in LEO spacecraft?
-I am designing a concept for a LEO spacecraft and need to transmit mechanical power (0.5Nm @200rpm rotation) over a distance (1-2ft). Chains or belts would be a natural choice for terrestrial applications, however for chains I am not sure how maintenance free they are and for belts I am not sure whether the materials (neoprene with fiberglass and nylon coating) would last. No UV radiation, application inside 1-3mm aluminum housing.
-Is anyone aware of an application of a belt drive and the used materials?
-What would be the limitations of a chain in such an application?

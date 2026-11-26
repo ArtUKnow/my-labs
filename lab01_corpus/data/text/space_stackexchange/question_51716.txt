@@ -1,4 +1,0 @@
-When ISS Launches Cubesats, which direction do they usually fire them?
-I was listening to Houston We Have A Podcast and they mentioned that spare payload on ISS supply/crew runs frequently get filled with cubesats which get (more elegantly than the word suggests) tossed out of the station to insert them into orbit.
-It occurred to me that if they're tossing these retrograde they're getting free stationkeeping dV? That seems likely to put the cubesat into a more rapidly decaying orbit, but cubesats are cheap. That's the whole point.
-So, since they have a mechanism for launching these... which way are they going?

@@ -1,7 +1,0 @@
-How to calculate the phase angle between satellite and sun with the use of skyfield
-With the discussion that took place on answer(s) to How to calculate cone angle between two satellites given their look angles? I would like to ask if my proposal solving that question works like intended:
-sun = ephemeris['sun']
-earth = ephemeris['earth']
-vecObserverSat = (s1 - loc).at(tEv)
-vecObsserverSun = (sun - (earth + loc)).at(tEv)
-phase = vecObserverSat.separation_from(vecObserverSun)

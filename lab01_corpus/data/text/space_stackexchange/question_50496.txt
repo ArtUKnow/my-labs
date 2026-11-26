@@ -1,3 +1,0 @@
-What does it take to upgrade a radio antenna to receive from the surface of Mars?
-All the discussion about receiving transmissions from Mars rovers got me thinking, what determines the capability of a radio antenna, and what goes into adding the capability of listening to a Mars rover?
-We have an answer about how hard it is to receive signals, but what's involved in upgrading an antenna to receive them? It's obviously more than just dish size and bolting on a new receiver as, for example, the 32 m Cheia antennas cannot receive X-Band, but the 32 m GHY-6 at Goonhilly can. What are some details to consider?

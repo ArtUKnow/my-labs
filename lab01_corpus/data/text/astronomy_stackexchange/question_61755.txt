@@ -1,5 +1,0 @@
-What "real mistakes" exist in the Messier catalog?
-In Burnham's Celestial handbook, Page 1982 (available in the Internet Archive here - be sure to load the PDF of Volume 3 and go to page 317 of the document)
-He refers to M40 as "one of the few real mistakes in the Messier catalogue". This is because it is a pair of stars (which we have learned in the last 25 years are not actually together and just happen to align nicely from Earth), rather than a real nebula, cluster, galaxy, or similar.
-Burnham does not elaborate on what other mistakes he believes existed in the catalog, but his wording of "one of the few" seems to imply that other mistakes exist. What might these be?
-Ideally if we could find other examples of Burnham talking about other mistakes that would be ideal, but any other astronomer commenting on this would also suffice.

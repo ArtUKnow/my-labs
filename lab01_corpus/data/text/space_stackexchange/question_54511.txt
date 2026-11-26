@@ -1,3 +1,0 @@
-How can SpaceX receive data from Starship during re-entry communications blackout
-Surviving re-entry will be one of the initial critical aspects of the Starship development program.
-If there are locations on the vessel where the heat-shield fails, leading to its destruction how would SpaceX be able to receive any data during this phase of flight to diagnose the failure? I understand that radio communications are not possible when the ship is surrounded by plasma.

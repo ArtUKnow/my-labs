@@ -1,6 +1,0 @@
-How much closer is Jupiter's orbit to the sun after Voyager did a gravity assist fly by?
-I know that a planetary flyby craft gains more energy than it had because when Voyager swung around Jupiter, Jupiter slowed down and fell slightly closer toward the sun.
-Assuming it had a perfectly circular orbit before the flyby, how much closer is it's new orbit to the sun? It must be unimaginably small. A micron? A nanometer? Jupiter is so huge and Voyager so small, that I'd be surprised if it was even the Planck length.
-I imagine that depending on the direction that Voyager approached Jupiter, it's effect on the orbit would change. It would become more elliptical, right?
-So assume that voyager approaches from exactly the opposite direction that Jupiter is moving (tangent to its orbit). That way, Jupiter would just drop closer to the sun without its orbit becoming more eccentric.
-So how much closer to the sun does Jupiter orbit because Voyager flew past it?

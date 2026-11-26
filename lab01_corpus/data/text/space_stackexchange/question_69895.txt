@@ -1,6 +1,0 @@
-To what extent can a rotary detonation rocket engine (RDE) engine’s exhaust be “gimbaled” (trust vector control) by control of propellant flow?
-Rotary detonation rocket engines produce a helical detonation wave which travels around a cylindrical combustion chamber before exhausting out the (nozzle-less) nozzle end.
-Fuel is fed into the head end of the combustion chamber from a multiplicity of micro-nozzles. If the flow of fuel is asymmetrical around the axis, it should produce a corresponding asymmetry in exhaust flow … in effect “steering” the exhaust direction
-https://www.intechopen.com/chapters/70511
-Throttling RDEs has proven challenging since low throttling can cause extinction or oscillation between different detonation modes.
-Has thrust vectoring been demonstrated for RDE engines?

@@ -1,2 +1,0 @@
-(In ECI) How can I compute the RAAN of an orbit given the eccentricity vector, the declination of the orbiter at apoapsis, and the inclination?
-I am working on a personal project, and I want to write a program to obtain the RAAN given the angle of the eccentricity vector to the X-axis (ECI) along the XY plane, the declination (angle from XY plane) of the orbiter at apogee, and the inclination of the orbit. I believe that is all I would need to obtain the RAAN, but my efforts have thusfar failed.

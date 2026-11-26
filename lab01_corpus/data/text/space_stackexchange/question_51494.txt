@@ -1,4 +1,0 @@
-How does Ingenuity measure its altitude when flying?
-The Ingenuity folks at NASA and lots of viewers on the internet I'm sure were pleased to see the first data from "the first flight of powered aircraft on another planet" (by humans at least); the output of the helicopter's altimeter.
-Question: How does Ingenuity measure its altitude when flying? How does its altimeter work? Air pressure? Lidar? Laser displacement? Radar? Gamma rays? Something else?
-Screenshot from the new NASA video First Flight of the Ingenuity Mars Helicopter: Live from Mission Control

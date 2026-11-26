@@ -1,4 +1,0 @@
-Ultrasonic vibrations to clean solar cells?
-Could ultrasonic vibrations propagated into the solar cells be used to dislodge dust in environments like the surface of Mars or the moon?
-Obviously the waves would need to be induced in the substrate other than through the air.
-As an example; on earth we use ultrasonic cleaners to clean electronics all the time.

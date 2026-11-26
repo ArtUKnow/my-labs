@@ -1,2 +1,0 @@
-What if something goes wrong during the seven minutes of terror?
-We all know that NASA has sent rovers to Mars for several years. And, during the last 7 minutes, each rover follows the EDL (Entry, Descent, Landing) maneuver. I believe this process is completely autonomous due to the signal delay between Mars and Earth. But what if something like the opening of a parachute or the thrusters malfunction? Can the mission directors at NASA do anything?

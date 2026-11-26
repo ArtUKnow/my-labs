@@ -1,6 +1,0 @@
-What equation is being used- chamber pressure v.s. mass flow rate? (Cold-gas thruster)
-I am doing a project on cold gas thrusters and have seen a couple of graphs relating chamber pressure against mass flow rate. I can't seem to find the equation that relates these two parameters to produce this asymptotic 1/ln |x| looking graph.
-Image 1 [https://www.researchgate.net/publication/323629454_Influence_of_combustion_chamber_pressure_on_injector_performance]
-Another similar graph is a screenshot from a YouTube video (link provided below, at 12:06 minutes).
-Image 2 [https://www.youtube.com/watch?v=9ar2kTgFQsI]
-If anyone could help locate this equation for me, it would be much appreciated. Thanks :)

@@ -1,9 +1,0 @@
-Impossible, linear expansion of "empty universe"
-https://en.wikipedia.org/wiki/Age_of_the_universe#Cosmological_parameters
-I have two problems with the "empty universe". If it's completely empty, it can't expand, but its scale factor function is linearly increasing, so it's $a(t)=t/t_0$ where $t_0$ is the age of the universe. The second problem with linear function of the scale factor is that the integral of its inverse is
-$$\int\frac{dt}{t/t_0}=t_0\ln{t}+C$$
-and the proper distance equal to the observable universe radius is
-$$d(t_0)=a(t_0)\int_{0}^{t_0}\frac{cdt}{a(t)}= \\
-\frac{t_0}{t_0}\int_{0}^{t_0}\frac{cdt}{t/t_0}=ct_0(\ln{t_0}-\ln{0})=ct_0\ln{\frac{t_0}{0}}$$
-It's undefined, because $\ln{0}=-\infty$.
-What's the explanation or solution to these problems?

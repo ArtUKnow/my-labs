@@ -1,3 +1,0 @@
-How to determine the number of Multi Layer Insulation layers for a satellite?
-I've been learning about Multi Layer Insulation (MLI) blankets for spacecrafts. I'm trying to figure out how to estimate the number of MLI layers that will be required at a particular orbit.
-MLI principles and structure are discussed in detail at Why aluminum is added in Multi Layer Insulation? and at https://www.elecdiv.kaneka.co.jp/en/products/heat-measures/insulation.html (mentions KOUNOTORI and KIBO) and in Ratermann's Your Guide to Cryogenic Insulation, but is there any method that I could follow while determining the number of layers that will be needed for this purpose?

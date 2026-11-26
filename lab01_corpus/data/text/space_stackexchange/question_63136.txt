@@ -1,3 +1,0 @@
-How do "halo orbits" save on propellent (delta-v)?
-I am trying to understand what advantage the satellite's 'Halo Orbit' has compared to LEO or Geostationary orbits.
-"Lagrange points have proven to be very useful indeed since a spacecraft can be made to execute a small orbit about one of these Lagrange points with a very small expenditure of energy."

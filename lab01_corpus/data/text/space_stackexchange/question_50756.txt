@@ -1,7 +1,0 @@
-What does a 6-month GTO to GEO transfer look like in practice?
-Based on How much time does it take to circularize a GTO orbit using ion propulsion? and the launch and entry into service dates, it takes about 6 months of continuous ion propulsion to transfer a GTO to a GEO.
-According to a spacenews.com article, the journey was 7 months for the all-electric Eutelsat 117 West B. They have an illustration, which suggests the GTO's apogee was higher than GEO:
-Source: spacenews.com
-The post Thrust and rotation strategy to circularize a standard GTO orbit using ion propulsion? offers a theoretical approach. To a mere Kerbonaut, who only knows how to circularize an orbit by firing at apogee: when a continuous very, very, very small thrust is used in practice such as that payload (Eutelsat 117 West B) aboard the June 2016 Falcon 9 launch, how does the orbit look like as it circularizes, since the thrust is not always at apogee?
-Of note, I think, is the movable arms with the thrusters:
-(...) these twin arms can be moved freely about its body so their thrusts can always be aligned precisely with the satellite's center of gravity for orbit raising and stationkeeping – saving propellant to elongate mission life (eoportal.org).

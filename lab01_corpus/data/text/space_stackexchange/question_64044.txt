@@ -1,2 +1,0 @@
-How feasible is a manned flight to Apophis in 2029 using Artemis or Starship?
-Apophis will fly by Earth around GEO altitude in 2029. May NASA consider launching an Orion spacecraft on a (sub-)orbital trajectory whose apogee is very close to Apophis so that astronauts can study it from close? I guess we can't land on Apophis or enter an orbit around it because it would require too much fuel to "catch up" with its speed and then leave its path and return to Earth again, wouldn't it?

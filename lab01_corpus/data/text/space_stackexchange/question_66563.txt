@@ -1,3 +1,0 @@
-Is combustion turbulent inside of a rocket engine?
-Combustion in a rocket engine is made of diffusion flames in almost all cases. These tend to be turbulent. Rockets which "scream" do so because of the collapse of opposing flame fronts into annihilating "pockets", forming when occurring at a characteristic frequency, an audible thermoacoustic instability. Indeed, velocities are high and characteristic lengths large within a combustion chamber. I imagine Re is in the millions.
-However, is the flame front turbulent or is it somehow stable? For rockets which don't scream (or only scream quietly)?

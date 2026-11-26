@@ -1,3 +1,0 @@
-Recovering original pixel coordinates from a TESS cutout
-I am using the package astrocut to analyze some stars observed by TESS. This software creates cutouts of the Full Frame Images around a given target. I was wondering, is there a way to retrieve the pixel coordinates of the target on the original Full Frame Image? Meaning, if I try to retrieve the coordinates of the target starting from the cutuout using the wcs.all_wordld2pix function I find such coordinates referred to the cutout. I would like to find them in reference to the whole Full Frame Image.
-Thank you for your help.

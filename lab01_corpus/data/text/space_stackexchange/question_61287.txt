@@ -1,2 +1,0 @@
-How to download (Assisted GPS) AGPS file on PC?
-I am trying to implement GPS receiver in software. Can I use AGPS file for faster locking of GPS satellites? I read somewhere that EPO files exist for Assisted GPS but I can't find any place to download this EPO data.

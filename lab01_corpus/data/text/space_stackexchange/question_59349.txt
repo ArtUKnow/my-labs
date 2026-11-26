@@ -1,3 +1,0 @@
-How often do active satellites have to change course to avoid other active satellites?
-I'm only aware of the ESA and SpaceX incident in 2019. Does this happen more regularly especially now with more active Starlink satellites and other constellations?
-More importantly, are there efforts to track these types of near collisions where one or both agencies react (or choose not to) to avoid collisions?

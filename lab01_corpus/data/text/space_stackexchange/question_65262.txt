@@ -1,4 +1,0 @@
-What Δv is needed to reach LEO from a space elevator?
-In two recent questions about space elevators, the topic of reaching non-geostationary orbits came up, particularly the popular Low Earth Orbits.
-This question is simply about how hard exactly it is to reach LEO assuming you have a space elevator available. (The motivation is mostly for quick reference, comparing to how hard it is with a conventional launch right from the ground to LEO.)
-Specifically, I'm asking where you would want to drop off from the elevator, what maneuver[s] you would perform to end up in a circular prograde equatorial LEO (let's say apogee = perigee = 1000 km), and how much Δv those burns would require. This is assuming ordinary chemical propulsion (i.e. near-instantaneous burns). We're not counting the energy to climb the elevator in the first place.

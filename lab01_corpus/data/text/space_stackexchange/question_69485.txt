@@ -1,6 +1,0 @@
-Hybrid combustion of ALICE with LOX?
-I'm working on a sci-fi universe for a role-playing game and am wondering if a disposable short-distance rocket (most likely used in a cheap missile) could be optimized by adding liquid oxygen to the combustion chamber. Could a design that has a solid rocket motor containing ALICE (aluminum nanoparticle and ice) be optimized by spraying liquid oxygen into the combustion chamber?
-ALICE's base combustion formula:
-$$\require{mhchem}\ce{2Al + 3H_2O -> Al_2O_3 + 3H_2}.$$
-Could you theoretically improve combustion performance and thrust by injecting liquid oxygen to combust the produced hydrogen by $$\ce{2H_2 + O_2 -> 2H_2O}?$$
-Are there any factors that could prevent this reaction from occurring?

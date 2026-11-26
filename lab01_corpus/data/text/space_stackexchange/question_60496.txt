@@ -1,2 +1,0 @@
-Retrieving TLE file when offline
-How does one retrieve the TLE file without any internet access? For instance, I am out in the open sea without an internet connection for a few days. Can I still get the latest TLE file by some other means?

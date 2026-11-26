@@ -1,2 +1,0 @@
-On the absence of ghosts in quadratic bigravity
-An extension of the bimetric theory of gravity is considered that includes quadratic Ricci curvature terms associated with each metric. The issue of the Boulware-Deser ghost is analyzed. The Hamiltonian constraint is derived and the existence of a secondary constraint is shown, proving that the theory is ghost-free.

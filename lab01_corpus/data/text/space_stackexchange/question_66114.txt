@@ -1,2 +1,0 @@
-Why should nozzles be perfectly expanded?
-If I understand it correctly, the only problem with an overexpanded nozzle is (aside from technical difficulties) that the surrounding atmosphere puts pressure on the exhaust gases and reduces engine thrust and efficiency. So isn't it rather that the nozzle needs to be expanded enough to make the exhaust velocity as high as possible and still pay off due to the pressure? But this point of balance doesn't have to happen just when the pressures are equal, right?

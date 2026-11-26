@@ -1,2 +1,0 @@
-Why did Starship separation fail?
-After seeing the live stream: https://www.spacex.com/launches/mission/?missionId=starship-flight-test I was curious why the separation failed . The first stage went normally. Then it failed to separate. After that it started to spin and the self destruct signal was sent. What went wrong with the separation?

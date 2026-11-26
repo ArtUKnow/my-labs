@@ -1,2 +1,0 @@
-Why are the JWST secondary mirror support booms not painted black?
-Based on the more recent of the Webb construction photos as well as the drawings in the deployment explorer, the JWST secondary mirror support booms look rather white, and even shiny. Won't they reflect stray light into the telescope from all directions? Why wouldn't they be matte black like other elements? I wondered if they might be black in infrared, but then remembered that JWST is supposed to be able to see light up into the red/orange range, so that doesn't explain it.

@@ -1,6 +1,0 @@
-Starting refueled in LEO, how much payload could a heat-protected Starship softly land on Mercury after a gravity assist from Venus?
-This question may be a crucial follow-up to this one because in this answer it is calculated that the payload to Mercury without a gravity assist would probably be minimal, so if already a moderate reduction in the spacecrafts speed could be reached , that would cause a relative big change in payload for the better.
-From this answer I've learned that Starship just isn't designed to survive the heat it would absorb by traveling so close to the Sun. But let's assume it would have extra temperature-resistant layers or heat shields for radiative cooling, while it already has a heat shield on its belly for aerobraking.
-Since the purpose of the Venus gravity assist would be to slow the spacecraft down, and Starship would have the necessary heat shields, aerobraking in the upper atmosphere of Venus would be an extra option, although the effect of it would probably be hard to calculate.
-Finally, couldn't it be advantegeous if Starship could catch up slowly with Mercury somewhere between its perihelion and aphelion, where the planets orbital speed would increase from almost 39 km/s to 59 km/s in just 44 days ?
-Or is it around aphelion, because then there's more time to adjust the speed ?

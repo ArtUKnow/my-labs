@@ -1,2 +1,0 @@
-Why does the Star-5A have such a bad mass ratio?
-I went over the KSP-RO's Discord research notes and found this PDF about the Star kick motors. The OP wrote that the Star-5A had a mass ratio of 0.493, which seems extremely low from a solid motor standpoint. Is there any reason why it doesn't contain as much propellant than any other solid motor?

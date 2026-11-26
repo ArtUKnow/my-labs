@@ -1,6 +1,0 @@
-Why not send a Mars rover to Titan?
-It's nuclear powered
-The mission would be virtually identical to the one at Mars.
-We've already pushed larger objects to Saturn
-Once every 15 years or so, Jupiter's in a position to give a gravity assist boost to get there.
-They'd have to shield the computers from Saturn Magnetosphere radiation, and the data rate would be slower. Except we could use lasers now.

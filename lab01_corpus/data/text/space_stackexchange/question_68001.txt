@@ -1,7 +1,0 @@
-What is the highest Earth orbit periapsis that a cubesat has been deployed with?
-Discussion in comments below Did the QB50 cubesat project actually demonstrate orbit raising via solar sail or solar panels (winning against drag)? If so, at what altitude? has got me thinking, and that usually means posting.
-@user721108 points out that the inevitable atmospheric drag to potential solar orbital boost (possible with constant and necessary attitude changes) ratio is way different at different altitudes (e.g. 150 vs 800 km).
-I have an unsubstantiated hunch that atmospheric drag always wins at 300 km and at 600 km net solar boost is certainly workable.
-This makes me wonder:
-Question: What is the highest Earth orbit periapsis that a cubesat has been deployed with?
-The tortured wording means to avoid propulsive cubesats on their way to the Moon for example or those deployed on their way to Mars for example.

@@ -1,2 +1,0 @@
-I'm confused about the correlation of two stellar activity indexes given in different papers
-In a paper by Meunier+ in 2022 an activity index log IHa is given as -1.12 for 40 Eri A as an example. In a paper by Martinez-Arnaiz+ in 2010 an H alpha flux (FHa(mW/m2)) is given as 5.24. Can one be derived from the other?

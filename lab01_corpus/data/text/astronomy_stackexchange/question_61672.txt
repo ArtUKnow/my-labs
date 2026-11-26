@@ -1,7 +1,0 @@
-Earth Shadow's Enlargement Refinement
-I even read in Explanatory Supplement of Astronomical Almanac if umbra enlargement factor was 1.02 (2% increased) for $\pi_{moon}$, $s_{sun}$, and $\pi_{sun}$ terms. The equation becomes: $r_u = 1.02(\pi_{moon} - s_{sun} + \pi_{sun})$
-as we know that 1.02 is factor due to atmospheric refraction
-However, Danjon (Analysis os lunar crater timings, 1842-2011) considered to multiply enlargement factor into $\pi_{moon}$ term only. The equation becomes: $r_u = (0.998340 + h) π_{moon} − s_{sun} + π_{sun}$
-which h is notional eclipse-forming layer (NEL) height, equals 75 km or 0.0118 Earth Radii (or in the paper derived into 87 km or 0.0136 Earth Radii)
-while Chauvenet still multiply with 1.02 after Danjon's equation, so the equation becomes: $r_u = 1.02((0.998340 + h) π_{moon} − s_{sun} + π_{sun})$
-Thus, is it relevant if we still use 1.02 factor when lunar horizontal parallax was already multiplied?

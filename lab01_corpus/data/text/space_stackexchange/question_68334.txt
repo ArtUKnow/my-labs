@@ -1,9 +1,0 @@
-What's wrong with the gravity assist formulas?
-When you study gravity assists/swing-by maneuvers you stumble across the two formulas
-$$V_2 = V_1 \pm 2U$$
-for the velocities of a spacecraft before ($V_1$) and after ($V_2$) assist with a planet with velocity $U$ in a global reference frame and
-$$v_2 = (v_1 + 2u) \sqrt{1 - \frac{4uv_1 (1-\cos\theta)}{(v_1 + 2u)^2}},$$
-where $\theta$ is the angle of approach and $v_1, v_2, u$ the magnitudes, see also here.
-But, none of them makes sense since $V_2$ (and so $v_2$) should depend on the actual periapsis during the assist. The closer to the planet, the more the trajectory gets bent. This is pointed out for instance here and on other sites. Moreover, also the planet's $GM$ does not seem to matter.
-So, what I'm missing or what's wrong with these formulas?
-Remark: These trajectories all have the same $v_\infty$ and come from the same direction (so the same $V_1$ and $\theta$) but with different impact parameters and eccentricities (and so $V_2$) in contradiction to the formulas.

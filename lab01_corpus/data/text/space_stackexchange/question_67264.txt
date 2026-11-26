@@ -1,6 +1,0 @@
-Compressed helical spring powering an early stage of rocket
-We take a (ball point pen ink tube) and (press release/retract spring) as a model for storing potential energy (PE). The ink tube can be projected up by the spring when kept free.
-Is it possible to design a humongous but lightweight helical spring storing torsional PE and to deliver controlled release thrust in order to eliminate first/early stage of a launch vehicle? Some sort of a helical slingshot? The spring is to be made with carbon or Kevlar material so it has stored energy per unit mass in an earth bound experiment.
-Preliminary energy calculations and dynamics indicate a feasibility.
-Energy saving would be considerable as compression spring is easily loaded by power screws driven by electric motors.
-Thanks for all comments.

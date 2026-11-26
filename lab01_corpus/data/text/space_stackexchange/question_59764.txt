@@ -1,4 +1,0 @@
-Efficiency of "liquid cooled" RTG
-One of the big problems in the vacuum of space is getting heat away. RTG that rely on a temperature differential from the hot to the "cold" side to produce electricity will probably suffer a lot from bad cooling. And it seems, the "cold" side of those RTG can get quite hot accodring to anwers to this question: How hot was the surface of RTG radiator which powered ALSEP on Apollo-12?
-There are plans to send probes to the icy moons in our solar systems.
-Would potential RTGs on probes that land on the surface of those icy moons or even use the heat to melt through the ice benefit from the advantages of water-cooling? If yes, how much more efficient (and therefore smaller/lighter) could they be?

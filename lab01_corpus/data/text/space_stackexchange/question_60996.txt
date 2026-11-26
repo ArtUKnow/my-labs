@@ -1,9 +1,0 @@
-How to interpret the Artemis I flight path from NASA's Artemis I Map
-I'm sure almost everyone on this site has seen the Artemis Map released by NASA. But I find it confusing attempting to interpret the flight path Artemis I will take. The mission is 25 days, and the Moon will have completed most of its orbit around the Earth in that time, but the map shows no motion of the moon. The animation on Wikipedia (screenshot below) shows this motion and the flight path in a much clearer (to me) way.
-So my question is, is there an accurate way to interpret the flight path on NASA's Map, or is this mostly artistic licensing? Or was there just not an attempt to accurately show the flight path on this map?
-My best guess is that it's the path in the lunar coordinate frame, but viewed from a distance, but then I'm not sure the trajectories around Earth make sense in that frame.
-EDIT: I found an amination where the reference frame rotates with the Moon's motion (same page as the other animation). The trajectory near the moon seems similar to that in NASA's map, but not the return and ascent paths. I also generated my own path using JPL Horizons data in the non-rotating lunar reference frame (last image).
-Nasa Map
-Flight path from above
-Rotating with Moon
-Moon reference frame

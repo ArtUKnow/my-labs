@@ -1,4 +1,0 @@
-Conversion of osculating orbital elements to TLE mean elements
-I am looking for a method to resample TLE data, so they are regularly sampled. I wanted to use physical propagation to calculate elements at given time. However, the propagation of TLE by SGP4 returns state vector, which can be transformed to osculating elements. Is it possible to transform osculating to TLE mean elements?
-From what I understand, you need to specify propagation model for osculating to mean conversion. In our case, this model is SGP4. However, on what time scales should the averaging be done over?
-And what you think about using zero time propagation with SGP4 model to guess the input mean element to match osculating elements? Will such approach even produce unambiguous solution?

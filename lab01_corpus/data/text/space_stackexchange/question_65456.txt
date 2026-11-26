@@ -1,4 +1,0 @@
-In a gridded-ion thruster, why are the ions accelerated away from the thruster and do not just stay close to the negatively charged grid?
-Basically, if the ions are accelerated due to their attraction to a negatively charged gird at the back end of the thruster, why don't the ions just stay by the grid? How are they ejected out of the back at high speeds? Do the ions simply have a high oscillation amplitude, and are neutralized before they would 'want' to return to the negatively charged grid?
-I think I may be misunderstanding a more fundamental piece of the physics?
-Thanks for any help.

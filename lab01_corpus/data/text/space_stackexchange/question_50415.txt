@@ -1,4 +1,0 @@
-How hard is it to receive direct signals from vehicles on the surface of Mars, and has anyone other than the DSN done so?
-Almost all communication from vehicles on the surface of Mars is relayed by spacecraft in orbit around Mars. However vehicles on the surface do communicate directly with Earth.
-This communication, for NASA and related missions, is handled by the Deep Space Network, or 'DSN'.
-How hard is it to receive signals directly from vehicles on the surface, and has any organisation or person other than the DSN done so?

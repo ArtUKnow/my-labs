@@ -1,2 +1,0 @@
-Does JPL Horizons maintain images from the observations of minor bodies/asteroids as they are submitted?
-I can query for the observations in a list but do not see any links to the image(s) corresponding to such observations. Nor have I come across any reference on the Horizons site to view images. Would anyone be able to provide an example of links to images or how to view observation images of minor body / asteroids

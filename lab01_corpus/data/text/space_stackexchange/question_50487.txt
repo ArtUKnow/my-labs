@@ -1,3 +1,0 @@
-Can nuclear thermal engine designs be shutdown in such a way as to be restartable, in space?
-Nuclear thermal rocket designs have a working temperature of 2000k or greater. Shutting such a reactor down won't stop that heat production instantly - it'll take quite some time to cool.
-Do current nuclear rocket designs allow for shut down of the actual rocket while in space and then restart it, without melting significant parts of the engine? If so, how to they plan to do this?

@@ -1,3 +1,0 @@
-How is Starship longitudinally stable during reentry?
-During IFT-4, it was noted that the flaps rarely moved. But I don't understand how Starship would be stable at that attitude. Stability requires the center of pressure to move rearward with increasing angle of attack. And in order to achieve this in a lifting attitude, the the rear surfaces need to have a lower pitch than the front surfaces. But as far as I know, Starship body flaps are always parallel to the longitudinal axis.
-Edit: for those claiming imcorrectly that Starship did not produce lift

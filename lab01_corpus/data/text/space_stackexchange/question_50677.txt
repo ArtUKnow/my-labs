@@ -1,3 +1,0 @@
-Earth-Sun decayed L1 to L4 transfer
-Assume CR3BP (Circular Restricted 3-Body Problem) where a satellite occupies the Earth-Sun L1 point. The satellite dies, stops station-keeping, experiences a small perturbation (minimal effect on Jacobi), then decays for some arbitrary time t. What is the delta-v budget and travel time for Earth to rescue the satellite to L4? This can be split into two cases: sunward decay, and earthward decay.
-(Most of the literature I've found discusses Earth-Lagrange transfers, not Lagrange-Lagrange, let alone after decay. I suspect the only solution is to simulate, sampling random t, but there may be more analytical insight I don't know.)

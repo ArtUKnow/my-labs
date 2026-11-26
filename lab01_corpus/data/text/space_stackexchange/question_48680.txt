@@ -1,3 +1,0 @@
-Can Lorentz forces partially cancel centrifugal forces?
-If we had a tidally stabilised skyhook (https://en.wikipedia.org/wiki/Space_tether#/media/File:Skyhooks.gif) with electric charge and with a vector of force aiming towards the center of the Earth, would it cancel part of the centrifugal force that has an opposite vector at (hypothetical) speeds close to escape velocity?
-If not, why not?

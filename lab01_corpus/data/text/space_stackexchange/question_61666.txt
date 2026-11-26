@@ -1,6 +1,0 @@
-Important new additives to hypergolic hydrazine-based fuels since 1972?
-In "Ignition! An Informal History of Liquid Rocket Propellants", John D. Clark in one of the chapters gives an overview of the then current state of hydrazine and hydrazine derivatives.
-The main components of such fuels were hydrazine, monomethyl hydrazine (MMH) and unsymmetrical dimethylhydrazine (UDMH), in all kinds of mixing ratios.
-I know for a fact that these combinations are still perfectly relevant.
-He goes on to list several commonly used additives, including diethylene triamine for better density, acetonitrile for viscosity reduction and hydrazine nitrate. He also list some potentially useful future candidates like ethylene di-hydrazine and tetramethyl tetrazene which may have some uses.
-Have hydrazine-derived fuels progressed any further in the 50+ years since Clark wrote the book? Are any new additives or major components in common use?

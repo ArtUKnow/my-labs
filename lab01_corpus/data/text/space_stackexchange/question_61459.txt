@@ -1,5 +1,0 @@
-World communication network coverage in % or dead zones
-In the paper "Recent Progress and Future Development in Satellite Communication" written by Ju Han, it is given that only 20% of the land area is covered by signals.
-I have started to search more information about this number. Even if oceans, which cover about 70 percent of the planet's area, I think some part of oceans are covered, right? We have satellite communication for this area.
-Most of the websites give information about a number of world population which have access to broadband network, but I am looking for a number of Earth coverage, like rural area, oceans, mountains... [not only 4G/5G/6G]
-Does anyone know a reference (paper or website) where I can find the current value/number in & of Earth coverage or dead zones (%)?

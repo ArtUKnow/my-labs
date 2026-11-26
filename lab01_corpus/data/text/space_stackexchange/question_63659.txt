@@ -1,5 +1,0 @@
-SSME/RS-25: why seal between LOX pump and preburner?
-Both the the fuel and oxidiser preburners ran fuel rich. In order to prevent the preburner gas from entering the LOX pump and blowing it up, they had this complex double seal with a gas purged void in between.
-Why would one expect preburner gas to enter the pump at all? Shouldn't the pressure gradient prevent it? In any case, aren't there valve designs that can prevent backflow?
-Since LOX is found to the preburner anyway, why not have it go directly down the shaft? Why this detour? It could flow through a gap that us much smaller than the gap leading to the main combustion chamber. The laws of physics would then ensure that the right amount of LOX flows. Moreover, the combustion chamber will run at a lower pressure than the preburner, so it will naturally ducj more LOX.
-This would eliminate the complexity of the seal, which also wears down quickly and causes friction with the pump

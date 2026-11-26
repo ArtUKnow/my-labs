@@ -1,4 +1,0 @@
-Orbit Design Tools/Software
-Could you propose some Orbit Design tool or software?
-I expect it to give me an optimum orbit for a given criteria and limitations. For example, an orbit with maximum access over an specific point with its semi major axis less than 20000 km and inclination > 40.
-max access duration over (lat, long) = (20, 100) subject to a < 20000km & i > 40

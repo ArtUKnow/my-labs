@@ -1,4 +1,0 @@
-Resources on Coking?
-I'm trying to do some background research on the coking process that occurs in rocket engines, but haven't found any resources that fit what I'm looking for.
-To be more specific, I'm just looking for any resources that give a background introduction to coking, the different ways that coking can occur, maybe the chemical formula that drives its formation, and the parameters that affect coking, etc.
-I found a PDF by ExxonMobile that gives some basic information on coking, but I'm unable to find any further resources. If anybody has an in-depth understanding of coking and can point me to any resources, that'd be greatly appreciated!

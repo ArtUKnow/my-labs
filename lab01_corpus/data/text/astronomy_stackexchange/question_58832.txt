@@ -1,3 +1,0 @@
-Cosmological redshift to distance calculation: Why are imaginary numbers involved?
-I was looking at this question and read through the linked article http://arxiv.org/pdf/astro-ph/0007341v1.pdf. When I was attempting to compute the distance between two galaxies using the following formulae in the paper:
-When plugging in $q_0 = \frac{1}{2}\Omega_M - \Omega_\Lambda = -0.55$ and arbitary values of $z_1, z_2, \alpha$, I keep running into the issue where $z'_2$ is a complex number! Have I performed an error in my calculations, or am I misinterpreting the value of $q_0$?

@@ -1,4 +1,0 @@
-"Reading 486" air speed from Challenger disaster: What units?
-Some of the last words from the doomed Challenger crew were "reading 486," which the Boston Globe describes as a routine air speed callout.
-Would this be vehicle speed relative to the air, or would it be the speed of the air itself? What units would the speed be in?
-http://archive.boston.com/news/nation/articles/1986/07/29/transcript_from_the_challenger_tape/

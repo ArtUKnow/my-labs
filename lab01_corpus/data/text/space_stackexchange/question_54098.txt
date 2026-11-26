@@ -1,4 +1,0 @@
-Unity 22's ground track; which direction was it moving horizontally at 1085 kph during its weightless phase?
-update: According to The Newyorker's The Red Warning Light on Richard Branson’s Space Flight there is FR24 data available.
-A quick check of the videos shows Virgin Galactic's Unity 22's apogee of over 86 km, and at that point the displayed speed is 674 mph or about 1085 kph or 18.1 km per minute. During the four minutes of being weightless we can assume the trajectory to be roughly parabolic so the horizontal speed should be fairly constant, meaning it traveled at least 70 km horizontally during that time alone.
-Question: Which direction (azimuth) was Unity 22 moving horizontally at 1085 kph during its 4 minute weightless phase? What direction relative to the spaceport (towards, away-from, parallel to, etc.)?

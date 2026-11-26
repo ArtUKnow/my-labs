@@ -1,3 +1,0 @@
-How could 99942 Apophis, in 2029, be captured and brought into a low Earth orbit?
-I'm currently attempting to plan out a mission where, in 2029, during Apophis's close approach to Earth, a rocket is sent up to intercept Apophis and decelerate it, making it orbit the Earth. At it's periapsis of the Earth, according to a few different sources, it may be anywhere from 31,900 to 37,720 kilometers high, travelling at roughly 7.433 km/s.
-What would a rocket need to look like in order to do this? How much delta-v would be necessary (and how do you calculate this)?

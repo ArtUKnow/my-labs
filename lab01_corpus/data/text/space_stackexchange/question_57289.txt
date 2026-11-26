@@ -1,6 +1,0 @@
-Where did AS-206 go between 1967 and 1973?
-The Apollo program was a bit stressful. In 1967 a lot of things went wrong, especially with the delivery of the lunar module:
-General Phillips's office originally planned to launch the first lunar module aboard Apollo-Saturn 206 in April 1967. Anticipating six months of checkout on the lunar module, Debus had requested a delivery date of September 1966. Development took longer than expected, however, and delivery slipped from month to month. The lunar module's arrival was still uncertain in January 1967 when KSC erected AS-206 on pad 37. In March AS-206 was taken down and replaced with AS-204, the launch vehicle from the ill-fated Apollo 1 mission. Lunar module 1 finally arrived on 23 June 1967.
-(source: Moonport, chapter 20)
-The Apollo 1 fire was on 27 January 1967 on LC-34. I imagine that AS-204 was just moved from LC-34 to LC-37, assuming that it spent a month or so there pending investigations.
-Where did AS-206 (a Saturn 1B) go after being taken down? As far as I can tell, it was used for the first crew launch for Skylab on 25 May 1973, well over 6 years later. Where was it in the mean time? Did they send the stages back to the respective manufacturer plants? Did they leave them outside on a parking lot? Stored in a corner of the VAB?

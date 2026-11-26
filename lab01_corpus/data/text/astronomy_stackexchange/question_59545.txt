@@ -1,2 +1,0 @@
-Why are asteroid collisions a probability?
-In the news, there has recently been some talk about an asteroid possibly colliding with the Earth in 2032 with a 3.2% chance. How is this a probability and not a definite guarantee? Is it due to a lack of perfect instrumentation, or is there some other astrophysical meaning?

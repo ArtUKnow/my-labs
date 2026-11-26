@@ -1,4 +1,0 @@
-Dragon re-entry flight profile?
-I was looking online for a profile depicting the Dragon re-entry similar to those showing the launch and first stage re-entry (e.g. https://www.elonx.net/wp-content/uploads/profile_Inspiration4_Infographic_EN.png) but could not find anything.
-Ideally that chart would contain time, velocity and altitude information for the different phases of the re-entry.
-Is something like that online? (If this has been asked and answered already feel free to flag as dup, but I didn't see anything.)

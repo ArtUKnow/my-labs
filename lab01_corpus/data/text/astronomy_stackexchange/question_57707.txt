@@ -1,4 +1,0 @@
-What does an inclination of 0 degrees mean?
-I understand that inclination is the measure of how tilted an orbit is. But is an inclination of 0 degrees like this
-or like this?
-I know there are many formulas relating inclination, including calculating the true mass, but I am unsure as to which reference frame inclination is measured from. I understand that if one is 0 degrees, the other must be 90 degrees.

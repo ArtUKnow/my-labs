@@ -1,4 +1,0 @@
-What engine cycle does the RS-88 and its hypergol derivative use?
-A comment on this question Orange lines coming from rocket engine nozzle? stated in part
-The RS-88 is not a full flow engine and there is not a visible bypass exhaust. ... Perhaps they eject the bypass from the preburners into the nozzle.
-What engine cycle does this engine use? I would be surprised if it has preburners, but I could not find any information on it. This paper doesn't say. This Rocketdyne press release about its BANTAM precursor says it's based on the Atlas sustainer engine, which was a gas generator cycle, but nothing about the RS-88 itself.

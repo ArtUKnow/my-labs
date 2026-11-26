@@ -1,7 +1,0 @@
-Would the >100 km "knee" in Earth's atmosphere still be where MFP exceeded scale height if it were pure Ne or Ar?
-There is currently one answer to How many solar system bodies have "knees" in their atmospheres? that points out that somewhere above roughly 100 km turbulent mixing drops off (thus the name turbopause) and that's the reason that the exponential rate of density fall off with altitude drops off so much, not that the average mass of atmospheric particles change from N2/O2 to monatomic oxygen with half the mass (and double the scale height).
-I think the point there is that scale height is no longer a meaningful concept at this density. This comment on a different "knee" question says:
-Let's never mind the fact that in these altitude ranges, it makes more sense to talk about atmospheric density than it does atmospheric pressure, as the mean free path of gas atoms and molecules is so long that the continuum assumption breaks down.
-Going significantly above 100 km the mean free path (MFP) of atoms becomes kilometers and then tens of kilometers!
-So a pure noble gas atmosphere makes for a good Gedankenexperiment since there is no change of particle mass at some altitude.
-Question: I'm still trying to understand the actual origin of the "knee" in Earth's atmosphere that happens beyond 100 km. If Earth's atmosphere were made of pure neon or argon instead of mostly diatomic gases, would it still have a knee somewhere around there, where the mean free path exceeded the scale height?

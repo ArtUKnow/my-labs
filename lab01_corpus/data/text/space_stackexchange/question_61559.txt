@@ -1,4 +1,0 @@
-Advice on ionic thruster
-I am a high school student, and this year our school requires us to do this Year-long project, I chose building ionic thrusters as my project's first choice.
-My question is, which type of ionic thrusters would be appropriate for this project? (my budget is around 400 dollars).
-I am thinking of doing a hall-effect ionic thruster

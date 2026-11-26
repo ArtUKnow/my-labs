@@ -1,3 +1,0 @@
-Exterior "running lights" on ISS?
-In Scott Kelley's memoir "Endurance," he describes how challenging it is to navigate the exterior of ISS when in Earth's shadow, and he mentions that his Russian colleagues would just stay put and rest during that time.
-Why doesn't the ISS have external running lights? I understand that there is generally not a shortage of electrical power, and LEDs are lightweight and long-lasting (at least on Earth). It seems to me that given their benefits to safety during spacewalks, there must be a reason for their absence.

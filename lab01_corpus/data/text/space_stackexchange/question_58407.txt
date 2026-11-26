@@ -1,3 +1,0 @@
-What does `ln` mean in the Delta V equation?
-I am working on a project for school and can't figure out what ln means in the Delta-V equation, as in Δv = VE * ln(ML / ME).
-I know that Δv is Delta V, VE is exhaust velocity, and ML and ME is the difference between a rocket that has not undergone its burn, and when it has. Does anyone know what ln means?

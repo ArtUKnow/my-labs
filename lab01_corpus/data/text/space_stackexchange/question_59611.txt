@@ -1,6 +1,0 @@
-Variant of the Tsiolkovsky rocket equation including engine specific power and efficiency, can anyone help me under stand how this works
-First of all this code is not mine I am trying to understand how the equation for m_u works. This comes from a master thesis called Trajectory design for a Titan mission using
-the Direct Fusion Drive as shown it is a different variant of the Tsiolkovsky rocket equation I believe for the propellant weight on the rocket in this case it is being used to plot the change in delta V relevant to mission length so Delta-t is total number of seconds in 0 to 15 years. Can anyone link to elsewhere this equation can be found?
-To make it clearer the equation is
-Where Ve is (Isp * Gravity constant).
-Link to thesis is https://webthesis.biblio.polito.it/15184/1/tesi.pdf

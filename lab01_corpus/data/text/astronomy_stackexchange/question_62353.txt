@@ -1,4 +1,0 @@
-Are there exotic objects that can only form through stellar collisions?
-One that comes to mind are degenerate cores in objects way too large to form one normally. For instance, one could have a collision between an 0.6M☉ white dwarf and a 50M☉ main sequence star.
-I also know of Thorne-Żytkow objects, though those have plausible formation paths in binary systems (which the above does not).
-By “collisions”, I mean interactions between stars that were not part of a multiple system. For instance, a binary system of 0.6M☉ white dwarf and a massive main sequence star (presumably) cannot form, because the massive start would explode before the white dwarf could form. Such an encounter would need to be between unrelated stars in an area with very high stellar density, such as a galactic nucleus.

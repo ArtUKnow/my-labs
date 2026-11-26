@@ -1,7 +1,0 @@
-Is StarShip/Booster stack inherently unstable after Booster burns most of its fuel?
-Few will ever forget the flight of Starship 24/Booster 7.
-Perhaps the first moon rocket to perform aerobatics and hold itself together before finally self destructing. But would it be aerodynamicly unstable once most of the Booster fuel and Lox were gone?
-Center of Gravity plays a key role in longitudinal stability. As Booster propellant is consumed, center of gravity moves forward and the Booster becomes ... a tail!
-Just like the ones Congreve rockets had. For stability.
-It makes one wonder if uneven thrust played more of a role, perhaps coupled with loss of gimballing. One may even speculate that the second stage control fins may have been tried.
-But, with most of the Booster fuel gone, is the full stack inherently unstable?

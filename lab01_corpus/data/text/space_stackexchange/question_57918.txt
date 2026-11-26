@@ -1,7 +1,0 @@
-Could astronauts jump from a spaceship onto a spacestation and how would it be like if yes?
-I saw it happen in the videogame Alien:Isolation but not sure how realistic it was. I need help understanding some orbital mechanics for a sci-fi story that I am trying to write.
-The scenario I imagine that there is a space-station, orbiting a celestial object.
-A crew, with a 2 and a half meters high robot that is able to "leap", and two "astronauts" who would ride this robot would attempt to approach with their spaceship, and jump from the spaceship's airlock to the emergency airlock door of the space station.
-Is this possible? Would the spaceship need to go next to the station and go on the same trajectory with the same speed, or would it need to move slightly faster than the space station at the time of the jump?
-As a reference here is the scene from the videogame:
-This however does not let one see (or I do not see) how the spaceship was behaving relative to the station.

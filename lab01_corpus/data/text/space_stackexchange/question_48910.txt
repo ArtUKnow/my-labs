@@ -1,5 +1,0 @@
-Aerospike with solid fuel
-I was scrolling in youtube and I saw this awesome video
-and I think, if we put an aerospike nozzle in a sounding rocket,or even a small orbital rocket, as a first stage solid booster, this type of nozzle can help a lot.
-I continued to study aerospikes and I found this other awesome video and I saw, that aerospikes have two big problems. First, there is the engineering behind them (fuel pumps, pressurizers, etc ...) in short, many potential points of failure and weight, but wait, already we solve this, with solid fuel, no pumps or extra weight, so ok! The second problem is the heat. This is an unsolved problem, but as this is just a booster, it doesn't need to burn for very long.
-What do you think about this idea? Is it a good idea or just something that is going to explode?

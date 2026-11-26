@@ -1,3 +1,0 @@
-Calculating time for several transfer orbits
-I was watching a video that displayed how the time to get to Mars varied with the production of varying delta-v and was looking for the mathematics behind such a calculation. Here is the link to the video:
-Can Nuclear propulsion take us to Mars?

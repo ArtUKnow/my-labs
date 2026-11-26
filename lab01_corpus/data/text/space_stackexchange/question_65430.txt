@@ -1,3 +1,0 @@
-How to determine the best method for Maneuver Detection?
-Some context to my question is after reading Vallado, (Fundamentals of Astrodynamics and Applications 5th edition), Chapter 10.11.1 brushes really quickly on the subject. To quote it, "Most solutions address a subset of maneuver types and situations. Some perform well on these cases. However, a single universal approach may not be feasible given the many factors influencing the process." It's criminally undescriptive of such an important problem.
-Is there any other literature on which method to use when? Vallado says you pretty much need to use LS and Filtering and one of them will be right. There's little to no discussion on WHICH one will be right.

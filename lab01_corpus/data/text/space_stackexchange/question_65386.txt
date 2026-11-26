@@ -1,6 +1,0 @@
-How were the control surfaces of the Space Shuttle designed to withstand the forces of reentry?
-Perhaps the most critical part of the Shuttle's flight is the communications blackout phase of reentry, when atmospheric plasma is directly interacting with the vehicle's heat shield. As I understand it, they had to maintain a 40 degree angle of attack during this phase of the flight, and I'm curious how this was actually achieved through the design of the control surfaces.
-Were they hydraulically controlled?
-What were the specifications?
-How did they prevent plasma from entering through the hinges of the control surfaces?
-I'm assuming this phase of the flight required some level of active control here, though it's possible that's incorrect. In this video, they mention "closed-loop guidance" during this phase of the flight.

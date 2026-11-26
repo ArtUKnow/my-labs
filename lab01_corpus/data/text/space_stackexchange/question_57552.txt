@@ -1,6 +1,0 @@
-Effect of temperature on Webb
-A small question. I know that Webb should be protected from heat during normal operation because its infrared sensors are sensitive to its own infrared emission.
-The question is does small degree of heat (before the sunshield is fully deployed for instance) might have an effect on its mirrors' surface? Or other components ?
-Didn't the launch caused some heating too in this regard?
-I know that they will have to be adjusted in the micrometer scale (iirc) when operational. And it seems strange that it can survive intact this long way.
-Thanks

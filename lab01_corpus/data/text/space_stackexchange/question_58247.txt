@@ -1,9 +1,0 @@
-What are the largest distances between two spacecraft that have been determined to a meter or so accuracy? How were these done?
-This answer to Radio Telescope / DSN Node in L4 and/or L5 presents the challenge of implementing "very long" VLBI using the ~1 AU distance between Earth and a Sun-Earth triangular libration point orbit as a baseline.
-For radio astronomy interferometry there are ways in post-processing to reconstruct the baseline to millimeter accuracy, but since these involve search and optimization, you need a good starting point that's close to correct. For the Event Horizon Telescope that was done with GPS plus atomic clocks at each dish plus "fringe maximization" from a calibration/reference target.
-Precise Event Horizon Telescope locations?
-But for space-based VLBI with a circa 1 AU baseline there's no GPS to get a starting point for a fringe maximization search. Therefore I'd like to ask the following to get an idea of the state of the art inter-spacecraft ranging:
-Question: What are the largest distances between two spacecraft that have been determined to a meter or so accuracy? How were these done?
-Example:
-The Gravity Recovery and Interior Laboratory or GRAIL spacecraft pair were used to map the Moon's gravity field to very high spatial resolution and precision using precise radiometric range and range-rate links in a triangle between the two spacecraft and between each spacecraft and Earth.
-GRAIL lunar probes, NASA Press release, 12 December 2007 source

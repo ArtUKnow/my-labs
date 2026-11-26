@@ -1,2 +1,0 @@
-Docking cubesat in orbit - is it possible?
-Would it be plausible to launch two or more cubsat's into orbit, and then have them dock together, allowing them to pack on more hardware and even fuel, broadening their capability? If it is possible, how much of the cubesat's mass would be dedicated to the docking procedure, and would too high a mass fraction be prohibitive?

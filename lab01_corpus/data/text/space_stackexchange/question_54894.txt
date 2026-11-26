@@ -1,2 +1,0 @@
-F1 engine turbopump
-During the initial trials, the LOX pump part of turbopump of F1 engine had some problem with its vanes. They were damaging after approximately 110 seconds of operation. What was the problem and how was it overcome?

@@ -1,5 +1,0 @@
-generated error terms for positioning based on a pre defined target accuracy level
-I would like to ask a question about accuracy level and precise point positioning or PPP.
-I'd like to design a system such that when the desired accuracy level is provided as an input, the corresponding error terms (ephemeris, clock and inter-frequency bias or IFB) are automatically determined based on an algorithm or mathematical approach.
-It sounds a little tricky for me and I haven't found any studies or literature that has investigated something like this. Can somebody give me a hint how to approach to the problem, or maybe only some points to consider?
-Thank you very much for the time and helps!

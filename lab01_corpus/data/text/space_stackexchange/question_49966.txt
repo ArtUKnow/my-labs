@@ -1,3 +1,0 @@
-How many ion thrusters would be needed to accelerate a 1000 tonne craft at 9.8m/s²?
-If we assembled an array of today's best ion thrusters in orbit, (the x3?) how many would be needed to accelerate a 1000 tonne spacecraft at 1g?
-I'm thinking Space Tug, for repeated Mars missions. Nuclear powered of course.

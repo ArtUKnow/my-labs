@@ -1,5 +1,0 @@
-Max final speed of a Falcon 9 2nd stage after being refueled in LEO?
-Starship payload to LEO is about 100 tons
-Falcon 9 second stage needs about 100 tons of propellant.
-If a Falcon 9 second stage waits in orbit, a Starship comes and refuels it, then Falcon 9 uses all that fuel towards Pluto then how fast the Falcon 9 or its payload can get? Can it get faster than New Horizons 16 km/s ?
-More or less of course.

@@ -1,2 +1,0 @@
-Rotation of an elongated geostationary satellite
-I read somewhere that if you place an elongated geostationary satellite tangential to the Earth it will rotate so that its long axis is in line with the radius. Presumably, as soon as one end goes slightly inside of the tangent it is fractionally heavier and the opposite end lighter which then is reinforced. what is this called/where can I find out more?

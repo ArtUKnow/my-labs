@@ -1,3 +1,0 @@
-Need help on rocket nozzle equation
-I saw this earlier post about a guy who needed help with his equation, but I was wondering about how they got one of his numbers. They said that their foot-pound/pound/degree Rankine (the gas constant R) was 64.388, but when I looked the number up it said it was 1,545.348. Do I have to do something to this number to make is specific for my equation, or did he just get his numbers wrong?
-ORIGINAL POST - Help on Nozzle Throat Area Calculation

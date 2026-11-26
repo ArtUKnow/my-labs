@@ -1,4 +1,0 @@
-Is angular velocity of line of apsis equal to $\frac{d\omega}{dt}$ or $\frac{d\varpi}{dt}$ or something else?
-As I understand it, the terms apsidal precession and nodal precession refer to the quantities $\frac{d\omega}{dt}$ and $\frac{d\Omega}{dt}$ (by definition). But what is the angular velocity of the line of apsis?
-I’m thinking that if the inclination $i$ and its rate of change $\frac{di}{dt}$ are small then this angular velocity is almost parallel to the orbital angular velocity and that component is equal to $\frac{d\omega}{dt} + \frac{d\Omega}{dt} \cos i$
-Is this correct?

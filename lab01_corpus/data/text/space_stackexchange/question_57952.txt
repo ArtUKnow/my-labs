@@ -1,3 +1,0 @@
-How do we know the precise position of the JWST?
-How does NASA know the exact position of James Webb Space Telescope at a given time? NASA has to be able to issue the mid course correction burns.
-Since they are now up to MCC2, how do they determine the exact time and force required to enter the L2 halo orbit? Is it a matter of good old fashioned dead reckoning?

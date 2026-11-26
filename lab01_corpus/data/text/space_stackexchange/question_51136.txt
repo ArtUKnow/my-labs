@@ -1,7 +1,0 @@
-Why so many little pieces of "space tape" on this communications satellite?
-Maxar's own blogpost Power and Propulsion Element: Five Questions with Maxar’s Tim Cole contains an image with the caption
-The ABS-2 spacecraft at Maxar’s Palo Alto, California factory before its launch in 2014. Image: Maxar
-cropped detail from here.
-Question: Why are there so many small, identical pieces of what looks like "space tape" on this communications satellite? I though they might be reflectors for 3D metrology, but they seem to be mostly on the noncritical surfaces of black plastic wrap covering the spacecraft, not critical components.
-Why do these satellite antennas look so weird? (strangely shaped with little white dots...)
-I ran across this while reading for How big of a telescope will Psyche's deep space optical communications demonstrator use out at 5 AU? since Psyche will be built on this platform. Since the quoted blurb is in past tense I don't think Psyche's optical communications demonstration is what they are referring to.

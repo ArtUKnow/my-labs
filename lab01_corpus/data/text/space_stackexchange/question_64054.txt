@@ -1,5 +1,0 @@
-Russell's Teapot - has it been done yet?
-Has anyone sent a china teapot into orbit, to "solve" the long standing Russell's Teapot argument?
-I realize this is a "joke" endevour, but with the advent of easily available cubesats, has anyone done this yet?
-EDIT:
-I am also interested in technical aspects of the payload. Does putting an off shelf teapot in hollow acrylic cube, glued or tied down, pass the requirements for cubesat? Or does it need to be fully embedded in acrylic block? Vacuum pump treatment to get outgassing out?

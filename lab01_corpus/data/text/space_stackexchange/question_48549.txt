@@ -1,3 +1,0 @@
-Why doesn't SpaceX know how long orbital maneuver burns will take?
-While listening in on today's Crew Dragon 1 rendezvous, I noticed something interesting: the announced duration for the final coelliptic burn was "25 to 35 seconds". And this wasn't just a vague statement by PR: it was the actual transmission from mission control to the capsule.
-Back in the Apollo days, NASA was able to give crews burn times to within a second (or less, for some of the brief midcourse corrections). Why isn't SpaceX being this precise?

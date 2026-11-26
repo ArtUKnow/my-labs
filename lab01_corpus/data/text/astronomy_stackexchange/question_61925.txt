@@ -1,9 +1,0 @@
-How would one take a simulated Gaussian function absorption line and match it to a given spectrograph resolution?
-I have a gaussian function to simulate an absorption line, of arbitrary spacing in wavelength (e.g., 1000 - 2000 Angstrom, with Δλ = 0.01 Angstrom).
-I would like to 'simulate' what a given spectrograph would see, e.g., HST COS/JWST NIRSpec. Since my wavelength range is in rest frame, the current procedure I am thinking of is first shifting to 'observed' frame (picking a random redshift), and then convolving with a Gaussian function to match the instrumental dispersion (σ_instrumental). I would then rebin the spectra to match the spectrograph resolution (Δλ), and deredshift again to rest frame.
-Should I be convolving the Gaussian in velocity space?
-Also, different spectrographs quote different combinations of dispersions/resolutions/pixel sizes/central wavelengths etc, and it is not always clear that R = λ/Δλ, σ_instrumental = c/2.355*R = (Δλ/λ)(c/2.355).
-Is there something in this simple approximation I am missing?
-EDIT
-Figure 1 in this paper: https://arxiv.org/pdf/2504.00231v1 shows a spectrum degraded to lower resolution but before and after instrumental broadening.
-Some papers convolve to match the resolution, and some to match the instrumental broadening, and then rebin to match the Δλ of R = λ/Δλ. I am confused as to whether I should convolve to match the dispersion, and then rebin to match Δλ (after converting Δλ from Angstrom to km/s) before or after redshifting back to rest frame.

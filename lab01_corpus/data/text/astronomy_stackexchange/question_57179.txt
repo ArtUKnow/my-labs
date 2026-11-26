@@ -1,3 +1,0 @@
-Meteor Triangulation
-I´m looking for literature and examples on the subject of meteor triangulation. For example, graphical representation and calculation of a meteor orbit observed from two different geographical positions.
-Best regards

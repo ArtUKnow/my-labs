@@ -1,7 +1,0 @@
-Major axis larger than total of apogee and perigee?
-I am trying to calculate the apogee and perigee using the orbital elements. I am checking my results against CALSPHERE 1 (https://www.n2yo.com/satellite/?s=900).
-I am getting 7363599.5m as the semi major axis (a), but for the apogee and perigee, I am getting 7382482.0m and 7344717.0m respectively. I am using e as
-I am using the formulas:
-perigee = (1 - e)a
-apogee = (1 + e)a
-I am totally confused how the major axis (semi major axis * 2.0) can be larger than the total of minimum distance and max distance from the earth? Am I crucially misunderstanding this?

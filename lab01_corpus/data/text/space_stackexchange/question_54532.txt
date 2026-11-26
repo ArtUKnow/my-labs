@@ -1,9 +1,0 @@
-Most dog-legged launch?
-There are enough questions about dogleg maneuvers that there is now a dogleg tag, but the definitive dogleg answer is @JakeBlockers (linked below) which includes images of a dogleg from Florida that avoids flying over Cuba (after a self-destructed launch dropped debris on them).
-Here I'd like to ask what was the most dog-legged launch?
-Since unlike satellite trajectories, detailed launch trajectories are not in some handy numerical database. Information is inexact and in different forms for different launches. So I won't specify the largest angular deviation or worst delta-v or worst payload penalty. For this question I'll leave it as simply "most dog-legged" and let the answers sort themselves out.
-Images below are from @JakeBlocker's answer to How does one dogleg from Florida to a sun-synchronous orbit?. See also
-Which launch was the first to use a dogleg maneuver?
-Are there any dog-leg hot-spots? Where are dog-leg maneuvers used most frequently?
-dog-leg, dogleg, or dog leg?
-Here's a picture of a falcon 9 launch, I do not believe it's from NROL-76. The maneuver occurs towards the center of the screen. And here's a picture of a dog's leg just to compare :)

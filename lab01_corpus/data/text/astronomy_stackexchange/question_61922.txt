@@ -1,2 +1,0 @@
-Light Curve to SED - ZTF
-I have the light curves of a source from the Zwicky Transient Facility (ZTF) which is magnitude vs time (MJD) plot using g, r and i filters of the ZTF. Now, I have selected a time interval for further analysis and I need to construct a spectral distribution from this data which is, differential flux (erg cm-2 s-1) vs energy (TeV). Can anybody guide me on how to go about this?

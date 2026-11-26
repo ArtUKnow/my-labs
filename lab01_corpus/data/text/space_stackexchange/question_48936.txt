@@ -1,4 +1,0 @@
-Spinning 16 Psyche at Mars L1 to envelop Mars with a magnetosheath?
-16 Psyche is theorized to be the remnant iron core of an early small protoplanet that might have had it's surface and mantle stripped away through violent asteroid impacts.
-Some modeling of possible magnetic fields and solar wind disruptions from 16 Psyche have already been performed in this paper. Here is one of their figures:
-This question is a follow on to this idea: Place a satellite at Sun-Mars L1 to shield Mars from Sun radiation . If we could put the enormous iron asteroid 16 Psyche at Mars L1 and spin it up, could we shield Mars from solar winds?

@@ -1,3 +1,0 @@
-Hubble gyro manufacturer
-I have been trying to find information on Hubble's gyros. So far all I have found is that they are rotating mass rate gyros with gas bearings and that the were the most accurate available when installed (according to NASA).
-Does anybody know what organization manufactured the Hubble gyros? And anything about their heritage? Are they still manufactured (just curious, it seems unlikely there will be a chance to replace the ones onboard)? As far as I know, nobody still makes rotating mass gyros for space applications. I have checked websites for Honeywell and Northrup Grumman and found nothing.

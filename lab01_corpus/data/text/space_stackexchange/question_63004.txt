@@ -1,6 +1,0 @@
-Can Martian regolith be easily melted with microwaves?
-Apparently, Lunar regolith will melt if you expose it to moderate power microwave energy.
-Based on the accepted answer to the referenced question, it has to do with the presence of iron in the regolith.
-Since iron is known to be a major part of the Martian regolith, do we expect that Martian soil will also melt easily by microwave radiation?
-It seems like making "Martian bricks" by microwaving soil would be very useful. One of the "waste products" of this process would presumably be steam from any water-ice that was present in the soil before you processed it - and you'd get bricks that could be used for building, of course.
-Can Martian soil be easily melted with microwave radiation?

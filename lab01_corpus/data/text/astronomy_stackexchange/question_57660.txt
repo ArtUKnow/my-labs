@@ -1,4 +1,0 @@
-Evolution of black holes. Could they lose mass faster than the Hawking radiation?
-As far as I understood the biggest black holes we know are at the centre of very distant quasars and they are enormous. All the big black holes are very far away. At the centre of the closer galaxies there are big black holes, but not as big as the distant ones.
-If we take into account that distance is inversely proportional to age[*] could we interpret it as a sign of their evolution? Could this be a hint that somehow they lose mass at a rate that is faster than the Hawking radiation?
-[*] I am not taking into account recycled matter here.

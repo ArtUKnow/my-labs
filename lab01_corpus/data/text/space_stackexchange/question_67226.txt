@@ -1,5 +1,0 @@
-On Apollo 13, why did the CM pilot tape a handwritten note over the CM/LM SEP switch?
-The pilot put a little sign that said "NO!" over the undock switches. Flipping either would have decompressed both modules and killed everyone instantly.
-The official reason is that he wanted to make sure he didn't flip it accidentally. But the fact that those two switches were already covered by a metal guard with stripes on them, and the exclamation point in "NO!" make me wonder.
-He had a miserable flu and was freezing and starving and thirsty and didn't sleep for three days. He spent most of that time just floating alone in the cold dark CM, thinking. I'm wondering if he was tempted to just end the suffering and play David Bowman in 2001: A Space Odyssey.
-Note: It's surprising that they put these switches immediately below the DSKY. They only had to be used once and if they were ever used wrongly, the whole mission would be a disaster. You'd think they would've put them way up on the side, like the legendary SCE AUX switch.

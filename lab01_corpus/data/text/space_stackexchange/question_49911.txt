@@ -1,7 +1,0 @@
-How do all the struts and crosses in the Orion Crew Capsule Service Module work together? What do each of these parts do?
-The BBC's Europe to make more hardware for American Moon missions says that three more service modules for the Orion Crew Capsule have been ordered by NASA, bringing the total desired to six.
-I noticed that the design includes some very fancy looking strutwork between the top and bottom circular plates. It looks like there are six pairs of struts around the circumference, each having some kind of circular device in the middle of the length of the strut. Perhaps it's a shock absorber or a linear motor or a super-fancy strain gauge, or something else entirely.
-Then across each pair of struts is a second cross-like structure of elaborate design and construction.
-Question: How do all these struts and crosses work together? Beside transmitting vertical loads between the top and bottom of the service module, what do they do? What are those squat cylindrical devices in the center of each strut connecting the top and bottom plates?
-Source: European Service Module test article
-See also Service Module Overview and European Service Module.

@@ -1,3 +1,0 @@
-Has Spacex released any reports describing how they are going to secure the payload on Starship?
-SpaceX has announced that Starship will be able to lift around 100 to 150 tons of cargo into Leo. When the spacecraft is landing or taking off you don’t want the payload just floating insecurely in a large empty space.
-Has SpaceX released any information on how they are going to secure the payload?

@@ -1,2 +1,0 @@
-Measurement and estimation of temperature of Space Shuttle nose cone during launch and re-entry
-During the launch and re-entry of the Space Shuttle, what are the measured and estimated temperatures (or distribution) of the shuttle nose cone as a function of altitude? How is the temperature measured (at the cone) and what is the uncertainty or alarm limits?

@@ -1,7 +1,0 @@
-How much force is required to expedite reentry of space debris?
-I'm trying to understand how much a small reduction in orbital velocity can affect the orbital decay rate of space debris. I understand that there are multiple factors to consider, such as debris in lower orbits are subject to higher levels of atmospheric drag and the lower the density of the debris debris the more it is affected by drag (such as a cube of plastic should re-enter more quickly than same cube of lead).
-But assuming all other factors are equal, how much would you have to slow the debris to have it make a substantial increase in the rate of orbital decay. As a thought experiment, assume as a piece of debris flew by your spaceship you could apply a magic "tractor beam" to slow it (maybe using a magnet?)?
-So my direct question is how much sooner would the orbit of a typical piece of space junk decay in a circular orbit roughly at ISS level (as suggested by @uhoh, a 400 km altitude), from a 1/10th of 1% reduction in velocity?
-From a 1% reduction?
-A 2% reduction?
-The main purpose to this question is to understand how practical subtle effects could be at de-orbiting uncontrolled space debris. How minor a force could we apply to debris to clear them from orbital space?

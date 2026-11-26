@@ -1,6 +1,0 @@
-Can VLF be used to create a Mars barrier?
-I just ran across some older articles in 2017 discussing how VLF radio waves created an artificial barrier to space weather. Basically how VLF improves Earth’s protection from solar radiation.
-This made me wonder if the use of VLF would have similar effects on Mars to increase protection from solar radiation? Would such levels of protection be of any significance?
-Further reading about VLF effects on Earth's ionosphere:
-Is the recently discovered VLF-induced radiation barrier in any way important or useful?
-https://www.nasa.gov/feature/goddard/2017/nasas-van-allen-probes-spot-man-made-barrier-shrouding-earth/

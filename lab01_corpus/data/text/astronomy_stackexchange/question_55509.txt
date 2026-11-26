@@ -1,2 +1,0 @@
-Visible angular size
-Is it true that given two celestial objects of the same size and at the same distance, the fainter one will appear smaller? Is there a calculation that can be made about how smaller? Is it the same for naked eye observation or telescope observation?

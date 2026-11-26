@@ -1,2 +1,0 @@
-Does the spin rate of an object have any effect on something orbiting it?
-For example, if the Earth - by some unknown force - stopped spinning, would the orbit of the Moon be effected at all? Its not a perfect example because Earth's gravity is not uniform - it has mountains and tectonic anomalies - so what if, instead of Earth, it was a perfect spheroid with perfectly uniform gravity?

@@ -1,6 +1,0 @@
-What is the TRL of a skyhook?
-A recent answer on this question mentioned that skyhooks have a low TRL. This is probably due to many factors since they have not been built yet.
-What is the current TRL/status of skyhooks and what is the next step needed to get them to a higher TRL?
-UPDATE
-I found out that there was a technology demonstration of a skyhook on the YES2 satellite. There an over 30km tether was successful deployed and detached a payload. Even though communication was later lost with the payload, the mission did demonstrate the skyhook technology two decades ago!
-Does this means the skyhook has a higher TRL than 2?

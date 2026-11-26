@@ -1,3 +1,0 @@
-What all practical propulsion technologies exist?
-We are all too familiar with chemical rockets that burn liquid fuel and control ejection of exhaust gases to achieve propulsion for the rocket.
-What other (practically implementable) propulsion systems exist?

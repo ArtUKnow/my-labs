@@ -1,2 +1,0 @@
-Discovering Numerous Interstellar Objects with A Dedicated Space Telescope
-I show that a dedicated space telescope with a meter-size aperture can detect numerous interstellar objects, 10-m in diameter, that pass within ~20 degrees from the Sun. Separating the emitted thermal radiation from the reflection of sunlight would allow to measure the surface temperature, area and albedo of these objects. Spectroscopic observations of any evaporated material at the expected temperature of ~600K would provide important clues about the nature and birth sites of interstellar objects.

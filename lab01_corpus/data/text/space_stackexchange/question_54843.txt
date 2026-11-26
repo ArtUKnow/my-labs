@@ -1,8 +1,0 @@
-How deep could a gas giant communications network penetrate?
-I have been wondering what type of communication network could you build to communicate as deep as possible into a gas giant such as Jupiter? Which technologies would you use at what depths?
-One could always have satellites orbiting around the body using radio to communicate between them (or even higher frequency like terahertz and optical light when two satellites are within eyeshot of each other)
-As you descend through the atmosphere of the gas giants radio would work well up to a certain depth You could probably have hot air balloons with radio antenna talking to each other and sending info up to space or down from space. Once the density gets high enough and you are dealing with a supercritical fluid around you, perhaps E&M Waves are no longer a viable medium of communication.
-At these densities you could try to use sound to transmit information (high densities should lead to a fast speed of sound) and have effectively submarines floating around communicating via sound and that might allow you to travel pretty far down
-But is there a depth where using sound will fail but there is still some other viable method of communication?
-It's also not clear to me at what depths radio actually fails and if there's a spectrum of frequencies (ex: use XXXX hz up to 20,000 ft from space but use YYYY hz at depths exceeding 40,000 ft and use sound beyond that).
-Basically I just want to play some imagining of a what a "as deep as possible" network would look like and what methods of communication would be roughly ideal for the various depths.

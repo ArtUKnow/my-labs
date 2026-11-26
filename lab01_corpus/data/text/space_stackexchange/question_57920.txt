@@ -1,4 +1,0 @@
-Parameters of the L2 insertion burn to be done tomorrow
-What parameters control the impulse to be applied in the L2 insertion burn? What parameters control when/where it is to be performed? What velocity is the impulse applied to achieve? Is the vehicle to go to zero velocity?
-The goal would be to minimize this burn to save fuel for future use. The vehicle is only going 450 mph and is still slowing down. I can't compute a rate of slowdown as there is no plot of the velocity data that I can see.
-Anyone have any further info on L2 insertion burn?

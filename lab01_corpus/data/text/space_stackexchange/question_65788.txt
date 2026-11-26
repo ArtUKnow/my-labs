@@ -1,3 +1,0 @@
-What is the order of magnitude of perturbing forces in a lunar orbit in relation to the orbital altitude?
-Although there are many sources that compare the magnitude of perturbing forces in an Earth orbit (see for example the answer to this question), I haven't been able to find the same information for orbits around the Moon. Are there any graphs or tables that show the magnitude of the different perturbing forces in a lunar orbit as a function of the orbital altitude?
-This article by L.D. Gonçalves, E. M. Rocco and R. V. de Moraes contains a table (Table 1 on page 6) that comes close to what I'm looking for, but the altitude range is limited and the table doesn't distinguish between the different spherical harmonic terms of the gravitational potential.

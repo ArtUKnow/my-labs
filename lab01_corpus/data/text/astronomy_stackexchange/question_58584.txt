@@ -1,3 +1,0 @@
-The intensity of sunlight
-How can the intensity of sunlight throughout the day be calculated in comparison to its maximum intensity (at noon) using the solar altitude under natural conditions? By it's equations or python.
-By "under natural conditions" I mean "A sunny day without clouds in the desert with no other influences"

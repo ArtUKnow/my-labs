@@ -1,3 +1,0 @@
-What's the ratio of horizontal to vertical velocity and travel distance for starship?
-As far as I understand the spacex starship trajectory is not exactly vertical, it looks more like the picture below.
-If the height of the flight is 12.5km, then what is the horizontal distance it travels during that time? What is the max ratio between horizontal to vertical velocity while it descends? I couldn't find any more or less specific data about the flights.

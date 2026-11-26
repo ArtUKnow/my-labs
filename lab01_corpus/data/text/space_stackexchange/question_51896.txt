@@ -1,2 +1,0 @@
-How to model payload deployment in General Mission Analysis Tool
-I just started reading the manuals and doing the tutorials for GMAT. I'd like to use it to model deploying multiple satellites from a launch vehicle and see their resulting orbits. Searching the manual however it's not immediately obvious how one would go about modeling this. Is there a way to "split" a satellite in GMAT? Is there a good example script or paper that describes this process?

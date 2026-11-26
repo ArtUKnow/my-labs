@@ -1,9 +1,0 @@
-Was the DART / Dimorphos impact a “Rear Ender”?
-I’m trying to get a handle on the geometry of the DART asteroid collision mission. I’m aware that there are an infinite number of inertial frames of reference. The question of whether Dart hit Dimorphos or the other way around is only a matter of which frame of reference you choose.
-But from the frame of reference of the solar system (or rather its barycenter), did DART overtake Dimorphos or the other way around?.
-From https://en.wikipedia.org/wiki/Double_Asteroid_Redirection_Test#Solar_arrays I gather
-The Didymos/Dimorphos system has an eccentric prograde orbit outside of Earth’s (it is a non-Earth crossing orbit)
-Dimorphos’s orbit is roughly coplanar with the ecliptic and also prograde.
-The mission was designed so that the impact occurred at the closest approach to Earth, which would be approximately at Didymos’s perihelion. This means it occurred at the fastest part of Didymos’s orbit, just over 1AU from the Sun but with an orbital velocity faster than Earth’s
-At the time of collision, DART was outside Earth’s orbit with an orbital velocity lower than earth.
-Since Didymos and Domorphos were travelling faster than Earth and DART slower than Earth, Dimorphos must have “rear ended” DART from a solar system inertial frame of reference.

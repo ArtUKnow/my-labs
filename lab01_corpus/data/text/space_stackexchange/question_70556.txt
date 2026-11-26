@@ -1,4 +1,0 @@
-How to correlate Starship's achievement of 45 tons in sub-orbit (flight 12) with Artemis's in-space refueling requirement of 100 tons in stable LEO?
-The question is important and straight forward, but the answer is apparently not.
-Did SpaceX demonstrate its ability to bring 100 tons of cargo to a stable LEO (250 km), or is it still a questionable capacity for the Starship 3 second stage?
-In practical terms, if we assume that Starship 3 dry weight is 170 tons, it does not carry the fuel for a return landing and the amount of fuel it burned (flight 12) is 100%. Given that, how much more fuel (in percentage points) would it have to burn to get 100 tons to a 250 km orbit?

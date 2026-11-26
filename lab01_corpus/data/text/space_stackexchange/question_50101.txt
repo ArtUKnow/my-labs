@@ -1,2 +1,0 @@
-Can we know where the marsquakes come from with InSight?
-When doing seismology on Earth, we use information from multiple stations to determine where a signal is coming from, using triangulation. On Mars, we only have one seismometer (InSight). Is this enough to get a (very) rough idea of where the marsquake occurred? If so, how is this done?

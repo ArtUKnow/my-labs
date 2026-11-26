@@ -1,4 +1,0 @@
-Why are the landing legs on the proposed Starship HLS so small?
-A more stable design would be landing legs that extend outwards from close to the top of the cylinder and have a brace bar that locks in place once they are fully extended.It would like kind of like a flying buttress but with a lower support bar. The purpose would be for stability on the Lunar terrain and to prevent the HLS from tipping over which is a risk during a botched landing. If that thing does fall over, there is no way to right it and the astronauts would be stranded.
-EDIT:
-Here is a crude sketch of the Starship HLS with the type of tetrapod landing legs that I am trying to describe(it is a cross section that only shows 2 of the 4 legs but you get the idea).

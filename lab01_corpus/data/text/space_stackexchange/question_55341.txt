@@ -1,5 +1,0 @@
-How is roll alignment achieved by the Soyuz docking mechanism (SSVP)
-The best description of the Soyuz docking system I could find is in the proceedings of the 6th Aerospace Mechanisms Symposium (scroll to PDF page 139, labeled page 143). The alignment process is described as follows:
-As the spacecrafts are pulled together, their alinement is accomplished by an electric drive, which retracts the large screw. Pitch and yaw alinement is controlled by the linkage assembly, while roll alinement is achieved by pulling up the latches inside narrowing socket slots. To reduce friction during alinement, the arms are fitted with rollers. Once the docking rings have made contact, the force required for capture is produced by the safety clutch of the drive and maintained by a locking
-clutch.
-Does this mean that the shape of the slots in the docking cone interfacing with the ball on the probe lead to roll alignment? Can I find a description of those slots somewhere?

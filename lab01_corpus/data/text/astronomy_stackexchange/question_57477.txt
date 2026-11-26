@@ -1,8 +1,0 @@
-Has anyone attributed a specific Baily's bead to a specific feature on the Moon? If so, when was this first done?
-From Wikipedia's Baily's beads:
-Lunar topography has considerable relief because of the presence of mountains, craters, valleys and other topographical features. The irregularities of the lunar limb profile (the "edge" of the Moon, as seen from a distance) are known accurately from observations of grazing occultations of stars. Astronomers thus have a fairly good idea which mountains and valleys will cause the beads to appear in advance of the eclipse. While Baily's beads are seen briefly for a few seconds at the center of the eclipse path, their duration is maximized near the edges of the path of the umbra, lasting around 90 seconds.
-The article asserts without support that "Astronomers thus have a fairly good idea which mountains and valleys will cause the beads to appear..." and I am sure it's absolutely possible considering how well the lunar topography has been mapped and the celestial mechanics and rigid body motions of the relevant bodies have been ephemerized.
-But I've never actually seen a bead-attribution, much less a bead-prediction.
-So I'd like to ask:
-Question: Has anyone attributed a specific Baily's bead to a specific feature on the Moon? If so, when was this first done?
-Please cite or link to specific examples.

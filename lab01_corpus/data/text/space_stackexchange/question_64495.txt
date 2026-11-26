@@ -1,9 +1,0 @@
-Which are more efficient: oxidizer-rich or fuel rich rocket engines?
-Several internet articles claim that the high Isp of the Soviet RD-180 engine (as used in the Atlas III and V launch vehicles) was (at least partially) due to the fact the RD-180 ran oxidizer-rich, unlike its fuel-rich American contemporaries. These articles provided no references to support the assertion of higher efficiency for oxygen-rich combustion.
-EDIT: According to Wikipedia, the combustion chambers of the RD-180 ran fuel-rich. It was their LOX pre-burner which ran oxygen-rich.
-EDIT:https://ntrs.nasa.gov/search.jsp?R=19820002372 deals with relative advantages of oxidizer- and fuel-rich pre-burners but not combustion chamber mix ratios.
-My understanding is that maximum temperature (and combustion efficiency) is attained with a stoichiometric mix of fuel and oxidizer. However, these high temperatures exceed the service temperature of available engine materials. This relationship is illustrated by data for methane in gas turbines:
-https://www.researchgate.net/publication/267643923_DME_as_a_Potential_Alternative_Fuel_for_Gas_Turbines_A_Numerical_Approach_to_Combustion_and_Oxidation_Kinetics/figures?lo=1
-As a result, chemical rocket combustion chambers are designed to run fuel- or oxidizer-rich for durability reasons. Either fuel- or oxidizer-rich conditions will lower combustion temperature, but fuel-rich has the added advantage of lower exhaust gas molecular weight and therefore higher exhaust velocity ( Isp).
-As a result, I would expect rocket designers to favor fuel-rich conditions to maximize Isp efficiency.
-Fuel-rich engines have coking problems. Oxidizer-rich engines are very hard on metal parts. Both these are disadvantages but do not affect theoretical efficiency. Which strategy is objectively more efficient (e.g.: Isp or TWR)? Are there any successful oxidizer-rich engines?

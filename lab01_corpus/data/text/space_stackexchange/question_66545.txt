@@ -1,7 +1,0 @@
-How does the torque transfer from the reaction wheel to the satellite body occur?
-Let's imagine a cubic satellite orbiting the Earth. The reaction wheels are located along the $x,y,z$ axes. Let's assume that the sum of the external forces is zero. Then the equation of motion along the x axis, for example, can be written as follows (let's assume that there is no motion along the other axes):
-$J_x \dot{\omega}_x+J_{rw1} \dot{\omega}_{rw1}=0$ (if the formula is incorrect, please correct me)
-where $J_x,J_{rw1}$ - moment of inertia on x-axis and reaction wheel, $\dot{\omega}_x,\dot{\omega}_{rw1}$ - accelerations.
-From the formula, we can calculate the acceleration at which the satellite will rotate and the direction of this acceleration, opposite to the direction of rotation of the reaction wheel:
-$\dot{\omega}_{x} = -\frac{J_{rw1}}{J_{x}}\dot{\omega}_{rw1}$
-My question is this: how does the torque transfer from the wheel to the satellite body occur in such a system? In a classical mechanical system (for example, a gear transmission), one gear presses/pushes another, and the latter, being fixed to the main body, rotates it in turn. Is it possible to describe the torque transfer from the wheel to the satellite body by some equivalent mechanical transmission or mechanical coupling?

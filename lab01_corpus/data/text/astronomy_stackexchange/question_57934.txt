@@ -1,5 +1,0 @@
-Why don't they put more spare gyroscopes in expensive space telescopes?
-I could be forgetting some, but every space telescope I can think of that has died, has died because it ran out of spare gyroscopes.
-The Saturn Orbiter ran out of fuel, but it wasn't a space telescope. And Voyager, new horizons, and the ion one still haven't run out of fuel.
-But every single time,they have to balance another telescope on a single gyroscope like a kite in the solar wind. That exoplanet astrometry one was another.
-Why don't they just include more gyroscopes to begin with? They're not very heavy, are they?

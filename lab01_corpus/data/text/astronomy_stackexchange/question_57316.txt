@@ -1,3 +1,0 @@
-Does the Final-Parsec problem apply to stellar collisions?
-The final parsec problem describes the difficulty of two blackholes merging with one another when their distances reach ~3.2 light years apart. Does this also then apply to stellar collisions, perhaps with another distance threshold? If not, why?
-Potentially related?: What is the difference between the terms collision and merger? How are they used differently in Astronomy?

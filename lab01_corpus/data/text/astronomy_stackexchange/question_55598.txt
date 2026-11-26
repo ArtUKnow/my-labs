@@ -1,7 +1,0 @@
-Looking for data and models for events of Sun and Moon apparent motion in distant past?
-For the current Julian Era (from 1, 1, 4713 BCE to modern day), I am looking for a raw data tables or a model that allows to predict the following events related to apparent motion of Sun and Moon:
-Julian Days (with fractional part for UTC time) of Equinoxes and solstices within a given (Proleptic if needed) Julian or (Proleptic if needed) Gregorian year.
-Julian Days (with fractional part for UTC time) of all full moons/new moons within a given (Proleptic if needed) Julian or (Proleptic if needed) Gregorian year.
-Julian Days (with fractional part for UTC time) of all full lunar and solar eclipses and the coordinates where Sun-Moon/Moon where in zenith at that moment with given range of Julian day numbers.
-I also would like to know if there any reliable model that allows to predict UTC times of sunrises/sunsets and moonrises/moonsets at given local geographical coordinates at given Julian Day Number or (Proleptic if needed) Gregorian/Julian calendar date.
-References to raw data, useful software or even useful mathematical equations and Python modules would be appreciated. Thanks!

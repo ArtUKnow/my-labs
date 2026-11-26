@@ -1,8 +1,0 @@
-Does the Apollo "free return" crossover point correspond to the L1 LaGrange point?
-The Apollo lunar missions used a free return trajectory which resembles a figure-8 when plotted in an Earth/Moon rotating frame of reference. This trajectory was chosen for safety: if the mission was scrubbed before the lunar insertion burn, the spacecraft would return to Earth “for free” (minimal delta-v).
-The following diagrams are conceptual only, and far out of scale.
-https://forum.nasaspaceflight.com/index.php?topic=16758.80
-The cross-over point appears very close to the Earth/Moon Lagrange point (where total gravitational attraction equals centrifugal force in a rotating frame of reference).
-https://en.wikipedia.org/wiki/Lagrange_point_colonization
-Contour lines connect points of equal effective gravitational potential for objects in free-fall, (such as an Apollo spacecraft in cruise phase) so a spacecraft can move along these trajectories “for free”.
-Does the Apollo free return crossover point correspond to the L1 LaGrange point?

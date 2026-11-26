@@ -1,5 +1,0 @@
-What are the technical differences between AxEMU and xEMU?
-On March 15, 2023, Axiom Space sort-of unveiled their lunar spacesuit, based on the NASA xEMU. I say sort-of because apparently, though the Axiom suit is selected for Artemis III, missions following that are still in competition between Axiom and Collins, and via Gizmodo
-a cover layer is currently being used for display purposes only to conceal the suit’s proprietary design,” according to Axiom Space.
-Gizmodo summarizes or paraphases Axiom president / CEO Mike Suffredini (ex-ISS program manager) as saying "roughly half of the the suit’s design comes from previous work done by NASA and the other half by Axiom Space and its partners," so it's probably not just exactly the same suit NASA put together with a cover layer designed by "For All Mankind's" costume designer Esther Marquis.
-I freely note that technical details aren't currently being shared, so an answer will probably not come any time soon, but wanted to ask the question while it was fresh in my head. I wouldn't even know the reveal had happened except I stumbled across it while looking for sources for something else.

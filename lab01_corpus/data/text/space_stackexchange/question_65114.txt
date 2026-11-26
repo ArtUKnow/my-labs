@@ -1,3 +1,0 @@
-Composite pressure vessels for manned spaceflight
-I read about the Composite Crew Module and it looks like they used aluminum honeycomb between two layers of composite. Why didn't they just make the whole thing out of composite? Why is carbon composite not used more for the construction of space station modules and spacecrafts?
-https://ntrs.nasa.gov/api/citations/20120009267/downloads/20120009267.pdf

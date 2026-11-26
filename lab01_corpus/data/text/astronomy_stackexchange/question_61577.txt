@@ -1,5 +1,0 @@
-For us to see an exoplanet transit, what is the maximum angle between that planet's orbital plane and our line of sight?
-We can detect exoplanets by watching their transits dim their star. But this is only possible if the orbits of the planet and the line between us and the star are almost exactly coplanar.
-How close is "almost exactly?"
-Because if it's one degree above or below, then 360 degrees - 2 = 358 times as many stars have exoplanets than we we can detect in this way.
-Right?

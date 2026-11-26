@@ -1,7 +1,0 @@
-How can I calculate current position of planet in sky
-How can I calculate current position of planet in sky from earth's point of view. I want to calculate based on given DATETIME and Location
-For example, if I see current position of planets on "23 Jan 2024 22:46:28"
-From Location India,
-Sun- Capricorn, $08° 59' 37"$
-Saturn- Aquarius, $11° 19' 11"$
-I tried to search online but unable to understand if am referring to the correct content. Are there any algorithms which I can learn and implement that in Python scripting.

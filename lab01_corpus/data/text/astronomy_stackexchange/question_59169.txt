@@ -1,8 +1,0 @@
-How large is the effect of snow on sky quality meter readings in streetlit areas?
-I live in an area which is 18.95 mag/arcsec2 according to light pollution map.
-I bought a sky quality meter with lens (SQM-L), since there are streetlights and I want to eliminate the effect of those on the reading.
-I have had a chance to use SQM-L twice: on a partly cloudy day with snow on the ground, and on a clear day (today).
-On the partly cloudy day, with snow on the ground, I tried to point the SQM-L to an area of the sky with as little clouds as possible (but unfortunately there were clouds at zenith so I couldn't point to zenith), which gave a reading of 17.4. It's possible it's that bright because of snow, or because clouds distorted the reading (I pointed it to area with no clouds, but the area was probably smaller than what the lens covers).
-Today, with no snow on the ground, and new moon below the horizon, a perfectly clear night, I got a reading of 18.8 at zenith few minutes after night started (sun at least 18 degrees below horizon). So the estimate of light pollution map was reasonably accurate. I think I got a slightly brighter reading, since the local effects of nearby streets cause more light pollution than the average at this area (the area is forest with some streets and my backyard is obviously near such a street).
-How large is the effect of snow on the sky quality meter readings in areas with streetlights?
-I will answer this question once I have an answer (which might take up to a month or two to wait for a snowy clear night), but if someone else has an answer already, feel free to post it.

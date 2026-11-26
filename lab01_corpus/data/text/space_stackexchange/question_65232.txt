@@ -1,8 +1,0 @@
-Is it ever normal to vent LOX from spacecraft with active engines? Isn't it a fire hazard?
-This is regarding:
-"SpaceX Chief Executive Elon Musk says a propellant dump caused the destruction of the Starship upper stage"
-"Musk said the failure was linked to venting liquid oxygen propellant near the end of the burn. That venting, he said, was needed only because the vehicle was not carrying any payload"
-https://spacenews.com/spacex-says-propellant-venting-caused-loss-of-second-starship/
-The main issue identified so far is the engines overheating when dumped LOX mixes with unburned fuel in the running main engine's exhaust.
-As Organic Marble correctly noticed, Space Shuttle routinely dumped LOX through the main engine nozzles while Orbital Maneuvering Engines (located next two main engines) were running.
-I can only guess that Hydrazine burning engines will be less susceptible to overheating while their exhaust is exposed to outside LOX.

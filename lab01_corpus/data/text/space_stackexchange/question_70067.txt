@@ -1,5 +1,0 @@
-Burnup rate of debris during re-entry
-I am trying to predict the burn-up rate of space debris during reentry to get a size limit for how large an item of a debris we can de-orbit without it hitting the surface.
-Where should I start from? What kind of simulations can handle this and give me data? What kind of data should I go after? What parameters are a must know so I can get my results?
-I started with SPARTA DSMC, ran a couple of example simulations but I don't know where to go from here? I simulated a couple of pre-made examples, what now? I can get a rough CAD of what a piece of debris looks like, but what do I do next?
-I am quite lost. If someone can help me please?

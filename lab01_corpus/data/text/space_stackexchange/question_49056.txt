@@ -1,3 +1,0 @@
-What happened to continuously-applied heat barrier coatings in engines?
-In Ignition, Clark describes an interesting approach to thermal control in rocket engines using oxygen as an oxidizer and hydrocarbon fuel: A small amount (few percent) of silicone oil or another silicon-bearing flammable chemical was mixed with the fuel, which would lay down a thermally-insulating layer of quartz on the inside of the engine. This was continuously ablated, but it also was continuously applied as the silicon carrier combusted.
-Did anything happen to this idea? Did it ever get out of the laboratory, or become anything more than a curiosity? Is it pointless with modern developments in regenerative cooling?

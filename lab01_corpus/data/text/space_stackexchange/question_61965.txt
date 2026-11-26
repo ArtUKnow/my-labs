@@ -1,2 +1,0 @@
-Why is insulation used in spacecraft thermal control?
-The temperature of spaceships can range from -126° C to 149° C. Wouldn't it be better for the spaceship envelope to have as high a thermal conductivity as possible to even out the temperatures (the temperature should come out quite favorably, around 20 degrees C).

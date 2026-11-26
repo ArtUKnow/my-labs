@@ -1,4 +1,0 @@
-What could cause a satellite to tumble during operation?
-Detumbling is a common problem and challenge for satellite operators during Launch and Early Orbit Phase (LEOP), with a common cause being a tip-off rate induced during separation with the launch vehicle. Having been introduced to the industry however, I have come to encounter cases where satellites experience tumbling (to the point of safehold) even during operational phase, months after a successful LEOP and commissioning.
-I would suspect that the form factor of the satellite would be a potential cause, since solar irradiation and atmospheric drag might impart an uneven rotational angular momentum to the satellite body?
-On a side note, how do satellite operators typically recover from such incidents? Any examples out there?

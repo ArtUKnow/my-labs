@@ -1,4 +1,0 @@
-How do I go about approximating the coordinates of the moon by hand?
-I have recently been interested in calculating the positions of the Sun and Moon. I had tried using a sine wave to approximate declination, and a multiplication and modulo for Ra, but it would be off by up to a day when predicting near the equator after a couple of months. I then tried using Kepler's equation, but it's a bit hard to do by hand, and I'm not sure how to convert the position to the coordinates in the sky. I assume I need to include inclination and precession as well, but I'm also not sure how to do that.
-Because I am trying to do this by hand, I may be limited a bit in what functions I may use; cubic roots and excessive use of trig and square roots aren't things I can always easily do, so I want the use of them to be minimized.
-(added from a comment) I forgot the exact formulæ, but I remember I tried 13.17*number of days with the multiples of 360 removed for the ecliptic longitude.

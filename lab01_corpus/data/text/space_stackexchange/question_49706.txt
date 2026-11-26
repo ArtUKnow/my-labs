@@ -1,6 +1,0 @@
-Guidance vs. Navigation vs. Estimation
-I'm still confused over what exactly falls under the scope of Navigation, Guidance, and Estimation systems.
-Say I have a bunch of IMUs and use them to determine my position and orientation and my velocity and acceleration relative to earth. That's navigation, right?
-Now say I specify a launch pitch program relative to some earth centered frame and apply some transforms to that program to resolve it on my rocket's main frame in order to compute the pitch errors to correct for with my gimballed engines. Is all of this guidance? Is some or all of this navigation?
-And if I calculate my delta-V and time-to-go using thrust, mass flow rate, and instantaneous mass. Am I now doing estimation? What else would fall under the scope of estimation?
-Sorry for the rookie question. Thanks if you know and can clarify!

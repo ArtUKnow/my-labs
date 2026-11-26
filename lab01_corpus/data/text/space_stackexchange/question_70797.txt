@@ -1,6 +1,0 @@
-What was the “large fabric ball” used in STS astronaut-candidate testing
-In Adam Higginbotham’s book Challenger: A True Story of Heroism and Disaster on the Edge of Space (describing the selection process for early shuttle astronaut candidates) there is this passage:
-Another test involved zipping the applicants into a large fabric ball designed to ferry astronauts through the vacuum of space in the event of an orbital emergency: curled tightly in the darkened sphere, none of the candidates was told how long the experience might last. Each handled the claustrophobia in their own way, some fell asleep.
-What was this fabric ball?
-Was it an actual hardware developed for orbital emergency use, or was it primarily (or only) a psychological screening tool used in astronaut selection?
-I’m looking for historical details on its design, intended purpose, and whether it ever flew or was only used in training/selection.

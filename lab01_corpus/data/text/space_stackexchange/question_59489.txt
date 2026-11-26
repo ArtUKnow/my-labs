@@ -1,8 +1,0 @@
-Determine Yaw, Pitch, Roll from two vectors
-I need to find the roll, pitch an yaw rotation to point a satellite to a precise point on Earth. I know the satellite position and velocity in ECEF coordinates, the position of the site on Earth (also in ECEF) and therefore the range vector from the site to the satellite.
-With those information I've already computed the azimuth and elevation of the satellite with respect the site and I can transform the range vector from ECEF coordinates to the satellite body coordinate system (which in this case is the VVLH) but I need a way the yaw, pitch and roll angles to rotate the satellite z axis (which is Nadir pointing) to point to the desired site: in few words, there's a way to compute the angles to rotate the z_nadir unit vector to the unit vector from the satellite to the site?
-I've tried to compute the acos of the dot product of the satellite body z-axis with the projection of the range vector in the appropriate body reference planes (ZX for pitch, ZY for roll, XY for yaw) to get the angles but once applied the rotations, the vector which I get is not the exactly the one that I expect.
-Then I've tried something like this, and that is solving the following system using MATLAB's fsolve:
-However, also in these case the results are not so accurate (there's a 1e-4 error with respect the vector that I want) and furthermore the rotations computed are not consistent with the ones that I expect.
-Do you have any suggestion?
-Thank you in advance and, if I wasn't clear, I am available for clarifications.

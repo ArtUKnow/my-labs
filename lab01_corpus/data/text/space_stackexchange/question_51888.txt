@@ -1,3 +1,0 @@
-Why couldn't China's space agency do a controlled deorbit burn for the Long March 5B?
-China has succeeded in launching the main module of its future space station, Tian He. Cool! The Long March 5B core that launched it is now in an uncontrolled decaying orbit. It's estimated it will make an uncontrolled reentry in a few days. Not so cool.
-I've read a couple of articles on this, and what I don't understand is why this is happening. Does this have to do with the design of the 5B, some trade-off that was deemed acceptable so it could complete its missions? Do we know enough about the 5B to say?

@@ -1,4 +1,0 @@
-What encryption scheme was used for the Columbia shuttle from-ground commands?
-I'm a security enthusiast(not a professional) so
-commands to the orbiter from the ground were routinely encrypted
-gets me wondering 'how'. STS-107 was in February 2003 while to day rock solid encryption was designed in 1977 - same country.

@@ -1,2 +1,0 @@
-Could a Stirling engine be used to produce more electricity in space?
-A Stirling engine (https://en.wikipedia.org/wiki/Stirling_engine) is an engine which uses temperature differences to turn. In space it is hard to conduct heat so very often the sunny side of an object is really hot while the other side in the shade is ice could. Could a Stirling engine be placed behind a solar panel and used to produce more electricity?

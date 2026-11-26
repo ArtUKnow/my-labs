@@ -1,9 +1,0 @@
-Space shuttle control: Holding attitude?
-Suppose a space shuttle pilot pressed a button to hold the current attitude---whatever the current roll, pitch, and yaw might be.
-How would the attitude error be computed for use by the TVC controller?
-Would the current attitude be recorded (e.g., as a rotation matrix relative to some reference frame) and the record differenced at each time step against the instantaneous attitude in order to determine the error to correct for? The attitude record here would be "frozen" and basically a snapshot to be used as the attitude target.
-Or would you take in the attitude rate from the rate gyros, start integrating from zero once the command is issued to hold attitude, and use the integrated rate as the attitude error to correct for?
-...Meaning there would be no attitude snapshot against which to compare the current attitude. The integrated rate would give you the error needed to hold attitude, and technically you could do this even if you lost track of where you are in the world (i.e. relative to all of your reference frames).
-My initial guess was #1, but now it's dawned on me that you don't need to know which direction you're pointing in order to keep pointing in that direction. If something sways you one way, it's enough to know how much you've swayed and in which direction in order to correct the error. You don't need to know if you're facing East, say.
-So now I'm leaning toward option #2 for holding attitude.
-Can someone clarify how this might be done in practice?

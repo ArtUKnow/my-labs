@@ -1,2 +1,0 @@
-Why Ingenuity drone has 2 coaxial rotors, not quad-rotor
-When I first heard about Ingenuity I thought it will be quad-rotor because it's what seems to be easiest to operate (I say that because it's the most typical on-Earth amateur drone configuration). Then I found out its configuration is 2 coaxial rotors. Why? Is it because 2 are easier to keep working than 4? Lighter? More thrust?

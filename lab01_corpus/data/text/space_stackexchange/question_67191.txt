@@ -1,2 +1,0 @@
-What are the existing and general future electrical loads on the lunar surface, and does their voltage level matter?
-Do we currently have some clear pre-existing types of base loads, and is there a standardized voltage level for electrical equipment? If not, does it make sense to consider future loads and develop a standard on the Moon?

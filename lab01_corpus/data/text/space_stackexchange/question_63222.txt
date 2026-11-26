@@ -1,3 +1,0 @@
-Insights into the Mylar heat welding technique used to weld the Echo II balloon seams?
-I am working on a 50-micron BO-PET film (basically Mylar) which will need welding. I don't know if I'll be able to obtain an ultrasonic/HF welding machine and since the project will need extensive low-cost prototyping, I found that it has many things in common with the Echo I, II balloons. I know that the Echo I seams were bonded with an adhesive, whilst the Echo II seams were heat welded. But I wasn't able to find technical details on these two processes. I would be interested in replicating them, especially the heat welding part.
-Does anyone have any in-depth info about this?

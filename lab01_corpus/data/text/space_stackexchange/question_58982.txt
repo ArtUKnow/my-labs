@@ -1,6 +1,0 @@
-What formation-keeping maneuvers are required by MMS?
-The Magnetospheric MultiScale (MMS) mission is a NASA mission consisting of four satellites arranged (at apogee) in a tetrahedral formation. According to this 2015 source:
-On Oct. 15, 2015, a NASA mission broke its own record: the four satellites of its Magnetospheric Multiscale mission are now flying at their smallest separation [~10km], the tightest multi-spacecraft formation ever flown in orbit.
-What formation-keeping maneuvers* are required to maintain, in the presence of perturbations, the tetrahedral formation at apogee? Was a reference satellite chosen or is there an central orbit** that formation-keeping and station-keeping are referenced to?
-*Assume an audience that is familiar with nominal station-keeping maneuvers for single satellites.
-**There were two phases to the scientific mission for MMS, each with a different reference orbit. If formation-keeping significantly differs based on these reference orbits, answering for just one of the phases is sufficient.

@@ -1,4 +1,0 @@
-SpaceX reusable rocket - when was technology first available and cost effective?
-Today, a SpaceX rocket launching can be 97% cheaper than a Russian Soyuz ride cost in the ’60s
-What is earliest year such reusable rockets could have been constructed given technology availability or cost of technology?
-I would think the biggest factor is CPUs to run the control algorithms for the landing.

@@ -1,2 +1,0 @@
-Reasons behind Soviets Using Prolog Programming Language for Buran Space Shuttle?
-I was reading a post related to the operating system of American Space Shuttles, then wondered what might Soviets have used. I found a CIA document and several forums saying that Prolog was used in the Buran. I have experience in object oriented and a decent understanding of logic programming languages but I can't find a reason why they might have chosen such a complicated way of developing a system.

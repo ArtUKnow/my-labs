@@ -1,3 +1,0 @@
-Does a fully reusable rocket system require a huge rocket?
-Starship is the world's largest and most powerful rocket and so far the only one that came closest to demonstrate a fully reusable system where both the first and second stages are recoverable.
-Does a launch system have to be this huge to make reusability possible? Are there square-cube laws that favor a large rocket for reusability (e.g. better ratio of heat shield mass)?

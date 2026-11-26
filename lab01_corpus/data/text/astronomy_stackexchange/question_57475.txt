@@ -1,5 +1,0 @@
-Relative inclination with respect to line of sight
-I'm encountering some difficulty understanding the concept of line of sight inclination. Typically, we assume that the observer is positioned perpendicular to the system being observed. Consequently, the orbital inclination (which is crucial for calculating the radial velocity of the system) is represented by the angle 'i,' as illustrated in the figure below.
-My question is this: What happens if the observer's line of sight (LOS) is tilted at an angle? Moreover, what would occur if both the stellar system and the observer's line of sight are tilted?
-I would deduce that the orbital inclination ($i$) can be calculated using the equation $$i = \arccos\left(\cos\left(i_{\text{LOS}} \right) \cos\left(i_{\text{star}} \right) \right) \,.$$
-Here, $i_{\text{LOS}}$ represents the inclination on the line of sight plane, and $i_{\text{star}}$ denotes the inclination on the star's plane. Or you just sum the inclinations?

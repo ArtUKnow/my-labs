@@ -1,4 +1,0 @@
-For how long could astronauts stay on the surface of Europa, Jupiter's moon, with our current latest and most advanced spacesuit before dying?
-Is it possible for astronauts to land on Europa safely?
-Given the fact that radiation level on Europa is about 5.4 Sv (or about 540 rem) per day and the temperature is around -260 °F (or about -160 °C).
---> Assume astronauts somehow land successfully on Europa and are equipped with the latest and most advanced spacesuit as of 2022. For how long could they stay on the Europa's surface before the radiation level and the cold temperature get out of hand and potentially kill them in process?

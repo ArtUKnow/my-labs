@@ -1,9 +1,0 @@
-I want to write a program to calculate optimal trajectories, where can I find info on the maths
-I want to write a program to calculate the optimal way for a spacecraft with a given engine to reach some body astronomical body with the minimum fuel burn (possibly adding in constraints on time, relights, e.t.c...).
-The idea is for this to give as good accuracy as possible so I'll use N-Body modelling (at least for major planets in the path) and include gravity assists. I'd also like to add support for things like ion thrusters if possible.
-I know this would be complex (that's kind of the idea, this is meant to be a showcase project) but would anyone be able to give me a good idea of how complex and/or where to find info on the appropriate maths and modelling techniques.
-For context:
-I'm a 3rd year astrophysics student
-I can program reasonably well in both the python and rust languages
-Thanks and have a great day,
-pioneer.

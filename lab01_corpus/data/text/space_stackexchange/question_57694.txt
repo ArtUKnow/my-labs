@@ -1,2 +1,0 @@
-When is the supersynchronous orbit more efficient than a typical Hohmann transfer where inclination change and circularization are simultaneous?
-The title essentially explains it all. Some GEO launch vehicles like Proton, which launches from Baikonur at a latitude of 46 degrees, launch into a supersynchronous orbit. So at what point is the supersynchronous, bi-elliptic transfer more efficient than the Hohmann transfer when launching into geostationary orbit?

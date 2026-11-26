@@ -1,8 +1,0 @@
-Which of the blocked radiation windows will (mostly) open if one where to observe from the surface of Mars, instead of the Earth?
-Earth’s atmosphere is composed of about 78 percent nitrogen, 21 percent oxygen, 0.9 percent argon, and 0.1 percent other gases. Trace amounts of carbon dioxide, methane, water vapor, and neon are some of the other gases that make up the remaining 0.1 percent.
-Mars' atmosphere is 95% carbon dioxide, 3% nitrogen, 1.6% argon, and it has traces of oxygen, carbon monoxide, water, methane, and other gases, along with a lot of dust.
-My QUESTIONS:
-1) But I am sure there is a lot of absortion of EM radiation in the atmosphere, due to water vapor, so is this absorption really caused by these trace amounts of water vapor?
-2) If one were to make observations from the surface of Mars instead of that of the Earth, what radiation windows will (mostly) open ?
-I know that on the Earth execpt for the radio and visible spectrum which are open, the other EM windows of the spectrum are closed due to absorption, diffraction, Ionization and photodissociation whcih are the 4 main ways in which EM radiations interacts with the Earth 's atmosphere. I am basing this claim on the following picture:
-My guess is that the gamma ray and UV should open, because there is no ozone, which is what blocks them right? I also thought about IF, becuase I though there was no water in Mars's atmosphere. But both Earth and Mars atmospheres contain traces of water so now I am not sure that the IR window would really open, maybe just like in the Earth there s still absortion.

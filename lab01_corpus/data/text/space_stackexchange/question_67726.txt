@@ -1,2 +1,0 @@
-Calculation of Vacuum Specific Impulse
-I want to calculate Vacuum Isp using EXPLO 5 Software. I have already calculated the sea level Isp. In some papers people write that Vacuum Isp was calculated using expansion ratio of 40 or 100. What does this mean? Please guide me how to calculate Vacuum Isp, specifically what parameters I should enter. If expansion ratio is 40, can I simply calculate considering chamber pressure and ambient pressure ratio as 40?

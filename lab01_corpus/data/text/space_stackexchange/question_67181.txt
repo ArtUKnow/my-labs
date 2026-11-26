@@ -1,4 +1,0 @@
-Why are the ISS Cupola window's primary pressure panes vented to space?
-The question ISS Cupola window coatings includes this diagram of the cupola windows.
-According to the diagram the space between the Primary pressure pane and the Redundant pressure pane is "vented to space". I cannot see how this makes sense, damage to the Primary pane would create a path from cabin to space which seems undesirable.
-How does it actually work?

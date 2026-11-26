@@ -1,5 +1,0 @@
-GMAT: How to Access startup file variables such as PYTHON_MODULE_PATH?
-I use the python interface quite frequently and read-in tables of control variables created by another standalone module. I need to be sure that a file created by the standalone python module can be found by another module that is called by the GMAT Python Interface during a mission sequence. I'd love to have an absolute path to locate this control file on both ends, consistent regardless of the run method.
-A relative path of "./module" seems to end up either in GMAT/userfunctions/python/ or GMAT/bin/ interchangeably, and sometimes in the project source tree when the development IDE is used. I am never sure where the gnerated control file is going to end up, nor is my mission script.
-If the script language had access to the PYTHON_MODULE_PATH that would be grand, since it contains the absolute path to ~/GMAT/userfunctions/python/. Since these variables are "loaded on startup" I would think there should be a way to read their values, at least the ones with _PATH suffixes. However, I cannot find a way to access this variable. GMAT calls it "Nonexistant"
-Any thoughts?

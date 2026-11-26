@@ -1,9 +1,0 @@
-A good, up-to-date review of all periodicity discovery techniques (folding, etc.)
-The excellently written January 2010 AstroBetter Wiki Periodicity Analysis already has some dead or now-unhelpful links, and certainly with the data explosion in the last 15 years and intensified searches for periodicities in that data, it is possible that there's been progress.
-Is there a good, one-stop-shopping, up-to-date review of all periodicity discovery techniques for sampled data?
-The AstroBetter Wiki is a good model as it covers different data regimes (different sampling plans, measurement uncertainty behaviors, etc.) and gives examples of each.
-It could be a book, or a presentation or collection of lecture notes. I'm interested in something that covers the breadth of the varieties of methods (with citations) rather than a drill-down of what's used with say a single, specific space telescope's data.
-notes:
-Shoutout to ESA and GAIA Farewell, Gaia! Spacecraft operations come to an end)
-As a Wiki it can be updated, so resources mentioned in answers here can also be used to update the Wiki...
-...as well as to potentially generate better answers to Technique for folding sparse event data in order to detect an underlying periodicity?

@@ -1,4 +1,0 @@
-How are Interplanetary Transport Network/Weak Stability Boundary paths calculated?
-While reading up a bit online, I found out about Weak Stability Boundaries and the Interplanetary transport network. How is this "path" that traverses the Solar System determined?
-I am aware of some relation to Lambert's problem, but am only familiar with the 2 body form of this.
-ITN for reference below:

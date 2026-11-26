@@ -1,5 +1,0 @@
-Could a skyhook with double pendulum catch a payload with zero velocity?
-It's my understanding the the tip of a rotating skyhook would be travelling at ~3.6 km/s (Mach 10), which presents a major problem.
-Could this be overcome by attaching a second, smaller, also rotating tether to the tip of the main tether, which would at various times be stationary relative to the ground?
-Since the skyhook is already rotating in the opposite direction to the Earth, that rotation is already reducing the ground speed of the tip. But I'd like it reduced all the way down to zero, to enable easier pickups.
-Relevant: https://physics.stackexchange.com/questions/525999/how-does-the-perigee-of-a-skyhook-travel-slower-than-the-apogee

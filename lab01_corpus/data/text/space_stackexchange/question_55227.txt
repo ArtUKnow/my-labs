@@ -1,5 +1,0 @@
-How many turbine blades, engine seals and bearings do reusable rocket engines have and how are they inspected?
-From previous year statements of SpaceX representatives, the most difficult and longest part of used F9 booster refurbishment are inspections of the most volatile parts of the booster's nine Merlin engines.
-Based on their statements, they must always inspect if engines seals are holding and engines bearings are working properly, and also inspect Merlin turbine blades because of their intense fatigue during flight.
-Does anybody know how many turbine blades, engine seals and bearings one Merlin can have and how are they inspected? How they can scan turbine blades for cracks, inspect if seals are holding and bearings are working properly without disassembling the engine - or is partial engine disassembly part of the engines inspections? Can these inspections be fully automated or do you need experienced staff for it?
-Just for comparison, how many turbine blades, engine seals and bearings did the Shuttle RS-25 have and how many the new SpaceX Raptor engine can have? What has SpaceX done to make the Raptor post fight inspections faster and less difficult?

@@ -1,4 +1,0 @@
-Where does the energy in ion propulsion come from?
-Sorry if this is a stupid question, I'm currently trying to learn about electric and ion propulsion.
-I understand that for chemical propulsion, the energy released from the chemical bonds during the chemical reaction is what is converted into thrust. But for ion propulsion, where does the energy come from. Does the energy come from the power source and the propellant is simply a vessel to transfer energy to thrust? Or is the energy released when the propellant is ionized? Or do I have this completely wrong?
-Thanks and I appreciate all responses.

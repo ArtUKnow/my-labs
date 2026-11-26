@@ -1,3 +1,0 @@
-Parameters erroneously measured to be negative
-I am interested in physical quantities which are strictly non-negative, but which, due to errors, may realistically be estimated as negative. The only examples I can think of are interstellar absorption and parallax. Any others?
-This is of interest in the construction of statistical tests for whether estimated quantities are zero.

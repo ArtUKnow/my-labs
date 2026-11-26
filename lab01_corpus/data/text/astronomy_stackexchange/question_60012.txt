@@ -1,7 +1,0 @@
-Chemically homogeneous evolution
-I am reading some papers on the way a binary system can evolve to a compact binary system (like black hole-black hole or neutron star-neutron star systems).
-I have found that there are essentially two way this can happen
-Common envelope phase
-Chemically homogeneous evolution
-I had never heard of the second possibility, but it seems that a large fraction of of BH-BH merger events with large chirp mass come from this type of evolution.
-However I have a doubt: are there known binary systems in this stage of evolution? Or is it speculation?

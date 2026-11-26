@@ -1,6 +1,0 @@
-Why did Hayabusa-2's capsule's parachute have transparent panels?
-JAXA's photo of Hayabusa-2's capsule, at its landing on 2020 Dec 6, shows that its parachute canopy had some non-opaque sections. Why?
-Transparency has no advantage for this mission.
-Compared to conventional parachute materials, transparent ones of the same strength tend to be heavier and less flexible. Or were these sections actually mesh, perhaps for stability at high speed?
-One unauthoritative report claims, without elaboration, perhaps extrapolating from some rough diagrams circulating online, that
-A cross-type parachute is used by the vehicle.

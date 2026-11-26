@@ -1,7 +1,0 @@
-What materials are used for human spacecraft pressure vessels and why?
-I'm looking for what specific aluminum alloys are used for human-rated spacecraft pressure vessels (habitable module) and why.
-I've been able to find the material for Orion is Al-2219 but nothing for Apollo, Dragon, Starliner, Gaganyaan, Soyuz, Orel PTK (Soyuz successor).
-High-strength aluminum such as 2XXX or 7XXX series requires expensive friction stir welding so I'm curious if other materials have been successfully used and what factors (other than strength-to-weight and stiffness) drive the need for these alloys. For example, stress-corrosion cracking (SCC) and strength at elevated temperature must have been considered. Has anyone seen a paper that discusses this as it relates to human spacecraft and what specific factors drove a certain material? Yes, I've searched NTRS.
-Thanks!
-NASA Orion MPCV:
-https://ntrs.nasa.gov/citations/20160003616

@@ -1,3 +1,0 @@
-What are SpaceX plans for Starship with respect to Moon landing and then takeoff?
-Starship uses Raptor engines which in turn uses liquid methane as fuel. The idea for using methane as fuel being - methane can be produced on Mars from CO2 and H2O. And using the onsite produced methane, Starship can lift-off from Mars and head back to the Blue Planet.
-But what about Moon Missions? I don't think methane can be produced on the Moon (but I guess hydrogen can be). So how would starship lift-off from the Moon? Does it have to carry enough Methane considering the lift-off too, or what else?

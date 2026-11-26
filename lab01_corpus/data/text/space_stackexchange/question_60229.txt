@@ -1,2 +1,0 @@
-Why is there a need for a "forward skirt" segment on SLS solid rockets?
-The SLS solid rockets have a "forward skirt segment" above the five true rocket propellent segments. What is the purpose of this segment? I believe that it contains the avionics for the rocket, however surely there would be enough room in the nose cone segment for avionics, why do avionics require a whole fairly large segment?

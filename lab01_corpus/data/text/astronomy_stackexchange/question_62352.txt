@@ -1,8 +1,0 @@
-Are the most massive stars still expected to shed the entire H envelope through winds?
-For a while, it has been believed that massive stars shed their envelope through winds. However, it seems that some stuff might have changed:
-Binary interactions, including RLOF, appear to be the norm in massive star evolution rather than the exception.
-Mass loss rates were overestimated.
-There are a lot of models that use ad hoc increase in mass loss rates when the stellar surface helium abundance exceeds a threshold. I can’t think of a reason for this, and it makes much more sense to me for the high mass loss of Wolf-Rayet stars to be for different reasons (such as luminosity near the Eddington limit).
-Even the most massive main sequence star known (R136a1) still has an optically thin wind, and while it is losing a lot of mass, I’m not sure if it will be able to get rid of its whole envelope prior to core collapse. 50+ solar masses is a lot, but if it has a mass of 350 solar masses, losing another 75 solar masses still leaves it with 275 solar masses. That’s more than enough to hit the pair instability.
-LBV stars turned out to be older than Wolf-Rayet stars, proving that they are not their progenitors. My understanding is that LBVs are instead believed to come from binary evolution.
-So what is the current understanding? I’m looking for a cohesive summary here. There are a ton of scientific articles on the subject, but they are more like bits and pieces than a coherent big picture that a non-astrophysicist can understand. I’m familiar with the general principles but not details!

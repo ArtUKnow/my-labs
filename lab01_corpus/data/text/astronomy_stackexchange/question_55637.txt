@@ -1,5 +1,0 @@
-Neutral vs ionized mean molecular weights
-I am confused about the calculation of mean molecular weights, especially for ionized particles. From my understanding, the mean molecular weight $\mu$ is the average mass per the number of particles:
-$$ \mu = \frac{\langle m \rangle}{m_p}$$
-Resources typically explain it as follows:
-For neutral H, $\mu = 1$ since there is one nucleus. For fully ionized H, since the mass of H is 1 amu that is shared between a nucleus and a free electron, $\mu = 1/2$. But isn't a fully ionized hydrogen $H^+$, where it does not have an electron? So shouldn't $\mu_{H, ionized} = 1$ since there is only a nucleus? Why are we not considering the electron present in neutral H for neutral H mean mol. weight calculations? Why do we care about the free electron? I'm thoroughly confused.

@@ -1,5 +1,0 @@
-Which Public Datasets Are Best for Finding Long Period Transiting Exoplanets?
-I've been using TESS data and Lightkurve to search for exoplanet transit candidates. While TESS has been great for finding short period planets, it is much harder to detect longer period transits with its observing strategy.
-For a future project, I'd like to work on planets with longer orbital periods and possibly candidates closer to the habitable zone.
-What telescope, survey, or mission would you recommend for this kind of work? Are the data publicly available, and what Python tools or libraries are commonly used to access and analyze them?
-I'd especially appreciate recommendations from people who have worked with these datasets themselves

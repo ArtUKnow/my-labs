@@ -1,3 +1,0 @@
-Does the Starship Super Heavy need to do a reentry burn
-SpaceX Falcon 9 first stage boosters perform what SpaceX refers to as an entry burn to slow the stage as it reenters the atmosphere. Since the Starship Super Heavy booster is made of stainless steel will it still have to do an entry burn?
-The Falcon 9 is made of aluminium which has a much lower melting point than steel.

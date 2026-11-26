@@ -1,4 +1,0 @@
-How would you convert Keplerian orbital elements into Cartesian vectors with quaternions?
-Converting the Keplerian elements to Cartesian vectors (position and velocity) is relatively simple by using rotation matrices, as shown in the document here:
-https://downloads.rene-schwarz.com/download/M001-Keplerian_Orbit_Elements_to_Cartesian_State_Vectors.pdf
-Would it be possible to convert the elements into vectors using quaternions instead of matrix rotation? If so, how would you do it?

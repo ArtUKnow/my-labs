@@ -1,4 +1,0 @@
-How to extract visibility information from a CASA measurement set?
-I am trying to export the UV wavelengths, visibilities and weights from a measurement set in the Common Astronomy Software Application (CASA), used for the data processing of ALMA/VLA data, but I haven't been able to find the right commands to do this.
-'exportuvfits' might be what I am looking for, but I can't find a clear explanation of what this format really is.
-Any CASA users out there that can help me?

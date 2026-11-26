@@ -1,3 +1,0 @@
-How much propellent is vaporized to pressurize the Starship and Super Heavy tanks?
-We know they use autogenous pressurization. But how much methane and oxygen is vaporised to do this? I would like a figure for each of the 8 individual tanks in the stack.
-TBH I'm trying to figure out how big the explosion will be if (when?) the booster misses the OLM chopsticks on IFT-5.

@@ -1,3 +1,0 @@
-Would it be practical to map out the Kuiper Belt and Oort Cloud via Radar?
-I recall reading an article where the moon, could be detected via radar and that orbiting radar satellites could map out the surface of mars, and in some cases even parts of Venus (the lattermost might be a false memory).
-I am curious, what would be a large enough radar to put into space (and perhaps also at what distance from the sun), that would allow us to detect MOST Kuiper belt objects, Sednoids, and the Oort Cloud. Is this the kind of thing that could be afforded under $\\\$100\times 10^9$?

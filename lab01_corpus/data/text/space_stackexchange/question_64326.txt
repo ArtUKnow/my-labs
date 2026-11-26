@@ -1,4 +1,0 @@
-Geo satellite - antenna gain contours to heat map in STK
-I am using STK to show antenna gain contours on the ground from a transmitter on a sensor on a geo bird that is tracking a receiver on the ground. With good resolution I can create great images that show side lobes.
-I would like to turn those contours into a heat map. I have tried to do this using a coverage definition/figure of merit but have not had any luck.
-Has anyone done this before? If so, what steps did you take to accomplish this?

@@ -1,2 +1,0 @@
-How does the orbit determination accuracy depend on the measurement accuracy?
-How does the measurement accuracy affect the orbit determination accuracy? Is there any analytical way to find that relation? E.g., 10m range measurement accuracy (1sigma) results in a 100m RMS error in position estimation. Performing a number of simulations and finding the mean value is one the possible approach but is there any other way to do that?

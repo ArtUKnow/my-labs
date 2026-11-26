@@ -1,2 +1,0 @@
-How can I visualize the movement of a solar sail?
-I am a physics teacher in an elementary school. Together with a student we started to investigate the motion of a solar sail. It shall be of 81 m² in size and 16 kg in mass around the sun at a distance of 1 AU with a certain initial velocity. We would like to see a visualization of this sail (to see the real movement of the sail). If possible, one can change the parameters of the initial velocity and the area of the sail to see how the trajectory of this ship will change. Can anyone help us with this?

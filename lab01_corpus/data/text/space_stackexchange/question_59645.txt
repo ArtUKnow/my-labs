@@ -1,2 +1,0 @@
-Is there an ultimate break-even point with rocket nozzle length or expansion ratio in a vacuum?
-I know that in an atmosphere, you don't want your expansion ratio to be too high, or it will cause some big problems, and that vacuum engines are restricted by the space they have to fit in, but if we built a rocket in a vacuum, exclusively for vacuum use, and we could make the nozzle as long as we wanted, would there still be a maximum expansion ratio that's worth having? Is it simply a matter of weight?

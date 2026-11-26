@@ -1,8 +1,0 @@
-How to calculate Earth to Sun distance given NASA DSCOVR j2000 coordinates
-I am using NASA EPIC api to fetch daily earth imagery. Along with the images it also gives certain data regarding the position of certain bodies like sun, earth, moon and satellite itself. These coordinates are in j2000 standard. How can I calculate the distance between earth and sun using these coordinates ?
-Example coordinates include :
-"centroid_coordinates":{"lat":24.56543,"lon":170.683594}
-"dscovr_j2000_position":{"x":339005.145834,"y":1368757.776568,"z":645861.927788}
-"lunar_j2000_position":{"x":381104.35964,"y":104675.95663,"z":-35701.90868}
-"sun_j2000_position":{"x":56531896.481815,"y":129098775.627199,"z":55963516.666649}
-You can get the complete data here : NASA EPIC api

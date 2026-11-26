@@ -1,3 +1,0 @@
-What is that extra exhaust on the RS-68
-Next to the Roll Control Nozzle on the RS-68 (the engine that powered the first stage of the Delta IV) there is this a tiny pipe exhausting something. I have a basic understanding of how liquid engine engines work, but I believe the exhaust from the Gas Generator goes through a turbine and out through the Heat Exchanged or Roll Control Nozzle so this must be something else. I looked at diagrams of the engine and I couldn't find what I'm looking for, but I have found plenty of images including it. My best guess is that it helps the roll control nozzle in some way. What is this and what is it used for?
-What I'm trying to describe is to the right of the combustion chamber, and directly left of the roll control nozzle.

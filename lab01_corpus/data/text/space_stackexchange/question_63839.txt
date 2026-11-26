@@ -1,8 +1,0 @@
-Selfie from space with AWS Groundstation
-I hope this question fits this community!
-While browsing r/AWS today I read about someone who was able to make a "space selfie" with AWS Groundstation:
-The progress is detailed further down the thread. I absolutely love this idea!
-Unfortunately, my question about which satellite was used could not be answered:
-Now, I'm wondering: Do companies offer something like "satellite as a service"? Could you help me further to achieve this goal? I would need a satellite I could use!
-reddit thread: https://www.reddit.com/r/aws/comments/147qfl1/comment/jnwjlob/?utm_source=share&utm_medium=web2x&context=3
-aws groundstation: https://aws.amazon.com/ground-station/?nc1=h_ls

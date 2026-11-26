@@ -1,4 +1,0 @@
-Would it be possible to avoid the heat-from-friction problem when re-entering the atmosphere by performing (vertical) "U-turns"?
-If you lift a swing at a children's playground and release it will swing back and forth for a while, losing some altitude in each swing, mostly (?) due to drag. Eventually it has lost all energy and stops.
-Couldn't that principle be used when a spacecraft is re-entering the atmosphere? That is, go downwards into the atmosphere and then steer upwards - converting kinetic energy to potential energy but also lose some energy to friction - when the speed/friction-heat is too high, and cool down a bit (when you lose speed by going upwards the friction is reduced). Rinse and repeat until you lost enough energy to avoid the heat from atmospheric friction being an issue.
-This would of course require some kind of wings with control surfaces but the space shuttle had exactly that.

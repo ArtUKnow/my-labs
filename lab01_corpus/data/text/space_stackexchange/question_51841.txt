@@ -1,5 +1,0 @@
-Is there an intuitive reason for why the shape of the orbit at perigee is the mirror image of that at the apogee?
-Is there an intuitive reason for why the shape of the orbit at perigee is the mirror image of that at the apogee? It seems strange to me, because the situation is so different at the perigee compared to at the apogee. It is not symmetrical, and yet the orbit is symmetrical.
-It's an ellipse with the earth at one focus, a completely unsymmetrical situation.
-Edit: Take your pick between relativistic and Newtonian models. I mean, feel free to ignore either model in your explanation. Feel free to pretend Newtonian mechanics is exactly correct.
-Edit: What I mean by "unsymmetrical" is that the speed is completely different, and the earth is not in any shape or form near the center of curvature at the apogee.

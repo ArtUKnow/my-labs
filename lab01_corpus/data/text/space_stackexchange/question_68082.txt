@@ -1,5 +1,0 @@
-Why does Starship launch on a cloud?
-This image is from the first launch attempt of spaceX's IFT-8.
-During propellant loading, I understand that the process requires significant venting, my question is the following:
-Why does SpaceX vent from the circled location in the picture?
-I can't think of any particular benefit, so I wondered if it might have been an aesthetic choice due to the lovely plume.

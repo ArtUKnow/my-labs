@@ -1,5 +1,0 @@
-Space Debris? Gecko toes to the rescue?
-Removing orbital debris in a safe, robust, and cost-effective manner is a long-standing challenge, having serious implications for LEO satellite safety and access to space.
-Orbital rendezvous is difficult. After that, docking is even harder. Even the tiniest converging vector (and there must be some convergence) can bounce the target away. This is a factor with compatible docking mechanisms, but is much worse with an “uncooperative” target like space debris
-Controllable dry adhesion or CDA “gecko toes” have been proposed for capturing debris for removal. https://stanfordasl.github.io/wp-content/papercite-data/pdf/Bylard.MacPherson.Hockman.ea.AeroConf17.pdf
-Question: are there any space debris control systems in development which use CDA ?

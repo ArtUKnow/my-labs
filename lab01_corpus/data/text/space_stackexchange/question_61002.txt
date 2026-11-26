@@ -1,4 +1,0 @@
-How do I make a attitude trajectory of a satellite so the attitude always points towards a point on earth given its current orbital position?
-Let us say there is an antenna on earth and I have a satellite in an orbit how do I make the trajectory (not control, so body velocities of the satellite) to make it point toward the earth when it is in view and when the antenna is not in view I have no requirement for that. Currently, I have no constraints but constraints such as input constraints and attitude constraints can be added later. I know I have solve an optimization problem but can formulate it myself.
-Can someone refer me to some papers/theories of what I will need for this? I am not looking for an answer but for research direction because I could not find what I needed.
-I have found this paper that solves an optimization problem given constraints but this goes from an initial state to a goal configuration. I however want the goal configurations given the orbit.

@@ -1,3 +1,0 @@
-Why not use containers to clean up small space debris?
-Small space debris is a serious problem. I think that if a large container orbits full of space debris and sweeps up small pieces of space debris that fit into the container, the space debris can be cleaned up cleanly. Why is this method not used in practice?
-In what ways is it limited and in what ways is it inefficient?

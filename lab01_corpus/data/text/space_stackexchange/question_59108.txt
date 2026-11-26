@@ -1,4 +1,0 @@
-What is the point of having a central rocket engine when it receives performance losses?
-Recently I asked this question about center engine performance and received an excellent answer from @OrganicMarble. The first sentence of the answer is
-If anything, the flow field interactions hurt the performance of the center engine(s).
-If the flow of exhaust from the outer engines cause a performance (specific impulse) loss in the center engine, then what is the purpose of including them in launch vehicles? I know that TWR is a big factor of engine count in a rocket but if there is engine-out capability then why can't a launch provider just remove the central engine to increase net efficiency?

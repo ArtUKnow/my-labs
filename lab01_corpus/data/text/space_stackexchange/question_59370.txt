@@ -1,3 +1,0 @@
-Inconsistencies in calculating exhaust velocity
-I'm quite sure this is either a small or just plain stupid mistake but my anxiety is getting the better of me. when calculating exhaust velocity this is the equation used:
-however I keep getting higher values than that listed, specifically on Astronautix. I should mention I am solving for monopropellant HTP-85%, where $M = 20.7 kg$, $k = 1.34$, $P_c = 10\ bar$, $P_e = 1\ bar$, $T_c = 910\ K$ and $R$ is the universal gas constant. I suspect that it is just the difference between theoretical and actual performance however $1128\ m \cdot s^{-1}$ is very different from $~900\ m \cdot s^{-1}$. Is there something I am missing or am I just using the formula in the wrong context?

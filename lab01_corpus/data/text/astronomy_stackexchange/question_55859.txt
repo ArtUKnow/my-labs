@@ -1,4 +1,0 @@
-Earth's rotation axis perpendicular to Sun-Earth line during equinox
-Wikipedia says that the following happens during the equinox:
-More precisely, an equinox is traditionally defined as the time when the plane of Earth's equator passes through the geometric center of the Sun's disk.[7][8] Equivalently, this is the moment when Earth's rotation axis is directly perpendicular to the Sun-Earth line, tilting neither toward nor away from the Sun.
-I am confused why it is stated that the rotation axis of the Earth is directly perpendicular to the Sun-Earth line. As a matter of fact I am not even sure what the Sun-Earth line is, I assume it is just a straight line connecting Sun and Earth. The rotation axis is tilted all the time so how can it at any point be perpendicular to this line?

@@ -1,3 +1,0 @@
-Starship IFT-4: whatever happened to the fin tip camera feed?
-During reentry, there were two camera views. The view that looked at one of the flap hinges wound up getting ruined when the hinge failed, because debris and heat ruined the lens. But they never switched back to the fin tip view. Why?
-My guess would be that a cable connecting the camera to the transmitter was burnt. Or maybe they wanted to keep monitoring the hinge. But surely they could view it among themselves while broadcasting the other view?

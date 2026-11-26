@@ -1,5 +1,0 @@
-When a star enters a red giant phase, does the pressure in its core increase or decrease?
-When a star becomes a red giant, does the pressure in its core increase or decrease?
-From one side, the only source of pressure in a star is gravity. A red giant is much larger than an ordinary star, thus the same mass spread inside a larger volume must produce a lower interior pressure.
-But from the other side, pressure is needed for fusion. Since a red giant is much more luminous than an ordinary star, a higher core pressure would be needed to cause more intense fusion (and to fuse other elements apart from H).
-It seems like a contradiction - so what is true?

@@ -1,5 +1,0 @@
-To what direction is Artemis 1 facing while traveling between earth and moon?
-While playing around with the animation on https://www.nasa.gov/specials/trackartemis/ I noticed that Orion capsule seems not be pointing directly into its direction of flight. If this would be case the main engine of the SM shout point more or less to earth, shouldn't it?
-However, in the animation the engine is pointing more into the opposite direction. Thus it seems that the space craft was rotated after the TLI burn. Is this correct?
-Is this just how the animation is created or is this the real orientation?
-If this is the real orientation, is there a specific reason for it? Of course the capsule could be rotated into any direction without changing the flight path itself. But are there any "real" constraints on the orientation (e.g. pointing solar panels to sun) or could a later crew (more or less) choose what they would like to see? Why is Artemis I pointed into this direction?

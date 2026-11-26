@@ -1,2 +1,0 @@
-Could Apollo have used the launch escape system as a booster?
-Getting to space requires ruthlessly eliminating weight from launch vehicles. Older spacecraft like Apollo carried big Launch Escape towers. For an Apollo mission flying on a Saturn V, the LES meant carrying an extra 8,000 pounds to an altitude of 295,000 feet, at which point it was jettisoned by firing the Tower Jettison Motor (source). Did NASA ever consider using the main Launch Escape Motor for added boost once the spacecraft was above the abort altitude instead of just throwing away the launch escape rockets?

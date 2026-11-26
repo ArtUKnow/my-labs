@@ -1,9 +1,0 @@
-First satellite dispenser?
-A rocket upper stage, sometimes called kick stage, is the last stage of a rocket and it is used to deploy satellites in orbit.
-A space tug is a spacecraft released from the upper stage and it is used to transfer a satellite from one orbit to another orbit.
-Some space tugs can deploy multiple satellites at once, and then they are called "satellite dispenser".
-The upper/last stage (or kick stage) of a rocket can be considered a satellite dispenser.
-But I'm not counting those.
-The first satellite dispenser I can find is Moog Inc. that launched a satellite dispenser (does it have a name?) on a Falcon 9 rocket on 14 July 2014.
-Is there any satellite dispenser launched before that?
-SHERPA is another satellite dispenser that was launched in 2018

@@ -1,8 +1,0 @@
-How will SpaceX land its rockets on the unleveled surface of Mars?
-SpaceX plans to send the Starship to Mars and to land it there, tail first in a vertical position.
-Unlike the Perseverance rover, which seems to be able to land on uneven terrain without the need for 100 Meters accurate location and by common sense and from the video, it seems that the landing site must be:
-In a very, VERY specific location.
-Fully leveled
-How will it be done?
-Getting to the right location - will autocorrelation maneuvers during the descent will bring the spacecraft to the right location?
-How there will be a leveled surface for the spaceship to land? Will robots build it before?

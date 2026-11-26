@@ -1,5 +1,0 @@
-How to move in space with just solar panels or without them?
-What are the technologies known to humankind, to do propulsion in space, with a spacecraft having solar panels, when:
-It is under ample solar flux?
-It is interstellar under negligible solar flux?
-Provided it launched from a base with limited fuel just enough for the launch and no bases on the way.

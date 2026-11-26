@@ -1,6 +1,0 @@
-Why does igniting propellant provide more thrust?
-My confusion stems from the relationship between thrust and the pressure distribution in the thrust chamber. For a given chamber pressure the wall static pressure along the nozzle is a function of area ratio and (importantly) not of temperature. Additionally, rocket combustion is typically a near constant pressure process, so unless I am mistaken, the pressure distribution should be the same for a cold and hot gas thruster given the same chamber pressure.
-Thrust is directly a function of the pressure distribution in the thrust chamber, so it seems like there should be no difference in thrust for the cold vs hot gas case.
-From a momentum perspective there is a clear mechanism for increased thrust. Similar to pressure, the exit Mach number would be the same for cold vs hot, but the gas velocity would be significantly higher for the hot case, giving more thrust.
-Is there some change to the pressure distribution for a given geometry with cold vs hot gas? If not, then where does the extra thrust come from?
-EDIT: I understand that chamber pressure will not approach nominal levels with unignited liquid propellant. This question only applies for a theoretical situation with gaseous injection. I should also note that choking pressure ratio is also independent of temperature.

@@ -1,6 +1,0 @@
-Structural Mass Fraction
-In spacecraft design, when talking about the structural mass fractions, the NASA website gives the following equation:
-Source: https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/mass-ratios/
-However some sources divide the structural mass by the total mass (i.e. propellant mass + structural mass + payload mass).
-Source: https://sentinelmission.org/rocketry-propulsion-glossary/mass-fraction/
-My question is, when should the payload be included and when should it not be included in the calculation of structural mass fractions? Thanks.

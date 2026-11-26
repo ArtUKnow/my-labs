@@ -1,4 +1,0 @@
-Flux unit conversion
-I have a jwst nircam image of a galactic field. The science images are in units of MegaJansky per steradian (MJy/sr), and so the zeropoint is 28.08652 AB mag . When I ran sextractor on this image , I got my flux in units of counts(as per the output of Sextractor catalogue)
-# 6 FLUX_APER Flux vector within fixed circular aperture(s) [count]
-I wanted to convert my flux into units of uJy which could be used with eazy for redshift determination.How can I convert the sextractor output flux into units of uJy

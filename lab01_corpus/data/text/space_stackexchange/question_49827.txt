@@ -1,9 +1,0 @@
-How long to reach final orbital inclination?
-Consider a rocket launch from Kennedy, latitude 28.5 deg, to a target orbital inclination of 50.6 degrees for rendezvous with the ISS.
-The launch azimuth for this orbital inclination is roughly 45 deg north of due east.
-At T0, inertial velocity is roughly 400 m/s due east imparted by earth's rotation.
-At orbital insertion, inertial velocity is roughly 7,800 m/s pointing northeast.
-In between, the velocity vector must gradually transition between its initial eastward direction to its final northeastward direction.
-This means the cross-product of the rocket's position and velocity vectors, r x v, which defines the eventual orbital plane, is constantly evolving all the way up to orbit.
-So I want to say that at T0, r x v will indicate an inclination angle of 28.5 degrees, and that only at orbit insertion will r x v indicate an inclination of 51.6 deg...
-Is this correct? Does it take the whole launch for the inclination angle to reach its target orbital value? (Pretend for a moment that the orbital inclination angle means something even before you reach orbit---does it take the whole launch for that value to stabilize?)

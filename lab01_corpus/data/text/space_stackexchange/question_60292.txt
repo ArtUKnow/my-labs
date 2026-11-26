@@ -1,6 +1,0 @@
-What is the cabling on the exterior of the SLS solid rocket boosters that wasn't on the shuttle solid rocket boosters?
-I noticed what appears to be foamed-over cabling running roughly parallel to the systems tunnel on the exterior of the SLS Solid Rocket Boosters (SRBs). The cabling appears to run all the way from the forward to the aft skirt.
-Highlighted in yellow here:
-The shuttle SRBs didn't have this cabling:
-Descriptions I've seen of the differences between the SRBs for the two vehicles didn't include this cabling. What is it for?
-Image sources: SLS, STS

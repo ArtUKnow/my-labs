@@ -1,7 +1,0 @@
-How does one "mothball" a spacecraft, and then how does one "un-mothball" it later?
-There are various things to do to an automobile if you are going to store it for a few years. Depending on the situation, you might ask a friend to start it once a month, and/or you might pull the battery out, put it up on blocks and plug the exhaust so critters don't get in.
-Ars Technica's June 27, 2025 An exceedingly rare asteroid flyby will happen soon, but NASA may be left on the sidelines includes the following:
-But all of this would require significant funding. If not from NASA, who? The uncertain future of NASA's support for Apex has led some scientists to think about philanthropy.
-For example, NASA's Janus spacecraft have been mothballed for a couple of years, but they could be used for observational purposes if they had—say—a Falcon 9 to launch them at the appropriate time.
-and an example of successful un-mothballing would be the Triana to DSCOVR metamorphosis
-What are some important things that are done to make spacecraft better able to be stored safely for extended periods of time? What are things done to then prepare them for flight?

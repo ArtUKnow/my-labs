@@ -1,6 +1,0 @@
-Trying to run NASA GMAT on Ubuntu 20.04, I get the error "no main manifest attribute, in gmat.jar"
-I downloaded GMAT from https://software.nasa.gov/software/GSC-17177-1
-Then I extracted using tar -zxf gmat-ubuntu-x64-R2020a.tar.gz
-Then I went to the bin folder and set gmat.jar as an executable (rightclick -> properties -> permissions).
-Finally when I tried java -jar gmat.jar, I get
-no main manifest attribute, in gmat.jar

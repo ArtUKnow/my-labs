@@ -1,6 +1,0 @@
-How do they determine dynamic pressure has hit a max?
-Max-Q is a key event during launch, and dynamic pressure is closely monitored so they know when a max is hit.
-But how exactly do they know when Q hits a max? If you track the rate at which Q is changing, then as that rate drops to zero, you can say you're approach your max---and once you hit zero, you can say "max-Q."
-But dynamic pressure data is noisy, and you'll see minute troughs and crests in it which would cause you to incorrectly say "we're approaching a max" and "we've hit a max."
-So to use your noisy Q data, you'll have to first remove the high-frequency noise, so the resulting signal is smooth and free of spurious crests and peaks. The only meaningful peak then would be your max Q.
-But is this how it's done?

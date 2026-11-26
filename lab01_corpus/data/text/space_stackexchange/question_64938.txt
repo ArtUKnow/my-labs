@@ -1,2 +1,0 @@
-Showing from where satellites can "be seen" in GMAT
-I'm currently working on orbit modeling in GMAT and I'm interested in visualizing the satellite's visibility on the ground track. Is there a feature or tool within GMAT that allows for the representation of the satellite's line of sight or visibility on the ground track? Apologies if my terminology isn't precise—I'm seeking a method to display the areas where the satellite is in view from the ground. Any guidance on how to achieve this in GMAT would be greatly appreciated!

@@ -1,4 +1,0 @@
-When burns are made during inefficient parts of the orbit, where does the lost energy go?
-Any Kerbal Space Program player will know that burns prograde and retrograde to the velocity vector are most efficient closest to the body being orbited, while burns normal and anti-normal are most efficient furthest from the body being orbited, where efficiency is defined by how much delta-v is required to go from a given starting orbit to a given target orbit.
-But energy can neither be created nor destroyed, so when burning in the right direction at a suboptimal point in the orbit (suboptimal true anomaly, to be technical), where does all the additional energy expended go? It's not cosine loss, as this effect, which has a few different names based on the position in the orbit but is most familiar as the Oberth Effect, is encountered even when the burn is instantaneous, so it's not that one part of the burn is cancelling out another.
-So where is the extra energy going?

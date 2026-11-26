@@ -1,5 +1,0 @@
-Jimsphere example data for wind speed/direction vs altitude?
-I've added load relief to my thrust-vector controller (TVC) and would like to simulate it with some realistic wind data, ideally up to 80 km or higher.
-I know wind speed and direction would be measured before launch with Jimspheres or equivalent, and I imagine there must be loads of Jimsphere data collected over the years, maybe for the space shuttle or Saturn V, which have so much public info out there.
-I haven't had much luck in my search, so I'm wondering if someone here knows where I could find this?
-Huge thanks if you can point me in the right direction!

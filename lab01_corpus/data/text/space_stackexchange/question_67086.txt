@@ -1,7 +1,0 @@
-Do rocket propellant tanks ever use internal structural elements to carry off-axis loads?
-The interior of propellant tanks are usually portrayed as empty of structural elements. Here is the interior of a liquid hydrogen tank during assembly at the NASA rocket factory, with humans for scale:
-https://en.wikipedia.org/wiki/Space_Shuttle_external_tank#/media/File:Space_Shuttle_external_tank_assembly_01.jpg
-There are sometimes plumbing parts or anti-slosh devices, but not structural elements.
-Here is a Saturn 1 kerosene tank with in-flight video of anti-slosh baffles in action:
-An empty cylinder is structurally efficient, especially for a pressurized tank. But asymmetric loads, such as hard points for strap-on SRBs may benefit from internal bracing.
-Do rocket propellant tanks ever use internal structural elements?

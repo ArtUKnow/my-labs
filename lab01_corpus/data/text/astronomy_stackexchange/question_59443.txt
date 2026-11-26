@@ -1,9 +1,0 @@
-Are artificial Earthly radio emissions "brighter" than the Sun's?
-I was reading this answer to a question from a person paranoid about the Voyager probes, which elaborated that the Earth itself had been outputting gigawatts of radio emissions into outer space since the last century, creating a radio bubble 200 light-years wide.
-Which leads to this question.
-The Sun itself, while emitting copious amounts of energy in visible and infrared light (and a tiny fraction of UV and X-rays), is pretty much radio-quiet.
-On the other hand, human civilisation on Earth emits a ton of radio waves into outer space (TV and WiFi signals, ham radio/corporate radio broadcasting stations, pretty much any electronic appliance). Which means that the Earth should be radio-loud.
-To further elaborate, as a thought experiment, assuming that we had a bunch of alien astronomers living on one of Proxima Centauri's planets (4.3 ly away), operating a radio telescope and they pointed it at the Solar system, would the Earth's artificial radio emissions exceed that of the blackbody radio waves emitted by the Sun? If that's the case, then what's the ratio of their "brightness" in radio waves?
-There was a similar question asked on this subject, which unfortunately doesn't seem to answer my question, because it refers to the "radio brightness" of the Earth in a specific range of radio frequency, rather than the entire range of radio frequencies.
-For the purpose of the question, let us assume the "entire" range of radio frequencies to be "250 GHz to 1 Hz", which is coincidentally the same range of radio frequencies to be captured by the imaginary extraterrestrial telescope.
-For making this easier to answer, assume that the hypothetical civilization from Proxima Centauri (which is imaging the Solar system) itself emits a negligible amount of radio waves. And for the sake of the question, assume that Proxima Centauri itself is radio-quiet.

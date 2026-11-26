@@ -1,8 +1,0 @@
-Calculating change to radio signal propagating around via satellite orbits
-What is the best way to calculate either the time difference or frequency change for a radio signal in the following scenario?
-60 satellites are in the same circular orbital path at 6 degree intervals. The satellites are configured so that when they receive a signal from either nearest neighbor (retrograde or prograde) they reflect or pass-it-on without modification to the neighbor on the other (prograde or retrograde, respectively).
-So, the signal propagates in both directions all the way around and back to the originating satellite.
-When the originating satellite receives both versions of the signal after they have been propagated around the orbit, are they received at exactly the same time, and, if not, then how do I calculate the delay between them?
-Do both signals arrive at the same original frequency, and if not, how do I calculate the change?
-I expect the sizes of the differences (if there are any) depends on the size of the orbit, the velocity of the satellites, and the delay caused by reflection.
-Maybe I am also missing another variable?

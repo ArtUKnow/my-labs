@@ -1,5 +1,0 @@
-Shortest wavelength with diffraction-limited telescopes
-In many cases telescope resolution is diffraction-limited and no further improvement of mirror polish will improve image quality. Even ground based systems if they use adaptive optics to overcome atmospheric turbulence.
-This is also true for longer wavelengths of light such as radio. These frequencies are low enough to simulate a larger telescope by combining their time-domain signals.
-But x-ray telescopes are limited by the accuracy of the materials. The wavelength is so short that reaching the diffraction limit is very hard.
-Where is the cutoff? What is the shortest wavelength of light for which an image-forming diffraction-limited telescope has been built? Are there plans to push this to lower wavelengths?

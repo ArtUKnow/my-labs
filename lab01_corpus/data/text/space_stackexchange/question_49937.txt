@@ -1,2 +1,0 @@
-Why does starship flip vertical at the last moment instead of earlier
-In the test flight of SN9, it appeared that 1 of 2 engines did not relight upon landing. Why is the transition to vertical not done at a higher altitude where a backup engine could be lit if needed or give longer for a single engine to slow it down?

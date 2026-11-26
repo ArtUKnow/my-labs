@@ -1,7 +1,0 @@
-How can Jupiter rotate faster at the equator than at the poles (in degrees per second)?
-Jupiter rotates slightly faster at the equator. If inertia is conserved as average angular momentum, what is the physical mechanism that creates a gas which is ~$1$% faster angular momentum at the equator than at the poles?
-A previous answer by Radhe Dhoundiyal to Why do the Sun and gas planets rotate faster at equator than at poles? explains:
-The equatorial regions of these celestial bodies experience a more rapid rotation mainly due to these convective currents, present in the outer layers. These convective currents transport heat from the interior to the surface, and the Coriolis effect, resulting from the rotation, causes the gas to move in a swirling motion.
-But, this implies that the heat of the planet's interior creates convection, but doesn't say how the convection moves the gas. Is the circular motion in a plane perpendicular to the surface & in the plane of the equator?
-And if so, why would the circulation increase the gas speed at the surface at the equator, when the circulation could just as easily rotate the opposite way and, thus, reduce the gas speed at the surface at the equator?
-If convection cells, hot gas must go upward and an equal amount of cooled gas go downward - so wouldn't the net effect be no average change of equatorial gas rotation speed at the surface?

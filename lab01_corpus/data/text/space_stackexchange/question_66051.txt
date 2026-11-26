@@ -1,5 +1,0 @@
-Using Dragon and Polaris Dawn to dock with near Earth asteroids
-There is a planned launch from SpaceX called Polaris Dawn; for a modified Dragon capsule, currently planned for early summer 2024, with the ability to depressurize and allow astronauts to do a space walk in versatile special spacesuits designed by SpaceX called Polaris Dawn.
-This new ability should open up a door to things which were previously impossible to do. What can we do with this new feature?
-Could it be used to allow astronauts to explore near Earth asteroids, such as Apophis, and do some rudimentary asteroid mining with the help of a Dragon capsule which can carry up to 4 people for such mission to perform EVAs. The asteroid gravity would be close to zero, so it would require minimal fuel to dock with asteroid.
-Maybe asteroids could also be useful for collecting insitu resources or for growing plants?

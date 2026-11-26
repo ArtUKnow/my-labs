@@ -1,2 +1,0 @@
-Effects of Precession and Nutation on the pole of the ICRF
-The z axis of the ICRF frame is aligned with the rotation axis of Earth at J2000. This axis shouldn't change, since it is based on a specific Epoch. But, based on what some forums/information I have come across, the poles of the ICRF is aligned with the rotational axis of Earth (because the poles of the ICRF and the ITRF need to align), which wobbles and precesses. Any help reconciling these two ideas would be greatly appreciated.

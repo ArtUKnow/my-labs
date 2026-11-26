@@ -1,2 +1,0 @@
-Looking for a more specific Raptor engine model, that follows fuel and oxidiser flow. Anyone know where to find good Raptor resources?
-Here is our raptor inspired model in SATSIM, our virtual aerospace lab. Want to be able to model the fuel and oxidiser flow at some stage both in Blender, then WebGLbut it's trickier than it looks. Are there any resources which detail Raptor parts and functions in more detail? Keen to know more. Going to build a more detailed breakdown of each component, with mini tutorials on each component and its function if people are interested in it.

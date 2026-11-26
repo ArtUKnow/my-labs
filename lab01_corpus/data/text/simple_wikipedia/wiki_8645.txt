@@ -1,8 +1,0 @@
-Yahtzee
-Yahtzee is a popular dice game that is well-known all over the world. The object of the game is to roll 5 dice (up to 3 times) to create certain combinations such as:
-Three-of-a-kind: 3 dice showing the same number (scores as sum of all dice)
-Four-of-a-kind: 4 dice showing the same number (scores as sum of all dice)
-Small straight: 4 numbers in sequence, such as 2-3-4-5 or 1-2-3-4 (scores 30 pts)
-Large straight: 5 numbers in sequence, such as 1-2-3-4-5 (scores 40 pts)
-Full house: 3 dice showing the same number and the remaining 2 dice showing a different number but both matching (scores 25 pts)
-Yahtzee: All 5 dice showing the same number (scores 50 pts)

@@ -1,5 +1,0 @@
-What is the "pendulum rocket fallacy" as it relates to analogizing a pencil balanced on a finger to maintaining attitude of a hovering rocket?
-I've received comments that explain to me that the analogy between rocket attitude control during a hovering maneuver and the act of balancing pencil on the end of a finger is a helpful and good one; solve one problem and you've solved the other, and I've just read elsewhere that it's definitely not, and thinking that way can be referred to as "the pendulum rocket fallacy".
-Question: Is it possible to outline to what extent the analogy is helpful and in what ways it is inadequate or breaks down completely? If so, is it possible to do this by including some math, and not just paragraphs of prose? That may be most easily doable by quoting some source (a tutorial, some slides, a talk, a textbook, etc.) rather than trying to roll your own.
-It might be somewhat related to the notion that having an engines near the top of a rocket helps stabilize it. Then again, it might not. don't let this distract from the question at hand!
-Thanks!

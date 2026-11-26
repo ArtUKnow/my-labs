@@ -1,5 +1,0 @@
-When NASA spacecraft arrive at Mars, is Mars always always above the horizon in the US?
-Writing How long did the plasma blackouts of Perseverance's signals to MRO and direct-to-Earth last during its seven minutes of terror? I noticed that Mars was high in the sky over the Green Bank observatory near the East coast of the US when the spacecraft arrived at Mars, and this was also the case for Insight's arrival. This allows Green Bank to receive VHF tones from a low gain antenna directly to monitor the Doppler shift and some minimal spacecraft health data during the critical period when the normal high data rate links are difficult or impossible.
-This led me to wonder if it has always been the case.
-Question: When NASA spacecraft arrive at Mars for orbital insertion or landing is Mars always always above the horizon in the US?
-I haven't asked about gravitational assists near Mars because the trajectory is known or predictable well ahead of time and there are no critical events involved during the flyby itself.

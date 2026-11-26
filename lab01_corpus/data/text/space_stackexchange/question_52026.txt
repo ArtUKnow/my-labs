@@ -1,5 +1,0 @@
-How is the Max-Q of a spacecraft determined?
-Maximum aerodynamic pressure of a spacecraft is the maximum force it's hull can withstand during flight. How is the Max-Q of a spacecraft determined?
-Other related ( optional) queries are:
-If Max-Q is also measurable on the ground, how are the simulated external forces applied to the DUT( Device Under Test)?
-Which part of the craft is most vulnerable to such aerodynamic stress?

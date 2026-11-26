@@ -1,3 +1,0 @@
-Calculating period/SMA delta and other parameters from Clohessy-Wiltshire
-I'm working on the camera system for a game about relative motion. The orbital motion is completely described by Clohessy-Wiltshire.
-I would like to be able to calculate some things like eccentricity of the chaser, and the period/SMA delta between chaser and target. Is there a method to do this that doesn't involve creating a "base" elset that matches the orbital rate being used for CW and a chaser elset based on the CW pos/vel?

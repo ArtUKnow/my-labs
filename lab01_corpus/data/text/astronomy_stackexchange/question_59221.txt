@@ -1,5 +1,0 @@
-Polaris and Kochlab: Varying color temperature by time?
-I read that color temperature of the two stars alternates such that one may be brighter than the other?
-Can anyone explain how or when this occurs? What is the variance in temperature in Kelvins? I’m not sure if the phenomenon is only visible on Earth by naked eye or in a space telescope.
-Also I see that by the naked eye Polaris is listed as Yellow and Kochlab as Orange. This seems to be in conflict with color temperate of Polaris (Bluish). Unsure is this is some phenomena visible through Eart atmosphere.
-Thanks

@@ -1,2 +1,0 @@
-Theoretical study of the excited states of NeH and of their non-adiabiatic couplings: a preliminary for the modeling of the dissociative recombination of NeH+
-Potential energy curves and matrix elements of radial non-adiabatic couplings of 2Σ+ and 2Π states of the NeH molecule are calculated using the electronic structure package MOLPRO, in view of the study of the reactive collisions between low-energy electrons and NeH+.

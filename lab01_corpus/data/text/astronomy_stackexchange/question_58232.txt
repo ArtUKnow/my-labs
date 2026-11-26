@@ -1,5 +1,0 @@
-Light deflection during solar eclipse
-On this website they describe how the "deflection" is measured during the solar eclipse.
-https://eclipse2017.nasa.gov/testing-general-relativity
-I'm confused about the following:
-The last sentence, are they saying they measured the solar radius using the deflection? How?

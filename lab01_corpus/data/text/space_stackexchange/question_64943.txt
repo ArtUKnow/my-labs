@@ -1,5 +1,0 @@
-sending a satellite in the right direction
-I suspect that the required accuracy of satellite velocity direction is very high. This is especially the case for low earth orbits.
-The radius of the earth is 6400 km. The altitude of a low earth orbit satellite is about 400 km, which is much smaller than the radius of the earth. That is, the satellite orbit is actually a very tight one around earth, with the gap very small. Suppose we intend to put the satellite in a circular orbit, but the velocity of the satellite at release is not strictly in the tangent direction. This will result in a tilted ellipse orbit, which might touch the atmosphere at the other side of the earth.
-I did not do the calculation, but it seems to me that we have to make sure the velocity of the satellite is in a very small angle.
-Is the reasoning right? Does it pose any difficulty in realistic satellite launching?

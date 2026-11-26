@@ -1,4 +1,0 @@
-Why was creating sunshields for Webb telescope challenging?
-The Webb telescope is an infrared telescope, therefore heat from sun can cause noise and even damage its super sensitive sensors (If I'm wrong please correct me, I'm not expert).
-So the telescope should be kept away from sun light. But I have heard that creating sunshield for Web telescope was an engineering challenge. I can not understand the technical difficulties of creating a sunshield which blocks sunlight to reach the telescope.
-Can someone explain it to me?

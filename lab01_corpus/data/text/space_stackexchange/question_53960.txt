@@ -1,9 +1,0 @@
-Testing our knowledge of Space Law. Which state would be liable if a Oneweb satellite collides with another satellite?
-On June 27th, Oneweb launched another batch of 36 LEO satellites from Vostochny Cosmodrome, Russia. The satellites separated from Soyuz at the altitude of ~400 km. Using their electric propulsion systems, the satellites will make a long trek until they reach their operational altitude of ~1200 km.
-My question: Knowing that Oneweb is UK-based but their satellites are built in the US, that the launch is from Russian territory but the launch operator is Ariane-Espace (France), which state would be liable for damages if, hypothetically, there is a collision during the orbit transfer phase?
-EDIT (Aug 22nd 2021):
-Since Oneweb has just successfully launched another batch of satellites, let’s review the answer below that Russia and/or France are liable (if it is their fault).
-First, from the press-release by Ariane, the launch was a success. Note:
-The satellites deployed into a near-polar orbit 280 miles (450 kilometers) above Earth, then will migrate over the coming weeks to their operational orbit, which features an altitude of 746 miles (1,200 km).
-Now, the “migration” from 450km to 1,200km are performed by the satellites themselves, Ariane and Roscomos have no control whatsoever of this phase, having fulfilled their contract of delivering the satellites to the right spot in Space (450km near-polar orbit). So, if a collision occurs on the journey to 1,200km, it is plausible (and fair) that France and Russia can successfully argue that it is not their fault.
-Hence which government has a responsibility of oversight on these satellites migration? The UK because the Oneweb company is registered there? The US since the satellites are manufactured there?

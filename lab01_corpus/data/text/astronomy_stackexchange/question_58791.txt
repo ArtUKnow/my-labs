@@ -1,2 +1,0 @@
-What elements (features) of a light curve do I need to classify it?
-I am looking to create a machine learning model that classifies types of light curves. But what features do I use? In other words what numbers or parameters fully describe a light curve and differentiate it from others? I understand that period and amplitude are obvious, but is there anything else that gives more info on the shape of the light curve?

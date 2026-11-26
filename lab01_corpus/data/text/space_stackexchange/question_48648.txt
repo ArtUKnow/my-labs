@@ -1,4 +1,0 @@
-How does China (CASC or CAST) solve Groundsegment?
-I was studying Queqiao space mission and I found a lot about how is Tracking, Telemetry and Command or TT&C solved for space component, but not how is secured Space-Ground connectivity - what type of ground stations (should be S-band), where and so on.
-The only thing I have found is the last slide in the following presentation, but not sure about the relevance:
-https://static1.squarespace.com/static/5e356cfae72e4563b10cd310/t/5f6e9dbd80f1d5716233beed/1601084864185/CASI+Conference+2020+Wood+Presentation.pdf

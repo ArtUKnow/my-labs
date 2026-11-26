@@ -1,5 +1,0 @@
-Were the docking interfaces for Gemini 8 and the Agena Target Vehicle ever mated before launch?
-The first docking of two objects in space was Gemini 8 docking to the Agena Target Vehicle.
-Naturally, for two vehicles to dock, they need compatible docking connectors. They must be designed to attach to each other perfectly.
-Careful manufacturing to standards can be enough to gain confidence that the systems will connect properly - today, every vehicle going to the ISS is designed to match its ports, despite never having a chance to do a physical fit test prior to launch.
-For this first docking, were the physical flight units of the docking interfaces of the two vehicles ever fit-checked with each other on the ground, or did they rely on the "design, measure, and trust it" approach that is necessitated today?

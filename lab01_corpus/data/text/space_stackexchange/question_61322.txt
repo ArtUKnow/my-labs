@@ -1,5 +1,0 @@
-How will Starlink 2.0 fit on a Falcon 9?
-According to nextspaceflight.com the last Starlink flight of 2022 (possibly delaying into Jan 2023) is group 5-1 and is flying some kind of Starlink 2.0 payloads.
-It was understood that Starlink 2.0's size precluded it from flying on a Falcon 9. It is designed to launch in Starship, two side by side, being about 7 meters long and 3 meters wide. The mass is also heaver at 1200 kg.
-But with the delays in Starship flying orbital, it seems they are at least going to try some pathfinder missions (like Tintin 1 and 2 that were the first Starlinks launched, which looked nothing like the production Starlink).
-How will they fit these much larger and heavier satellites in a Falcon 9 fairing and mass budget?

@@ -1,7 +1,0 @@
-Thrust of ion thruster when spacecraft is charged
-I read in many articles and books that the thrust of an ion thruster is equal to
-$$T = \sqrt{\frac{2M}{e}} I_b \sqrt{V_b} \ \ \text{[newtons]}$$
-screenshot
-where $V_b$ is the acceleration potential, but this equation is valid when spacecraft potential is 0.
-What happens when the surface of the satellite is charged? (The particles that are in space due to the solar wind will charge the surface of the satellite.)
-In this case, the complete equation would be something like $V_b = V_a + V_s$ where $V_a$ is the acceleration potential and the $V_s$ is the voltage of the surface charged?

@@ -1,3 +1,0 @@
-Cost of cleaning a rover up to COSPAR IVc standard
-To this date no rover or lander was able to access the so-called Mars Special Regions (like where seasonal flows occur) because of the required COSPAR IVc level (no more than 30 spores for the whole lander which is, if I got it right, the level achieved for the Viking landers).
-I wonder whether there are any estimates of the costs for a modern generation rover (like Curiosity or Perseverance) sterilized up to this level.

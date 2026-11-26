@@ -1,5 +1,0 @@
-How well does a sea-level engine operating in a vacuum perform compared to a vacuum-optimized engine operating in a vacuum?
-A sea-level rocket engine generally has a smaller bell than the equivalent model vacuum-optimized engine - and is perhaps a little bit lighter because of that. I assume that there could be other differences.
-Most sea-level engines that are installed on boosters operate from the surface up to the altitude of the rocket at main-engine cut-off (MECO), which generally occurs in what is, for all intents and purposes, a vacuum.
-I'd like to learn more about how a sea-level engine's performance (specifically its exhaust velocity) is a function of the rocket's speed and altitude. I'd also like to know how close a sea-level engine comes to achieving the performance of a vacuum-optimized engine of the same base design when the sea-level engine is operated in the vacuum of space.
-Also, when the exhaust velocity (or ISP) of a sea-level engine is specified, does that number represent the performance of the engine at sea level, or does it represent the engine's peak performance - that is, the performance of the engine when it is operated in a vacuum?

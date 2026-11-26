@@ -1,2 +1,0 @@
-Temperature distribution of air around a rocket
-I am doing some simulations in ANSYS Fluent of a rocket traveling at speed of 100 m/s at an altitude of 12000 m where the surroundings temperature is 216.7 K. The image above is the temperature distribution of the air around the rocket. Does it make sense to have the highest temperature located at the bottom of the rocket? If so, what would be the explanation?

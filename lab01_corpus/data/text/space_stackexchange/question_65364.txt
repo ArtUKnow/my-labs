@@ -1,4 +1,0 @@
-Force Constant of liquid propellants, RP-1 >1200 kJ/kg
-I am familiar with testing of the force constant for solid propellants using the closed bomb test.
-But what test method is used to obtain the force constant of liquid propellants?
-And is the force constant of RP-1 higher or lower than 1200 kJ/kg?

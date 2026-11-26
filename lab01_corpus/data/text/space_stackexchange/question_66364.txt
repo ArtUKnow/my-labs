@@ -1,2 +1,0 @@
-What is the lift to drag ratio of Starship?
-By watching the live feed of IFT-4, its pretty obvious that Starship does not actually re-enter in the "skydiver" position, but rather at an AoA of around 45°. There is no doubt that this is a lifting trajectory. But how much lift is produced?

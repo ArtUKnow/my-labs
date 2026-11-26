@@ -1,7 +1,0 @@
-Is crater counting accurate for relative dating between celestial bodies?
-This Planetary Society article explains how crater density per unit area on the lunar surface helps identify what regions are older/younger than others. It also mentions that this chronology can be used as a basis for the chronology across the rest of the solar system.
-Is this methodology accurate? I understand that there aren't many alternatives at the moment, but can we really assume that regions on the Moon and (say) Mars with a similar crater density were struck at around the same time? How can we verify that these craters weren't simply formed by two temporally distant different events with a similar impact density?
-Edit:
-The article linked above explicitly says that crater counting on the Moon acts as basis for chronology for other bodies:
-That's the lunar crater chronology: The spatial density of craters larger than a standard size versus radiometric age (we use 1 km as that standard size). This crater chronology is then scaled and used as a basis for the chronology across the rest of the solar system. When you hear someone say that something on the surface of Mars is X number of years old, chances are that's based on the lunar samples from the 1960s and 70s and the crater counting done 40 years ago.
-My question is about crater couting for relative chronology between celestial bodies - is it really reliable? I guess it's the best we can do at the moment.

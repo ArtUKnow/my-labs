@@ -1,8 +1,0 @@
-What are the differences (if any) between the techniques of range-rate and delay-doppler measurements?
-This answer to How does an onboard atomic clock help interplanetary navigation? says:
-Range-Rate is the two-way measurement of signals broadcast from one location on Earth, received and retransmitted by the spacecraft in a frequency-coherent way and received back on Earth. It's also called delay-Doppler. You get a range from the delay, and a rate-of-change of range (a 1 dimensional velocity) from the Doppler shift.
-and a comment below it calls out my reference to delay-Doppler as another name for range-rate.
-I had always thought that the expression "range-rate" refers to measurements of both the range (via delay) and the rate of change of range (via Doppler).
-Granted delay-doppler is usually used on objects with passive reflection, like in measurements of Venus or Mercury or a near-Earth asteroid from Earth, whereas in space the delay-Doppler measurements are made possible by coherent transponders on spacecraft as the are way to small and too distant to be measurable by passive radar.
-Am I mixing up things that are in some way fundamentally different or are they essentially the same idea but differ only in their practicalities?
-Question: What are the differences (if any) between the techniques of range-rate and delay-doppler measurements?

@@ -1,3 +1,0 @@
-How to estimate artificial satellite brightness as seen from another satellite?
-I'm looking for a way to estimate an object's brightness as seen by an observer in space. I expect the estimation to depend on factors such as the distance to the Sun, the Sun-satellite-observer angle, the satellite's albedo (or reflectivity index, or something similar), the distance between the satellite and the observer, and the area of the satellite that reflects light.
-Is there an easy way to estimate this (preferably in magnitude)? I've seen some papers that seem to address this problem, but all the integrals made my head hurt. I don't need such a complicated solution—just an estimation.

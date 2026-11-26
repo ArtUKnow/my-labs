@@ -1,8 +1,0 @@
-How does the economics of orbital refueling vs bigger rocket work?
-SpaceX plans to refuel Starship in orbit for Moon and Mars missions. According to some other questions here, it seems like they would need 6 tanker Starships to send 1 Starship to Mars.
-At a glance, a whole SIX tankers to get only 1 to Mars sounds huge. They need to launch 7 full stack Starships with Super Heavy boosters. Use all that fuel and weight from Super Heavy boosters to escape earth 7 times. To get just one Starship to Mars.
-One proposed alternative I keep hearing about would be to use an even bigger rocket, so you don't have to refuel. For example, you could have side boosters. The counter argument I hear against this is that Starship is already too big, adding even more boosters would mean it would need way too much fuel for just one launch.
-So yes, it would need a lot of fuel too launch a full fueled up Starship with additional boosters. I understand that.
-So my question is: is that extra fuel required to launch a fueled up second stage + more boosters really more than all the fuel required for SEVEN full stack Starship launches?
-How can we calculate that? How do the economics work out?
-Or maybe the whole thing is actually not about the fuel economics at all? And they're planning Orbital refueling more because it's probably an easier engineering challenge than figuring out how to strap even more boosters to what is already the biggest rocket planned? So they're willing to pay extra fuel cost and launch time as a trade off, as something they have higher confidence they can actually pull off?

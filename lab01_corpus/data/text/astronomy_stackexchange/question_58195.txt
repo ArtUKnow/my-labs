@@ -1,2 +1,0 @@
-Why is proper motion always along a great circle?
-I came across this question about proper motion and intersections of 2 stars proper motions on a celestial sphere, and in the solution they make use of the fact the proper motions are always along a great circle. I am clearly misunderstanding the situation, as the diagram i drew clearly has the motion not as a great circle. Could anyone clarify? I successfully answered the part about the position angles of the proper motions.

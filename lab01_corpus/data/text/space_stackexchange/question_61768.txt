@@ -1,7 +1,0 @@
-Using orbital construction around another body to build probes
-It's what it sounds like:
-I want to know whether sending a probe builder to orbit a moon or a planet (for this question I'm thinking of Titan or another smallish body in the outer system.), to build probes there instead of here.
-I can think of issues with this already: RTG manufacturing, powering the builder etc.
-However, the main advantage I see is that the journey would take a while with today's technology, and thus being able to manufacture the latest tech for the probe once it gets there instead of when it leaves (or years before, in some cases) would seem to be very beneficial, especially as we might have come up with a better probe design by the time it gets there. This would give the engineering and science team a greater freedom with design too: the probes, which have empty space in them, could be manufactured from bulk resource instead of to fit inside a payload bay. They also wouldn't have their electronics degrade on the way there.
-Can someone please tell me this is wrong in some significant way? I feel like something is, but I can't work out what...
-Thanks guys

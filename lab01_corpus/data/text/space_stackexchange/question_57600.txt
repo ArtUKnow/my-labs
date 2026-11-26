@@ -1,3 +1,0 @@
-What's the lowest and the highest ever recorded atmospheric pressure by a Mars lander?
-What is the lowest and what's the highest ever recorded air pressure on Mars by an (either roving or stationary) Mars landing probe?
-As per the answer in this question of mine, it seems the highest pressure record would have been measured by Viking 2 or Curiosity and the lowest by either Opportunity or Mars 3; though the latter landed at higher elevation it failed before doing much science so I guess the measured record would be Opportunity's. However, surface pressure varies throughout the Martian year.

@@ -1,3 +1,0 @@
-Do pulse detonation rocket engines require any type of nozzle?
-Rocket nozzles are used to convert slow moving gas under high pressure and temperature into hypersonic gas under approximately ambient pressure. From many videos of experimental Pulse Detonation Engines (PDE), or a subgroup of thereof - Rotation Detonation Engines (RDE) engines seems that avoid using nozzles. Here are some videos of PDE & RDE without nozzles: 1, 2, 3
-Do pulse detonation rocket engines (PDE & RDE) require any type of nozzle at all?

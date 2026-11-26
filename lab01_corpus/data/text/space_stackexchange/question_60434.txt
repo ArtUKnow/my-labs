@@ -1,6 +1,0 @@
-Mathematical description of the flight trajectory parameters of voyager 1
-I would like to run in some simulation software an end-to-end simulation replicating the flight of voyager 1. I am somewhat conversant with GMAT that I think would have this capability or perhaps there is something better. I would need the initial velocities and orientation and all of the thrust maneuvers (propagators) along the way as to magnitude and direction. I would like my "voyageur" to proceed based upon solution of gravitational force equations rather than just proceed along a prescribed path.
-I would like to run it at 50x time so that entire journey would take 6 months or so but I could look and see where it was every few days or so. I am not sure that GMAT has all the gravitational sources (bodies) needed so I would likely need to add to the GMAT library of bodies.
-I am unaware of any such detailed log of firings and orientation vectoring and hope this exists.
-Just a fun project. Anyone with any approaches?
-tom kosvic

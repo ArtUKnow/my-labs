@@ -1,2 +1,0 @@
-Physics of radio antennas
-Radio antennas are widely used in the field of particle astrophysics in searches for ultra-high energy cosmic rays (UHECR) and neutrinos (UHEN). It is therefore necessary to properly describe the physics of their response. In this article, we summarize the mathematics underlying parameterizations of radio antennas. As a paradigm, we focus on a half-wave dipole and also discuss measurements of characteristics, performed in an electromagnetic (EM) anechoic chamber.

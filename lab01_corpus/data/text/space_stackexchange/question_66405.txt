@@ -1,4 +1,0 @@
-Technical Question on Ignition Back Pressure
-I am looking for understanding the backpressure or pressure stabilization of the injector inlet of the engines, during ignition (T-0). Are there books or papers that you suggest to check for calculations regarding the backpressure?
-Of course there is the dynamic pressure recovery equations that could be modelled, but is that the only way?
-For a numerical project that I am working on.

@@ -1,6 +1,0 @@
-How Rayleigh Scattering looks like during partial solar eclipse
-During partial solar eclipses, excluding those with magnitudes of 0.5, we can observe significant changes to the sky's color balance. On a typical day, the blue sky is visible, which is easily understood by the formula of Rayleigh scattering; however, the eclipse-induced sky looks different.
-Because the intensity of Rayleigh scattering is inversely proportional to the fourth power of the wavelength (1/λ4) we usually see the vast majority of short wavelengths scattered when the Sun is up. However, as the Moon blocks some sunlight, this proportion is disturbed. Eventually, the amount of short wavelengths is proportionally smaller than the amount of long wavelengths, and in turn, the sky is shifted slightly to the red. As a result, the color of the sky is like a mixture of pale blue and greenish tinge, as you can see in the image below.
-I am not taking limb-darkening into account, as I consider small partial phases.
-Could anyone explain more about how it works?
-Where could I read more about it? Honestly, I couldn't find anything about this specific phenomenon.

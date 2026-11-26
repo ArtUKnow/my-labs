@@ -1,3 +1,0 @@
-What type of battery technology does Mars Odyssey use?
-The Mars Odyssey orbiter is currently the longest-serving spacecraft at Mars. Launched and put into service in 2001, it continues to take infrared pictures and gamma-ray spectra of the Martian surface, and (most importantly) is one of the most active relay satellites for the lander (InSIGHT) and rovers (Curiosity and Perseverance) on the surface.
-It's orbit is sun-synchronous and it has solar panels, so theoretically it should continuously get solar power. However, one would expect a battery backup, and 20 years is a long lifetime for most battery technologies. Does Odyssey have batteries, and what type are they? Do we know how well they still work?

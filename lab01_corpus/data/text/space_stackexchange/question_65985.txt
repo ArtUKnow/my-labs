@@ -1,2 +1,0 @@
-HST can apparently operate in one-gyro mode, if need be. Why was the Compton Gamma Ray Observatory de-orbited when it lost one of its three gyros?
-If HST has been reduced to 2 fully functioning gyros, I read that they plan to turn off one gyro and run in single-gyro mode to save the second functioning gyro. The Compton Gamma Ray Observatory had three gyros and NASA decided to de-orbit the satellite when one gyro failed. Why did NASA not follow this current strategy for CGRO? Parts of CGRO survive re-entry, do they expect any of HST to survive re-entry? Is that the reason?

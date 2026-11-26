@@ -1,3 +1,0 @@
-A homemade optical system, one of the nodes of which is the following small lens
-There is such a small lens.
-Is it possible to make a homemade optical system based on it (i.e. using it), say, at least for observing the moon? Maybe it is possible to measure/look at some parameters of the lens right now to understand whether it is suitable for these purposes or not.

@@ -1,7 +1,0 @@
-Are Jool's moons' orbits stable?
-The fictitious Kerbol system includes
-...five planets: Moho, Eve, Kerbin, Duna and Jool; and two dwarf planets: Dres and Eeloo; orbit around it. Kerbol contains 99.97 % of the mass in the Kerbol system. This is very similar to our sun which contains 99.86 % of the mass in the real world solar system.
-and
-Jool is a gas giant and the sixth planet of the Kerbol star system. It is the Jupiter analog for Kerbal Space Program. Aside from Kerbol, Jool has the largest diameter and greatest mass of all celestial bodies. Its extremely high gravity makes orbital maneuvers unpleasantly expensive. While its distance from Kerbin makes it difficult to reach, it is one of the most appealing targets for missions due to its large and complex system of five moons: Laythe, Vall, Tylo, Bop, and Pol.
-I am worried about Jool's moons. I believe that the KSP program propagates them in fixed, perfectly repeating and closed Kepler orbits. But if reality were to set in and they started experiencing each other's gravity, I am afraid they are too close and will start messing with each other's orbits.
-Question: Are Jool's moons' orbits stable? If not, how long before the system becomes unrecognizable or one gets ejected or collides with Jool?

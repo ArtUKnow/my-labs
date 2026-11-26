@@ -1,4 +1,0 @@
-Cell-Free massive mimo for satellite communication design
-I am interested in LEO satellite communication and its integration into a 5g terrestrial network. Cell-free massive mimo (CFmMIMO) is a concept used in 5G design. It looks, CFmMIMO can be used if we design UL (terrestrial-to-satellite). As I understood, in this case, satellites are access points.
-I am thinking if I can design a DL link, where the terrestrial network is an access point, and the satellite is the “user”?
-PS is it the right community for my question?

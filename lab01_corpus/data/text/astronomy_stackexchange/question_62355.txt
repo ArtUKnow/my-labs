@@ -1,3 +1,0 @@
-How to correct the shot-noise term of the log power spectrum?
-For the matter/halo power spectrum, we can correct its shot-noise contribution by subtracting $1/\bar n$, where $\bar n$ is the number density of particles or dark matter halos.
-If we first perform the logarithmic transform for the density field, i.e. $\delta_{log}=\log (1+\delta)$, then measuring the power spectrum of $\delta_{log}$. In this case, how do we correct the shot-noise of the log power spectrum?

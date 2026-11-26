@@ -1,4 +1,0 @@
-How Spacex's Raptor Rocket Engine starts?
-How does the Spacex Raptor rocket engine start? What are the different stages of startup?
-Is the propellant pressure in the tanks sufficient to drive the turbopumps and ignite the preburners and then the main combustion chamber?
-Or is it a neutral gas like helium under pressure which is sent to the turbopumps to drive them and then the valves of the tanks are opened and the pressure inside the tanks propels the propellants to the turbopumps and ignites the preburners and then the main combustion chamber?

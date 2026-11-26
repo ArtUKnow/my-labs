@@ -1,6 +1,0 @@
-Ground station : DVB-S2 TBS-6903 Receiver to communicate with a LEO Satellite
-I am working on a project to develop a ground station that communicates with a LEO Satellite in X Band via the DVB-S2 communication standard using off-the-shelf components.
-It appears that the TBS-6903 coupled with a Low Noise Block Downconverter (LNB) is quite used to receive GEO satellite video streams.
-I would like to know if there are resources out there describing experience using this setup to receive DVB-S2 signal from a LEO Satellite using the TBS-6903, or if anyone here has direct experience with it.
-Also, there is no documentation that shows if there is a doppler compensation done by the system.
-Any help would be appreciated.

@@ -1,3 +1,0 @@
-Is there a low Earth orbit with a 24-hour day night cycle?
-Are there any possible low-Earth orbits that use precession to match Earth's day/night cycle? So like SSO, but specifically aimed to achieve a 24hr day/night in LEO.
-If so, what would its parameters be?

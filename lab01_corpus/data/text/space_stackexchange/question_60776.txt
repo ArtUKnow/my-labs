@@ -1,3 +1,0 @@
-What could spacecraft do with much more available power? Are spacecraft power limited?
-I'm curious about how spacecraft would benefit having much more power for the same total mass. Solar panels are getting lighter, but would the extra power they could generate bring benefits to space missions?
-I guess interplanetary missions using electric propulsion would benefit in having more power available for the thrusters, leading to shorter mission times. What about commercial or scientific satellites? Are their capabilities limited by power, or by other constraints such as volume and mass?

@@ -1,3 +1,0 @@
-Relating virial radius to virial mass of a dark matter halo
-I was studying about the definitions of virial mass and virial radius of a dark matter halo and it is basically defined as
-$$M_{vir}= \frac{4}{3}\pi R_{vir}^3\Delta_{c}\rho_{crit} $$n where $\rho_{crit} $ is the critical density at a fixed redshift, and overdensity or $\Delta_{c}$ is usually 200, but dependent on cosmology. This is derived assuming a spherical collapse, but does this mean that if we know the $M_{vir}$ of a halo at a specific redshift z, we can calculate $R_{vir}$, ie all halos of mass $M_{vir}$ have a virial radii of $R_{vir}$ ?

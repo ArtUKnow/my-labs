@@ -1,8 +1,0 @@
-Tolerances given for Galactic Directions in answer to 'How fast are we moving relative to the CMB?'
-Question: Tolerances given for Galactic Directions, in answer to 'How fast are we moving relative to the CMB?'
-Where:
-$$ℓ = 264.021º ± 0.011º$$
-$$𝑏 = 48.253º ± 0.005º$$
-I can find these values on the net, but I cannot find the tolerances given here.
-The link given: Planck Collaboration et al. (2018), does not give any such information.
-Can you help please?

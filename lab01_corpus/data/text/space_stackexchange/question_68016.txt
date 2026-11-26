@@ -1,4 +1,0 @@
-How far could voyager still communicate with earth if it had the laser interplanetary communication system that was tested on the Psyche spacecraft?
-In the test in June 2024, they transmitted data at a sustained six megabits from 240 million miles away, near the orbit of Mars.
-I'd also like to know its optical bandwidth at its current distance, but I don't want to ask two questions.
-As I understand it, Voyager’s comms system is a 25 watt radio with a current data rate of about 160 bits/s, so I’m curious how much further we would be able to effectively communicate with a satellite like Voyager if it were using laser communications systems.

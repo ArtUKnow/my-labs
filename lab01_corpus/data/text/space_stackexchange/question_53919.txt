@@ -1,9 +1,0 @@
-Rotation matrix / coordinate transformation of maneuver parameters from Prograde, Normal, Radial to Cartesian XYZ?
-Say I have a state vector and Keplerian elements of an orbiting spacecraft:
-Position = [x, y, z]
-Velocity = [vx, vy, vz]
-Elements = [a, e, i, $\omega$, $\Omega$, $\nu$]
-And I have the maneuver I wish to perform, expressed as a vector of prograde, normal, and radial velocities:
-Maneuver = [vp, vn, vr]
-How would I transform my maneuver velocities into a Cartesian vector (to add to my initial velocity state)? What does the rotation matrix look like?
-I can qualitatively express how each maneuver component translates into Cartesian XYZ coordinates but I cannot yet figure out how to quantitatively express that.

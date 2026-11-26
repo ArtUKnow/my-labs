@@ -1,2 +1,0 @@
-SED - how to find observed flux
-I have SED dataset - monochromatic fluxes in W m^{-2} m^{-1} and wavelengths. I need to find out the observed flux at the Earth to compare it with the formula $\Phi_{obs} = \left(\frac{\theta}{2} \right)^2 \sigma T^4$. How to do that, please? I tried to integrate the area under the connected SED curves, or apt Planck curve or synthetic spectrum from BSTAR grid. However, the integrated flux is of course smaller, since I do not have the full range of wavelengths. Do you have any ideas or advice? Thanks a lot.

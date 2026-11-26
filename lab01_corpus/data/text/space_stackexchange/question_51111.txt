@@ -1,4 +1,0 @@
-Doesn't dirt get into critical Starship parts?
-I guess that once Starship prototypes are complete they should be pretty weather- and dirt-proof. They should be perfectly sealed and stainless steel is well-suited to life outside (though sometimes I wonder about the tough conditions by the sea in Boca Chica - there must be parts or equipment that rust and get full of wind-blown grit ... anyway ...)
-But the parts are stored outside, final joins take place in buildings without doors and those workers climbing in and out of the hatches don't look particularly clean.
-How does SpaceX avoid problems with dirt, grit and sea salt getting drawn into valves and engines?

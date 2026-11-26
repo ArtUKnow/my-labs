@@ -1,2 +1,0 @@
-Creating a coverage analysis map in GMAT
-If I have an orbiter with an imager, how in GMAT would I retrieve some sort of coverage map? I read this related question which involves seeing where the satellite is visible from the ground, but I’m interested in making a map of what areas of the earth are visible by the imager on the satellite.

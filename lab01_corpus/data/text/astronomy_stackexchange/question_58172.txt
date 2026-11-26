@@ -1,5 +1,0 @@
-What is galaxy internal velocity anisotropy?
-I came across this term in this paper, where the authors propose using galaxy velocity anisotropy to classify galaxies.
-What does this term refer to?
-Is it just the difference between stars and gases velocities at different distances from the galactic centre? Or does it refer to another thing?
-Thanks in advance

@@ -1,7 +1,0 @@
-Do operational Starlink satellites run their ion engines at night on batteries? And if so, do they have hi/low settings?
-Discussion below What is the maximum thrust of the Starlink satellites? raise the question of the Starlink communications satellites' power budget and use of their ion thruster in daylight when the panels are illuminated and delivering power, and "at night" during each eclipse phase when they must run only on batteries.
-For the initial orbit raising phase when they are not generating continuous broadcast, the thrusters could potentially run continuously depending on the details of the power budget.
-But once they are operational, it's possible that the batteries can not provide enough energy to broadcast to Earth and run the ion thruster at full power for the full duration of the eclipse, or even if they could, if the discharge would be so deep that it shortens the battery's life time, or if that matters since SpaceX plans to use them in pseudo-disposable mode.
-I also don't know if the thrusters are just binary "on/full power" and "off", or if they can be run at lower power for station-keeping/altitude maintenance.
-So to start to address these issues I'd like to ask:
-Question: Do operational Starlink satellites run their ion engines at night on batteries? And if so, do they have hi/low settings?

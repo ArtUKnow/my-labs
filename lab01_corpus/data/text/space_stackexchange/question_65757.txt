@@ -1,2 +1,0 @@
-change epoch to ( epoch year and Juilan day fraction )
-the question asks you to make two line element it give you the given information and also everything is answered but the one thing i don't understand in here is how do the change the Epoch 29 sep 2010 18:00:00:00.000 to 10272.41666666. i need someone to explain this to me in detail.

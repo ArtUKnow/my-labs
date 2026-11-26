@@ -1,5 +1,0 @@
-Is escape from earth, hyperbolic in reality?
-I have been reading on orbital mechanics and its strewn everywhere that beyond the escape velocity from any orbit around the earth, the trajectory is a hyperbola that approaches V_infinity and with this velocity we approach other planets (or solar system objects).
-But in reality, isn't the spacecraft leaving the earth's sphere of influence but not yet the Sun's? Giving enough energy to a craft to get out of earth orbit should put it into a heliocentric orbit, which is still elliptic.
-I was convinced of this when I read about the Hohmann transfer, which is an elliptic transfer orbit with Sun at the prime focus. But what still confuses me is the hyperbolic approach (V_infinity approach) is still considered for the spacecraft's rendezvous with the planet's atmosphere or local orbit.
-Is this an approximation? Or am I missing something in my understanding?

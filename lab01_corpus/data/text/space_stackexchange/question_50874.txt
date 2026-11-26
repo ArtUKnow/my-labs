@@ -1,4 +1,0 @@
-Static Fire Tests: How is the rocket prevented from flying?
-In rockets like Starship, if 35 Raptors are firing at same time, then in a full-duration static fire test there would be enormous loads being exerted from 35 raptors, on the clamps holding the rocket. What type of clamps/holding technology is being used to prevent the rocket from flying up (or away)?
-I understand the load on the clamps will be thrust minus rocket's mass, but in a full duration test the rocket's mass will keep on decreasing while thrust will not decrease in same proportion.
-So, how does "holding-the-rocket" technology works?

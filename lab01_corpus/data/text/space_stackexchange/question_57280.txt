@@ -1,7 +1,0 @@
-Calculating accurately area on the surface of Earth visible from a point in space
-What is the name of the area on Earth which can be observed from a satellite? discusses the concept of which area on Earth is visible from a satellite. From the accepted answer, it seems to be assumed to be circular (i.e., a spherical cap).
-However, in order to be completely accurate, I think it would also be required to take into consideration the ellipsoidal shape of Earth, which would make this area not be a perfect spherical cap, but something different.
-From the accepted answer to How to find ring of coverage of GPS Satellite on WGS-84 ellipsoid? on GIS Stack Exchange, it seems like it is better to solve the problem numerically rather through some closed-form solution.
-My question is, is there a real-life situation under which it would be required to take into consideration the ellipsoidal shape of Earth when calculating the visible surface from a satellite? As pointed out by @CuteKItty_pleaseStopBArking, if aiming for this level of accuracy, it would also be required to take into consideration the effect of refraction. If one takes into account the effect of refraction, is it safe to still assume a spherical shape for Earth?
-Any references that discuss these considerations would be greatly appreciated!
-For those interested in the same problem, I have asked about it in Math SE.

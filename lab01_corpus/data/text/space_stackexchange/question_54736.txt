@@ -1,7 +1,0 @@
-Just how raw is the rawest signal data that the Deep Space Network routinely records for safety reasons?
-When we watch videos of some Spacecraft landing there's a big screen with real-time plots of the data coming from the Deep Space Network's antennas.
-Presumably the information is recorded in fairly raw form in case the live data digitization, decoding and analysis is flawed.
-Question: Just how raw is the rawest signal data that the Deep Space Network routinely records for safety reasons?
-For example, the Event Horizon Telescope consists of dishes around the world, each synchronized to a locally generated timebase and the raw baseband signal (~GHz bandwidth) is digitized and written straight to hard drives.
-Is something similar done by the DSN, at least for some critical signals like landings?
-this answer to What part of the EM spectrum was used in the black hole image?

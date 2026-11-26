@@ -1,4 +1,0 @@
-How was the high rate of degradation of Hubble's main mirror initially predicted? Why did it turn out to be lower? Were cosmic rays really a concern?
-This answer to How long was the HST initially supposed to work? in Astronomy SE quotes Assessment of Options for Extending the Life of the Hubble Space Telescope: Final Report as follows:
-Hubble was designed with an anticipated 15-year lifetime based on the expected integrity of the main mirror. It was believed that over HST’s 15-year life the space environment in low Earth orbit would cause sufficient degradation of the mirror that the telescope’s light-gathering capabilities would be severely damaged by cosmic rays and orbital debris.
-Question: How was the high rate of degradation of Hubble's main mirror initially predicted? Why did it turn out to be lower? Were cosmic rays a realistic concern as a meaningful contribution?

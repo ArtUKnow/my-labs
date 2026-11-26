@@ -1,4 +1,0 @@
-What NDT methods use for CFRP based fairing quality check?
-Fairings are made with carbon fiber face sheets sandwiched between aluminium honeycomb cores. What procedures are adopted to detect different manufacturing defects like Debonding, damage cores, cracks etc?.
-For example, as far as I understand, thermographic non-destructive testing (NDT) method is very common in polymer composite. X-rays can also be used to look for any metal inclusions or cracks. Ultrasonic is famous and ideal for composite NDT, frequently use in aircraft composite in-field testing.
-But for fairings, it seems complicated to me. If I'm not wrong, cork TPS (thermal protection system) is sound absorber for example, and would restrict use of any ultrasonic methods. Thermography and X-Ray are not so detailed methods considering complex fairing construction and don't seem feasible.

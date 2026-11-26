@@ -1,4 +1,0 @@
-Could a satellite use a Miniature Atomic Clock (MAC) to provide GPS services?
-I've been investigating GPS satellites and I got curious about onboard atomic clocks. I found this following paper on the concept of a CubeSat GPS constellation using Chip-Scale Atomic Clocks, and even though the Allan Deviation is good enough as the paper mentions, the Aging rate on the clock is of 9E-10 / mo, which if I'm not mistaken would render the satellite pretty much useless after a month.
-I searched and found that Microsemi has released a MAC, or Miniature Atomic Clock that even though slightly larger than the CSAC, has an Aging rate of 5E-11 / month.
-Does this mean that it could be used for a GPS satellite working for about a year, or am I missing something? Would the power consumption be too much for a CubeSat in your opinion?

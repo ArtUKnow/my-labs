@@ -1,2 +1,0 @@
-How did NASA avoid a repeat of the Mars Polar Lander failure?
-One of the most likely causes of the MPL (Mars Polar Lander) crash landing on Mars was the deployment of the legs being mistaken by the onboard computer as touchdown. Phoenix (and later InSight) essentially used the same Lockheed platform as the MPL. How did they avoid the error that caused the MPL to crash in those subsequent missions?

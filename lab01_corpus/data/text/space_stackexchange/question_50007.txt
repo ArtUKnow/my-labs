@@ -1,4 +1,0 @@
-Would an astronaut experience a force during a gravity assist maneuver?
-When an astronaut is inside of a ship accelerating (from engine burns), or decelerating (due to reentry) they experience a tug in a relative direction.
-Suppose an astronaut is in a space ship that is about to undergo a very close approach to a large mass body, as part of a planned gravity assist maneuver.
-What would the astronaut experience inside the ship? Would the same tugging effect happen during a velocity change from a gravity assist?

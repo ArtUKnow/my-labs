@@ -1,2 +1,0 @@
-How to compute the satellite footprint latitude and longitude for different countour?
-Given a satellite coordinates, the antenna gain pattern of the satellite (example a dish antenna at given frequency and with known diameter), the off-nadir angle and the satellite slant range i need to understand how to compute the latitude and longitude for each point of a given specified countour (example -3dB countour).

@@ -1,4 +1,0 @@
-Find Extreme UV data source for the Sun
-I have been struggling to find the Extreme ultraviolet data from the Sun, taken in January 1999. I have already searched NOAA, NASA etc. every places, but not able to find anywhere.
-One thing note that I am looking for time series data with symmetrical gap. For example I need data like every second or every minute or every 15 minutes or every hour or every day.
-Anybody help to find.

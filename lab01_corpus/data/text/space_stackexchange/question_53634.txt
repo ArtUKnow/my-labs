@@ -1,3 +1,0 @@
-Why were the apollo CM RCS thrusters all placed in only one half of the module?
-All the apollo CM RCS thrusters for pitch, roll, and yaw control were placed only in the upper half of the capsule (as seen in the image below). Why is that? (I think I read somewhere that it was due to too much heating of the lower half during re-entry but I am not sure so would be grateful for an explanation/answer!)
-(image source) https://core.ac.uk/download/pdf/10548238.pdf

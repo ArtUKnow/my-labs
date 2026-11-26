@@ -1,3 +1,0 @@
-How to calculate the optimal mass ratio for a multistage water rocket?
-I do know about the Tsiolkovsky rocket equation for optimising multistage rockets, however the equation requires a fixed exhaust velocity which is something that water rockets don't have, however I did figure out the relationship between exhaust velocity and volume of air left in the bottle. Is there some kind of analytical approach for this kind of problem?
-Thanks!

@@ -1,8 +1,0 @@
-Under what conditions can a non-resonant satellite stay hidden from an observer on the ground?
-From the perspective of someone on the ground, a satellite is usually not above the horizon all the time. But can a satellite have such an orbit that it is never above the horizon?
-Such orbits clearly exist. The easiest example is a satellite in geostationary orbit, which will never be visible from the antipode of the stationary foot point.
-However, geostationary and geosynchronous orbits are resonant orbits with an orbital period with a 1:1 resonance to the rotation of the Earth. In the grand scheme of things, such simple fractions are a special case.
-Theoretical motivation: Orbital resonance requires the orbital period to be some rational numbers. The rational numbers form a countable set, while the real numbers do not, so "almost all" orbits are non-resonant.
-Practical motivation: Satellites are subject to various perturbations, requiring active station keeping to stay in a resonant orbit.
-An alternate and equivalent formulation is to find orbits such that a satellite can be located anywhere in it and still stay below the horizon all the time.
-What are the constraints of such orbits?

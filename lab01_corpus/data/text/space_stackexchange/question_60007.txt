@@ -1,4 +1,0 @@
-Gyros for long term attitude control
-James Webb telescope is limited to a 10 year service life by its fuel, as I understand it.
-While propellant would be required to translate the craft for orbital maneuvering, could pure attitude control for pointing at different targets continue to be accomplished by a set of gyros and reaction wheels (electrically powered by solar or radioisotope)?
-What is the failure mode for the orbital maintenance once propellant runs out?

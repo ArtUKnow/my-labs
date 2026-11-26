@@ -1,2 +1,0 @@
-Manual techniques for trajectory design
-I am trying to locate methods of trajectory design that can be performed by hand calculations, specifically for low thrust methods of propulsion like ion thrusters. Can anyone recommend me any tutorials or text books with methods for establishing the Delta V requirements and fuel consumption values. The mission is self I am trying to establish these values for is a mission to Mars

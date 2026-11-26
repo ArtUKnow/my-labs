@@ -1,7 +1,0 @@
-SpaceX Falcon Reusable First Stage Innovations
-What are the top five innovations that SpaceX was able to accomplish that allows the first stage to land vertically and be reused?
-I am sure the Apollo program would have liked to reuse their first stage. What changed between Apollo and Spacex that allowed Spacex to land and reuse first stage assemblies?
-May I guess:
-Better/faster software and computing power
-Better engine modulation
-Thanks, looking for your input.

@@ -1,9 +1,0 @@
-Why put SunRISE in the graveyard? Why will it "fly slightly above geosynchronous orbit"?
-The blots.nasa.gov article NASA’s SunRISE Mission Studying Solar Particle Storms Moves Toward Launch says that the upcoming
-SunRISE mission — short for the Sun Radio Interferometer Space Experiment — passed a mission review on Sept. 8, 2021, moving the mission into its next phase.
-Later it goes on to say:
-Consisting of six miniature solar-powered spacecraft known as CubeSats, the SunRISE constellation will operate together as one large telescope — forming the first space-based imaging low radio frequency interferometer — to create 3D maps pinpointing how giant bursts of energetic particles originate from the Sun and evolve as they expand outward into space. The mission will also map, for the first time, how the Sun’s magnetic field extends into interplanetary space — a key factor that drives where and how storms move throughout the solar system. Data from SunRISE will be collected and transmitted to Earth via NASA’s Deep Space Network. The six CubeSats will span roughly six miles across and fly slightly above geosynchronous orbit at 22,000 miles from Earth’s surface.
-Question: Why put SunRISE in the graveyard? Why will the SunRISE mission "fly slightly above geosynchronous orbit"?
-Why anywhere near geosynchronous at all?
-Why "slightly above" rather than at? Why not slightly below?
-SunRISE measures radio bursts from solar events and transmits the data to NASA’s Deep Space Network. Credit: NASA (single frame from the GIF)

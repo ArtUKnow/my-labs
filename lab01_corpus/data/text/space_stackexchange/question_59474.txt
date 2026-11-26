@@ -1,6 +1,0 @@
-Why was the "lunar launch window" different between the Cape Canaveral and Baikonur launch sites?
-I'm reading A Man on the Moon: The Voyages of the Apollo Astronauts (page 78), and I was confused about this passage:
-As the fall of 1968 wore on, apprehension surfaced once more within NASA. Would the Soviets try to beat Apollo 8 to the moon? Due to the latitude of the Baikonor launch site in central Asia, their lunar launch window opened in early December -- well before the Amercans'.
-What caused the launch window to be different between these two locations, and how was it related to latitude?
-The lat/long of KSC: 28.5729° N, 80.6490° W
-The lat/long of Baikonur launch site: 45.6232° N, 63.3140° E

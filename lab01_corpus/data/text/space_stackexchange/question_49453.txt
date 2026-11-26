@@ -1,2 +1,0 @@
-How to make a model rocket that doesn't spin?
-I'm attempting to build a rocket with 8 fins (four on bottom and four smaller ones towards the top). The four fins near to the top will be attached to servo motors and programmed to stabilize or guide the rocket. The problem I ran into is that if the rocket spins, then the fins will be useless, the rocket would just spiral. So is there something I can do or add to the rocket so that it won't spin? Any help will be greatly appreciated, I'm relatively new at this.

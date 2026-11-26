@@ -1,4 +1,0 @@
-COTS portable X-ray machines in crewed spaceflight; would they work without significant modification?
-Are commercial, off-the shelf (COTS) portable X ray machines likely to work in manned spacecraft, or are there technical reasons why they would need to be significantly modified?
-Do you feel is it feasible to install and check the functions working of the portable X Ray machines in the International Space Station (ISS) for testing?
-In case no, How testing can be performed?

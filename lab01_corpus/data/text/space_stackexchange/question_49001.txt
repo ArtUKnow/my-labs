@@ -1,5 +1,0 @@
-Bishop airlock: explanation of the name?
-Nanoracks' new Bishop Airlock will soon be installed on Node 3 and will provide some cool operational capabilities.
-But, I don't get the name. This Verge article says
-The airlock gets its name from the bishop in chess. The name is meant to reflect the various maneuvers Bishop can make when attached to the station’s robotic arm. It’s also a nod to Nanoracks’ strategy in the future. The company has even bolder dreams of creating its own free-floating space stations made from recycled fuel tanks of rockets. Such stations could also have similar airlocks, and Bishop could even be moved from the ISS to one of those facilities one day.
-This explanation makes no sense to me. Why is the airlock called Bishop?

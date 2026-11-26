@@ -1,4 +1,0 @@
-Moving target during rendezvous
-I am currently studying rendezvous and docking. I noticed the elliptic Hill equations only consider the acceleration of the target satellite due to its elliptic orbit (and fictitious forces in LVLH frame), but not due to any other disturbances or external forces (e.g. thrust).
-Is there a way to rewrite the Hill equations to account for a time-varying origin of the LVLH frame located at the COM of the target due to external forces on it? For instance, by using the Lagrangian equations?
-Thank you all in advance.

@@ -1,6 +1,0 @@
-Were all three Mobile Launch Platforms ever in use simultaneously?
-With an optimistic view on the future, NASA built a Vertical Assembly Building with four bays and three Mobile Launch Platforms. They were later repurposed for the Space Shuttle and other launch vehicles.
-Were the there MLPs ever all three in use simultaneously:
-During use for Saturn launches?
-Post-Apollo?
-"In use" can mean for example two in the VAB for vehicle assembly and one on the launch pad, but all three should have (part of) a launch vehicle attached to it.

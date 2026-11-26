@@ -1,7 +1,0 @@
-Why was it necessary to monitor the water quantity in the space shuttle?
-In space shuttle's operators manual, Page(4.1-4), it is written as:
-The H2O quantity is determined by a PVT calculation based on H2O tank pressure and
-temperature transducer readings as well as GN2 tank pressure and temperature transducer
-readings. The calculated quantity is output to the HYD/APU display and to the SM SYS
-SUMM 2 and SPEC 86 APU/HYD displays
-Why was it necessary to measure water quantity? First and foremost, why was water necessary in the Space Shuttle? I am pretty sure that water was not for drinking purposes. Perhaps for the purpose of cooling but not the engine.

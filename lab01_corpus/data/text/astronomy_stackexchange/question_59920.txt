@@ -1,2 +1,0 @@
-Finding the diameter of the secondary mirror of a Newtonian telescope
-There's a question about Newtonian telescopes i'd like to share with you. In such a telescope, we have secondary mirror at 45-degree angle - near the telescope aperture - and so we have the image right next to the telescope tube in the eyepiece. How can we find the diameter of the secondary mirror with the lengths given in the picture?

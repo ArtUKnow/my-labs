@@ -1,7 +1,0 @@
-The Boeing Big Onion - Why not use the atmospheric engines on landing?
-https://www.aerospaceprojectsreview.com/blog/?p=1325
-In relation the the Boeing "Big Onion" SSTO LV, I was doing some brief digging on it's flight profile.
-(See the awesome Hazegrayart animation of the same name.)
-It seems the atmospheric jets were only used on take-off, not on the landing or descent, instead relying on it's LH2/LOX engines.
-Would this be because of the lower thrust of the atmospheric engines, or maybe the difficulty of restarting the engines on descent, what with the intakes being upward-facing...
-Anyway, all help on this question is appreciated.

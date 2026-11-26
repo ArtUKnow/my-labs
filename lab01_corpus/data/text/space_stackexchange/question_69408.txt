@@ -1,9 +1,0 @@
-Could the Space Shuttle Reenter upside down?
-I understand that the space shuttle utilized aerodynamic steering during its entry phase. While I am sure most of their control objectives could be achieved with very shallow bank angle, I am curious if any missions required more dramatic banking.
-I can envision (quite vividly with Kerbal Space Program) utility for extreme bank angles if significant turning is needed. Additionally, I can envision utility for bank beyond 90 degrees if the descent rate needs increasing.
-So the questions are as follows:
-What bank angle bounded typical reentry maneuvers?
-Are there any notable instances where extreme bank (beyond that which bounded typical reentry maneuvers) was employed?
-Were 'Inverted' reentry attitudes ever used or considered?
-To be clear, I am talking about bank angles independent of angle of attack. There is no conflict in these attitudes with heat shielding.
-To give a visual aid, the following picture shows a space shuttle with the same angle of attack entering at a variety of attitudes related to this question.

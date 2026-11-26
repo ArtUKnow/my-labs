@@ -1,3 +1,0 @@
-Did Mariner 9 have a magnetometer?
-While doing research for this question, I found conflicting info on Mariner 9. There are websites that say it included a magnetometer, such as here and here. But NASA's site doesn't list it and wikipedia doesn't either.
-Did it actually include a magnetometer?

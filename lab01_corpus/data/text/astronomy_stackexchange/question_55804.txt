@@ -1,3 +1,0 @@
-Gravity is inversely proportional to the distance squared, and tidal forces to the distance cubed. Is there any phenomenon inv/prop to the distance^4?
-Kinda ran out of characters for the title so had to improvise. Gravity decreases with the square of the distance due to the inverse-square law, and tides are inversely proportional to the cube of the distance since they're the difference between gravity.
-So one would assume that if a gravitational phenomenon exists that's inversely proportional to the fourth power of the distance, it would be the difference between tides. If so, does it have a name? And if not, does any similar phenomenon that scales to 1/d^4 exist?

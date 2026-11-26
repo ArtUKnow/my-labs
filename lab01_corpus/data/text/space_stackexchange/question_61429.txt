@@ -1,4 +1,0 @@
-How would I calculate the resulting orbit of Dimorphos around Didymos A after the DART mission?
-I have been trying to find a way to calculate how the DART mission affected Didymos A, independent of NASA's findings. I found one answer to this question, but it was as if they ignored Didymos A and treated the whole system from a sun perspective. I don't want this, and would prefer an answer that is from the perspective of Didymos A.
-What I need to calculate is the resulting orbital period, as a way to calculate the error of my calculations from NASA's.
-When I do this myself, the numbers don't line up. Any ideas?

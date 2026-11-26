@@ -1,4 +1,0 @@
-Why are the JWST sunshield hot side average temperatures cycling?
-I've noticed that the JWST hot side sunshield average temperatures were fairly steady during its travel to L2.
-Now its orbiting at L2 the hot side sunshield average temperatures are cycling?
-I have been entering the daily JWST temps available from the Nasa webb site 'Where is Webb' into an Excel spreadsheet. From the resultant graphs I have guessed the temperature swings on the JWST hot side are likely due to the telescope being re-aligned to lock onto a star. The sunshield angle to the Sun would change slightly, which would alter the temperature on the shield. I hoped for an answer that would end my guessing.

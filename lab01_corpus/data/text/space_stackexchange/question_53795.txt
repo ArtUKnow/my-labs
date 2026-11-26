@@ -1,5 +1,0 @@
-Measuring and analyzing the tumble of space debris
-How well or accurately can we measure the tumble of space debris?
-I know that we can make ground-based measurements based on light curve data acquired by telescopes. Can tumble be measured from radar data?
-What percentage of space debris do we already have tumble data for?
-Primarily, I am wondering if there are currently any space-based methods for analyzing tumble.

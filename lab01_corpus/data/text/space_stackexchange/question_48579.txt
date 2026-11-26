@@ -1,4 +1,0 @@
-Are crewed spacecraft missions that appear stationary from the ground possible?
-I've looked at https://en.wikipedia.org/wiki/Spacecraft and the following question arose.
-For crewed spacecraft missions, can a spacecraft remain stationary in the sky i.e. not moving once launched and deployed, more similar in appearance to a helicopter rather than that of an aeroplane?
-If possible but unlikely due to technical challenges, what would those challenges be?

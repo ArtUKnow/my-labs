@@ -1,4 +1,0 @@
-Tradeoffs between axial burning and radial burning of solid propellant boosters?
-What are the tradeoffs between axial burning and radial burning of solid propellant rocket motors?
-How would someone determine which to choose according to the mission requirements?
-In general has there been a clear winner, or are both used?

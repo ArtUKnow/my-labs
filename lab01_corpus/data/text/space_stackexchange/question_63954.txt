@@ -1,7 +1,0 @@
-Does SpaceX expect 1 collision involving one of their Starlink satellites every 2 years?
-I read on https://gizmodo.com/spacex-starlink-satellites-dodge-137-objects-daily-1850616506
-by Passant Rabie:
-A new report revealed that Starlink satellites had to make 25,000 collision avoidance maneuvers in the six-month period between December 1, 2022 to May 31, 2023, Space.com first reported.
-SpaceX had previously stated that it would move its Starlink satellites if there is a greater than 1 in 100,000 chance of a collision with a piece of orbital debris or another satellite.
-Does that mean that with the current fleet of Starlink satellites and the current threshold to move a satellite based on the chance of a collision, SpaceX expects 1 collision every 2 years? That seems a bit high to me, not to mention that the fleet is expected to increase tenfold (~4k->~40k). Or are some of those numbers off or outdated, or is my understanding
-incorrect?

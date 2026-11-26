@@ -1,9 +1,0 @@
-First Ham Radio contact from space; what frequency, what kind of antenna, and how did they route the coax out the window?
-From Phys.org's Earthlings and astronauts chat away, via ham radio:
-NASA astronaut Doug Wheelock was just a few weeks into his six-month mission at the space station when feelings of isolation began to set in. Wheelock would be separated from loved ones, save for communication via an internet phone, email or social media. At times, the stress and tension of serving as the station's commander could be intense. One night, as he looked out a window at the Earth below, he remembered the space station's ham radio. He figured he'd turn it on—see if anyone was listening "Any station, any station, this is the International Space Station," Wheelock said. A flood of voices jumbled out of the airwaves.
-The article goes on to say:
-The first amateur radio transmission from space dates to 1983, when astronaut Owen Garriott took to the airwaves from the Space Shuttle Columbia. Garriott was a licensed ham who, back on Earth, had used his home equipment in Houston to chat with his father in Oklahoma.
-Garriott and fellow astronaut Tony England pushed NASA to allow amateur radio equipment aboard shuttle flights.
-"We thought it would be a good encouragement for young people to get interested in science and engineering if they could experience this," said England, who was the second astronaut to use ham radio in space.
-and it goes on to describe "an almost-all-volunteer organization called Amateur Radio on the International Space Station, or ARISS"
-Question: For the 1983 ham radio contact mentioned above, what wavelength and what kind of antenna were used, where was the antenna, and how did they route the coax out the window and still keep a good seal? (that last bit is humor)

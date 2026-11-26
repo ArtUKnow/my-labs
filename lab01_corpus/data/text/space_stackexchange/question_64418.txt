@@ -1,3 +1,0 @@
-Gibbs' method and position vectors' reference frame
-As mentioned on this website https://www.studeersnel.nl/nl/document/technische-universiteit-delft/flight-orbital-mechanics-and-propulsion/chapter-05-preliminary-orbit-determination/4604099, we need to use geocentric position for the 3 vectors to get orbital elements.
-In my case, i have the position vectors defined in an ECEF frame, is it ok to use it as an input or should i convert my positions into ECEI?

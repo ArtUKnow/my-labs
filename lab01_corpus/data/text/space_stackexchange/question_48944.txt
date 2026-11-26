@@ -1,2 +1,0 @@
-Using nuclear detonations for propulsion
-The proposed orion propulsion system used nuclear explosions to push against a giant shock absorber and propell it, but from my understanding, nuclear explosions only produce heat and rely on the surrounding atmosphere to produce the destructive pressure. My question is, would such a propulsion system need a reaction mass, say hydrogen, to provide the actual explosion, and if it did, would it still be worth it or would a thermal engine be more efficient, or, is there something else providing pressure, such as radiation?

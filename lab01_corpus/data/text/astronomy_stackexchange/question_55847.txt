@@ -1,5 +1,0 @@
-Where is the vernal equinox of Mars located?
-Dear Esteemed Astronomers, could you kindly advise how to find/derive the location of the Martian vernal equinox? Is it simply located at the cross product of Mars's north pole and the normal to Mars's orbital plane? It feels like an introductory problem, and I missed the first page! Is there a textbook I should read?
-I believe Mars's north pole can be found on the NASA fact sheet (blue pole), or alternatively via the IAU's recommendations on cartographic coordinates and rotational elements (cyan trace). Plotted onto a celestial sphere, these two seem in close agreement with the conventional/googleable answer that the pole lies near Cygnus, see below. I expect the IAU answer would lie closer if I added in the full corrections for the ~0.24 odd Julian century that has passed.
-The normal to the orbit (orange/gold) I think can be located by rotating earth's celestial pole by Mars's inclination to orbit (~25.2°)
-The cross product of these two vectors aligns with the Martian ecliptic/orbit and sits between Sagittarius and Scorpio. Is that the slam dunk?

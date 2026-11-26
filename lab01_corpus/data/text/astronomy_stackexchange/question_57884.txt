@@ -1,7 +1,0 @@
-Distance from Earth to Sun averaging method in AU definition
-Historically, $1~\text{AU}$ is defined as $1/2(r_{min}+r_{max})$, but the problem is that this is not the average radius if Earth orbit would be transformed into circle, with Sun at the center and Earth flying around with $r=\text{const}$. If we want to extrapolate true average radius of Earth "circle orbit to be", then we need to compare ellipse orbit and circle orbit areas, $\pi ab=\pi r^2$, from which we can deduce average distance from center to circle orbit: $$\overline r = \sqrt {ab} \tag 1$$,- which obviously is geometric mean of ellipse semi-major and semi-minor axis.
-Now given Earth orbit axis parameters $$ a \approx 149~597~500~\text{km} \\ b\approx 149~576~567 ~\text{km} \tag 2$$
-we can substitute them into (1) getting geometric mean shift from the current AU definition by $$1 AU - \overline r \approx 10~837~\text{km} \tag 3,$$
-which means that if Sun would be in the center of circle and Earth had an ideal circle orbit,- then this orbit radius would be by over $10~\text{million meters}$ smaller than it is currently defined as 1AU, "average distance to Earth".
-Question: Why it was chosen average distance from Earth to Sun be simply orbit semimajor-axis even if circle formed from it area $\pi a^2 \neq \pi ab,$ current ellipse area and semi-minor axis is completely ignored when defining AU ?
-Residual question is about pluses/minuses of having my proposed AU definition instead, which truly averages Earth orbit.

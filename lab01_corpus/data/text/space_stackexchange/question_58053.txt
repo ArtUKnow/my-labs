@@ -1,9 +1,0 @@
-Why does Q-SAT look like a buckyball?
-Tech.China.Com.cn's August 7, 2020 article Tsinghua University Successfully Launched Gravity and Atmospheric Science Satellite (Chinese, title translated to English) includes the image above of what I believe to be 2020-054B or 46026 or "Q-SAT" or "Tsinghua Gravity and Atmospheric Science Satellite".
-From Space.com's China launches 2 satellites from desert launch site
-Riding along with the Gaofen 9 payload was the Tsinghua gravity and atmosphere scientific satellite, or Q-SAT, which was developed by Tsinghua University in Beijing. The project will verify technology and will measure atmospheric density and collect gravity field data, according to
-See also Xinhuanet.com's China launches new optical remote-sensing satellite
-Question: Why does Q-SAT look like a buckyball? It appears to have a spherical surface but with subsections that follow the faces of a truncated icosahedron (12 pentagons & 20 hexagons), which is also the shape of a C60 "buckyball" or buckministerfullerene. Why? Is this just convenience or is there some reason for this that we can read further about?
-Note that there is one difference between this pattern and that of the "Humanity Star"
-What is the name of the polyhedral shape of the Humanity Star?
-Does Humanity Star have non-reflective triangular panels? If so, what are their characteristics?

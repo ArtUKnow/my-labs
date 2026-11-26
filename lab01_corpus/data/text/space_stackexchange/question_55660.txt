@@ -1,4 +1,0 @@
-When the ISS is de-orbited, what is the likely mass of the largest impact fragment?
-Some parts of the ISS will be more fragmentation-proof than others. Engine bells and pressure vessels, for instance.
-Has NASA done a formal assessment of component survivability to determine what big chunks will survive re-entry?
-Are there plans to modify the ISS prior to de-orbit to reduce fragment size or number.? For instance a "rapid planed disassembly" post de-orbit burn ?

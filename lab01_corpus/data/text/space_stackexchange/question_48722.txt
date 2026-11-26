@@ -1,7 +1,0 @@
-Are we sending data for extraterrestrial SETI/METI?
-The SETI project is trying to detect radio transmissions of aliens.
-Assuming the ET have their own SETI using very similar technology to ours, are we sending data for them to receive?
-If we are not sending data then it is very likely they are not sending either.
-It is unrealistic to not send signals but to expect them to do the opposite.
-Amateur radio can not exist when everyone is listening but nobody bother to transmit.
-The question is about present and past attempts

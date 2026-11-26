@@ -1,2 +1,0 @@
-Meteor visibility from two locations
-If I observe a meteor entering the atmosphere at the zenith from my location. How far does a second observer have to be from my position to see the meteor 10 degrees above the horizon. Or what is the location limit to just not see the meteor?

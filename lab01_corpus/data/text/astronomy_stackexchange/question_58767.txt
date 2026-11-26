@@ -1,8 +1,0 @@
-Bolometric luminosity in solarluminosity units to Luminosity per Hz modelling
-I have estimated the bolometric luminosity of an accreting BH (from a model) as $$L_{bol}= \eta \dot{M}_{BH}c^2,$$
-where $\eta$ is the radiative eficciency, $\dot{M}_{BH}$ the accretion rate of the BH and $c$ the speed of light. This is in units of $L_\odot$.
-I want to build a model to compute the luminosity in a given filter, so the logic step is to obtain $L_{\nu}$. My initial guess is to asume that the emission comes from the accretion disk and the jet (with efficiency $\eta_{jet}$) as $L_{\nu}=L_{\nu}^{disk}+L_{\nu}^{jet}$. My question starts here, if the accretion disk is modeled as a thin disk, I can approximate $$L_{\nu}^{disk}=\frac{\eta}{\eta+\eta_{jet}}L_{bol}f_{\nu}^{disk},$$
-where $f_{\nu}^{disk}$ is ormalized spectral profile of the disk component. Assuming a simple model $f_{\nu}^{disk}\propto \nu^{1/3}$. My question is here, what are the units of last equation? would it be $[L_\odot\, {\rm Hz^{1/3}}]$?.
-Because then I want to compute the luminosity in a given filter as
-$$L_{filter}= \frac{\int L_{\nu} R_{\nu}(\nu)d\nu}{\int R_{\nu}(\nu)d\nu}$$, where $R_\nu (\nu)$ is the response function of the filter, and the units should be in units of $4.4659\times 10^{13}~[{\rm W/Hz}]$ which is the zero point of the AB magnitude system. It is trivial to convert $L_\odot$ to $W$, but my question is related to the ${\rm Hz}$ units, which I really want to understand.
-Many thanks!

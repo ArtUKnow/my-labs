@@ -1,6 +1,0 @@
-How to calculate catalyst bed geometry (length/radius) for a monopropellant thruster?
-Catalyst design is central to the development of monopropellant thrusters and hence, ignoring its importance, as I have realised, is not very good practice. My question is if the mass flow rate, bed loading, chamber temperature and pressure are known, is there a simple hard-and-fast means to determine a rudimentary geometry?
-Edit: I have since found two examples of equations used to determine catalyst pack length, both of which are a product of catalyst diameter.
-The first example (equation 9) seems pretty straight forward however I am unsure what the variable R_u represents (it isn't mentioned anywhere else) and;
-The second example-I have no idea what going on with this, all the values are there but I can't seem to get the right answer. I think the m^2 symbol implies that the answer is the square root but is still incorrect.
-I have been struggling with this for some time so if anyone could tell me what I am doing incorrectly it would be greatly appreciated!

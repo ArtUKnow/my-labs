@@ -1,2 +1,0 @@
-Trimble RTX Correction Service
-I am researching the GNSS field, the topic of "Trimble RTX Correction Service". Is it possible to collect a file containing the corrected data from the global reference stations? And if so, how can I collect this correction message?

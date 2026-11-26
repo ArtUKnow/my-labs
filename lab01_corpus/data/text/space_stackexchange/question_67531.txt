@@ -1,4 +1,0 @@
-Could the shuttle have avoided the umbilical plate if the LH2 and LOx had been piped directly to the nozzles?
-One of the riskier components of the Shuttle's design (that fortunately never failed) are the umbilical doors on the rear underside of the orbiter.
-There are probably aerodynamic and structural reasons for this, but I was wondering if it was possible to have the fuel and oxidizer piped on the exterior of the vehicle, maybe with some sort of detachable or permanent piping assembly.
-I'm sure that would be a difficult and unreasonable design, but I'm wondering what specifically wouldn't work with it? I would think NASA would not have introduced the extra risk imposed by umbilical door failure without good reason, especially considering that, according to an astronaut, they had not developed a realistic procedure for manually closing them on orbit if that was required.

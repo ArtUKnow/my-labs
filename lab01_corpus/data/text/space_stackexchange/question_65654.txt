@@ -1,3 +1,0 @@
-Why was Starship on IFT3 spinning?
-During SpaceX testflight on IFT3, Starship aka S28 was spinning around its axis. It was very visible in the live stream and also concerning. During reentry its heatshield was facing the wrong way because of the spin, possibly causing it to burn up. Was it out of control or was it a normal spin?
-https://www.spacex.com/launches/mission/?missionId=starship-flight-3

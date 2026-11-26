@@ -1,4 +1,0 @@
-What are topocentric (ground station) frames like ENU (East/North/Up) and SEZ (South East Z/Up) generally referenced to?
-@ChrisR's answer to "GMAT: Is there a way to specify an ENU frame centered on a satellite?" is illuminating, but now I'm wondering:
-Are topocentric (ground station) frames like ENU (East/North/Up) and SEZ (South East Z/Up) referenced to the WGS84 ellipsoid, the station-local geopotential and its gradient, local GPS lat/lon directions, a simple sphere around Earth's center of mass, or something else?
-Or perhaps are these just named categories of frames, and a given implementation defines them the way they like?

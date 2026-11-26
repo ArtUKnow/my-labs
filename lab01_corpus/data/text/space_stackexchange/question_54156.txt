@@ -1,7 +1,0 @@
-Why shadows of the blades on Ingenuity navcam photos looks brighter than shadows of the legs?
-Consider this photo from the Ingenuity navcam on the first (?) flight:
-You can see that the shadows of the blades seem brighter than the shadows of the legs. It's especially noticeable when they overlap.
-It looks like the blades are kinda transparent. But that's not the case: Even if the camera works in near IR, carbon blades shouldn't be transparent.
-So what is the reason?
-Does Ingenuity make HDR images by combining "short-exposure" (blades look still) and "long-exposure" (blades do full revolution)?
-And why does the shadow of the upper-left (on photo) blade show a gradient? (It's brighter closer to the body of the copter)

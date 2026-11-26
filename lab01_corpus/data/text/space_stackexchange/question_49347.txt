@@ -1,9 +1,0 @@
-Direction of heliocentric entry velocity for fly-by coming from interplanetary Hohmann transfer?
-I'm following Curtis's equation on interplanetary transfers. I'm confused by the direction of the entry Heliocentric velocity for a fly-by.
-If the assumptions is that orbits are:
-Coplanar, cofocal and circular and
-we come from a Hohmman transfer.
-Shouldn't the heliocentric velocity for the entry hyperbola be in the same direction as the planets heliocentric velocity?
-From the Hohmman transfer we know the entry velocity is only in the perpendicular component and the fact that orbits are circular makes the planets velocity direction also perpendicular then both should be parallel.
-From the figure $\mathbf{V}_1^{(v)} \displaystyle \parallel \mathbf{V}$ ?
-Any help will be apreciated!

@@ -1,5 +1,0 @@
-Could the 2029 approach of 99942 Apophis perturb the orbits of GSO satellites?
-Thinking about this question, I remembered that on the 13th of April 2029, the asteroid 99422 Apophis will pass within geostationary orbit distance - Apophis will be around 31,600 kilometres at closest approach, GSO distance is 35,786 km.
-Wikimedia Commons image of the path of closest approach
-The mass of Apophis is 'only' around 6.1×1010 kg and as can be seem from the image above, probably won't directly pass through the orbits of any satellites.
-So if a GSO satellite is close enough to Apophis during this approach, could the satellite's orbit be perturbed?

@@ -1,7 +1,0 @@
-How can I build a gear-based mechanism to calculate solstices, equinoxes, and cross-quarter dates?
-I realize there are boundless amounts of information as to the formulas to calculate solstices, equinoxes, and cross-quarter days, but I would like to design a gear-based mechanical solution for the same problem.
-I already created a wood gear clock that includes an EOT (equation of time) dial, but that seems easy in comparison to my current challenge. For EOT, a kidney cog was the solution to allow the varied offsets for LST (local solar time) vs. civil time.
-Many folks seem to just take the easy way out by using the average date of the various events and are satisfied. I prefer a more accurate approach.
-For example, I build wood gear clocks that take into account leap years instead of just relying on the clock's owner to back up the date by a day in February once every four years.
-The key to the answer I seek is simplicity wherever possible. Calculating the size and shape of a kidney gear is fine. But building something to rival Charles Babbage’s Analytical Engine is beyond the scope of my project.
-Thanks in advance for any helpful suggestions, solutions or advice you may be willing to offer!

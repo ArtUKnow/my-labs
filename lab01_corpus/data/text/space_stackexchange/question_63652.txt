@@ -1,4 +1,0 @@
-How does SpaceX Raptor deliver a more benign turbine environment?
-Raptor has been claimed to be able to deliver "long life ... and more benign turbine environments".
-https://en.wikipedia.org/wiki/SpaceX_Raptor
-The Raptor has hot oxygen flowing out of the oxidizer preburner. This limits material choices to avoid severe oxidation. How and compared to what does that deliver a more benign turbine environment?

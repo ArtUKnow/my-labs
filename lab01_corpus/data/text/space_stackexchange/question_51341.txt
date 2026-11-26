@@ -1,9 +1,0 @@
-Is it normal for the US Space Force to warn companies about a possible collision (conjunction)?
-I've read a German news article today (Golem.de) stating that there was a conjunction between a Oneweb satellite on its ascension course and a SpaceX satellite.
-The US Space Force warned Oneweb that there is a chance of 1.5 % of a collision as the satellites will be very close (58 m estimated). SpaceX turned off the automatic collision prevention and Oneweb could alter the course to prevent the collision completely.
-According to their website the US Space Force has:
-A global network of space surveillance sensors provide vital
-information on the location of satellites and space debris for the
-nation and the world.
-And clearly it is working.
-I wondered if that is normal procedure? Do companies have to pay for this service, or is it done for the greater good (like no one benefits from more space debris)?

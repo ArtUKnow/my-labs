@@ -1,6 +1,0 @@
-What determines the length of an Eclipse season?
-The length of an eclipse season is between 31 and 37 days (Wikipedia). But when is it shorter and when is it longer?
-My thoughts:
-When the Moon is closer to us it has a bigger angular size, which would make the eclipse region bigger, thus making the eclipse season longer.
-But when it comes to the Sun-Earth distance, I'm not sure what its effect would be. On one hand, when the Sun is closer to us it has a bigger angular size. On the other hand, when Earth is near perihelion it moves faster, and it may leave the eclipse region faster.
-(Also I would appreciate if one can give more precise values for the length of the eclipse seasons than whole days.)

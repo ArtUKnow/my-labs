@@ -1,5 +1,0 @@
-When should we use direct O(N^2) N-body simulation (instead of other methods)?
-I've read a small tutorial on N-body simulation methods. What it says about direct N-body simulation is:
-These codes are often used in star cluster dynamics or in other contexts where multiple stars and collisional (relaxation) effects are important
-I am a little confused as I discovered that many researchers in fact use NEMO's gyrFalcON or some tree codes for cluster simulations. Does it mean that direct O(N^2) simulation is no use?
-Are there ANY task from your experience where it is crucial to use direct O(N^2) N-body simulation (instead of other methods)?

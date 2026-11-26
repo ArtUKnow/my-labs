@@ -1,5 +1,0 @@
-Is the telemetry from the Apollo Lunar rovers available?
-Are there publicly-available datasets of the telemetry from the Apollo lunar rovers? Was rover telemetry even recorded during those missions?
-If such datasets exist, I would love to retrieve the (timestamped) trajectories taken, velocity profiles, power consumption, rover tilt, etc. and plot them on top of an orbital map of the sites explored.
-Edit: Why am I asking this question?
-I'm interested in quantifying trends in the telemetry collected by those rovers (if any) during their traverses over several kilometers. First, this could highlight the degradation of specific rover subsystems. Second, I am really interested in seeing whether astronauts were more cautious at the beginning of their mission and got more "comfortable" (or efficient) with their rover driving behaviors towards the end of their expedition. This should be reflected in the rover telemetry, if it exists.

@@ -1,3 +1,0 @@
-Are the Jupiter-Io Lagrange points stable?
-Lagrange points are solutions to the three-body problem. Moving among Jupiter's Galilean moons seems likely to be at least a six-body problem, so there is no reason to assume the three-body solutions work -- ie, Ganymede is going to have an influence on the stability of any orbit near Io or Europa. But, the moons are all in resonance, so their mutual effects won't be random. Can anybody point me at a discussion of how that works out?
-In response to comments: I'm just interested if anyone has examined what happens -- if the Lagrange points are metastable but eventually test bodies get punted, how long does that take? or if there are still stable points, do they move from the standard +/- 60º positions?

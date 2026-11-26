@@ -1,8 +1,0 @@
-Is there an atmospheric pressure model for Mars that takes different temperatures and seasons into account?
-Credit: NASA/JPL-Caltech.
-Above are the pressure data from Curiosity's REMS sensor for the first 200 sols at Gale crater.
-At about sol 170 Mars was at perihelion and a month later it was southern summer solstice and you can see the influence of the sublimation of the polar dry ice cap on the global pressure,
-With the Mars Atmosphere Model I calculated that at Curiosity's landing site with an elevation of minus 4500 m. the pressure would be about 1096 Pa, considerably higher than the REMS measurements.
-The difference could be caused by the near surface temperature of around zero at the time while I think the model takes much lower temperatures into account.
-Because both the near surface temperature and the time of the year (because of the sublimation of the south polar ice cap) appear to have a big influence on the atmospheric pressure, isn't there an atmospheric pressure model for Mars that takes those factors into account ?
-So please no complex computer program, but a model with some simple equations.

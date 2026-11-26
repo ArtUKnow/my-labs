@@ -1,2 +1,0 @@
-Ideas and Requirements for the Global Cosmic-Ray Observatory (GCOS)
-After a successful kick-off meeting in 2021. two workshops in 2022 and 2023 on the future Global Cosmic-Ray Observatory (GCOS) focused mainly on a straw man design of the detector and science possibilities for astro- and particle physics. About 100 participants gathered for in-person and hybrid panel discussions. In this report, we summarize these discussions, present a preliminary straw-man design for GCOS and collect short write-ups of the flash talks given during the focus sessions.

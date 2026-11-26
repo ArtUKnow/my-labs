@@ -1,5 +1,0 @@
-Are there multiple types of UTC time?
-I have been checking in detail the specifications of RINEX navigation files version 3.05, and something in the definition of the header of these navigation files caught my attention.
-One of the lines that the header can contain is labeled as "TIME SYSTEM CORR". The last field of this line is an integer which, judging from what is described in Table A5 of the linked specifications (page 66), seems to specify the exact UTC type to which the system time correction is performed. There seems to be at least 7 (!) of these: UTC(NIST), UTC(USNO), UTC(SU), UTC(BIPM), UTC(Europe Lab), UTC(CRL) and UTC(NTSC) (BDS).
-I am aware that there are different Universal Time (UT) time scales, related but not equivalent, such as UT0, UT1, UT2 and UTC.
-However this seems to be a whole new level. Is my interpretation correct in that there are in fact not just one, but multiple UTC definitions/implementations? If so, how do they differ?

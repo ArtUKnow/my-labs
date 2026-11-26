@@ -1,7 +1,0 @@
-What would have to be done to Perseverance's twin rover Optimism to make it capable of a limited Mars roving mission?
-A comment under If the James Web Space Telescope goes up in smoke, is there a backup? mentions that the Perseverance rover has a twin and supports that with a link. I looked, expecting to see some mock-up that was not even close, and was surprised to see that it linked to the NASA JPL video Twin of NASA’s Perseverance Mars Rover Now on the Move! The video introduces the
-Mars 2020 Test Rover VSTB; "Optimism"
-and narration begins:
-The Vehicle System Test Bed is an engineering model version of the Perseverance rover, which means that it has all the same electronics as Perseverance. It's important for Perseverance to have a twin so that we have a place where we can test things before we actually operate Perseverance.
-And once we do land on Mars, we can test out all the sequences and plans that we have for the rover, before we actually send them up to Perseverance on the surface of Mars.
-If in some Armageddon meets The Martian mashup scenario a rover needed to be sent to Mars to do some single critical thing like push a button and Pete Davidson was not available due to some previous button-pushing-related accident, what would have to be done to Perseverance's twin rover Optimism to make it capable of a limited Mars roving mission?

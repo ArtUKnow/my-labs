@@ -1,4 +1,0 @@
-Large scale structure/Single galaxy simulation on GPU
-I noticed that most of the tools for cosmological simulation (e.g. large scale structure or single galaxy evolution) are based on GADGET. It only allows to use CPU.
-Why not GPU? What is the main obstacle? Is it computationally ineffective for this type of simulations, and if so, why?
-Are there any other tools for cosmological simulations that make use of GPU?

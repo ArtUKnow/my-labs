@@ -1,6 +1,0 @@
-Could an electrically pumped rocket stage position its batteries to enable it to re-enter stably nose-first?
-Are the batteries in existing or planned electrically pumped rocket stages massive enough to change the centre of mass of the empty stage such that new re-entry strategies are available?
-e.g.
-Could the batteries be placed at the top of the stage so that it could re-enter nose first stably?
-or
-Allow a sideways skydiver re-entry with air-brakes of similar relative size fore and aft to the ones on SpaceX's StarShip?

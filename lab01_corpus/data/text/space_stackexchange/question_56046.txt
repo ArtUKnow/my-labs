@@ -1,9 +1,0 @@
-How will SpaceX build a SuperHeavy launch mount at LC39A, an active launch pad?
-We have seen how fast SpaceX built the Boca Chica launch mount. We also saw the approach of building the base, then lifting segments built offsite (At the gas well site) to assemble them.
-However, as Musk just announced that they are starting work on the Florida launch site, at LC39A it makes me wonder... How do you run an active launch site, launching a 1.3 million lb thrust vehicle, right next to a construction site.
-Someones porta potty is gonna blow over fer sure! And way way worse. LC39A is kind of big. (Everything Saturn V related was kind of big)
-But more seriously, the set up/take down for everty LC39A flight, which is trending towards 1-2 launches a month, seems like a ton of overhead.
-Now to argue against myself, at Boca Chica, they are testing a 400KLbs thrust vehicle while building a similarly sized structure. (3 engine tests are 1.2 million lbs thrust). But those were mostly short static fires, rare/occasional test flights (And they did move the porta potties when they tested, not providing a reference to that, go away Uhoh).
-But a full orbital launch bathes the pad in a lot of thrust until it is high enough not to matter.
-Things that make you go, Hmm... I cannot wait to see how they manage this task!
-Also, here is hoping Mechazilla 2.0 gets legs and can walk! And looks more like a Gundam!

@@ -1,9 +1,0 @@
-Satellite position using 2 station ranging
-Two Station Ranging
-Given the position of 2 stations and the distance between both and the satellite (in km, say) and the fact that the orbit is geostationary and positioned at 45.1(degrees) west, satellite position is to be determined.
-What I've done so far is calculation of distance between stations (just to understand how things work), but I could not come up with a solution for the satellite position. We are also given a specific date (I assume that should help but how?)
-------- EDIT -------
-What I already know from this illustration are:
-r1, r2, R1, R2, and that T is perfectly geostationary (let's assume an ideal world), and positioned at 45.1 deg West. I don't see how to easily obtain azimuth angles phi1 and phi2, and also the distances R1(y) and T(y). Based on the fact that the satellite is at 45.1 West, how do we calculate T(y)?. Any suggestions on that?
-------- EDIT -------
-Based on How to calculate Azimuth/Elevation of a satellite? I calculated azimuth angle and obtained Y coordinate of satellite. Formula for elevation is provided too but I can see that these all apply for single station positioning and it is not as precise as 2 station positioning. Paper https://iopscience.iop.org/article/10.1088/1742-6596/1168/5/052056/pdf describes the method for calculating the errors but not the actual values. Any suggestions on that?

@@ -1,3 +1,0 @@
-Radio antenna used to communicate with the Telstar 1 satellite in 1962
-Related to Why was Telstar 1 put in a 952 x 5933, 2.6 hour 44.8° MEO orbit?.
-The satellite ground station at Andover, Maine, that was used to communicate with the Telstar 1 satellite was a horn antenna. Why was a horn antenna used instead of parabolic dish antenna?

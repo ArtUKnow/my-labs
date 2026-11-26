@@ -1,3 +1,0 @@
-What does "Common frequency offset" plot means in gnss raw measurements?
-I'm using Google's MATLAB code to analyze raw gnss measurement made with gnsslogger android app. In plots, there is one in particular that I don't understand the meaning, which is "Common frequency offset" plot. At first I thought it was how much the "Common bias clock offset" was varying, but as you can see, when this latter gets a spike, the "Common frequency offset" doesn't change much. So what is the meaning? I searched everywhere but haven't found anyhting. Has Doppler effect something to do with it?
-$$ \mathbf{x} \text{ axis is time (seconds)}$$

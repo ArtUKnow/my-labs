@@ -1,6 +1,0 @@
-When was the last time that an incandescent light bulb was launched into space?
-Certainly the first crewed spacecraft had some incandescent light bulbs for indicators, though for cabin illumination the higher efficiency of fluorescent lights was often exploited. The question First use of an incandescent light in an un-crewed spacecraft? covers spacecraft not intended for crew, and touches on the question of non-human occupants.
-But here I'd like to simply ask:
-Question: When was the last time that an incandescent light bulb was launched into space? Crewed or uncrewed, when was a hot filament launched that was intended to be used to produce light that was used to illuminate something for the purposes of someone or something seeing or imaging it?
-This excludes filaments used to warm things by thermal radiation or for thermionic emission of electrons or surface ionization to produce ions, so excludes heaters, electron tubes, mass spectrometers, infrared absorption spectrometers, etc.
-The implicit assumption behind there being a "last time" is that it no longer makes sense to use an incandescent light bulb when there are so many more efficient and/or sustainable ways to make solid-state broad-band illuminators for imaging and/or seeing using LEDs and broadband phosphors (i.e. "white light" LEDs).

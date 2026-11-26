@@ -1,6 +1,0 @@
-Antenna wrap material suitable for lunar & cis-lunar environment
-I am looking for a wrap (station) antenna for a transceiver (in space/lunar)
-Not all materials are suitable for the space environment. Does anyone know what wrap antenna materials I can use?
-I have found that plastic isn't suitable in space...
-EDIT 1
-It is assumed that the omnidirectional antenna(A wrap or a patch antennas could be used) works in space (lunar) environment. The total dose for my device is 30 – 50 krad. Gain 3-5 dBi. Frequency is S band.

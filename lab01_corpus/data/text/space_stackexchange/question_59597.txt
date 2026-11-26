@@ -1,2 +1,0 @@
-How and who calculated the thrust required from first stage of launch vehicle Saturn V for moon landing?
-Given the lack of clarity about weight of CM, SM and LEM while designing Saturn V, how and who calculated the thrust required from first stage of launch vehicle (Saturn V), for moon landing? were the weights of CM,SM and LM assumed?

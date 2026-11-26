@@ -1,5 +1,0 @@
-Typical external temperature profile for a LEO satellite
-I bumped into a question regarding LEO orbit.
-Is an external temperature profile available in literature as a first approximation for thermal analysis? I bumped into articles mentioning that the external environment is changing its temperature between -125 and + 60 degree Celsius.
-I know it really depends on the orbit altitude but I was wondering if general values can be read from literature.
-Thanks in advance.

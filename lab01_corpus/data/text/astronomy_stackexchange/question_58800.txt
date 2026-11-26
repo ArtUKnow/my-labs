@@ -1,8 +1,0 @@
-On the eclipse mathematical problem in Willian Chauvenet's Book
-I need some help with the following concept regarding how William Chauvenet sets up the eclipse mathematical problem in his book "Manual of Spherical and Practical Astronomy."
-My questions are:
-I cannot understand why the point P, which represents the North Pole, doesn' t lie on the OZ axis but is depicted as a random point on the celestial sphere. The author claims that the xy plane is the equatorial plane making the z axis the axis of the equator.
-Do the points S' and M' represent the true geocentric positions of the Sun and Moon, respectively, while S and M represent their apparent positions, or is it the other way around?
-How is it possible for the line MS to be perpendicular to the xy plane (Principal Plane of Reference) for each position of the Sun and the Moon in space? If this is the case, what happens if the axis of the cone of shadow coincides with the OZ axis? Then the points O,S,M would coincide, meaning that S' and M' would be at the same point on the celestial sphere.
-Thank you for your patience with all my questions. I am wondering if there is a textbook that describes the eclipse mathematical problem using more modern tools and figures. If so, please let me know.
-Thank you in advance for your answers!

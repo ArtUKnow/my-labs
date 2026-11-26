@@ -1,4 +1,0 @@
-Habitable rocky exoplanet with radius 2 times of Earth but similar surface gravity
-Planet Earth has radius 2x of planet Mars, while having 10x times of Mars mass and 60% higher surface gravity. Could there exist rocky exoplanet with 2x radius of Earth but similar surface gravity (+-10%). Not a gas giant or pure ocean world planet, but rocky planet with at least 1/3 of total surface area being land.
-In the past it was thought that upper limit for rocky exoplanet is 1.6 radius of Earth, but in 2016 http://thescienceexplorer.com/universe/largest-rocky-world-was-discovered-and-scientists-are-baffled astronomers discovered BD+20594b, which is believed to be pure rocky planet. This exoplanet has radius 2.23 of Earth and 16.3 its mass.
-But BD+20594b should have surface gravity more than 3 times of Earth, so I wonder if there could exist also this radius size habitable exoplanet on which people can land and live there permanently.

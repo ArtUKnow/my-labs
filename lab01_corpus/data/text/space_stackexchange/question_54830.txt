@@ -1,2 +1,0 @@
-Is it possible to create a ML (machine learning) model of Spherical harmonics?
-Trying to propagate orbits with more than 200 (grade and order) using SH is very slow, is it possible to replicate the SH model using a neural network or something similar achieving faster propagations?

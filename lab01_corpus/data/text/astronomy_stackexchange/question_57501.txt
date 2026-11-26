@@ -1,2 +1,0 @@
-Lagrange points for figure eight orbit
-The figure 8 orbit is the only known stable orbital configuration for 3 bodies of equal mass. Are there islands of stability, analogous to Lagrange points for 2 orbiting bodies, that trace their way around the figure 8?

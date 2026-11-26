@@ -1,5 +1,0 @@
-How much more likely is it for a colony on Mars to receive a damaging meteorite hit than a similar structure on Earth?
-Meteorite damage probability is low both on Mars and Earth, but Earth has a thick atmosphere, which Mars does not. The thinner atmosphere on Mars should yield some increase of impact probability.
-Is it possible to estimate the following:
-How often will meteorites hit some Martian city with an area of several square kilometers?
-How energetic will they be? Will a once in a hundred year strike be enough to break a solar panel, a greenhouse window, or an actual roof of some pressurized surface building? Many folks will stay underground to avoid radiation but may to up to the surface to enjoy the view once in a while.

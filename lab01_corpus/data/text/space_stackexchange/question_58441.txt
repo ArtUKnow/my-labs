@@ -1,3 +1,0 @@
-How frequent are (or will be) JWST station keeping burns at L2?
-Does anyone have solid information regarding the scheduled/anticipated station keeping burns for JWST at L2? In an online video I've heard mention of 'every 21 days' which at first look seems excessive but on second look may not be nuts if very brief.
-I would think station keeping burns would be on an an as-needed basis. Perhaps the original calculated useful 10 year life was based on frequent burns.

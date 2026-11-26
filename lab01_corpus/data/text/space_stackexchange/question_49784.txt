@@ -1,3 +1,0 @@
-What order were space shuttle roll-pitch-yaw angles displayed in?
-The space shuttle had a digital readout of roll-pitch-yaw angles in a chosen frame (inertial, LVLH, or reference).
-What rotation sequence did they assume in that digital readout? Was it roll-pitch-yaw? Yaw-pitch-roll? Other?

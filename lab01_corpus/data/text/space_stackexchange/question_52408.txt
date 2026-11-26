@@ -1,3 +1,0 @@
-Why are DART's solar panels aligned like this?
-I've never noticed this before, but the two solar arrays of NASA and APL's DART spacecraft are at different "levels". In this image, the solar panel on the left extends out from the "top" face of the craft, while the solar panel on the right extends out the "bottom" face.
-This setup seems quite different from depictions of solar panels in other spacecraft, like Dawn, where the solar panels seem to be at the same level, and the spars connecting the panels are always depicted as horizontal with respect to the "top" and "bottom" faces. Why was DART designed with this rotational symmetry, but not reflection symmetry? Am I misunderstanding something about the design?

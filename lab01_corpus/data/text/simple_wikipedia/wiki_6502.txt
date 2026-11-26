@@ -1,9 +1,0 @@
-Berkeley Software Distribution
-Berkeley Software Distribution (BSD) is a kind of the UNIX operating system that is distributed for free since 1989. It was started by people from the University of California, Berkeley in the year 1977, but it was first released in 1978. Now, people from around the world work on it.
-There are many operating systems based from BSD that many people have worked on. These are known as derivatives of BSD. Some of them are DragonFly BSD, FreeBSD, NetBSD, OpenBSD, and Mac OS X.
-The system software for PlayStation 3, PlayStation 4, and PlayStation Vita are all based on derivatives of BSD.
-Other websites
-DragonFly BSD homepage
-FreeBSD homepage
-NetBSD homepage
-OpenBSD homepage

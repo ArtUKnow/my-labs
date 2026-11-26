@@ -1,7 +1,0 @@
-Help with position/visibility of the moon at a given date and location
-I need some advice about the visibility of the moon on a given date, at a given position, for a piece of fiction I'm writing. I hope if someone could be kind enough to give me a hand.
-Position: Lower Mall, London, UK
-(51.49003066468501, -0.23175453092158516)
-Date and time: Early morning of 9th April 2023 (between 03:00 and 04:00)
-My understanding from this site here is that the moon could have been visible around this time (Waning Gibbous, culmination at 03:12, 18 deg South) although there were a few clouds in the sky around that time. My concern however is mostly around the position of the moon, and if it would be possible to see it considering the obstructions (buildings and trees). Here is a Google Street View of the position in question.
-Any thoughts?

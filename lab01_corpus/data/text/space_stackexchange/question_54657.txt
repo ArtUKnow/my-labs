@@ -1,4 +1,0 @@
-Do dust bunnies form normally in microgravity?
-On Earth, dust, hair, and other assorted debris clump up into fuzzy lumps known as dust bunnies, which shelter parasites, set off allergies, clog air filters, and impede electronic-device cooling.
-In microgravity, where dust et al. have no tendency to settle towards the ground, do dust bunnies still form as they do in macrogravity? Are there measures taken to mitigate their formation?
-(A google for "dust bunnies microgravity" brought up only this article about the behaviour of strongly-charged microscopic dust particles, plus a bunch of irrelevant hits about planetary accretion.)

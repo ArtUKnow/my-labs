@@ -1,2 +1,0 @@
-Why do higher orders in diffracted light show up as shades of one color?
-I'm learning about diffraction gratings and came across this graphic of NEID's spectra: . It shows that for each order in the spectra there is a small set of wavelengths (e.g. order 70 has many shades of red but no greens or blues). I was wondering conceptually why each order is associated with one color as opposed to showing up as a rainbow/full spectrum. I know about the grating equation but I'm trying to think of this conceptually as opposed to using math.

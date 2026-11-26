@@ -1,2 +1,0 @@
-Superfluid dark stars
-We present a superfluid dark star model consisting of relativistic dark bosons with two-body self-interaction. The obtained masses, radii, and tidal deformability depend in a simple way on the boson mass and interaction strength. We report first results on binary mergers: the distinctive amplitude and frequency of the emitted gravitational waves are well within reach of terrestrial interferometers.

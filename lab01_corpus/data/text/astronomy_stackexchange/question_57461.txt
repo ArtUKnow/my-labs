@@ -1,8 +1,0 @@
-Double Schechter luminosity function for the Milky Way
-I would like to calculate the density of MW-like galaxies using the double Schechter luminosity function:
-$ \Phi(m) d m=\left[\phi_1\left(\frac{m}{m_*}\right)^{\alpha_1}+\phi_2\left(\frac{m}{m_*}\right)^{\alpha_2}\right] e^{-m / m_*} \frac{d m}{m_*}$
-However, I'm not sure what values to assume for the various parameters for the MW.
-$ log(m_*/M_\odot)$ = ?
-$ \alpha_1, \alpha_2$ = ?
-$ \phi_1, \phi_2$ = ?
-Any suggestions about how to go about this?

@@ -1,7 +1,0 @@
-What will it take to start measuring the rotation rate and direction of exoplanets? Which instrument(s) current or future are most likely to do it?
-@ProfRob's answer to Is it coincidence that the earth's rotation and revolution are in the same direction? explains several important aspects of models for planetary formation, angular momentum and vorticity.
-I love our planets and don't mean to disrespect them, but it's a small and quirky dataset.
-So I'd like to ask:
-Question: What will it take to start measuring the rotation rate and direction of exoplanets? Which instrument(s) current or future are most likely to do it?
-Are there current or future instruments that mention this capability as part of their goal? How might it be done?
-Feel free to answer for "rate" and "direction" seperately of those measurements can be approached differently.

@@ -1,6 +1,0 @@
-time trends in astronaut fatality rates?
-A recent answer quoted the statistic that
-over 10% of astronauts have died on the job
-That got me wondering what the trend over time has been in mortality rate of astronauts, i.e. is space travel getting safer, or more dangerous, or staying about the same?
-Ideally an answer would take the population at risk into account, e.g. recording both the year-by-year (or decade-by-decade) number of active astronauts as well as the number of fatalities (I guess this could also be quantified at the level of missions, which might make sense given that accidents would typically (??) kill the entire crew of a mission ...)
-I've briefly searched for answers on this site and haven't found anything obvious. I can see that this Wikipedia page would give me the fatalities, but I'm not quite as sure where I would go for the denominator (number of active astronauts by time).

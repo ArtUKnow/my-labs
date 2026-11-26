@@ -1,4 +1,0 @@
-How does precession affect the equatorial coordinates?
-I understand how precession works and what it will eventually change, but I'm struggling to visualize its exact impact in, for example, a star chart (this one bellow is from the Nautical Almanac)
-The grids will remain in the same place, as well as the ecliptic (I think). The stars will 'move' though, but in what direction?
-Will they move in path resembling an ellipse or in a wavelike shape?

@@ -1,5 +1,0 @@
-What are the main challenges to boosting or driving smaller solar sails with a constellation of separate reflectors?
-This is to continue expanding the idea of using smaller solar sails, but increasing the energy they receive from the Sun by having a constellation1 of satellites with mirrors + lenses.
-For context, I have asked earlier for its possibility here.
-I would like to know about the main challenges to make this real, and if there are any existing designs or analysis?
-1Not necessarily an Earth orbiting constellation, they could be in various heliocentric orbits as well.

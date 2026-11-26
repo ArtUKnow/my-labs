@@ -1,5 +1,0 @@
-How often do 3 planets form a straight line in the sky?
-This question is inspired by my misunderstanding of syzygy description as "three celestial bodies forming a straight line"
-Usually, this means straight line in 3D, causing occlusion and is somewhat rare
-But my version is much easier and faaar more common (I think) - look up into the sky and check whether 3 planets lie on a Great Circle
-How often does that happen?

@@ -1,2 +1,0 @@
-Could a planet or its moon be synchronously tidally locked with the sun, but still in orbit with its moon/planet?
-Obviously, with so many stars and presumable planets, lots of things can happen for a short time, but I'm wondering if there is a stable configuration for either twin planets or a planet with a sizable moon where either moon or planet (or both) have a synchronous tidal lock to the sun and the moon and planet orbit each other more frequently - possibly in an integer spin-orbit resonance.

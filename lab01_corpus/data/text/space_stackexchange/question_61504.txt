@@ -1,7 +1,0 @@
-How can I calculate GPS satellite's Latitude and Longitude if I have the elevation, the azimuth, the XYZ coordinates of the ground station
-How can I calculate a GPS satellite's latitude and longitude if the elevation, the azimuth, and the XYZ coordinates of the ground GPS station are provided?
-I have tried these questions:
-Computing GEO satellite's longitude from elevation/azimuth from a given latitude/longitude?
-How can I calculate GPS satellite's Latitude and Longitude if I have the elevation and the azimuth
-but the answers are not consistent.
-I would need a reference if it is available.

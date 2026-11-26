@@ -1,7 +1,0 @@
-Falcon 9 vs Apollo Landing: Key Differences?
-So I'm struggling to model a Falcon 9 vertical landing.
-And because Falcon 9 info is scarce, I'm looking for more public info sources---like the apollo missions.
-The Apollos did basically vertical landings on the moon, and maybe there are bits in their control strategy that I can use to land a Falcon 9 stage 1.
-As you can tell, I'm not looking to copy the Falcon 9 strategy. I just want to use some reasonable valid strategy, and if the Apollo strategy is it, so be it.
-But this leaves me wondering: in what ways were the Apollo landings different from a Falcon 9 stage 1 landing? I'm interested in the controls perspective more than the physics of the problem (e.g., drag, etc), but feel free to comment on anything that seems relevant to the question.
-Thanks!

@@ -1,2 +1,0 @@
-Do Falcon 9 grid fins lock up during reentry?
-Do Falcon 9 grid fins lock up when extended during reentry? Or do they rely on aerodynamic forces to keep them extended once they're deployed? Could the fins flail down during the reentry burn when thrust acceleration is high (>2 g's)?

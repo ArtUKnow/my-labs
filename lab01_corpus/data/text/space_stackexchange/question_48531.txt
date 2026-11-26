@@ -1,6 +1,0 @@
-Is it possible to predict if an orbiting satellite will pass over a given point on Earth after n periods?
-I'm learning basic astrodynamics, and I have a question that I cannot find on the Internet (maybe I'm not looking hard enough).
-My question is, is there a way to predict how many periods would a satellite need to pass over a specific point on Earth, if not in the current period, maybe in next n periods? or to calculate if it ever will?
-Being more specific, let's say at some point in the current period the satellite will fly-over city A, but not in the city B. Now, we know that after each period, the orbit shifts westwards, meaning that it might not fly-over city A in that period, but it might fly-over city B. How do you calculate the number of periods, or the time, it would take for the satellite's orbit to be aligned with city B, if ever?
-Here's a shitty image I drew for visualization purposes .. :)
-Thanks! :)

@@ -1,5 +1,0 @@
-Are multiple stars actually more common than singles?
-In the book by Neil Tyson & Michael A. Strauss & J. Richard Gott titled "Welcome to the Universe: An Astrophysical Tour" there is a sentence that starts: "Since more than half the stars in the galaxy are in binaries, ... ". But is it really true?
-The reason I cast some doubts is as follows. Light-weight stars happen to be in pairs (or otherwise multiple) with a lower chance than heavy stars: for a light-weight star the chance to be in a pair is estimated roughly about 20%, whereas for a heavy star the chance is about 80%. However it is also a well-known fact that light-weight stars represent the majority of all known stars in our universe. For instance, stars with masses up to 0.9 of solar mass (incl. M-G classes) represent 95% of all known stars. Even if we consider only the 30 nearest stars to our Sun, the binaries and trinals amongst them are only 13. In fact, the chance for a neutron star (they all are relatively heavy) to be a binary is estimated as 5% only.
-So the question I have to ask is how valid was the statement from the book by Tyson & Strauss & Gott?
-Thanks in advance.

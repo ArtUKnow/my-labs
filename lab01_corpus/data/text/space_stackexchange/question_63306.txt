@@ -1,5 +1,0 @@
-Understanding the difference between pointing knowledge, pointing accuracy and pointing stability?
-In terms of specifications for satellite Attitude Determination And Control System (ADCS) hardware, my understanding is that pointing knowledge is for attitude determination, whereas pointing accuracy is for attitude control.
-When the Original Equipment Manufacturers (OEMs) give the specs, do they take into consideration the orbital disturbances?
-If not, is it required to model them?
-And does pointing stability mean the ability of the ADCS to hold the satellite while pointing (stationkeeping, ext disturbances, etc) or does it mean the minimum step for sweeping per second?

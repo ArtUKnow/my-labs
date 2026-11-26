@@ -1,6 +1,0 @@
-What if the Columbia foam strike damage was spotted during launch?
-Foam struck the leading edge of Columbia approximately 82 seconds after launch during the STS-107 mission in 2003.
-Most analyses look at whether there was anything that could have been done to save the crew and vehicle after it reached orbit.
-But what if the damage had been spotted somehow between the time it first happened and the shuttle reaching orbit with reasonable confidence (e.g. on a camera feed or other visual monitoring).
-This is partly hypothetical, as I'm not sure it would have been possible to spot this and even less so confirming that it was critical damage, though I know the strike itself was spotted on footage very soon after launch.
-What options were available to the crew in terms of aborts or other in this window, and broadly how likely were they to succeed if we assume damage to the wing of the kind described in the CAIB report?

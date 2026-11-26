@@ -1,4 +1,0 @@
-Is Starship planned to fly directly to the ISS without first stage? Is it even possible?
-I'm having difficulty understanding how/if Starship and/or Super Heavy could be used to deliver crew to LEO.
-Is it expected to deliver astronauts to the ISS Crew-Dragon-style, but without the 2nd stage; that is, "FSTO"? (as opposed to SSTO)
-If no, can the Super Heavy be made into an SSTO spaceship, capable of ISS docking and vertical landing?

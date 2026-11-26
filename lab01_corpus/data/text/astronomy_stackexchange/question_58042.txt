@@ -1,6 +1,0 @@
-Why do so many moons in the Solar System orbit have retrograde orbits?
-The Solar System as a whole rotates in the prograde direction, presumably to conserve the rotational momentum of the primordial dust cloud it formed from. All the planets orbit (and almost all rotate) in this prograde direction. Yet a large number of moons have retrograde orbits.
-The dominant pattern is for inner moons of gas giants (like the Galilean moons of Jupiter) to orbit prograde, but the outer moons to orbit retrograde.
-https://www.jpl.nasa.gov/infographics/planetary-satellites-of-the-solar-system
-Is this because inner moons formed along with the planet, but the outer moons were captured from adjacent heliocentric orbits?
-It makes intuitive sense that capture of an object in a closer heliocentric orbit would "fall" into a retrograde orbit, but shouldn't capture of an object in a further heliocentric orbit result in a prograde orbit? If this were true, outer moons would be 50/50 pro/retrograde.

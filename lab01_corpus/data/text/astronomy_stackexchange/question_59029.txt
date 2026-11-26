@@ -1,5 +1,0 @@
-Will there be any utility in stationing a space telescope a billion miles away to get very accurate parallax measurements?
-I'm thinking a nuclear powered astrometry telescope in a Jupiter-distance orbit. Every five years, you could look at the same object with a parallax baseline of a billion miles. Push it out to Saturn for a baseline of 2 billion miles. That's 10X better than what we have now.
-An astronautry satellite wouldn't have to be large; it only has to be large enough to see the furthest stars that show parallax.
-Would establishing extremely accurate distance measurements for close stars, and the first parallax measurements for distant stars be particularly useful, Or are our numbers close enough?
-Would it be worth the cost?

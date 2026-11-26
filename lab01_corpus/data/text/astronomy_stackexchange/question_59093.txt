@@ -1,8 +1,0 @@
-What is the period of Mercury from aphelion to perihelion compared to perihelion to aphelion
-Is the period of Mercury going from its aphelion to perihelion the same as when it goes from its perihelion to aphelion? Namely what is experimental data of the periods both inward going and outward going.
-This question arose in my study of deriving the period of an orbit of a planet taking into accounts GR effects (Schwarzchild model). I determined the period of a planet going from the perihelion to the aphelion and doubled it. But I thought is this correct?
-So the question regarding experimental data.
-In my model the period is derived from a derivative $dr/dt$ which is function of $P(r)$ [not stated here] which is solely dependent upon the radial length $r$.
-I am NOW thinking even though the path is different inward going and outward going, the radial length $r$ still goes from aphelion radius to the perihelion radius so at some place $r$ (but different $\theta$ ) it will have same derivative $dr/dt$ and also shape $dr/d\theta$ due to the symmetry of the Schwarzchild metric. So doubling it seems okay.
-If it is different how do you take this account in the modeling?
-Many thanks for the references.

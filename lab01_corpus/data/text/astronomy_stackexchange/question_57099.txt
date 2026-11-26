@@ -1,5 +1,0 @@
-Birthday question
-For X, this month in 2024, he has his 46th birthday on Earth, and, in the same day, it is his 191st birthday on Mercury. How often this happens?
-Reedit: what is the relation between the orbital frequencies such it makes the two birthdays happen in the same day? In terms of astronomical data, how much time requires the orbital phases to be the same such as the birthday on the two planets be the same? For instance, What will be the next year with coincidence of these two birthdays?
-Data: mercury year has 87.97 days and earth day has 365.25 days.
-Remark: I know it can be done with diophantine equations and l.c.m., but can it be done with fractions only?

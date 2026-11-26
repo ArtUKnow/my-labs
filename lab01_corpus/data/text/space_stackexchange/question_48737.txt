@@ -1,5 +1,0 @@
-How could METI laser pulses be "brighter than the Sun"?
-This Astronomy online course page The Search for Extraterrestrial Intelligence contains the following, about half-way down:
-However, in recent years, human engineers have learned how to make flashes of light brighter than the Sun. The trick is to “turn on” the light for a very brief time, so that the costs are manageable. But ultra-bright, ultra-short laser pulses (operating for periods of a billionth of a second) can pack a lot of energy and can be coded to carry a message. We also have the technology to detect such short pulses—not with human senses, but with special detectors that can be “tuned” to hunt automatically for such short bursts of light from nearby stars.
-While I'd mentioned that pulsed lasers can be pretty powerful instantaneously, "brighter than the Sun" didn't occur to me.
-Is this factually true? As seen from space, say 100 AU or farther, during a brief pulse, would one of these lasers really be brighter than the Sun? Are some assumptions made for this to be true?

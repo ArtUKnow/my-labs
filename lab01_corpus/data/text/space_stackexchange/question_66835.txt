@@ -1,2 +1,0 @@
-how did the Apollo 11 know its precise gyroscopic position?
-During lift - off (as per my knowledge) the Apollo 11 had accelerometers that would determine the position of the rocket. This would work great due to the earth's gravity. But how did the Command Module or rather the 1st stage know its orientation/position midway to the lunar encounter? did they use a different technology or did I get this all wrong?

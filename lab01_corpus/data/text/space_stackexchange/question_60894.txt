@@ -1,4 +1,0 @@
-Apollo 15: when did the astronauts manually move the LRV?
-In Chapter 9 of the Apollo 15 Mission Report it says:
-In the soft, loose soil at the Apollo lunar surface experiment package site, one occurrence of wheel spin was corrected by manually moving the rover to a new surface.
-I'm assuming that this means both astronauts lifted & carried the rover. Does anyone know when (or during which EVA) this happened? I went through the Apollo 15 Lunar Surface Journal transcripts (focusing on the activities near the ALSEP), but I couldn't find this particular event.

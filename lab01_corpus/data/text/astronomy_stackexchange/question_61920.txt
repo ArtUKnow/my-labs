@@ -1,3 +1,0 @@
-Anisotropic to isotropic term ratio of the radiation field in the LTE plane parallel atmosphere approximation - Choudhuri's textbook
-I am reading Choudhuri's book on general astrophysics and in the section on plane parallel atmosphere approximation he writes this
-Shouldn't the flux depend on optical depth and therefore only be proportional to the fourth power of the effective temperature at the surface of the star and above it where no significant absorption and emission take place to change it? But Choudhuri seems to be using this expression for all optical depths.

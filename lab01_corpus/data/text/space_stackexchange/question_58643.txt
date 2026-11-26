@@ -1,7 +1,0 @@
-JWST - image acquisition - what is a dither pattern?
-While perusing one of the sample science programs for the JWST (NIRCam WFSS Deep Galaxy Observations), I came across Step 5, “Decide on dither pattern.”
-Instead of guessing — or worse, assuming — what a “dither pattern” is, I thought I’d ask (within the context of program planning and image acquisition):
-What is a dither pattern?
-Why might one be needed?
-How are dither patterns implemented on the JWST?
-Extra “points” for sample imagery (real or simulated), that shows the effects of using a dither pattern in this context.

@@ -1,2 +1,0 @@
-How to find the minimum range at which some imaging payload/instrument can produce a clear image?
-JWST's NIRCam can image deep sky objects so clearly. However if we notice the images of planets like Mars, Saturn or Saturn's's Moon-Titan, they don't appear to be much clear. Hence considering the specifications of NIRCam, how can I calculate the minimum distance at which an object should lie to get a clear image by NIRCam instrument.

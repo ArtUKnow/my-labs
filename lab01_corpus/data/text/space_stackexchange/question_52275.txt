@@ -1,5 +1,0 @@
-From where to get data of the received/measured Moon temperatures of the last 50 years?
-Are there any accessible public data or charts of the measured and received Moon temperatures over the years?
-What is the long term reliability of the instruments installed by the landings? If the (redundant) sensors were made of semiconductors, they may have suffered from cosmic rays/particles, since a heavy lead shield would have been probably too heavy.
-And more and more dust would influence the values, perhaps some moonquakes would decrease the thickness of a dust layer?
-Is there any site with a comprehensive technical description and data for downloading?

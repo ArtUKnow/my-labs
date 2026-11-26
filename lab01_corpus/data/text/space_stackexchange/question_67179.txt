@@ -1,5 +1,0 @@
-How do I calculate the Range of Performance of a HP Rocket Motor due to Temperature?
-I'm working in a team building a HP rocket with a J-motor, the Contrail J800-HP Hybrid Motor, to be specific. It is fuelled by a solid plastic fuel and nitrous oxide as a liquid oxidiser. We're writing up our DDID and trying to add information on the motor's range of performance due to temperature in our propulsion section. I've got a thrust curve for it online, however, I'd like to find its performance range, but I'm new to rocketry so I really don't know where I'd start. I was wondering if I can run a simulation on OpenRocket for it and plot it but I couldn't do that for some reason.
-Definitely a beginner here, so I'd appreciate detailed and even dumbed down answers.
-https://www.thrustcurve.org/simfiles/5f4294d20002e90000000322/ - here's a link to the thrust curve online
-I'll also insert an image of the actual thrust curve:

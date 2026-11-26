@@ -1,3 +1,0 @@
-How to find possible dates for the eclipse pattern?
-In the given range of 300 BC to 3100 BC, how to find the years which have Lunar Eclipse between Gregorian Sep 29 to Oct 8, followed by Solar Eclipse between Oct 13 to Oct 23 in the same year.
-The problem is all the dates are in Julian and the conversion gap changes making it difficult to find these dates.

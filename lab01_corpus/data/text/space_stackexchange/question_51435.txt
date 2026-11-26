@@ -1,4 +1,0 @@
-Why does Starship need to transfer crew to/from Orion to land humans on the moon?
-In the new NASA Artemis program, Starship needs to transfer the crew to/from Orion.
-Why is this even needed?
-I thought that the Starship design allows it to travel directly from Earth to the Moon without all this complexity.

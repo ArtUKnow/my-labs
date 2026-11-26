@@ -1,7 +1,0 @@
-What are the regulatory standards for the surface finishes and colors of internal hardware and modular equipment on the ISS?
-When designing secondary hardware, instrument racks, or modular storage units intended for the pressurized environment of the International Space Station, are there specific standards regarding surface finish and color?
-I understand that internal cabin colors are generally light/neutral to support visibility and psychological health, but are there technical requirements for the coating chemistry, emissivity, or reflectivity of these individual internal components?
-Specifically:
-Are there "approved" color palettes or gloss-level requirements to prevent glare or visual fatigue for the crew?
-How do these specifications interact with the strict off-gassing and fire-safety standards mandated for all ISS hardware?
-Are these surface specifications fixed for the life of the component, or is there a protocol for "refurbishing" or changing surface finishes during mid-life maintenance cycles?

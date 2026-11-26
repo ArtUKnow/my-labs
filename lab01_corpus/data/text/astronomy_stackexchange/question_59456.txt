@@ -1,6 +1,0 @@
-Could we alter the orbit of asteroid 2024 YR4 enough to prevent an impact to Earth?
-The asteroid 2024 YR4 impact probability to Earth has been estimated to be about 2% on 2032, and if it hits Earth, would release the energy equivalent of a large multi-megaton hydrogen bomb.
-We already have a test of impacting a spacecraft into an asteroid. Dimorphos, a satellite of Didymos, was the target of an impact test.
-Dimorphos has a size of 177 meters, whereas 2024 YR4 has a size of 40-90 meters.
-So if an impact is going to happen, it looks like we already have an experience of modifying the orbit of an asteroid larger than 2024 YR4.
-However, would a spacecraft impact change the orbit of 2024 YR4 enough to prevent an impact to Earth with certainty, if done several years in advance? Or would the orbit change be so minor that it wouldn't help?

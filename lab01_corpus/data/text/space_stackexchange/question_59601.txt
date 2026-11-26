@@ -1,6 +1,0 @@
-What size are the typical keep-inside boxes of geostationary telco satellites?
-Geo sats need station-keeping and the size of their keep-inside box is a design parameter. A smaller box implies more manoeuvres to stay inside the box. All depending on the various orbit perturbations.
-This will be different from sat-to-sat, but I'm interested in the typical size of the z-component (nadir-zenith direction) of the box of telecommunication satellites. Obviously this affects the signal latencies. I'm curious about the variation of these latencies.
-From this site, I'm learning that the xy box size is typically 0.15deg (about 110 km). I didn't find anything on the z value.
-I also looked at the UCUSA database. I filtered for active communications satellites and calculated abs(apogee-perigee). After excluding 11 outliers (>300km), I got 278 satellites and an average of 28 km (median 18km). I'm unsure if this is a good proxy for what I'm searching for.
-Thanks for any hints!

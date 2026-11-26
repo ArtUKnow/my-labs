@@ -1,7 +1,0 @@
-What is this squiggly moving line in the recent SpaceX SARah-1 Mission?
-I watched the livestream of the launch of the SpaceX SARah-1 Mission.
-Shortly after the boostback burn there is this squiggly white line that moves away from the first stage, starting at T+03:54. It happens a couple of times during this section of the flight, always from the same spot and angle relative to the stage, even after rotating a lot. A screenshot with obligatory red arrow:
-What is this? A couple of possibilities I see:
-some debris coming loose
-excess fluid being dumped
-camera glare (unlikely because of the angle change)

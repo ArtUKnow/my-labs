@@ -1,8 +1,0 @@
-What is this term in the link budget equation from Space Mission Analysis and Design (SMAD)?
-Looking at the 3rd edition of Space Mission Analysis and Design by Wertz and Larson, their equation (13-4) presents the link equation,
-$\frac{E_b}{N_0} = \frac{PL_\ell G_t L_s L_a G_r}{k T_s R}$,
-with $E_b/N_0$ being the receiver energy per bit over noise density, $P$ is transmitter power, $L_\ell$ is transmitter-to-antenna line loss, $G_t$ the transmit antenna gain, $L_s$ the free space path loss, $L_a$ transmission path loss (atmospheric and rain absorption, etc.), $G_r$ the receive antenna gain, $T_s$ the system noise temperature, $R$ the data bit rate, and $k$ the Boltzmann constant.
-Their equation (13-13) then has the same equation in logarithmic (decibel) form:
-$\frac{E_b}{N_0} = P + L_\ell + G_t + L_{pr} + L_s + L_a + G_r + 228.6 - 10\log{T_s} - 10\log{R}$
-This equation is identical to (13-4) except for the addition of the $L_{pr}$ term. I cannot find the definition of $L_{pr}$. (Hopefully I'm not just missing it.) This term is in equation (13-14) as well but then seems to disappear.
-What is $L_{pr}$? Is it a leftover term from a previous edition perhaps, or does changing the equation to logarithmic form somehow require adding that new term?

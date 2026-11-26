@@ -1,5 +1,0 @@
-Implemented analytical orbit propagator
-Anybody knows about reliable open source implementation of analytical orbit propagator (for a generic orbit, given the initial state and not TLE)?
-Possibly including up to J2 and drag also.
-I have performed a deep literature review about analytical and semi-analytical and almost nothing is available and ready to use online.
-I am implementing an analytical but I was looking for some implemented reference.

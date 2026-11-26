@@ -1,7 +1,0 @@
-Do you know a rocket for launching femto and pico satellites smaller than the SS-520?
-The question has already been asked here why no one has built a rocket to launch one CubeSat.
-Why isn't there a rocket to launch a single cubesat?
-If there "won't be" rockets to launch individual cubesats, then why did JAXA build exactly that? (SS-520-xx)
-Here I'm asking about something sort of like SS-520, but commercial.
-When I google the smallest rocket for launching satellites, at first all the results are about SS-520. But then I stumbled across Skylark Micro by accident. Is it the smallest rocket now?
-Does anyone know about even smaller rockets?

@@ -1,9 +1,0 @@
-Accelerated expansion
-I try to understand the accelerated expansion of the universe, and my first idea to do so was to draw a graph of the speed of objects (in km/s) relative to their distance (in MParsecs).
-My data source is Union2.1 Compilation Magnitude vs. Redshift Table from https://supernova.lbl.gov/Union/
-This is how I converted distance modulus into parsecs :
-And Z into speed :
-The result is :
-Which seems to be a curve of "logarithmic" form, and NOT exponential as I would expect for "accelerated" expansion...
-I would like to point out that in my opinion an "acceleration of the expansion" should give increasingly greater speeds depending on the distance, or at least constant, linear, whereas here we have lower and lower speeds as objects are further and further away...
-Can someone help me to understand where is my mistake, please ?

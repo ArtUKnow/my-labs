@@ -1,5 +1,0 @@
-Escape tower details of Mercury spacecraft
-In the details about the escape tower for the Mercury capsule, I noticed that it had three nozzles, all connected to a single combustion chamber of the solid propellant.
-How did the designers ensure that exhaust from the combustion chamber was distributed equally between these three nozzles?
-If the distribution were not equal, one (or two) of the nozzles would develop more thrust, and thus were likely to provide an unequal and uncontrolled tilt while escaping.
-If interested, you may refer to the details provided in the book "Project Mercury - A chronology" (NASA - SP 4009) on page 49.

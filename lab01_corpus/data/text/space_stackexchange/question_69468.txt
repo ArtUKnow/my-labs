@@ -1,6 +1,0 @@
-How much thrust could radiators provide?
-Usually heat is a waste - spacecraft use substantial mass to get rid of it via radiators.
-But what if one uses it for thrust? Why not to make some dumb photonic engine out of it?
-Obviously it would be very inefficient (since nobody is doing that) - and you'll have to block half of radiator area and stuff
-But how exactly inefficient is it?
-What order of magnitude of acceleration you'd get from e.g. ISS heat dissipation being emitted in only one direction?

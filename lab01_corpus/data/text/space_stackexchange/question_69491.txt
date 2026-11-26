@@ -1,4 +1,0 @@
-A Dawn Mk-ll Aurora spaceplane launches a satellite, can it reach GEO/LEO on it’s own?
-The Dawn Mk-ll Aurora spaceplane can reach ~20km height, can a 10kg artificial satellite launched from it continue its way to GEO using its own propulsion system after being separated from the spaceplane? (after getting out from the payload of the plane at 25-20km height)
-Edit according to @Russel McMahon ‘s comment: with an internal stage attached to the satellite so the stage and the satellite are 10kg max, does that make it happen, taking into consideration that the satellite has one scientific instrument to make it as small and light as possible.
-Edit 2: Since GEO is not an option, can a 10kg payload (satellite with it's own proplulsion system) reach LEO after being deliverd by the DAWN mk-II? Also what is the difference between the functionality of a LEO satellite and GEO one?

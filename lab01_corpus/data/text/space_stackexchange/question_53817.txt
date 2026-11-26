@@ -1,9 +1,0 @@
-Will there be a command moratorium for Mars spacecraft again in 2021?
-About every two years, Earth and Mars are on opposite sides of the Sun (a Mars-solar conjunction). Plasma expelled from the Sun can interfere with radio transmissions between Mars spacecraft and the Earth1.
-The last time this happened (2019), NASA issued a "command moratorium". Commands are no longer sent from Earth, as they may be corrupted and thus misinterpreted. Vehicles are put to rest. Data collection is reduced to low-bandwidth measurements, and transmissions to Earth are reduced:
-Solar conjunction occurs every two years. This time, the hold on issuing commands — called a "command moratorium" — will run from Aug. 28 to Sept. 7, 2019.
-[...]
-On the surface of Mars, the Curiosity rover will stop driving, while the InSight lander won't move its robotic arm. Above Mars, both the Odyssey orbiter and the Mars Reconnaissance Orbiter will continue collecting data from Curiosity and InSight for return to Earth. However, only Odyssey will attempt to relay that data to Earth before conjunction ends. Meantime, another orbiter, MAVEN, will continue to collect its own science data but won't support any relay operations during this time.
-Will there be another command moratorium in 2021? If so, when?
-(This time, there are more spacecraft, including those from other nations besides the U.S. China will make their own decision, but the others rely on NASA's Deep Space Network. On the other hand, the various solar probes will have plenty of radio time available!)
-1cf. this answer

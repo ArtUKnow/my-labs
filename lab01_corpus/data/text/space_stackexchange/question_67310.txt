@@ -1,6 +1,0 @@
-Are there any CubeSat telescopes? What are the requirements?
-Are there any CubeSats that perform as telescopes for deep-space photography?
-If I have a CubeSat of let's say 6U, designed for Earth Observation (meaning it could be restricted in terms of the camera sensor e.g. only capturing RGB images), can it also point to space and, under the right external circumstances (that could mean that it's in a position where the sun is not a distraction), capture space images?
-Or is the whole concept of a CubeSat too limited for space photography?
-What I know is that, CubeSats are typically very small, resulting in limitations regarding the size of the sensors they can carry. This can be challenging, since it is known that larger lenses and sensors generally capture more light, which is essential when it comes to astro-photography.
-Also, long exposure is a must when it comes to astro-photography so, a trusted stabilization system is crucial to the cause, since long exposure will also capture any external disturbance.

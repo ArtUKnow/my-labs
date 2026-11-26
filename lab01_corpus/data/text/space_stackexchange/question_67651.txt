@@ -1,8 +1,0 @@
-Will the first Mars mission force the space laundry question?
-On the ISS, dirty laundry is burned by being de-orbited, rather than washed. Laundry on the ISS
-The ISS has regular re-supply, so as far as laundry supply is concerned, the "mission duration" is usually less than 2 months. A Mars mission will be measured in years, not months.
-As mission length increases, the mass of disposable clothing eventually makes laundry a necessity. One-year stints on the ISS have not forced re-use of clothing, but a 3 year “Hohmann transfer” Mars mission might be pushing it. As I write this, I am wearing 1.2 kg of clothing. Switching out the belt and Levis could reduce that, but if I change clothes weekly, I would still likely go through 150 kg of clothing on a 3 year mission. That could be the mass budget for 2 additional svelte astronauts (as long as they are doing their laundry as well).
-Humans defoliate about 1.5 kg of skin cells and sweat out about 3 kg of salt and urea each year, or a total of 13.5 kg of potentially recoverable nutrients during the voyage. These nutrients could be processed by a MELISSA-style bioreactor What are the results of the MELISSA project? if they were recovered in the laundry.
-Nudism has been proposed as an alternative to laundry, but the utility of clothing goes beyond modesty. Nudism in space: Why wear clothes anyway?
-Technical issues concerning space laundry were addressed in New spin on laundry day: How will ISS cope with washing machine vibration and angular momentum? and Washing clothes in space: are there any technical challenges?
-As well as radiation and boredom, does laundry need to be added to the list of vital issues to be addressed for a viable crewed Mars mission?

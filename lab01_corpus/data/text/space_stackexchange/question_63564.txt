@@ -1,5 +1,0 @@
-How do Centrifugal Turbopumps work? How do you make one?
-I recently visited Wikipedia to look at centrifugal pumps and axial pumps. Centrifugal pumps are very interesting, and I was wondering how they work in more depth. I really don't understand how they cause such high pressure. The explanations I am finding online are not that good. I was hoping someone would be able to explain using diagrams explaining how it actually works and the physics behind it (not too many equations just the important ones if you believe it is necessary).
-Also, I was hoping someone can explain the parts of the turbopump, what they do, and how they look. It would be extremely helpful to have 3D model of a centrifugal turbopump. A 3D model would be very helpful for explaining and making the turbopump.
-Thank you
-Does anyone have any 3D model link?

@@ -1,8 +1,0 @@
-Moon's minimal and maximal culminations
-I read this answer carefully, and understand the subject.
-But yet can't formulate it completely!
-Let the geo-position be given in any hemisphere.
-Need to calculate the maximum possible height of the moon at culmination (which is clear from the answer, but I’m not sure about the southern hemisphere)
-and the minimum height at the moment of culmination.
-Of course, we do not take into account the complex elements of orbit,
-it is about the average motion.

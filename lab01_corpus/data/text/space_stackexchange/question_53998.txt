@@ -1,3 +1,0 @@
-Cubesat half duplex communication stack
-My understanding is that in half duplex transceivers, you are only able to either transmit or receive. In Cubesats using half duplex comms, which part of their communications stack is performing the switching between the two modes? Additionally, which part of the stack is implementing protocols like time division duplexing which utilizes this switching?
-I've looked at popular protocols like the Cubesat Space Protocol and Space Packet Protocol, but haven't been able to figure out how the aforementioned part works. Any additional resources / documentation / examples would be very helpful.

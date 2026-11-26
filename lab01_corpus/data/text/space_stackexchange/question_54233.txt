@@ -1,2 +1,0 @@
-Why is the flame color from the New Shepard engine orange?
-New Shepard is described as using liquid oxygen and liquid hydrogen for its propellants. When hydrogen and oxygen burn, as in the Space Shuttle main engines, there is a short conical blue flame, beyond which the exhaust is clear (until the water vapor condenses). The New Shepard exhaust appears to have a long, distinctly red/orange/yellow flame, which would suggest that there is something else burning besides hydrogen and oxygen. What's going on?

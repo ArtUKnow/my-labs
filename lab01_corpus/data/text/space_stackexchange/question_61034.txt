@@ -1,7 +1,0 @@
-Rewriting the equation of motion as a system of first order differential equation
-I am required to rewrite the equation
-$$\ddot{\mathbf{r}} = - \frac{\mu}{r^3} \mathbf{r}$$
-as a first order differential equation. How do I go about doing this?
-I understand how this equation was derived from the original
-$$\mathbf{F}_{21}=-\frac{G m_1 m_2}{r^2}\hat{\mathbf{u}}_r$$
-but I am struggling to find information on the process of attaining $\dot{\mathbf{r}}$ from the above equations.

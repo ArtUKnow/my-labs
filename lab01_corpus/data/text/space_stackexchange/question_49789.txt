@@ -1,3 +1,0 @@
-Why isn't SpaceX's Starship "trial and error" development strategy an open source project?
-Some large community of space enthusiasts is working hard on simulating or extrapolating data on the SpaceX Starship. But this data isn't publicly available.
-So why don't they release it as an open source project? Or at least support those who want to create their own open source project?

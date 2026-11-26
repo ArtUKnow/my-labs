@@ -1,4 +1,0 @@
-Besides landing several folks on the Moon and returning them safely to the Earth what criteria did Human Landing System proposals to NASA meet?
-The new NASA video NASA 2021: Let's Go to the Moon shows artwork for three very different spacecraft sitting on the lunar surface with the overlain caption
-Selecting A Human Landing System
-"Selecting" suggest to me that these are official candidates submitted to NASA, is that right? If so, is it possible to outline the NASA criteria that each one was supposed to meet in order to have the possibility of selection? I'm assuming there's a "landing several folks on the Moon and returning them safely to the Earth" clause and a tonnage of cargo clause, but is there a way to express the main criteria in a form short enough to be suitable for a Stack Exchange answer?

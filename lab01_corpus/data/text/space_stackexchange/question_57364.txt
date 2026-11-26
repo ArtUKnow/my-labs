@@ -1,3 +1,0 @@
-Could the Saturn V lunar stack have reached JWST for service?
-This is obviously a hypothetical question (while there are two Saturn V stacks remaining that were once "flight ready", maybe no longer flight ready enough after so many years in museums). But theoretically ...
-Let's assume we have a working Saturn V stack ready for the Moon. Could we say for them "Hey, guys, please head for JWST instead?". As I understand it, S-IVBs could leave the Earth completely and enter the Solar system (one of them is still orbiting somewhere), so just passing by is probably possible. Still it would be more work for the CSM to return, but maybe it still could ... ? The Lunar lander could be made inert and filled instead with resources needed for the longer mission.

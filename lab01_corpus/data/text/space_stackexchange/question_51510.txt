@@ -1,5 +1,0 @@
-What is the exposure time of the navigation camera on Ingenuity?
-Today's first image from Ingenuity's navigation camera shows a remarkable lack of motion blur in the shadow of the rotors, despite them turning at 2600 RPM:
-The factsheet tells us:
-Navigation (NAV) Camera. This is a global-shutter, nadir pointed grayscale 640 by 480 pixel sensor (Omnivision OV7251) mounted to a Sunny optics module. It has a field-of-view (FOV) of 133 deg (horizontal) by 100 deg(vertical) with an average Instantaneous Field-of-view (IFOV) of 3.6 mRad/pixel, and is capable of acquiring images at 10 frames/sec. Visual features are extracted from the images and tracked from frame to frame to provide a velocity estimate.
-It makes sense that for tracking visual features you'd want a short exposure to reduce motion blur. What was the exposure time?

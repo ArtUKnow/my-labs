@@ -1,4 +1,0 @@
-Falcon 9's theoretical horizontal performance
-Roughly how fast would Falcon 9 accelerate, and what would its payload's final speed be, if mounted horizontally on an ideal cart? Make simplifying assumptions as needed: massless frictionless cart, engines and both stages optimized for atmosphere rather than vacuum (or travelling in an evacuated Hyperloop), etc.
-Use one cart per stage if you like (it doesn't matter, if carts are massless.)
-This is just to compare it to terrestrial vehicles, of which there are more examples than vehicles which climb vertically. Horizontal vs. horizontal performance is fairer than what is considered by a similar question.

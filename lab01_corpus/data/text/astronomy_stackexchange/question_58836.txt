@@ -1,2 +1,0 @@
-Does a changing Earth's axis affect sunrise times on a given date?
-Using the US Navy data since 1700, I see a change in the sunrise times between then and 2024. It seems to be several minutes different at the same location on Earth. Does this suggest a shift in the axis of the planet?

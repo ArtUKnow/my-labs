@@ -1,6 +1,0 @@
-Solution to 4 equations and 3 unknowns?
-I have these 4 equations:
-and I am looking for the values of Px, Py and Pz, so these are equations to find the X, Y and Z coordinates (kind of see what a GPS is doing. I wanted to immitate a GPS and see how they find our coordinates.
-I've been trying to solve this for a very long time with matrixes but I seem to be bugging.
-I deconstructed all the ("X-P")^2 and then as I mentionned, I was attempting to do matrixes to solve all of these because all the Px, Py and Pz are supposed to be the same.
-Can someone please help me? Thanks:)

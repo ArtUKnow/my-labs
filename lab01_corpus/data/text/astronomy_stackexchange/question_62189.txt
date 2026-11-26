@@ -1,7 +1,0 @@
-Profile of energy production CNO vs pp-chain - MESA simulation
-I am using the MESA software for simulations of stellar evolution. I have considered a star with $M=1.2M_\odot$, $Z_0 = 0.014$ and literature values for the reaction rate of the $^{14}N(p,\gamma)^{15}O$. The simulation starts generating a pre-main sequence (MS) phase and halts when all the H in the core is depleted. The H-R diagram obtained is the following:
-$M=1.2M_\odot$ star with $Z_0 = 0.014$." />
-Among the values of the star's features reported by MESA there are the energy production rates for the CNO cycle and the pp-chain. I have plotted them both on the same graph in respect to the central temperature (all the datas are log scaled) and the result is the following:
-I have a question about the CNO cycle energy production curve because after it turns on such curve has a similar shape to the pp-chain's one despite they have different dependencies on temperature:
-$$\epsilon_{pp} \propto T^4 \\ \epsilon_{CNO} \propto T^{20}$$
-Could this be due to the rate of reaction assumed or is it related to the fact that such trend is only local, but in this latter case, where should I look for such trend? Or am I completely wrong?

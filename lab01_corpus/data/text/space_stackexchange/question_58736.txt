@@ -1,5 +1,0 @@
-How can Artemis 1 take so much longer for Earth-Lunar transit than the Apollo missions did?
-The Artemis I mission will take 8-14 days to get from Earth to the Moon. Apollo 11 only took 3 days. Similarly the return will be 9-19 days for Artemis I and just over 2 days for Apollo 11.
-Why is the transit time for Artemis so much longer and how can there be such a large margin between lower and upper estimates? Can this be explained from an orbital mechanics point-of-view?
-Note that the time in lunar orbit is listed separately in the image, so it seems that the variation is not due orbiting the Earth/Moon longer before the transit.
-(Source: NASA)

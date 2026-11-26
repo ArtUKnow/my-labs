@@ -1,3 +1,0 @@
-How much equipment will be required to mine 600 tons of water ice on Mars?
-Assuming that Starship needs to fully refuel on the Martian surface to return to Earth, that will require about 260 tons of methane->66 tons of hydrogen->600 tons of water, which you would need to gather in 800 days. This raises the question of how much equipment (mass, power, cost, volume) will be required, because it seems like a substantial task to gather and store that much water.
-Relevant: Landing sites being considered by SpaceX. Masten Aerospace has a design for a moon rover that can theoretically mine 420 tons of ice, but that's Moon not Mars. Some notes on Mars water mining in here. Previous question on mining water on Mars.

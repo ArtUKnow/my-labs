@@ -1,4 +1,0 @@
-Are there any star clusters associated with nebulae that have well defined 3D positioning of the stars in them?
-I am doing a project where I am trying to recreate a star cluster in 3D space using some cool retro™ neon Nixie tube indicators.
-My first choice was LBN 1015, a nice group of stars with a small reflection nebula. But while the stars are within less than a parsec of each other from our perspective, their distances from us are uncertain by about 20 parsecs either way.
-That’s annoying. Even the trapezium cluster has error in the radial direction far exceeding its size otherwise. As far as I can tell, simbad doesn’t have any feature to search for star clusters based on the average error in distance relative to the distance between its members, so I don’t know what to do here. Are there any examples that do have a well defined 3D shape?

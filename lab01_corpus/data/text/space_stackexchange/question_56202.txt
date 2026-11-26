@@ -1,2 +1,0 @@
-Is it more expensive to send a chemical rocket from surface of Earth to an orbit or from this orbit to Mars?
-I was trying to understand how cost-effective it would be to use an ion engine to power a mission. But since these propulsion systems cannot be used to leave Earth's gravitational field due to their low thrust, we must use chemical rockets to get from Earth to get to orbit. So, I wanted to understand how much savings is actually possible with using liquid rocket engines first, followed by using an ion engine.

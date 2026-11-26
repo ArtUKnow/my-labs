@@ -1,8 +1,0 @@
-Was Tianwen-1 the first "triple-depl"? (orbiter-deploys-lander-deploys-rover-deploys-selfie cam) What are the highly hierarchical deep space missions?
-What are the highly hierarchical deep space mission, those where one thing deploys the next which deploys the next... after leaving cis-lunar space.
-An example would be Tianwen-1 where a Mars orbiter deployed a Mars lander which then deployed a Mars rover which then deployed a stand-alone selfie cam.
-Ultimate goal is to find out if Tianwen-1 wins as the highest order hierarchical deployment and/or if it was the first third-order hierarchical deployment in deep space.
-Answers can be any mission with two or more hierarchical deployments that take place in deep space.
-UPDATE - I should have been clearer in the beginning
-I've emphasized above that the deployments must happen in deep space; beyond cis-lunar. I also want to emphasize that for a while at least all four Tianwen-1 participants (orbiter, lander, rover, selfie-cam) functioned independently of each other. While linked electronically, one did not "shed" or discard the previous. There were four "generations" alive and active at the same time.
-Answers that are more like staging are still welcome, but emphasis should focus on this hierarchy of active craft if possible.

@@ -1,2 +1,0 @@
-What does Paul Birch mean by kg * s^-1 * kg^-1?
-In Paul Birch's paper, Terraforming Venus Quickly he mentions a unit kg * s^-1 * kg^-1, which I interpreted as ($\frac{kg}{kg \cdot s} = \frac{1}{s}$). This is a valid unit, representing a rate. However, in this context he is talking about a mass throughput which could be achieved and mentions a value of 10^-5. This seems very low to me. Is it possible that this is a typo, or am I misunderstanding something?

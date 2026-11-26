@@ -1,4 +1,0 @@
-Why were the SRBs rolled out of the VAB without the rest of the Shuttle stack?
-This answer shows the following photo of two Shuttle solid rocket boosters, mounted on the mobile launch platform without the external tank or orbiter, and driven outside the Vehicle Assembly Building.
-Why was this done?
-In a comment below, @OrganicMarble gives a link to an article which describes the move from High Bay 1 to High Bay 3 in October 2010. The article also implies that the stack was using an external tank which had been damaged at the factory and repaired. But it does not explain why moving the SRBs was done instead of simply moving the ET; I'm still looking for an adequate answer.

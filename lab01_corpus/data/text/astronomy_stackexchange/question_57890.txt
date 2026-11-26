@@ -1,4 +1,0 @@
-Difference in field of view between JWST and Euclid
-I was watching this video about the Euclid telescope. At the 8 minute mark he compares the field of vide of Euclid with that of the JWST, showing that the Euclid field of view is much larger.
-While I understand that the telescopes are built for different purposes and Euclid needs to survey the entire sky, I would like to understand why Euclid have such a larger field of view compared to JWST in the following sense: what are the characteristics of each telescope that determine this big difference? (the two telescopes looks quite similar to me in their design, with Webb being much larger).
-If I may add: what prevents us from building a telescope with the same resolution of JWST that can see as far in the past as JWST but with the field of view of Euclid?

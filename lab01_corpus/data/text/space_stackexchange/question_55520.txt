@@ -1,3 +1,0 @@
-Are changing regolith properties under different thermal conditions a concern for the VIPER rover?
-NASA's VIPER mission will send a rover to the lunar south pole, which will drive on sunlit terrain and in permanently shadowed regions (PSRs), which are among the coldest places in our solar system.
-My question: do the properties of lunar regolith in (hot) sunlit regions differ from those of the (extremely cold) regolith in the PSRs to the point of affecting the rover's ability to drive (ex: different wheel slip/sinkage)? If so, how will these differences be mitigated when commanding/driving the rover?

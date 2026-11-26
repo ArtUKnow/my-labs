@@ -1,8 +1,0 @@
-When Artemis runs out of rollbacks
-On 2022 Sep 26, Artemis I was moved from its launchpad back to its "garage" to shelter from a hurricane.
-It was reported that
-NASA managers have said the system is rated for two more rollbacks to the VAB, so after this hurricane decision it appears the stack will need to launch after its return to the launch pad.
-What constrains how many rollbacks Artemis can endure? (Wouldn't whatever it suffers
-in terms of vibration, temperature, and forces be peanuts compared to a launch?)
-After its last permissible journey on the crawlerway, what happens next?
-Must it launch, no matter what? Or might it be taken apart, reinspected, and recertified for another n rollbacks -- if so, how much work is that?

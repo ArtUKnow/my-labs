@@ -1,6 +1,0 @@
-Was this the only time that helium balloon was used to support deployed spacecraft appendages during testing on the ground in Earth gravity?
-What is this balloon for in this clean room and what is the proper name for the "stand" that is holding the satellite? shows the image below, and a comment below @OrganicMarble's answer there asks:
-Is ISRO the only agency to use balloons, or others too use them?
-which leads to the more general Question: Is this the only time that a helium balloons was used to support deployed spacecraft appendages during testing on the ground in Earth gravity?
-They didn't use a balloon to test the Ingenuity helicopter because they had to test it in a near vacuum, so they used a cable attached to an active system which pulled up with a constant fraction of the flyer's weight. For very heavy things they support them underneath with wheels that roll along the floor.
-But a strong, leak-free helium balloon is a pretty nice solution for small loads that need a reliable and fairly steady force upwards.

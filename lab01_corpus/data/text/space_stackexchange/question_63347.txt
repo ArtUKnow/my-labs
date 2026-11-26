@@ -1,2 +1,0 @@
-How will Starship get ullage during launch?
-All the Starship air-starts up to this point have been landing burns using small header tanks which gave less ullage requirements, but I can't recall any mention of how Starship settle it's propellant in the 8 second coast after booster shutdown. Whether the engines will be started using the header tanks, or using ullage rockets.

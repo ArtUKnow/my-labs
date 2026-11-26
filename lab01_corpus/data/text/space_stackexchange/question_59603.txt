@@ -1,4 +1,0 @@
-How to calculate earth's precession using JPL Horizons System?
-I'm new to JPL Horizons and understanding how to use the tool efficiently.
-I'm looking to extract earth's precession data and understand where we are in the current cycle. I understand we progress 1 degree every 72 years, but I'm curious to know which degree point we are currently at.
-Thank you to anyone who can aid!

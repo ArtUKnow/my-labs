@@ -1,5 +1,0 @@
-Why does the optical design of the Webb mirror have three different types of panel?
-I read that there are A, B, and C type mirror segments on Webb. Why are there three types, and why are they distributed around the way they are?
-I assume the segments have to overall form exact sections of a parabola in their respective positions, so I naively thought each section would be more symmetrical, not having just three optical formulas.
-The question boils down to, why are there B and C segments?
-Here is the official NASA page on this. And below is a Flickr image from NASA that maps out the different segments.

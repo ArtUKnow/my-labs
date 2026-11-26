@@ -1,3 +1,0 @@
-What sorts of flexible materials have been found to e most suitable for use in space (particularly on the moon)?
-Maybe I'm wrong, but flexible solids like rubber have always struck me as something that wouldn't hold up long in a vacuum, or exposed to high radiation, or through big thermal cycling. What sorts of materials are used for flexible things like seals or hoses? I'm interested in all the things that engineers normally do with flexible materials that retain their shape on Earth, all the soft plastics and rubber? Do they need special treatment?
-Is silicone an option? In modelling a distant future on the moon, it seemed like it at least has the advantage of being largely composed of elements the moon has.

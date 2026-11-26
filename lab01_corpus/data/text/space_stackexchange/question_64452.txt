@@ -1,8 +1,0 @@
-How high could Ingenuity fly?
-On its 59th flight, Ingenuity achieved a height of 20 meters - twice as high as its maximum height during the original 5 flights that it was designed and expected to last for. In the scheduled 61st flight, the plan is for it to climb 24 meters.
-It seems reasonable that they will continue pushing these boundaries as long as Ingenuity lasts. How high could it climb?
-I would assume that it is limited by:
-The time/power it takes to ascend
-Different air properties, such as lower pressure, at higher altitudes
-Software not being able to handle the ground being so far away (this has been the case in the past for Ingenuity, requiring a software upgrade to go past 15 meters)
-Which of these reasons, or others, would ultimately limit the helicopter? And at roughly what height would this limit take effect?

@@ -1,9 +1,0 @@
-Scaling of temperature in a matter dominated Friedman universe
-For a radiation dominated universe, the scaling of temperature, $T$, with the expansion, $a(t)$ is straightforward. Assuming a black body radiation, $T \propto \frac{1}{\lambda}$. Since $\lambda \propto a(t)$, it follows that $T \propto \frac{1}{a(t)}$.
-The question is how does temperature, $T$, scale with $a(t)$, in matter dominated universe?
-For example, if there is hydrogen gas present, then the distribution of the hydrogen gas can give me the temperature of the hydrogen gas. The question is: how does this temperature vary with $a(t)$?
-One approach I explored is entropy density, $s$, scales as $a(t)^{-3}$.
-Now, $s = \frac{\rho + P}{T}$, where $\rho$ is matter density, and $P$ is pressure.
-Let us take only $\rho$ for now.
-Since, $\rho \propto a(t)^{-3}$, it follows that $T \propto a(t)^0 = constant$.
-Is the above analysis correct? Is $T$ independent of $a(t)$ in a matter dominated universe?

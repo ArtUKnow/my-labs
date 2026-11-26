@@ -1,4 +1,0 @@
-What document describes the scientific benefits of the LRV through an increase in the diversity of rocks returned by Apollo 15-17?
-Logically, it makes sense that the rock samples returned by the Apollo 15-17 missions tend to be more diverse than the ones returned by previous missions. The astronauts could reach regions of interest far away from the lunar module thanks to the lunar roving vehicle (LRV). Lots of reports, such as this LEAG white paper (section 2.3) and this 2019 paper (section 3.5), make this argument.
-Most papers discussing the scientific benefits of the LRV either stick to this logical argument, or only point out the quantity of rocks returned by Apollo 15-17. In my opinion, a more convincing metric would be the diversity of the samples returned.
-My question: Are there publicly-available papers/reports describing the scientific benefits of the LRV by quantifying the diversity of samples returned by Apollo 15-17?

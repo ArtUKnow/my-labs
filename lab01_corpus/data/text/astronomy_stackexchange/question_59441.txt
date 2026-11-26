@@ -1,2 +1,0 @@
-Where to publicly access full UNION 3 SN dataset?
-I am trying to import the full UNION 3 SN dataset (https://arxiv.org/abs/2311.12098), I so far found only this github repository https://github.com/CobayaSampler/sn_data. Unfortunately, there they only report binned SN data for UNION3, but I am looking to work with the full dataset (I need m(z), and do the binning later in a specific way myself. I want to create a similar plot for UNION3 and DES-SN5Y survey as I did for Pantheon and Pantheon+ catalogue here:

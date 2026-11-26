@@ -1,2 +1,0 @@
-Specification for the Siril HEALpixel Catalog Format
-This document specifies the structure of the Siril Catalog Format, designed to support efficient storage and querying of nested HEALpixel based astronomical catalogs such as Gaia DR3. The format includes a fixed length header, an index for rapid look-up, and structured data records optimized for space and speed. The document also outlines recommended search strategies for utilizing the format effectively.

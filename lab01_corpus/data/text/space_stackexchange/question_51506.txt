@@ -1,3 +1,0 @@
-Orbit Guardians - bs, right?
-California-based Orbit Guardians is one of a small number of startups trying to tackle orbital debris. It's difficult to tell exactly what their plan is, but based on this animation, they seem to want to deorbit droplets of NaK, which I understand from other reading tend to be between 800-900km orbits. They seem to want to sort of push the droplets (retrograde?). This is nonsense, right? Even setting aside the danger of sending little droplets down through the most congested regions of LEO, it seems technically unfeasible. What kind of delta-v would you need for this anyway?
-Screenshot from https://vimeo.com/536547567 showing an NaK droplet being mechanically deorbited by first capturing it then pushing it retrograde.

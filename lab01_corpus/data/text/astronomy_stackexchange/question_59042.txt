@@ -1,3 +1,0 @@
-Need help on random sample of stars, GAIA ADQL code
-I need to get a sample of random stars and the GAIA DR3 and Astrophysical parameters data, but I can't seem to figure it out. No matter what I do, they are always ordered one way or another (by either temperature, or coordinates now?!). I know ADQL doesn't support random functions.
-What should I do? Thank you very much!

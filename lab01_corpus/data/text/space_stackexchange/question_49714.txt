@@ -1,8 +1,0 @@
-Missions failed before launch
-The Falcon 9 - Amos-6 - mission in 3 September 2016 failed before launch - the rocket exploded during the static fire test.
-Some lists contain such missions but others don't - like for example Jonathan C. McDowell's JSR launch database.
-What other such missions failed before launch? I mean catastrophic failures that end in the loss of the rocket
-The list include:
-after ignition but before release of clamps
-test ignition a day or two or more before launch
-during count-down count

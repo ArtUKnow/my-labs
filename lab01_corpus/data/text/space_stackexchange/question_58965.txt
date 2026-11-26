@@ -1,7 +1,0 @@
-How do I correctly convert State Vectors to Orbital Elements to State Vectors at t (sec since epoch) in 2D?
-I am following Rene Schwarz' formulas and I've verified my calculations work using the converter by Tony Dunn.
-State Vectors to Orbital Elements
-Orbital Elements to State Vectors
-Convert between orbital elements and state vectors
-Everything is fine when I use a very small number Epsilon for the z-axis values of the state vectors. However, once I switch to fully 2D and set the z value for the state vectors to 0 I can no longer calculate the position of a body at t (seconds). I believe this has something to do with both lan and w becoming undefined/NaN - when this happens I set them to 0 instead. I think this is causing the tranformation step (#6 in "Orbital Elements to State Vectors" link) to fail to properly transform the position/velocity vectors. Unfortunately I have no mathamatical background and am lucky to have gotten this far, so while I believe I know where the problem is I have no idea how to resolve it.
-Am I stuck using Epsilon as the state vector z-axis values or is there a better way to do this for 2D orbits? If there is, what are the changes to the formulas at the links provided or what formulas do I need to use instead?

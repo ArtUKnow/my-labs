@@ -1,5 +1,0 @@
-Can kerolox or SRB soot particles grow too large too quickly; not accelerated in expanding exhaust leading to a loss of mass-specific impulse?
-In this answer to Is methyl silane CH6Si ever considered as fuel in rocketry? I argue that there's no huge loss in mass-specific impulse (Isp) when producing sand (and by extension soot) in the exhaust as long as the particles are small enough that they behave similarly to a gas in that they speed up to the exhaust velocity during expansion and so are effective carriers of momentum.
-If they formed and grew extremely quickly, there may be a risk of them getting so large that they are not accelerated to the full speed of the exhaust gas, which we remember is quickly expanded to match the ambient pressure, which is pretty low in space. That low-pressure gas may be ineffective in accelerating large particles.
-However, I have no idea what "quick" and "large" mean quantitatively in this context, so I'd like to ask:
-Question: Can kerolox or SRB soot particles grow too large too quickly so that they are not sufficiently accelerated in expanding exhaust leading to a significant loss of mass-specific impulse?

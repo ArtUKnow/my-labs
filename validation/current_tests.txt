@@ -13,15 +13,15 @@ corpus field tests: OK
 native crawler HTTP200/304/changed, SQLite, gzip, SHA256: OK
 native HTTP helpers: OK (0 failures)
 native selftests: OK (0 failures)
-downloaded	http://127.0.0.1:62449/article.xml
+downloaded	http://127.0.0.1:52158/article.xml
 processed: 1
 errors: 0
 pending: 0
-unchanged	http://127.0.0.1:62449/article.xml
+unchanged	http://127.0.0.1:52158/article.xml
 processed: 1
 errors: 0
 pending: 0
-updated	http://127.0.0.1:62449/article.xml
+updated	http://127.0.0.1:52158/article.xml
 processed: 1
 errors: 0
 pending: 0

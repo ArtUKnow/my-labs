@@ -1,3 +1,0 @@
-Is TIG or laser welding feasable for building aluminum habitats either on the Moon or in orbit?
-The question was originally spurred by Andy Weir's Artemis - in the novel oxyacetylene and neon are extensively used for cutting and welding. TIG or laser welding seem like the obvious choices for their relative safety and precision, but I don't know what material thickness they would be capable of on large thermally-conductive structures in vacuum.
-Have things been intentionally welded in space? If so, what kinds of metals and techniques were used, and why was it necessary? mentions experiments with electron beam cutting and welding, but the Wikipedia page seems to indicate it has limited penetration (on the order of 0.01 mm) and produces very thin weld lines.

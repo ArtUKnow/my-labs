@@ -1,9 +1,0 @@
-What is the role of the mercury-filled tubes in the occulting mechanism on Zeiss planetarium projectors
-(I'm asking this here rather than on the Engineering SE, since it's quite specific to astronomical technology; sorry if it's off-topic.)
-Early Zeiss planetarium projectors had eyelid-like occulting mechanisms to block all light from shining below the horizon. There was one of these devices for each of the star field lenses. This mechanism was gravity-operated using a weight.
-Image from https://natchard.com/2014/07/27/eyelids/
-It is clear from the images that the cigar-shaped counterweight is at around a 40° angle to the vertical. All the sources I can find describe these cylinders as being partly filled with mercury. (NB: in later Zeiss projectors, the designers found a way to use straightforward symmetrical counterweights; I suspect better bearings made this possible).
-So my question is: why the angled tube partly filled with a heavy liquid? My hypothesis is that this was a way to avoid a gimbal lock problem as a given lens passed through the nadir. As the mercury flowed along the tube, the centre of mass would change and perhaps this would cause the ring to turn, preventing the eyelid from being stuck in an inverted position as the star carrier continued to rotate.
-The most complete description of the mechanism I have found is in this article:
-Popular Astronomy: The Adler Planetarium, 1932.
-EDIT: I've come across this video which seems to support my theory. The weights/gimbals are seen rotating jerkily and don't swing around until the lens has passed through the nadir:

@@ -1,3 +1,0 @@
-How is the equation for non-spherical gravitational accelerations derived?
-I am referencing Vallado (4th edition) to understand the acceleration contributions on a spacecraft due to non-spherical gravitational effects. Generally, I understand this derivation, except for how to calculate the partial derivative of the potential function with respect to latitude. I went to Vallado's source to see how the partial derivatives were calculated, and equation 4-31b is still a mystery to me:
-I'm not sure how this result was obtained by simple chain rule, even after referencing the subsequent equations. I would expect the term on the second line to simply be P_n^(m+1) * sin(phi) * P_n^m * cos(phi). Clearly I'm missing something.

@@ -1,2 +1,0 @@
-Do aeroshells need to be super smooth to survive atmospheric entry?
-IIRC, one of the arguments against Shuttle Columbia's hole being repaired was that the repair would not be smooth. Apparently, the heat shielding relied on a sensitive boundary layer. Even a small bump could increase the tempertures around 600 degrees Celcius. Is this true? If so, does it apply to other spacecraft (eg; capsules, rover aeroshells, the Starship, etc) What are the tolerances and the potential temperature rise from defects?

@@ -1,5 +1,0 @@
-Why doesn't NASA release all the aerospace technology into public domain?
-NASA is a publicly funded US governmental agency, yet it does not seem to release all the technology it develops into public domain for people being able to study it and learn from it. For instance, full documentation has not been released for the rocket engines used etc. What is the reason for keeping most of the technological stuff proprietary (read "closed source")?
-Is this because of "national security" in fears that an enemy (terrorist etc.) could develop an intercontinental ballistic missile and use it against the country?
-I can understand that for example, the Army does keep things secret since they posses real weapons, but I wonder if NASA's intellectual property is considered to be dangerous when in wrong hands.
-Edit: According to this answer ITAR can not prevent open source from being published so legally ITAR is not the reason why NASA does not publish things.

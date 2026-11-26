@@ -1,3 +1,0 @@
-Do fins with slightly different masses but the same surface area affect the stability of a rocket?
-Each of four fins of a rocket are of slightly different masses like( 0.204, 0.2, 0.199 and 0.19 kg). If they have the same surface area, will that severely affect the stability (spin) during flight? I was going to put a layer of paint to add the difference.
-When calculating the angular moment is the distance taken from the center of gravity or the base of the rocket nozzle up to the centroid of the fins?

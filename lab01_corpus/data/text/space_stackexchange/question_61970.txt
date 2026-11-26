@@ -1,2 +1,0 @@
-What happens if the range control fails?
-Your rocket was launching. Something went wrong. It is outside of the safety corridor. The range control attempts to terminate the flight, but the Flight Termination System (FTS) fails. Now what happens?

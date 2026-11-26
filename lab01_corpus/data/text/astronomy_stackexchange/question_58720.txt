@@ -1,3 +1,0 @@
-How to calculate highest latitude where both day and night occur on a given date?
-I would like to know if there are straightforward formulas to get a latitude where the Sun on a given date reaches both 0 and 18 deg below the horizon?
-I'm using Python/Skyfield to calculate twilight times, so I could use something like binary search between +/- 49 and 90 deg of latitude, but it would be cumbersome. So, maybe this problem could be solved in more elegant way. Any advice appreciated.

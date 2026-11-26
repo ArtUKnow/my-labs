@@ -1,6 +1,0 @@
-Is the zero gravity experienced in ISS the "artificial" kind?
-I always wondered about the following:
-An astronaut floating inside a spaceship that is far from Earth or any other other planet will experience true zero gravity because there is negligible gravitational pull coming from any planet nearby. Is this correct?
-But an astronaut floating inside the ISS is experiencing artificial zero gravity (I use the term “artificial” because it is not the consequence of the lack of a gravitational pull — the Earth is still there), because the ISS is constantly free-falling towards the earth while at the same time speeding around it. Is this correct?
-What I mean is, isn’t the zero gravity experienced by an astronaut inside the ISS similar to what a person would feel if they were standing inside an elevator that was free-falling for a long period of time? Or more precisely, isn’t it similar to the artificial zero-gravity created by those big zero-g airplanes? And we somehow seem to forget that when we look at those ISS videos.
-Or am I completely wrong?

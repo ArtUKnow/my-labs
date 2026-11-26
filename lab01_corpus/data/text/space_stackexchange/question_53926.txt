@@ -1,4 +1,0 @@
-Do space transportation firms such as SpaceX receive a financial compensation if a launch is cancelled because of an airplane entering the launch zone
-I read on https://arstechnica.com/science/2021/06/spacex-to-launch-second-rideshare-pressuring-small-launch-industry/ (mirror 1, mirror 2):
-The countdown clock got to T-11 seconds on Tuesday afternoon before SpaceX called a hold to the launch of its Transporter-2 rideshare mission. The scrub was necessitated by a range issue caused by an airplane in the launch zone. The company will now turn around the vehicle for another launch attempt on Wednesday afternoon.
-Do space transportation firms such as SpaceX receive a financial compensation in the event that a launch is cancelled because of an airplane entering the launch zone?

@@ -1,2 +1,0 @@
-Navigating CDDIS Site for High Precision Ephemerides
-I am having some difficulties understanding the data on CDDIS website, especially, how to navigate them. I am essentially trying to get access to some high precision State (Position and velocity) data for different orbits (GEO, MEO, LEO, and also cis-lunar). Any help on how to navigate the site would be greatly appreciated.

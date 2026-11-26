@@ -1,2 +1,0 @@
-How to calculate sheath area
-Suppose we have a cubesat in LEO, if the metallic surface of the satellite is at a positive potential it will attract electrons from the ionosphere plasma, the current collected will be I = J * A, with J the current density of the plasma and A The sheath area, at higher voltages the area will be larger, but how can I calculate this area given a certain potential?

@@ -1,4 +1,0 @@
-How long could the Deep Space Network remain in contact with Voyager if the antenna was double the size?
-According to NASA:
-The two Voyager spacecraft could remain in the range of the Deep Space Network through about 2036
-Currently, the DSN (Deep Space Network)'s largest antenna is 70 meters in diameter. What if NASA made an antenna like that one, except double the size, so 140 meters in diameter? How long would the two Voyager spacecraft be in the range of the the new antenna for?

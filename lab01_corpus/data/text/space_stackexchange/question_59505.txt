@@ -1,2 +1,0 @@
-Material defects and its testing for manufacturing of parts
-Is there any literature report on what is the level of testing at NASA on the defect sizes in raw material for manufacturing of parts for space shuttle and other space vehicles? For example, what is the qualification criteria for defect sizes (surface, sub-surface and bulk) in raw material using ultrasonic examination?

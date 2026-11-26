@@ -1,4 +1,0 @@
-How to detect the correct sign of the true anomaly for position prediction (clockwise/counterclockwise rotation)?
-I calculated spacecraft's keplerian orbital params from position/velocity using this formulas: https://drive.google.com/file/d/11KhEdFboZCPUjfibtjHaDBWtUTNmJxFA/view?usp=sharing
-Then I can predict position by rotating orbit excentricity vector by true anomaly angle and multiplying it by radius length (after normalization). But sometimes I get the correct possition that points to the real spacecraft position and sometimes that position moves on orbit in opposite direction than spacecraft (if spacecraft rotates clockwise around planet, true anomaly moves counter clockwise and vise-versa), so, I need to select true anomaly with the minus sign to get the correct position in that case.
-So, from which param of orbit the sign of true anomaly depends? How can I detect when I should use true anomaly with the minus sign?

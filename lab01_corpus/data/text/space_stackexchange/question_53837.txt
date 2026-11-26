@@ -1,6 +1,0 @@
-Is there an estimate for the average mass of all meteoroids and asteroids hitting Earth's atmosphere in one year?
-I wonder how much mass is entering Earth's atmosphere every year in the form of meteoroids and asteroids. This excludes micro-meteoroids, dust particles, molecules etc.
-Quick search result talks only about the number of object:
-Every year, the Earth is hit by about 6100 meteors large enough to reach the ground, or about 17 every day, research has revealed.
-[source]
-Background: comparison of this natural reentry mass to the mass of reentering satellites, What impact will the deorbiting of thousands of satellites have on the atmosphere?

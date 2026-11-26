@@ -1,8 +1,0 @@
-What happens if you use an expired solid rocket booster?
-Prior to the launch, there was media coverage about how the SLS solid rocket boosters were set to expire in December (which could have caused the launch to be delayed).
-Was this expiration date based on anything chemical, and if so:
-Could you smell-check an SRB like I smell-check the milk in my fridge, to see if it's still usable past the expiration date? (Testing a sample for signs of "staleness" would count as a smell-check for this)
-On the article for "Solid-propellant rocket" Wikipedia says
-Since solid-fuel rockets can remain in storage for an extended period
-without much propellant degradation...
-What does "much" degradation mean, and how is this degradation measured?

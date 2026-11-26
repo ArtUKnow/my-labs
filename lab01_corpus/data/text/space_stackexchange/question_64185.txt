@@ -1,4 +1,0 @@
-Has a rocket engine with LOX as the oxidizer ever fired beyond the GEO belt?
-Intuitive Machines' Nova-C lunar lander is scheduled to launch in mid-February of this year. Notably, the lander uses liquid methane as fuel and liquid oxygen as the oxidizer, and it will rely on this combination to perform the lunar landing.
-While endless missions to geostationary orbit have been directly inserted by a rocket with LOX as the oxidizer, I can't find any missions where this most basic of oxidizers has been used beyond the GEO belt. Blok-D (with its RP-1/LOX RD-58 engine) would have done this during a nominal N1 flight, but obviously that never happened.
-So will the IM-1 Nova-C mission really be the first time that LOX is ever used to propel something in deep space?

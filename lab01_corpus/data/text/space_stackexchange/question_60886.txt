@@ -1,4 +1,0 @@
-Can the Virgin Galactic's feathered rentry system be used for first stage recovery?
-The stage seperation for Falcon 9's heaviest launch on 28 August 2022 was at approx 75km altitude and at a speed of 8000km/h.
-Virgin Galactic's Spaceship two has a max speed of 4000km/h and a max service ceiling of 110km.
-Would it be possible theoretically for a first stage to use the feathered reentry system to recover the booster?

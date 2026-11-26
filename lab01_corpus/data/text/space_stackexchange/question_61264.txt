@@ -1,3 +1,0 @@
-What is the most promising fusion technology for rocket propulsion?
-Given current fusion technology (barely above q=1 as of the 12/12/22), is a fusion plasma torch rocket engine viable?
-I'm asking in terms of basic science, not engineering, as I know this would involve decades of work to get to a working model.

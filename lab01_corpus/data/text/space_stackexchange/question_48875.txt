@@ -1,3 +1,0 @@
-What is the lowest possible stable Mars orbit?
-Due to atmospheric drag, the lowest altitude above the Earth at which an object in a circular orbit can complete at least one full revolution without propulsion is approximately 150 km (93 mi) while the lowest perigee of an elliptical revolution is approximately 90 km (56 mi).
-What is the value of those numbers for Mars?

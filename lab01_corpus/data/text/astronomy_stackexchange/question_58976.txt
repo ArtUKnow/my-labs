@@ -1,6 +1,0 @@
-Could neutron stars leave a "remnant" after decaying (assuming they decay)?
-Proton decay is a hypothesis presented by some GUTs and, although we have zero experimental evidence for that, it's still a possible phenomenon or, at least, it's not ruled-out
-If proton decay occurs, neutron stars should decay over time, as the external layer of matter made of protons would decay over extremely long time scales, decreasing the degeneracy pressure, and allowing neutrons to suffer beta-decay, which would form in turn new protons that could eventually decay, decreasing even more the degeneracy pressure and so on
-But, could there be neutrons stars with cores composed of particular forms of matter that would survive this proton decay, leaving a remnant?
-For instance, in this image (https://www.researchgate.net/publication/264459294_Properties_of_High-Density_Matter_in_Neutron_Stars/figures?lo=1) it's shown the different possible compositions of a neutron star core: neutrons, electrons, muons, hyperons, deltas, bosons, condensates...
-Are any of these options close to mainstream and verified physics but that at the same time would allow neutron stars to survive proton decay in some sense after all, if it indeed happens?

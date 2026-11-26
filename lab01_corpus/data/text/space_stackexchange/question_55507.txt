@@ -1,4 +1,0 @@
-Calculating the projectile of rocket using RCS to tilt the flight path
-If I have main solid rocket with 800 N Thrust, 9 kg in total and has RCS thrusters 0.5 m from the center mass. Mid flight the RCS with 1 N force is activated for 2 sec. How does it affect the flight path? How much tilt is generated in the rocket projectile instead of going vertically up? The RCS is fired during the main rockets burn time of 3.5 secs.
-Do I just take the resultant of 800N and 1 N force over 2 sec burn period of RCS? Any formulas I can use for this case. I would like to get some plots for the flight path status.
-Thank you.

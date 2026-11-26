@@ -1,4 +1,0 @@
-During orbital rendezvous, at what distance and approach velocity does the transition from orbital mechanics to “boating around” occur?
-During the intercept (terminal) phase of orbital rendezvous, the intercepting spacecraft must use Proportional Navigation or Orbital Mechanics to develop an intercept course: all that counterintuative “back up to catch up” stuff. However, during braking and docking phase, the interceptor uses intuitive “boating around” maneuvering.
-Question: During orbital rendezvous, at what distance and approach velocity does the transition from orbital mechanics to “boating around” occur?
-Buzz Aldrin’s doctoral thesis on orbital rendezvous is available at https://dspace.mit.edu/handle/1721.1/12652 It has a general overview which is surprisingly readable.

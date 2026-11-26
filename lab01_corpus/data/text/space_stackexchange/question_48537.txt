@@ -1,5 +1,0 @@
-Are LVLH and RSW coordinate systems the same thing?
-I've been reading into satellite relative motion, and I noticed that the literature split on using LVLH (local vertical local horizontal) and RIC/RSW (radial intrack crosstrack) coordinate frames. When I've looked into the definitions of each, it appears that LVLH has a z axis that points to the center of the earth, a y axis that is negative to the orbit normal. In contrast the x axis of RIC points in the direction of the spacecrafts position vector, and the z axis is pointing in the direction normal to the orbit plane.
-However, I've found other sources, that have said RIC and LVLH are the same thing. Could anyone clear this up?
-EDIT: Here is the source: https://public.ccsds.org/Pubs/500x0g4.pdf
-on page 23 (section 4.3.7.2) the LVLH frame is defined. In section 4.3.7.4 the RSW frame is defined, and the author says that RIC and RSW are the same thing. Should I just stick with Vallado's definition because his work seems to be the preeminent book in the field?

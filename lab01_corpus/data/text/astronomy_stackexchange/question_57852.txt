@@ -1,8 +1,0 @@
-How to calculate moon's distance and parallax in it's altitude
-I'm trying to calculate moon's parallax in it's altitude depending on the day I need and I followed this formula by geoastro.de Basics of Positional Astronomy and Ephemerides
-but I need to calculate it's distance first and I don't know how to calculate it.
-So is there formula or resource can help me.
-moon's parallax formula
-horParal = 8.794 / (moonDistance / 149.59787E6);
-p = arcsin[cos(altitude)*sin(horParal/3600)];
-Notes: altitude = 36.1° & moonDistance is in meters.

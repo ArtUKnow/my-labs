@@ -1,8 +1,0 @@
-Why is intensity not an observable quantity?
-I found that in astronomy we usually use flux $F$ instead of intensity $I$ in observations. My teacher tells me it is because intensity is not a observable quantity. So why can we only measure flux, not intensity?
-$$
-F = \frac{\mathrm{d}E}{\mathrm{d}A \mathrm{d}t}
-$$
-$$
-I = \frac{\mathrm{d}E}{\mathrm{d}A \mathrm{d}t \mathrm{d}\Omega}
-$$

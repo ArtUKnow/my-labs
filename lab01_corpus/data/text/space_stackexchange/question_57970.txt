@@ -1,4 +1,0 @@
-Does anyone here have a recognized definition of North, South, Class1, Class2 Halo orbits?
-Question: What makes a halo orbit North or South, Class 1 or 2
-In going thru various sites and papers I've come across lots of discussion of halo orbits being Northern, Southern, Class 1, Class 2. but have not come across an explanation of what makes a specific halo one or the other.
-From what I've seen it seems that when the object in L2 halo orbit has its greatest forward velocity (nearest earth) below X-Y plane (using RLP framework, viewing from L2 towards earth/sun) it is called a northern (Class 1) halo.

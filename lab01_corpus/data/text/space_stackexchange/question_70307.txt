@@ -1,6 +1,0 @@
-What is known about the extent of the damage to the Columbia shuttle wing prior to re-entry during the STS-107 mission?
-Various news reports in the months/years after the loss of Columbia say that the foam strike during STS-107 created a hole in the shuttle's wing.
-But the Columbia Accident Investigation Board report typically refers to the foam strike result as a "breach" or "damage." They don't seem to call it a hole specifically.
-I know that during the investigation there was a well-publicised test where a piece of foam shot at a reinforced carbon carbon sheet, the same as in the leading edge of the wing, blasted a hole in the sheet.
-But there were other tests done by CAIB which didn't cause a hole, I think. There is more information in the report on this but I found it hard to parse as a layperson.
-What is understood about the nature of the damage to the leading edge of the wing after the foam strike during STS-107 launch? Is it thought to be a hole or could it be a crack (even a hairline crack) or some other kind of breach/damage?

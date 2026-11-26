@@ -1,4 +1,0 @@
-Probing center of mass during launch
-It's easy to calculate the change in center of mass due to fuel consumption.
-But suppose you want to probe it experimentally (with whatever necessary calculations you might need to do on the measured data).
-Could you do this with accelerometers/gyros alone, e.g., if you had an array of them? Could you do this with some other type of (off-the-shelf, easily accessible) sensor? Say maybe you want to try this on an ROV with variable mass and you don't have a good estimate for the rate of mass change handy.

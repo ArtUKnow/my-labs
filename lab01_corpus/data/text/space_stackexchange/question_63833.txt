@@ -1,3 +1,0 @@
-How could a spacecraft reduce an orbital insertion burn after a Hohmann transfer using gravity assists?
-I want to calculate a mission to Saturn, and my theoretical spacecraft has a total Delta-V of about 10,000 m/s. I have seen using different tools that it will take about 6000 m/s for the initial transfer using multiple Mars and one Jupiter gravity assist, and have been wondering if there are any ways to reduce the amount of Delta-V used for Saturn orbit insertion after the transfer. For example, Aerocapture or other methods. I'm not really a math person, so if you have any equations to help determine anything, I might not understand it, but I am willing to learn how it works!
-Edit: Assuming starting from a 300 KM circular orbit to clear some confusion.

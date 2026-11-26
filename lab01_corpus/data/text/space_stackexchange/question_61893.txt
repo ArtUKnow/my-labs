@@ -1,6 +1,0 @@
-Inter-satellite/Inter-platform communication requirements
-I am studying Inter-satellite/Inter-platform links and would like to compute the link budget: Satellite-Satellite or HAP to HAP ( high altitude platform).
-For my computation, I am looking for a document with link specifications in 5G or 6G communication.
-In ITU regulation defined frequencies for the inter-satellite link (22.55-23.55 GHz, 24.45- 24.75 GHz, 32.0-33.0 GHz and 59.3-71.0 GHz), but I didn't find information about latency, bandwidth, power and etc.
-I also can not find such regulations for altitude platforms. Does anyone know of there is a specification document for altitude platforms?
-Is there a document where I can collect all information?

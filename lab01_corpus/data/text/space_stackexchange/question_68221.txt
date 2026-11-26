@@ -1,3 +1,0 @@
-How to estimate the orbital height from the time it takes a satellite to cross the sky?
-Let's say it takes 5 minutes for the little "star" I observe at night to cross the sky from horizon to horizon. If one assumes a circular orbit and that the object in question is indeed in orbit around this planet; is it then possible to guesstimate orbital height?
-How would the calculations be done?

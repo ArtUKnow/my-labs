@@ -1,8 +1,0 @@
-What was the "5 minute EVA"? What was the shortest-duration EVA ever?
-A comment to this answer makes the claim
-humans are so impaired in space that their ability to repair anything is ridiculously low (hours of preparation and debriefing even for a five-minute EVA, and they're seriously exhausted)
-Request for clarification showed that this wasn't meant to be hyperbole and that the information came from a "press article".
-Keeping in mind that shuttle EVA time officially started when the Extravehicular Mobility Unit (EMU) was switched to internal power, and ended when it was switched back to Orbiter power1, so IVA tool prep, donning, doffing, airlock pressurization and depressurization, etc, are excluded.
-Given that, what was the "five-minute EVA" referenced? Was it the shortest EVA ever? If not, what was the shortest EVA ever?
-(It doesn't have to be a shuttle EVA but please try and similarly exclude all the pre- and post- time if possible )
-1 Space Shuttle Flight Rules, Section A15-1, EVA Time Definition

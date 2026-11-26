@@ -1,4 +1,0 @@
-What is the current state of the art in converting between mean and osculating orbital elements?
-I want to implement algorithms to convert from mean to osculating elements, and vice versa.
-I've been digging through Vallado's text (fourth edition), and under General Perturbation Techniques, he chats about Kozai's method and Brouwer's method. Are these algorithms still commonly used today? If so, are there any improvements/adjustments that I should know about?
-I just don't want to go and implement an algorithm from a thirty-year-old paper, only to find out that there are more accurate or computationally efficient approaches available today.

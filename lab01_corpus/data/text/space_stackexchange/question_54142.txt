@@ -1,4 +1,0 @@
-Are there any markings that uniquely identify each Saturn-Apollo combination?
-This question made me wonder: are there any markings on the Saturn I/IB/V launch vehicle, Apollo service module or command module that uniquely identify each vehicle (i.e. AS-5xx)?
-It doesn't have to be a mission-specific marking; it may also be e.g. an externally visible identification of a stage, the instrument unit, or CSM that can be uniquely linked to a mission. For example, if a particular SI-C stage had a big #6 painted on it, it could be linked to AS-506, which was used in Apollo 11.
-I thought that the IU had some white markings on its black exterior that were unique to each unit, but I cannot find a reference for that (so I may have made that up...).

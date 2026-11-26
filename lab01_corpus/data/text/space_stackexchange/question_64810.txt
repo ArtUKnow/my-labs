@@ -1,4 +1,0 @@
-Impact of Satellite Movement on Signal Processing Between Tx and Rx:
-I am researching how the movement of satellites affects signal processing between a transmitter (Tx) and receiver (Rx). Satellites can function as either transmitters or receivers.
-The movement will alter the communication link between the satellite and user devices. From my physics course, I am familiar with the Doppler effect, which causes spectrum shifts. What other effects might occur? Could it impact resource allocation algorithms or power allocation? How about demodulation, modulation, decoding, and encoding?
-To be honest, I am particularly interested in understanding whether satellite movement affects the placement of network functions (RAN architecture). However, I am unsure if this is the right place to pose this question.

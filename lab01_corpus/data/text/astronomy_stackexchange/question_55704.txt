@@ -1,8 +1,0 @@
-Geometric effect on sun's position in the sky at the equator
-This question is about an explanation of "Sunrise and Sunset Times Near the Solstices" on the official website of the US Naval Observatory.
-It is mentioned in the explanation article that,
-At the equator, there is no geometric effect at all—the Sun's daily
-track above the horizon is always exactly half a circle. The clock
-effect completely determines when sunrise and sunset occur there.
-Now this seems inaccurate to me. Yes, the Geometric effect which occurs due to the seasonal decline of the sun is minimised at the equator relative to higher or lower latitudes.
-But, how can the geometric effect be eliminated at the equator as the sun as observed from the equator still travels from the Tropic of Cancer to the Tropic of Capricorn (as this should also cause a geometric effect, although minimal relative to other latitudes, still significant relative to the clock effect which is the effect on the observed position of the sun due to the discrepancy between solar time and clock time)?

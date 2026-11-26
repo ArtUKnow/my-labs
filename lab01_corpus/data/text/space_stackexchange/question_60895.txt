@@ -1,2 +1,0 @@
-Why didn't early satellites have a way to recharge?
-Sputnik 1 only worked for 21 days until its battery ran dry, explorer 1 ran for 111 days. It wasn't until Vanguard 1 that we started putting solar panels and recharge methods on satellites. It was successful as Vanguard 1 transmitted its signals for over six years as it orbited the Earth. I want to know why the first few spacecraft in orbit did not have a way to recharge.

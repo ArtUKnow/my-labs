@@ -1,6 +1,0 @@
-Two different Hill's equations for space rendezvous
-I have stumbled upon two variations of Hill’s equations across numerous scientific journals:
-$\newcommand\w{\omega}\newcommand\m[1]{\begin{bmatrix}#1\end{bmatrix}}$
-$$\m{\dot{x} \\ \dot{y} \\ \dot{z} \\ \dot{v}_x \\ \dot{v}_y \\ \dot{v}_z} = \m{0 & 0 & 0 & 1 & 0 & 0 \\ 0 & 0 & 0 & 0 & 1 & 0 \\ 0 & 0 & 0 & 0 & 0 & 1 \\ 3n^2 & 0 & 0 & 0 & 2n & 0 \\ 0 & 0 & 0 & -2n & 0 & 0 \\ 0 & 0 & -n^2 & 0 & 0 & 0 } \m{x \\ y \\ z \\ v_x \\ v_y \\ v_z} + \m{0 \\ 0 \\ 0 \\ a_x \\ a_y \\ a_z}$$
-$$\begin{aligned}\ddot{x} - 2 \w \dot{z} &= f_x \\ \ddot{y} + \w^2 y &= f_y \\ \ddot{z} + 2\w \dot{x} - 3 \w^2z &= f_z\end{aligned}$$
-Why are the positive and negative signs of the mean motion reversed in these two sets of Hill's equations? Are these expressions equivalent? If so, why?

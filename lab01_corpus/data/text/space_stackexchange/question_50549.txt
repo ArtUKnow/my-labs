@@ -1,7 +1,0 @@
-Trying to calculate Starship's ability to escape earth gravitational potential
-The Wikipedia had the spectrum of SpaceX Raptor's specific impulse to be 330s at sea level and 380 in vacuum. Using an updated effective exhaust velocity at sea level to = 3280 m/s and in the vacuum to be = 3750 m/s.
-The thing was, with the specification from SpaceX's Website or Wikipedia, the amount of fuel in Super Heavy and Starship could not sustain enough energy to escape the earth's gravitational potential.
-Without accounting air resistance, which reduces the energy, but account for the reduced air pressure, since it had positive contribution to the launch with respect to the increased effective exhaust velocity, the final kinetic energy of Starship + gravitational potential of Starship =(1.15918e+12 -6.97824e+12)J=-5.81906e12J
-This has nothing to do with the amount of the raptors used during the launch. The simulation used 36 Raptors for Super Heavy as indicated from the website(72/2), and another 7 for Starship(since 6 could not sustain a circulation speed in the final attitude).
-In fact, even with Rocketdyne RS-25's effective exhaust velocity through out the launch (4400 m/s), and without the air resistance, the Starship lacked an amount of energy (9.57629e+12 -1.07148e+13)J=-1.13851e12J
-What went wrong with the spectrum of the Starship and Super Heavy? What kind of specific impulse did they actually want?

@@ -1,6 +1,0 @@
-How could Starship "deep space variants" improve payload performance by "orders of magnitude" (Elon Musk)?
-Replying to Scott Manley's tweeted table of payload mass for a given geocentric C3, Musk tweeted:
-We could stretch the Falcon Heavy upper stage & increase this a lot, but FH already covers all known payloads.
-Starship, especially with orbital refilling & dedicated deep space variants (no heatshield, flaps or header tanks) will take this up orders of magnitude.
-"Orders" is plural, so assuming (without justification) that we always round to the nearest integer order, conservatively speaking the least this can be is 101.5 or a factor of 31.6, though it sounds like a fancy way to say "hundreds".
-Question: I can see that making a "Stretch Starship" with lots of landing-associated hardware removed just shuttling between LEO and C3 > 0 is helpful, but how can this actually make an "orders of magnitude" improvement in payload performance?

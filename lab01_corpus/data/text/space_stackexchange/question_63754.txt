@@ -1,5 +1,0 @@
-Rocket Engine Failure Rate
-I am a reciprocating engine machinist and understand that rocket engines are much much more complex. But I am curious why they have such a high failure rate. Even modern rockets are designed to compensate for and do experience high engine failure rates whilst the modern jet engine has a failure rate of <.001%.
-What is the greatest point of failure 1)fuel supply or 2)engine component failure?
-Of engine components, what is the single greatest point of failure? I would suspect the turbopumps.
-Thanks in advance.

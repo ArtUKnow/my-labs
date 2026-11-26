@@ -1,9 +1,0 @@
-What is/was legacy TLE ephemeris type 2? (TLE, line 1, column 63)
-Wikipedia's Two-Line Element Set entry for line 1, column 63 (1.12) says:
-Ephemeris type (internal use only - always zero in distributed TLE data)13
-13Celestrak Frequently Asked Questions: Two-Line Element Set Format
-And that says:
-Field 1.12 represents the ephemeris type (i.e., orbital model) used to generate the data. Spacetrack Report Number 3 suggests the following assignments: 1=SGP, 2=SGP4, 3=SDP4, 4=SGP8, 5=SDP8. However, this value is used for internal analysis only—all distributed element sets have a value of zero and are generated using the SGP4/SDP4 orbital model (as appropriate).
-However, this answer to Will the new “TLE format” be orbitally-mechanically better than traditional TLEs? links to https://www.space-track.org/documentation#/sgp4 (requires login to read content) which is said to say (double block quote because I'm quoting a quote):
-To ensure backward compatibility, there is a new Ephemeris Type 4 (XP) now accommodated by the TLE that allows users to use legacy SGP4 Ephemeris Types 0 or 2, or SGP4-XP Ephemeris Type 4 TLEs without changing inputs to the SGP4prop library. This keeps interfaces from changing due to the XP upgrade.
-Question: What ephemeris type does the "2" refer to in "legacy SGP4 Ephemeris Types 0 or 2"? Have TLEs ever been released specifying this type? And no matter yes or now, what type does the "2" correspond to?

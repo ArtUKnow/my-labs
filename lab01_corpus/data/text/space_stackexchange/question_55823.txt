@@ -1,7 +1,0 @@
-What is "anti-geysering" and why would you turn it off 70 seconds before launch?
-Today Rocket Lab launched the Electron from Launch Complex 1 Pad A in New Zealand, and there was something about
-...the first time a helicopter will be stationed in the recovery zone offshore to track and observe the descending stage. Today is about testing comms and tracking to refine operations for future Electron aerial captures.
-From the countdown in the Rocket Lab video Rocket Lab 'Love At First Insight' Launch:
-T-00:01:29 LOX load is complete, system is in recirculation
-T-00:01:08 Anti-geysering is disabled.
-Question: What is "anti-geysering" and why would you turn it off 70 seconds before launch?

@@ -1,6 +1,0 @@
-Ablatively Cooled Combustion Chambers for LOX-Based Liquid Rocket Engines
-SpaceX’s Kestrel engine, which used LOX/RP-1 propellants in past, employed ablative cooling in its combustion chamber and throat, with a radiatively cooled niobium-alloy nozzle. However we know that, the use of carbon- or silica-fibre-reinforced phenolic composites as ablative liners raises questions about their compatibility with liquid oxygen (LOX) during propellant chill-down and engine start-up.
-Although these materials can provide effective thermal protection under hot-gas operating conditions, their organic resin matrices may present LOX compatibility and cryogenic thermal-cycling challenges.
-How are LOX compatibility, cryogenic chill-down, and repeated thermal cycling addressed in the design of these ablative chambers? Did space x specially invented ablatives for that used?
-Also,the used of ablatives on LOX still valid for today? are there any operational liquid rocket engines using ablatively cooled combustion chambers with LOX-based propellant combinations, such as LOX/RP-1 or LOX/CH₄?
-Thanks

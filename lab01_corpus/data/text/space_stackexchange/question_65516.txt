@@ -1,2 +1,0 @@
-How to calculate a Hohmann transfer when the target is moving retrograde
-Exactly as the title says. I have two objects, both in circular orbits, and with the target object in a higher, retrograde orbit. How do I modify the Hohmann transfer formulae to find the angular distance that should be between them at the start of the transfer burn?

@@ -1,5 +1,0 @@
-How long can inertial only navigation systems maintain landing accuracy in LEO?
-Inspired by this question, pre GPS all space craft used inertial navigation with periodic fixes from the ground. Inertial systems will drift with time, so the longer between last fix and landing the larger the dispersion in landing point or even a non survivable re-entry trajectory.
-This means that while loss of fix capability is not an immediate problem, there would need to be some point at which you stop trying to fix the problem and commit to re-entry if you want to hit a landing target rather than 'Earth'*.
-Are there published mission rules or other documentation for manned vehicles giving guidance for this, either as a hard 'land within X hours of last fix' or predicted landing dispersion increase over time?
-*Knowing the expected DV for the planned re-entry burn, an astronaut in LEO with no external information but a working IMU should be able to manually align in direction of orbital motion and thrust retrograde with enough accuracy to get a reentry, probably even a survivable one but hitting recovery fleet or a runway might be optimistic.

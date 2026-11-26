@@ -1,5 +1,0 @@
-Skylab as lunar gateway?
-Hypothetical question: Suppose the US had continued its agressive plans for space exploration after Apollo 11 and had decided to establish a permanent presence on the Moon.
-Would it have been conceivable to have Skylab B (the Skylab backup which ended up in the Smithsonian) sent to the Moon as an orbital lunar waystation, much in the way of the cancelled Lunar Gateway?
-IIUC a two-stage Saturn V derivative called Saturn INT-21 was considered to launch Skylab, with a LEO payload of some 120 tons. Without the CSM (which could be sent later on on its own), and shaving off the Apollo Telescope Mount, Skylab B would have weighed around 65 tons. Would that have rendered enough delta-V to fly Skylab to the Moon?
-I guess the lack of restartability and storable propellant of the S-II stage would have been an issue for braking into lunar orbit? Any other significant problems?

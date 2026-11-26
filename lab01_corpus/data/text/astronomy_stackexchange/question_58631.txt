@@ -1,2 +1,0 @@
-Are there publicly available neutral Hydrogen (HI) databases?
-I am trying to compare a couple methods for estimating the rotation curve of the M31 (Andromeda) galaxy. Does anyone know of any publicly available databases or datasets that can be used to plot a velocity distribution of neutral Hydrogen clouds based on HI emission?

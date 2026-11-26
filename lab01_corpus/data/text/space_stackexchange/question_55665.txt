@@ -1,5 +1,0 @@
-PAT (Pointing Acquisition, and Tracking) system in lasercom
-After reading some articles and posting questions 1, 2 I think, the main challenges are PAT (Pointing Acquisition, and Tracking) system and operating environment. We must put the beam onto the receiver (Rx) or other terminal and keep it with the best precision and then we have acquisition we need to setup a link via atmosphere.
-There are some supplies of the lasercom terminal, it means they solved these two problems, right? What solution did they find?
-Technical references provide only the main parameters and no detailed information, unfortunately.
-What are practical and cheap approach to implementation of PAT?

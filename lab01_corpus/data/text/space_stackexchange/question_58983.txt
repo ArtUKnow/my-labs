@@ -1,4 +1,0 @@
-What formation-keeping software does MMS use?
-The Magnetospheric MultiScale (MMS) mission is a NASA mission consisting of four satellites arranged (at apogee) in a tetrahedral formation. According to this 2015 source:
-On Oct. 15, 2015, a NASA mission broke its own record: the four satellites of its Magnetospheric Multiscale mission are now flying at their smallest separation [~10km], the tightest multi-spacecraft formation ever flown in orbit.
-That type of 3-dimensional formation flying is fairly state-of-art (opinion). What software is used by the MMS operations team to maintain the tetrahedral formation in the presence of perturbations? I.e., what software was used for station-keeping? Was a custom solution required or was there an off-the-shelf product suitable to the task?

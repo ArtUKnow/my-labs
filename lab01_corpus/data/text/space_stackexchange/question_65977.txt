@@ -1,4 +1,0 @@
-Prevent boil off in StarShip fuel depot by a JWST-like sunshield?
-Can we use Webb’s telescope shield to prevent or significantly reduce boil off of propellant from StarsShip fuel depot, made from a single StarShip in Earth orbit?
-For JWST, its sunshield covers its hexagonal mirror and optics package, but for our case what size shield do we need to have and by what principle would it cool the cryogenic fuels? If anything both Webb’s sunshield and methalox are pink (as shown in image below).
-Thanks in advance.

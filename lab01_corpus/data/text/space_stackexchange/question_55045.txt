@@ -1,5 +1,0 @@
-Is there a way (working or in development) to track satellites in lunar orbit like we track objects in Earth Orbit?
-I understand that Earth orbiting satellites are tracked using technologies such as radar, but due to the distance between the Earth and the Moon, they aren't really useful for Moon sats.
-Is the problem of tracking lunar satellites still an unresolved one?
-I've only found information about autonomous navigation (such as this paper on LUMIO which has a precision of ~30km, or this paper on using TRN in moon orbit, which has a much higher precision in the order of the tens of meters, but I'm not sure if I'm missing some obvious problem with it), but haven't found much on tracking lunar satellites.
-Is it possible to do so?

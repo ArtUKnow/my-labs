@@ -1,3 +1,0 @@
-Are there any storable non-hypergolic oxidizers?
-Any list of bipropellant rocket fuels I've come across has oxidizers that are either cryogenic (liquid oxygen), hypergolic (nitric acid), or both (liquid fluorine). Are there any practical rocket fuel/oxidizer pairs that can be stored for long periods, without the "explode when mixed" hazards of hypergolic fuels?
-(Sure, you can do something like store gaseous oxygen to burn with RP-1, but the volumetric energy density is abysmal.)

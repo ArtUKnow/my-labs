@@ -1,5 +1,0 @@
-Drag and lift coefficient tables/plots for Saturn V/Space Shuttle/Other
-I'm looking for drag and lift coefficient data to plug into my launch simulation.
-I could assume constant coefficients, but I'd like to structure my model to accept lookup tables, so I'm looking for representative data that I can use to test my model.
-This would ideally be plots or tables for rockets "in the public domain". Saturn V maybe, or the space shuttle, or any other rocket for which this data might be available (preferably one comparable in size to Falcon 9).
-Huge thanks if you can share where to find this!

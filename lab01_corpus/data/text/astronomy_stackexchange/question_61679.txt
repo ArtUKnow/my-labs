@@ -1,6 +1,0 @@
-What would someone sitting in orbit around one of the gas giants see with unassisted eyes? (Brightness levels)
-*Assuming they are wearing a spacesuit of course.
-I know that the sunlight intensity decreases exponentially as we get further out - Jupiter and Saturn get only a couple percent of what Earth gets, Uranus and Neptune get a miniscule fraction of 1%.
-Probes like the Voyagers, Cassini, New Horizons, etc. have beamed back bright, colorful and beautiful pictures of all the outer planets and their moons. I'm not familiar with what exposure times the onboard cameras used.
-Would an astronaut's eye (either in orbit or on the surface of a moon orbiting one of these planets) see the same amount of brightness/detail that is present in the photos?
-Example: what Cassini saw - light gray, red, brown stripes: would the decreased light make these more muddled / darker to the human eye? Would we be able to make out details? Or are the outer planets too dark for our human eyes to see them as brilliantly - just as it becomes hard to see things in the dark?

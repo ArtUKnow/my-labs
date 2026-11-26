@@ -1,9 +1,0 @@
-What do/will "quantum gyroscopes using nitro­gen-vacancy centers in diamond" for space applications actually look like, and how do they work?
-The NASA page ELaNa 41 Mission has a section labeled QubeSat - University of California, Berkeley which says:
-QubeSat is a technology demonstration mission. It will test and character­ize the effects of space conditions on quantum gyroscopes using nitro­gen-vacancy centers in diamond. Nitrogen-vacancy centers are ni­trogen defect points in diamond with quantum properties that allow scientists to form gyro­scopes that measure an­gular velocity. Nitrogen-vacancy center-based technologies are particu­larly well suited for space because of their high accuracy, small form factor, and radiation tolerance.
-It also links to the UC Berkeley page QubeSat: An Investigation in Quantum Sensors for CubeSats which begins:
-The Place for CubeSats in the Second Quantum Revolution
-This project is well aligned to the Second Quantum Revolution, a recent scientific phenomenon whereby quantum effects are utilized in technology to achieve better sensitivity and lifetime.
-and includes the drawing shown below which I don't understand.
-Question: What do "quantum gyroscopes using nitro­gen-vacancy centers in diamond" look like, and how do they work?
-Figure 1: Quantum Gyroscrope (source)

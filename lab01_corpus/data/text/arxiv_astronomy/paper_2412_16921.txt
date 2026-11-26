@@ -1,2 +1,0 @@
-3D Radiative MHD Simulations of Starspots II: Large-scale Structure
-We compute realistic 3D radiative MHD near-surface models of starspots with substantial penumbrae on cool main-sequence stars using the MURaM simulation code. This work is an improvement on the the previous starspot models in a slab geometry. The umbra, penumbra and the quiet star for all starspots are distinct, not only in intensity and temperature, but also in thermodynamic and velocity structure. These models represent a significant step towards modelling contribution of starspots to stellar lightcurves.

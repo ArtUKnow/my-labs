@@ -1,2 +1,0 @@
-Post-flight analysis of SpaceX Starship 20 heat shield tiles
-If Starship 20 will not be recovered, how will SpaceX evaluate the performance of the heat tiles? If a couple of heat tiles fall off and the Starship bursts into flames, how can SpaceX figure out what happened?

@@ -1,3 +1,0 @@
-What materials do rockets use to seal liquid oxygen?
-I recently read an article about seal ring applications and was surprised to find that none of the commonly used seal materials are suitable for liquid oxygen temperatures (90K). Polytetrafluoroethylene can function at very low temperatures but undergoes cold flow, causing it to lose its sealing effectiveness. High-density polyethylene maintains elasticity at cryogenic temperatures, yet it is highly flammable—let alone in liquid oxygen environments.
-So what materials are actually used for sealing high-pressure liquid oxygen pipelines, storage tanks, and other liquid oxygen-related sealing points on rockets?

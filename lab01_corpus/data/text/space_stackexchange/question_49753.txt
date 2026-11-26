@@ -1,4 +1,0 @@
-What is range angle?
-In several papers on powered explicit guidance, I've come across the term "range angle." I'm familiar with inclination and azimuth angles, but range angle is new to me.
-A quick search gave no clear answers to what this might mean. I know the info is out there, but it will take more digging than I can afford to do right now.
-I know this term will be ring a bell to some of you experts out there, so I'm asking if you can clarify it for me?

@@ -1,5 +1,0 @@
-Was the Martin Spacemaster a feasible design for a fully reusable launch system?
-The first time I saw this design was in this post and I was intrigued. The Martin Spacemaster from ~1970. What a cool design! Lots of SSME's, fully reusable, asymmetrical cockpit, and air breathing engines all in one.
-Credit: Organic Marble (if this is not the right way to cite other StackExchange posts, please correct me)
-Obviously the design was not selected for the shuttle, but how feasible was it from a technical perspective? Seems like a viable alternative for full reusability. Any glaring problems that would prevent this system from working?
-In a way this seems similar in principle to Virgin Orbit's system, except Virgin is using a commercial-modified 747 as the boost vehicle.

@@ -1,3 +1,0 @@
-What should machining (turning, milling, grinding) in space look like
-As space factories/space colonization gradually move from science fiction to visible reality, one important question is how we can produce the parts we need in space. It is conceivable that if we copy the machining equipment on the ground, we will encounter all kinds of problems, such as the lack of a stable ground with sufficient quality, the lack of sufficient cooling water, the debris will not fall to the ground and float around, and so on.
-If we attempted to manufacture parts in space, how would our machining methods and machining equipment differ from the ground, and what are the advantages and disadvantages of space machining.

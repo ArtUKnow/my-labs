@@ -1,2 +1,0 @@
-Calculating field rotation between two times
-I have the formulae to calculate the rate of field rotation at any given time, and using a python script with Skyfield I can generate a a value incrementing every 10th of a second based on the live data, but is there any way to calculate how much field rotation there has been between now and start of observation ~10 minutes ago without drift?

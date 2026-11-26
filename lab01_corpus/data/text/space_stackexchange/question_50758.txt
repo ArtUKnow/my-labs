@@ -1,9 +1,0 @@
-Entering elliptical orbit at periapse
-Consider a rocket entering an elliptical orbit from launch.
-Say you want the rocket to enter exactly at periapse---not a few degrees ahead of it, not a few degrees behind it.
-Can this be done?
-I have the mathematical machinery to control a rocket launch to given altitude, velocity, orbital inclination, longitude of ascending node, and orbital eccentricity---but not argument of periapse, which would set the location of the periapse.
-Between them, those variables make five unknowns to the six degrees of freedom of my rocket (three translational and three rotational), suggesting I have room to control one more variable.
-That said, all the papers I've seen on orbital insertion seem to leave out the argument of periapse. Plus, the five variables I already control are the only variables targeted in the space shuttle papers that I've seen (sorry, I don't have links).
-So I don't know if argument of periapse is a variable that I can target. But even if it isn't, it seems possible that it might be fully determined from the other variables over which I already have control... in which case all I need is an equation relating my desired argument of periapse to the other orbital variables.
-Is there such an equation?

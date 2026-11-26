@@ -1,4 +1,0 @@
-What proportion of the total fuel load in a Saturn V was used to drive the pumps?
-In a liquid propellant rocket, power is needed to pump propellant against the pressure inside the combustion chamber. The Rocketdyne F-1 reportedly used 55,000 HP to drive the pumps.
-What proportion of the total fuel load in a Saturn V was used to drive the pumps? How does this compare with newer engines?
-How does this compare with the pump energy used in the Electron rocket? Starship?

@@ -1,5 +1,0 @@
-How to fly from Earth to Mars if the differences between phase angles is too big for Hohmann transfer but we have fuel for other transfers?
-Hohmann transfer is possible when Earth and Mars positions are appropriate for this https://ai-solutions.com/_freeflyeruniversityguide/interplanetary_hohmann_transfe.htm
-This happens one time in two years.
-But what can we do, if positions do not satisfy that condition but we need to fly here?
-What transfers can be used in this situation (for i.e. Mars is in opposite side of Sun)? I need two solutions: fastest and fuel-efficient.

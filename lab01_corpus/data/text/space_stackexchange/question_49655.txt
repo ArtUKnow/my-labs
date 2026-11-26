@@ -1,4 +1,0 @@
-What is a "Major Component Failure" referred to in news reports about the unsuccessful Space Launch System core stage test firing?
-In reporting about the unsuccessful green run of the SLS core stage, Ars Technica mentions
-About 50 seconds into what was supposed to be an 8-minute test firing, the flight control center called out, “We did get an MCF on Engine 4.” This means there was a “major component failure” with the fourth engine on the vehicle.
-What is the Major Component Failure (MCF) referred to?

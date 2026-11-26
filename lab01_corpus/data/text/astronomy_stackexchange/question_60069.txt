@@ -1,2 +1,0 @@
-Why is Lomb Scargle detect a stronger peak at a harmonic of the true period?
-As you can see there is a strong peak at 1.44 days. There is another peak at 3.05 days (which is the close to the actual period (2.89 days) from the literature). My question is why the harmonic of the true period has a higher Lomb Scargle power? How am I supposed to interpret the result and explain why the highest peak is the harmonic?

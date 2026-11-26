@@ -1,8 +1,0 @@
-How hard or soft is the Hubble's "science floor" due to atmospheric torque? Do some kinds of observations have lower floors than others?
-After 04:58 in Scott Manley's How Failed Gyros Are Making Hubble's Life Harder:
-And while the telescope is floating in space, it is still subject to small forces which can adjust its orientation. Solar radiation pressure, the Earth's magnetic field, and atmospheric drag can make this more difficult. In fact there's a point at which the Hubble Space Telescope can no longer do science because it's too low and the atmospheric drag and torque have got too high, and this is called the "science floor".
-Question: How hard or soft is the Hubble's "science floor" due to atmospheric torque? Do some kinds of observations have lower floors than others?
-I'm also curious where this floor is, and if the modified one-gyro tracking behavior has moved these floors significantly.
-Somewhat related:
-Has Hubble ever been used to try to image a near Earth asteroid?
-Did this satellite streak past the Hubble Space Telescope so close that it was out of focus? If so, how close was it?

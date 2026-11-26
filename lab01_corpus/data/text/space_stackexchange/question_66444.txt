@@ -1,3 +1,0 @@
-What's the numeral name of the recently launched Starlink satellites and where can I track them?
-I'd like to track the recently launched Starlink sats that reached a too low orbit due to the Falcon 9 second stage leak and MVac Engine RUD. For some reason, if I wanna enter "Launch 11 July 2024" (or 12 July, depending on time zone) in this Starlink tracker, the option doesn't show up.
-The Starlink Group is called 9-3, but they must have a longer numeral name as those suggested on the tracker, right? What is it and/or where can I track the recently launched Starlinks?

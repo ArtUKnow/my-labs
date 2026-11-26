@@ -1,4 +1,0 @@
-How to correctly change velocity in space?
-The solver of the Lambert's problem gives me a hyperbolic velocity to move to some position on orbit. But the spacecraft is moving on orbit and changing the velocity takes some time. So, when I achieve the needed velocity I will be in the another position and given orbit will lead me to the wrong place.
-So, how to correctly change the velocity to achieve the predicted orbit?
-I know, that you can turn on engine in half time of needed impulse before needed point and turn off in half time after. It works. But how to find this needed point? For i.e. I can assume that I need to turn on engine after 5s from current moment. But half of impulse time can be longer than 5s. So, I need to select farer point. But it will need different orbit with different transition impulse and current calculations became irrelevant.

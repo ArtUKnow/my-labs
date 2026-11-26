@@ -1,4 +1,0 @@
-Shuttle had heat radiators, but Starship has none - why?
-Heat radiators were a big deal for the Space Shuttle - once the bay doors were closed it was important to deorbit quite quickly.
-The SpaceX Starship doesn't appear to have specific radiator capabilities. Why is this?
-Did the Shuttle just get unusually hot for some reason, or is the Starship structurally able to dissipate heat better - or is it perhaps a yet-to-be-revealed feature?

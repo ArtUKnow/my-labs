@@ -1,6 +1,0 @@
-What's the escape velocity at the near/far end of Phobos considering tidal forces?
-At the Roche limit tidal forces disintegrate bodies. A rock or a human would just float away from the points nearest/farthest from Mars. The tidal forces must be higher for rigid bodies than rubble piles or even fluids. Phobos obviously hasn't reached the limit, yet, but it's stripes indicate that ripping is going on, IIRC.
-Wikipedia says Phobos' escape velocity is 11.39 m/s
-(41 km/h), but a single number can't speak about the variable velocity that depends on location.
-Phobos also has about 3 m/s (11.0 km/h) equatorial rotation velocity at its longest axis.
-Could we jump off Phobos there? An unreliable source says that "A 70Kg human can reach a velocity of 6 m/s at the time they leave the ground." with a vertical jump. I suggest wearing a space suit, at least a mechanical counterpressure suit.

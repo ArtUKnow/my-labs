@@ -1,3 +1,0 @@
-Choice of Ammonia and oxygen as liquid rocket propellants in vortex combustion
-I have been thinking lately about the benefits of using liquid ammonia and oxygen as rocket propellants, where ammonia is difficult to burn, what if in a fuel rich closed cycle, ammonia is used to cool the nozzle then it is easily decomposed in the preburner before entering the combustion chamber. Then oxygen is injected along the walls of the combustion chamber to achieve vortex combustion, wouldn't improve the performance?
-Please note I'm not a rocket scientist just an enthusiast

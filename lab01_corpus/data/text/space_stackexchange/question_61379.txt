@@ -1,3 +1,0 @@
-Why does the point of burn on an orbit stay at a constant altitude?
-I am having trouble understanding why the current location you are at in an orbit remains unaffected when performing an orbital maneuver.
-As an example, if I want to raise the apoapsis of my orbit (most efficiently) I would burn prograde at the periapsis. But why doesn't the periapsis point change as well?

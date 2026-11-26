@@ -1,5 +1,0 @@
-How can SLS be ready to carry humans after just a single test flight?
-Artemis I is the maiden flight of the SLS, and the very next SLS mission, Artemis II, is planned to already carry a human crew.
-I don't understand how this is possible. How can a hyper-complex rocket, that has literally never flown before, be considered safe for human spaceflight after just a single test flight?
-For example, Falcon 9 flew 84 times before carrying people for the first time in Demo-2. New Shepard flew 15 times before its first crewed launch. Frankly, it seems crazy to declare that you're satisfied with the safety parameters of a system so complex after a single test, even if that test goes well.
-How does NASA adequately manage so many unknowns with just a single test, while the competition seems to think that way more tests are required before you're ready to put people at risk?

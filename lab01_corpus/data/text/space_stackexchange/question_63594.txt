@@ -1,2 +1,0 @@
-Geofence - satellite contact time
-I need to find the access/contact times for a satellite passing through a random geofence (polygon). Is there a python library or any code to integrate the geofence to the orbit of the satellite to know: time, lat, long, duration of contact?

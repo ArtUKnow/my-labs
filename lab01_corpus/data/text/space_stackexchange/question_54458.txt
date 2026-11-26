@@ -1,9 +1,0 @@
-Saturn 1 booster performance/structures
-I was recently comparing some basic performance stats and noted that the Saturn 1/ 1B has very similar load to orbit figures to the Falcon 9.
-This seemed interesting to me, which brings up several questions:
-1: Would a Saturn 1 have enough residual fuel to allow a landing/recovery similar to SpaceX?
-2: Would it be possible to combine the structures of a Saturn 4B tank assembly with the "spider beam" structures that form the top and bottom of a Saturn 1, with a stretch of the tanks length to match the size/capacities of the Saturn 1?
-It would seem that question 2 would create a rocket with a bit less weight and higher fuel capacity?
-The H-1 engines developed into the RS27 engine, which offered up to about 15K pounds more thrust each.
-obviously, the H-1 engines would need some modification, such as a way to restart in flight and a way to throttle them, in order to land and reuse such a rocket.
-It would seem that it might be possible to match SpaceX's Falcon 9 with a booster that could be built possibly more cheaply and with far less development time using older, updated tech?

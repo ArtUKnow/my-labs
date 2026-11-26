@@ -1,6 +1,0 @@
-Unable to find Incident Report for aborted launch of first Shuttle flight
-There is an amazingly well writen report on the aborted launch of the first(?) shuttle because the computers did not sync up. I remember reading this report and it being fascinating and prescient about the field of computer science: as systems became more and more complex, it becomes impossible to mathematically proof that your program is correct and new ways of testing are needed.
-However, I seem unable to find the report. The best I could find was a New York Times articel referencing the abort
-The space agency said tonight that it had identified the problem that had caused the computers aboard the space shuttle Columbia to refuse to ''talk to each other'' properly this morning. The computers balked just before the Columbia's scheduled launching, causing at least a two-day postponement of the spaceship's shakedown cruise.
-Would anyone be able to help me find this report?
-Thanks

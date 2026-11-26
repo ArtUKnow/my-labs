@@ -1,5 +1,0 @@
-Is it possible to charge space debris with an electrospray thruster?
-I have been tasked with finding a way to charge conductive space debris via a cubesat. I have been heavily considering electrospray/colloid thrusters to produce this charge however I am having some difficulty coming up with actual specs to aid in my calculations as this is an unconventional use for a ESI thruster. The questions that I cannot seem to find answers to are:
-Is there a "charge flow rate" spec for electrospray devices? I think this would be a function of mass flow rate obviously, but I cannot seem to find general specs for the charge "per unit mass" that is emitted from the thruster.
-Second, can anyone suggest a good way of developing a method to determine the amount of charge that "lands" on the piece of debris? I cannot seem to wrap my head around this, but I am under the impression that the "landing charge" will be influenced by distance, electrospray nozzle angle, and the charge that is attracted back to the cubesat due to the principle of spacecraft charging.
-Any guidance is greatly appreciated, thanks!

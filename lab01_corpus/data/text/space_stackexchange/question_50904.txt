@@ -1,7 +1,0 @@
-Has Hubble ever focused on something close enough that it had to move away from being focused at infinity?
-Hubble wouldn't have to change focus for Pranksat to work because Pranksat is cleverly designed to present a virtual image with a focus at infinity. But if the diffraction-limited Hubble wanted to bring something much closer than the Moon into focus, at some point it would have to move away from the best focus for celestial objects.
-This question was inspired by a discussion under this answer.
-Has this ever happened?
-Question:
-Has Hubble ever focused on something close enough that it had to move away from being focused at infinity?
-If so, what's the closest distance that this has happened, or at least would need to if it did?

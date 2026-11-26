@@ -1,2 +1,0 @@
-What are the typical matrix sizes in the math driving Earth-orbiting satellite GNC systems?
-I am doing some analysis on various numeric libraries for this application and have noted that certain libraries outperform others on average based upon the typical matrix sizes encountered. What are the typical matrix sizes for such a use case?

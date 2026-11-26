@@ -1,3 +1,0 @@
-Have various lunar rovers known their own position on the Moon? If so, how?
-Given that there is no satellite navigation on the Moon, have lunar rovers figured out their current location on the surface of the Moon? If so, how?
-For the ones that have, did they send pictures back to Earth via their lander to be examined? Have there been other methods?

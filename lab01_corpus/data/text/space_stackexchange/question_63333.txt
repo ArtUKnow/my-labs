@@ -1,5 +1,0 @@
-How did STS-27 survive reentry after losing a thermal tile?
-My buddies and I have been arguing about this for a while, speculating about the upcoming Starship test.
-STS-27 suffered damage on ascent that knocked off a tile & damaged hundreds more. It only survived because the tile was below a component that served as a sufficient heat sink to prevent thermal failure of the airframe & LOCV.
-We all could have sworn that component was a steel bracket of some kind (supported by answers on this site), but looking into it more, it seems like it was aluminum. I also thought it was part of some larger steel structural frame/bracing that together was able to absorb the heat coming from the hole in the heat shield, but that doesn't seem to be the case.
-What was the full story?

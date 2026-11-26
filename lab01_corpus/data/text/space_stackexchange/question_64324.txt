@@ -1,3 +1,0 @@
-Atomic oxygen and UV Radiation qualification tests for a cubesat
-I'm the Assembly, Integration and Verification Engineer of a cubesat project developed by students. Currently I'm trying to create the specifications for our payloads upcoming (mon)atomic oxygen (ATOX) and ultraviolet radiation test.
-For the rest of the test campaign the standards published by the European space agency and other literature gave me a good idea where to start in developing the requirements, but it seems I am a bit out of my depth with ATOX and UV tests and finding information on how to carry them out. If somebody could point me in the right direction it would be greatly appreciated!

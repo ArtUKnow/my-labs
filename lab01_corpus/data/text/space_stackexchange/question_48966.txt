@@ -1,2 +1,0 @@
-How does Hayabusa2's return capsule orient and stabilize after separation and before and during reentry?
-How does Hayabusa2's return capsule orient and stabilize after separation and before and during reentry? Have it some onboard system like RCS or reaction wheels, or does it rotate around longitudinal axis, or does it use some passive aerodynamic orientation and stabilization in the upper atmosphere by its heat shield at the very beginning of reentry?

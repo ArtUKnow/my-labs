@@ -1,5 +1,0 @@
-How is torque from the Pistol Grip Tool managed to prevent spinning the astronaut?
-https://videos.space.com/m/jV72gOBX/pistol-grip-tool-developed-for-hubble-servicing-mission-2?list=eV3atOv7
-Astronauts on the ISS routinely use a Pistol Grip Tool PGT during EVAs. It is a variant of the common battery powered hand drill but with computer controlled speed and torque settings as well as data recording.
-https://myleneguette.artstation.com/projects/1nDWDK
-How is reaction torque managed to prevent the astronaut spinning? Does the chuck engage surrounding structure or is the torque transmitted to the astronaut? And if so, does the astronaut need to plan a torque path each time they apply power?

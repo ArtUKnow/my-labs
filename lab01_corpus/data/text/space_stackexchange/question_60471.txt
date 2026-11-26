@@ -1,5 +1,0 @@
-Did NASA believe that Artemis 1 would have failed catastrophically had they not caught/fixed the errors that resulted in the launches being aborted?
-Artemis 1 has had several unsuccessful tests. We've seen reports of "hydrogen leaks", "engine failures", "sensor malfunctions", "stuck valves", "fueling problems", etc., none of which sound like things you want to hear when launching a rocket.
-Guardian: Artemis 1: Nasa cancels moon mission launch over engine problem
-Guardian: Nasa calls off Artemis 1 moon rocket launch for second time after fuel leak
-Has NASA published anything that now suggests that they thought the rocket might have exploded on the pad when the engines ignited, if, despite the problems, the launch had proceeded to T-Minus 6s (Hydrogen burn off igniters initiated / RS-25 engines startup)?

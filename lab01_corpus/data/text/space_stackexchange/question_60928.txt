@@ -1,6 +1,0 @@
-Hohmann Transfer - Adaptive Guidance Law
-Is there an equivalent adaptive guidance law for the Hohmann transfer as there is with the initial ascent profile for a rocket launch (e.g. Powered Explicit Guidance)?
-This is for a personal project - I have a simulator written and my goal is to add guidance. I want to recompute the desired transfer orbit based on the parking orbit realised during the initial ascent phase (incurring dispersion, but will target the highest possible orbit with fuel available in second stage).
-I tried adapting the PEG to produce a steering law to produce a steering profile to move from first circular orbit to transfer, with a basic optimiser used to select position/velocity of the vehicle at the end of the first burn - but quickly realised that because the steering law as described in the original NASA TN (linked below) corrects for gravitational and centripetal accelerations, this produces a non-Hohmann steering profile (indeed in the nominal case the 'Hohmann' steering is such that the vehicle always points in the direction of travel?).
-Thanks for any advice - I will provide more details if necessary.
-NASA TN: https://ntrs.nasa.gov/api/citations/19660006073/downloads/19660006073.pdf

@@ -1,4 +1,0 @@
-Calculate distance to Sun
-At Cornell University's Ask an Astronomer I was reading How can I find the distance to the Sun on any given day? (Advanced) and it mentioned you can find the distance to the Sun on any day of any year once you know how many days after the last perihelion that day was.
-What is the equation for that? Do you still need $a, \epsilon, T$?
-This is a follow-up question to this answer.

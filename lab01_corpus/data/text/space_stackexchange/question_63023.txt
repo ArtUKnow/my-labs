@@ -1,8 +1,0 @@
-Sending a Soyuz ship interplanetary - a plausible option?
-This is my first time on Space Exploration SE, although I have participated quite a bit over on Worldbuilding. Anyway, as an avid sci-fi reader, I have been wondering if sending a Soyuz interplanetary (with a sufficiently heavy service module) would actually be feasible from a technical point of view. Especially after seeing this used in both Critical Mass (Suarez, 2023) to go to a near Earth asteroid and For All Mankind season 3 (2022), I am curious as to if this is merely a plot device or if it could actually work.
-Criteria:
-The Soyuz spacecraft itself must remained unchanged from its most modernized version, the Soyuz-MS.
-An auxiliary service module with consumables is allowed for interplanetary travel, but arrival at the target must be completed with only the Soyuz's life support/power/propulsion systems. EDIT: The consumables may include propellant mass approximately equal to the Block DM upper stage used on Proton/Proton-M today.
-The resulting vehicle must be able to launch on current Russian launch vehicles (man-rating is preferred but not required).
-Following these guidelines, is there any way a one-way or even roundtrip interplanetary mission could be mounted, and if so, where?
-Thank you very much for your time and feedback.

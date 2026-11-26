@@ -1,2 +1,0 @@
-Would it be practical to position a telescope like JWST at Sun-Earth L4 or L5?
-During a discussion of Lagrange points I was asked why we didn't put JWST at SE L4 or L5 since they are less unstable than L2. I thought a bit and came to think that the Earth gravity driven Halo orbit just inside of L2 is more fuel efficient to maintain over long periods of time than trying to park right at L4 or L5. Also, much easier communications. Other, more correct reasons?

@@ -1,8 +1,0 @@
-Circularization of an orbit on gmat
-I'm using Gmat to turn to zero the eccentricity of an orbit around Mars with an electric thruster. I modeled the initial orbit, introduced the engine, the tank and the solar arrays and created the finite burn. The mission sequence is a target where the program varies the duration of the burn so:
-Vary Duration
-Begin finiteBurn
-Propagate Duration
-End finiteBurn
-Achieve ECC = 0
-The problem is that even changing the number of iterations or the iteration step, the solver doesn't converge. I'm not sending the whole code, hoping that the error is trivial but if needed I'll send it. Can someone tell me what is the problem? I controlled all the obvious things such as central bodies or things like that.

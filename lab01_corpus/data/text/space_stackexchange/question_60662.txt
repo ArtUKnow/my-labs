@@ -1,3 +1,0 @@
-Nodal precession effect on attitude?
-When a satellites orbit experiences nodal precession, does this have any effect on the actual attitude or orientation of the satellite?
-For example, if the satellite is pointing at a particular star, will it remain pointed at that star?

@@ -1,8 +1,0 @@
-Misusing a gravity assist? Would this orbit insertion maneuver work and reduce delta-v?
-Assuming a spacecraft with velocity $\vec{V}$ is approaching a planet with velocity $\vec{U}$ (with respect to a global reference frame) and wants to get into a circular orbit of radius $r$ around it.
-Ignoring aero-braking or invariant manifold trajectories, in order to minimize the required $\Delta v$ execute the following maneuver:
-When entering the planets sphere of influence the spacecraft follows a hyperbolic trajectory (in the planet ref. frame) with a periapsis such that when it crosses the circular orbit for the second time it is colinear with the planet path.
-Igniting a burn here should minimize costs, since between $V$ and $U$ no direction change is required. The direction and speed change to get into the circular orbit should be small compared to the former.
-Would this actually work? It should be much cheaper than the traditional maneuvers which involve $v_\infty=\|U-V\|$ not accounting for appropriate planet path direction before burns.
-Addendum: The advantage of having the same direction is completely eaten up by the velocity increase according to what we found out here:
-$$\|U-V_\text{after}\| = \|U-(R_\theta \cdot(V-U)^t+U)\| = \|R_\theta \cdot(V-U)^t\|=\|U-V\|.$$

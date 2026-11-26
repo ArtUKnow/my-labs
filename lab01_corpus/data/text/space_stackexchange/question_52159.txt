@@ -1,7 +1,0 @@
-How would Ingenuity handle Martian Storm and dust devils?
-Martian storms are quite common and can sometimes encompass most of the planet. Though the density of the Martian air is low, the speeds are pretty high (some have observed 26 m/s).
-How would the winds of the Martian storms affect the Mars Helicopter, especially while resting on the ground?
-Dust devils, on extremely rare occasion, are known to cross over the space probes (cue in mysterious cleaning up of Spirit and Opportunity rover panels in 2005). Though the previous encounters turned out to be pretty lucky and with positive outcome, how will it be this time with a Martian helicopter?
-What if Ingenuity gets caught inside a dust devil? Has this been event been considered while developing this mission?
-The Martian air is notorious to hold on to the dust for a significant period of time post a storm.
-What is the effect of the dust laden air on the bearings and blades of the helicopter, especially during flight?

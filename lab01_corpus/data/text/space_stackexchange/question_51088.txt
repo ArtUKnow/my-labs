@@ -1,8 +1,0 @@
-What do large, modern communications satellites look like inside (roughly at least)?
-Modern communications satellite in GEO are big, majestic beasts. They are quite large and voluminous. They can sport quite an array of antennas and handle huge bandwidths and multiple communications functions.
-I've often wondered what they at least roughly look like inside.
-I like to think of them as the big black box in space that Agent Dale Cooper experienced in the episode Part 3 (Twin Peaks), that they have a door and you can go inside and work on stuff if needed.
-Intellectually I assume that's no the case; they are not built to be boarded, don't have doors or airlocks and probably very little wasted space.
-But is the non-bus area of these spacecraft a sealed volume with commercial racks which are full of modules with blinking LEDs and switches, or is just a bunch of sealed boxes, each filled with custom circuit boards.
-Question: What do large, modern communications satellites in GEO look like inside? I'm sure construction details are sensitive and proprietary, but is there anything that's been shared publicly about at least roughly some kind of layout? Do they have doors? Do they have pressurized spaces inside, or compartments?
-cropped & brightened from Twin Peaks What's Up with the Beginning of Part 3? Season 3 Episode 3; Mauve Zone

@@ -1,6 +1,0 @@
-Working mechanism of a mass driver
-Lately, i have been working on a school space report about space settlements. Transporting low mass payloads from the moon to the space settlement using a mass driver would be quite a affordable thought. To utilize this technology I need a deep understating about it, However I am unable to get a proper explanation about the machine's working mechanism. Can somebody help me out.
-Apparently, I know that a mass driver uses electromagnetism to propel projectiles at extreme velocities.
-Currently I am referring the book : A design study - space settlements by Gerard.K O'Neill
-I have attached the link for the book below:
-The link

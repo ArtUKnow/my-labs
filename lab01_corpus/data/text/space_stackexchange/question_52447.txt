@@ -1,7 +1,0 @@
-Engine failure: how to detect?
-Saturn V would automatically initiate launch abort if:
-Launch vehicle rates exceeded a threshold (4 deg pitch/yaw, 20 deg roll)
-Two or more booster engines dropped below 90 % rated thrust
-I'm assuming a drop below 90% rated thrust would indicate an engine failure.
-And I want to just say "got it, monitor thrust and trigger launch abort if two below 90 %."
-But in practical terms... how would you monitor engine thrust? Just take your accelerometer's reading and multiply it by the current mass estimate? It's one way, but how was it actually done? Anybody?

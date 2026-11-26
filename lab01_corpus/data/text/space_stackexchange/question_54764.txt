@@ -1,4 +1,0 @@
-Is there a neat formula for hyperbolic Kentucky windage?
-When doing some back of a napkin calculations for a recent question Where would the Pascal B manhole cover be now?, I realised a quick way of solving these class of orbital mechanics question is to first work out periapsis distance and velocity from the initial state vector, which is simple (much simpler than a full set of orbital elements, for instance).
-But then, is there some simple way to calculate the angle between the current velocity vector and the asymptotic velocity vector (the "Kentucky windage"), expressed by just $\mu$, $r_P$, $v_P$ and $r$? Any equivalent set of values, like deflection angle, impact parameter, $v_{\infty}$ or eccentricity would of course also be perfectly valid.
-The answer is of course yes, but I can't see I have any immediately applicable formulas lying around, so I would have to derive it myself if there aren't anyone out there who already has it readily available.

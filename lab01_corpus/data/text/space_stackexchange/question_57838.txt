@@ -1,9 +1,0 @@
-Is it (theoretically) correct to apply an equation that is derived from a hyperbolic trajectory, to an elliptic transfer orbit?
-The equation in question is this one:
-$$v^2 = v_e^2 + v_{\infty}^2$$
-and it is showed in this answer.
-The Escape velocity page on Wikipedia mentions a link (num. 4) to the book "Fundamentals of Astrodynamics", wherein the equation is derived from a hyperbolic escape trajectory.
-In the answer the spacecraft is in LEO and has to be put into a Mars transfer orbit that is elliptic, but yet it uses the equation in question to calculate the needed velocity at the edge of Earth's SOI.
-Already for a parabolic escape trajectory the $v_{\infty}$ would become zero, so how can this speed add to the escape velocity when a elliptic orbit is aimed ?
-Is this (theoretically) correct, also since Wikipedia's Hohmann transfer
-orbit page shows the calculations of the delta-v's for entering and leaving the elliptical transfer orbit ?

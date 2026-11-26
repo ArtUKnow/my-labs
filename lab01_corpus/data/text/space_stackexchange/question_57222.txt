@@ -1,4 +1,0 @@
-How is delta-v calculated for an interstellar journey?
-Just recently I have been learning about orbital mechanics and I came across the following article:
-https://blogs.scientificamerican.com/life-unbounded/why-chemical-rockets-and-interstellar-travel-dont-mix/
-The delta-v value of 26,200 km/s for a journey to Alpha Centauri is calculated. I wanted to know how this number has been found

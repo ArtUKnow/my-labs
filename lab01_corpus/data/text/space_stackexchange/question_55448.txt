@@ -1,4 +1,0 @@
-Why don't Raptor engines use CH3Cl instead of CH4?
-The boiling point of CH3Cl is -24 degrees Celsius, whereas the boiling point of CH4 is -160 degrees Celsius.
-The density of CH3Cl is 2.3 g/cm3, whereas the density of CH4 is 0.6 g/cm3.
-CH3Cl is polar, hence reactive as well. Also, perchlorate salts found on Mars, which could be used to synthesize Cl2 to monochlorinate CH4 (produced from the Sabatier reaction: CO2 + H2O → CH4 + O2) in the presence of sunlight (free radical halogenation reaction of CH4).

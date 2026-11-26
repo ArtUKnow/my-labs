@@ -1,4 +1,0 @@
-Can an external observer always rescue a freely falling observer near a black hole?
-The setup: Two astronauts A and B are in free fall toward a black hole, while an external observer E watches. After A has crossed the event horizon, B (who has not yet crossed it) decides to turn back and rejoin E.
-The problem: Now E and B are together in the same frame of reference. Since only a finite amount of time has passed for both E and B, they must be still seeing A falling toward the event horizon (assuming infinite precision instruments). How is this possible?
-Why is super strange for me: Since E and B see that A is still in free fall, would it be possible for them to fly towards them and "kidnap" A? This seems nonsense since B saw A crossing the event horizon. (Again assuming infinite energy and that they are point of mass).

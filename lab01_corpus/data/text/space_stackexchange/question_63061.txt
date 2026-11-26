@@ -1,3 +1,0 @@
-Why did the maiden flight of H3 fail?
-Recently, JAXA (Japan Aerospace Exploration Agency) finally launched the ALOS-3 (Advanced Land Observing Satellite-3) after more than 2 years of delay. All seemed to be going well on the first stage, and it appears to have separated clearly. Then the little animation shows it firing, but the velocity continues decreasing at its normal rate. They eventually activated the So what happened here. I would assume that there was some issue with second stage ignition. What happened and why?
-NOTE:Stage seperation is at 1:04:35

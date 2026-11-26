@@ -1,6 +1,0 @@
-First TTL chip in space and in orbit? Was it a 7400 series or something that predates?
-Similarly to
-The first transistors in space: Germanium or Silicon? What about in orbit?
-First LED left on another planet⁺ by humans? w/list of space electronic "firsts" questions
-what was the first TTL proper integrated circuit or chip in space (includes suborbital flights) and to orbit or beyond?
-Was it a Texas Instruments 7400 series or something that predates those?

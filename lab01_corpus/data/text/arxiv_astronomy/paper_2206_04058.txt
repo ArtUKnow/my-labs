@@ -1,2 +1,0 @@
-Measuring the Evolution of the NuSTAR Detector Gains
-The memo describes the methods used to track the long-term gain variations in the NuSTAR detectors. It builds on the analysis presented in Madsen et al. (2015) using the deployable calibration source to measure the gain drift in the NuSTAR CdZnTe detectors. This is intended to be a live document that is periodically updated as new entries are required in the NuSTAR gain CALDB files. This document covers analysis up through late-2024 and the gain v011 CALDB file released in version 20240226.

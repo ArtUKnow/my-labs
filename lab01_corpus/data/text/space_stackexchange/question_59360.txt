@@ -1,5 +1,0 @@
-Are the computers on Pioneer 10 & 11 still running?
-So, I have been wondering.
-Pioneer 10 and 11 went silent because there wasn't enough power left to operate the antenna.
-But what happened after that? Was there still enough power to keep the computers on and do attitude control? Is it possible they still point their antenna to earth and listen, but can't send anything back?
-Thanks!

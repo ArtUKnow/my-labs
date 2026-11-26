@@ -1,8 +1,0 @@
-Conversion of velocity vector in ITRF to GCRF
-As explained in the answer to this question, IERS technical notes give a clear procedure to convert coordinates between the GCRF and ITRF frames.
-However, I believe these refer only to position vectors.
-But what about also converting velocity vectors? I guess we need to consider the rotation of Earth, but my question is, how would this be exactly performed?
-Some smaller parts of this question would be:
-Since the Z axis in the ITRF frame is aligned with the instantaneous rotation axis, as stated here, would the angular velocity vector have X and Y components equal to 0, and Z equal to the speed of rotation of Earth?
-Can this speed of rotation be considered constant for the time-scales involved in propagation of orbits of artificial satellites?
-How would exactly the angular velocity vector be somehow taken into consideration together with the position of the object to calculate the additional velocity that we need to add when going into GCRF frame?

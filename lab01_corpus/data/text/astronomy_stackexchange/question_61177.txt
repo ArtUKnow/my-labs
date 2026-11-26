@@ -1,7 +1,0 @@
-Is there such a thing as a non-solar analemma?
-Context
-There is a good understanding what a (solar) analemma is, there are many questions about it on this site and also intermittently trending videos showing it, like this one on Twitter: https://x.com/BGatesIsaPyscho/status/1924363389188427868. There is also discussion about how analemmas look on other planets or how it would look on hyphotetical planets with different configurations (axial tilt, etc.).
-My question
-Is there such a thing as an analemma for another planet? What I have in mind is that what kind of shape would I get if I would photograph the same planet (let's say Venus, Mars, or Saturn) from the same place on Earth at the same time day after day, year after year.
-Note
-This should not be confounded with orbital resonance (cf. for Venus here https://en.wikipedia.org/wiki/Venus#Orbit_in_respect_to_Earth ), which gives an almost closed shape if the resonance is imperfect. I.e., I don't think that Venus' analemma would be the shape of the well-known "Pentagram of Venus", or would it? Nevertheless, I assume that it would not be a closed shape for a planet, unlike for the central star in a system.

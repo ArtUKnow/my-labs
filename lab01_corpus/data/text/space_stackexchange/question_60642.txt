@@ -1,4 +1,0 @@
-Problem with ISS state vector (ECEF or ECI ?? rotating frame problem ?)
-I have a serious problem with some satellite state vector I use. I got the cartesian coordinates of ISS (X,Y,Z) but do not know in which frame unfortunately. So I tried to plot them in 3D to check if its ECEF or ECI and got this 3D view... it seems something is wrong as I clearly have an inclined orbit (which seems good) but that seems to rotate around the inclination axis?
-Could not find why and how to correct those state vectors I have... or if a different rotation frame than ECI/ECEF is used for those state vectors?
-note: 'm using the following link spotthestation.nasa.gov/trajectory_data.cfm and use the txt file to get X,Y,Z. When I plot the coordinates in 3D I get what it seems to be a rotating frame?

@@ -1,4 +1,0 @@
-Why is the completely dark disk of the Moon visible on a new moon if the lunar orbit is at an angle to the Earth’s?
-As is known, the lunar orbit is inclined to the ecliptic plane at an angle of about 5 degrees.
-For this reason, the terminator lines of the Earth and the Moon also appear at the same angle, and some of the solar rays reflected from the lunar surface should hit the Earth, allowing even on a new moon to see a small fragment of the Moon, in the form of a narrow luminous strip.
-It is possible to see a completely dark disk only if the Earth, Moon and Sun are on the same line, as during an eclipse. Obviously, with an inclined orbit this condition is not satisfied. Why do we see it?

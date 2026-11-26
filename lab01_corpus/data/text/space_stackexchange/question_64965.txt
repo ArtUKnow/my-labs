@@ -1,7 +1,0 @@
-What "extra protection" from ammonia is needed during an EVA?
-From a Scientific American article$^\color{magenta}{\star}$ on an ammonia leak at the ISS:
-Ammonia is so toxic that spacewalks nearby the substance must have extra precautions built in to reduce exposure risk to astronauts
-What are these “extra precautions”? I can’t imagine how an EVA suit could be improved upon for protection during the EVA. Are they referring to the other ISS staff being exposed after the EVA astronaut has cleared the airlock?
-For now, NASA has asked its Expedition 70 ISS astronauts to close all shutters on the U.S. segment of the space station "as a precaution against contamination," agency officials wrote.
-What "shutters" are these?
-$\color{magenta}{\star}$ Elizabeth Howell, International Space Station suffers leak, but crew remains safe, Space.com, October 11, 2023.

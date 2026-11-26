@@ -1,8 +1,0 @@
-How heavy is an orbital pogo stick?
-Moving people from a A to B in space often requires a significant change in velocity, requiring propellant eating into the mass budget.
-But most of this propellant is "wasted" in moving a fully facilitated spacecraft, not just the people aboard.
-What if we got rid of the spacecraft? This is the concept of an orbital pogo stick. Cosmonauts can stay in their EVA suits for a couple of hours, fire up a minimal propulsion system, and check into a hotel at the other end.
-How "minimal" is such a minimal propulsion system? It's a little rocket engine, tanks, some controls, restraints to prevent passengers from flailing around in terror provide comfort during the flight. How much could it be?
-Some closely applicable studies are the one-man Lunar Flying Vehicle, dry mass without pilot of 141.8 kg, and its cousin the two-man Lunar Escape System at 171.5 kg.
-These would be a baseline, but the use case is different. A surface launch is different from a transfer in space.
-There has also been some technological advances in the 50 years since these were considered. (The LESS report has a VHF transponder at 25 pounds!)

@@ -1,6 +1,0 @@
-In the early solar system, were most orbits highly eccentric?
-I'm wondering why all the planet orbits are circular when it seems to me they should almost all be eccentric.
-Obviously, it's because that's the only stable orbit. But in those very early times when objects condensed and fell towards the Sun, they would be doing so from hundreds of millions or even billions of miles away. On that scale, the Sun is a teeny pinpoint less than a million miles wide. Almost everything would swing around it And either be ejected or would shoot back on a highly eccentric elliptical orbit.
-It seems improbable that an orbit would commonly just happen to be very close to circular.
-Yet we see nothing highly eccentric today except comets (whose eccentricity is an example of the above).
-Is this assumption about the eccentricity of early orbits incorrect, did they all fall into the Sun, or did they all fall into planets that had circular orbits?

@@ -1,7 +1,0 @@
-Why do some rockets have closed boattails around the engines and others do not?
-During launch and landing, dust, dirt and debris may be stirred up. For non-gimbaling engines like the vac Raptors on Starship, can't the engine fairing/boattail be closed? I imagine titanium sheet for the purpose. Understandably, dissipation of heat from the engine is another important consideration but will the physical protection outweighs the thermal protection?
-Raptors engine parts seemed pretty exposed from the bottom view.
-So was S-IC.
-But Saturn S-I wasn't.
-Neither is the CBC.
-Why?

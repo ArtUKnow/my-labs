@@ -1,5 +1,0 @@
-Do smaller engines have a higher thrust to weight ratio?
-For a given chamber pressure and shape,
-thrust is proportional to nozzle area, which is proportional to the square of dimensions
-mass is proportional to the volume, which is proportional to the cube of dimensions.
-Does the s mean that smaller engines have a higher thrust to weight ratio?

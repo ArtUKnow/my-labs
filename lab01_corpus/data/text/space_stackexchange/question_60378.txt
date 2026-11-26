@@ -1,3 +1,0 @@
-Most accurate method to find exoplanets?
-NASA has found thousands of exoplanets in space using their powerful telescopes. How exactly does NASA do so and what is the best method? I'm assuming that NASA uses some sort of sensor to detect anomalies in the space background to find planets. But is there a reliable and accurate way to confirm the planet exists?
-Additionally, there could be false positives as suggested by this paper from Harvard.

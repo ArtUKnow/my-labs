@@ -1,2 +1,0 @@
-Separating stellar rotation from stellar activity in spectral analysis
-I think I need an Astronomy 101 lesson. I was under the impression that rotation (vsini) is determined by line widths in spectra. It seems that this could also be affected by stellar magnetic activity. How are these separated? Is it that activity affects some lines more than others (eg CaII H & K lines)?

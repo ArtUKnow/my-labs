@@ -1,4 +1,0 @@
-What is the benefit of an inverted rocket stage?
-For example the Chinese rocket Jielong 1 has an inverted 4th (final) stage. So the payload sits between 3rd and 4th stage. When 3rd stage separates it has to do a 180 degree turn before igniting the 4th stage.
-From: https://www.nasaspaceflight.com/2019/08/china-first-launch-smart-dragon-1-small-satellite-vehicle/
-Unusually for satellite launch vehicles, the payload volume is located between the third and fourth stages, with the fourth stage motor and all payloads installed in invert position during launch.

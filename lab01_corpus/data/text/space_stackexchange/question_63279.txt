@@ -1,4 +1,0 @@
-Deep Space Optical Communications (DSOC) - from what distance could a flashlight be detected by a space-based telescope
-Flight laser transmitter - for Psyche mission has Mass 29 kg (100 W).
-It also requires pointing up to 3 degrees of the Sun (towards the receiver telescope).
-My question is about really small probes (less than 1kg) that can carry only a small flashlight or a 1 W laser.

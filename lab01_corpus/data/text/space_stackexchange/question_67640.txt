@@ -1,5 +1,0 @@
-Use of the XTCE standard for satellite telemetry and commands
-I’ve been reading up on the XML Telemetry and Command Exchange (XTCE) standard.
-While I did see some examples of this being used at NASA and JHPL
-Has anybody here used it at their company? How did it go?
-I found these two tools to support XTCE: XTCE toolkit and YAMCS. Are there others?

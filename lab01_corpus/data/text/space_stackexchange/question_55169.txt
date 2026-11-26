@@ -1,4 +1,0 @@
-RF information for ship detection
-Previously I have asked Space based active optical sensors for maritime surveillance. As a follow on, No Synthetic Aperture Radar sensor is allowed. The suggestion is to use an RF scanner and verify that against collected AIS signals.
-What kind of RF scanner can be used on the small satellite to detect ships/boats. Is there a COTS product available to do RF scanning from the satellite onto the ocean? Remember, the ships or boats might not have AIS radio as the mission is to detect illegal fishing
-EDIT: Do we have any COTS sensors in line with Cubesat that is adapting this concept SEAker?

@@ -1,2 +1,0 @@
-Which Survey has recorded the radial motion of Pleiades (M45)?
-I made a stellar model and I want to know how accurate that model is by comparing with a real stellar system. So, I looked it up in Gaia dr3, but the radial velocity of only 1 object is mentioned out of thousands. So, can someone tell me where I can find more complete information on radial velocity of M45 or any open or globular cluster?

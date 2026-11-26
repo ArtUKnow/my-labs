@@ -1,4 +1,0 @@
-How is the GPS signal transmission time encoded in the GPS signal?
-I am trying to really understand how GPS works, to be able to "explain it to my grandma" level of understanding.
-One key aspect that I can't find an answer to is: how is the GPS signal transmission time, as registered by the on-board atomic clock, encoded in the GPS signal?
-I would not imagine it is in the Navigation Message which has only a rate of 50bit/s which is surely not enough to achieve any type of spatial resolution.

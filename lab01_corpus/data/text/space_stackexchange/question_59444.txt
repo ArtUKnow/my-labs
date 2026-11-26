@@ -1,4 +1,0 @@
-What happens when an RCS thruster fails to fire?
-Let's imagine a UDMH/N2O4 thruster (like on a Soyuz) has an issue where the oxidizer valve/line freezes solid, blocking the flow.
-What happens with the fuel?
-The propellants are pressure fed with a working pressure of around 1.4MPa. The chamber pressure (for the 11D428 thruster) is listed as 0.88MPa. But if ignition has not occurred, does this mean the difference in pressure is much greater than normal, so the fuel sprays out at a higher than normal rate? And if this occurs, does some system detect the incorrect flow rate and shut the thruster off?

@@ -1,7 +1,0 @@
-How to "log" finding the geocache marker on the Perseverance Rover?
-I'm not very familiar with geocaching but based on a quick skim of Wikipedia, there's generally some kind of logging functionality (e.g. a book in a waterproof container) where you can leave some kind of record that you were physically there and found it.
-When the first person or any anyone after that finds the 221B Baker Street geocache marker on the Perseverance Rover's SHERLOC calibration target array (placed behind an originally transparent sample of visor material) is there any specific way they should log their discovery on the geocache site itself, or in any other specific way?
-From the 50th Lunar and Planetary Science Conference 2019 (LPI Contrib. No. 2132) The Calibration Target for the Mars 2020 SHERLOC Instrument (archived):
-Three targets additionally serve unique education and public outreach purposes. The Mars meteorite, a slice of Sayh al Uhaymir 008 (SaU008) collected in Oman in 1999, will represent the first piece of Mars to be returned to the planet’s surface (Fig. 3a). The intensity target design incorporates an intricate maze (Fig. 3b), and the clear polycarbonate space suit visor material is backed by a distinctive Geocaching trackable marker (Fig. 3c).
-Figure 3: Images of the (a) Mars Meteorite, (b) Intensity Target Maze, and (c) Geocaching Trackable Marker.
-Also see this answer to What is pictured in this SHERLOC camera?

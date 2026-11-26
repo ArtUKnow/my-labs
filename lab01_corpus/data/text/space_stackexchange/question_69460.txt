@@ -1,6 +1,0 @@
-What is the fate of Krypton exhaust from Starlink thrusters?
-The chemical composition of the atmosphere is stratified by molecular weight. Above 1000 km it is dominated by He and H2 with single digit molecular weights.
-Below LEO it is dominated by N2, O2 and Ar with molecular weights in the 30’s.
-In between (at LEO altitude) it is dominated by atomic oxygen with an atomic mass of 16.
-https://en.wikipedia.org/wiki/Atmospheric_chemistry#Atmospheric_composition
-The Krypton exhaust from Starlink thrusters has an atomic mass over 80. Will this gas “work its way” from LEO back down into the lower atmosphere ?

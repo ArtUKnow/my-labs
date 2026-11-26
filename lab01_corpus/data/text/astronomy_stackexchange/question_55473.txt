@@ -1,7 +1,0 @@
-Why is the Hubble time same with age of the universe assuming ideally constant expansion?
-Practically, the Hubble time does not perfectly same with age of the universe. But that's considered to coincide when the rate of expansion is constant.
-However, the constant rate does not mean constant speed.
-Suppose that the Hubble constant is 1 m/s/m, that's not changed along the time.
-Then, the object far from 10 m is receded by 10 m/s.
-Because, the object was slower in past, the moving time must be more than 1 s.
-But, the inverse of the Hubble constant is 1 s. So, the moving time of the object is more than the age of the universe. Is it possible?

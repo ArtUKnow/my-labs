@@ -1,2 +1,0 @@
-Geometric construction of the Laval nozzle
-I am performing a LRE calculation and after the calculation I came across the fact that I do not understand how the Laval nozzle is built. I mean, I don't understand how to geometrically create a nozzle profile using data. Tell me how to do this, please

@@ -1,3 +1,0 @@
-White dwarf supernova luminosity
-I understand that the mass limit for a white dwarf is 1.4 solar masses, and therefore approaching it would cause a white dwarf (type Ia) supernova, and thus it is a standard candle. I understand this if the supernova is triggered by accreting mass.
-However, if two white dwarfs merge and each has 1 solar mass, the mass at the time of the supernova would be 2 solar masses, thus producing more energy and the supernova would be brighter. Doesn't this mean that white dwarf supernovae produced via merger are not good standard candles?

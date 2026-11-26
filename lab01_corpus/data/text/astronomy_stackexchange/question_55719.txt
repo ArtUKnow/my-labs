@@ -1,7 +1,0 @@
-Can terrestrial infrared telescopes see through clouds or haze, sometimes at least?
-My answer to Could UV-A imaging sensor reasonably see a total eclipse in progress through clouds? suggests that while clouds blocking visible light observation of the (partially) eclipsed solar disk would also likely block near UV viewing, there's a chance that there might be some transmission in the 10 micron "window" in the thermal infrared.
-My original hypothesis that the water droplets of clouds were sub-wavelength even for visible light (and so Rayleigh's $1/\lambda^4$ would help for 10 micron transparency) was nicely shot down by another answer but I'm still wondering if terrestrial thermal IR viewing observatories can sometimes see through clouds, or at least haze, that would obscure visible light (the way these wavelengths can see through galactic dust). So I'd like to ask:
-Question: Can terrestrial infrared telescopes see through clouds or haze, sometimes at least?
-Related:
-What is precipitable water vapor in millimeter-wave radioastronomy and how is it measured?
-Source and detailed explanation

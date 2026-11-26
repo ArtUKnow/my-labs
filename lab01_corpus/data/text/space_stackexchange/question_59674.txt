@@ -1,7 +1,0 @@
-How can I get longitude of ascending node from satellite TLEs with Right Ascension of Ascending Node (RAAN)?
-As the title says, the TLEs contains RAAN, from which I want to get the longitude of ascending node, as defined in the STK help file as shown in the figure. Is there an open source tool for python to do this? If so, could you give me an example, thanks a lot! Or a formula would also be great.
-A starlink TLE examle:
-"TLE_LINE0": "0 STARLINK-31",
-"TLE_LINE1": "1 44235U 19029A 19145.71984166 .00001593 00000-0 45153-4 0 9991",
-"TLE_LINE2": "2 44235 53.0220 167.6233 0006965 280.4784 79.5917 15.42847468 1478",
-RAAN here: 167.6233

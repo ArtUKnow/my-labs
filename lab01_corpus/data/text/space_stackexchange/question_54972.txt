@@ -1,5 +1,0 @@
-What is NEOCam's (now NEO Surveyor) strategy for scanning the sky? Need to consider in which coordinate system?
-In Survey Simulations of a New Near-Earth Asteroid Detection System it can be seen that Infrared astronomer Amy Mainzer gave the scanning strategy of the horizon in a paper, but I am very confused whether the scanning strategy of the sky is the same? In addition, how to connect solar elongation with ecliptic latitude?
-The main problem is that I cannot figure out which coordinate system to convert the position of the asteroid to.
-Fig. 3.— The basic element of the survey cadence is a “quad,” which consists of four
-observations taken over ∼9 hours. The green rectangle indicates the starting position.

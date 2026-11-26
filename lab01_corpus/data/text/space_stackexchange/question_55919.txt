@@ -1,2 +1,0 @@
-How many images of Didymos could be transmitted by Dart between the first full size image and the impact?
-Dart is approaching Didymos B aka Dimorphus with a speed of 6.6 km/s. How many images could be taken and transmitted between Didymos B just filling the entire image and the last image just before impact?

@@ -1,4 +1,0 @@
-SSA Sensors in Space - game changer?
-I'm curious about the space-based sensor networks that seem to be an upcoming means of tracking Resident Space Objects (RSO). https://spacenews.com/getting-ssa-off-the-ground/
-I'd like to know more about the capability this type of technology can bring. the game changer is that with space-base sensors, the sensor can continually track near same orbit RSOs with reach-back to other nodes (sensors and Command/Control) for intersecting Conjunctions (CDM). Whereas the earth-based sensors needs to re-acquire the RSO target every time its overhead.
-Anybody have ideas on what some of these space-based sensor architectures look like? And their capability?

@@ -1,4 +1,0 @@
-How to calculate initial Rotation Matrix/ Euler Angles/ Quaternion for IMU data (gyroscope and accelerometer)?
-I am trying to develop a code to track vehicle using GNSS/GPS data (NMEA) and IMU data (Gyroscope x,y,z; accelerometer x,y,z) i.e. dead reckoning using kalman filter.
-I know there's enough literature on Dead Reckoning but nowhere has anyone explained how to derive this initial rotation matrix.
-It is quite easy to calculate Euler angle from Gyroscope data if initial matrix is given. But how do I calculate this initial rotation matrix? It is assumed a given everywhere.

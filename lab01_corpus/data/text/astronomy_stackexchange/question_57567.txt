@@ -1,9 +1,0 @@
-How did the ancient cultures determine that the year was actually a fraction of an extra day beyond 365 days?
-Google says the year is exactly 365.2422 days, and so they make a leap year every 4th year, but that ends up being 365.25 days per year on average. So every 100th year they don't have a leap year, but on the 400th year they do have a leap year. And it can get more refined than that, such as skipping a leap year every 4,000 years, making it accurate up to 20k years. Could ancient people pre-civilization have known this level of detail?
-I also saw this, but didn't answer the question: To several decimal places, how many days are in one year?
-With my little knowledge of astronomy or history, I asked ChatGPT how they did it, and it said by carefully observing:
-Sunrises
-Sunsets
-Equinoxes: The days when the day and night are approximately equal, which happens when the sun rises exactly in the east and sets exactly in the west.
-Solstices: The days when the sun reaches its northernmost or southernmost extremes (longest and shortest days).
-How do you observe those, and come to the conclusion of 365.25 days (or more accurate, 365.2422 days)? How do those 4 events (sunrises/sunsets/equinoxes/solstices) change or how does the sun position slightly differ from year to year to tell there is an extra 1/4 of a day? How accurate can you get with no tools, or just primitive tools (origin of civilization or before)? What exactly do you see with the sun (and these 4 types of events) that you can keep track of to make this detailed calculation?

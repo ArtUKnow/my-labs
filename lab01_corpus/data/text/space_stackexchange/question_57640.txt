@@ -1,2 +1,0 @@
-What would JWST's apparent magnitude be?
-I understand that for any viewer, JWST would roughly occupy the anti solar spot in the sky. Size of and distance to the spacecraft is known, and its reflectivity (of the sunshield) is probably known. What would it’s apparent magnitude be?

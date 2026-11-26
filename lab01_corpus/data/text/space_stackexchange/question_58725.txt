@@ -1,2 +1,0 @@
-Spacecraft localization beyond Earth orbit
-How does a spacecraft localize itself after leaving earth orbit? In robotics you can either use known broadcasting information or do real-time position tracking(some type of SLAM) but I suspect that probably isn't going to work in this case given the scale.

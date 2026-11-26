@@ -1,4 +1,0 @@
-why does the space / defense industry use VPX instead of PCI / PCIe?
-I was reading Why is the James Webb Space Telescope's data storage space so small?
-and it mentioned Mercury's 440GB space-qualified RH3440 as being bleeding-edge technology for the space industry. The data sheet says it uses the 3U VPX form factor. I looked up VPX and found VPX on wikipedia, which says "[VPX] has been designed specifically with defense applications in mind".
-My question is... why would the defense / space industry use VPX instead of PCI / PCIe?

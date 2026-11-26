@@ -1,3 +1,0 @@
-New Glenn/Shepard gimbal engine actuators: hydraulic or electric?
-Falcon 9 uses hydraulic cylinders with RP-1 fuel as the hydraulic fluid to actuate the engine gimbals. They do this for stage 1 and stage 2, both of which use RP-1 for fuel.
-But New Glenn uses methane for stage 1 and liquid hydrogen for stage 2. New Shepard uses liquid hydrogen exclusively. So I’m wondering if either of these fuels would make a suitable hydraulic fluid, and whether Blue Origin might have chosen electrical gimbal actuators instead (like I believe Elektron has)?

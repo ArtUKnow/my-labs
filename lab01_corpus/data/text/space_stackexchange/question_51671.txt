@@ -1,6 +1,0 @@
-What is a gravity gradient?
-The statement: 'For most of that day, Mir remained in a "gravity gradient," (sic) which basically means that the most massive part of Mir naturally pointed toward Earth.' is in
-https://history.nasa.gov/SP-4225/nasa4/nasa4.htm .
-I don't understand this at all. Why would the most massive part of Mir be naturally pointed toward Earth? We know Aristotle was wrong in saying that a more massive object has a greater acceleration when in free fall. So what is going on?
-Wikipedia https://en.wikipedia.org/wiki/Gravity-gradient_stabilization makes no mention of a most massive part in its very short article about it.
-My question is, what does it mean to be 'in a "gravity gradient"'?

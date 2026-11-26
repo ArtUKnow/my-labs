@@ -1,2 +1,0 @@
-From a quantum world to our classical Universe
-Modern cosmological theories invoke the idea that all structure in the Universe originates from quantum fluctuations. Understanding the quantum-to-classical transition for these fluctuations is of central importance not only for the foundations of quantum theory, but also for observational astronomy. In my contribution, I review the essential features of this transition, emphasizing in particular the role of Alexei Starobinsky.

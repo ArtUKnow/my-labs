@@ -1,8 +1,0 @@
-Do Saturn rings behave like a small scale model of protoplanetary disk?
-For context this question is related to this one: Why do (most of) the planets rotate counterclockwise, i.e. the same way the Sun does?
-More specifically to this answer that involves gaseous drag and ballistic coefficient of various clumps' size, and the fact that larger chunks already cleaned up or swept out debris on their shrinking orbital path. (which is quite convincing reasoning for counter-intuitive rotation of planets around the Sun in my opinion)
-Knowing Cassini brought lots of data regarding Saturn rings I failed to find info regarding rotational observation, mostly direction of rotation, of mountain sized chunks.
-I wonder if this was observed and mostly if those hypothetical rotation direction of chunks inside the rings can be considered like a small scale protoplanetary disk model ?
-From what I understand which might be wrong, the closer an object orbits its parent body, the more likely it is to be synchronous, like Pan or Daphnis. Yet for smaller objects, I have no clue if this is valid.
-Question is : regarding rotation of objects, does it make sense to think about planetary rings as something equivalent to
-or a small scale model of much larger and somewhat unrelated objects that are protoplanetary disks?

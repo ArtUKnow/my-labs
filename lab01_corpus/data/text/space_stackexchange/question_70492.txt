@@ -1,9 +1,0 @@
-Which "concerns for human comfort" resulted in the recovery of LDEF being "bungled"?
-The Long Duration Exposure Facility was a passive spacecraft launched by the Shuttle in 1984. It was covered in panels of different material samples. The spacecraft was left in orbit for over 5 years, then retrieved to study how these materials were affected by their exposure to space.
-More info on its Wikipedia page here: https://en.wikipedia.org/wiki/Long_Duration_Exposure_Facility
-In the "Retrieval" section, that page says:
-While LDEF was still attached to the RMS arm, an extensive 4.5 hour survey photographed each individual experiment tray, as well as larger areas. Nevertheless, shuttle operations did contaminate experiments when concerns for human comfort out-weighed important LDEF mission goals.
-That paragraph ends with a citation to this short report: https://www.lpi.usra.edu/meetings/sssr2011/pdf/5030.pdf
-At the top of the right column, this repeats the "human comfort" claim, but does not go into more details.
-What mistakes were made in recovering LDEF? How much human comfort are we talking about here? Were they aware that they were making mistakes and intentionally saying "we will tolerate degradation of results for the sake of comfort", or did they underestimate the degree of damage their actions would cause?
-I would like to learn more about how this was bungled and what should have been done differently. Hopefully a more thorough analysis exists.

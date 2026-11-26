@@ -1,2 +1,0 @@
-Is surface gravity a constant on rotating hydrostatic bodies regardless of angular velocity and shape?
-As a homogenous hydrostatic body rotates, it deforms to an oblate spheroid. It seems intuitive to me that the surface gravity must remain the same regardless of latitude. (otherwise pebbles would roll from "higher" to "lower" weight) At some point, higher rotation rates deform the body to a dumbbell shape. At that equilibrium configuration, is the surface gravity still constant across the entire surface? Have I misunderstood the competing gravity/centripetal forces?

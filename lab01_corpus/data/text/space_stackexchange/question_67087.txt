@@ -1,2 +1,0 @@
-Is it always possible to do a Hohmann transfer orbit between two planets in a star system?
-I’m curious if there are planets where the velocity at which they orbit around their sun and/or positions relative to each other are so badly aligned that it is impossible to do the Hohmann transfer orbit between them, or if given any two planets in a star system (for example, our solar system,) there's always a Hohmann transfer orbit. (That is, there's always a launch window.)

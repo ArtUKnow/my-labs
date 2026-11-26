@@ -1,2 +1,0 @@
-How does the JWST change focus when it goes from looking at a near subject to looking at a far subject? (Does it even change focus?)
-After following the extensive steps in the process of aligning and phasing the optics and instruments of JWST... I now wonder if further focus adjustments would be made based on distance to subject. Perhaps that focus is already factored into the specific instruments. Perhaps big redshifts don't care about focus. Perhaps 'focused at infinity' is all that is needed.

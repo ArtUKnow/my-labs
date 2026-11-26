@@ -1,2 +1,0 @@
-Diagonal ice tunneling rover to reach a safe pressure in Mars?
-Is the ice on Mars deep enough to bore down into it to sustain around 10 PSI (69 kPa) air pressure? The device I have in mind is a rover with a reactor that melts through the ice slowly to create a stable tunnel.

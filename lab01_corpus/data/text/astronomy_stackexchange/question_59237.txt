@@ -1,4 +1,0 @@
-Why does the 3P level in OIII have three energy levels?
-In my continued quest to understand the 500.7 nm OIII line we observe in astrophotography, I came across this energy diagram for OIII on Wikipedia:
-The 3P level has three sublevels, which I assume are the ml magnetic quantum number states. But my reading says these are degenerate - they all have the same energy. The drawing shows them being different. Is this due to a magnetic field and the Zeeman effect? Or is it something else?
-Thanks for your insight.

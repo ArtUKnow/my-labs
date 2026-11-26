@@ -1,4 +1,0 @@
-Is a Raptor 2's thermal output really comparable to that of a nuclear power plant?
-After about 01:10:10 in the 2022-02-10 SpaceX Starship Update part of Musks answer to Tim Dodd's question about Raptor 2 development:
-The only remaining issue that we're aware of is melting the chamber, so... that thing really wants to melt. It's got like on the order of a gigawatt of heat, so it's pretty hot. Like a gigawatt is what a nuclear power plant produces, so it's really desperately trying to melt at any time.
-Question: Is a Raptor 2's thermal output really comparable to that of a nuclear power plant?

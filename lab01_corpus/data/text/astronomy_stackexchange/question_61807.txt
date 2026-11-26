@@ -1,4 +1,0 @@
-Are objects really attracted towards centres of gravity?
-Take three identical objects in space, A, B and C. A and B are separated and C is travelling towards them. If they have negligible mass, C will collide with A or B or pass between them, depending on its precise initial trajectory.
-Now give them significant mass. Is C now more likely to pass between A and B because it is attracted by their centre of gravity or less likely because it is more likely to be attracted by either A or B?
-Can this be extended if we replace A and B by a hollow shell? Is C more or less likely to head towards the centre if the shell is massive compared to being massless?

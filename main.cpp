@@ -4,6 +4,7 @@
 #include "rank.h"
 #include "server.h"
 #include "text.h"
+#include "demo.h"
 #include <stdio.h>
 #include <string.h>
 int ir_metrics_main(int argc, char **argv);
@@ -17,6 +18,7 @@ int main(int argc, char **argv) {
         return 2;
     }
     const char *command = argv[1];
+    if (!strcmp(command,"demo")) return ir_demo_main(argc-1,argv+1);
     if (!strcmp(command, "prepare"))
         return ir_prepare_main(argc - 1, argv + 1);
     if (!strcmp(command, "corpus-stats"))

@@ -1,2 +1,0 @@
-Why do we launch similar payloads on different models of rocket?
-Why don’t we just use one launch vehicle to carry different payloads? For example, to launch payloads in the size range of supplies for a Martian base or something made to destroy a Dimorphos size object might be exclusively carried by Starship, while carrying payloads like those the space shuttle did might be done exclusively by say, Ariane 5s. Wouldn’t it be cheaper to do so?

@@ -1,3 +1,0 @@
-Sextant usage question
-When using a sextant to determine latitude, how is the angle found use in mathematical equation to determine latitude?
-Also, when measuring the angle between the sun and horizon, do you center on the suns origin and measure the other point to the horizon.

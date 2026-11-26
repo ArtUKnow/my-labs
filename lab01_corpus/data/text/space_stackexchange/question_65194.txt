@@ -1,7 +1,0 @@
-Why does NASA suit color coding not follow conventional navigation color coding?
-Pictures of NASA spacesuits like the ones below of Neil Armstrong’s Apollo suit (from the Smithsonian) and Gemini suit usually show the right wrist connection red and the left blue.
-Color coding for marine, aviation and spacecraft navigation lights is always green for right (starboard) and red for left (port). It certainly helps make sense out of confusion in the marine world. Faced with a tangle of lines with colored tracers, telling port from starboard is reflexive. Same would apply to donning suit gloves in an emergency.
-Is there a reason this convention was not followed for spacesuits? In the beginning, all astronauts were pilots and would have been ingrained with the red/green standard.
-Marine
-Red and green navigation lights on an F-22 Raptor
-Red and green bottom navigation lights on SpaceX Dragon

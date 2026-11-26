@@ -1,3 +1,0 @@
-How dangerous is tossing equipment off the ISS?
-On 2023 June 22, during an ISS spacewalk, Sergey Prokopyev and Dmitry Petelin "tossed overboard" three no longer needed devices, "off the back of the space station in a direction that ensured that the gear could never make recontact with the outpost" before burning up in the atmosphere.
-At that time, the ISS was about 400 km above ground. Below it are quite a few other satellites, and quite a lot of tracked debris. What is the risk of these three new pieces of litter hitting something before burning up, thereby possibly damaging a satellite or further scattering orbital debris? Why didn't they instead retrieve the devices, to be loaded onto the next "garbage truck" whose departing trajectory could and would be controlled?

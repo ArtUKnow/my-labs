@@ -1,2 +1,0 @@
-Definition of ECL50 coordinate frame?
-Is there a document with the definition of the "ECL50" frame? It was used at least in the Voyager and Ulysses missions. I have seen in literature people saying "ECL50 is the same as ECLIPB1950", but is there the original document with the definition of the ECL50 frame somewhere?

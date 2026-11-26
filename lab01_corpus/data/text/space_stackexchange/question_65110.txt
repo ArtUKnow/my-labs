@@ -1,5 +1,0 @@
-How is the trajectory of a gravitational assist flyby mission computed?
-Based on much research after posing my previous question, as well as the discussions with the rest of the community, I now (think I have) a deeper understanding of how mission planning works.
-Based on what I have read, the feasibility of certain trajectories can be determined by comparing porkchop plots of the trajectories. For example, for a mission to Mars, the porkchop plots of a direct transfer to Mars vs a gravitational assist from Venus, then to Mars can be compared. See this answer:
-Brendan Luke's Answer on the Feasibility of Earth-Venus-Mars Missions
-My question therefore is this: Given a specific delta-v and launch date from Porkchop or other similar plots, how can I know the specific trajectory this corresponds to? I have some understanding of B-Plane targeting if it helps.

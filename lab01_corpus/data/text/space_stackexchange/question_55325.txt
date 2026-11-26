@@ -1,4 +1,0 @@
-How can we avoid collisions when moving from one orbit to another?
-Imagine that my ship is parked in LEO and needs to transfer to a higher orbit. It makes a Hohmann transfer and flies to the needed orbit by an elliptical trajectory. But this trajectory is crossing a few other orbits and the ship collides with another ship from one of those orbits and crashes.
-So, how can we detect the possible collision and avoid it and reach the needed position on the needed orbit after this (collision avoidance can take some time, so that position in the orbit can be shifted a bit)?
-For example, we need to make a rendezvous with another ship in other orbit, but we collided during flight to it.

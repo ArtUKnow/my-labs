@@ -1,9 +1,0 @@
-How are Experienced and Observed Mission Elapsed Times defined? (EMET & OMET)
-To the question titled What timezone would be used for interstellar travel? this currently unsourced answer currently says in toto:
-I suspect any interstellar travel will have relativistic effects (it's a factor of even interplanetary travel), the only reasonable timezones are EMET and OMET -- Experienced and Observed Mission Elapsed Times which would have the departure date as its epoch. UTC would fall somewhere in the middle of these.
-While the term mission elapsed time is in widespread use in spaceflight, a quick check failed to turn up specific definitions for these two terms. So I'd like to ask the following:
-Questions:
-How are EMET and OMET defined? Are they for example what two ideal clocks initially set to UTC at the launch site would read if one remained at the launch site and the other remained in the spacecraft? Or is it something different since UTC is said to be between them (see #3).
-Are these generally recognized and well defined concepts that can be sourced or for which citations exist, or are we witnessing the birth of new space acronyms?
-How does "UTC would fall somewhere in the middle of these." work exactly? Since it seems that they would be defined in different frames relativisticly separated by a large distance, how could the concept of UTC being in between them be defined much less measured?
-I haven't been able to find any references to EMET nor OMET, is it possible to cite a source or two showing that these are recognized and well defined concepts? Also, since (I presume, because again no sources) that each is measured in a different frame.

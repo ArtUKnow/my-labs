@@ -1,2 +1,0 @@
-Mathematics prerequisites for GNC engineers focusing on trajectory optimization and non-linear spacecraft attitude control
-I am a graduate student starting research in Spacecraft Dynamics and Control . My primary focus is on trajectory optimization and advanced attitude control .To build a solid theoretical foundation, I am looking for a structured "mathematical roadmap." Beyond standard Calculus and Linear Algebra, what specific mathematical branches are essential for high-level research in these areas?

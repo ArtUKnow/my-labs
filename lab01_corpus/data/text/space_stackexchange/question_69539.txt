@@ -1,4 +1,0 @@
-What was the organizational structure of Space Shuttle launch preparations?
-Launching hundreds of times must have gone hand in hand with a well established data review process and 'authority to proceed' checkpoints from various subsystems.
-I am interested in the organizational structure surrounding these processes. If an analyst raised an issue, what was the chain of elevation (i.e. how was this issue distributed to and addressed by engineering leadership)?
-Is there a space-shuttle flight operations org-chart showing the roles from chief engineer down to analysts and technicians?

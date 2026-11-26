@@ -1,9 +1,0 @@
-How can firing a Space Shuttle OMS engine below 21 km cause its nozzle to "collapse"?
-This answer to Can the space shuttle use OMS engines during landing? says:
-No
-and quotes Section 3.7 of the Orbital Maneuvering System Workbook; OMS 21002 October 10, 2006, Final version, USA006500 Rev. A:
-3.7 CONSTRAINTS AND LIMITATIONS
-The following is a list of the constraints and limitations for the OMS that are relevant to crew operations.
-The minimum altitude for an OMS engine burn is 70,000 feet. Below this altitude, the pressure difference between the inside and the outside of the OMS engine nozzle could cause it to collapse.
-If a vacuum engine is operated with a significant ambient pressure then the exhaust will be under-expanded, and it might separate from the inside walls of the nozzle. I'd always assumed this was due to ambient pressure sneaking in from outside.
-Is the phenomenon that could lead to nozzle collapse in this case due to "separation failure"? Though it's hard to imagine, is the pressure of the OMS rocket exhaust lower than ambient pressure significantly lower than 21 kilometers?

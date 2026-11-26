@@ -1,2 +1,0 @@
-Ullage control with single engine stage?
-How does a single-engine upper stage, like that of Falcon 9, do ullage control before starting the engine? Does it fire its cold gas thrusters? Does it fire the engine at minimum throttle for a second before going full throttle---if this even makes sense to do? Some other way? Or does it just not do ullage control?

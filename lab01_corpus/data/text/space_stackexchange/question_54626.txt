@@ -1,8 +1,0 @@
-How were Soviet/Russian aircraft used to track and/or communicate with spacecraft?
-Russian Space Web's Russian ground control and tracking network mentions
-A Soviet Iluyshin-18 aircraft configured to maintain communications with spacecraft.
-in the sidebar and includes the small image below.
-Question: How were Soviet/Russian aircraft used to track and/or communicate with spacecraft?
-The linked article outlines a substantial set of ground stations, and there may have been tracking ships at sea as well.
-How were aircraft used? Which roles did they fill that ground and sea stations couldn't?
-How (the heck) did their antennas work, since flying with a big dish antenna on top would have been quite a challenge?

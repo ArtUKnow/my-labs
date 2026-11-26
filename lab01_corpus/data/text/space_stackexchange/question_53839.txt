@@ -1,9 +1,0 @@
-Was the teletype machine on MIR the first printer in space? Is there a photo, and what frequencies were used?
-Seeing the video KK5IM 2021 Shack Tour spotted in The Ham Shack lead me to What paper size do they use on the International Space Station? which begins:
-We know they have at least one printer on the ISS – that's NASA-supplied so it would be in the US Orbital Segment. Presumably there is a printer in the Russian Orbital Segment as well. (Mir had a teletype.)
-(The ISS inkjet printer is also discussed in Was this printer shown the ISS in 2015 built specially to work in microgravity?)
-Question(s): About the Teletype machine on MIR (in order of imporance):
-Was this the first printer in space?
-Is there a photo available of it?
-What frequencies were used, since traditional shortwave frequencies would not escape the ionosphere?
-For those unfamiliar with what a teletype is, a screenshot from the wonderful video linked above

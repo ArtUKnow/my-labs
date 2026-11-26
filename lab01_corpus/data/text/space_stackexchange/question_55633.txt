@@ -1,4 +1,0 @@
-How to keep the phase angle with an Hohmann transfer?
-I am studying the drag make up maneuver. In this maneuver, I need to go from point A to point B keeping the same phase angle as shown schematically in this picture
-When I've approached this problem, I've thought about bi-elliptic transfers but my professor said that if we need to have a symmetric jump (from 𝑎−Δ𝑎 to 𝑎+Δ𝑎), while keeping the same phase, in ideal condition, also a Hohmann transfer would be the solution. I have made some math, but I've found that the only way to keep the phase with Hohmann is to keep the ratio between the perigee and the apogee equal to one...
-Any solution will be appreciate. Thanks.

@@ -1,4 +1,0 @@
-Did the spacecrafts Galileo or Juno use the Galilean moons for a gravity assist before entering Jovian orbit?
-Galileo and Juno are the only two spacecraft to have entered orbit around Jupiter.
-Did either of them use one of the Galilean moons for a gravity brake before in order to enter a stable orbit around Jupiter?
-Or did they just directly insert into Jupiter's orbit using deep space delta-v maneuvers?

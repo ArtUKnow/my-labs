@@ -1,9 +1,0 @@
-With a non-motorized telescope, can 100 pictures of 0.5 seconds be realigned and merged to get the equivalent of a 50-second long exposure shot?
-I have a non-motorized Newton 130/900 telescope.
-Of course, it's hopeless to do pictures with exposure ~ 1 minute. Even 1 second is probably too much, as seen in Optimal exposure time for photography with unmotorized telescope.
-Instead of doing 1 long exposure photography of 50 seconds (which would produce star trailing), can we do:
-100 automated photos of 0.5 second exposure time (each photo on its own has few star trailing)
-an algorithm can reposition each picture to compensate the movement of the earth
-at the end we merge the 100 (re-aligned) pictures to get a single picture.
-It seems that, with this scenario, we get the same "number of photons" with these 100 photos, merged, as with a single 50-second-long exposure photo.
-Is it a common practice?

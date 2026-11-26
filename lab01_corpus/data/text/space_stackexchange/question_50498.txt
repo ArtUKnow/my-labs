@@ -1,7 +1,0 @@
-Why did Curiosity not have a camera on board to record the landing?
-So we've had a question asking why Perseverance had a camera to record the landing and one asking if Curiosity did, but I can't find any information about why Curiosity did not have a camera on board to record the landing. You'd think that the scientists and engineers would want to record it so that they'd have more information about how the landing went.
-According to the NASA page on Perseverance's cameras,
-When the Curiosity rover landed on Mars, it recorded the descent and landing with its Mars Descent Imager or "MARDI" camera. The view was extremely valuable to engineers; it helped them understand what happens during one of the riskiest parts of the mission.
-They recognize the usefulness of MARDI, so why not have one looking at the sky crane as well?
-These new eyes and ears of Perseverance are assembled from easily available commercial hardware. The cameras and microphone are being flown as a "discretionary payload," which means it's an optional add-on that will be an asset, but is not required for the mission.
-I guess it adds to the weight and was not considered mission critical, but since Perseverance was able to find the room and be larger than Curiosity, I think they should have been able to fit them on.

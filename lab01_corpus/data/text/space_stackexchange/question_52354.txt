@@ -1,7 +1,0 @@
-Correcting Accelerometer Readings when Offset from Center of Mass: How?
-A follow-up to an earlier question.
-So I've accepted that I need to correct my accelerometer readings for the accelerometer offset from the center of mass.
-The offset means that whenever the rocket rotates, the accelerometer will read an acceleration, even though the center of mass is not accelerating---and it's the center-of-mass acceleration that I need from my accelerometer.
-I can calculate the rotation terms and subtract them from my acceleration readings to estimate the acceleration of the center of mass, which means I have to calculate also the location of the center of mass as it shifts down due to fuel consumption.
-But I wonder how the correction is done in practice. I'm looking for technical detail, an algorithm even, if it's public... but at least a solid technical description of the algorithm. I want to say this is buried in the many space shuttle and saturn v and apollo papers now in the public domain... but I haven't had the good luck of running into it just yet.
-Any pointers on where I might find this info? Huge thanks if you can help!

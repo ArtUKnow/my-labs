@@ -1,4 +1,0 @@
-Why is Atria moving so fast, or is it?
-Comparing the position of the star Atria in 1960 with the position in 2026, its Sidereal Hour Angle, SHA has changed by 1.75º. But sources say that its proper motion is very small. So why the big change in position?
-Specifically, the 1960 Air Almanac says Atria has SHA 108º52' and Dec S68º57'. The 2026 Air Almanac has SHA 107º07' and Dec S69º04'. Wikipedia says its proper motion in RA is 17.99 mas/yr. So over 66 years, I'd expect a change of 1.2" but I see 1.75º, different by a factor of 5000. I considered the possibility of a typo in 1960, but other old sources give SHAs of 108º or 109º for Atria.
-Is Atria wandering around or am I confused about proper motion?

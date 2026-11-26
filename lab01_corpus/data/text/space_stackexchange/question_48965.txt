@@ -1,6 +1,0 @@
-How did the Kepler Telescope reach its orbit?
-The Kepler Telescope was (is) in a heliocentric Earth trailing orbit, but I want to figure out how it was able to reach this orbit exactly.
-It was launched on a Delta II with 3 stages and I studied the different burns and the parking orbit (picture below). After coasting in the parking orbit, the second and third stage put the telescope in its appropriate orbit. Still I find it difficult to reconstruct how exactly it went from LEO Parking orbit to a heliocentric orbit approximately the same as Earth and trailing it. How exactly did those 2 burns put it in this orbit?
-A professor helped me by stating it made several widening ellipses from LEO to its orbit (she gave me this picture). But how does this work with just 2 burns?
-Can somebody show me how the trajectory from LEO went and where the burns took place?
-Thanks!

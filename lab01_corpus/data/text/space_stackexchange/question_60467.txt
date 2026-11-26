@@ -1,2 +1,0 @@
-Is it possible for fuselages to have a negative lift coefficient at positive angle of attacks?
-Recently I was interested in the descent phase of the first stage of the falcon 9 launch vehicle. I assumed a long cylinder to represent the first stage. using DATCOM to predict aerodynamics coefficients, it gives negative lift coefficients at positive angle of attacks up to 5 degrees at different Mach numbers. Is it possible or it's an error?

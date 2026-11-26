@@ -1,4 +1,0 @@
-Is there any formula for solar sail velocity?
-I'm interested in solar sail, and I've researched the velocity achieved by solar sail. If we have only 4 sail parameters, can we make a formula for solar sail velocity?
-m:mass of sail, A:area of sail, r_1=initial distance from sun, R=reflectivity
-And also we have to consider solar gravitational deceleration

@@ -1,9 +1,0 @@
-How did "STOP" button work on Lunar Module?
-The button to stop the descent engine of Lunar Module was not "just a button": it evolved and changed multiple times during development, and this is one of the many existing designs:
-What are all those levers and switches surrounding the button?
-Which, by the way, is not the same of the start button: stop button is on the left of the assembly, oriented to the left:
-I know it was a "pushbutton", which remained in locked position after first press, and required a second press to be reset:
-Page 675 of handbook)
-So possibly some of those levers are the locking mechanism... or not?
-The left lever should be the descent rate switch, as shown in another picture:
-But I cannot find a specific document which describes in detail this assembly. I can only find several photos showing different fashions of same assembly...

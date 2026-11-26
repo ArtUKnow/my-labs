@@ -1,2 +1,0 @@
-Is there a specific constant name for the fifth root of 100?
-I understand that each scale you go up on the absolute magnitude scale, the luminosity decreases by the fifth root of 100, or around 2.512. Is there a name for the constant 2.512, or not. Also, is the fifth root of 100 rational, or irrational?

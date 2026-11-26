@@ -1,3 +1,0 @@
-Does hydrogen peroxide work as a rocket fuel oxidizer by itself?
-Suppose an aerospace company is building a rocket engine. Their fuel is isopropanol. They don't have access to LOX or another common oxidizer, and the engine cannot be air-breathing. They only have hydrogen peroxide ($\require{mhchem}\ce{H_2O_2}$). Would hydrogen peroxide, when mixed with and ignited in an isopropanol solution, oxidize the fuel and allow it to burn? If no, why not?
-I think I should note that I do not intend to attempt this. It's out of pure curiosity.

@@ -1,3 +1,0 @@
-Where can I find reference spectra for the Sun's atmosphere?
-I'm putting a talk together in anticipation of the upcoming solar eclipse. I hope that part of this talk will focus on scientific observations that have been made during eclipses, which would include the discoveries of helium in the chromosphere and coronium (highly ionised iron) in the corona, both from unidentified spectral lines discovered during total solar eclipses.
-I'd like to be able to point out the lines in question on modern spectral data from the Sun's chromosphere and corona, but I'm having trouble finding visible light spectra. It strikes me as something that should be out there, but my endeavours using web searches have so far been in vain.

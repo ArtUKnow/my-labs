@@ -1,2 +1,0 @@
-Why hasn’t SpaceX sent anything to Mars yet?
-SpaceX has the rockets to send some payload to Mars. The Falcon heavy can carry up to 16.8 tons to Mars according to this answer: Why can Falcon Heavy bring 4.2 times as much mass to Mars than F9, but only 2.7 times as much to LEO?. The most advance rover on Mars is currently the Perseverance rover. That only weighs 2624 kg according to this site: https://mars.nasa.gov/mars2020/spacecraft/rover/. The Falcon heavy can carry 8x the weight to Mars. Why hasn’t SpaceX sent anything to Mars yet?

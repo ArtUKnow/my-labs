@@ -1,4 +1,0 @@
-Could a Dyson-Harrop Stellar Wind Power Satellite generate a magnetic shield for Mars?
-One of the major difficulties in creating an artificial magnetic shield for Mars is in providing power to sustain current in a massive loop.
-A Dyson-Harrop satellite is designed to generate energy from the stellar wind and is estimated to be able to generate 1.7 Megawatts using just 300 meters of copper wire. It also sounds like it may generate its own magneto-shadow due to the fact that it is redirecting electrons into its collector and positively charged particles away from its sails.
-Is there a way to combine the benefits of this with our needs for a solar wind shield on Mars?

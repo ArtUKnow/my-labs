@@ -1,5 +1,0 @@
-Wouldn't it make sense to use parachutes for aborting test flights rather than destroying the whole rocket?
-Recently, a SpaceX test flight was aborted by blasting the whole device.
-Wouldn't it make sense to have parts of such rocket be equipped with parachutes when test flights are performed, so at least parts of the aircraft can be recycled?
-I comprehend that the whole monolithic device cannot be rescued, but parts of it could be split and safely brought back to earth separately. Perhaps even the huge tank could be split and saved.
-Just some layman thoughts …

@@ -1,4 +1,0 @@
-Largest number of rockets launched into space from a given launch site in a 24 hour period?
-Question: What is the largest number of rockets launched into space from a given launch site in a 24 hour period? Where, when, why?
-"into space" means $\ge$ 100 km, but pretty close to 100 km would still count. However a hobby rocket launch-a-thon topping out at a kilometer or two wouldn't.
-Thus answers to Most busy times in US space launches? are not likely to cover this.

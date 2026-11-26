@@ -1,6 +1,0 @@
-How to find the average ambient pressure during rocket ascent?
-I am trying to find the average ambient pressure that my rocket will flight through during its ascent to then determine the most optimum conditions in my combustion chamber and nozzle.
-I have initially used the barometric formula and took the average integral of the barometric formula from launch site's altitude to the desired altitude (in my case 30km). I have realized however that this gives me the "spatial" average, and that this method doesn't work anymore when considering an accelerating system.
-Does anyone know a formula I could use to find the average ambient pressure my rocket would fly through?
-I presume that besides a few constants, the important parameters would be thrust, burn time, weight and final altitude.
-1For the purposes of this question "ambient pressure" is the pressure of the environment through which the exhaust gases are moving after exiting the nozzle for the purposes of modeling the performance of a given combustion chamber and nozzle.

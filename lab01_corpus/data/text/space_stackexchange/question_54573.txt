@@ -1,7 +1,0 @@
-Largest number of times that a bit of fuel has been exchanged between spacecraft? Between spacecraft tanks?
-Scott Manley's Russia's New Space Station Module Causes Alarm On ISS says a bit after 18:38:
-The fuel system isn’t going to be entirely isolated because when Progress docks to Nauka, they have to be able to take propellant from the Progress and feed that into the main tanks on the space station for refueling.
-which reminds us that fuels are regularly passed back and forth between spacecraft at the ISS.
-But I wonder what the record is for the number of fuel transfers between spacecraft, and between spacecraft tanks.
-Question: Largest number of times that a bit of fuel has been exchanged between spacecraft? Between spacecraft tanks?
-Not restricted to ISS.

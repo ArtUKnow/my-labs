@@ -1,2 +1,0 @@
-Is Vallado's Revisiting Spacetrack Report #3 still relevant today?
-The title pretty much sums it up. I am reading David A. Vallado's Revisiting Spacetrack Report #3, which was published in 2006 and includes source code for the SGP model series. I was wondering, is the code and equations still relevant today?

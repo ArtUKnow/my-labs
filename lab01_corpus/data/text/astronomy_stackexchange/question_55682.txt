@@ -1,2 +1,0 @@
-Is it possible to determine orbit orientation of exoplanet without direct imaging and astrometry?
-Is it possible to determine orbit orientation (in space) of an exoplanet without direct imaging or astrometry (for example with transits and rv observations only)? I have read somewhere that orbits of exoplanets in TRAPPIST-1 system have negligible mutual inclination (below one degree) but I cannot see a way how to determine that from observations.

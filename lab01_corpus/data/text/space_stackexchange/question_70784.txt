@@ -1,6 +1,0 @@
-Could SpaceX approach to testing Starship be why the Raptor is still unreliable in flight?
-Famously, SpaceX does static testing for the Superheavy on the actual launch stand and only for seconds long burns.
-In contrast NASA constructed a separate test stand and static tested the Saturn V first stage for the full length of an actual burn, i.e several minutes long.
-SpaceX in developing the Falcon 9 also followed the Apollo approach, constructing a separate test stand and testing the first stage of all 9 engines together for the full mission length of an actual flight.
-Both the Saturn V and the Falcon 9 were spectacularly successful. In contrast after 10 years development and now three iterations the Raptor is still not reliably in flight, commonly with one or more engines needing to be shut down if not actually exploding in flight.
-Is this a coincidence?

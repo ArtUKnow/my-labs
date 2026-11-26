@@ -1,2 +1,0 @@
-Inflation in Weyl-invariant Einstein-Cartan gravity
-We consider Weyl-invariant quadratic Einstein-Cartan gravity coupled to a scalar field and study the inflationary behaviour of the coupled system of the scalar field and the pseudoscalar associated with the Holst invariant. We find that the model is characterized by effective single-field inflation occurring at small field values and analyze its predictions which are in comfortable agreement with existing observations for a range of parameter values.

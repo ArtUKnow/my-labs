@@ -1,4 +1,0 @@
-Asteroid discoveries in the second half of January 2015
-I am trying to work out an uint32 primary key from provisional designation of asteroids from a .DAT file downloaded from Minor Planet Center (MPC), I looked at specification and found that the last numerical part is actually the number of times the second letter of the half-month had been cycled from A to Y skipping I (24 steps).
-Then looking at asteroid like 2015 BZ619, or similar, I wonder how it could be possible that 619 X 24 asteroid had been discovered in half a month.
-Am I missing something?

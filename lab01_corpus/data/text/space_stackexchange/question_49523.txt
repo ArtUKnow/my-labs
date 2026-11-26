@@ -1,4 +1,0 @@
-How powerful do cold gas thrusters normally get?
-Modern rockets like the Falcon 9 use cold gas thrusters for steering on landing approach when the engines are dead.
-Cold gas thrusters are common in smaller satellites and spacecraft, which way a fraction of a rocket's first stage.
-So I'm wondering: how much force can you get from a cold gas thruster? How powerful do these normally get? I'd be especially interested in specific references to powerful cold gas thrusters or to the rockets that use them.

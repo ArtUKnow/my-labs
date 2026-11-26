@@ -1,8 +1,0 @@
-Why was an An-124, and not a C-5A Galaxy, used to transport theAtlas V?
-First stages of Atlas V rocket used to be transported by air on Antonov-124 cargo aircraft. Later Lockheed-Martin switched to transporting by water.
-Why C-5 Galaxy wasn't used instead of An-124?
-Although first stage of Atlas V has Russian-built RD-180 engine, the stages were assembled in USA, and could have ITAR-restricted components.
-An-124 aircraft are operated by Volga-Dnepr company, with Russian-speaking crews from Ukraine, Russia, etc.
-So it's some surprising.
-Was C-5 airplane technically unable to transport first stages of Atlas V? Or at least less suitable?
-Or C-5 could do it, but there were some non-techical reasons (economical, political, other)?

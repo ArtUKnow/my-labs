@@ -1,5 +1,0 @@
-What material can a maser sail design use?
-A quick recap for photon sails:
-Photon sails are conceptual spacecraft propulsion systems that would generate thrust from radiation pressure. Types of photon sails include solar sails, laser sails and maser sails, which sources of the thrust are solar radiation, laser beam and microwave, respectively. Laser sail designs often use dielectric mirrors as their sails, which can handle incident lasers on the order of MW/cm².
-Question:
-In terms of microwave reflectivity, what is the best material (that we can make now or soon in the future) for making maser sails? How strong a microwave beam can this material handle before failure?

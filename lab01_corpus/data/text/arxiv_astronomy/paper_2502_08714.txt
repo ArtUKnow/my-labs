@@ -1,2 +1,0 @@
-Distribution of Cataclysmic Variables in our Galaxy and Their Position in the HR Diagram in the Gaia Era
-In this study, the distances of stellar systems classified as cataclysmic variables in the literature were determined by using the distance compiled from Bailer-Jones et al. (2021). The spatial distributions of cataclysmic variables in the heliocentric Galactic coordinate system are obtained and their positions in the Hertzsprung-Russell (HR) diagram constructed from Gaia colors are discussed.

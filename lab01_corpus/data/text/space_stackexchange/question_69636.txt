@@ -1,8 +1,0 @@
-What was the largest distance between Perseverance and Ingenuity when they could still communicate by their COTS 900 MHz ZigBee chipset?
-Perseverance and Ingenuity communicate by COTS 900 MHz ZigBee chipset.
-Is there anything that could speak 900 MHz ZigBee that could hear Ingenuity helicopter besides the Perseverance rover?
-How Ingenuity ensures it does not fly away from the range of connection from Perseverance?
-Is there anything that could speak 900 MHz ZigBee that could hear Ingenuity helicopter besides the Perseverance rover? (suggests a range up to 1000 meters line-of-sight)
-I wonder, did they challenge the range of communication by parking Ingenuity several hundred meters from Perseverance and then driving Perseverance further to see how the signal strength dropped with distance, and push the distance limit?
-Of course, they eventually separated once Ingenuity was grounded. So there may be some data there.
-Question: What was the largest distance between Perseverance and Ingenuity when they could still communicate by their COTS 900 MHz ZigBee chipset?

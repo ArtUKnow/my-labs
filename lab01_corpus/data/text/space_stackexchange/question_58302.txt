@@ -1,5 +1,0 @@
-What is the difference between Quartz Clock and Atomic Clock?
-I want to know why an atomic clock is more accurate than a quartz one?
-I understand that the atomic clock can give time to the nanosecond, say it is 10:30:24.123456789.
-If we have 1GHz quartz clock, then it means that it ticks 1 000 000 000 times every second, so it can give us an accuracy of 1/1000000000 = 0.000000001 second
-Am I wrong ?

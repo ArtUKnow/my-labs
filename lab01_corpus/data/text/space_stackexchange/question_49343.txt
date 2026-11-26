@@ -1,3 +1,0 @@
-Robotics & Space Missions; Why is the physical presence of people in spacecraft still necessary?
-Robotics is now well developed. Many programming languages allow you to work in real-time. Also, a new era of space missions and research is in full swing.
-So here's the question: Why is the physical presence of people in spacecraft still necessary?

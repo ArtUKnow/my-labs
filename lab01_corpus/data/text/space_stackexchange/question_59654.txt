@@ -1,2 +1,0 @@
-Is the first stage LOX tank on the Falcon 9 monocoque or semi-monocoque?
-In the Falcon 9 user guide manual it is noted that the first and second stage LOX tanks are monocoque. That means the tank is made of a single cylindrical shell. Is that possible? How can the first stage LOX tank be monocoque?

@@ -1,7 +1,0 @@
-How does the SMAP satellite cope with conflicting gyroscopic forces?
-The SMAP is a synthetic aperture radar Earth observation satellite in a 8-day exact repeat sun synchronous orbit.
-This a beautiful animation of the satellite deployment
-https://smap.jpl.nasa.gov/resources/83/smap-antenna-deployment-animation/?category=images
-The satellite has two halves which rotate in relation to each other: the antenna/reflector and the bus. The antenna rotates around the zenith/nadir axis every scan cycle and the bus rotates around the orbital axis each orbit. If that wasn’t enough, the orbital axis needs to precess once a year.
-The relatively rapid rotation of the antenna structure is reminiscent of a spin-stabilized spacecraft, so it should oppose the other rotations.
-How are these gyroscopic forces managed?

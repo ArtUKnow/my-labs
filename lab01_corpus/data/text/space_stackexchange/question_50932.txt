@@ -1,8 +1,0 @@
-SpaceX launch simulation software?
-Say you're a SpaceX launch engineer.
-You have a mission design meeting where you'll talk about different mission scenarios.
-The meeting is in a few hours.
-Would you run a quick simulation in KSP to get a quick rough baseline idea of what might happen in various launch scenarios?
-"Might need more fuel if we do this, might be able to lift more cargo if we do that."
-Would you share your KSP simulations at the meeting to strengthen your case?
-Are there photos of SpaceX engineers doing this :/

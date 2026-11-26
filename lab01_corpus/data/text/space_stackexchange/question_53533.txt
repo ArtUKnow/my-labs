@@ -1,2 +1,0 @@
-Using astrogator in STK to separate 2 satellites using atmospheric drag
-So I can do an initial separation using Astrogator by using different areas. What I need to do now is to define a distance and at that distance the area that the satellites are propagating changes. Any idea how to define that in the astrogator?

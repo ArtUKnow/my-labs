@@ -1,6 +1,0 @@
-If the oxygen supply fails in an EMU suit, how much does void volume contribute to survival time?
-EMU suit internal volume (without occupant) is 125-153 liters depending on suit configuration. https://jtatm.textiles.ncsu.edu/index.php/JTATM/article/view/2020/1199.
-After putting an astronaut inside the suit, a significant void volume will remain. Void volume will vary from small astronauts (60kg) to large (90kg) since the suit components will be selected for appropriate fit. But it is reasonable to calculate void volumes up to 50% for smaller astronauts.
-The EMU suits are inflated with 100% O2 to a pressure of over 4psi, providing a limited but significant supply of O2.
-in a suit failure, If O2 supply fails but circulation and CO2 scrubbing continue, how long could an astronaut remain conscious on the void oxygen? Presumably suit pressure would fall as oxygen is removed by respiration and the resulting CO2 was removed by the scrubber.
-In this scenario, how much additional time is provided by the Oxygen Purge System (“bailout bottle”)?

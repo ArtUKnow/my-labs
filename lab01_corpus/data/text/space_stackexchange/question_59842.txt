@@ -1,6 +1,0 @@
-Is the use of Nylon in satellites a bad idea?
-I came across a video of someone from Northrop Grumman talking about how they don't use Nylon in satellites anymore as it accumulates charge which leads to arcing (
-).
-I tried finding more information about this but can't understand why Nylon behaves this way, nor any information/papers which show any data.
-It would be great if anyone could share any resources which provide more insights into this and possible mitigation strategies.
-Thank you.

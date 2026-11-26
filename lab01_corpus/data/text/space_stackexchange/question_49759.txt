@@ -1,7 +1,0 @@
-Displaying spacecraft attitude from rotation matrix or quaternion?
-Navigation and guidance systems generally use rotation matrices or quaternions to uniquely specify 3D rotations.
-But these are not the least bit intuitive, so we like to convert them to Euler angle sequences that we can understand---maybe a roll, pitch, yaw sequence, say.
-Trouble is... the conversion limits your angles to +-90 degrees about one axis (y in xyz sequence) and +-180 degrees about the other two axes (x and z in xyz sequence).
-This is problematic if you're doing a flipover maneuver in space and your pitch angle extends over the limited 180 degree range imposed on it by the conversion.
-Then there are the singularities (gimbal lock) and the sudden erratic angle changes that occur near it (roll and yaw angles suddenly changing by 180 degrees because the mathematics in the rotation conversion can't tell a rotation q apart from a rotation pi-q).
-So I'm wondering, how exactly do they extract meaningful intuitive attitude information to present to the crew from the rotation matrices or quaternions employed in their algorithms without the limitations that a conversion to an Euler angle sequence imposes?

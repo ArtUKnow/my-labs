@@ -1,9 +1,0 @@
-Calculating TLE, or satellite orbit elements based on angle information (RA and Dec) at multiple epochs
-new here.
-I am trying to 'determine' orbital elements of a given satellite.
-Based on TLE from space-track, or CelesTrak, I observed several satellites resulting in 10 to 20 RA and Dec pairs for each satellite.
-Therefore, I am wondering what is the most straightforward method/or package to produce orbital elements, or TLE based on those informations.
-Yes, you can consider this project as checking if TLE based on 10 to 20 epochs within a day is close enough to original TLE.
-Surely, I researched enough to realize I need to propagate through various force models, but all the answers, or hints I dug up are regarding TLE to (future) positions, not the other way around.
-And I did not want to purchase ODTK, or even STK. Maybe MATLAB is ok.
-Thank you very much.

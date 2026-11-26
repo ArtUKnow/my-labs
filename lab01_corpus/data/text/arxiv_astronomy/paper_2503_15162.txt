@@ -1,2 +1,0 @@
-Fine-tunings in nucleosynthesis and the emergence of life: Status and perspectives
-We discuss the fine-tunings of nuclear reactions in the Big Bang and in stars and draw some conclusions on the emergence of the light elements and the life-relevant elements carbon and oxygen. We also stress how to improve these calculations in the future. This requires a concerted effort of different communities, especially in nuclear reaction theory, lattice QCD for few-nucleon systems, stellar evolution calculations, particle physics and philosophy.

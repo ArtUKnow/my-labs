@@ -1,4 +1,0 @@
-Using coolant as 3rd propellant
-Rocket engines often have 2 propelants, one of which is used to cool the engine and after that the hot propellant is injected in the combustion chamber.
-Would make sense to have a third propellant more suitable for the cooling process?
-As an example, at high temperatures ammonia decomposes endothermically into H2 and N2 which can then be injected into the combustion chamber, but likely injected at a much lower temperature due to the endothermic process, ammonia have a much lower energy density than methane or hypergolic fuels but the decomposed products have similar energy densities.

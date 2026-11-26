@@ -1,5 +1,0 @@
-How would rockets function in an atmosphere which has 100 % oxygen?
-Earth's atmosphere is mainly composed of 78 % Nitrogen and 21 % Oxygen with other gases making up the rest.
-Most of the current launch vehicle's engines are designed to burn in the vacuum above the atmosphere.
-How would an atmosphere which has 100 percent oxygen affect the current rockets?
-What are the engineering complications of an engine operating in a 100 % oxygen atmosphere?

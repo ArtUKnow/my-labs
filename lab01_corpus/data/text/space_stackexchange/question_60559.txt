@@ -1,2 +1,0 @@
-How to find cost data for commercially available spacecraft components?
-I'm trying to research how much it should cost to build a small spacecraft, but it's super hard to find good information on the cost of various components. Can anyone suggest any good resources? For example, aerojet rocketdyne say that the NEXT-C thruster will be or is commercially available - but is there any way to figure out the cost without talking to each company, signing an NDA etc? Or if not for this specific thruster, for some class of thruster technology and thrust?

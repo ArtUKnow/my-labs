@@ -1,5 +1,0 @@
-How was the external tank emptied in a TAL shuttle abort?
-One of the numerous reasons RTLS was the least preferred choice is
-For a safe separation, the ET must contain a maximum of 2% propellant remaining at Main Engine Cutoff (MECO).
-How would TAL do away with ET's unspent propellant safely so the orbiter can separate and later land?
-What maneuvers can the vehicle perform to increase or decrease fuel spent while traveling to target airfield? Various kinds and timings of original cause of the abort should call for those, right?

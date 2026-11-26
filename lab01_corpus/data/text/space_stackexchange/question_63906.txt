@@ -1,7 +1,0 @@
-Developing a ROS-based Space Cleaning Robot
-I am currently developing a space debris cleaning robot based on ROS (Robot Operating System) and I am facing challenges in finding suitable simulation software to create a realistic physical environment for testing and validating the robot's performance，I am reaching out to this community seeking recommendations or suggestions for simulation software that align with my project requirements. Specifically, I am looking for a tool that offers:
-Realistic physics simulation: Accurate simulation of space dynamics, gravity, and object interactions, including the effects of microgravity.
-ROS integration: Seamless integration with ROS to develop and test ROS-based control algorithms and communication interfaces.
-Customizability: The ability to customize the simulation environment, including space conditions, debris characteristics, and robot parameters.
-Visualization capabilities: Advanced visualization features to analyze the robot's performance and identify any potential issues.
-I would greatly appreciate any insights or directions regarding where I can find relevant resources or literature on this topic. I have been searching for information, but it seems that discussions specifically addressing this aspect are limited.

@@ -1,3 +1,0 @@
-Why are liquid cooled resin 3D printed rocket engine for ground testing not being pursued?
-I watched Integza's water cooled jet engine video where he made a resin 3D printed engine cooled by water channels. It actually seemed to work very well in the end, and the only problem was how the flame was going backwards and heating up the injector plate and bad sealing overall. That can be fixed, so why is no one doing it?
-Resin 3D printed rocket engines seem like a great way to test out rocket concepts without investing in expensive metal ones.

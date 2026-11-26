@@ -1,2 +1,0 @@
-Powering pulsed Ion Thruster
-The thrust of an Ion Thruster is directly proportional to the Input power. I've done some experimenting with DIY versions, and I was wondering: Since Power is simply Energy/Time, if I shot incredibly short pulses (microseconds) by means of let's say a Marx Generator through it, would that momentarily produce a high amount of thrust, or are there issues that would prevent that? I imagine it works similar to how a cannonball does more damage as a bullet at the same speed, but if the bullet is faster both can carry the same amount of kinetic energy.

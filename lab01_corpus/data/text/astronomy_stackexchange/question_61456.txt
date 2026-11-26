@@ -1,2 +1,0 @@
-Approximating Moonlag
-Moonlag (moonset minus sunset) is one of significant quantity in islamic astronomy, signify if moon is above horizon when sunset. If moonlag is actually the different between solar hour angle when sunset and lunar hour angle when moonset, could we approximate moonlag as the different in right ascension?

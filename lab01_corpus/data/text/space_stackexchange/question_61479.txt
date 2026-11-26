@@ -1,8 +1,0 @@
-Earth-Oblateness-Effect and advance of the apogee?
-in our literature it says that the results of the Earth-Oblateness-Effect are as follows:
-A regression of the nodes
-An advance of the perigee
-regarding this i got 2 questions:
-1.) What about the apogee? does it not advance?
-2.) An advance of the perigee means an advance of the semi-major axis?
-Thanks!

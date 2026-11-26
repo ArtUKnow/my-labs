@@ -1,2 +1,0 @@
-How I can find the angular orbital velocity of satellite in circle orbit?
-I know that we have the angular orbital velocity of a satellite in circle orbit as $w_0=\frac{v}{r}$, but I want another way to find out the angular orbital velocity of a satellite in the circle orbit.

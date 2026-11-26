@@ -1,3 +1,0 @@
-Where can I find star coordinates dataset filtered by asterisms?
-I am looking for a dataset of stars that are part of some asterism. I need it to contain at least the star/system name, but if it further had stuff like spherical coordinates, constellation and relative magnitude, it'd be great. Does anyone know of something like that?
-I am not looking for some huge dataset containing billions of stars. Only 300-400 stars, which make up all the asterisms.

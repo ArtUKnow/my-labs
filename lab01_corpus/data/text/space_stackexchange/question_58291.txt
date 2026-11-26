@@ -1,3 +1,0 @@
-What did the "R" in e.g. STS-32R stand for?
-This site already has a couple of good answers explaining that, after NASA returned to sequentially numbering Space Shuttle missions following STS-51-L, some flights were internally written with an R appended to avoid duplicating old designations. But neither of them say what the R stands for, and I haven't been able to find a reliable source.
-As of this writing Wikipedia says that it stood for "Rookie", but I believe that's based on a misreading of this document, which uses e.g. R2 to refer to Robert Crippen, the second rookie astronaut to fly on the shuttle (see page 1-1 for definition (the 13th page of the pdf)).

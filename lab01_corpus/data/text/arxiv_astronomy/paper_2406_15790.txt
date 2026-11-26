@@ -1,2 +1,0 @@
-Two-Field Quintessential Higgs model and the Swampland
-We study a two-field model where a quintessence field with an exponential potential $e^{-βϕ/M_P}$ is coupled to the Higgs field. It is claimed that this model is consistent with the proposed Swampland conjecture. We check this claim by calculating its inflationary observables. Although, these observables are in good agreement with the latest CMB data, but we find an upper bound $β\lesssim 8\times 10^{-3}$ that strongly disfavors the Swampland conjecture.

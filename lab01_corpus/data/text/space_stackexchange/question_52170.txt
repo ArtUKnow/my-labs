@@ -1,4 +1,0 @@
-GNC: One clock or multiple synchronized clocks?
-Consider a vehicle like the space shuttle. There must have been many subsystems with timed tasks dependent on a common clock. So you could have a single clock feeding time to all the subsystems with timed tasks. But you could also have multiple clocks synchronized with each other or with a main clock.
-So I'm wondering: Does a rocket normally have a single common "source" of time? Or does it have multiple sources of time synchronized with each other? If they are synchronized with each other, is there a main clock that serves as the ultimate reference for all other clocks?
-Big thanks if you can clarify!

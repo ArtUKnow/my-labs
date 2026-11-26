@@ -1,3 +1,0 @@
-How to access conjunction data message data?
-I have a Space-Track account, however, the public CDM's only have an ID and basic information about the two spacecraft, but nothing about their covariances or orbital information. Is there any way to download recent identified CDM information or is this considered proprietary? Are there other websites out there that store CDMs?
-Thanks in advance for the help

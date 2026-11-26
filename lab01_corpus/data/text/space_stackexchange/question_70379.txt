@@ -1,3 +1,0 @@
-Maximum "emergency" speed of an astronaut moving on the moon
-As part of their redesigned moon campaign, NASA announced plans for a pressurized Moon rover (p. 22 of the PDF). Its proposed maximum speed would be 3.5 km/h, pretty exactly the speed of a regular pedestrian on flat ground on Earth.
-I wondered whether an astronaut in a spacesuit might actually be faster. For example, the low gravity may make it possible to perform long jumps, presumably at much higher speeds. Would that be an option in an emergency situation, say, to render assistance to a fellow astronaut in distress (so that some elevated risk to oneself would be acceptable)? Which speed could be achieved?

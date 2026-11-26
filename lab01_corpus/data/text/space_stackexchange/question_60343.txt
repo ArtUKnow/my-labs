@@ -1,7 +1,0 @@
-Running STK scenario with Python integration
-I have created a scenario in STK 12.4 with a couple of satellites that will pass over a target location. I want to have a function that is called while the scenario is running.
-Does the Python API have functions for playing out the scenario from start to end time?
-Something like this:
-while scenario.running:
-if satellite.conditional == true:
-doSomething()

@@ -1,7 +1,0 @@
-How did the gemini suit pressure demand regulator work?
-What is the purpose and the role of the suit pressure demand regulator..
-https://www.ibiblio.org/apollo/Documents/GeminiManualVol1.pdf
-See section 6-43 for a description of the valve, and there's a diagram of the suit loop earlier in section 6-14.
-My questions are around the operation of this valve under normal situation. Does the makeup oxygen get added to the suit loop only when the loop pressure is lower than some value? And according to the text, the regulator maintains the suit loop pressure below the cabin pressure, yet it only vents to the cabin, so how is this possible?
-A good answer will explain how and why this valve both regulates pressure, splits the flow between going to the compressor and filter and around the loop, venting used air to the cabin, and adding new oxygen.
-A good answer illustrates the exact flow of oxygen into, around, and out of the loop, and the various options and variables that control this flow.

@@ -1,3 +1,0 @@
-Required temperature for a nova
-On the wikipedia page of the nova is said that the CNO cyle, which converts hydrogen into helium, starts on the surface of the white dwarf when the temperature reaches about 20 million K.
-My question is: how can hydrogen be heated to such temperatures by the white dwarf, which has a maximum surface temperature of 40.000 K?

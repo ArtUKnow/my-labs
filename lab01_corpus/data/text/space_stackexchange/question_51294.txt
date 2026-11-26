@@ -1,5 +1,0 @@
-Did Perseverance get an experimental optical communications terminal?
-The video Donald Cornwell plenary talk: NASA's Optical Communications Program: 2015 and Beyond was presented at SPIE Photonics West 2015. It's a great talk and worth the time.
-Near the end at about 23:23 the speaker talks about the hope to put an optical communications terminal on the Mars 2020 rover, now named Perseverance.
-Question: Did this happen?
-Presumably it's for talking to to orbit, not to Earth; a 5 cm aperture seems small, though for demonstration purposes only a "heartbeat" signal might be possible. And Ingenuity probably couldn't afford the mass for an optical communications system, even though it could be fairly small.

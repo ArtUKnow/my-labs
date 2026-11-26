@@ -1,6 +1,0 @@
-Using GMAT data to determine satellite elevation angle
-I am trying to simulate a communications system between a ground station in Canberra and a satellite in LEO with a $90^{\circ}$ inclination. Specifically, I am interested in the the elevation angle as seen from the ground station over a 24-hour period.
-I am using GMAT to output the ECEF coordinates of the ground station and the satellite and have used the following to determine the elevation angle (as I have not been able to report elevation angle directly from GMAT):
-Why can't I just use dot product angles to get satellite vision of a point on Earth?
-Using GMAT, I have set a minimum elevation angle of $5^{\circ}$. However, when I plot the elevation angles (as calculated in the above link) during the contact intervals returned by GMAT, there seems to be an imbalance around $5^{\circ}$.
-Is there a reason this is happening/something I haven't accounted for? I notice that in the first image, the intervals start and end after $5^{\circ}$, and the satellite is "approaching" the ground station from the north; in the second image, the interval starts and ends before $5^{\circ}$, and the satellite is "approaching" the ground station from the south. Thanks

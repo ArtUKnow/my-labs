@@ -1,5 +1,0 @@
-Energy density of the inflaton field
-In the textbook introduction to cosmology by Barbara Ryden, the author say that the energy density of the inflaton field is:
-$$\epsilon_{\phi} = \frac{\dot{\phi^2}}{2 \hbar c^3} + V(\phi)$$
-However, she doesn't really explained how she get that expression. It is obvious? What am I missing?
-Thanks

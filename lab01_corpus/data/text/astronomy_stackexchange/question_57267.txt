@@ -1,4 +1,0 @@
-Do Pulsar stars make actual sounds?
-From my understanding of pulsars, pulsars do not produce sound, but radio telescopes can record the radio waves they emit, which can be interpreted as sound. The radio waves are electromagnetic waves, similar to light, not sound. The waves are beamed out along the pulsar's magnetic poles, and the Earth receives pulses of radiation as the beam crosses.
-However, this means that this is not the sound of pulsars and it's just the interpretation from our side and how our machinery detects it and interprets it for our understanding. The first recording of pulsars recorded a "thumping" or "knocking" sound by our machinery.
-My question is does pulsar stars have their own sound coming out of them? Is it the same "thumping" sound that we captured? Please clarify this.

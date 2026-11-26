@@ -1,3 +1,0 @@
-Are the TLE of a satellite computed with the ECI or ECEF?
-I want to compute the distance of a certain satellite, given the TLE, to a ground station in the earth. I have the latitude, longitude and altitude of the ground station. But I don't know if the TLEs are computed using the ECEF or ECI models.
-Does this question even make sense? Or am I mixing things?

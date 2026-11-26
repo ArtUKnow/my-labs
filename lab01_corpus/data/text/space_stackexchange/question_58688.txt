@@ -1,3 +1,0 @@
-Ultimate fate of rocket propellant in space?
-For many trajectories using engines with moderate ISP such as chemical or nuclear-thermal rockets, the exhaust velocity vector of various space operations is such that the rocket exhaust will end up in elliptical heliocentric orbit.
-What is the ultimate fate of this (typically) volatile matter? Will anything (gravity? Orbital perturbations?) cause it to accrete into clouds, comet-like masses, or to move towards and stick to existing Solar System bodies?

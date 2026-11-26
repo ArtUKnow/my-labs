@@ -1,4 +1,0 @@
-A Philae Lander (like) anchoring harpoons on M-Type (metallic) asteroid. Can a nail gun and the effect of Cold Welding be a working solution?
-Everyone knows what happened to Philae lander (Rosetta mission). It is hard to predict the reliability of anchoring points before we know surface conditions on the asteroid. On the other hand, it is hard to plan any asteroid mining mission without a plan for anchoring points. Some practical ideas would be very welcome.
-Cold Welding can bond two metals in vacuum because of the absence of gases and oxide layers. The metal atoms on the materials are able to join with one another when given enough pressure.
-The Galileo Spacecraft antenna did get welded to the spacecraft’s body, causing a failure.

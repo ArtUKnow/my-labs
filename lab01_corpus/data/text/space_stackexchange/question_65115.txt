@@ -1,2 +1,0 @@
-Diameters of moons in solar system
-I would like to programmatically find all moons in our solar system above a certain diameter. I would like to use the api to jpl horizons if possible. (For context I am then going on to find positions of all those moons at different times)

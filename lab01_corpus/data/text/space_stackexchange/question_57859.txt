@@ -1,4 +1,0 @@
-JWST - Why unfurl before reaching L2?
-I was wondering why the JWST did the unfurling of the sunshade, deployment of mirrors, before getting to its stable orbit at L2.
-Does the relative motion of the moving parts not affect the orbit/path to L2, and so could it have been done at either time?
-I have tried looking around, but I only seem to find information about the stages themselves, not why they chose to do the stages before reaching a stable orbit.

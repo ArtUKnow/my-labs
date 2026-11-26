@@ -1,4 +1,0 @@
-ULA just launched a very asymmetric Atlas V 511. Why does its plume look so asymmetric... after SRB jettison?
-I've never noticed this before, so I'm asking. Shortly after SRB ejection, the RD-180 plume appears to be very asymmetric. Why is this? If I recall correctly, these are full-flow & there isn't any gas generator exhaust, so I was confused.
-Is this "bulge" in the plane between the two nozzles & thus representing a higher-pressure region between the two plumes? Is there some other reason?
-Video link

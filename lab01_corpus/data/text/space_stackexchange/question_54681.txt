@@ -1,5 +1,0 @@
-What type of main propellant valves are being used in Rutherford Engine?
-I am confused about the main fuel and oxidizer valves used in Rutherford engine by Rocket Lab's Electron Launch Vehicle (as shown in video link attached). It looks like angle valves but I don't see any actuation mechanism. Can anyone help?
-Video: Rocket Lab's "Rutherford Engine" in Vimeo
-Rocket Lab’s flagship engine, the 4,600 lbf Rutherford, is a turbo-pumped LOX/RP-1 engine specifically designed for the Electron Launch Vehicle.
-Rutherford adopts an entirely new electric propulsion cycle, using electric motors to drive its turbopumps, and is the first oxygen/hydrocarbon engine to use 3D printing for all primary components.

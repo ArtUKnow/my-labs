@@ -1,2 +1,0 @@
-Remarks on brane-antibrane inflation
-We provide an accessible review to the eta problem in brane-antibrane inflation and a recently proposed solution. The description of the antibrane by means of nonlinearly realized supersymmetry suggests a simple stabilization mechanism for the volume mode, based on the most general Kahler and superpotentials compatible with the symmetries of the problem. This work is a contribution to the proceedings of the second general meeting of the COST Action CA21106 (Cosmic WISPers) and is based on arXiv:2410.00097 .

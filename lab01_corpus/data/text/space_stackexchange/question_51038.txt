@@ -1,8 +1,0 @@
-Falcon 9 Flipover Direction?
-Consider a Falcon 9 at MECO.
-The rocket's close to 30 deg relative to the local horizon, down from the 90 deg it had at launch.
-Stage 1 separates and flips more or less 180 degrees for the return flight.
-Which way does the stage rotate? Same direction as gravity turn, which took it from 90 deg to 30 deg WRT local horizon? Or opposite that direction, so that it passes back through the 90 deg it began with, on its way to the ~180 deg position?
-In other words, if you call the gravity turn a clockwise rotation, is the flipover also clockwise, or is it counterclockwise?
-My impression from videos I've watched is that it's opposite the direction of the gravity turn, but the "angle relative to surface" plot on this flightclub.io simulation seems to suggest it's along the direction of the gravity turn...
-Does anyone know for sure?

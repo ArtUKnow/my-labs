@@ -1,8 +1,0 @@
-Has a spacecraft ever actually sprayed a chemical (or anything) on to another spacecraft intentionally for any reason at all?
-The question How many of these six military "orbital threat" techniques have been demonstrated in a (more or less) publicly recognized way? begins:
-If you are having a good day then under no circumstances should you read the US Defense Intelligence Agency's Challenges to Security in Space1 (Information cutoff date, January 2019) linked in Axios' The rise of military space powers
-and one of the six is "Chemical Sprayers".
-Question: I'm just curious, has a spacecraft ever actually sprayed a chemical (or anything) on to another spacecraft intentionally for any reason at all? If so, what was sprayed, and why?
-From page 10:
-Orbital Threats: Orbital or space-based systems are satellites that can deliver temporary or permanent effects against other spacecraft. These systems could include payloads such as kinetic kill vehicles, radiofrequency jammers, lasers, chemical sprayers, high-power microwaves, and robotic mechanisms. Some of these systems, such as robotic technology for satellite servicing and repair and debris removal, have peaceful uses but can also be used for military purposes.
-1and also don't read Space Threat Assessment 2020

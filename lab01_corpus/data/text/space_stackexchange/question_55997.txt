@@ -1,3 +1,0 @@
-Could an electromagnet be used to raise the apogee of a satellite orbiting Earth?
-Suppose we have a satellite orbiting Earth in an elliptical orbit, which has an electromagnet inside it. As the satellite goes from its apogee to its perigee (i.e. losing altitude), it turns on the electromagnet. This pulls on Earth's magnetic field, accelerating the satellite downward. Then once it passes perigee and starts climbing again, it turns the electromagnet off. Could this be used to raise the apogee of the satellite?
-If yes, could this idea also be used to subsequently circularize the orbit?

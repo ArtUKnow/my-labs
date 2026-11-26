@@ -1,2 +1,0 @@
-Highest frequencies of EMPs in space
-When a nuke detonates, an EMP at about 100 MHz followd. A pulsar on the other hand, has a comparatively low frequency, and while I know that this frequency depends on its spin and doesn't represent the true frequency of the emissions, I was just wondering about which EMP-Events in space an reach the highest frequencies. I, for example, haven't found anything about Supernovas and such. And I'm specifically curious about the frequencies, less so about the associated energy. Thanks!

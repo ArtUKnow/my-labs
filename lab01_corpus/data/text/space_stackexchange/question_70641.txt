@@ -1,7 +1,0 @@
-Could a PV powered water vapor Arcjet do Asteroid to LEO and return?
-Applying the KISS principle here - Keep It Simple, Stupid.
-I see asteroid minerals as the best near term economic opportunity in space - most other things will be harder - and expect the ability to do Asteroid to LEO and return transport with fuel/reaction mass produced at the asteroid to be a threshold pre-condition for success.
-Water based Arcjets seem to embody simplicity with potential for low rocket dry mass and it offers what may be the easiest to find and produce and store in-situ reaction mass (water) as well as potential for high rocket durability but I don't know the limits, i.e. can an hypothetical rocket manage its own mass for such a round trip and carry some payload as well? (And do it over and over!)
-Rather than look to asteroids in the Asteroid Belt I would look to Near Earth ones for the lower delta-V between asteroid to LEO and for the abundance of solar energy.
-Rather than metallic asteroids, I would target carbonaceous ones, for the water content as reaction mass and for chemical feedstocks for any refinery. Carbonaceous materials are relatively soft and should still contain nickel-iron (where the high value Platinum Group Metals as well as Cobalt and of course Iron and Nickel are found) as grains and nodules.
-Bennu seems a suitable example.

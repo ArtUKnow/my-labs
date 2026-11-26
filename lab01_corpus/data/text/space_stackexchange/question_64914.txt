@@ -1,7 +1,0 @@
-Why does the heatshield have to be on the outside?
-To what extent has internal insulation been tested to deal with the heat of re-entry?
-In the case of Starship, is the existing steel strong enough (to be non-ablative!), or would a different type of material be necessary? The melting point of most steel alloys seem to be right at the limit... can it be raised with paints and resins containing things like aerogels or glass? Can steel with higher temperature tolerances be made? - what are the limits here?)
-Why not just fill the shell with aerogel? Has this been tried? To what extent is the weight (or cost) of such concepts, prohibitive?
-Are there practical limitations besides weight, that might limit the scale, such as heat dissipation, or thermal expansion? What techniques have been tried to counter them?
-Or why not have a fuel tank hug the perimeter... or expand it into a more elaborate refrigerator... It seems pointless to land with fuel, unless you want to take off again and either not land again, or just refuel in space... how much fuel would be necessary by surface area? Would current tank materials be able to accommodate such a design, and has it been tried?
-Or what about some sort of perspiration of ablative material?

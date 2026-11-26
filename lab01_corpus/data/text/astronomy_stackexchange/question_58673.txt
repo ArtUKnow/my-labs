@@ -1,5 +1,0 @@
-How Stellar Spectral Types are assigned
-I am working with data from the NASA Exoplanet Archive. From my understanding, stars are assigned spectral types (O, B, A, F, G, K, M) based primarily on stellar temperature. ref
-However, I’ve noticed some mismatches when comparing the stellar temperatures in the data to their assigned spectral types. For instance, a star with a temperature of 4874 K, which I would expect to be classified as a K-type star, but in the dataset, it is listed as a G-type star.
-Am I misunderstanding how the classification correlates with stellar temperatures? Is there another factor in the classification process that I might be missing.
-Any clarification on this would be greatly appreciated!

@@ -1,9 +1,0 @@
-Calculation of lunar elongation based on the sub solar and sub lunar point coordinates
-I have the situation as follows:
-https://www.timeanddate.com/worldclock/sunearth.html?year=2025&month=3&day=29&hour=10&min=24&sec=0&n=&ntxt=&earth=0
-The Time and Date map presents the Sun & Moon circumstances for the specific time. Below the map, I can find the coordinates of both the sub-solar and sub-lunar points.
-How could I calculate the elongation of the Moon based on the difference between these two coordinates?
-The coordinates of the Sun are:
-Latitude: 3° 34' North, Longitude: 25° 11' East
-The coordinates of the Moon are:
-4° 22' North, Longitude: 24° 27' East

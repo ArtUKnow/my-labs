@@ -1,5 +1,0 @@
-What is the cause of soot in the plume of the Raptor engine?
-Though the Raptor engine burns quite clean, it was clear from some early test flights that it did produce some visible soot:
-There have been differing explanations for the exact cause of/source of this soot. Some have said that the soot is produced because combustion in the engine is slightly fuel rich (not stoichiometric). Others say that the overall mixture ratio cannot account for what we see, and that the soot is instead a direct result of film cooling at the throat.
-Which is correct, or are neither?
-For a possible clue that I haven't yet found a good explanation for, take a look at the SN10 livestream and note how the soot doesn't seem to be expelled at a constant rate. There are a few seconds of heavy soot, followed by a few seconds of a very clean burn. If film cooling (which is, I believe, a constant thing) was causing the soot, would this happen?

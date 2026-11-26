@@ -1,3 +1,0 @@
-How would building rockets on other planets and moons influence their design?
-John D. Clark's Ignition! says that a frequent problem with choosing propellants has been that they can be very challenging or dangerous to handle, or that they have a high melting point or a low boiling point. How is this going to change when the rocket is in a vacuum, so everyone working on it is wearing airtight spacesuits anyway, and there isn't an atmosphere to take away or add heat?
-How will rockets be built if they don't have to worry aerodynamic drag? How will they be shaped? Can fairings and interstage rings be done away with? Will things that are covered in rockets on earth be exposed? Will they be launched differently, perhaps starting out at an angle instead of vertical?

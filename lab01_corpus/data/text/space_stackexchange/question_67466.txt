@@ -1,6 +1,0 @@
-In retrospect, should they have provided more RTG fuel and a more powerful radio for Voyager?
-Adding extra RTG fuel disks would increase the weight of the entire vessel only slightly, but give it a much, much longer lifetime.
-It would also allow for the instruments to still be running, and for a more powerful transmitter. Right now it's broadcasting at 25 watts. Is there's some reason they couldn't have added RTG fuel and be broadcasting at a kilowatt? My understanding is that the hydrazine RCS fuel is not an issue.
-I know they changed the mission in the middle, and I know they were only designing for inside the solar system.
-But they also knew that the mission was likely to be extended, like all missions. And they knew it was a once in a lifetime chance to get information about the outer solar system.
-If we had it to do over again, would we beef up Voyager's power from the start?

@@ -1,7 +1,0 @@
-Aerostats in the outer solar system
-Having read a lot lately about some preliminary studies of aerostat options on Venus and Earth (Semirigid gas bags filled with N2/O2 to allow for a dual breathable/lifting gas - sorry no source on that one, maybe I just dreamt it), I have been pondering the options for aerostats further out in the solar system.
-Given that all the large bodies have winds too fast to allow for this, would a N2/O2 lifting gas be feasible on Titan, the moon of Saturn:
-An article on AGU titled "Titan's Atmosphere and Climate, by Horst, S.M., states that "Infrared spectra taken by the Voyager spacecraft revealed the presence of a variety of organic molecules (C2H2, C2H4, C2H6, C3H8, CH3C2H, C4H2, etc.)"
-My main two problems are of oxygen manufacturing and floatation.
-The floatation is easy enough, but oxygen is only found in the "mantle" of Titan, int eh form of water.
-Given a pressure at sea level of about 150% of Earth, and a gravity of .138g, what are the calculations needed to figure out buoyance of a rigid body.

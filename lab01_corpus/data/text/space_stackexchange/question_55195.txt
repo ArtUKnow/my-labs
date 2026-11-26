@@ -1,7 +1,0 @@
-Optimal inclination for a long term LEO station serving as an intermediate stop to and from the Moon
-Consider we want to build a long term LEO station which serves as an intermediate stop for flights to the Moon and back (possibly with aerobrake). Refueling, docking, crew transfers etc.
-Several flights a year, for a couple of decades.
-What would be the optimal orbital inclination for such a station?
-Given the Moon's inclination is non constant.
-And assuming we can select any place on Earth for a lunch site.
-Optimal in mean launch costs. So that we could use smaller rockets, fewer launches and spend less fuel.

@@ -1,5 +1,0 @@
-Could a laser communications satellite be placed in orbit around the moon to act as a relay for deep space missions?
-Communication is a big problem for deep space missions.
-Astroforge had large connectivity issues with their Odin mission (https://www.astroforge.com/updates/odin-learnings).
-Whilst blue ghost is using Nokia's Tipping Point for 4G communication (https://www.nokia.com/bell-labs/research/network-fundamentals/space-communications/).
-Could problems like what Astroforge had be assisted by having satallites with laser communication capabilities orbiting the moon and providing connection to the moon?

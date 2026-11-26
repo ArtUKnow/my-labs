@@ -1,3 +1,0 @@
-When they shoot lasers at the Moon for ranging, what is the shape of the beam?
-Laser ranging of the Moon is usually done with a Q-switched pulsed laser fed into a big (1 or 2 meter diameter) telescope as a collimator in order to get a tight beam all the way to the Moon in hopes of maximizing the amount of light returned by a small retroreflector array.
-What beam shapes to these systems generate? Are they under-filling the aperture with a mostly Gaussian beam from a spatial filter resulting in a Gaussian profile at the Moon, or do they do some beam shaping to get most of the power to more uniformly illuminate the telescope's aperture, resulting in more of an Airy disk?

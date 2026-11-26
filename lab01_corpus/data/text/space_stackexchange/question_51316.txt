@@ -1,7 +1,0 @@
-Falcon 9: transonic attitude control on reentry
-Attitude control on the falcon 9 is done with engine thrust vectoring, cold gas thrusters, and grid fins.
-After the reentry burn, when the rocket stage is in the atmosphere, there is a short period during which flight is transonic, between 0.8 and 1.2 Mach, where the grid fins are said to be very inefficient if not altogether useless.
-The cold gas thrusters aren’t likely to be much better in the atmosphere as the pressure differential between the thruster nozzle and the environment is much lower than in vacuum, so the thrust impulse from a nitrogen firing will be much smaller than the likely already modest thrust rating in vacuum.
-And the engines, well, they are off until the final burn starts.
-So I’m wondering how attitude control is done on that short transonic portion of the reentry flight where the engines are off, the cold gas thrusters are very inefficient, and the grid fins are too.
-Do they just accept the temporary loss of control authority and correct for the error accumulation when the rocket goes subsonic and the grid fins become useful again, and even more so when the center engine fires for landing (with thrust vectoring giving the most control authority they’ll probably get before touch down)?

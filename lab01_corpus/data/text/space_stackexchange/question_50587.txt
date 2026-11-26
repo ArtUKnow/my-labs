@@ -1,2 +1,0 @@
-What happens at T-0 for the SpaceX Starship?
-Every launch system defines a different event for T-0. The SpaceX Starship prototypes seem to ignite the engines at T-1.0 and accent seems to begin between T+1.0 and T+1.5. An overthrust abort for SN-10 was declared at T-0.1. So what defines the T-0 time for Starship?

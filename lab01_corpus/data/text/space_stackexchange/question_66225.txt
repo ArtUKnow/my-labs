@@ -1,2 +1,0 @@
-Is the angular orbital velocity of a satellite in a circular orbit constant?
-I know that the angular orbital velocity of a satellite in a circular orbit is $w_0=\frac{v}{r}$ but I want to know if the angular orbital velocity of a satellite in the circle orbit is constant. I mean that derivative from x from the angular orbital velocity of a satellite in circle orbit is it zero?

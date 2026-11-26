@@ -1,6 +1,0 @@
-Closest distance that two unrelated spacecraft have come while both in heliocentric orbits?
-In 2015 STEREO A and B passed each other passing roughly behind the Sun at the same time from opposite directions as seen from Earth. But these two are part of a single mission, put into these orbits that would inevitably pass each other.
-Question: What is the closest distance that two unrelated spacecraft have come while both in heliocentric orbits?
-In order to avoid the mess of all the Mars orbiters or similar situations, neither should be in an orbit around a planet or any other solar-system body besides the Sun.
-Animation of STEREO trajectory relative to Sun and Earth
-Plot of JPL Horizons data, they come within almost exactly 16.0000 million kilometers on almost exactly April Fools day. Coincidence? :-)

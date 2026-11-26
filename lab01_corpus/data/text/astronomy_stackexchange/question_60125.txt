@@ -1,8 +1,0 @@
-How much integration time do I need to take decent photos of nebulae?
-I've started trying to do some basic astrophotography and image stacking and my main constraint is that I don't have any real equipment, only my phone. I've realized actually good stuff is unfortunately pricey, so I'm stuck with what I have for now.
-My phone has a 1/2" sensor, focal length is 4.7mm and ISO goes up to 3200. It's 12MP and pixel size is around 1.6 microns. Still I've managed to get some, in my opinion, impressive photos when stacking few dozen minutes of overall exposure, like this one below
-However, as you can see here my photos aren't focused on any specific star or group of stars, but cover multiple constellation. So even though the one above is centered on Swan constellation, it'd be pretty hard to tell just be looking at it. And as I increase my integration time to see dimmer stars the entire photo tends to get more packed.
-I have a clip-on telephoto lens that I want to try out. It's supposedly 22x, but in my experience it magnifies only around 6-7 times.
-How difficult would it be to take a decent photo of e.g. Orion nebula with such lens?
-The light from a smaller section of the sky (6-7 times smaller) will be projected on my camera sensor which should make things appear a bit brighter, but I will also need to decrease exposure of each frame to avoid star trails from showing (by factor of 6?), which means more photographs for the same integration time.
-Basically how much integration time should I expect to need before nebula starts being visible?

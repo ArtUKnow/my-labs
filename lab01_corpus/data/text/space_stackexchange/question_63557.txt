@@ -1,2 +1,0 @@
-ROFI Temperature
-Since hydrogen-fueled rockets usually require Radial Outward Firing Igniters (ROFI), what is the temperature of the sparks from this system? When seen at RS-25/RS-68 ignition, they don't melt but seemingly flow down with the rocket exhaust into the flame trench.

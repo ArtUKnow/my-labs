@@ -1,2 +1,0 @@
-Does the interstage count apply to these two dry mass values ​of Saturn V 1th and 2th stage shown in Astronautix?
-According to Astronautix, the dry mass of the first stage of the Saturn V, S-B, is 135.218 kg, and that of the second stage, S-II, is 39.048 kg. Do these figures include the interstages? I saw that the mass of these two interstages is 3.6 tons; how accurate is that?

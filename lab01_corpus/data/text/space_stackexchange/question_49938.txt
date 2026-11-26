@@ -1,4 +1,0 @@
-Rocket engine with lowest Isp to reach orbit
-Which engine with the lowest possible specific impulse has reached orbit propelling a given rocket? There is a page at Wikipedia that compares orbital engines but some engines are missing Isp value and the list may be incomplete. The lowest Isp listed so far is the Indian SLV-1 on Polar Satellite Launch Vehicle with an impulse of 253 seconds.
-I am primarily interested in first stage engines but mentioning other stages is possible. I guess flying a low Isp engine is difficult since your rocket have to be bigger (needs more fuel because of inefficient engine).
-Related question: What is the lowest first stage thrust for a launch reaching orbit?

@@ -1,8 +1,0 @@
-What kind of impact tests to large touch screen displays in crew capsules have to pass?
-Some of the glass layers in commercial large format displays are between 0.25 and 0.7 mm thick. (e.g. 1, 2) If something comes loose in a capsule during a high acceleration period (launch, reentry) and the capsule were tilted in a strange way (unlikely) "down" could be toward the touch screens.
-While this is an unlikely scenario, I'm guessing there must be some impact testing standards that these big thin sheets of glass-containing mission-critical displays must pass.
-Question: What kind of impact tests to large touch screen displays in crew capsules have to pass? There might be a difference between purely private endeavors and those in which NASA is involved, if so my primary interest is those associated with NASA.
-Random ball drop test videos:
-AGC FlatGlass: ball drop test
-Gelivable Glass: Drop ball test of 3.0mm AG glass
-Scriptel Corporation: Scriptel Signature Pad Glass Ball Drop Test - 60 Inches

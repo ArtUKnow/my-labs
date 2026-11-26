@@ -1,4 +1,0 @@
-spacecraft thermal dataset
-For a high-school academic project, I would like to plot a graph of change in satellite's temperature over time.
-Thus, (I think), I'm looking for real-time temperature data of sort of any (preferably earth-orbiting) spacecraft.
-I got advice that this should be available together with public-open telemetry.

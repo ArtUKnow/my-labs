@@ -1,4 +1,0 @@
-Seasonal variation of aurora and magnetic activity
-Following the link of this question it shows at least seemingly sound statistics that the magnetic activity is seasonally dependent.
-So far it was my believe that the magnetic activity depends on the Sun and the interaction of the Solar Wind with Earth's magnetosphere - thus processes which do not mind the season much. What are the reasons behind this behaviour? The only reason I can think of is the different coupling with the interplanetary field depending on the alignment of the Earth's axis which varies by season. This seems to be somewhat confirmed, e.g. by Marques de Souza Franco et al (2021), though their evidence on the coupling depends a bit on what features they look at.
-Does there exist a comprehensive summary of current understanding the effects involved and their causes and underlaying physics, possibly in a nice review paper?

@@ -1,5 +1,0 @@
-Why do astronauts wear spacesuits during launch?
-I have noticed that astronauts in every launch I've found wear a spacesuit during launch, like this example from the shuttle.
-I don't understand this. What kind of problem could cause loss of cabin pressure without compromising the whole vehicle? It seems like anything serious enough to depressurize a spacecraft would just blow the whole thing up.
-Are there failure modes that cause loss of pressure but not rapid, unplanned disassembly? Or is there some other reason for the spacesuits?
-I am interested in the topic in general, not just the shuttle.

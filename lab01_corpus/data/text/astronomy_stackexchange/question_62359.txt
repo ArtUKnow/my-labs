@@ -1,4 +1,0 @@
-Why don’t globular clusters and elliptical galaxies use mass lost by low-mass stars to make new stars?
-Globular clusters and low-mass galaxies only have old stars, and my understanding is that they have very little gas.
-However, those stars lose mass on the asymptotic giant branch, returning a significant amount of gas to the galaxy. That gas should be available for new star formation. In fact, we know that in the Milky Way, that gas is used for new star formation!
-Why doesn’t this happen in globular clusters and elliptical galaxies? What breaks the cycle?

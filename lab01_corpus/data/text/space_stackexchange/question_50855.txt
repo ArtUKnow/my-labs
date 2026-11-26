@@ -1,4 +1,0 @@
-Resources/guidelines on space electronics compliance?
-Space hardware suffers from various effects such as radiation, heating, vibration, off-gassing, material degradation and so on. While these effects are mentioned in most space engineering books, I am having a hard time finding resources that help build an understanding of the effects and solutions from the ground up.
-Are there any suggested books/courses/papers that can help me understand the process of making a piece of hardware space-compliant, starting from square 1 (or should I say, square 0?). How can I search for the guidelines/rules of compliance used by agencies such as ESA and NASA?
-My background is in analogue/digital electronics and have a fundamental understanding of the space environment.

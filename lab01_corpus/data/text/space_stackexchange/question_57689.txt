@@ -1,2 +1,0 @@
-Please explain a way of calculation of Lagrange multiplier in algorithm of low thrust transfer
-In David Vallado's book 'Fundamental of Astrodynamics and Applications', chapter 6.7. ("Continuous-Thrust Transfers") there is an algorithm #47: Low Thrust Transfer. In this algorithm a part of code is not fully revealed, and instead of this there is remark: "Find λ (need to iterate)". I understood that under λ Vallado meant Lagrange multiplier λi from control hamiltonian. But for me is absolutely unclear, what should I iterate to calculate a value of this multiplier.

@@ -1,7 +1,0 @@
-Orbital Supercomputer for Martian and Outer Planet Computing
-As we know, computing will (and really has) been important to research missions for space science and exploration.
-I read about the Spacebourne Computer program HPE and NASA used for the ISS as proof of concept.
-Now, couldn't we use this for space research on Mars and the outer planets (OP)? Sending data incurs radio wave loss (not to mention free space loss) through space. And it's often sending kbps, which lends to bigger possibilities for data corruption.
-Couldn't we send orbital supercomputers to Mars and the OP?
-For example, imagine we have a distributed orbital supercomputer around Mars composed of twenty or so SBC-1s modified to be self-sustaining spacecraft. They act as a massive supercomputer for Mars (or if ringed around other planets, OP) science research. You can have a bigger variety of local science experiments conducted by rovers/probes (and eventually human science researchers when they land on Mars or a OP moon). Why twenty? In case one SBC-1 orbiter is down for whatever reason.
-I want other opinions on if this makes sense or not, and the costs vs. benefits of such an proposal.

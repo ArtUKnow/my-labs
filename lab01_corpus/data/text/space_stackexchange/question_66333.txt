@@ -1,5 +1,0 @@
-How would I use SGP4 to simulate the motion of an object in orbit?
-Let's assume I wanted to assess the accuracy of SGP4 over time.
-I have an archived set of orbital ephemerides taken from SpaceTrack for a non-active object over the last year.
-If I picked an epoch say, six months ago and took the starting position, how would I propagate that position through time and space using SGP4?
-I've found the source code for SGP4 but honestly I can't make hide nor hair of how its meant to be used because of the way it's been written.

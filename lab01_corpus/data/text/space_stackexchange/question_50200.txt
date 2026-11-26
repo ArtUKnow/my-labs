@@ -1,8 +1,0 @@
-How did images taken by Perseverance's landing stage reach Earth despite its crash landing?
-During Perseverance's powered descent, cameras aboard the descent stage recorded Perseverance's deployment using its Sky Crane. After rover touchdown, the descent stage flew away until it ran out of fuel and crashed far from the rover.
-How were these images (and, one hopes, eventually the complete videos) sent from the descent stage to Earth?
-The descent stage's flyaway was until fuel exhaustion, rather than towards a planned landing zone. Its crash landing was uncontrolled: no fuel means no maneuvering. So after its crash, it probably couldn't aim an antenna at any data receiver: any moving parts might have become entirely inoperative, and it was probably not sitting upright.
-It's also unlikely that the descent stage transmitted all of that data to the rover during flyaway. I'm not sure how long the flyaway lasted, but the descent stage wouldn't have carried a heavy excess of fuel.
-The color images were at least 3 megapixels, and if video was recorded from backshell separation to rover touchdown, that's about 20 seconds. Guessing more: at 10 frames per second and 5 megabytes per second with a modern video codec, that's 100 MB, hardly a trivial amount.
-Or was the data sent in real time from descent stage to rover for storage, during powered descent?
-Edit: Recorded video included a camera on the rover viewing the Sky Crane, and one on the Sky Crane viewing the rover. The view from the Sky Crane vanished about one second before touchdown ("tango delta" announcement), while the other view continued. That indeed suggests real time data transfer to the rover, interrupted when the two physically separated, thus through a cable, not wireless.

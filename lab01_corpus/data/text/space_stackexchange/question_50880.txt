@@ -1,5 +1,0 @@
-Orbit design guidelines for rendezvous with ISS?
-Are there guidelines for orbit design if you're launching a payload for delivery to the ISS? Altitude, maybe phase angle constraints? Orbital approach maneuvers, maybe?
-I've figured out how to control a launch for all key orbital parameters at insertion, but while some parameters are well constrained (orbital inclination and longitude of ascending node), others are less so (altitude/velocity/eccentricity).
-If the ISS orbits at 400 km, I could plan insertion at 200 km or 300 km, and I could plan the insertion at perigee or apogee or anywhere in between, and I could aim for some phase angle between the ISS and my spacecraft at insertion, but are there any constraints I can use to properly choose the values for these parameters?
-Is there a guide book for things of this sort that space launch engineers can refer to when planning their rocket launches/orbital insertions/orbital maneuvers to meet the ISS?

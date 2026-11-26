@@ -1,2 +1,0 @@
-TeV Afterglow of BOAT GRB without Jet Break
-We present a new model for the TeV afterglow of GRB 221009A. The rapid increase of the TeV flux in the very early phase is reproduced by the magnetic acceleration. We consider the change in the radial structure of the circumstellar medium from homogeneous to wind-like to describe the breaks in the TeV light curve. Our results imply a highly magnetized ejecta with a significantly thick width, making the deceleration time around 400 s for observers. In our model, no early jet break is required.

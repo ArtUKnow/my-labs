@@ -1,4 +1,0 @@
-Has any fission rocket engine using thorium as a fuel been considered?
-I have checked many web pages and tables and have not found a rocket fission engine that works with thorium.
-Has any engine been considered that uses a thorium-fueled fission reactor to heat the propellant and is not a breeder reactor?
-The copy in Physics stackexchange for this question.

@@ -1,4 +1,0 @@
-How actually dangerous was RTLS for the Space Shuttle?
-I know that the Space Shuttle's Return To Launch Site abort mode was always considered to be particularly risky, and as a result was never tested. In particular, it seems like it requires everything to go properly in an even tighter envelope than the normal space shuttle launch, with serious problems to occur if the thing that caused the abort in the first place persists or deteriorates.
-How risky is it, though? I've heard claims that it was unlikely to work or "constituted committing suicide to avoid being killed", or that it was a political/institutional fig leaf concealing a 'black zone'. However, this rarely seems to have much evidence behind it.
-Is there any basis for estimation of how dangerous it was, either in the case of a perfectly working vehicle or in the case of failures that would lead to an RTLS?

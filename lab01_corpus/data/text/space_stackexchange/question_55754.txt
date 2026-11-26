@@ -1,4 +1,0 @@
-What generates static charge on the ISS?
-There are two plasma contactors on the ISS Z1 truss, designed to neutralize static electrical charge of the space station.
-What generates static charge on a spacecraft? If it is picking up charge from the ionisphere, shouldn't it pick up an equal number of + and - ions?
-Is the static charge a hazard to the ISS itself, or it only a hazard when docking with another spacecraft? Before docking, is there a “grounding” procedure to ensure both spacecraft are at the same potential?

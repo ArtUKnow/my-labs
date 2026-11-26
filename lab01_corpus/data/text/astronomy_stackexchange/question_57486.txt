@@ -1,7 +1,0 @@
-Rectification of M-type spectra
-I would appreciate references and/or tips on estimating the continuum
-in the spectra of M dwarf stars. The ultimate aim is to obtain radial
-velocities from sequences of spectra by comparing to a template spectrum.
-The continuum shapes of the template spectrum and those of the stars
-of interest may differ, hence the necessity to rectify the spectra.
-The specific wavelength range available is 5100-6100 Angstrom.

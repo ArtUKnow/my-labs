@@ -1,2 +1,0 @@
-Cubesat surface material
-In wikipedia I read that the structure of the cubesat are made of aluminum alloys of 7075, 6061, 5005, and 5052. Is this the surface layer of the satellite or it is necessary to cover it with kapton tape?

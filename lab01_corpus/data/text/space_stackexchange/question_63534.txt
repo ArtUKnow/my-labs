@@ -1,9 +1,0 @@
-For Starship, using B9 and later, how will separation work if the Hydraulic Power Units are no longer needed for the TVC System?
-On the SuperHeavy booster, the 33 engines break down into two sets, 20 outer engines that cannot relight (That equipment is actually on the pad itself) and cannot gimble.
-The inner 13 consist of a ring of 10 and then 3 more in the middle that on B8 and before, used a hydraulic system to manage the gimble movements. These used big HPU's (hidden under the aerocovers, forming the chines on the side of the booster) to provide hydraulic power/fluid.
-With Booster 9 and later, the engines have been changed to use an electric motor system for gimble and TVC support.
-Elon Musk did a Twitter Space (captured in this Youtube) on what they know so far and one of the comments that came out of it could be written as:
-As things continued to deteriorate through T+62 seconds, more aft heat shield damage, and at T+85 seconds, thrust vector control (TVC) is lost. The loss of the hydraulics is why TVC was lost, and without the hydraulics there could be no separation of Starship. Stage separation uses the hydraulics to operate.'
-(Taken from a commenter, transcribing the audio, on Behind the Black)
-So, on B8, hydraulics for TVC and separation of stages.
-On B9, no hydraulics for TVC needed, will separation differ? Or will a smaller HPU be installed to support it?

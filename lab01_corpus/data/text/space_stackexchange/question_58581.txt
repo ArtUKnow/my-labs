@@ -1,7 +1,0 @@
-Good solar absorptivity and infrared emissivity values for non-anodized machined aluminum
-Existing sources that I'm looking at show a wide range of possible absorptivity/emissivity values for aluminum:
-http://www.solarmirror.com/fom/fom-serve/cache/43.html
-https://www.thermoworks.com/emissivity-table/
-https://www.engineeringtoolbox.com/radiation-surface-absorptivity-d_1805.html
-Any inputs on good values to use for machine-finish non-anodized aluminum in a thermal desktop simulation? Currently using solar absorptivity of 0.2 and an IR emissivity of 0.4 with an a/e ratio of 0.5. This is just kind of middle ground in the ranges of values I'm seeing in the aforementioned sources.
-recommendation much appreciated.

@@ -1,4 +1,0 @@
-Have external food/drink for EVA suits been considered?
-This chat between ex-Mythbuster Adam Savage and ex-astronaut Mike Massimino mentions the danger of getting water inside your helmet in freefall. I idly mused about a (probably stupid) idea: that if you could get a long enough hose/straw inside the helmet to the right places, primarily around your nose and mouth, you could sacrifice a little air to exhaust the water to space.
-How to get water inside a space suit? mentions that only the Apollo suits seem to have supported external food or drink though a "food/drink port", apparently as a contingency against loss of cabin pressure. As far as I know, even with the relatively long Artemis flights looming we haven't restored that contingency capability for any suits, EVA or IVA.
-Are there any documents that indicate whether external food/drink for space suits has been considered again since the Apollo space suits?

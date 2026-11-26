@@ -1,7 +1,0 @@
-NASA Lucy T2CAM full resolution images?
-I am interested in downloading a full resolution image that contains both the earth and the moon, taken by NASA's Lucy's T2CAM cameras on Oct 13, 2022.
-The only downloadable image I have been able to find is the attached PNG, with pixel dimensions of 1041x803.
-According to this article The Terminal Tracking System on the NASA Lucy Trojan ..., the native pixel dimensions of a T2CAM image is 2592x1944 (or is it 2592x2000?), see section 5 of the article, on last paragraph on page 86 (4th page of the article).
-NASA's fine web pages on Lucy (NASA Lucy) don't include information on how to obtain imagery from the mission.
-This is the article that led me to the lower resolution PNG file: Lucy spots Earth and Moon ...
-Here's the low resolution PNG file:

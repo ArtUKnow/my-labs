@@ -1,4 +1,0 @@
-What CPU does China's Zhurong rover use?
-The Curiosity and Perseverance rovers, and the InSight lander, all use the BAE RAD750 processor.
-The Ingenuity helicopter uses a Qualcomm Snapdragon 801 processor.
-The only other active spacecraft on the surface of Mars is China's Zhurong rover. What processor does it use?

@@ -1,4 +1,0 @@
-Targeted Sub-Orbital Optimization Problem
-I was messing around with some orbital dynamics for a simulator I am working on, and I came across a snag that I have not been able to figure out. Specifically, I am trying to minimize the required deltaV for an impactor probe. Say for instance, you had a probe at some initial position (r0 vector) and initial velocity (v0 vector), and you wanted it to hit a specific point on the moon (rf vector) with the least amount of dV expended. How would one go about solving a problem like this, and what formulas would I need to use?
-Thank you all!
--Frank

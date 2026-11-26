@@ -1,7 +1,0 @@
-Modeling attitude control: ramping/easing between attitude commands?
-Say you switch from your current guidance program to a brand new program that commands your spacecraft to a different attitude. Assume the new attitude is a discontinuous step change from your previous commanded attitude.
-If the step change is large, it will trigger large corrections from your attitude controllers, which will cause the spacecraft to rush to the new commanded attitude, and quite possibly overshoot it, while also subjecting it to large loads you'd rather avoid.
-So clearly step changes in attitude commands from guidance are a problem to be avoided.
-My question is how? By ramping the attitude command from the previous command? By ramping the attitude error instead (spacecraft to commanded attitude)? By filtering the signal to smooth it (though the filtering time constant would have to be very large to accommodate large attitude step changes)?
-I would love to know this. I've been avoiding the problem by ramping between old and new attitude errors (using a linear equation of the type y = ax + b), and this avoids the large problematic corrections that my controllers shouldn't be issuing (as my spacecraft goes out of control), but it eats at me that I haven't seen this done in any of the space shuttle papers I've read on GNC---and I'm convinced this is not the way to solve this.
-So how do spacecraft handle sudden transitions between attitude commands when the changes are large? Please help me avoid nonsense in my model.

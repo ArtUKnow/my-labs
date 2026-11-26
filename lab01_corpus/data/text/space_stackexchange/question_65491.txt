@@ -1,6 +1,0 @@
-Hydrazine and liquid fluorine as a semi-cryogenic storable lunar space propellant
-The use of liquid fluorine as an oxidizer diluted with liquid oxygen has been tested, but wasn't flown, by Bell and Rocketdyne, seperately.
-http://www.astronautix.com/l/lf2hydrazine.html
-It was determined that its toxic and explosive nature made it unsuited to use as a launch vehicle propellant.
-Unmanned tugs or landers for lunar orbit and landing, if we aim to make them reusable to save on launch costs, would be most useful with high energy propellants.
-Given the advantages of this propellant mix, and its lack of danger when on an unmanned lunar vehicle of any type, what has prevented this from being utilised already?

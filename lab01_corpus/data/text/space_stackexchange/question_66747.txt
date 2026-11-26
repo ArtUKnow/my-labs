@@ -1,3 +1,0 @@
-Antenna speed: slow and fast tracking( explanation of a parameter in comparison table)
-I researched the LEO, MEO and Geo differences and found a website that provides a comparison table
-In the table, there is a parameter " antenna speed". Can someone explain what kind of antennas they are? On board a satellite or on the ground?

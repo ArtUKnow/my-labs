@@ -1,6 +1,0 @@
-CMB redshift used to determine the difference in aging between the two inertial observers
-If CMB redshift tells us our cosmological time dilation and we have two inertial observers in relative motion, who measure slightly different CMB redshift at the direction of their motion relative to CMB frame of reference, then they have a slightly different time dilation, that is the product (or the ratio - I'm still wondering) of the cosmological and the peculiar one.
-The greater this product is, the slower time flows in the reference frame with the velocity that is higher relative to CMB frame.
-Would you agree, that the observer with the higher velocity (relative to CMB frame) and therefore the greater dilation ages slower in comparison to the universe itself, then the observer with the smaller dilation and lower velocity?
-If so, do you agree, that we have two inertial observers, who are aging differently in comparison to the universe itself?
-Is so, do we have a right to say, that one of them is actually aging slower, and the other one is actually aging faster, as we have the third reference frame to compare their aging, given by the CMB redshift?

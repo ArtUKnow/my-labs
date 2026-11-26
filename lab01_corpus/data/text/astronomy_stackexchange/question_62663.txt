@@ -1,6 +1,0 @@
-Can a white dwarf blow up by cooling down?
-White dwarfs are supported by internal forces to not collapse into neutrons
-Most of that is done by electron degeneracy
-But surely at least partially there's still the same heat pressure that normal stars experience? So wouldn't the transformation limit depend on temperature?
-So... shouldn't it be possible for there to exist a dwarf "just on the edge" of stability, slowly cooling down and then collapsing/going supernova after reaching the limit?
-Can such an object exist? Would it actually do that?

@@ -1,7 +1,0 @@
-Was Starship’s “launch window” administrative, rather than due to orbital mechanics?
-According to Wikipedia,
-a launch window is the time period on a given day during which a
-particular rocket must be launched in order to reach its intended
-target.
-SpaceX’s internet launch coverage stated there was a 20 minute “launch window” for Starship’ suborbital flight November 18 2023. What determined this launch window? There was no orbital rendezvous or sun-synchronous orbit to match. How can there be a launch window for a suborbital flight?
-Was this a bureaucratic, rather than an orbital mechanics, launch window?

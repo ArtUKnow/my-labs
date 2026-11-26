@@ -1,6 +1,0 @@
-Why do satellites move in a circular orbit?
-The question may seem trivial, but it is not quite so.
-Artificial satellites and planets move in their orbits due to the balance of gravity and centrifugal forces $mg=\frac{mv^2}{R}$, as a result $\Sigma F=0$, and the body moves stably in orbit.
-But the point is that if $\Sigma F=0$, then the moving body will not turn anywhere, it will move in a straight line.
-For the body to change its trajectory, it must be acted upon by a force different from zero: $\Sigma F≠0$.
-How can this contradiction be resolved?

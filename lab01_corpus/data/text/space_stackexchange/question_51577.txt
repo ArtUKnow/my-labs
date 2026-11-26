@@ -1,2 +1,0 @@
-Temperature Differences on Satallites
-Some satellites have radioisotope thermal generators. To convert thermal energy to electricity, a temperature difference is required (such as when using a thermocouple). How is a temperature difference maintained on a satellite? It seems difficult to remove the heat from the satellite.

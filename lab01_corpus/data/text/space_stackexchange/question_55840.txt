@@ -1,4 +1,0 @@
-How many watts of electricity are available for systems during a Mars transit?
-The 40+ year old Voyager probes have three Radioisotope Thermoelectric Generators (RTGs) currently producing 249 watts, losing around 4 watts per year. They began with 470 Watts.
-The Curiosity Rover's Multi-Mission RTG (MMRTG) and was used during its spacecraft's transit to Mars. The MMRTG produces 2000 watts of thermal energy or 125W-100W of electrical energy.
-Is a Mars bound spacecraft limited to ~100 watts of electric power for onboard systems during its 200+ day transit? That does not sound like much, although it would run a current laptop.

@@ -1,7 +1,0 @@
-What time of day was the full moon of lunation zero?
-According to NASA the next full moon is on December 15, 2024 at 9:02 pm UCT, JDN 2460659.875. Lunation zero is 1262 lunations earlier. NASA'S value of 1 synodic month is
-S = 29.530588 days
-I wanted to know the time of day of the full moon of December 1922, and I performed the following calculation:
-2460659.875 - 1262×29.530588 = 2423392.272.
-That's about 30 minutes after 6:00 pm.
-My problem is, I checked this site, and it has the December 1922 full moon on December 4, 1922 at 6:24 am. So my question is what time of day was the full moon of lunation zero?

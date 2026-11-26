@@ -1,2 +1,0 @@
-How is a launch vehicle aligned to the hold down post when assembled and rolled out horizontally?
-Launch vehicles like Falcon are rolled out in horizontal position, joined to hold down post and raised by the strongback. How are the misalignments between launch vehicle and hold down pins overcome? is there any adjusting mechanism in the strongback or is the alignment that precise?

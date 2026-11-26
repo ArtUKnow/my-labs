@@ -1,6 +1,0 @@
-Megabyte
-The megabyte (symbol: MB or Mo, also known as the megaoctet) is a unit used when talking about hard drives or computer memory. One megabyte is 1 million bytes or 1 thousand kilobytes.
-On December 1998, the International Electrotechnical Commission (IEC) first defined the mebibyte (shortened as MiB) as 2 20 , or 1,048,576 bytes, which also amounts to 1024 kibibytes (shortened as KiB).
-Casual computer users still often use the megabyte to mean the mebibyte. Microsoft Windows also still uses the term megabyte in their file explorer when they mean the mebibyte.
-One thousand megabytes make one gigabyte.
-This definition is part of the International System of Quantities.

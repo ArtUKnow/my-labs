@@ -1,4 +1,0 @@
-Why does Falcon 9 launch with Crew Dragon solar panels facing down?
-I noticed in video of the first crewed mission in August that Falcon 9 pitches down with the Dragon solar panels facing down.
-I'd been expecting the solar panels to be facing up, because sun.
-Does anyone know why the solar panels face down during launch? Is it to spare them the brunt of aerodynamic drag forces? Do they rotate the crew dragon after separation to ensure the solar panels face the sun?

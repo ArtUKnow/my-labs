@@ -1,8 +1,0 @@
-Has "parasitic radar" ever been used in space?
-Synthetic aperture radar or SAR is becoming a hot field of Earth observation of both natural and human activity. It is very power hungry as the beam needs to deliver sufficient power over each square meter of area swept through, so the satellites are fairly large and sophisticated.
-In this answer to RF information for ship detection I propose a simple, lower cost way to build up data on the presence of ocean ships using something like "parasitic" radar; basically extra smallsats that don't transmit but are constantly listening for other spacecraft in the vicinity to transmit a radar beam towards Earth. Reflections are not so directional and so can be picked up by any satellite in the general area, and instead of having the actual transmited signal, enough "leakage" from sidelobes might be sufficient for the parasite to reconstruct the transmitted waveform.
-There's a lot more discussed in the linked answer, I don't think it's helpful to copy/paste the whole thing here, I'll just add the sketch.
-Now I wonder, has something like this been tried? Has this been used?
-"Tried" might be a coordinated effort between two spacecraft, but for "used" it should be somewhat parasitic; ideally the raison d'etre of the transmitting signal should be as a stand-alone device, the pickup should be at least an afterthought if not an actual parasitic or unintended exploitation.
-But if that doesn't work, let's see if there is something at least close.
-Question: Has "parasitic radar" ever been used in space?

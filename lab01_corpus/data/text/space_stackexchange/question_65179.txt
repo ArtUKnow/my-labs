@@ -1,5 +1,0 @@
-How to make a velocity(time) XYplot graph in NASA's GMAT R2022?
-I'm wondering how to design a graph in NASA's GMAT (Version R2022a), which shows satellite's linear velocity on time or on altitude from primary body (Earth).
-When I open the XYplot design window -> Selected Y I can't find the satellite's property - velocity, which I'm looking for.
-Maybe the velocity in the Object Properties window has a fancy shortcut, or a strange name..?
-Does anyone know, what's the velocity's name in the Object Properties window, or how to find it?

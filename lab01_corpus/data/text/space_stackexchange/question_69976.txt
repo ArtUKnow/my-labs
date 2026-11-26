@@ -1,3 +1,0 @@
-Why do ion thrusters achieve high efficiency despite producing such low thrust?
-Ion engines use very little propellant and achieve extremely high exhaust velocities, but their thrust is almost negligible compared to chemical rockets.
-How does the physics of propulsion allow low-thrust, long-duration burns to achieve greater delta-v than short, high-thrust ones?

@@ -1,7 +1,0 @@
-What happened to tripropellant rockets?
-IIRC, tripropellant rockets can deliver superior performance compared to bipropellant rockets (at the cost of added complexity). Now, I know that there is the Li/H/F combo, but it isn't used because of how dangerous it is. The thing is, there were another few tested:
-Be/H2/O2 (obviously not used because of beryllium)
-Al/RP-1/O2 (doesn't sound too dangerous to me)
-Al/H2/O2 (doesn't sound too dangerous to me)
-and a few more. What happened to these?
-Edit: Following up on a few thoughts provided in the comments, why isn't more research being done on less toxic combos when the reward could be great?

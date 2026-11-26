@@ -1,3 +1,0 @@
-Why did Unity 22 flight plan call for such a large horizontal velocity during its weightless phase? (1085 kph) Why not go straight up instead?
-A quick check of the videos shows Unity 22's apogee of over 86 km, and at that point the displayed speed is 674 mph or about 1085 kph or 18.1 km per minute. During the four minutes of being weightless we can assume the trajectory to be roughly parabolic so the horizontal speed should be fairly constant, meaning it traveled at least 70 km horizontally during that time alone.
-Question: Why did Unity 22 flight plan call for such a large horizontal velocity during its weightless phase? (1085 kph) Why not go straight up instead?

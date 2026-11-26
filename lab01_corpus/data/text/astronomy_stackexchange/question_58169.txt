@@ -1,6 +1,0 @@
-Why is Epsilon Indi Ab 2° Celsius?
-I was reading the Wikipedia page for the exoplanet Epsilon Indi Ab.
-It orbits around its parent star every 173.6 years in a distance of 28.4 AU as provided in the first infobox of the article.
-The parent star is in fact a star system consisting of three stars called Epsilon Indi. The stars are Epsilon Indi A, Ba, and Bb respectively.
-Epsilon Indi A, the star that the mentioned exoplanet revolves around has a surface temperature of only 4649 K which makes it even colder than our Sun.
-My question: How does an exoplanet orbiting around a cold star at such a huge distance have a temperature of near 275 K?

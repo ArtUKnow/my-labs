@@ -1,4 +1,0 @@
-How to calculate the height above the horizon of a geostationary satellite on a given latitude?
-Wikipedia's Geostationary orbit; Communications says:
-Geostationary communication satellites are useful because they are visible from a large area of the earth's surface, extending 81° away in both latitude and longitude.
-But how to calculate that above 81° they are not visible? And also how do I know exactly at what height will I see a satellite in some city (ex. Moscow - 55.7558° N, 37.6173° E)?

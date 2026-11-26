@@ -1,9 +1,0 @@
-How to calculate a delta-v to match orbital planes from two state vectors
-I’m working on a 3D program, and I'm trying to get two independent satellites to match orbital planes (at least close enough for a 3D visual).
-I cannot get anything to work. Here’s the problem:
-Given a statevector_a for satellite A and statevector_b for satellite B, is there a function magic_function(statevector_a, statevector_b) that returns a delta-v so that so when applied to sat A, it’ll match satellite B’s orbital plane?
-I’ve found this formula for a plane change maneuver:
-Δv = 2 * v * sin(Δi / 2)
-where Δi is the inclination change.
-I’ve tried using out-of-the-box functions that convert state vectors to orbital elements, then compute the rotation angle between planes using that formula. But nothing I do seems to work.
-I also read that it’s most efficient to do this at the ascending/descending nodes, but I was hoping to make something work at any arbitrary time.

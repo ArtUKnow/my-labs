@@ -1,6 +1,0 @@
-Are westward launches more expensive than eastward launches?
-Basic question for those who breathe rockets:
-The earth's rotation imparts to the rocket a free delta V of roughly 450 m/s if you launch straight eastward.
-If you launch westward instead, for a retrograde orbit inclination of 123 deg out of Vandenberg, say, it seems you lose that free delta V.
-But is this correct? Are westward launches more expensive in fuel than eastward launches? Is the earth's free delta V normally included in the velocities reported during launch?
-(I just want to know if I should add that free delta V to the numbers shown for specific launches in order to compare them to my own calculations.)

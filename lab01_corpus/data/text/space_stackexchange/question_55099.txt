@@ -1,2 +1,0 @@
-How does the Falcon 9 upper stage settle its propellants?
-I understand the upper stage separates with the use of pneumatic pushers, but what settles the propellants in the upper stage tanks so that the propellant is pushed back to the intake? The pushers will cause the propellant to initially be pushed to the back of the tank, but won't it immediately begin to slosh towards the front of the tank? Is there a baffle design or something inside the tanks that keep the propellant at the intake?

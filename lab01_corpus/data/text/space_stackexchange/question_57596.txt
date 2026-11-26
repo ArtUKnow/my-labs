@@ -1,6 +1,0 @@
-Are VASIMR + Arcjet engines feasible for orbital transfers on Mars?
-The VASIMR engine is an electric propulsion system that has been lauded for its ability to cut down on interplanetary transfers. While it requires a high power source (in the range of 200kW), it is a relatively efficient system that offers long duration acceleration. Assuming that we can develop a nuclear reactor capable of 200 kW power delivery in space, the major drawback of VASIMR is the relatively low thrust-to-weight ratio, which would make orbital transfers slow for a large spacecraft.
-Question
-If there was a manned spacecraft in orbit X around Earth, it appears that transferring to orbit Y would take longer compared to a chemical propulsion rocket. If a more rapid orbital transfer was desired, would an entirely separate rocket engine be required? Would this hypothetical spacecraft require a separate chemical propulsion system? Are there other options that could leverage the nuclear reactor, such as an Arcjet augmented nuclear thermal engine?
-In response to some feedback, assume that the weight of the spacecraft is 500 metric tons. If the weight were to change to 5,000 metric tons, is the power requirement increased by a factor of 10?
-Thank you.

@@ -1,5 +1,0 @@
-Will SpaceX ever be able to launch Starlink Satellites from Boca Chica?
-Starlink satellites have orbital inclinations of 43 to 97.6 degrees (but 60% of the satellites orbit at 53*).
-Launch corridors in the US are over open water to avoid danger to those of us on the ground. The recent SpaceX debris cloud over the Turks and Cacaos (near the arrow head on the map) illustrate this point.
-Boca Chica has a latitude of 26.0N but it has a very narrow launch corridor between Florida and Cuba. My string-and-globe estimate puts this at a compass heading of 100* (10* south of due east).
-Because of the huge delta-v cost of orbital plane changes, will SpaceX ever be able to launch Starlink satellites from Boca Chica?

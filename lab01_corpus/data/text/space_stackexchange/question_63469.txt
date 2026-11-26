@@ -1,2 +1,0 @@
-Apparent diameter of a planet
-I made a simple sheet that based on apparent diameter of a celestial body which shows to me which of my eyepieces I should use to view an object in my telescope. However, some of bodies like planet Mars have different apparent diameters based on current date and time. On some days Mars may be seven times bigger than on other days. Is there any way so to calculate apparent size of a planet on a particular day? Even rough approximation would make here the thing.

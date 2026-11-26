@@ -1,4 +1,0 @@
-Published magnitude limits of surveys
-I'm working with several astronomical catagloues (mostly SDSS, GALEX and WISE), and I'm trying to find information on their magnitude limits (i.e. the highest magnitude objects they can detect). They all list technical information in their introductory papers, but this doesn't usually include their magnitude limits (at least, not as far as I can see).
-Sometimes they're published on websites, such as this one and this one.
-This webpage describes a method to estimate the magnitude limit using a $5\sigma$ method; should I just do that for all the wavebands I'm interested in?

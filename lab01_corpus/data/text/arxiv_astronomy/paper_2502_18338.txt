@@ -1,2 +1,0 @@
-Universal relations for non-rotating objects made of dark energy
-We obtain universal relations for fluid spheres without rotation made of dark energy assuming the Extended-Chaplygin Gas equation-of-state. After integrating the relevant differential equations, we make a fit to obtain the unknown coefficients of the functions a) normalized moment of inertia versus dimensionless deformability and b) normalized moment of inertia versus factor of compactness. We find that the form of the functions does not depend on the details of the underlying equation-of-state.

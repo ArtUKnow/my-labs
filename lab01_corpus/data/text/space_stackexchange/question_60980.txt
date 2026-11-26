@@ -1,3 +1,0 @@
-Why wouldn't NASA save Orion if Artemis 1 failed
-According to last night's NASA broadcast (and other sources), the launch abort system (LAS) system for Artemis 1 was inert (except for the apparently separate disposal motor). In the event of an Artemis 1 failure, why wouldn't NASA want to save the $1 billion Orion capsule (not to mention a free LAS test) by having a working LAS?
-Even if they were too risk averse to reuse a capsule that went through such an event, surely many of the systems could be reused at a cost far less than loading a LAS with solid fuels?

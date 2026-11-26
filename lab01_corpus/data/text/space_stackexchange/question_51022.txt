@@ -1,4 +1,0 @@
-What paper size do they use on the International Space Station?
-We know they have at least one printer on the ISS – that's NASA-supplied so it would be in the US Orbital Segment. Presumably there is a printer in the Russian Orbital Segment as well. (Mir had a teletype.)
-My question is – what paper size do they use on the ISS – A4, US Letter, or a mix? I assume that if Roscosmos has a printer they'd want to load it with A4; but would NASA use A4 in their printer so the whole of ISS uses a standard paper size? Or would they stick to US Letter since that's what NASA is used to?
-(Also, I guess there is some argument that something called the "International Space Station" ought to prefer the international standard paper size.)

@@ -1,5 +1,0 @@
-Could a jet style flame holder help a Raptor relight during its landing manuver?
-After reviewing the split second ignition of the 3 Starship SN 9 Raptor engines on their successful liftoff and ascent on video, thoughts began to focus on their relight issues during the "seven seconds of terror" Hoverslam landing technique.
-Specifically, during a launch, the engines are static and upright. Gaseous methane, lighter than air, will accumulate near the top of the combustion chamber.
-However, during the landing maneuver, the Raptor nozzle is in the equivalent of a Category 5 hurricane airstream. This would seem to potentially cause a great deal of unstable, turbulent airflow around the nozzle, and act as a vacuum aspirator, pulling the fuel air mixture out before sustained ignition can be achieved.
-Jets solve this issue by protecting the flame with a "can". Could it help the Raptor to "keep a pilot light on" using can(s) to ensure reliable ignition for their powered landings?

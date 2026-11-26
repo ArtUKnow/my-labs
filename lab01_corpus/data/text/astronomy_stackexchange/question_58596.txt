@@ -1,2 +1,0 @@
-Particle in overlapping event horizons of two black holes
-Say two identical black holes approach each other so that their event horizons overlap. What happens to a particle that's perfectly in-between the two holes? It experiences the same gravitational pull from both holes. In which singularity will it end up? What if one hole is more massive than the other? The particle would experience a stronger gravitational pull, but it obviously can't exit the lighter BHs event horizon.

@@ -1,4 +1,0 @@
-What new technologies would be needed to for a probe to survive for a moderate time within the atmosphere of a gas giant?
-Whilst reading answers to this question, it seemed to me that the consensus was that the technology does not currently exist for a probe to survive inside the atmosphere of a gas giant; now, I am wondering what new technological innovations would be needed to change that.
-Of course, even a buoyant probe would not likely survive long in the atmosphere of Jupiter or Saturn, but even one or two Earth weeks of direct-contact study could be priceless to science.
-Essentially, then, my question is this: What major technological innovations/breakthroughs would be needed for a probe of some type to survive for several Earth days within the atmosphere of Saturn or Jupiter?

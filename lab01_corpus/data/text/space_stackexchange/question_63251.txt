@@ -1,5 +1,0 @@
-Data of chemical element ambundance on celestial objects?
-For worldbuilding purposes, I'm trying to find data on chemical element abundance on different celestial bodies, and I'm interested in numbers or percentages by mass. I have found something about Earth, but any Wikipedia article about other planets that discuss chemical compositions only lists elements without specifying numbers.
-Is there a source(s) with reliable data on chemical element abundances on different celestial objects?
-I'm mostly interested in what elements and in what quantities could be found on each world to work on how interplanetary & interstellar trade would work.
-It would be great to have data on exoplanets, but if not, our own Solar System will suffice; I could then extrapolate.

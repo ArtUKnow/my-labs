@@ -1,4 +1,0 @@
-Has anyone proposed a mission to catch an small asteroid?
-The idea here is that you launch a platform into perhaps a medium earth orbit. That platform is equipped with a radar system and an interceptor missile. When the radar detects an asteroid of the right size flying by along a suitable trajectory, it launches the interceptor missile to rendezvous with it. The interceptor missile then maneuvers the asteroid into an LEO orbit allowing it to later be retrieved and brought back to Earth by a commercial launch provider.
-Gathering up samples of the stuff that comes close to Earth seems like a good way to study the solar system.
-Has anyone heard of a proposal along these lines or can anyone think of a good reason why it would not be practical?

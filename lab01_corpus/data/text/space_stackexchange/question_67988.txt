@@ -1,6 +1,0 @@
-Tradeoffs between mining asteroids vs the Moon
-At the moment, it seems like popular sentiment is saying Lunar Mining is significantly better than Near-Earth Asteroid mining. This seems illogical to me:
-Near-Earth Asteroids have near zero gravity, but you can use spin gravity to create healthy gravities. The moon has 1/6th gravity, likely in the range where it's bad for bones and muscles.
-The moon has enough mass that resources will have been pulled towards the center, and enough mass to compact the surface. A Near-Earth Asteroid is too small for this to be the case.
-Getting resources off the moon is easier than the earth, but still harder than off a Near-Earth Asteroid once mined.
-My question is, for space infrastructure purposes, what are the tradeoffs between the two?

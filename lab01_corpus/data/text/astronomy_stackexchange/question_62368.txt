@@ -1,3 +1,0 @@
-Minimum energy needed to ignite a white dwarf from the outside
-What is the minimum amount of energy needed to ignite a white dwarf (thus causing a supernova) if the energy is supplied externally? A much smaller amount of energy is sufficient if it is delivered internally, of course.
-Could this ever occur in nature? For instance, what if a white dwarf collided with a brown dwarf at high velocity in a galactic nucleus?

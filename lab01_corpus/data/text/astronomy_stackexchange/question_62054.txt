@@ -1,8 +1,0 @@
-Is this the equation to solving how fast an object moves away from earth?
-I read a book by Dr. Richard Hammond recently, and in it there was the equation to calculate the velocity of how fast an object moves away from us. This was the equation:
-$$v = H_0 ×d $$That is (Hubble's constant) times (the distance of the object from earth in Mpc)
-At the time the book was published (2008) the Hubble's constant would have been 68km/s/Mpc. Upon further research it is around 70-76 km/s now days (since I'm guessing the universe expansion does increase?).
-"Space telescope measurements find a Hubble Constant, or expansion rate for the universe, of around 70-76 kilometers per second per megaparsec." (NASA)
-So circling back to my question.
-Would the the equation would be:
-$v = 70 × d$ ?

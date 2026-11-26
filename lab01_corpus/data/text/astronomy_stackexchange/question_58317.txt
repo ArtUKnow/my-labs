@@ -1,5 +1,0 @@
-Can there be free electrons in interstellar gas in the long term?
-If I'm not mistaken, in interstellar gas, there can be clouds of free electrons (not "attached" to any atomic nucleus)
-But can they stay like that indefinetely? Or will they inevitably end up in atoms?
-(For example, electrons roam free in these gases due to photoionization. But in the future, when stars will die out, will then electrons re-combine with atoms? Or can there be cold plasma made from electrons so that they will still be free?)
-And how are they holding in interstellar gas inside of galaxies? Are they gravitationally bound to them?

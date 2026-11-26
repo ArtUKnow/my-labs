@@ -1,2 +1,0 @@
-Can the gyroscopic effect be used for landing?
-Before launch, let's say we spin a drum or more in a vacuum chamber and enough energy added to mitigate the need for fuel for landing. Is it possible to take the rotational energy and use it to cushion a landing or possibly correct pitch? I go farther and say that enough energy could be stored to create a consistent G-Force and then enough energy could be added to in the opposite direction to create a G Force enough to have a combined reaction.

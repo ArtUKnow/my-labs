@@ -1,6 +1,0 @@
-What was the first Soviet spacecraft that could recharge its battery it each orbit? Where were the photovoltaic cells made?
-Sputnik 1 (/ˈspʌtnɪk, ˈspʊtnɪk/; "Satellite-1", or "PS-1", Простейший Спутник-1 or Prosteyshiy Sputnik-1, "Elementary Satellite 1") was the first artificial Earth satellite. The Soviet Union launched it into an elliptical low Earth orbit on 4 October 1957. It orbited for three weeks before its batteries died and then orbited silently for two months before it fell back into the atmosphere on the 25th December 1957.
-At some point it became possible for Soviet spacecraft to run on battery power when in Earth's shadow and recharge the battery when back in sunlight.
-Questions:
-What was the first Soviet spacecraft that could do this?
-Where were the photovoltaic cells made?

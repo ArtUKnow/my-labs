@@ -1,2 +1,0 @@
-TOPCAT/STILTS Integration
-TOPCAT and STILTS are related packages for desktop analysis of tabular data, presenting GUI and command-line interfaces respectively to much of the same functionality. This paper presents features in TOPCAT that facilitate use of STILTS.

@@ -1,7 +1,0 @@
-Looking for information on this Apollo era CGI animation
-In the NASA documentary The Computer and Manned Space Flight, early CGI animations of lunar landing, rendezvous, earthrise etc. are shown. The narration says that these simulations were made prior to the first manned lunar landing.
-I'm seeking more information about these early CGI simulations:
-What specific systems were used to create these simulations?
-Are there any papers or technical reports detailing the development and use of these simulations?
-Are there any archives or repositories where more examples of these simulations can be viewed?
-Any additional context or resources about these CGI would be appreciated.

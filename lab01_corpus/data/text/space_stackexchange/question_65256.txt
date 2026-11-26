@@ -1,3 +1,0 @@
-How well is JWST doing on maintaining its Halo orbit?
-I looked around a little bit online but did not find anything discussing how well JWST is doing with managing its orbit. I was wondering if there were any surprises or issues.
-It's been out there almost 2 years now and the flight folks should have a good idea if their planning was on target and if fuel will last even longer than originally calculated. (Of course, the great launch and L2 insertion were a large help to fuel conservation.)

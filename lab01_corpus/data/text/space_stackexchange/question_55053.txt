@@ -1,4 +1,0 @@
-Telescope in a crater? How different are the bowl shapes?
-When building large stationary single-dish radio telescopes, one of the constraints to location is that the landscape should already have approximately the right shape, cutting down on construction costs.
-When looking at geologically inactive bodies (say, the Moon), an obvious feature of the landscape is all the craters. They look "bowl shaped". Radio telescopes are also "bowl shaped".
-It's evident that such craters are a good starting point for building a telescope dish, but how good? In general: How much does the geometry of an impact crater differ from a telescope?

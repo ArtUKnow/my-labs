@@ -1,4 +1,0 @@
-Coatings on spacecraft structures
-Traditionally, aluminium spacecraft structures have been alodine-coated to protect the surface from corrosion and resistance to scratches.
-However, the last few years I've noticed that more and more structures are anodised instead. This confused me, because although it provides a corrosion-resistant non-conductive coating (not to mention a cool colour!), wouldn't a lot of outgassing occur from the anodise coating?
-Appreciate any insights. Thanks!

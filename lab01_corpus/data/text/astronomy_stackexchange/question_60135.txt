@@ -1,7 +1,0 @@
-Deduction of the equation of time
-I'm studying analemmas and I'm trying to find a simple but analytic deduction of the equation of time useful for any day of 2025.
-I would like to use the equation of center
-$\nu - M \approx c_1 \sin(M) + c_2 \sin(2M)+ ...$
-and this expression of the EOT (degrees) in therms of sidereal time ST and universal time UT(hours) and right ascension of the apparent Sun $\alpha$
-$EOT = (ST-\alpha) - (15 \cdot UT -180)$.
-I'll be thankful for any help, I've been trying to read different papers about EOT but in none of them I could find a final equation in therms of only variables (except Müeller, but I would like to simplify calculations a bit).

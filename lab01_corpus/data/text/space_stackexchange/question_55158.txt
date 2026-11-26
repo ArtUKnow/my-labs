@@ -1,6 +1,0 @@
-Why haven't we seen more origami in spacecraft?
-I remember watching a few videos awhile back talking about origami designs in spacecraft:
-Origami in Space: BYU-designed solar arrays inspired by origami
-Engineering with Origami
-I've only done a cursory search (and it seems really hard to get images of recent satellites and their designs on Google...) but why am I not finding images of more folding satellites? Wouldn't a bigger solar panel = better? Even starlink seems to be a flat device that folds out boringly in a rectangular way.
-Seeing how the Brigham Young University video is more than 7 years old, I'd thought we'd see something more elaborate unfold by now. Am I just not looking in the right places? Or are there still challenges that need to be overcome? Or is it just the fact that most spacecraft don't need a giant solar panel or antenna (since that seems to be the two applications most suited for a lot of folding)?

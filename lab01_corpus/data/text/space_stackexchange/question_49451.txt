@@ -1,5 +1,0 @@
-Can the Space Shuttle land on Mars assuming there is a paved surface for landing?
-Can the Space Shuttle land on Mars if it had a paved runway?
-Can the Space Shuttle use aerobraking and will its control surfaces provide attitude control?
-Can the parachute and braking systems stop the vehicle down in a 4500 m / 15000 feet runway?
-Ignore the delta-v and life support system constraints of getting to Mars.

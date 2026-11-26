@@ -1,8 +1,0 @@
-Has Buzz Aldrin’s Line-of-Sight rendezvous method ever been used?
-Has Buzz Aldrin’s Line-of-Sight rendezvous method ever been used?
-Buzz Aldrin’s 1963 doctoral thesis describes a line-of-sight (LOS) rendezvous technique which is independent of computer and radar ranging input. Basically, it uses a sight reticule, eyeball and slide rule. The reticule is calibrated for a specific circularized “waiting orbit” below the target’s orbit and the intercept trajectory evolves over a 90° orbital phase angle. It uses slightly more propellant than an idealized rendezvous trajectory.
-The LOS technique was developed for the planned Gemini program.
-LOS was proposed as a back-up rendezvous method. The first orbital rendezvous, Gemini 6, was initiated under computer control . The rendezvous commenced from a lower orbit (as per the LOS technique) so Aldrin's LOS technique could have potentially been used as a back-up. From https://ntrs.nasa.gov/api/citations/20110023479/downloads/20110023479.pdf :
-A terminal phase initiated from a coelliptic orbit was selected that allowed … the use of manual backup guidance techniques in the event of system failures. The crew flew an inertial final approach by controlling closing rate and the rotation rate of the inertial line-of-sight to the target.
-Was Gemini 6 equipped with a reticule to perform an Aldrin LOS rendezvous as a back-up to the computer?
-Has the Aldrin LOS technique ever been used?

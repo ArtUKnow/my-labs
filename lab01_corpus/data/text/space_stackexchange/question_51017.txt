@@ -1,2 +1,0 @@
-Maintaining constant fuel pressure to rocket engine during flight and flip maneuvers
-During lift-off and landing, the methane liquid fuel inside the Starship is being consumed. How constant fuel pressure to the Raptor engines is maintained when the fuel is being depleted and during flip maneuvers?

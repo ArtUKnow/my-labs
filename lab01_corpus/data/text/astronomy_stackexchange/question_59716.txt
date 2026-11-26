@@ -1,8 +1,0 @@
-Where Can I Find the Odewahn et al. (1992) Star/Galaxy Dataset?
-I am looking for the dataset used in the paper "Automated star/galaxy discrimination with neural networks" by Odewahn et al. (1992), published in The Astronomical Journal (DOI: 10.1086/116062).
-The dataset consists of stars and galaxies, labeled for classification, with 14 features per object. I believe there should also be two different datasets split into "bright" and "dim" of which there are 3524 bright objects and 4652 dim objects. It was used to train a neural network for distinguishing between stars and galaxies. However, I have not been able to locate a publicly available version of this dataset.
-I have already checked:
-NASA ADS (only the paper is available, no dataset)
-University of Texas at Austin Astronomy Department (no immediate dataset links)
-VizieR, SDSS, and NED (similar datasets exist but not this specific one)
-Does anyone know if this dataset is available online, or if there are researchers who may have access to it?

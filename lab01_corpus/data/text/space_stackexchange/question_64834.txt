@@ -1,3 +1,0 @@
-What is ascent venting?
-I am writing a report on CubeSat construction, and while reading Cal Poly's CDS I encountered the concept of ascent venting (or more specifically, the constraint that 'ascent venting per ventable volume/area [must be] less than 50.8 meters (2000 inches)' - section 2.1.9 of the CDS).
-What is ascent venting? And how does 'ascent venting per ventable volume/area' have a dimension of length?

@@ -1,5 +1,0 @@
-How realistic are the required fluorine mining quantities for terraforming Mars compared to the real mining practices on Earth?
-Energy balance calculations in the JGR article Radiative-convective model of warming Mars with artificial greenhouse gases suggest that the addition of 0.2 Pa of the best greenhouse gases mixture (15% $C_2F_6$, 62.5% $C_3F_8$, and 22.5% $SF_6$ ) to Mars' atmosphere would shift the equilibrium to the extent that $CO_2$ would no longer be stable at the Martian poles and a runaway greenhouse effect would result, that would nearly double the atmospheric pressure on Mars throughout the year.
-To get the 0.2 Pa of the best mixture I calculated that 43275 kg fluorine per km² would be needed.
-If that amount of fluorine could be mined every day, then after 396000 years that 0.2 Pa of greenhouse gases would have been reached for the whole surface area of Mars.
-How does the mining of 43725 kg fluorine each day on Mars compare with the mining practices on Earth and could the production become ten-fold for instance, so that the job could be done in 39600 years instead ?

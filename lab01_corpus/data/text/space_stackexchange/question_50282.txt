@@ -1,4 +1,0 @@
-Can we power things (like cars or similar rovers) on earth in the same way Perseverance generates power?
-I was watching a video on the engineering of Perseverance and it states that the rover is powered by 4.8kg of Plutonium Dioxide. I was wondering if that similar process of electricity generation can be applied here of earth (if it hasn't already). What makes Mars unique in that respect, and why did the team choose radioactive decay over solar panels?
-If I had to think of an answer intuitively, I'd say it's because the process is hazardous to organics. Plus, the half life of the material on Mars might be under the time frame of when we actually settle and thrive on Mars (organics and all).
-However, I still don't have a clear picture of whether or not we could use this tech for rovers here on earth, whether it's crawling the ocean depths or surveying places where life can't exist. Mars would seem to be more dangerous than say, a salt flat, or the ocean depths.

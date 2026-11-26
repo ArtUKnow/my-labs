@@ -1,3 +1,0 @@
-CubeSat dispensers: amplify or dampen vibration loads on spacecraft?
-CubeSat world: has anybody run a vibration test where you put accelerometers both on the dispenser (or shaker plate) and your spacecraft inside the dispenser?
-For the SunCET CubeSat, we're trying to figure out if dispensers dampen or amplify the NASA GEVS vibrational profile as a function of frequency.

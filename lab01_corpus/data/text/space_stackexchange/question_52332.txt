@@ -1,3 +1,0 @@
-Have any Mars surface spacecraft had downward-pointing radiometers to measure the surface temperature? (not air temperature)
-NASA's Insight; Weather gives us regular weather updates from Insight's location on Mars, an example is shown below. Temperature is of the air around the lander.
-Question: But does or has Insight or any spacecraft on the surface of Mars measure the surface temperature of the soil around it as well? Has any had a simple radiometer pointed downwards, either off to the side or directly below, in order to record surface temperature? Do either Curiosity or Perseverance have these?

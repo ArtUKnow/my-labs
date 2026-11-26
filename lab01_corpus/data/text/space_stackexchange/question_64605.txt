@@ -1,7 +1,0 @@
-Embedding foundations from low lunar orbit?
-Reading about Lunar Crater Radio Telescope and Lunar regolith thickness and composition,
-(roughly 5-10m of soft soil) and anchoring in soft regolith, would it make sense, in order to anchor large structures on the moon, like a kilometer sized dish-shaped hanging mesh, to plant stakes first, by jettisoning them before landing burn of the dedicated spacecraft, so that part of their kinetic energy is used to plant them at some required depth and make sure anchoring is strong enough?
-basically the idea is to use part of deorbit kinetic energy to plant anchoring stakes around the dish/mesh/radiotelescope site, before the spacecraft they've been jettisoned from arrives on site. instead of soft landing a robot that has to wallclimb crater's rim and drill and secure anchorings on site from the surface.
-Those stakes would be released at some velocity and altitude prior to spacecraft landing, then a rover can attach a cable to each anchor.
-Is this concept valid or meaningless and why?
-(those stakes could also be solid balls attached to cables that stay accessible on surface, so that straight planting attitude of each anchor once released is one issue less)

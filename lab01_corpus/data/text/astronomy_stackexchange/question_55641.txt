@@ -1,6 +1,0 @@
-Just wondering if anybody knows how to do this question about angular resolution of the human eye?
-Estimate the angular resolution of the human eye at the centre of the visible
-wavelength range during daylight. Using your answer, estimate the surface den-
-sity of rods (per mm2) on the retina, assuming that they critically sample the
-image.
-The first part is easy you just use the angular resolution formula.It's the second part I'm having trouble with namely the critically sampling bit.

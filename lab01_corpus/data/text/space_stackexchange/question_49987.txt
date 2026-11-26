@@ -1,3 +1,0 @@
-What local pressure changes would a starship launch on Mars cause?
-When Starship launches from Mars it will burn thousands of tonnes of fuel in seconds. This will cause a local increase in pressure, humidity (it might exist!) and temperature.
-Do we have any idea how big these changes will be? Are we talking "measurable, but so are solar neutrinos", or 'You've got five minutes to walk on the surface without a suit, go!"?

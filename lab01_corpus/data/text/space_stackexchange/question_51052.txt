@@ -1,2 +1,0 @@
-Biggest orbital inclination change done in Earth's orbit
-Generally orbital inclination change is said to be (fuel) expensive. What is the biggest orbital inclination change (in degrees) done in Earth's orbit for an orbiting object? Can this be broken down by orbits (LEO, geostationary etc.) and by mission (commercial satellite, military/governmental, human spaceflight etc.)?

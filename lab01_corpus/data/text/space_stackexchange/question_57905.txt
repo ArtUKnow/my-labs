@@ -1,7 +1,0 @@
-How did India get to the Mars?
-A few years back ISRO sent their orbiter to the Mars, It is known to be the biggest feat achieved by Indian Space Research Organization over the years.
-It special because ISRO manage to pull this out in an an exceptionally low budget.
-2-3 years ago a movie was made called MISSION MANGAL, since it was a bollywood movie, it was hard for me to have faith over the scientific explanations show in the movie (cuz bollywood is infamous of having a loose hand in physics).
-It was shown that since ISRO did not have enough budget to make something that would directly go from earth into mars' orbit, they made the orbiter orbit the earth for some time. After every round, when the satellite came back to the perigee, they would fire the fuel in it in order to increase the radius of the orbit of satellite thereby increasing its velocity.
-After taking rounds and rounds of earth, at one point after firing the fuel, the satellite would have enough velocity to cross the Van Allen Belt.
-Is this thing practically possible? Did ISRO actually use this method to go to the Mars?

@@ -1,4 +1,0 @@
-What is the difference between SBAS and PPP used in GNSS accuracy corrections?
-I've found that Satellite Based Augmentation System uses reference stations to compute a model for correction and send them via a master station to a geosynchronous satellite, then to GPS receiver.
-I also found that Precise Point Positioning works the same way, but has a much higher accuracy?
-Why ? does PPP use another correction computational method ?

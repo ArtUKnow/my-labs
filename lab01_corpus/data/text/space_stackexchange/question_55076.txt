@@ -1,4 +1,0 @@
-Is 1/6 G enough for humans to stay healthy?
-Micro-G is known to be detrimental to health in the long-term. However, the Moon is at $\frac{1}{6}$ G (while Mars is at ~$\frac{3}{8}$ G). Is $\frac{1}{6}$ G enough for humans to remain healthy in the long term?
-(While there are many concerns that make Moon colonization difficult -- i.e. long night/day cycles resulting in large temperature swings -- please focus on the gravity/health question for now.)
-This question may be answered in the long term by the Space Studies Institute's "G-Lab" program.

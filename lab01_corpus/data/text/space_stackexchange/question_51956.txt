@@ -1,5 +1,0 @@
-What rocket would Blue Origin go to Moon with?
-Blue Origin has shown interest in going to the moon, and they're working on a lunar lander to do it. But it's not clear to me how they'll get the lander there.
-Will they use one of their rockets? If so, which?
-New Shepard is being developed for manned spaceflight but it seems destined for suborbital launch only. New Glenn seems twice as large as Falcon 9, and it's just a hair shorter than Saturn V, but it's advertised as a heavy-duty satellite launcher.
-So I want to guess it will be either New Glenn or an evolution of New Glenn?

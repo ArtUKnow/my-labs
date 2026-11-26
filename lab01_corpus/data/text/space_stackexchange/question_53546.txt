@@ -1,9 +1,0 @@
-Space shuttle digital signal processor (DSP): floating point or fixed point?
-Digital signal processors can represent irrational numbers using fixed-point or floating-point data types.
-Fixed point means fixed number of decimal places, and floating point means floating number of decimal places.
-There are advantages to each and it isn't always best to use a floating-point processor.
-Still, where numerical precision matters, floating-point has a leg up, and I've been assuming a launch vehicle like the space shuttle or Saturn V would have used exactly that in its GNC systems.
-But have I been assuming right? Or might it have been fixed-point instead?
-Not a computer scientist. I know just enough about data types to get me in trouble. Please hold down your bazookas, kind people :D
-Update
-Just found the text below suggesting the space shuttle in fact used fixed-point arithmetic. Now wondering if modern rockets use fixed-point too... and can someone confirm that the excerpt below really means 480,000 instructions per second for fixed-point against 7,000 for floating-point? That difference is huuuge and unexpected to me. Big thanks if you can confirm!

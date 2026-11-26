@@ -1,7 +1,0 @@
-Are suits in the NBL pressurized differently than during flight?
-I don't know why I've been in a spacesuit mood lately, but the following crossed my mind recently:
-the flexible portions of NASA'S EMU suits are inflated by the interior pressure
-the suits in the National Buoyancy Lab (NBL) are underwater
-water pressure exceeds the nominal flight pressure of 4.3 psi at a relatively shallow depth, yet the NBL suits stay inflated
-Is the atmosphere in a suit in the NBL different than it would be in space?
-The closest post I found while looking here was Are the EVA suits used in the ISS and in the NBL same or different?

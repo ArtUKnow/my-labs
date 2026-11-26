@@ -1,4 +1,0 @@
-Is the available imagery of Europa and Enceladus enough to develop surface missions there?
-There are a few mission concepts under development to explore the surface (and subsurface) of Europa and Enceladus. This got me wondering - do the current (or soon to be obtained) surface maps of those bodies have a spatial resolution that is high enough to enable the development of lander & robotic missions to those destinations?
-For instance, the upcoming Europa Clipper mission will map most of Europa at 100m/px, while I believe that the maps of Enceladus have a much lower resolution (although, high-resolution maps of specific areas are available).
-I mean - sure, once these missions launch, they will likely carry a high-resolution orbital imager. But until then, I imagine mission planners will have to contend with limited mapping information, especially for missions involving surface mobility. Thanks!

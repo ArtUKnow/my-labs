@@ -1,4 +1,0 @@
-Strange swirls on the latest image from SOHO
-Earlier today, I was looking at the latest image from SOHO and noticed some odd swirly lines at the bottom left of the image. They no longer appear on the site, but I saved the image before they were removed.
-What are these lines? Do they mean anything, or is it just some artifact of the image generation process?
-Edit: Almost a year later, it happened again! I think this confirms it's just a text rendering bug. Wayback Machine snapshot

@@ -1,2 +1,0 @@
-Why are there no optical telescopes attached to or flying beside the ISS?
-The Hubble Space Telescope orbit does not seem to differ much from that of the International Space Station. Why are no optical telescopes for astronomical observations attached to the ISS or flying beside it (to reduce vibration), when this would allow using the ISS resources (logistics, electricity, network connection, easy serviceability, ...)?

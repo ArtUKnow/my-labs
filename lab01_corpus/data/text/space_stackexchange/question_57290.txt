@@ -1,5 +1,0 @@
-How to estimate total CO2 emission per year due to rocket manufacture?
-I'm working on a study on greenhouse gas emissions related to rockets. While I have the post-launch (atmospheric) emissions, I need data for emissions related to production. For example, according to this brief by the US International Trade Office:
-Carbon Border Adjustments: A Catalyst for Lower Aluminum Industry Emissions Executive Briefing on Trade, August 2020
-about 11 Mt of carbon dioxide is released on average worldwide per every 1 Mt of aluminum smelted (aluminum is the primary component in rocket hulls and parts).
-So, in order to total CO2 emission per year due to rocket manufacture I could either use a sum of all the empty weight (empty weight meaning not including propellant) of all the rockets launched worldwide in a range of years from 2000-2019, or I could use just a general sum of rocket emissions per year from 2000-2019, or something along those lines.

@@ -1,6 +1,0 @@
-How can you calculate the pressure that a liquid develops when freezing in a pipe?
-My current understanding is that in addition to the reasons pointed out in the answer to this question here, another reason for choosing
-ammonia in the space station external coolant loops is that the pipes in the radiators can withstand the burst pressure of freezing ammonia.
-One aspect speaking against ammonia is its low boiling point at ambient pressures, so the radiator is run at pretty low temperatures, which decreases its efficiency. Water/Glycol would be better in that respect but water develops high pressures on freezing.
-Given that, how can the pressure of an expanding liquid on freezing be calculated?
-And how would the combination with a liquid that contracts on freezing factor in with that?

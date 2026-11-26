@@ -1,6 +1,0 @@
-How is a desired chamber pressure achieved in a liquid rocket engine
-Before everyone responds that this has been asked before, I have read through every relevant post I could find here and believe my question has not been clearly covered.
-I also understand that "Unfortunately there is no simple equation to calculate the chamber pressure." as stated here. I am not looking for a defining equation.
-My question is:
-Once a desired theoretical chamber pressure is determined for a liquid engine, how is the engine designed to reach that pressure? For example, chamber temperature can be determined and controlled based on the combustion temperature of your propellants, O/F ratio, etc. Is chamber pressure achieved purely by experimental design, or are there equations/models for determining rough values? (e.g. A company determines they want to design their engine to 2500 psia Pc. What design criteria are relevant to reaching the target value?)
-The gap in previous explanations that I have found is that the mechanism by which chamber pressure builds up is not clearly explained. It is repeated that chamber pressure is generally an initial design parameter, but I am looking to understand how it actually physically develops.

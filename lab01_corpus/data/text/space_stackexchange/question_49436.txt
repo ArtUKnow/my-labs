@@ -1,4 +1,0 @@
-How important is the convergence angle of a liquid bipropellant rocket engine
-So I can't exactly find out what angle should the converging part of the rocket chamber be or why different angles are chosen for engines (varies by about 15°).
-Are there any guidlines on the angle or equations?
-Thanks!

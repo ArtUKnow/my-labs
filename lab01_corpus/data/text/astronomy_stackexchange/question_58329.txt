@@ -1,3 +1,0 @@
-When a black hole evaporates in its last moments, will it emit the same amount of particles and anti-particles?
-Black holes are expected to evaporate due to Hawking radiation. Since Hawking temperature is inversely proportional to the mass of the black hole, as it would gradually lose mass with time they would evaporate more energetic photons. In the last moments, it would be able to evaporate into massive particles.
-For example, they could evaporate into electrons. But if charge is conserved, shouldn't they emit positrons in the same amount of electrons? Or this is at random and therefore a black hole could emit more electrons than positrons? Also, could they emit high amounts of electrons? What about charged black holes?

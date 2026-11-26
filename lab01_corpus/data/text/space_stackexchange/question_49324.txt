@@ -1,4 +1,0 @@
-How many time-zone does the ISS cross through during one orbit?
-A recent non-answer to an unrelated question stated that the ISS crosses 16 time zones during New Year's Eve, which is obviously incorrect, the actual answer being "around 200".
-But this inspired me to a follow-up: How many (minimum, maximum) time-zones does the ISS fly over during one full orbit? According to Wikipedia there are currently 38 time zones across the world, some large, some small. None of them is located entirely at high latitudes, so all can be visited by ISS at some point.
-Let's define "one orbit" as the time between crossing one meridian and crossing the same meridian again. I guess that daylight savings time should be excluded for simplicity.

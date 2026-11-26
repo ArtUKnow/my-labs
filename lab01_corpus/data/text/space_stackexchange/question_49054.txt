@@ -1,6 +1,0 @@
-Small liquid rockets are hard/expensive to build, but what about to use them?
-It's become a sad and oft-demoralizing truism that it's quite difficult and expensive to design or build even low-performance liquid-fueled rocket engines, and that amateurs -- even those with skills in machining, technical plumbing, etc -- are doomed to be disappointed.
-But I wonder if this applies to the use of small rocket engines -- when you have the engines, how hard is it to, say, assemble them into a workable RCS system or the like?
-Is this a "tube cutter and Swagelok catalog" task?
-(A motif that's been common in science fiction is the hypergol or monopropellant powered "scooter" with fractional-G acceleration and minimal instruments built out of spare parts by a teenager -- can this be dismissed as another thing that's flatly unrealistic?)
-(Answers that are about the legality of owning this stuff are not on topic.)

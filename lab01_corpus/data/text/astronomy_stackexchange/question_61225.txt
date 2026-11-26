@@ -1,4 +1,0 @@
-Date of the Moon's Summer and Winter Solstices
-I understand that the orientation of the Moon’s axis is tilted at the relatively small angle of 1.54° to the ecliptic plane (rather than the plane of its orbit around the Earth).I have not been able to find online from any reliable sources, the dates of the Moon’s solstices - i.e. the dates when the Moon’s North Pole is tilted furthest towards and furthest away from the Sun.
-AI tools (e.g. Google Gemini etc) have told me that the lunar solstices occur at the same time as the Earth’s solstices. However, I can’t see any reason why this should be the case. I also assume the orientation of the moon's axis precesses in the same way the Earth’s does (in the case of the Earth it happens over a 25800 years cycle). So, the times of the lunar solstices will slowly vary over the years.
-So a have a further question: does anyone know length of the cycle over which the Moon’s axis precesses.

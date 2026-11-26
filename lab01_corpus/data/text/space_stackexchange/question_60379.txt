@@ -1,3 +1,0 @@
-Why doesn’t SpaceX use Falcon Heavy to launch Starlink satellites?
-In this chart that I found here (https://i.sstatic.net/f8wOR.jpg)
-It shows that the price of 1 kg to LEO is cheaper on the Falcon Heavy than the Falcon 9. Also the Falcon Heavy can carry more payload into orbit than the Falcon 9. Why did SpaceX choose to use the Falcon 9 rocket to launch their Starlink satellites?

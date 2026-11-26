@@ -1,5 +1,0 @@
-How to make a star chart from cartesian coordinates of stars?
-I used GAIA DR3 data to plot cartesian coordinates of stars around a planet. However, I am having trouble creating star chart.
-At first the idea came to my mind was that I would visualize the half of the sphere of stars around the planet from a far away position. But constellation drawn from far away position wasn't the same(distorted badly) from the observation point on the planet. This is obvious since drawing constellations in a 2d plane doesn't indicate the proper 3d positions of stars. [The following image explains the problem]
-Is the problem I'm facing is normal for star charts? If not how can I
-approach on making a star chart from 3d coordinates of stars?

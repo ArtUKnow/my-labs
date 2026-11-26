@@ -1,4 +1,0 @@
-Could satellites be made to fly in a formation that creates a moving image when viewed from earth?
-Could a group of satellites be put into orbit such that they form a 2d shape that moves across the sky?
-I have tried to research satellite constellations but I can't figure out if they just work together or actually move in a synchronised way.
-I know (or assume) that satellites could be put into a line, and I can see that two satellites that are "very far apart" would need to be orbiting on different planes and hence not be moving parallel when viewed from earth. But can multiple satellites be far enough apart that they are resolved as different points by a human (and can hence form a shape) but still be close enough that they can practically follow what appears to be the same orbit from earth?

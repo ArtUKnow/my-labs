@@ -1,4 +1,0 @@
-Lunar nuclear power system - how can hydrogen generated on the Moon be liquefied?
-In September 2020, NASA asked for proposals for a lunar nuclear power system.
-The 10-kW water electrolysis system can create 5-10 tons of hydrogen in a week from the Moon’s surface ice.
-How would you cool and liquefy this hydrogen on the Moon?

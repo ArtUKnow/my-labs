@@ -1,3 +1,0 @@
-Why did Apollo missions open the propulsive Hydrogen vents during the coast phase?
-According to Figure 2-1 of the SA-503 flight manual the LH2 continuous vent was opened during the coast phase, and closed during the ullage stage of the S-IVB restart T_6 + 0:00:42.0 (but open for some of the initial firing's ullage burn T_5 + 0:00:59.0).
-Given the Propellant Venting section on page 6-13 mentions its use for settling the propellant, why do we see it used primarily during the coast phase, and not for the restart? Additionally, why are they included if the Auxiliary Propulsion System already has ullage engines built-in?

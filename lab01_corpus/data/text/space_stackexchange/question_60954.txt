@@ -1,4 +1,0 @@
-Calculating propellant mass from total impulse
-I have a simple question about how to calculate the total propellant mass used by a satellite in space.
-From Simulink, I have a graph of thrust VS time, so I could integrate this to calculate the total impulse.
-How can I compute the total propellant mass used by the satellite from this information?

@@ -1,4 +1,0 @@
-Why is it not concerning from a cost perspective to have so many engines on Starship?
-Starship is meant to imitate (to a degree) the affordability of passenger jets. This applies to Earth-to-Earth travel as well as space travel.
-Jetliners started with 4 engines, but have since migrated to using 2, regardless of size. Where the number of engines might have been increased for an earlier generation of wide-body aircraft, now, as with the 777X, companies simply make larger engines for every new design. This twinjet configuration is chosen for saving costs, as each engine requires separate service, paperwork, and certificates.
-Why does the same not apply to Starship?

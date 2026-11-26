@@ -1,7 +1,0 @@
-Why were the three 122-cm diameter conductive spheres for charge collection in the Shuttle's Space Experiments with Particle Accelerators black?
-From this answer to How did three 1.2 meter spheres and a Xe+ plasma contactor keep the Shuttle “grounded”? What did they look like?:
-STS-45 view of payload bay with this description (emphasis my own):
-STS-45 payload bay (PLB) configuration onboard Atlantis, Orbiter Vehicle (OV) 104, includes the Shuttle Solar Backscatter Ultraviolet 4 (SSBUV-4) and Atmospheric Laboratory for Applications and Science 1 (ATLAS-1) instruments. The SSBUV get away special (GAS) canisters are mounted on a GAS adapter beam on the starboard PLB sill longeron. THE SSBUV support canister is in the foreground and the SSBUV instrument canister with motorized door assembly (MDA) is next to it. ATLAS-1 equipment includes the igloo (center - decorated with several insignias), the Space Experiments with Particle Accelerators (SEPAC) spheres, and additional instruments mounted on unpressurized spacelab pallets. In the background, are the orbital maneuvering system (OMS) pods and vertical tail highlighted against the cloud-covered surface of the Earth.
-[...]
-Just adding the great image found by Organic Marble:
-Question: Why were the three 122-cm diameter conductive spheres for charge collection in the Shuttle's Space Experiments with Particle Accelerators black?

@@ -1,5 +1,0 @@
-Could you skim along the Karman line using a parafoil?
-Imagine a person just wearing a spacesuit equipped with a parafoil returning from low orbit. Could they maintain altitude starting at 7.8 km/s above or along the Karman line slowly losing speed—maybe it takes a whole orbit or three—until subsonic without getting cooked inside their suit?
-I'm looking for reasoning as to why it couldn't possibly work if the foil was large enough. The Karman line defined as the boundary where aerodynamics and orbital mechanics swap dominance implies lift doesn't stop there at all so we might imagine a very large & light parafoil like terrestrial sporting kites or paragliders slowing below orbital velocity without losing altitude while in layers of atmosphere thin enough to not let a space suited human overheat.
-OR
-Ideas about how to approach the calculation of approximate size for a aerodynamic surface to generate enough lift for a ~150 kg payload to stay high enough in the lower thermosphere to not get too warm at orbital velocity and then slowing down dipping into lower layers that then generate little friction heat at lower velocities.

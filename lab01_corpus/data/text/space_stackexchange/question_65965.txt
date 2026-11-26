@@ -1,3 +1,0 @@
-Pressure Term in Rocket Thrust Equation
-In the rocket thrust equation, as well as the thrust due to the mass flow rate of the exiting propellant, there is also an additional pressure term included. However I have noticed that this term is not actually included when calculating the thrust produced by an engine in space. I understand that there is no atmosphere, so pressure is zero. So shouldn't P0 term here be zero and therefore the "additional thrust" due to the pressure difference is just Pe * A?
-Source: https://www.grc.nasa.gov/www/k-12/airplane/rockth.html

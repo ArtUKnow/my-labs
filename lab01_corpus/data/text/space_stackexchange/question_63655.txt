@@ -1,8 +1,0 @@
-Why will the Raptor not face the same turnaround issues as Space Shuttle engines?
-The RS-25's notoriously slow, expensive turnaround was blamed on its complexity. The Raptor appears about as complex.
-Both use regenerative cooling.
-Both use preburners to drive turbopumps.
-While the Raptor has no need for the low pressure pumps, it does run at a much higher pressure.
-While the Raptor does not need the seal between LOX pump and turbine, it does have a chemically active flow of hot oxygen coming from the LOX preburner.
-While Raptor does not have embrittlement from hot hydrogen, hydrocarbon fuels tend to burn hotter.
-Why does the SSME require several months for turnaround, whereas the Raptor needs no time at all?

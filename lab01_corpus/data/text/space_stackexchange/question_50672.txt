@@ -1,3 +1,0 @@
-How many different hexagonal tiles' modules are required to pave one Starship?
-Assuming SpaceX would like to avoid absolute unmodularity of STS' thermal protection system, which was composed of (symmetry aside) mostly different and unique tiles. What tiling typologic strategies could be implemented so that it keeps the lowest diversity of modules, when paving one full starship, mostly regarding the paving of its nosecone?
-(source)

@@ -1,6 +1,0 @@
-Water mining of Enceladus/Saturn's Rings to terraform Titan's atmosphere
-Assume we already have a way to raise the surface temperature to something liveable for humans
-Titan's atmosphere is 94% nitrogen compared to 78% for Earth.
-We want it to be ~21% oxygen for humans to breathe comfortably. There is a lot of water ice in the Saturnian system (Enceladus, rings, etc.). Could a human colony on Titan engage in a massive-scale operation to mine the water ice, ship it back to Titan, then run electrolysis to get oxygen from the water, release it into the atmosphere, and over time (centuries?) increase the percentage of oxygen in Titan's atmosphere to the point where humans could breathe without suits?
-Think The Expanse's water haulers times a thousand.
-Is this completely impractical? Are there even enough moles of water molecules between those sources to make up 21% of Titan's atmosphere? Would we literally be mining the rings dry?

@@ -1,4 +1,0 @@
-Quickest return from stable Earth orbit to ground?
-Inspired by this Worldbuilding question about orbital deployment (deploying things to the ground from orbit): What is the quickest that something has actually deorbited and landed from a stable closed orbit around Earth, as in the least amount of time elapsed from orbiting to resting on the ground?
-I'm interested in answers involving both controlled landings and uncontrolled impacts (lithobraking), if available.
-For example, this article indicates that the SpaceX Crew Dragon used for Crew-7 performed a 15-minute-long deorbit burn and splashed down 37 minutes after the burn finished, so I would count that as 52 minutes from orbit to ground.

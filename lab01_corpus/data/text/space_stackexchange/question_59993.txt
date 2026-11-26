@@ -1,4 +1,0 @@
-Is there a purpose in developing a 5 kg kick stage (Star 5A)?
-A follow up to Why does the Star-5A have such a bad mass ratio? A comment left by @RussellBorogove says
-...the Star-5A is extremely small, at 4.6kg. At that size, the usual observed scaling relationships for larger rockets don't apply -- in short, the proportional contribution of the metal casing to the total mass is much higher than it would be for a multi-ton motor.
-Having a kick motor that small doesn't really make sense. While alone without any extra weight, this motor has about 1765 m/s of delta-v. With a 50 kg or 100 kg payload, delta-v is drastically reduced to 110 and 56 m/s, respectively. Even a 10 kg payload gives 436 m/s. This isn't very useful except for CubeSats which usually find a ride along with a larger rocket as a secondary payload. So what exactly is the point of very low mass kick stages?

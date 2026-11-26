@@ -1,4 +1,0 @@
-Can the observer, who crossed the event horizon, notice the difference in metric tensor?
-I get the difference between the interior of our time-like light cone(s) and the rest of spacetime that is space-like below the event horizon. Will they swap by changing space-like to time-like and vice versa for the observer, who crossed the horizon, so he can't tell the difference in the metric tensor of the interior of his light cone?
-The observer falling on the event horizon freezes on it from our perspective. Does it mean, that the whole universe accelerates in time to infinity from his perspective, so he can actually see the end of it?
-Edit: Let's approximate the falling observer by a material point. What will be the universe age, when it reaches the event horizon?

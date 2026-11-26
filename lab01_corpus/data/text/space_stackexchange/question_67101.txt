@@ -1,9 +1,0 @@
-Inter-constellation Low Earth Orbit (LEO) Satellite collision risks - mitigation is some "relayed AIS" in use?
-I saw some news about Starlink satellites often having the do maneuvers to avoid collisions. I don't know what % of the maneuvers were related to collisions between 2 Starlink ones (I guess their share of LEO satellites is pretty big).
-My question is about how we mitigate/reduce risks of collisions between different constellations / "fleets":
-At sea we use AIS (https://en.wikipedia.org/wiki/Automatic_identification_system) and rules "road" to reduce the risk.
-(AIS transponders send the GPS data from ships to land station(s)
-Navigation rules ("rules of road") define which vessel takes action to avoid collision when needed
-In LEO, is there:
-i. A centralized place where all the ground stations of (those satellites that have the capability), send their data
-ii. Rules of who has the "orbit priority" and who has to change orbit to avoid the collision?

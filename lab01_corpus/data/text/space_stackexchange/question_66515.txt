@@ -1,3 +1,0 @@
-Space Shuttle development book recommendation
-What book would you recommend that goes into a lot of techical details on the development of the Space Shuttle (how it unfolded chronologically, how the decision was made to develop it, what were the constraints and limitations, what were the technical challenges and how they were solved, what was tried but didn't work out, etc.)?
-I've just read the book Into the Black, but it mostly focused on other stuff and had very little information on the development process.

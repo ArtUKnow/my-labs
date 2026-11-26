@@ -1,7 +1,0 @@
-SpaceX live broadcast of booster & boat's eye view of the GPS III Space Vehicle 5 were both uninterrupted; have they make some upgrades to the system?
-This answer to Why does the video feed always fail during Falcon 9 landings? shows that SpaceX seems to be "getting better at" or "less shy about" broadcasting continuous live video of the Falcon 9 landing on a boat drone ship.
-Explanations for the previous (almost always) failures of the video feed were that the landing somehow interfered with the satellite uplink from the drone ship, though I still don't understand the physics of that explanation, as the antenna is not likely to be so big that it's directionality was so narrow that vibrations would cause it to point so far away from the receiving satellite that the link would break.
-The SpaceX live broadcast of booster & boat's eye view of the GPS III Space Vehicle 05 were both uninterrupted; have they made some upgrades to the system?
-Question: The SpaceX live broadcast of booster & boat's eye view of the GPS III Space Vehicle 05 Mission June 17, 2021, (video cued at T+ 07:52) both show the landing without interruption. Have they made some upgrades to the system? Was it just "chance"? Might continuous live feeds of the landings now be more commonplace?
-Screenshots from GPS III Space Vehicle 05 Mission June 17, 2021, (video cued at T+ 07:52) which shows continuous video coverage all the way down from the 1st stage camera as well as continuous coverage from the camera on the boat ship:
-https://space.stackexchange.com/a/45473/12102

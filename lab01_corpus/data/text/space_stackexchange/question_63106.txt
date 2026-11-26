@@ -1,4 +1,0 @@
-How does SpaceX get through regulatory issues so quickly?
-"Regulatory" isn't the right word, but I don't know what is.
-For example, SpaceX seemed to be able to prove to NASA's satisfaction that they were sufficiently safe to use for crewed launches in 2020. The very little I know of SpaceX's processes and approaches suggest that they would not have aligned to NASA's systems engineering process very well, so how were they able to convince NASA they were ready for manned flight so quickly?
-I am especially looking for a process description here.

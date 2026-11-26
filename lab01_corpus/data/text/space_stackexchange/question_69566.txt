@@ -1,3 +1,0 @@
-At which altitude is B* neglectable?
-Obviously, B* is an arbitrary number only used as a crutch for orbital propagators, but I was wondering for which orbits is it useful or starting with which altitude it can be neglected? In terms of semi-major-axis or apo/peri apsis for example.
-Theoretically, it should be when the air density converges to 0, but are there any other hard limits?

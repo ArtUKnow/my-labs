@@ -1,2 +1,0 @@
-Measuring Oxygen Quantity
-How did the Apollo program measure Oxygen Quantity? The Command Module had a Pressure Gauge and a Quantity Guage for the oxygen bottles. Measuring pressure is simple, but I don't see how quantity is measured in a low gravity environment.

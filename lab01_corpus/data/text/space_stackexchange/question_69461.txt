@@ -1,8 +1,0 @@
-Has there ever been a plan for a 2nd mission to rescue a first non-crewed mission?
-New edit according to @uhoh 's advice:
-There have been efforts to recover uncrewed spacecraft using radio commands, but a 2nd mission with a new spacecraft... ever?
-Old:
-What specific assets or data on the lander (Odysseus) are deemed valuable enough to justify a rescue attempt? (e.g., Unique instrument readings, proprietary technology, samples, operational logs)
-Is the lander in a recoverable state? (e.g., Is it intact? Functional? Accessible? Powered? How much time is estimated before it becomes permanently inoperable due to cold or power loss?)
-Who are the key stakeholders involved in evaluating and potentially authorizing a rescue mission? (e.g., Intuitive Machines leadership, NASA (as customer/partner), investors, insurers, scientific community)
-What are the viable alternatives to a physical rescue mission? (e.g., Intensive remote troubleshooting attempts, focused data download efforts, writing off the lander)

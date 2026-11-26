@@ -1,2 +1,0 @@
-Sealing of hatches of Spacecraft capsule, LM and spacesuits
-Was there any "plan B" / solution, in case sealing of capsule hatch, LM hatch and spacesuit helmet failed during Apollo missions or any other spacecraft? How did NASA ensure a failproof sealing in all these cases?

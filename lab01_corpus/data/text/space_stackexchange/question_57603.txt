@@ -1,4 +1,0 @@
-Is it possible for a spacecraft to communicate with Earth when a planet is in the way?
-I have just read 2001: A Space Odyssey and despite the fact that the author was quite optimistic about the space exploration capabilities, communication between a spacecraft and Earth was not possible while a planet was obstructing the line of sight. So, a Non-line-of-sight signal propagation was not possible.
-I am trying to find out if there are any solutions (or at least promising ones) to solve such an issue and found about the neutrino-based communication. However it requires very large and expensive equipment.
-Is it possible for a spacecraft to communicate with Earth when a planet is in the way? Or at least are there any promising solutions to solve this?

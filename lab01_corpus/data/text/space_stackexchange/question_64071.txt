@@ -1,5 +1,0 @@
-What resources are available to turn into storable hypergolic on the Jovian moons
-I was thinking about whether a mission utilizing ISRU on a lander to refuel a transfer craft.
-However, I don't know how to figure out what materials are available in large quantity ON THE EQUATORIAL REGION of each moon.
-(The mission would explore each significant moon one after another over multiple years, to analyse surface details and phenomena.)
-I know about a lot of ISRU-able fuels, but I specifically want to figure out whether there are materials that could be easily to a set of either hypergolic or a decomposable monoprop.

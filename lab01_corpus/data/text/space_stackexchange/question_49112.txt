@@ -1,5 +1,0 @@
-What if a Space Shuttle entered the atmosphere of Venus?
-How would a U.S. Space Shuttle's atmospheric entry on Venus differ from reentry on Earth? Say there's a Space Shuttle in a low Venus orbit performing a (re-)entry burn. How would the following atmospheric entry and flight differ from the one on Earth, given the different composition and density of the Venerean atmosphere and the a bit lower gravity, as well as the acid rain? What impact would it have on the shuttle and, if something fails, on the crew?
-I wonder how the atmospheric entry and in-atmosphere flight would be different from that of Earth down to Venus' 1 atm level (which is ~33 miles above the surface)
-and how much lower into Venus' atmosphere a Space Shuttle could get before something fails and what would fail (first) and for what reason (extreme pressure/heat/weather?)
-Note: a similar question could be asked on Mars but since both planets have an almost entirely carbon dioxide atmosphere the only major difference would be in their gravities. Other than that, down to Venus' 0.006 atm level the entry would be about the same as if a shuttle entered Mars' atmosphere.

@@ -1,4 +1,0 @@
-Does the whole universe have a non-zero angular momentum?
-It is a really long time ago that I read about the whole universe possibly having a non-zero angular momentum. The argument went simply by graphing angular momentum against mass for objects in the universe, getting an approximate straight line and extrapolating it to the estimated mass of the whole universe.
-The source was an old issue (deep in the last millennium!) of "Bild der Wissenschaft", a German popular science magazine.
-P.S. I found this question to be similar to mine, but I am really curious about a non-zero angular momentum. A spinning universe clearly has a non-zero angular momentum, but a non-zero angular momentum does not require the whole universe to spin.

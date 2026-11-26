@@ -1,5 +1,0 @@
-What is the current status of ESA/Roscosmos cooperation with regard to the ExoMars Orbiter?
-The ExoMars is a cooperative project between ESA and Roscosmos. The second part of ExoMars, the Rosalind Franklin rover, is on hold as a result of the Russian invasion of Ukraine. However an earlier component, the Trace Gas Orbiter, has been orbiting Mars since 2016.
-Russia provided the launcher for the orbiter and was going to launch the rover later this year. It also developed two of the instruments on the orbiter (ACS and FREND). This document suggests that the mission is controlled by the ESA Science Operations Centre (SOC) in Madrid and the Mission Operations Centre (MOC) in Darmstadt.
-On the twenty eighth of February the ESA released a statement regarding cooperation with Russia as a result of the invasion of Ukraine but it doesn't mention any specifics about current, in-flight missions.
-How (if at all) has the invasion of Ukraine affected day-to-day operations of the Trace Gas Orbiter, and is Russia in receipt of data from the spacecraft?

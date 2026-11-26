@@ -1,5 +1,0 @@
-How to get GMAT to treat planets as solid objects (that satellites can't pass through)?
-I'm running a bunch of trajectories and want some way of stopping calculation on those that intersect the Earth at the time they intersect the Earth. Is there some way to get GMAT to treat Earth (and other celestial bodies) as solid?
-For scenarios where I only have a single propagate command, I see that I can add a stop condition to the propagation once a satellite gets within a certain radius of Earth's center. However, in other scenarios where I have multiple maneuver-then-propagate pairs combined, this approach wouldn't work because the subsequent maneuvers would still be performed.
-It would also be nice to specify some kind of effective atmospheric altitude where if the satellite passes lower than that altitude the calculation is stopped, same as if it had crashed into Earth.
-Again, I want the calculation to fully stop when a satellite collides with Earth, not simply screen out those calculations that collide with Earth; I still want the ephemerides from prior to the collision.

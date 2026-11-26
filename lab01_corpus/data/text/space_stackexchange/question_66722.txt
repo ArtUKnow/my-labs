@@ -1,3 +1,0 @@
-Are there any original heat shield tiles on any of the retired space shuttles that flew to space?
-By "original" I mean that they never needed to be replaced during the life of the vehicle. My reasoning is that if NASA had engineered the shuttle optimally, all the tiles would have been designed to fail at roughly the same time, despite their different locations around the vehicle. Then statistically, tile failures should have been fairly random. So, some (if not lots) of tiles could have gotten lucky and survived for many - possibly all - of the missions.
-(Atlantis, Endeavor, and Discovery only - not counting Buran.)

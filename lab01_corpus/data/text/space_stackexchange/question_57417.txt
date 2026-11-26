@@ -1,8 +1,0 @@
-How can I find the old reference orbit for JWST (from 2014) and get AltAz positions from Earth without learning Spice? Can Horizons do it? Can Python?
-In this ancient 2017 answer to What happens to JWST after it runs out of propellant? I've plotted an eleven year long reference orbit for JWST that was available form Horizons at the time.
-Now that the spacecraft has launched, Horizons accesses the latest and greatest real trajectory solutions based on tracking data and numerical fitting. But now it only goes for about a month since there will be trajectory correction maneuvers associated with halo orbit insertion.
-Is there some button I can push that will point the Horizons interface to the old reference orbit? That way, as I've done in this answer to Which direction/constellation is the James Webb is headed towards I can just click the RA/Dec and the Alt/Az boxes in the output dialogue and get the motion of JWST in the sky seen from Paris at Midnight (for no specific reason other than it would be cool to see).
-Alternatively, is there now a really nice Python interface that knows about ftp and spice kernels that can help me find that old reference trajectory and extract the RA/Dec and the Alt/Az values for a lat/lon position at fixed time steps?
-Question: How can I find the old reference orbit for JWST (from 2014) and get alt-az positions from Earth without learning Spice?
-Can Horizons do it?
-Can Python?

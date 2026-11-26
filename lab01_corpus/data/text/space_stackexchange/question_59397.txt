@@ -1,6 +1,0 @@
-I'm trying to create a trajectory to Mars for a low thrust ion thruster engine using astrogator
-I'm trying to create an optimize a trajectory to Mars for a number of low thrust high specific impulse engines.
-I am having trouble with the initial set up.
-I created a LEO exit spiral using a tutorial from the AGI.com website and used the Lambert solver to set up the main trajectory. I assumed that the propagate segment used for the exit maneuver could be up to a specific altitude where the spiral would meet the Lambert trajectory.
-The main problem I am having is setting up SNOPT for each of these maneuvers to optimize both for minimum fuel burn and, if possible, shortest travel time.
-The software I am using for this is STK Astrogator. I am looking for help with the setup (I missed this in the orginal question.)

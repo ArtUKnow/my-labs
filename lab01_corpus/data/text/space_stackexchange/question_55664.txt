@@ -1,5 +1,0 @@
-How to correct my real orbit and turn it into predicted ideal orbit?
-I want to launch my ship to the purple ellipse orbit. But because of non-ideal world I have non-ideal ship orientation and non-ideal thrust impulse. So, my initial speed is a bit bigger and it's direction has a tiny error. But it leads to huge error in the final destination (point of intersection of ellipses with circle).
-The purple ellipse is ideal orbit what I want to reach. The cyan ellipse is my real orbit.
-How to calculate correction impulse to turn my real orbit into ideal before spacecraft left the cian circle (which is my destination orbit that I should arrive in the given position where purple ellipse intersects with cyan circle)?
-I can measure my real velocity and position and calculate the needed velocity and position of ideal orbit at any moment. But I don't know how to turn one to another.

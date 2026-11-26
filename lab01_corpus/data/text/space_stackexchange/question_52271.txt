@@ -1,9 +1,0 @@
-Did the EU successfully ban hydrazine? What about French Guiana?
-Hobbes' answer to Is the EU really banning “toxic propellants” in 2020? How is that going to work? includes
-Yes, the EU is aiming to end the use of hydrazine by ~2020. This has been in motion since about 2011.
-ESA's strategy do deal with this consists of two parts:
-they're trying to get an exemption,
-they're working on alternatives, inviting industry to develop propulsion systems based on less toxic propellants.
-and
-As of 2019, the exemption is still being discussed.
-Question: This is now 2021 and change, how did it go? Did the EU successfully ban the use of hydrazine? If so, for launches in which locations? What about French Guiana? (or don't they count?)

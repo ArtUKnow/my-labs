@@ -1,6 +1,0 @@
-What on-site equipment is installed with radio telescopes?
-I hope this question isn't too broad.
-I'd like to know something about radio telescopes, precisely what equipment they have.
-When I search "radio telescope control room" in image search engine, I see a lot of electronic devices; I imagine they are all computers doing different things or that they are redundant.
-The ideal answer would be a list with a short description of each device or its function, or, in alternative, if it's allowed, some external resource with this kind of data, like a site or a book.
-Also, if it's possible a general answer, are people necessary in such a place? Or all those computers could be controlled remotely?

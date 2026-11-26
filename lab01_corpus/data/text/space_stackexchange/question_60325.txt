@@ -1,2 +1,0 @@
-Why are Moon Rockets (Saturn V, N1) so much bigger than the Titan IIIE?
-In what little knowledge of space and rockets I have, it seems to me that the further the object your aiming for, the more fuel you’ll need, and the bigger engines you’ll need. Having compared the height of the Atlas and the Saturn rockets, the Saturn rocket appears to be much taller (~48.8m and ~110.6m respectively), it doesn’t really make sense to me as to why the smaller rocket went further. Could someone explain how/why it works?

@@ -1,4 +1,0 @@
-Oberth Effect in Solar Sails: Where does the extra energy comes from?
-Suppose, the reflectors of Solar Sails are opened for same amount of time at both periapsis and apoapsis. How does Oberth effect work in this case? Will Delta-V be same and hence change in Kinetic energy higher at periapsis because of the velocity squared function?
-Or, to provide same delta-v, we need to open the reflectors for longer period at periapsis? In that case, I think the "extra" solar energy will be responsible for extra change in Kinetic energy.
-In case of conventional rockets with exhaust mass being ejected, I believe the higher change in Kinetic energy comes from higher change in Kinetic energy of the exhaust mass. (Correct me, if I am wrong).

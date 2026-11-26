@@ -1,4 +1,0 @@
-Size of sugar rocket to reach space (suborbital)
-How much propellant would an ideal single stage sugar rocket with dry mass of 1 kg need to reach the altitude of 100 km in a suborbital flight when launched straight up? Let us assume the specific impulse of its motor to be 120 s.
-In case more input is needed (rocket diameter etc.) please try to supply some sample numbers. Please also provide the calculation procedure.
-PS. Some people are actually trying to do this - they call it Sugar Shot to Space program (SS2S) - just not with "ideal" rocket.

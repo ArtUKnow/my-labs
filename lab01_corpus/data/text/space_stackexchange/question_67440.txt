@@ -1,5 +1,0 @@
-Ready-made tool for satellite maneuver detection
-I am looking for a tool to detect satellite maneuvers from TLE data. The tool should be easy-to- apply (not my field at all) to many satellites, i.e., not rely on visual inspection or similar.
-Shorten et al. (2024) (see below) provides a nice overview of methods. However, so far, I haven't found any of those authors providing the tools/programs they use online. Is this not commen in this literature? Given that I don't have strong familiarity with this subject matter, there is no big hope that I can replicate the methods in those papers myself.
-Thank you for any tips or ideas.
-D.P. Shorten, M. Humphries, J. Maclean et al., Optimal proposal particle filters for detecting anomalies and manoeuvres from two line element data, Acta Astronautica (2024) (also arXiv)

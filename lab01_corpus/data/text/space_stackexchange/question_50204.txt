@@ -1,3 +1,0 @@
-Trim controls for Apollo RCS systems?
-Did any of the Apollo-era spacecraft have any method of trimming the RCS jets? Due to variable mass placement (fuel tanks and sublimators emptying, astronauts moving, item stowage, location of moon rocks, etc) the center of gravity must have varied a little. Did the onboard computers compensate for any of this when firing the RCS thrusters?
-If not, what was the magnitude of cross-contamination, like rotations introduced due to trying to only translate. Is this why an attitude hold mode was commonly in effect?

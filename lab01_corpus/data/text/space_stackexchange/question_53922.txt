@@ -1,3 +1,0 @@
-What asteroids have the least delta-v to reach?
-I think the question needs very little clarification - specific asteroids and/or their asteroid orbit type would answer it. My own interest is in what would best suit targeting for asteroid mining on the basis of delta-v requirements to reach known objects with known orbits.
-Near Earth Objects and Earth orbit crossing ones would seem to be easier to reach - less delta-v - but I don't know it is actually the case: Atiras asteroids are inside Earth's orbit around the sun without crossing it, Atens are inside but do cross it, Apollos are outside and cross it and Amors are outside and don't.

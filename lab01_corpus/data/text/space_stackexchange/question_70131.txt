@@ -1,3 +1,0 @@
-SpaceX Starship LOX tank autogenous pressurization icing fixed on Raptor V3?
-During Tim Dodd's interview with Elon Musk in 2023, Musk stated that the autogenous pressurization of the LOX tank was achieved with a feed from the oxygen side turbopump introducing small amounts of steam and carbon dioxide into the tank as well. These subsequently froze causing a number of blockages in the plumbing for the Raptors and vents. This was fixed by adding screens and filters to prevent the ices from blocking or being ingested into the engines.
-The question is was this issue resolved on the new Raptor V3 or are they still using the oxygen turbopump feed and filtration?

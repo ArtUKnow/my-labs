@@ -1,8 +1,0 @@
-Exploring DNA-Based Hard Structures for Space Applications—Looking to learn more
-I recently had a fascinating conversation with a student about to graduate with a master's in microbiology. He shared that he’s lined up a job where he'll work on developing "hard structures" from DNA, including concepts like self-healing bridges. This conversation opened up possibilities that seemed almost like science fiction, such as bioships and structures for space environments that can repair themselves.
-While I found some preliminary research on using DNA as a building material, information seems sparse, especially regarding large-scale applications or space research. Here are a couple of resources I found that discuss the technology on a smaller scale:
-Making Structures with DNA “Building Blocks”
-https://wyss.harvard.edu/media-post/making-structures-with-dna-building-blocks/
-Recent Advances in the Use of DNA as a Building Material
-Does anyone know of research that is exploring the use of DNA for constructing large-scale structures, particularly for space applications?
-Thank you!

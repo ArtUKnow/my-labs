@@ -1,5 +1,0 @@
-What is the point of approximate Large Scale Structure simulation with neural networks?
-People use N-body simulations to compute Large Scale Structure (LSS). To use this method you need to make assumptions about the underlying physics, e.g. the parameters of the Universe expansion, the nature of dark matter and so on.
-On the other hand, there are approximate methods to simulate LSS, e.g. generative neural networks. They don't rely on physics and only imitate N-body simulation output.
-My question is: what are real-world examples of use of approximate methods for LSS simulation? I've googled and searched in articles but all examples seem a little vague to me.
-Could you please describe any physics task when we can make use of approximate simulations?

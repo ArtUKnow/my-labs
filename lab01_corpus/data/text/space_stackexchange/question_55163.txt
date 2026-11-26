@@ -1,5 +1,0 @@
-How to compute footprint(size) of beam of sat.system?
-I need to compute the footprint (ground area that its transponders offer coverage) of beam diameter. Given different frequencies, distance between a satellite and ground station.
-I have found the same calculation:
-it was presented by mynaric
-Could someone explain how the beam sizes were computed?

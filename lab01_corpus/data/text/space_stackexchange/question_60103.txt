@@ -1,8 +1,0 @@
-What limits are put on mission profiles by maximum tolerated G-force?
-NASA standards https://standards.nasa.gov/documents/viewdoc/3315785/3315785 includes this graph of maximum allowable G-force and duration:
-With some creative license, this curve could be extrapolated to:
-Science fiction concepts for high-G space exploration (rail guns, nuclear rockets) are limited by the envelope of this time-G force curve. It is all very well to propose Lunar surface launches or short duration, high acceleration travel within the solar system. But it would be interesting to know the limits imposed by high-G tolerance of the crew.
-Some carefully applied calculus should be able to integrate under the blue curve to give the limits of speed and distance attainable in a G-force limited mission.
-Using this data and assumptions,
-What is the minimum length of rail gun needed to launch humans to Lunar escape velocity?
-What is the minimum transit time from Earth to Europa orbital insertion?

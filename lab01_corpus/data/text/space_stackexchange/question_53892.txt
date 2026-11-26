@@ -1,7 +1,0 @@
-Journey to the center of the Sun (best trajectory)
-Let's assume there is unlimitedly rich eccentric person living nowadays, who has been just diagnosed with a kind of terminal cancer (estimates are 3 years left) and their last wish is to jump into a suitable capsule, which would be heading straight into the center of the Sun, watch the Sun as the spacecraft approaches (with suitable shield to give the best visual performance) and then terminally burn themselves together with the capsule whilst listening to the Voyager Golden Record, when the heat shield limit of the capsule is exceeded.
-Two aspects of the question:
-Main Q: What is the most spectacular, yet realistic, trajectory (it has to be aiming the very center of the Sun as much as practically possible)?
-With my limited knowledge of orbital mechanics, first a spacecraft would need to cancel Earth's speed around the Sun to reach zero speed (wrt the Sun), and then simply fall into the Sun. But I'm not sure the Earth wouldn't affect the "falling" trajectory exactly one year later, I.e. will the falling journey be quick enough in this scenario (remember, there are only 3 years left to build the rocket, spacecraft and actually fly)?
-Or are there better/more spectacular trajectories to fit within the given timeframe?
-Bonus Q: Is there hardware available nowadays to be capable of such a journey (at a chosen trajectory)?

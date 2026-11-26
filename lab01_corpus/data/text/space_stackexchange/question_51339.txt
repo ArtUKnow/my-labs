@@ -1,9 +1,0 @@
-How did the pilot lockout on Vostok 1 work?
-The entire mission would be controlled by either automatic systems or by ground control. This was because medical staff and spacecraft engineers were unsure how a human might react to weightlessness, and therefore it was decided to lock the pilot's manual controls. In an unusual move, a code to unlock the controls was placed in an onboard envelope, for Gagarin's use in case of emergency. Prior to the flight, Kamanin and others told Gagarin the code (1-2-5) anyway.
-Wikipedia
-How did this lockout work?
-Was the lockout mechanical, or electrical?
-Exactly which controls were disabled?
-Are there pictures of the lockout?
-Related: What was the globe instrument in Vostok 1?
-This is part of 6 questions honoring the 60th anniversary of Vostok 1, the first human spaceflight.

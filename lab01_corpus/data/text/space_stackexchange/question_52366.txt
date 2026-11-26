@@ -1,9 +1,0 @@
-In a 3D space defined by semimajor axis, eccentricity and inclination, what would be the shape of the space where SDP4 works better than SGP4?
-@BillGray's answer to Why can't custom-made TLEs for the DSCOVR launch booster in orbit around Earth work with SDP4? is quite interesting and informative; I fail to do it justice by summarizing it as saying that SDP4 is an improvement for orbits of 12 and 24 hours since it tries to address perturbative effects of the Sun and Moon's gravity on high Earth orbits, but doesn't work well for Earth orbits much higher (such as some discarded rocket bodies for missions to Lagrange points and deep space.
-Thus some of the discussed custom TLE's of very high orbits end up using SDP4 and some stick with SGP4 (via a flag in the TLE it seems).
-A TLE creator's gotta do what a TLE creator's gotta do.
-The following was also asked and somewhat answered by means of "read this" answers: How do SDP4's "Deep space" corrections to SGP4 account for the Sun's and Moon's gravity?
-But in a comment under @BillGray's answer to the DSCOVR booster question, I wrote:
-I'm surprised that SDP4's "deep space" math has the narrow range of applicability that it does. In a 3D space defined by $a, \epsilon, i$ I wonder what the shape of the space where SDP4 works better than SGP4 would look like.
-So I thought I would just ask that as a new question.
-Question: In a 3D space defined by semimajor axis, eccentricity and inclination $(a, \epsilon, i)$, what would be the shape of the space where SDP4 works better than SGP4?

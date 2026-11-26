@@ -1,4 +1,0 @@
-How much more does it cost to produce two identically designed probes/rovers/satellites compared to making only one?
-There are a number of historical planetary missions that have produced 2 flying instances. Examples include Voyager, Viking, MERS, some of the Mariners missions. Other missions have only one instance: Mars Observer, MRO, Magellan, Cassini and so on.
-What is the cost difference between producing a mission with one instance vs. a mission with two identical instances. I'm looking for specific citations to clarify and answer this point.
-This question presumes that the production of the second instance occurs at the same time as the first instance. That is to say in parallel, not produced at a later time.

@@ -1,8 +1,0 @@
-Has opalescence ever been observed on any solar system body besides Earth? Or at least from a sample from one?
-New method for exoplanet detection based on iridescence? in Astronomy SE asks about observations of exoplanets, but here I'm asking about our own solar system bodies.
-Question: Has opalescence ever been observed on any solar system body besides Earth? Or at least from a sample from one?
-Primarily I'm interested in opalescence observed in a spacecraft's data, but observations on Earth from objects from off-Earth (e.g. sample returns, meteorites) are also okay.
-Wikipedia's Opalescence begins:
-Opalescence refers to the optical phenomena displayed by the mineraloid gemstone opal (hydrated silicon dioxide). However, there are three notable types of opal (precious, common, and fire), each with different optical effects, so the intended meaning varies depending on context. The optical effects seen in various types of opal are a result of refraction (precious and fire) or reflection (common) due to the layering, spacing, and size of the myriad microscopic silicon dioxide spheres and included water (or air) in its physical structure. When the size and spacing of the silica spheres are relatively small, refracted blue-green colors are prevalent; when relatively larger, refracted yellow-orange-red colors are seen; and when larger yet, reflection yields a milky-hazy sheen.
-Companion question:
-Has iridescence ever been observed on any solar system body besides Earth? Or at least from a sample from one?

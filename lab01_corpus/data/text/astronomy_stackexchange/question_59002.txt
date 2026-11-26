@@ -1,7 +1,0 @@
-Is there a more precise method of describing/calculating the sphere of influence? If so, what is it?
-As far as I have found, the following equation is the one the vast majority of sources give as an approximate way to find the radius of the sphere of influence (SOI):
-$$
-r_{SOI} = r \left( \frac{m}{M} \right)^{\frac{2}{5}}
-$$
-where r is the distance between two bodies (with one body orbiting the other), m being the mass of the much less massive mass, and M being the mass of the much more massive mass.
-Question: Is there a more exact method to describe the sphere of influence?

@@ -1,6 +1,0 @@
-Can you Hoverslam without going vertical?
-Problem of the day, that pesky Starship Hoverslam.
-Imagining a crazy (childish) contest to see who could flip at the lowest altitude and brake to 0 rate of descent and land, it was (hilariously) imagined one could "cheat" by braking in the horizontal with "side rockets" then flipping and landing.
-Then, it was realized, could just the engines be gimballed 90 degrees for a horizontal landing. Yes, another would be needed in front.
-Conceptually, the design might be a bit like the Harrier, but could control pitch just like a Chinook helicopter, and enable one to make the aerodynamic fins smaller.
-Could this be practical?

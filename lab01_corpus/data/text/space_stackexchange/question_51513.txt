@@ -1,3 +1,0 @@
-Obtaining orbital parameters of a closed orbit given the characteristics of the arrival hyperbolic orbit
-According to this paper (page 8) by ESA, given the $v_{inf}$, the right-ascension and the declination of the arrival hyperbolic asymptote, it is possbile to find a loci of pericenters of different closed orbits (with varying inclination, argument of pericenter and RAAN) by varying the B-angle.
-I would like to know how to determine how the closed orbits' orbital parameters (in this case, the inclination, the argument of pericenter and the RAAN) change by varying the B-angle.

@@ -1,2 +1,0 @@
-Would a display built on the moon be visible during the new moon phase?
-Imagine we launch a bunch of pixels and land them on the moon. Say 64 x 64 pixels so 4096 total. Then, because the moon is so beautiful, we only light them up during the new moon phase. Would it be visible in the sky? Or does the new moon hang too low in the sky or for not long enough to be visible when lit up by the pixels? I know sometimes the moon isn't very high in the sky but is that the case with the new moon or is that a different part of the phase?

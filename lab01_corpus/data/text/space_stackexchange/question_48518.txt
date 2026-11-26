@@ -1,2 +1,0 @@
-Changes in Orbital Parameters Due to Drag
-Other than STK, are there any commercially software packages available to model changes in orbital parameters due to increases/decreases in satellite drag. I am trying to figure out if aerodynamic drag can be used in LEO for orbital maneuvering.

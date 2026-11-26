@@ -1,5 +1,0 @@
-Is this egg-shaped nose cone a good, aerodynamic design?
-So Jeff Bezos has recently travelled to space aboard an Amazon-funded rocket, which has an unusual, egg-shaped nose.
-However, just about every other rocket I've seen has more of a cone-shaped nose, coming to more of a point. Here's an example, the Saturn V rocket:
-I'd always assumed that the more straight-edged cone-shaped nose had been found to have the most favourable aerodynamics for a rocket to take flight.
-Has this assumption now been proven wrong and an egg-shape offers less air resistance? or is there some other reason for this choice of design?

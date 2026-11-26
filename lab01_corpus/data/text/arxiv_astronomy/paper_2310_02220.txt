@@ -1,2 +1,0 @@
-The orbital period of the nova V1674 Her as observed with TESS
-Nova Her 2021 was observed with TESS 12.62 days after its most recent outburst in June 12.537 2021. This cataclysmic variable belongs to the intermediate polar class, with an spin period of $\sim$501 s and orbital period of 0.1529 days. During TESS observations of Sector 40, the orbital period of 0.1529(1) days is detected significantly 17 days after the onset of the outburst. A modulation, of unknown origin, with a period of $\sim$0.537 days is present in the data from day 13 until day 17.

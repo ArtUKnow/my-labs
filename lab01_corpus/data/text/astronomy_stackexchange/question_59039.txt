@@ -1,7 +1,0 @@
-Understanding a pulsar's period based on optical data
-I'm an amateur wikipedia-article-jumper interested in astronomy and wanted to design a little electronic board as a badge for a few similar-minded friends. I chose a few pulsars to show them on a badge using tiny LEDs which would shine and dim, as much as possible similar to real pulsars. Having a period alone was enough but I wanted to add details and make the rise and fall time quite close to real ones. I started with the well-known, resource abundant Vela and crab pulsars.
-While just knowing the period seemed quite easy, when I checked their light curves, I got lost. For example on the Vela pulsar page I found this:
-Which has 2 optical peaks in a period and the Gamma ray flux curve also has some peaks which don't seem very periodical to me.
-And then for the Crab pulsar, I found this:
-Is it 2 pulses, or the pulses can be defined from 2 or more peaks? if it's 2 pulses, they why they differ greatly in brightness?
-Apologies for my basic understanding.

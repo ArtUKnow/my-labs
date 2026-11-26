@@ -1,9 +1,0 @@
-Could SpaceX Super Heavy (Starship) Booster reach Earth orbit without starship on top?
-I'm thinking about orbital fuel tanks for low earth orbit, and even Mars orbit in the event fuel farms on Mars take longer to build than anticipated.
-That said, Can SpaceX put a nosecone on its Super Heavy Booster instead of a Starship on the booster?
-Some Thoughts:
-An entire Booster in orbit could make a great orbital storage unit because its larger than Starship.
-It doesn't need heat shields or grid fins because it won't re-enter the atmosphere.
-It will probably need some raptor vacuum engines, but is there enough room?
-If a booster can be used as a space fuel tank, can it be moved to Mars' or Moon's orbit for future return missions?
-Or does it make more sense to make a slightly larger Starship with no heat shields, flaps and only vacuum raptor engines.

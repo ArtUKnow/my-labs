@@ -1,3 +1,0 @@
-Trying to understand OIII emissions: Why is Hund's Rule violated?
-Amateur astrophotographer here. I've been researching like crazy to understand OIII emissions. I "get" the forbidden lines and all. What I don't understand is why electrons can go into the 1D2 as well as the 3P2 state. Though I've read Hund's rule does not always apply to excited atoms, it seems it often does. Using that rule it seems to me they should go to the 3P2 state all the time. Yet they will sometimes go to 1D2. Why is that? Could it have to do with the Zeeman effect?
-Thanks for your insight.

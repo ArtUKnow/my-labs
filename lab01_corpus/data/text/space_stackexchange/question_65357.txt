@@ -1,6 +1,0 @@
-Is it possible to use the Starlink laser mesh network for science? What kind?
-In the news there was an article about Starlink beaming 42 million GB of Data per day. Also it states that the lasers form a global mesh network of 9000+ lasers. There are 260.000 acquisistions per day. Connections can stay on for weeks at a time and the lowest connection before breakup was ca 30km, 100.000 ft.
-Brashears also said Starlink’s laser system was able to connect two satellites over 5,400 kilometers (3,355 miles) apart. The link was so long “it cut down through the atmosphere, all the way down to 30 kilometers above the surface of the Earth,” he said, before the connection broke.
-I derive that link quality is constantly measured and can be used to get some pretty usefull science from the network.
-On earth, fiber optics can measure the awakening of cicades, trains, seismic events, etc.
-I am not a scientist. So I am asking what kind of science can or is already being done with this system? And what kind of knowledge might be derived from that science?

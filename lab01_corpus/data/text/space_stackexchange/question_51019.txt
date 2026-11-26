@@ -1,4 +1,0 @@
-Falcon 9 Max Q on reentry?
-Max Q for a Falcon 9 is on the order of 30-40 kPa during launch.
-What would the number be on descent?
-Do they allow for greater dynamic pressures in that portion of the flight? Or is the rocket still controlled for a max Q on the order of 30-40 kPa?

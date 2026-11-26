@@ -1,2 +1,0 @@
-SN1987A bounds on neutrino quantum decoherence
-We obtain stringent bounds on neutrino quantum decoherence from the analysis of SN1987A data. We show that for the decoherence model considered here, which allows for neutrino-loss along the trajectory, the bounds are many orders of magnitude stronger than the ones that can be obtained from the analysis of data from reactor neutrino oscillation experiments or neutrino telescopes.

@@ -1,5 +1,0 @@
-Does the Sun reflect light?
-I've seen this question in the prose of Pelevin, where it's only used to evoke thoughts. However, it's interesting to approach the question from a scientific point of view.
-My first though would be that all stars are considered "Black body" when we do temperature calculations, thus it should absorb any light, leaving nothing to reflection.
-However, the blackness of stars is merely assumed to simplify the calculation. In reality, if we "turn off" the light of the Sun, I'm sure it should look like a Jupiter - a dense gas body with very distinct surface. It should reflect something, like a normal gas giant.
-Have there any been experiments attempting to measure the spectrum of the reflected light from the Sun, excluding long radio waves? Maybe the Sun reflects other stars? Could we potentially generate a light pulse strong enough to detect the reflection?

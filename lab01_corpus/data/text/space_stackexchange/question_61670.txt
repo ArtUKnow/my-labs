@@ -1,3 +1,0 @@
-Could rotating detonation engines help create a successful single stage to orbit vehicle?
-I noticed NASA's demonstration engine uses an aerospike engine nozzle which is great for single stage to orbit (SSTO) attempts due to its ability to be optimized for both vacuum and sea level conditions.
-Although this was likely not its purpose, I am curious if this type of higher efficiency engine could help make SSTO a reality. Is this true, or are there other drawbacks such as scalability and thrust to weight that could hold it back?

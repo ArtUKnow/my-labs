@@ -1,2 +1,0 @@
-Properties of accretion disc models in the background with quadrupoles
-We consider a static and axially symmetric metric containing two quadrupole parameters. In the present contribution, we study the quadrupole moments constraints on the properties of the relativistic accretion disc models, also explore the relation of oscillatory frequencies of charged particles to the frequencies of the twin high-frequency quasi-periodic oscillations observed in some microquasars. We also compare the results with Schwarzschild and Kerr metrics.

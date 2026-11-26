@@ -1,6 +1,0 @@
-Is the Moon really oscillating around its orbit as seen from Earth?
-While simulating today's eclipse, I see something I have never noticed or learnt:
-Stellarium shows an oscillation of the Moon's trajectory around its orbit as seen from Earth.
-Is it real or a Stellarium glitch (I doubt, knowing its quality/accuracy)?
-If real, what is the mechanical cause?
-Thank you.

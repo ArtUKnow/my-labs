@@ -1,5 +1,0 @@
-Why does the Psyche Spacecraft use cold gas thrusters?
-In a recent article on SpaceNews they write
-[There exist] nitrogen cold-gas thrusters that orient the spacecraft.
-This seems like an odd choice for me, considering it is a multi year mission that will presumably change attitude a lot when inspecting the Psyche asteroid or testing its laser communication system.
-Why was this approach chosen over a hypergolic thruster system for attitude control that would probably run out later, giving the spacecraft a longer operational lifespan, especially since it seems that many missions end because attitude control fuel runs out, like Dawn.

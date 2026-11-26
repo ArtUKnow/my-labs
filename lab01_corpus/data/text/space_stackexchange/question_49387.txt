@@ -1,5 +1,0 @@
-Calculating the length of a launch window?
-May somebody guide me what exactly determines the length of a launch window? When doing the (basic) celestrial mechanics caclulations for e.g. a transit from Earth to Venus, one usually assumes point-like planets, which would give more exact times when to start from Earth to reach Venus via a Hohmann transfer orbit, but what about the allowed variance around that time?
-Related
-Are "launch-on-minute" or other discrete launch times protocols currently the norm for wide launch windows?
-Launch windows for Venus transit; how to convert heliocentric longitudes to date? (Astronomy SE)

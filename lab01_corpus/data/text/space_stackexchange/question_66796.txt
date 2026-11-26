@@ -1,3 +1,0 @@
-How much time would an astronaut experience accelerating to .9999x the speed of light at an acceleration of 1G from the astronauts perspective?
-So if the astronaut is experiencing a constant 1g acceleration, how much time would pass for them before an outside observer would measure their speed at .9999C?
-I saw this question and noticed that an astronaut experiences acceleration a little differently than an observer due to relativistic effects. How much would that alter overall acceleration from an observer, as well as affect the difference in time the astronaut experiences during the acceleration?

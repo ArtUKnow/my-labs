@@ -1,7 +1,0 @@
-If Pluto never comes close enough to the sun to melt the nitrogen ice, why does sublimation occurs?
-Based on this answer, it is concluded that Pluto never receives sufficient amount of sunlight to melt nitrogen ice. Yet, sublimation pits is observed across Sputnik Planitia. From here:
-These are likely to be sublimation pits, depressions in the surface when ice turned directly into a gas from sunlight. They probably start very small and grow over time as the Sun shines down on them.
-There is some explanation on how sublimation happens in below article:
-Morison, A., Labrosse, S. & Choblet, G. Sublimation-driven convection in Sputnik Planitia on Pluto. Nature 600, 419–423 (2021). https://doi.org/10.1038/s41586-021-04095-w
-https://arstechnica.com/science/2021/12/a-sublime-landscape-new-model-explains-plutos-lumpy-plains/
-But I don't understand why sublimation occur in the first place but not melting.

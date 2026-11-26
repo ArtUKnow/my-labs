@@ -1,5 +1,0 @@
-What options for providing breathable air to the crew during a first human mission to Mars are under consideration?
-While researching Price per kg of cargo delivery to ISS and reading a comment from @DavidHammen, it became apparent that high Technical Readiness Level (TRL) technologies for recycling $\text{CO}_2$ back into breathable oxygen are not yet very efficient.
-If we assume NASA-level safety culture, and, therefore, lots of backup plans to mitigate against failures, what are the best options for supplying the crew with oxygen during their first manned missions to Mars, and which option(s) will NASA most likely move forward with?
-(Note 1: Also considered in scope: What are other space agencies' points of view on this?)
-(Note 2: There is a related question (about ISRU for O2) asked back in 2017: Sources for make-up breathable oxygen on Mars; of H₂O, CO₂ and ClO₄⁻, which is likely to be used first? - this question, its answers, and comments are worth a read.)

@@ -1,9 +1,0 @@
-Why might Ingenuity be able to fly faster when it flies higher?
-A 2022 March 15 NASA press release says:
-A recent software change already on the rotorcraft frees Ingenuity from its previously programmed maximum altitude of 50 feet (15 meters). The altitude gains could result in incremental increases in both air speed and range.
-Why would flying higher increase airspeed?
-Air density, temperature, and composition hardly differ over the range of heights Ingenuity could theoretically reach in its brief flights.
-Winds aloft might be faster, but NASA says this is airspeed, not ground speed.
-Being farther from terrain doesn't affect how fast visual features progress past the navigation camera.
-Maybe because the navigation camera can see more terrain and thus more large visual features, for a flight where small details don't help navigation?
-Maybe for flights over rougher terrain, such as what's planned for the next few flights?

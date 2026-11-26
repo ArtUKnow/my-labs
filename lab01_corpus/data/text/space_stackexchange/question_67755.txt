@@ -1,9 +1,0 @@
-What are the use cases and challenges for a cubesat that would take pictures of other satellites?
-I am currently working with a university team in designing a cubesat. I would like to propose to the team that we design a satellite that is able to take pictures of other satellites orbiting nearby. I am scouring the internet for some answers to determine if this has potential and would like to ask for more informed perspectives on feasibility.
-Currently I am researching questions such as:
-(Note, I am not asking you to answer these, just take these as context.)
-How is a dead satellites physical orientation (ie what face of the satellite is making the most contact with the earths atmosphere) determined?
-What past missions were truly successful in taking photos of a satellite, what was the purpose of the mission?
-Can one use IR cameras to get more information such as how much fuel is left onboard the dead satellite?
-Why is this not useful? What are some options in getting the footage (fast camera, tracking, etc)?
-Instead, if there are other issues or questions I should be addressing now, please help by pointing them out.

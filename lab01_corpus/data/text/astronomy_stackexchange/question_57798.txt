@@ -1,5 +1,0 @@
-Vera C. Rubin's LSST's ginormous camera's shutter; why does it open/close 1000 times a night & is this typical for large-format survey telescopes?
-CNET's April 23, 2024 World's Largest Camera, the 3.2-Gigapixel LSST, Is Complete says after about 02:19
-That shutter is actually so big it had to be broken down into two pieces just to fit inside the camera. Now it takes just 0.9 seconds for the shutter to either open or close and it's going to do that a thousand times every night.
-Question: Why does Very C. Rubin's [LSST]'s ginormous camera have a shutter, why does it open and close a thousand times a night, and is this typical for large-format survey telescopes?
-cued at 02:19

@@ -1,2 +1,0 @@
-Why do methane engines require burn-off igniters?
-When I was watching the flight readiness test firing of the Vulcan’s BE-4 engines, I noticed that there were igniters similar to the ROFI igniters seen on liquid hydrogen rockets. Why do methane rocket engines require these igniters too?

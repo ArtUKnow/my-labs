@@ -1,5 +1,0 @@
-What is SpaceX doing differently with Starship to avoid it exploding like the N1?
-Both Starship and the N1 have more than 30 rocket engines. The N1 exploded after having a chain reaction from a failed engine.
-N1 rocket engines:
-Starship’s rocket engines:
-Unlike the N1, SpaceX has done multiple static fire tests with Starship to make sure it doesn’t explode. What else is SpaceX doing to ensure the same incident does not happen again?

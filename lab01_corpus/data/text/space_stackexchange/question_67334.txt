@@ -1,2 +1,0 @@
-Is g₀ a necessary term in Tsiolkovsky's Rocket Equation?
-I learned Tsiolkovsky's Rocket Equation and have been thinking about its gravity constant. Is it necessary to include such a constant in the equation in regions of deep space, where Earth's gravitational influence has been escaped? I've visited many websites, but I wasn't able to reach a conclusion.

@@ -1,5 +1,0 @@
-Are there publicly available ephemerides for any Moon-orbiting satellites?
-I am currently working on expanding an orbital propagator to cover satellites that do not orbit Earth. For starters, I am trying to expand it to Moon-orbiting satellites. I have managed to reconstruct the Moon gravitational field from the GRGM1200L model, and converted the resulting accelerations from Moon Principal Axes frame into ICRF.
-In order to test if my implementation is accurate, I would like to propagate the position of a Moon-orbiting satellite using the gravity field resulting from using Stokes' coefficients of different degrees. If the implementation is correct, the error should become smaller as I increase the maximum degree of the employed Stokes' coefficients.
-However, in order to do so, I would need some trustable ephemerides of a Moon orbiting satellite to compare to.
-So my question is, are there any ephemerides for any Moon-orbiting satellite publicly available?

@@ -1,5 +1,0 @@
-Non-parallel Spaceplane staging?
-The NZ/Netherlands aerospace company Dawn Aerospace is developing it's research scale vehicle, the Mk II:
-https://www.dawnaerospace.com/spacelaunch
-They haven't detailed their staging system for the second stage yet, but it made me wonder: What forms of Spaceplane second-stage staging configs have been considered.
-Please include examples if possible.

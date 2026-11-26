@@ -1,8 +1,0 @@
-What Mars science research would be impeded by the presence of humans on Mars surface?
-What Mars science research would be impeded by the presence of humans on Mars surface?
-The NASA InSight Mars Lander had seismometers sensitive enough to pick up vibrations caused by dust devils in the tenuous winds. Human activity would have produced seismic artifacts.
-InSight’s “mole” probe penetrated the surface 0.5m (of a design target depth 5.0 m). The mission is Category IVa (not investigating life) so the spacecraft is “allowed” to have 300,000 viable bacterial spores on its surface. Spores are the hardiest dormant form of bacteria in terms of resisting extremes of heat, UV and desiccation. They are formed by the organisms which cause Botulism, Gangrene, Tetanus and Anthrax. It is possible that InSight introduced spores into the warm(er), moist(er), low(er) UV subsoil where they could germinate and reproduce.
-InSight could have been sterilized to a higher standard. A crewed lander could not.
-It would be impossible to prevent further biologic contamination if humans occupy the surface of Mars.
-Since the presence of humans interferes with some scientific investigations, shouldn’t we list these sensitive investigations and ensure they are performed robotically before introducing Humans?
-Kind of like cataloguing Australian life before introducing dingoes and rabbits. Mars isn’t going anywhere.

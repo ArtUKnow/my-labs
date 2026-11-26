@@ -1,5 +1,0 @@
-Are there payloads that went to orbit without a protective fairing?
-Reading about the Ultralight Starshade Structural Design,
-It seems some solution among others could be an umbrella based concept
-Since the starshade has to be roughly 100m in diameter, one could imagine an umbrella like structure, whose 50m single piece ribs are folded against the cylindrical body of the launch vehicle (like an umbrella) during launch up to orbit.
-Are there examples of unprotected or partially unprotected payloads that went to orbit, what is a rough picture of the stresses on the lauch vehicle's skin during ascent?

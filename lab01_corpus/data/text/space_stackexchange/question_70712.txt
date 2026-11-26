@@ -1,7 +1,0 @@
-How is bismuth vapor condensation managed in high-power vacuum arc thrusters (VAT) to prevent short-circuiting magnetic coils?
-In a conceptual Nuclear Electric Propulsion (NEP) design utilizing a Bismuth Vacuum Arc Thruster (VAT) with electromagnetic focusing, bismuth is vaporized/ionized and accelerated out of the nozzle.
-Because bismuth is solid at room temperature and dense (unlike Xenon), there is a potential issue with bismuth vapor expanding and re-condensing on cold surrounding structures, such as the magnetic focusing coils or spacecraft surfaces.
-Power input: ~150 kW to thruster
-Propellant: Bismuth (solid rods fed into arc)
-Question:
-What thermal management strategies or nozzle geometry techniques are standardly used in metallic plasma thrusters (or Vacuum Arc Thrusters) to prevent conductive metal condensation on magnetic coils and optics? Is heat-tracing the nozzle walls sufficient to keep bismuth in vapor/plasma form until exit?

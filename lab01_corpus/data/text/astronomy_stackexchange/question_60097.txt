@@ -1,7 +1,0 @@
-Conformal time derivatives in early universe
-In Dodleson & Schmidt, 2/e, Eq 7.80 says:
-$$\Theta' + ik\mu\Theta = -\phi' - ik\mu\Psi - \tau'[\Theta_0 - \Theta + \mu u_b - \frac{1}{2}P_2(\mu) \Pi]$$
-where the derivatives are w.r.t. to conformal time $\eta$, and $\Theta$ is the temperature variations, and $\phi$ is the gravitational potential.
-Then, in early universe (during inflation), they go on to say that $\Theta'$ is of the order $\frac{\Theta}{\eta}$, while the second term is of the order $k\Theta$. Thus, the first term is larger than the second by a factor $\frac{1}{k\eta}$, which is much greater than 1.
-My question is why is the first term, i.e., $\Theta'$ be of the order $\frac{\Theta}{\eta}$ during inflation?
-Independent of the wavelength of the perturbation, on what basis do we assume that these perturbations vary very fast (or slow)?

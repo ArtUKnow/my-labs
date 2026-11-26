@@ -1,6 +1,0 @@
-Are the (relatively) new "all electric" satellite buses like the Boeing 702SP really all-electric? Are RCS and momentum unloading done with ions?
-This answer to Can ion Thrusters be used for Reaction Control System? got me thinking about the new "all-electric" class of commercial satellite buses.
-Question: Are the (relatively) new "all electric" satellite buses like the Boeing 702SP really all-electric? Are RCS and momentum unloading done with ions or with traditional reaction masses like hydrazine reaction products or cold gas? Actually, using ion propulsion for orbit-raising and station-keeping, do they even need a reaction control system or RCS?
-I see that the Boeing 702SP uses Xenon ion thrusters for several things, but I can't find anything about attitude and momentum unloading.
-From eoPortal's All-electric propulsion and multi-satellite launch system for communication satellites:
-What makes this flight especially interesting is that the satellites are based on Boeing's 702SP series program and were the first all-electric propulsion satellites when Boeing introduced it in 2012. The satellites have no chemical thrusters. They will maneuver to their intended GEO (Geostationary Orbit) entirely using a xenon-based electric thruster propulsion system known as XIPS (Xenon-Ion Propulsion System).

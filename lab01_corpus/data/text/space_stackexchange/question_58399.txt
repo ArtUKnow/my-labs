@@ -1,2 +1,0 @@
-What is the reliability of the Merlin engine?
-I know that Merlin is extremely reliable, at least over 99%. I do know of one time when one failed, on Falcon 9's fourth launch. SpaceX had used hundreds, if not thousands, of them. I assume there is enough data to make a reasonable reliability estimate. What would that be?

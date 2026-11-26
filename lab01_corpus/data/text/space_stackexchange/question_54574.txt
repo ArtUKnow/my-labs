@@ -1,9 +1,0 @@
-Perseverance's First Borehole looks like its particles of sand stuck together by something; composition of this material and source of adhesion?
-Resampled and sharpened detail from PIA24796: WATSON Image of Perseverance's First Borehole
-This is reminiscent of a day at the beach digging a hole in wet sand. The walls remain standing as long as the sand stays wet. Water is sticky by nature and SiO2 (and other minerals) are hydrophilic.
-But I think Mars' surface is in general quite dry, especially where a microbe-encrusted spacecraft would be sampling (hat tip to planetary protection) so I'm surprised at the "sticky sand" appearance of this hole's sidewall.
-Question: Perseverance's First Borehole looks like its particles of sand stuck together by something; what is the composition of this material and what is the source of its adhesion?
-Source: PIA24796: WATSON Image of Perseverance's First Borehole
-Original Caption Released with Image:
-This composite image of the first borehole drilled by NASA's Perseverance rover on Mars was generated using multiple images taken by the rover's WATSON (Wide Angle Topographic Sensor for Operations and eNgineering) imager. The borehole is 1.06 inches (2.7 centimeters) in diameter.
-A subsystem of the SHERLOC (Scanning Habitable Environments with Raman & Luminescence for Organics & Chemicals) instrument, WATSON can document the structure and texture within a drilled target, and its data can be used to derive depth measurements. The image was taken on the mission's 165th Martian day, or sol, at night in order to reduce self-shadowing within the borehole that can occur during daylight imaging. Some of WATSON's white LEDs illuminated the borehole.

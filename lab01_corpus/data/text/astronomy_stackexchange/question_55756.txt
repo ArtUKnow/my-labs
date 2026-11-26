@@ -1,6 +1,0 @@
-What is the meaning or information given by the solar image at 4500Å?
-On the latest solar images from NASA, there is one picture lablled "continuum 4500 Å". There are bands diagonally in the picture as well.
-What is the significance and meaning of this image?
-(There are several strange features show there.)
-Related but unhelpful question:
-Meaning of "blue continuum spectrum"?

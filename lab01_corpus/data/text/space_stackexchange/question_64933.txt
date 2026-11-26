@@ -1,5 +1,0 @@
-Have there been any Spacewalks to free-flying satellites?
-Talks of a new Hubble servicing mission have made me curious:
-Has a spacewalk between a crewed craft and a free-flying satellite ever occurred?
-As far as I am aware, the Shuttle visited satellites and repaired/recovered them on multiple occasions; however, these were always accompanied with the robotic arm (RMS) first capturing the satellite target and then bringing it into the payload bay before the astronauts visited it.
-Bonus question: I'm assuming that this hasn't been done, but have NASA (or any other space agency) ever considered this?

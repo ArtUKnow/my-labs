@@ -1,4 +1,0 @@
-Space shuttle Initial ADI frame Before Switch to LVLH?
-The space shuttle crew switched the ADI frame to LVLH as soon as the roll maneuver was completed.
-They waited for that time because the LVLH frame is in mathematical gimbal lock (singularity) when pitch is +- 90 deg.
-But what frame was selected in the ADI before the LVLH switch?

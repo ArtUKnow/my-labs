@@ -1,6 +1,0 @@
-Why wasn't there a 2nd attempt for the Viking-DS (VDS) test payload before the real Viking 1 and 2 were launched?
-Per Gunter's Space Page for Viking-DS (VDS):
-Viking-DS or VDS (Viking Dynamic Simulator) was a vehicle evaluation payload, which was to represent the dynamic properties of the Viking spacecraft.
-It was to be launched to a near-GEO orbit during the maiden flight of the Titan-3E Centaur-D1T launch vehicle, without being deployed from the Centaur stage. The only purpose was to determine the flight loads to which the real Viking probes would be subjected. On top of the VDS the SPHINX satellite was mounted to be deployed into a GTO orbit.
-Due to failure of the Centaur stage to ignite, the payloads did not achieve orbit.
-Question: It seemed like a good idea at the time, why was this important test ultimately skipped and no second attempt made?

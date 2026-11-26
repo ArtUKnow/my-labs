@@ -1,2 +1,0 @@
-What is the maximum thrust of the Starlink satellites?
-As in the title, what is the maximum thrust (in N) that the satellites of the Starlink constellation can achieve? I read that they use Hall-effect thrusters, but I couldn't find a specification of the maximum thrusting force.

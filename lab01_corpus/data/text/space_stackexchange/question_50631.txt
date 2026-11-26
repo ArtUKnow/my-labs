@@ -1,8 +1,0 @@
-How much does smallsat launch to LEO cost?
-In early 2021, SpaceX, Rocket Lab, and Virgin Orbit list prices as follows:
-Launcher Price Capacity Price/kg
-SpaceX F9 rideshare $1M 200kg $5k
-Rocket Lab Electron $6M 300kg $20k
-Virgin Orbit LauncherOne $12M 500kg $24k
-However, in a slide from their investor presentation, aspiring "space tug"/"orbital transfer vehicle" provider Momentus suggests dedicated launchers like Rocket Lab or Virgin Orbit charge >\$70k/kg:
-How much does launch really cost? I imagine the pricing in the table is a "best case scenario" assuming 100% utilization of launcher capacity, but the gap between \$70k and even \$24k is enormous.

@@ -1,8 +1,0 @@
-Could this three-thruster spherical spacecraft de-tumble itself with zero final velocity?
-@Joshua's answer to What is the minimum number of RCS thrusters capable of stabilizing a satellite against an arbitrary rotation? begins:
-I know this question is old, but I randomly discovered a solution requiring only three thrusters on one thruster block that works if we don't mind introducing small transverse velocities.
-The question is quite interesting and as yet I don't think there's a proof that two thrusters could not do it.
-@Joshua's representation is shown below.
-Question: Assuming a spherical cow spacecraft has a block of three thrusters at a point on its surface, all pointing tangent to the surface spaced at 90 degrees, the object is "at rest" in some frame, and assuming plenty of delta-v available, could they:
-indeed de-tumble any arbitrary initial spin state (as long as it's not spinning too fast)
-achieve both zero spin and zero velocity in the frame in which it was initially at rest? If so, how?

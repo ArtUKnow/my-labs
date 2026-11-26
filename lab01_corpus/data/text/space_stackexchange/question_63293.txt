@@ -1,5 +1,0 @@
-What would be the least expensive technological solution (considering all costs) to put on Lagrange Point 1 to affect global warming?
-For example, I did read about an exploding asteroid at Lagrange Point 1 to block some of the Sun's light. Just two degrees change in Earth's overall temperature can trigger an Ice Ages.
-There was a development relevant to this question:
-"Scientists led by Yoram Rozen, a physics professor and the director of the Asher Space Research Institute at Technion-Israel Institute of Technology, say they are ready to build a prototype shade to show that the idea will work.
-Prototype shade of 100 square feet at the cost of $ \$10-\$20$ million." nytimes.com

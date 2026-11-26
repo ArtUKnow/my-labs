@@ -1,7 +1,0 @@
-How do we derive the sun's declination using right ascension?
-It appears that there are 2 formulas to derive the sun's declination.
-One is: $declination \approx 23.5 \times sin(\alpha)$ from the answer here
-and another which is similar $\delta=−23.45°×cos(\frac{360}{365} \times(d+10)) $ from here
-where $\alpha$ is the right ascension (measured from the March equinox) and d is the number of days since the start of the year.
-How exactly are these derived and how are they equivanent?
-I understand that the sun's movement across the ecliptic and look like a sin function but I want to understand how trigonometrically we find the relations above

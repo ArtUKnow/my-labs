@@ -1,7 +1,0 @@
-Are solar sail spirals logarithmic? Can this be shown analytically or by dimensional analysis alone?
-There are several questions and answers here about spiraling towards or away from the Sun using solar sails tilted by roughly 45 degrees to convert the sunlight's incoming radial momentum into tangential thrust.
-There's talk that these spirals may be close to logarithmic spirals depending on the specific assumptions.
-Question:
-Are solar sail spirals logarithmic in nature or at least close to it?
-Can this be shown analytically?
-Can this be shown by dimensional analysis alone?

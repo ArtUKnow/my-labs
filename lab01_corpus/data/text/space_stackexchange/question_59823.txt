@@ -1,3 +1,0 @@
-What is the Criteria of Technology Readiness Level 9?
-On NASA website it says to get TRL 9 the technology must be flight proven, now, to be "flight proven" is there any specific criteria for that? like a defined amount of time of functioning, radiation, altitude, etc.?
-Or is it once the technology (let's say a PCB) is in space then that is it, it is certified as space-qualified?

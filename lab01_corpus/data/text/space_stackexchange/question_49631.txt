@@ -1,6 +1,0 @@
-How long to flip over stage 1 of Falcon 9?
-Curious how fast stage 1 flips over.
-180 degrees is a lot of turning.
-At a rate of 5 deg/s, it would take 36 seconds to flip. This seems very long for the maneuver.
-A more modest duration of 10 s would mean a turning rate of 18 deg/s. This seems very fast for the maneuver.
-Maybe somewhere in between?

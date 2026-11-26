@@ -1,4 +1,0 @@
-How is gaseous fuel injected in Raptor engine's combustion chamber?
-If liquid fuel and oxdizer is injected in a rocket combustion chamber, the mixture will be moving relatively slow before reaching the nozzle, preventing the flame front from escaping outside the engine.
-But if the fuel and oxidizer come from gas generators, they should be injected at high speeds since they are lighter, so they should be at a temperature higher than the self-ignition point, have some kind of catalyst or a very high flame front speed to keep the flame inside.
-How does the combustion chamber in a full-flow staged combustion engine manage to keep the combustion inside it?

@@ -1,9 +1,0 @@
-Re-entry prediction of 62850 / NVS-02 / 2025-020A
-TLE
-1 62850U 25020A 25036.65376246 .00025030 82136-6 80338-3 0 9996
-2 62850 20.7850 80.0264 7405951 183.1633 165.8208 2.16609156 175
-Is there a place to find accurate perigee and apogee per orbit of this satellite that doesn't involve predicted models?
-While using that data, can someone run SGP4 or similar to get re-entry date?
-(I'd like to run Grok, but do not have reliable data. Each website is a model which contradicts itself)
-Thank you
-Sim

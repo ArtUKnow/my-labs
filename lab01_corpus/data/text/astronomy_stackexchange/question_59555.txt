@@ -1,4 +1,0 @@
-Plotting Astropy .velocity output
-I am trying to plot velocity vs distance and I want to use the first value of the vel column that contains (27.6688482, -107.85711868, -3.54249031). I got this data by running the code DR3B['vel'] = eq_coord.velocity. I don't know how to code a plot to pull out that specific piece. This is the code line I was using
-plt.scatter(DR3B['distance'], DR3B['vel first data in column'], color='blue', label='Estimated Velocity')
-I'll fix the plot after, but I'm trying to figure out the most elegant way to get that piece of data. I'm using Astropy in python Jupyter notebook.

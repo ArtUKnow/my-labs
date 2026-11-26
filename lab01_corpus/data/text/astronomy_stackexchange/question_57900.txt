@@ -1,4 +1,0 @@
-What's the density of Proxima Centauri's photosphere?
-Proxima Centauri is a red dwarf much denser (33X on average) than the sun. Yet I'm not finding anything about Proxima Centauri's photosphere. The Sun's photosphere is only 0.2 g/m3 (1/10,000th of sea level air. So I'm wondering about Proxima Centauri's photosphere. Is it a vacuum like the sun's photosphere? Or is it dense? I'm wondering in comparison to sea level air in g/m3. The star should be near enough for us to determine that.
-https://en.wikipedia.org/wiki/Proxima_Centauri ;
-https://en.wikipedia.org/wiki/Sun

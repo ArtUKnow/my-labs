@@ -1,4 +1,0 @@
-Sustained acceleration with fluid filled lungs
-If an astronaut were sedated and suspended in a solution that they are neutrally buoyant in, and their lungs are filled with oxygenated perfluorocarbon (whether by being in a tank full, weighed down to neutral buoyancy, or pumped via tube), then laid horizontally, what G-forces would be survivable for ~0.22 years consistently? Ignore nutrients, dangers of extended sedation/comas, etc.
-This is different than Maximum survivable long term g-forces because it covers a specific case of fluid suspension, particularly fluid filled lungs, that the other post does not cover. The other post is about a human in normal atmospheric conditions, I read the entire thing before making this post.
-This is part of research for a science fiction novel.

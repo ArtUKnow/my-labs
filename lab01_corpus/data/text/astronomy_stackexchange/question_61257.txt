@@ -1,5 +1,0 @@
-How exactly does a Roman sundial work?
-The Romans divided the day into 12 hours varying in length with the time of year and latitude, temporal hours. They used sundials like this one.
-It looks like the construction of their sundial is like this: A block of stone has a semi-hemisphere carved out of it. The gnomon is placed horizontally north to south. The interior of the hemisphere is marked with twelve equal sections. As the sun moves from east to west, the shadow moves and marks the hour.
-I am unclear if the hours produced by this clock will be equal to one another on any given day. I would think that the angle of the shadow, which is dependent on the azimuth and altitude of the sun, would not move uniformly with the hour angle of the sun. For all I know refraction might have an effect. I don't have the formulas to work this out.
-Can anyone work out the formula for the angle of the gnomon's shadow around the hemisphere, and determine if it does indeed move around the hemisphere at an even pace?

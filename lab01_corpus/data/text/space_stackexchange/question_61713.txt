@@ -1,3 +1,0 @@
-How to maintain balance and center of gravity when pushing a 100-ton piece of asteroid?
-I understand that rotating momentum around a fixed axis can help with the center of balance. But is it enough?
-In my case, a space tug has to burn its engine for 1 min, accelerate a 100-ton piece of asteroid, and then disconnect from it. There will be no chance for trajectory corrections during orbit transfer from NEO asteroid to the Earth's atmospheric entry. Would this precise trajectory change be even possible when applied to the irregular shape of an asteroid rock?

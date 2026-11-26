@@ -1,0 +1,21 @@
+
+============================================================
+Лабораторная 8. Булев поиск
+============================================================
+
+Выполняем настоящий поиск по готовому полному индексу.
+Запрос: dark matter
+Показываем первые 5 результатов.
+
+query: dark matter -> 8439 documents
+0	Higgs inflation from new Kähler potential	https://repo.scoap3.org/records/633
+3	Charged lepton mixing via heavy sterile neutrinos	https://repo.scoap3.org/records/637
+19	Two component Higgs-portal dark matter	https://repo.scoap3.org/records/662
+20	Checking flavour models at neutrino facilities	https://repo.scoap3.org/records/665
+21	The muon collider as a H/A factory	https://repo.scoap3.org/records/666
+
+Веб-интерфейс: ./run.sh web
+
+------------------------------------------------------------
+Статус: ГОТОВО
+Время демонстрации: 0.107 с

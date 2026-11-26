@@ -1,2 +1,0 @@
-Is it possible angular velocity of reaction wheels become 100 deg/s or not?
-Is it possible angular velocity of reaction wheels become 100 deg/s or not? I simulate the satellite with two reaction wheels, and I get the below figure for the angular velocity of the reaction wheels:

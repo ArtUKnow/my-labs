@@ -1,9 +1,0 @@
-Why are the four launch opportunities within each Inspiration4 launch window "about an hour apart"?
-In the SpaceX Inspiration4 Launch broadcast at about T-01:31:05 (91 minutes before launch) the process for selection of launch windows for the mission is roughly outlined:
-So the procedure for picking the launch window is actually a little bit different.
-We reserved a couple of days -- a couple of twenty four hour days for the mission, but had to wait until L minus five, or five days before the first launch day that was selected to narrow it down to twelve hours. And then after that, we waited until L minus three to select the five hour window that we have today.
-And then we have four opportunities in each of those launch windows about an hour apart, to lift off.
-So it's a very unique case; so we really just knew just three days ago what the T zero in the launch window would be.
-Question: Why are the four launch opportunities within each Inspiration4 launch window "about an hour apart"?
-I don't know if it's relevant or not, but the orbital period of the final altitude of 575 km is about 96 minutes. I don't think it is relevant since there's no rendez-vous involved in this mission, but there could be an anti-rendez-vous; something at that altitude worth avoiding for example.
-SpaceX Inspiration 4 Launch broadcast cued at about T-01:31:05 (91 minutes before launch) where the term "L minus five" is used:

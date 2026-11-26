@@ -1,7 +1,0 @@
-Does a fully loaded Starship really have a thrust to weight ratio less than 1 at sea level?
-If Superheavy fails during launch (or even fails to launch in an unsafe way) the Starship itself might well be able to just light its engines and fly a suitable suborbital trajectory
-https://space.stackexchange.com/a/46080/36625
-Starship with a full payload weighs 1450 tons. (1200 tons fuel + 100 tons dry mass + 150 tons payload). It has a maximum thrust of 1500 tons.
-That maximum cannot come at sea level, because neither the Raptor Vacuum nor the normal version is optimized for sea level. The latter has a vacuum ISP of 350 seconds, versus sea level ISP of 327 seconds, or just 93%. And I do not know the sea level performance of the former.
-Even if we assume that all the engines were normal Raptors, we still get a sea level thrust of 1401 tons, or less than the weight. Obviously it's much worse for the Vacuum version.
-Am I correct?

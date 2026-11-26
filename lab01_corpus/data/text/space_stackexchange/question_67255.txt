@@ -1,9 +1,0 @@
-Am I actually escaping Earth?
-I am writing a hard-SF story where a spacecraft gets into an highly elliptical earth orbit, having its perigee at 400km but its apogee at 32 000 km (to get close to the asteroid Apophis when it arrives).
-However when using this website to see what would be its speed at perigee, I found 44 km/s (160 000 km/h) which is way more than earth escape velocity at this same altitude (10,8 km/s according to my spreadsheet : sqrt(2 * Earth-mu / (earth radius + 400 000m), I did double check the units).
-It seemed to make sense, until I thought about GEO satellites : how can they reach their altitude (~= 37 000 km) if it puts them on an escape trajectory ?
-This led me to a dilemma I could not solve by myself. Either :
-My maths are correct, and GEO satellites use some other way (more progressive elevation,...) to get to their point without escaping earth (and my fictional spacecraft will have to do the same)
-OR
-I (or the calculator!) messed up somewhere in the maths and my fictional spacecraft is not escaping at all
-although I might have read half of the forum to ensure realism in my story (big thanks to all contributors for that btw), this is my first post here so don't hesistate to ask for any clarification. Thanks for your answers !

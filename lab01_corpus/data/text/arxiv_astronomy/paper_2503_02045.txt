@@ -1,2 +1,0 @@
-Photon Interval Statistics Measure Rapid Variability
-Modern X-ray and gamma-ray observatories time-tag detected photons. The distribution of intervals between successive photons may reveal variations of the flux on time scales too short for direct flux measurement of the mean count rate, provided a sufficient number of photons have been detected cumulatively. We demonstrate this with synthetic data and apply to RXTE data from Cyg X-1.

@@ -1,6 +1,0 @@
-In Search of Thermal HRSI Tile Location on Elevons
-I am hoping that someone still has access to the database or has tile diagrams that could help locate the exact spot of the following tiles:
-V070-193009-434
-V070-193013-346
-All I know is that they are from the elevons. Any help (including orbiter name) is greatly appreciated!
-Thanks!

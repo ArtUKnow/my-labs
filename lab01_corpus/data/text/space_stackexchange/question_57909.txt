@@ -1,9 +1,0 @@
-How can I find the x, y position of apogee and perigee, if I only have the value of distance vector (position) and velocity vector?
-I am currently working on a 2D space simulator where I have two bodies; one is still and other is an orbiting object, which I can also control like a rocket.
-I'm using the Newton's gravity: $F = \dfrac{G m_1 m_2}{r^2}$, and I want to calculate the trajectory of that moving object.
-Is this even possible?
-I think that if I calculate the $x, y$ position of the apogee and perigee it will be easy to determine an ellipse, and then show the path. Or is there any other good approach?
-I have the distance $r$ from $m_1$ to $m_2$, the velocity vector of $m_2$, and the positions of $m_1$ to $m_2$. I also have the masses and $G$.
-How can I calculate the elliptical trajectory of $m_2$ around $m_1$?
-note: assume that $m_2$ is a rocket that I can also change its velocity.
-It would be really really helpful if any one helped me to solve this problem; please tell me if I have explained my problem clearly or not.

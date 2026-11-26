@@ -1,6 +1,0 @@
-Was DART meant to impact dead center?
-According to eyes on the solar system, Dimorphos is tidally locked to Didymos.
-If DART impact direction is perfectly aligned with Dimorphos center of mass, all of the momentum transfers into orbital period shortening, and none of it into disturbing Dimorphos' rotation rate.
-As SE - stop firing the good guys correctly pointed out, even if rotation is not changed by impact at first, orbital period is, and it will change rotation rate ultimately.
-Was DART planned to hit dead center the most accurately so that most energy slows Dimorphos without changing at first its rotation rate?
-Or was a ratio of impact energy dedicated to create a bigger rotational perturbation, by purposefully missing the center of mass' bullseye?

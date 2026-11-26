@@ -1,4 +1,0 @@
-Why would Starship flight 3's Indian Ocean re-entry zone "maximize public safety" versus the Pacific Ocean re-entry zone?
-Per SpaceX, Starship test 3's landing zone for the orbiter is now in the Indian Ocean (rather than off of Hawaii):
-[Starship] will also fly a new trajectory, with Starship targeted to splashdown in the Indian Ocean. This new flight path enables us to attempt new techniques like in-space engine burns while maximizing public safety.
-What safety difference is produced by the trajectory change? Is there any publicly-available source that expands on what hazards were averted / risks were reduced by this change?

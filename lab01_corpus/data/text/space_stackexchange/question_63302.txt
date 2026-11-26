@@ -1,4 +1,0 @@
-How can Starship belly flop with a full payload?
-Starship had an empty weight of under 100 tons. Of this, less than 12 tons is accounted for by the engines. Starship is supposed to be able to make atmospheric entry with a 150 ton payload in the nose. Wouldn't this shift the CG way forward and make belly flopping impossible?
-How much di the main tanks weigh? How much do the header tanks and their contents weight? How much does the payload bay weigh?
-Where are the center of gravity and center of pressure of Starship anyway?

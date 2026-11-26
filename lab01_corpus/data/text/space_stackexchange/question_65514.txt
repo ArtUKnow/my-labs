@@ -1,3 +1,0 @@
-Why did MR-3 and MR-4 perform a retrofire?
-Mercury-Redstone 3 and 4 were suborbital spaceflights and would have re-entered anyway. Yet, the spacescraft made a retrofire burn after apogee. Was it to adjust the path to land at a specified spot in the Atlantic ocean? Or would the capsule fall too fast otherwise and heat up too much for the heat shield to be bearable? Or a mix of both?
-A similar question about the Falcon 9 first stage

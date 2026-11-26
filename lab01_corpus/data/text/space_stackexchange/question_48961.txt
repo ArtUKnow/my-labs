@@ -1,2 +1,0 @@
-Why can't we use the same tank to hold fuel for both the RCS Thrusters and the Main engine for a deep-space mission?
-Basically, I just want to know that why we design different tanks for storing the main engine fuel and the RCS thrusters fuel. If we are using the same fuel for both the main engine and RCS thrusters (for example N2O4/MMH) then wouldn't it be structurally feasible to design a single tank for holding both fuels.

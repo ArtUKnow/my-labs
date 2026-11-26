@@ -1,4 +1,0 @@
-How could a Dyson Swarm be detected?
-My understanding is that a completed Dyson Sphere would be detectable because we would see a star that seemed to produce only infra-red light, and much less than would be expected from an object of that size.
-But this doesn't really work for a Dyson Swarm. We would still see the full spectrum in the gaps between the billions of satellites. Further, it would be challenging to parse out any signal in the occlusions each satellite would make because there would be so many; they would blend in with the star's natural variability. Or perhaps the satellites aren't even satellites, but rather statites and the occlusions never change.
-Am I wrong? Or is there something else we would look for to determine if someone built a Dyson Swarm around a particular star?

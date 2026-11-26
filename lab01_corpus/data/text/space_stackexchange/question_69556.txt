@@ -1,2 +1,0 @@
-Struggling to simulate orbital geometry for a constellation of sun-synchronous satellites
-I'm very new to simulating satellite propagation - my research is in atmospheric science but I need simulate a constellation of sun-synchronous satellites for observational research. I have been told the satellites (64 in total) have a LTDN of 13:00 - how do I use this information to actually model the propagation?

@@ -1,8 +1,0 @@
-Does Krypton or Xenon produce more thrust in a Hall-effect thruster?
-I am trying to figure out if Xenon or Krypton produces more thrust for a given weight flow rate of fuel when the engine operates at the same discharge voltages. The information I find is mixed or I am not interpreting it right.
-Some concrete info: Krypton has lower atomic mass and higher ionization potential/energy.
-Here they indicate that the lower atomic mass could potentially produce a 25% increase in specific impulse due to the increased propellant exit velocity of lighter ions.
-There are 2 stackexchange articles that are related to this: here and here.
-They indicate that the higher velocity of Krypton (at a given acceleration potential) means higher Isp, but lower overall thrust and/or energy efficiency. (I guess because you need more power to ionize Krypton).
-Does this then mean that while Krypton needs more power to operate, it achieves higher specific impulse because the electrons will have higher velocity when ionized? But then why is the overall thrust for Krypton lower?
-Wouldn't the above mean that for the same flow rate of fuel, at the same discharge voltage, Krypton produces more thrust?

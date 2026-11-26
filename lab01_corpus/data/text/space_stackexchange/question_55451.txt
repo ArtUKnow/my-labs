@@ -1,9 +1,0 @@
-What will Taiwan's NSPO put in orbit around the Moon in 2025? How will it get there? What will it do?
-The Taipei Times article NSPO head eyeing 80% autonomy of satellite industry says:
-Following the six-satellite Formosat-7/COSMIC-2 constellation’s launch in 2019, weather observation satellite Triton is scheduled to be launched next year, Wu told a news conference in Taipei to mark the agency’s 30th anniversary.
-Meanwhile, the agency is working on the Formosat-8 project, which would comprise six remote-sensing satellites with a resolution of 0.7m each, Wu said, adding that its first satellite is set to be launched in 2023.
-Gunter's space page Formosat-8 says:
-Some of the satellites will carry a secondary payload. FORMOSAT-8B will carry a Gamma-ray Transients Monitor (GTM), which will be developed by the National Tsing Hua University.
-Per http://www.astr.nthu.edu.tw/p/406-1336-187542,r3541.php?Lang=en:
-GTM was also selected for feasibility study to fly on board a lunar-orbit spacecraft of NSPO, planned to launch in 2025.
-Question: What will Taiwan's NSPO put in orbit around the Moon in 2025? How will it get there? What will it do?

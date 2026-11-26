@@ -1,6 +1,0 @@
-How does Voyager 1's plot of velocity vs distance look?
-Wikipedia contains a beautiful graph of Voyager 2 velocity-vs-distance:
-In 2015 spaceSE answerer made a plot for New Horizons
-But I can't seem to find any such graphs for Voyager 1 or other spacecrafts on escape trajectory
-How do they look like?
-(I'm interested in it because I also can't find whether Saturn fly-by slowed down Voyager 1 or not)

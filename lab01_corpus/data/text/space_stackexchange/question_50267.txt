@@ -1,2 +1,0 @@
-Why are Hubble's magnetorquers angled?
-Watching a video on how Hubble attitude control works I saw one portion on magnetorquers. It has four for redundancy but they are angled in a way that looks awkward from a packaging viewpoint, so what is the purpose for the way they are installed? I understand they need to be orthogonal, but there seem to be easier ways to do that than this.

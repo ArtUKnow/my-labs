@@ -1,4 +1,0 @@
-Given our current level of a technology, how far could we send a signal that we could detect?
-I'm interested in both what we can do with things we've already built as well as things we could build (including with serious, but not insane amounts of funding).
-This would be a deliberate signal sent in a specific direction and actively received from a specific direction (like you don't have to measure the whole sky, just one spot).
-What technologies would we use?

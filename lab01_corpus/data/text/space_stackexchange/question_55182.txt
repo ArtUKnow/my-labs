@@ -1,7 +1,0 @@
-How "big" is a 2 megawatt preburner?
-Reaction Engines recently announced a milestone completion in their SABRE development program:
-we have tested the engine’s advanced hydrogen pre-burner at energy
-delivery levels in excess of two megawatts and proved output
-temperature uniformity under pressurised conditions
-2MW sounds like a lot, and is enough to power a large village, but is around a tenth of the power of an SSME. The heat from this is used to drive both the air compressor and the hydrogen pump in something vaguely similar to an expander cycle type set up.
-Which engines had a comparable level of pre-burner (or gas generator) power?

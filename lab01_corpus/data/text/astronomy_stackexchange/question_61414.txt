@@ -1,2 +1,0 @@
-Can ambient radiation stabilize a star contracting on thermal timescale?
-A pre-main sequence (PMS) star is in in hydrostatic equilibrium but slowly contracts on thermal (Kelvin-Helmholtz) timescale because it radiates energy. Would it be possible to stabilize the star by embedding it in a waste reservoir of blackbody radiation with sufficient temperature (something like CMB but much hotter)?

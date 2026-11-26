@@ -1,3 +1,0 @@
-Are JWST displayed temperatures equilibrated to stable?
-The JWST vehicle temperature displayed on the Where is Webb site seem to have stabilised. They have not noted a change in several days. Is the current temperature, the stable equilibrated values with little or no future changes to be anticipated or are there more steps to attaining the "stable" configuration.
-I seem to recollect that lower values (closer to absolute zero) were mentioned for the final temperature on the cold side a while ago but I have no reference that I can recollect.

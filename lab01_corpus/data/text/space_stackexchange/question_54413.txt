@@ -1,9 +1,0 @@
-What are the contingency plans for lost ISS attitude control?
-Apparently the Russians had a mishap with their new ISS module. The module fired its thrusters after docking and caused attitude control loss
-The Russian "Nauka" module linked to the space station at 8:30 am CT (13:30 UTC), local time in Houston, where NASA's Mission Control is based. After that, Russian cosmonauts aboard the station began preparing to open the hatches leading to Nauka, but at 11:34 am Houston time, Nauka unexpectedly started to fire its movement thrusters.
-What caught my eye was this
-By late Thursday afternoon, when NASA officials held a teleconference to brief reporters, the situation appeared to be well in hand. Officials, however, declined to say how serious the situation got in Mission Control before the station returned to its proper attitude.
-"Until you exhaust all your contingency plans, you're not really starting to worry," said NASA's space station program manager, Joel Montalbano. "And we didn't do that today."
-Plan A was to fire other thrusters to counter the bad firing.
-This tug-of-war offset the Nauka module thruster activity, which eventually stopped after fuel supplies were exhausted. By 12:29 pm on Thursday, attitude control was restored. It made for quite an hour on the ground and in space.
-What are the other contingencies?

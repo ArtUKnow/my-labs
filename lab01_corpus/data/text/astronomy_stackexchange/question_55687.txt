@@ -1,7 +1,0 @@
-Why does a Decision Tree produce lines in photometric redshift predictions?
-In this paper, the authors compare the speed and accuracy of various machine learning algorithms to produce photometric redshift estimates:
-Why does the DT regressor put the estimates into bands along the True z axis? The only thing I can find in the paper referencing this is
-While the Decision Tree (DT) might be excluded due to the estimates being
-put into bands at set redshifts, its errors were still found to be quite
-low and it outperformed both the Linear Regression (LR) and MLP
-algorithms.

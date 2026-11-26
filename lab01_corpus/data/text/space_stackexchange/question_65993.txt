@@ -1,5 +1,0 @@
-How exactly would nuclear thermal or nuclear electric propulsion enable short duration human missions to Mars?
-Today (May 1, 2024) NASA Administrator Bill Nelson testified before the House Science, Space, and Technology Committee that nuclear thermal propulsion would enable us to go faster to Mars. He said:
-If we can go fast, we don't have to stay on the surface for, on the first time, second time, a year or two, until the planets realign. ... we could go for a short visit.
-My question is, how exactly does the more advanced propulsion enable a short visit? Ideally, I'd like to understand this in terms of a chart that shows mission duration versus some metric of the propulsion system's performance, such as its total delta-v or ISP. Also, is there a propulsion improvement threshold above which a whole new (and faster) approach to the mission becomes possible?
-Update: The January 24, 2024 Braintruffle video Master the Complexity of Spaceflight provides some interesting background on the complexities of spaceflight.

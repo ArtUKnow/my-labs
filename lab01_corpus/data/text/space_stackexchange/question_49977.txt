@@ -1,6 +1,0 @@
-Was space shuttle position corrected for before orbital insertion?
-The space shuttle derived its attitude and state vector primarily from its integrating accelerometers and rate gyros.
-Data from the accelerometers and rate gyros came in at a low rate (0.25-0.5 Hz, or once every 2-4 seconds). After a state vector refresh, a state propagation algorithm integrated the equations of motion at a higher rate (12.5-25 Hz) to obtain current estimates of the state vector. These were used by guidance and flight control subsystems.
-The data refresh at the beginning of each cycle corrected for integration errors that would tend to accumulate in the state vector... but while the data refresh provided velocity and attitude data directly from the IMU, it did not provide position data, so the integration errors in the position vector would grow uncorrected cycle after cycle.
-I've read that ground control would periodically uplink a new state vector, which would seem to fix the growing position error.
-But how often did they uplink those data? Did they do it during launch before orbital insertion? And where did the uplinked data come from---GPS? Radar? Other?

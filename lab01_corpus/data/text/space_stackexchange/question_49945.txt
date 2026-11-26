@@ -1,7 +1,0 @@
-SpaceX Starship: Could they use the Vacuum engines during landing in case of other engine failure?
-With the recent test (and RUD due to single engine relight failure) of SN-9, Musk has stated that what they should've done was light all three raptor engines simultaneously then turn one off so as to ensure they have the two engines needed for landing.
-(Source)
-The finished Starship will (probably) have 3 Raptor sea level engines and 3 Raptor vacuum engines.
-I was thinking about the scenario where 2 of 3 sea level engines fail reignition. Could one relight the vacuum engines as an emergency backup protocol, or would that make things worse?
-My thinking is, any engine optimised for vacuum will have severe flow instabilities at sea level owing to the overexpanded nozzle. This could result in unexpected and uncontrollable thrust vectors, which is exactly what you don't want while attempting a landing.
-On the other hand, if only 1 of the 3 engines required for landing are working, the ship is likely doomed, as well as everything on board, so one might as well try everything possible to save it.

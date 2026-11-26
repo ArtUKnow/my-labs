@@ -1,4 +1,0 @@
-What is the propellant consumption rate for Soyuz?
-At what rate does a Soyuz propulsion system (KDTU-80) consume it's propellants?
-I am interested in the mass consumption rate of both the main engine (e.g. an s5.80) and a single DPO thruster.
-Please specify if its the total propellant mass being consumed, or just that of the fuel or oxidizer (the ratios are readily available, but not the mass flow rate).

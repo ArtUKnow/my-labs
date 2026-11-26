@@ -1,5 +1,0 @@
-What happens if the inner door of a depressurised airlock fails?
-What are the consequences of the INNER door of a spaceship airlock system suddenly failing (for whatever reason) when the airlock itself is depressurised? (The ship itself is in space/vacuum and not earthside)
-Would the outer door provide some protection from the main effects of air meets vacuum, or would there be knock-on effects , such as turbulence that could potentially destroy the outer door/hull as well - leaving the ship completely open to the vacuum of space...
-EDIT
-Is there anything else besides the volume air displacement and changes in temperature that need to be taken into account? Is there some turbulence/structural damage component I need to take into consideration if there was a sudden breach between the air in the space ship and the "internal" pocket of vacuum.

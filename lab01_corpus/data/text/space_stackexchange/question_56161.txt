@@ -1,6 +1,0 @@
-Osculating oscillations! What makes Akatsuki's eccentricity and inclination about Venus vary periodically?
-Watching this animated GIF of Akatsuky's orbit I noticed that it seems to "walk" around Venus.
-Some orbital elements oscillate ~3-4 times a year, others drift and then slowly "step up to a new level".
-According to NASA's Venus Data Sheet the planet's $J_2$ is about 250 times smaller than that of Earth, and this is not a low orbit.
-Question: Why do Ataksuki's osculating eccentricity and inclination oscillate? Why do the Longitude of Ascending Node $\Omega$ and the Argument of Perifocus $\omega$ drift and step?
-plotting script: https://pastebin.com/GFn0dmuq

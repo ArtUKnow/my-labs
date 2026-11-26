@@ -1,6 +1,0 @@
-Ingenuity Test Stand and Stroboscopic lightning
-The paper on Ingenuity talks about the test setup of ingenuity
-Associated metrology in the form of a force/torque sensor, a Vicon motion tracking system, stroboscopic lighting, a thermal camera, and temperature sensor monitors were developed to support operation in the chamber. The helicopter and test stand were instrumented with monitoring accelerometers and thermocouples. An infrared camera provided another means for monitoring the helicopter’s performance.
-[emphasis mine]
-I understand the stroboscopic lightning as the type of closed loop lightning system that would make the rotor appear still.
-Why would such a system be required? Why would one want to see the rotor as still?

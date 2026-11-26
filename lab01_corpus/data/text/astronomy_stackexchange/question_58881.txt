@@ -1,8 +1,0 @@
-Time taken to achieve tidal locking in prograde vs retrograde motion
-Assuming all other parameters (like orbital period, distance from central mass, angular velocity of spinning on axis etc.) remain unchanged, how would the following systems rank in ascending order of time taken to achieve tidal locking?
-prograde orbit + prograde spin
-prograde orbit + retrograde spin
-retrograde orbit + prograde spin
-retrograde orbit + retrograde spin
-Clarifications: To ease complexity central mass can be assumed to be not spinning at all so that in all above scenarios 'spin' always refers to axial-rotation of the orbiting celestial body (like moon)
-UPDATE: (My bad) as correctly pointed out by @sno , the definitions of Prograde & Retrogade orbit itself is based upon the spinning of central mass. Hence the above struck-through Clarification is incorrect+redundant

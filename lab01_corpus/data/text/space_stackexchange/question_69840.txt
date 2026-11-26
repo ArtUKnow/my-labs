@@ -1,5 +1,0 @@
-What is the origin of diagonal stripes in SDO's images of the Sun?
-I noticed that the images from SDO HMI, particularly continuum intensitygrams, have some diagonal curved stripes across the whole solar disk.
-Here's one such image:
-I tried getting a bunch of FITS images of the hmi.ic_nolimbdark_720s_nrt series (i.e. continuum intensity with limb darkening removed) over 24 days with 12h intervals and computed a median of them to get the following result after enhancing contrast:
-So apparently it's not a feature of the solar surface, there's some unevenness at the sensing level. But what causes it? From what I've read, HMI seems to take picture at once, it doesn't scan the scene along these stripes. Is it simply a non-uniform sensitivity of the sensor, or maybe some unusual feature of HMI's optics? Or is it an artifact of some initial processing?

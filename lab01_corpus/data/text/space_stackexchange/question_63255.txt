@@ -1,5 +1,0 @@
-Data on satellites and/or space junk
-I am hoping to develop a program capable of predicting when a satellite will fly through the path of a telescope observation. The aim is to make it possible to block or mitigate the light from the satellite while it flies though the observation path.
-However, while I know that the US DOD tracks satellites and space junk and I assume other agencies do so to. I don't know how to go about getting access to this data.
-If you know which agencies are tracking satellites, where I can find data, or someone who might be willing to help me get access I would be very grateful for any help.
-Thanks, pioneer.

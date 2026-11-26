@@ -1,6 +1,0 @@
-Design and optimization of a Sun-synchronous repeating ground track orbit constellation
-I am currently researching about this topic and am very new to this.
-Have no clue how to go about designing a group of imaging satellites (constellation) that are sun synchronous with repeating ground tracks in low earth orbit (figuring the number of satellites, planes, etc.) that:
-1-maximizes regional coverage (for example be able to continuously cover at least 70% of a target location e.g. country)
-2-minimizes number of planes to reduce launch costs (optimization step)
-I don't have access to STK so I need to figure out the right orbital mechanics equations and then code them in MATLAB. As of now I only have generated the altitudes and inclinations combinations for sun synchronous low earth orbits. So I can use these combinations as inputs for getting other constellation parameters like number of satellites, planes, etc. and then choose the right combination that generates maximum coverage of the region (1) and further optimize it (2). I have read many papers but they are mostly confusing to me because I don't have the background, so I would really appreciate any advice and assistance. I have been stuck on this for quite a while.

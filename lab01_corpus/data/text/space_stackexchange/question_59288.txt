@@ -1,8 +1,0 @@
-Reaction control system testing
-How are RCS (reaction control systems) for Launch vehicles usually tested?
-After going through some literatures, I came across two different testing schemes,
-Leans more towards testing the Cold gas thrusters. It includes measuring the thrust value of thrusters, valve delays and response times, etc. (Ares RCS testing etc. are examples). But the control algorithm (or the bang bang controller parameters) are not tested. Most of the ARES RoCS documents mention this sort of testing.
-In a few youtube videos, (such as Copenhagen suborbitals, BPS.space etc.) the test set up itself rotates as a result of each firing, which emulates the actual rolling of the rockets. But they are calling it an RCS demonstrator. Here also, control algorithm is not tested.
-Copenhagen RCS demonstrator
-I would love to know how RCS is usually tested? Do they go for a rotating set up or is it just the ground test for verifying the thrust and valve characteristics?
-Also, I found a few documents on RCS HIL tests. Hardware-in-the-Loop Simulation for the Reaction Control System Using PWM-Based Limit Cycle Analysis

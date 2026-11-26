@@ -1,9 +1,0 @@
-Why is NASA proposing an EMEJ (MEGA) trajectory for Europa Clipper instead of EEJ?
-A launch service request was recently put out for Europa Clipper to do a flyby of Mars on its way to Jupiter. How is that a better trajectory than an EEJ, similar to Juno?
-Launch Vehicle Performance: The launch vehicle shall deliver a minimum
-6065 kg Europa Clipper spacecraft (SC) with Mars-Earth-Gravity-Assist
-(MEGA) trajectory characteristics as follows: C3 value of
-41.69km2/sec2 and a DLA range of 30-32 degrees.
-Launch Period: Europa Clipper will be launched during a 21-day launch
-period beginning October 10, 2024 and ending on October 30, 2024.
-It seems like the presentation was in a Europa Clipper presentation. The trajectory seems to be as follows.

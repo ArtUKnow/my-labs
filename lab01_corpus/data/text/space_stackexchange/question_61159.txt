@@ -1,5 +1,0 @@
-Equivalents to DISCOS from other agencies
-I'm working on a research paper where the primary data source is going to be the DISCOSweb API.
-This API/Dataset provides a wealth of information on manmade object in orbit (debris, payloads, spent stages etc.) as well as launches, launch-vehicles, etc.
-However, I'd really like to have other data-sources to cross-validate this set against. I'm primarily interested in databases that contain information about manmade objects in orbit, ideally those that are comprehensive.
-Are there any other roughly equivalent data-sets maintained by other agencies?

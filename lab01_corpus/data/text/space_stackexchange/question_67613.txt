@@ -1,6 +1,0 @@
-Could space tourism ever offer total solar eclipse viewings by traveling near the tip of the Moon's umbra as it's projected into space near Earth?
-Since the Moon is always casting a shadow, a total solar eclipse is always happening somewhere in space. Could commercial spaceflight ever offer space tourists the ability to see totality around normal new moon phases?
-I feel like the following things could be issues:
-Relative velocity between the spacecraft's orbit and the umbral cone may make totality too quick to be interesting
-Positional accuracy might be too precise or require too much ΔV (out of plane/too far from Earth)
-Opportunities to view totality would need to be close to the new moon to avoid needing to go too far from LEO

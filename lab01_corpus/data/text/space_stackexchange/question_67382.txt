@@ -1,4 +1,0 @@
-How long would a space tether on Phobos need to be to exceed earth's escape velocity?
-Many futurists and science-fiction enthusiasts talk about one day building a space tether anchored to Mars' moon Phobos, extending 6,000 kilometres from the moon to Mars' lower atmosphere, and usually a similar distance from the moon into space, to provide spacecraft with a cheap system for landing and takeoff from the planet.
-For reasons that are too complicated to get into here, I would like to know how long a Mars-Phobos tether would have to be for the speed at the far end of the tether to exceed Earth's escape velocity, (yes, earth's escape velocity, not Mars'), and reach the arbitrary speed of, say, 25 km/s
-I have tried to work this out using online calculators but can't find any that are relevant.

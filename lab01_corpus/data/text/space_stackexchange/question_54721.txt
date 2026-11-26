@@ -1,5 +1,0 @@
-What would have happened if all Apollo computers failed?
-Let's assume all available computers in the command module and the lunar module failed and the astronauts were unable to repair them in flight.
-Would they have been able to return back home safely during different phases of the flight?
-Were there any backup systems for this kind of emergency?
-Would they have been able to maneuver the spacecraft without using computers?

@@ -1,4 +1,0 @@
-How long would a satellite remain in orbit at the Karman Line?
-Satellites in LEO spontaneously de-orbit due to atmospheric drag. For instance, the ISS will de-orbit in a few years without regular boosts.
-How long would a typical satellite (say, a Starlink satellite) remain in orbit at the Karman Line altitude (100 km) without boosting? Would this be measured in orbits, days or weeks?
-Here is a photo of starship at the Karman line. Looks like it has significant drag.

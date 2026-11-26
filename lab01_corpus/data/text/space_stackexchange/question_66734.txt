@@ -1,5 +1,0 @@
-Will this be the first time that there are more people aboad the ISS than seats in docked spacecraft?
-As NASA announced today, Boeing Starliner will return to earth uncrewed and before the SpaceX Crew-9 mission will start (because otherwise no docking port would be available).
-This means (as far as I understand it) that between the departure of Starliner and the arrival of the Dragon capsule of the Crew-9 flight, Butch Wilmore and Suni Williams will have no seat in a spacecraft in case of an emergency on the ISS during that time.
-In the past, great effort was put into making sure that there were never more astronauts aboard the ISS than there were seats available in docked spacecraft. (Is this true for the shuttle era too?) So when a capsule had to park on another docking port, the whole crew of that spacecraft went into the capsule, even if it was not technically necessary, in case the capsule could not dock again for some reason, which would leave a person "stranded" on the ISS.
-Is this the first time that astronauts are aboard the ISS without a seat in a docked spacecraft?

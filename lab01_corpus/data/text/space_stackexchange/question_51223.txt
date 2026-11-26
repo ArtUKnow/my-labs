@@ -1,6 +1,0 @@
-Attitude determination with phototransistors and magnetometer
-This was originally in Engineering Stack Exchange but someone suggested posting it here.
-This is for a University Engineering project. The project is the design of small satellite which would be tested in the environment pictured, with lights acting as a fake sun & star and an induced magnetic field. The satellite must be able to determine where it is facing and then be able to rotate to face a specified location, i.e a latitude/longitude on the map.
-I know that I need to use two different frames, one fixed one with the x axis pointing directly at the map and then the body frame which will stay with the satellite. Before the test we are given the elevation/azimuth of the sun/star and so I have two vectors in the fixed frame to those, the magnetic field is always vertical. Through the sensors I can then determine vectors to the sun, star and magnetic field in the body frame. Note that the satellite only rotates about the CG and never moves.
-Question 1 - Am I correct in thinking that I would represent attitude as a rotation from the fixed frame to the body frame?
-Question 2 - How can I determine that rotation, or other representation, using the described vectors to the sun, star and magnetic field?

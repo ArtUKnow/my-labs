@@ -1,4 +1,0 @@
-From how far away is Starship expected to be visible?
-I’ve seen graphics like this one from NASA for Artemis 1 and these for Antares launches out of Wallops.
-I can’t seem to find any decent info regarding the upcoming Starship flight test. I’ve seen a vague graphic depicting the trajectory in terms of phases of flight, and also know the general direction, but I’m not sure how to turn that into viewing distance over time, if that’s even possible
-It should at least be awfully bright, which would help as long as it’s above the horizon, but what about altitude vs. time info?

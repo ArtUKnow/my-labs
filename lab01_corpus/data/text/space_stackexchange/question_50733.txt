@@ -1,3 +1,0 @@
-Can we determine the position of an artificial satellite using Kepler's parameters?
-I have read that an orbit is defined by Kepler's parameters, so is it possible to determine an exact position of an artificial satellite using those parameters?
-Forgive me if this is a redundant question, I am new to this field, I came across this and was really fascinated by this. Thankyou for your time.

@@ -1,4 +1,0 @@
-Are systems of multiple moons orbiting a planet where they cause tides to each other stable on the long term?
-The four big Galilean moons - Io, Europa, Ganymede, and Callisto - they are all tidally locked.
-They all wobble a bit (and produce some internal heating) as the moons pass each other in orbit, gravitationally nudging one another.
-Is this system stable? Can it be maintained indefinetely? And finally, would there be any way in which a similar system will not collapse or decay due to the emission of gravitational waves over time?

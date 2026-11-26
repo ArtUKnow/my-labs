@@ -1,8 +1,0 @@
-Has a single Falcon 9 ever launched twice in a day?
-Musk says in this Tweet on Nov 9, 2019,
-"If we build as many Starships as Falcons, so ~100 vehicles & each does 100 tons to orbit, that’s a capacity of 10 million tons of payload to orbit per year"
-So he's assuming 100 vehicles lifting 100 tons 3 times a day for 365 days for a payload to orbit of 10.95 MT. He has specified on a few other occassions Starship's theoretical three times a day limit,
-"it’s designed to fly 3X per day"
-"3 flights/day avg rate"
-All this talk of Starship launching three times a day even in the context of a Falcon 9 raises the question, "has a single Falcon 9 even once ever launched even twice in a day"?
-Inspired from a comment on the question, "Will SpaceX's fleet of rockets triple the entire United States demand for methane/natural gas?"

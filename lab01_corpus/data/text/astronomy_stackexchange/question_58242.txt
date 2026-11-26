@@ -1,4 +1,0 @@
-How will space telescopes catch T Coronae Borealis going nova?
-We expect T Coronae Borealis to go nova in the next months. When it does, will space telescopes already be watching it, or will they turn to observe it, or will big ones like Hubble and JWST miss it entirely?
-And if they can adjust to observe it, how quickly can they "spin their head" to target it?
-For context, I'm wondering about this, curious about how suddenly this nova event unfolds (whether the first few milliseconds are important to observe, or the months that follow, doesn't matter), and will we be able to catch those critical moments (whatever length of time they are), or will we miss them because we can't retarget quickly enough, or can't dedicate our gaze to them for the entire window that the event is likely to occur. And I'm wondering how quickly space telescopes can adjust to catch sudden events. (Or perhaps there's a different strategy for catching sudden events that I am not aware of.)

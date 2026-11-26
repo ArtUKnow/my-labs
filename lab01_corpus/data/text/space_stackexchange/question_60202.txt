@@ -1,9 +1,0 @@
-Why is the hot part of Webb's MIRI cryocooler in the 300K area?
-Longer wavelengths require cooler temperatures to detect efficiently. The MIRI detects all the way out to 25 μm and so needs to be cooled to 7 K.
-Webb can passively cool down to 40 K with its sun-shield, which is very good because at 40 K the black-body radiation is 3000 times weaker than at 300 K. A cryocooler is necessary to cool MIRI further.
-A cryocooler is a heat pump, using energy to pump heat from a cold to hot place. The greater the temperature ratio the harder it is to both pump the heat and keep heat from conducting backwards.
-The hot end is at 300 K in terms of electronics and pumps, even though passive cooling can reach much lower temperatures.
-Does the helium in the compressor approach 300 K? The working fluid hot end, not the hardware temperature, should be kept cold to reduce the load on the pumps.
-If so, why? Is it too difficult to passively cool the working fluid to ~100 K or so while keeping the "noisy" pumps far away from the instruments?
-Edit:
-The machinery is at 300k (I think) but the working fluid hot end temperature, which is what matters in terms of energy to run the heat pump, I am not so sure.

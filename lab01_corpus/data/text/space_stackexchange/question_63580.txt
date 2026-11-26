@@ -1,6 +1,0 @@
-How much does it cost to build terrestrial ground station capable of controlling satellites orbiting the moon?
-I'm noobie in space exploration and I want to carry out market research to find out how much it costs to build a terrestrial groundstation to control satellite missions that are in lunar orbit.
-Two missions that closely match my needs are the LRO and CAPSTONE.
-I don't know how to perform this kind of research, could someone help me with this?
-Any links pointing to documents describing budgets for this type of ground station will be of great help.
-ps: I've sent emails to several companies but they don't answer me, maybe my question is too generic, I really don't know.

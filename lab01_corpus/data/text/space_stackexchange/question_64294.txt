@@ -1,5 +1,0 @@
-What would it take to collect methane from the atmosphere and use it as rocket fuel?
-SpaceX is currently dealing with a lot of environmental regulation issues with Starship. One issue they have is the amount of CO2 Starship produces. Their falcon 9 produces 440 tons of CO2 each flight, Starship will produce even more.
-One solution to that problem would be to collect the methane needed as a fuel from the atmosphere. Since 1 kg of methane traps much more heat than 1 kg of CO2, it would actually help the environment if they used the methane from the air. Currently they probably get the methane they use as fuel from Natural gas and then that releases new CO2 into the atmosphere. When burning the methane already in the atmosphere and turning it into CO2, it would help decrease the greenhouse gases instead of increasing them.
-When SpaceX flies to Mars, they will want to refuel their Starship rocket, so using the technology to capture methane in the air and use it as fuel would help with future missions to Mars too.
-My question: What would it take to collect the methane in the air and use it as rocket fuel?

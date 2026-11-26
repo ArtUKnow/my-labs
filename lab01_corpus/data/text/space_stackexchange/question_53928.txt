@@ -1,8 +1,0 @@
-Puzzler; what can we learn about the distance and direction of Earth from this cool SpaceX-tweeted image of Earth and a vacuum nozzle?
-The 18-June-2021 Spacex-tweeted below says:
-View from Falcon 9's second stage Merlin Vacuum engine
-There is information out there about the approximate exit diameter and length of the nozzle and there are images out there of what the 2nd stage looks like that help us understand where the camera is likely to be situation, at least along the z-axis.
-Question: What can we learn about the distance and direction of Earth from this cool SpaceX-tweeted image of Earth and a vacuum nozzle? I'm assuming this was taken somewhere along a geostationary transfer trajectory, but roughly where?
-"bonus points:" There's both relative size to work with, and the position of the bell relative to Earth. Assuming GTO, is there anything to be said about the radial position of the camera and/or the attitude of the spacecraft at this moment?
-Potentially helpful (click for larger):
-From left: Does the second stage of the Falcon 9 have RCS thrusters? right: Falcon 9 performs extended mission in test for future U.S. military launches

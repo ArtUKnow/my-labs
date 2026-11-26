@@ -1,7 +1,0 @@
-Cost per launch to ISS: Starliner vs Crew Dragon
-What is the cost to NASA per launch to ISS of Starliner vs Crew Dragon? The Crew Dragon flights uses the SpaceX Falcon 9-FT with the first stage reusable, along with the partially reusable Crew Dragon.
-The Starliner will use the Atlas-V. https://en.wikipedia.org/wiki/Boeing_Starliner
-"Following Starliner-1, NASA has contracted Boeing for at least five more operational flights to the ISS".
-What is the cost to NASA of the Starliner launches vs the Crew Dragon launches? Is NASA contractually obligated to keep paying while the Starliner's schedule gets increasingly delayed, or can NASA decide to switch over the the Dragon exclusively?
-Also, the Starliner is using the Atlas-V which is end of life. "The Boeing-Lockheed joint venture will retire its stalwart rocket after 29 more missions" https://www.theverge.com/2021/8/26/22641048/ula-boeing-lockheed-end-sales-atlas-v-rocket-russia-rd180 Will the Starliner be retired, or switch to using the Vulcan/Centaur?
-I realize that in some sense the relative cost doesn't matter because NASA's goals include making sure there are reliable rockets for getting the required payloads and manned rockets into space, and for a long time, USA didn't have any alternatives for manned spaceflights after the Shuttle was retired.

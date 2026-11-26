@@ -1,2 +1,0 @@
-Does the Merlin vacuum engine on SpaceX's Falcon 9 gimbal?
-SpaceX uses the Merlin Vacuum engine on the second stage of the Falcon 9 launch vehicle. Does the merlin vacuum engine gimbal or does the second stage uses only nitrogen cold gas thrusters for attitude control?

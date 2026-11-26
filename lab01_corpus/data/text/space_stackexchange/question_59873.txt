@@ -1,9 +1,0 @@
-Patching two Lambert's problem solutions together
-I am following this paper on the implementation of a genetic algorithm to find a good MGA trajectory.
-The way they approach the problem is by solving the Lambert problem for each planetary transfer. Then, they patch the solutions using the patched-conic approximation (section 2.A: "For the multiple gravity-assist model, two Lambert solutions are essentially “patched” together
-using the standard patched conic method. This results in a powered hyperbolic orbit for each
-gravity assist in which a ∆V is allowed only at the perigee passage for each gravity assist. The ∆V
-at each gravity assist is part of the final cost function, but is usually driven to a near zero value.").
-As I understand it, for a trajectory Earth-Jupiter with a Mars swing-by, they essentially solve the Earth-Mars and Mars-Jupiter transfers, then patch the two solutions. Which results in some ΔV need at perigee passage (at Mars).
-However, given that the Lambert solutions already provide the arrival and the departure velocities required at flyby, isn't the ΔV required the difference between the two velocities?
-I think I am not understanding properly the role of the patched-conic at joining two Lambert problem solutions. Can someone clarify it?

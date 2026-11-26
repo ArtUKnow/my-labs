@@ -1,5 +1,0 @@
-What guidance algorithm does Falcon 9 use during powered descent and landing?
-The SpaceX Falcon 9 does a powered touchdown with a rocket thrust higher than mass, so is not able to establish a low altitude hover and final descent as used by the Apollo lander. Instead it needs to reliably generate a sequence of thrust vector and throttle inputs that simultaneously achieve vertical and horizontal speeds of zero while also having the rocket vertical enough to not topple over.
-This command sequence also has to be robust to any wind motion or engine performance deviations from expected that require updates as landing progresses, for example planning for 100% of design thrust to be available but engine only producing 99% during actual touch down so not achieving vertical speed zero at touchdown.
-It also has to reliably resolve on relatively low powered hardware and be auditable for reliability when faced with edge cases.
-What process does a Falcon 9 use during powered descent and landing to generate thrust vectoring and throttle inputs?

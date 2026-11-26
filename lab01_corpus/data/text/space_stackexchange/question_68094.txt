@@ -1,2 +1,0 @@
-Radiation vs distance from the sun
-The curiosity rover has an instrument on it that measured the radiation environment during the cruise phase. Most of the reports I've seen show a number of miliseverts for the entire 7 month cruise phase. Did the amount of radiation per day change during the cruise phase? If not is it known if further out the radiation level increases within the heliosphere?

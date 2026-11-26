@@ -1,4 +1,0 @@
-Is it feasible at all to build data centers in space?
-Google CEO Sundar Pichai recently said in an interview that he wants to build data centers in space. While his quote that
-One of our moonshots is: How do we one day have data centers in space so that we can better harness the energy from the sun, which is one hundred trillion times more energy than we produce in all of Earth today?
-is a bit hyperbole, I find it more worrying that apparently no one in Googles C-suite knows that space is not exactly kind to electronics, and particularly heat management is a huge problem. I don't doubt Google has some clever engineers, but how much waste heat can you really dump from a satellite into (deep) space? Is there a physical limit that cannot be overcome or is it mostly engineering you need to worry about?

@@ -1,8 +1,0 @@
-Why does targeting in the VNB frame lead to a different maneuver magnitude than targeting in an inertial frame?
-In GMAT, I set up a targeter (this script) to compute an impulsive maneuver in an inertial frame. The differential correcter finds a maneuver of 3.1161 km/s . If I change the impulsive maneuver to be in the VNB spacecraft frame (and nothing else), the magnitude of that maneuver decreases to 3.0656 km/s. Specifically, the change is to line 92: from GMAT ImpulsiveBurn1.CoordinateSystem = EarthMJ2000Eq; to GMAT ImpulsiveBurn1.CoordinateSystem = VNB;. No other change is done to the script.
-The maneuver is the integral of the specific force, so it's inherently inertial, therefore the transport theorem should not apply, and therefore the norm of the correction should be equal to that of the inertial maneuver. Another way to see it is that the delta-v maneuver modifies the inertial state by some quantity, and that quantity does not depend on the acceleration of one frame versus the other (and that is especially true for an impulsive maneuver).
-So why does GMAT find two different maneuver magnitudes for the same the case?
-Additional notes:
-The initial orbit is a LEO defined as: SMA = 8000 km, ECC = 0.2, INC = 30.0, RAAN = 60.0, AOP = 60.0, TA = 0.0.
-The differential corrector is set to achieve an SMA of 8100 km (+/- 1.0 km) and an ECC of 0.4 (+/- 1e-5).
-This is an arbitrary test that I use for the validation of Nyx space, an open-source toolkit similar to GMAT and JPL Monte but modern and typically 6 times faster than GMAT.

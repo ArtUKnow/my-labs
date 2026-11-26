@@ -1,3 +1,0 @@
-Advantages/disadvantages of wood for surface of cubesat?
-Generally aluminum and kapton are the exterior surfaces of a cubesat. A Finnish/ESA cubesat, the WISA/Woodsat was launched that has plywood panels. It has protection against offgassing and very low humidity. They expect the outer surface of the wood will darken.
-Given that, what else would be expected? Certainly even a thin layer of plywood would have reduced thermal conductivity, but it probably absorbs more light (heat). Is there a huge risk of overheating, or that the plywood will shatter, or what?

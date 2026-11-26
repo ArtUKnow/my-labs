@@ -1,5 +1,0 @@
-Can we detect interference in gravitational waves?
-When black holes rotate around each other very fast, their high-frequency gravity waves should interfere both constructively and destructively.
-Img: Scientific American
-The picture above is misleading. The compression waves in space aren't linear spirals that don't intersect. They're actually spherical waves expanding in all directions and they do intersect — in a very predictable way. And when they move relative to each other, those intersections change.
-Does LIGO have the sensitivity to observe that and do we observe that?

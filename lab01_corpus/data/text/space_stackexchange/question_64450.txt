@@ -1,7 +1,0 @@
-How to set a constant density model in STK'S Astrogator
-I'm trying to verify a simplifying orbit maintenance strategy obtained from one of my numerical tools using Astrogator as a propagator.
-My tool uses a constant density value obtained by averaging the values calculated with the Jacchia Bowman 2008 model. I would like to align this model in such a way that Astrogator also always uses this constant value.
-I tried to set constant values (F10, F81, M10, M81, etc.) but the density value does not remain constant over time.
-Is there a way, even by changing the atmosphere model in the Astrogator component browser, to always have the density value I want for the entire propagation time?
-I realize that it is not realistic from the point of view of orbital dynamics but I need it for educational purposes.
-Thanks in advance.

@@ -1,2 +1,0 @@
-Is it possible to turn rockets without fuel just like in KSP
-When playing KSP if you click a Key (A,S,D,W) then the rocket turns without using fuel. I thought that a rocket needed RCS to turn. Is it even possible to turn a rocket in space without using any fuel?

@@ -1,5 +1,0 @@
-Would it make sense to compress air around a bell nozzle during booster ascent?
-Regarding boosters having one single liquid fuel engine, such as Delta 4 for example.
-Would some sort of annular aerodynamic device, attached to the skirt and placed around the bell nozzle, help reduce or delay overexpansion by compressing a column of air around its exhaust?
-This ring would act like a static compressor blade.
-As the booster gains altitude and airspeed, would having a localised higher than expected pressure zone around the nozzle decrease overexpansion, and therfore mitigate inherent lowering of efficiency due to this overexpansion?

@@ -1,4 +1,0 @@
-conversion from magnitude to flux
-I am using GalSim for creating mock galaxies in a magnitude range of 28-29. GalSim requires the input flux in units of photons/cm^2/s . I have used the halflight radii as per the value for this redshift range .Coming to the magnitude part, My science images are in units of MJy/sr having pixelscale of 0.03" and zeropoint of 28.08 AB mags. So I can convert the mag into flux in MJy/sr as ,
-flux [MJy/sr]=10^((ZPAB−magAB)/2.5.
-also I have , PHOTMJSR= 0.4047000110149384 / Flux density (MJy/steradian) producing 1 cps.From this I can extract the flux in counts/s by flux_mjy_sr / photmjsr. I have to convert now it into flux in counts/s/cm^2 . How can I do this ? ( I also have my nominal pixel area in arcsecond^2 as 0.0009)

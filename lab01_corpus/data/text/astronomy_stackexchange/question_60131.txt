@@ -1,8 +1,0 @@
-Total length of solar eclipse - how to calculate
-I would like to perform the calculation of total length of solar eclipse including the time period from the contact I to contact IV.
-I calculated the Sun's angular diameter as approximately 0.53426485
-On this link:
-https://eclipse.gsfc.nasa.gov/SEpubs/19951024/text/lunar-limb-profile.html#:~:text=The%20Moon's%20angular%20velocity%20with,0.370%20arc%2Dseconds%20per%20second.
-I could read that the Moon's general angular velocity is 0.37", which corresponds to the decimal value of 0.000103.
-After a simple equation of 0.53426485/0.000103, I got the value of over 5198 seconds (5198,253). It's wrong, especially since it would cover the period from the First Contact to the Second Contact. It's still over half more.
-Is there any way to compute the length such as this?

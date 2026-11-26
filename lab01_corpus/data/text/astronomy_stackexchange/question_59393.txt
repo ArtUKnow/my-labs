@@ -1,4 +1,0 @@
-What portion of the neutron star mass is ejected during a kilonova?
-A kilonova is when a pair neutron stars collide, such as when they are in a binary system and their orbits decay.
-When they crash into each other, the violence of the collision creates the kilonova, where a portion of the material is ejected into space, while the rest remains in the new merged object, likely either a more massive neutron star or a black hole.
-But does the material ejected comprise a substantial portion of the total mass of the neutron stars? If a typical neutron star has 1.5-3 solar masses, what is a typical amount of mass that is ejected during a kilonova?

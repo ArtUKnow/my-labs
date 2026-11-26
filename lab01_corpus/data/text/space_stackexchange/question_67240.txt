@@ -1,6 +1,0 @@
-Why are they putting insulating blankets around the new space coronagraph?
-As part of the integration process, engineers also ensured blanketing layers were in place to insulate the coronagraph within its place in the Instrument Carrier. The coronagraph is designed to operate at room temperature, so insulation is critical to keep the instrument at the right temperature in the cold vacuum of space.
-https://www.jpl.nasa.gov/news/nasa-successfully-integrates-coronagraph-for-roman-space-telescope/
-I assume the coronagraph is heated, so the issue is heat radiating out into space. But the device is already in the best insulation of all, a vacuum.
-The insulating blanket can do nothing but conduct heat away from the warm coronagraph. Right?
-Wrong. So why?

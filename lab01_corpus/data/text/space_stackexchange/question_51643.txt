@@ -1,7 +1,0 @@
-Does Starship reuse actually serve a purpose for Mars, or only LEO/Earth-to-Earth?
-(In this question, Starship refers to the reusable 2nd stage, not the full stack w/ Super Heavy).
-I was thinking about it the other day, and I realized that I'm not sure a reusable Starship actually has that much bearing on SpaceX's Mars plans (apart from funding the company).
-For LEO and Earth-to-Earth, full reuse absolutely makes sense, and SpaceX is making a really smart choice pursuing it as aggressively as they are.
-However, I would expect most Mars (or Moon) trips will be one-way, or maybe two-way without a second round trip. If they send a Starship to Mars and bring it back, I'd think they'd be more likely to disassemble and examine it for improving their LEO system than actually send it to Mars again. Given the fact that the Starship lunar edition lacks ailerons and therefore cannot reenter Earth's atmosphere (and survive, that is), a one-way-only design doesn't seem that farfetched.
-At that point, it's an expendable 2nd stage really. It'd do the same principle as a Saturn V - send a lander, stay there for a while, come back and survive reentry, discard the capsule. Reusability of the 2nd stage doesn't save them much money in that case either.
-Given this, why does Elon think full reusability (including the 2nd stage) is important for a Mars colony?

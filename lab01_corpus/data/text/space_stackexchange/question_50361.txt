@@ -1,7 +1,0 @@
-Separation of the stages of Saturn V by pyrotechnics, what about electrical and mechanical connections?
-We know that the stages of Saturn V were mounted to each other with explosive bolts. Separation was done by ignition of these pyrotechnics.
-But we also know the control computer of the Saturn V was placed on top of the third stage and controlled the first and second stage too. So there were cables from third stage down to first stage.
-To cut cables between Apollo CM and SM pyrotechnic guillotines were used. Also between first and second stage of the LM.
-See this question and this.
-So there should be also pyrotechnic guillotines within the stages of Saturn V.
-Are there any reports about the pyrotechnic guillotines within Saturn V?

@@ -1,4 +1,0 @@
-Can moons exist inside a planet's Roche limit?
-Saturn's rings are inside its own Roche Limit - the limit beyond which bodies start disintegrating due to the tidal forces of the parent body. But as every rock in the ring can be regarded as a satellite of Saturn, why are they not disintegrated to smaller constituents?
-Also, is it possible for a body to hold itself together even within the Roche Limit; maybe due to some cohesive forces holding it together? I thought it might be the reason for the rocks in Saturn's rings holding themselves together.
-Can someone provide an estimate for what the cohesive forces may be for a metallic rock as a fraction of the internal gravitational forces in it?

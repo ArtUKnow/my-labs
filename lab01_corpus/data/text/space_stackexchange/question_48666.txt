@@ -1,5 +1,0 @@
-Arecibo: Advantages of Giant Dish?
-I'm sure all of you have heard about the recent events at the Arecibo observatory, and the controversial decision to close the facility. I've also heard that Arecibo is the second largest single aperture radio observatory in the world (outside of FAST in China).
-However, I've also heard that it's possible to array dishes in order to achieve much better performance than from a single dish, as in facilities like the Very Large Array and the proposed Square Kilometer Array. To me, this seems like a rather desirable solution, as it would be easier to build and to point than a single giant telescope.
-My question is, what are the drawbacks of doing this compared to having a true giant dish like Arecibo?
-PS: I know that Arecibo can also do radar astronomy. But I guess my question extends to that as well. Could an array of radio telescopes be modified to do similar astronomy, and would this be better/worse than with a single dish?

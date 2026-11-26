@@ -1,2 +1,0 @@
-SLS SRB sound suppression system
-The Shuttle, in addition to the water deluge system, used a series of red nylon bags filled with water at the base of each SRB for additional sound suppression. Does the SLS, whose boosters produce ~300,000lbs more thrust, have the same system? It’s not clear to me from images or footage.

@@ -1,4 +1,0 @@
-USB drives in space?
-The question of laptops has been brought up; the classic answer is here:
-What kind of laptops do ISS astronauts use?
-On a tangential note - do they have or use USB drives for any reason? With networked machines, you may not need them at all. Or are there special cases where they are needed?

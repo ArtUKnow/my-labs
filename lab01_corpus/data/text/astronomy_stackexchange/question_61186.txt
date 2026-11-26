@@ -1,4 +1,0 @@
-Why is Haumea a triaxial ellipsoid and not an oblate spheroid?
-Haumea, a dwarf planet in the Kuiper belt, is distorted due to its fast spin.
-I would expect this spin to result in a uniform distortion into an oblate spheroid, so that Haumea would appear circular if viewed from above/below either pole.
-However, all depictions show that it is not uniformly extended along its equator. It is a triaxial ellipsoid.

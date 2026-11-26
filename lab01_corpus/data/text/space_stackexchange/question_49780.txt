@@ -1,7 +1,0 @@
-What would space shuttle digital attitude display show during flipover
-The space shuttle used quaternions for navigation, guidance, and control which don't suffer from the singularities that affect euler angle sequences.
-Yet, the attitude indicator had a digital readout with roll-pitch-yaw numbers relative to a chosen frame---LVLH, Inertial, or Reference, being the choices available to the crew.
-And that roll-pitch-yaw is an Euler angle sequence which would have suffered from mathematical gimbal lock (singularities when two axes became aligned).
-And two of those angles would have been limited to +-180 degrees while one of those angles would have been limited to +-90 degrees (relative whatever frame the crew had selected at the time).
-So I'm curious: what would the digital roll-pitch-yaw readouts have shown when the space shuttle did a flipover of 180 degrees about the axis limited to +-90 degrees (pitch for a roll-pitch-yaw sequence)?
-Or did they simply avoid flipovers about that most restricted of axes?

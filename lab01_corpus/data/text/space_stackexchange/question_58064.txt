@@ -1,8 +1,0 @@
-Which 3D space simulation/visualization software (free or commercial) can I use as a post processor of data calculated with Fortran?
-I'm designing a space interplanetary mission (Design of low-energy trajectories to Near Earth Objects) by using Fortran.
-Basically I'm working with the Circular Restricted 3 Body Problem (CR3BP), Lagrange Points, Invariant Manifold, so I'm dealing with Heliocentric Inertial Reference Frame (heliocentric IAU76/J2000 ecliptic, from NASA JPL small bodies ephemerides) and synodical baricentric reference frame with two primary bodies, the Sun and the system Earth-Moon.
-Once I will get the data, stored as arrays in .txt or .csv files I suppose, I would like to visualize them by using a 3D space simulation software (by doing an internet research, I found potential candidates: GMAT, FreeFlyer, STK, Celestia, Space engine).
-I would like to exploit 3D bodies and their dynamics already present in the software (Sun, Earth, asteroids and comets) and have the possibility to import 3D objects such as CAD of spacecraft (or perhaps use spacecraft models embedded in the software). Of course with Fortran I will find only the dynamics(trajectory) of the spacecraft, so the software has to have embedded the dynamics of the natural celestial objects.
-I remark that I will use the software mainly as a post processor and not for the numerical propagation (that I will perform in Fortran).
-Can you tell me what are the software more useful for my scope?
-P.S. More answers are welcome!

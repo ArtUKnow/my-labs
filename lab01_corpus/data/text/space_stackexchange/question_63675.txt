@@ -1,3 +1,0 @@
-Apollo: what was the big deal?
-I am curious what aspects of the Apollo program were impressive/advanced from an engineering perspective, in the 1960s and 1970s. That is, what would have made an educated engineer say, “Wow, they solved that problem?”
-I ask the question because I know that as an engineering layperson I know I have very poor intuitions about what is technically difficult in spaceflight. For instance, I only learned from this website that maintaining 1 atm of pressure in a spacecraft isn't very difficult. Also, some technologies like pressure suits and rocket engines had already been developed. So it is not obvious (to me) what the actual innovations and engineering achievements of the program were.

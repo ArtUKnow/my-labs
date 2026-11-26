@@ -1,7 +1,0 @@
-How do RAAN steering increase the launch window?
-In the recent ULA video by Tory Bruno Tory Talk // Atlas V Lucy: RAAN Steering (linked below) he gave some short hints about RAAN steering.
-What is RAAN (Right Ascension of Ascending Node) steering?
-He mentioned the Atlas V rocket achieves precise orbital insertion with the help of RAAN steering even with some delay. How is this possible? (A diagram is much appreciated)
-Do Space X and other Launch Service providers (LSP) use a similar kind of technology?
-Although this technology is a secret sauce, at least the second and third answers should be answerable IMO. Thank you.
-Video is only 2 minutes long, but currently there are no closed captions:

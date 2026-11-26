@@ -1,4 +1,0 @@
-Propulsion thrust vs high winds?
-While I do understand that high wind speed is a risk for space launches (and all air flights), still, is it a physical constraint or a computational problem given we are not dealing with a hurricane/tornado?
-I mean, the thrust of Starship engines should be enough to be able to (auto-)correct the course also under heavy wind?
-(question inspired by the recent Starhip SN9 delay)

@@ -1,5 +1,0 @@
-Why did Starship perform an abrupt course correction seconds before stage separation?
-During Starship second integrated test flight IFT-2
-There is a seemingly rapid attitude change seconds before stage separation, the whole vehicle making a turn towards the right of the image.
-What is the reason for this sharp turn?
-The course correction is visible in this video, occuring roughly between T+02:22 and T+02:33

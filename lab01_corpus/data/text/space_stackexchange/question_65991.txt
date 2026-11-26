@@ -1,7 +1,0 @@
-correct visualization of LEO constellations as they exist now
-Summarize the problem:
-I am trying to get a real visualization of LEO constellations. One constellation in particular is OneWeb. If I use spaceaware.io, the constellation looks as I expect, all of the orbital planes exist and look evenly spaced, but using https://satellitemap.space/oneweb.html there are orbital planes which are not uniform and some planes which are missing. The service would be terrible with outages all the time.
-Provide details and any research:
-I've looked many places, read the faqs and cannot come to a conclusion of which visualization is accurate. One, "satellitemap.space" (related to space-track.org and NORAD?), I got the impression that the data was not being updated since 2023? The second is related to Celestrak, "spaceaware.io", makes more sense and if the constellation is as bad as missing planes, I'd think there would be a substantial push to fix it by world governments? There is too much money orbiting to allow it to continue.
-Are either of these websites correct? If one is wrong, what is the reason? Old data?
-Thank you for the help

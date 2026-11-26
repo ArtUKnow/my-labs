@@ -1,4 +1,0 @@
-What is the pressure in Neptune where the density reaches $1 \, \mathrm{g/cm^3}$?
-From this graph, it looks like it should be around $20000 \, \text{km}$ from the center. So it is about $0.8$ radius.
-However, I cannot imagine this is correct. The pressure is probably only a few bar at that height. And it is mainly hydrogen. How can the hydrogen at this pressure have density of $1 \, \mathrm{g/cm^3}$? Even considering the low temperature it has there, it is still impossible.
-Can anyone explain this to me?

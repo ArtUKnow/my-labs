@@ -1,4 +1,0 @@
-Why do AST SpaceMobile satellites have antennas much larger than Starlink, whereas they both aim at providing network coverage anywhere on earth?
-I read on cnbc.com (mirror):
-AST drew the attention of NASA in October, when the U.S. space agency commented on the company’s FCC proposal and said AST’s “extremely large satellites” would create “an unacceptably high risk of a catastrophic debris-producing collision” in orbit. AST’s Space Mobile satellites have large antennas, but the company and NASA have said they will work together to find any needed solutions.
-Why do AST's Space Mobile satellites have antennas much larger than Starlink's satellites, whereas they both aim at providing network coverage anywhere on earth?

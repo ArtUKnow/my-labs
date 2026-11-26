@@ -1,5 +1,0 @@
-Landing a 3-ton payload on the surface of Mars
-I'm working on a university project about the construction of sustainable exploration camps on Mars. I want to land a 3-ton structure that will be used as a basis to build a shelter on the surface of Mars. To achieve that objective, I chose to use the same mission's architecture as the Mars 2020/Perseverance Mission with a very similar descent vehicle but with a modified heat shield to handle the increase in mass (an example here).
-My problem is for the landing part. I just need to suggest a concept and I thought of using the skycrane method, but this is something very tricky, even though NASA succeeded two times.
-Is the airbag method (used for MER rovers like Opportunity) suitable to land a 3-ton payload?
-EDIT: the structure inside the descent vehicle will be protect by a shell. It's an origami-like structure with an inflatable layer separated in an other container. The shell would be designed to withstand the constraints of the environnement of Mars until the arrival of the exploration crew.

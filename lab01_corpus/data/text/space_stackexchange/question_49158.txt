@@ -1,5 +1,0 @@
-Number of launches by year, by country
-This is a question about how many orbital launches made each year China, then the same question for India and so on for every country that made orbital launches
-Additionaly, is there any country that reached space (100 km) but not orbit?
-Similar question:
-What is the number of launches by year?

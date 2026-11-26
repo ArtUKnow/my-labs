@@ -1,3 +1,0 @@
-Is there a relation between combustion instabilities and chamber pressure?
-Is there a relation between the combustion chamber pressure, and either an increase or decrease in both high and/or low frequency combustion instabilities. If so, how has this influenced engine design, and does this relation differ between different engine cycles, eg. pressure fed, full flow, expander cycle, gas generator?
-Any graphs would be really great!

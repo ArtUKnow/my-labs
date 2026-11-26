@@ -1,6 +1,0 @@
-Approach to Interplanetary Transfers in GMAT
-I hope to find a straightforward process for designing interplanetary missions using the General Mission Analysis Tool (GMAT). This would involve calculating the required initial state, timing, and delta V for a manoeuvre to target the other planet. My desire is to use this in an educational setting.
-I would like to use a Hohmann transfer calculated by the patched conic approximation as a starting point. This provides a date, turning angle, and delta V for the manoeuvre. What is the best way to iteratively solve for the delta V and the required initial Earth orbit in GMAT? What parameters should be varied?
-My attempt at a mission sequence is shown below:
-Is there a better way to vary the initial orbital plane than Varying INC and RAAN as was done here? A large step change in RAAN can occur for small changes in near equatorial orbits, which can prevent convergence. Also, is there a Vary parameter that can be related to turning angle more straightforwardly than RAAN?
-Edit: to be clear, this is a question about finding an orbital state and manoeuvre for interplanetary transfer. It is not about Hohmann transfers between Earth orbits.

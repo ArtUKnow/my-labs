@@ -1,4 +1,0 @@
-What percentage of the sunlight is in the right frequency to excite helium?
-The Sun's corona is primarily composed of hydrogen and helium atoms, which are being impacted by sunlight. The electromagnetic frequencies vary quite a bit, and only a small portion of the frequencies are capable of exciting the helium atoms in the corona. In this paper I found a graph showing the specific frequencies required for helium excitation.
-However, I couldn't find any information on the specific percentage of sunlight that falls within the right frequency range to excite helium. The graphs I've seen so far only show the range of frequencies present in sunlight. The few that include percentages have ranges that are too broad to be useful, such as this chart:
-What percentage of sunlight is in the correct frequency range to excite helium?

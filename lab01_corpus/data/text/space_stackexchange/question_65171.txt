@@ -1,4 +1,0 @@
-Changes to Apollo that enabled heavier missions
-This question has a table that shows the dry weight of the LM grew by 1600 kg between Apollo 11 and 17.
-What enabled this weight growth? I know some of it was enabled by improving descent engine performance (nozzle extension from Apollo 15 onwards), but I don't have a complete picture.
-Did they reduce margins (when experience showed that those margins could be reduced)? Were there other improvements?

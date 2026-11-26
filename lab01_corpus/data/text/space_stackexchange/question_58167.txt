@@ -1,4 +1,0 @@
-Python: Satellite and/or payload class
-I am very familiar with the python package poliastro and am wondering if there are any Python packages out there that have a "satellite" type class already?
-My thought is if someone wants to model a simple earth observation satellite, a simple class that has the bus/satellite that contains information like the propagator/orbit, etc and then you can have payloads attached to that model that have some orientation and some properties.
-The closest comparison I can give is something that starts to give the foundations of STK (very, very rough sense).

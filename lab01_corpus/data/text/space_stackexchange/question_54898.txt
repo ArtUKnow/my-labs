@@ -1,2 +1,0 @@
-Why didn't the EDL mic record sound during the entry and descent of Perseverance?
-This NASA webpage says that the EDL mic wasn't able to record sound during the descent, but has been able to record sound from the surface of Mars. So the mic is functional. But why couldn't it record sound during the descent? The webpage mentions the turbulence of the entry and descent, but is rather vague on the subject.

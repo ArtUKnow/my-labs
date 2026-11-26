@@ -1,2 +1,0 @@
-Why does the Falcon 9 come back to the launch pad despite having considerable speed after boost back burn after separation?
-After separation, the first stage of a Falcon 9 makes a boost back burn. When watching the webcast of the NROL 108 mission, after boost back it has a speed of 830 km/h at an altitutde of 148 km, then it gains more speed and decreasing altitude. That means the vertical speed reaches a value of zero but still has an 830 km/h horizontal speed. How it can come back to the landing pad near the launch pad? Shouldn't it go far away?

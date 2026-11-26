@@ -1,6 +1,0 @@
-How would an SSTO adapt to various payloads?
-Yet another kerbal question here.
-Background: I've built many SSTOs before, mainly small, light-payload or crew delivery ones (either boosted by a rocket or by itself). The reason why I've been shying away from heavy payload lifters is because of the center of mass shift.
-Large payload-optimized SSTOs will experience significant center-of-mass shift during the ascent, causing issues with the placement of the wings, center of mass and lift (CoM, CoL) - certain payloads would end up shifting the CoM so far back that the CoL would be in front of the CoM, causing loss of vehicle/crew. Other cases would make the CoM too far forward so the plane is barely maneuverable.
-My initial thoughts were either movable or swing wings to change the CoL to adapt to the changing CoM, putting the payload directly on the CoM instead of the front/back of the SSTO, or attaching a counterweight (which sounds dumb because that just wastes mass, unless there is another payload). I've already tried these methods on a craft and seem to work except for edge cases (payload mass near maximum capacity or payload is almost as large as the payload bay).
-Any thoughts?

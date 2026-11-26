@@ -1,4 +1,0 @@
-How to find the SMA starting from a given repetition factor?
-I need a help for an orbit design problem.
-My constraint is that the height is 480 km, the repetition factor has to be Q = 245/16 and the orbit must be sun-synchronous. I would like to find the SMA starting from this Q value.
-At a first step of approximation, I had set SMA = height+6378 km, but now I have to refine (considering also the fact that real orbits are not perfectly circular). Can anyone help me?

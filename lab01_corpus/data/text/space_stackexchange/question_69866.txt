@@ -1,7 +1,0 @@
-Use of JPL Horizons to find earth-moon distance at a specific time?
-I would like to use JPL horizons to find the distance between the earth and the moon on 2022-10-13 11:08 UTC, but I don't see this distance as one of the output values available in the web app. Here are the output options I see:
-Am I missing something? Can a stackexchange space scholar help find this distance for me?
-2022-10-13 11:08 UTC
-(This timestamp is when Lucy took an image of the earth-moon pair using its T2CAM system. See the caption to Fig 9 on page 13 of Pre‐Flight and In‐Flight Calibration ... of
-... (TTCams) on the NASA Lucy
-Mission)

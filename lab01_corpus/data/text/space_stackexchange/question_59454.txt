@@ -1,8 +1,0 @@
-Why is SpaceX spraying water on their barges?
-We often see on the SpaceX launch streams that they are spraying water on the deck of the ASDS where the booster will land:
-There are multiple potential reasons to do this which come to mind:
-Decrease the scorching of the deck during landing
-Fresh water to hose down any sea water that got on the deck to prevent booster contamination with corrosive salt water
-Testing of fire-fighting gear
-... ?
-Is the real reason known to the public, or is it all just speculation? Why do they start spraying so far in advance? Wouldn't it be sufficient to begin after launch?

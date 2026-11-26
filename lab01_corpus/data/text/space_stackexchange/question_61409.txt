@@ -1,9 +1,0 @@
-How close can a spacecraft get to the Sun if it is limited solely by passive cooling?
-The Parker Solar Probe’s trajectory will take it within 8.5 solar radii of the sun’s photosphere. Its instruments, hiding in the shadow of the alumina-coated composite sun shield, will bask in 29*C comfort, even without a cooling system. (Only exposed solar panels are cooled).
-The JWST uses the same strategy (at an orbital distance of 214 solar radii) to attain a temperature of 27 K in the shade.
-From sketchfab.com,
-If a probe were equipped with radiators on the entire anti-solar surface, how close could a probe approach the sun?
-Porous alumina has a reflectivity of 99.0% for visible light and 99.4% for IR. On the radiator side, there are materials with emissivity of 97.0-98.5%.
-This means a spacecraft which is highly reflective on the sunward side and highly emissive on the anti-sunward side should come to thermal equilibrium somewhere between the solar surface temperature of 5800 K and the cosmic background temperature 2.7 K, a rather large range. Any idea how to calculate this equilibrium temperature for a given solar distance? Or, conversely, the distance at which the equilibrium temperature is a given value? One data point would be the Parker probe: 29*C at 8.5 solar radii.
-As an example, this cube-shaped spacecraft has a 0.414 solar radii perihelion. It has heat pipes to keep the interior temperature the same as the radiator panels. The sunny side is 99% reflective and the radiators 98% emissive. What would be the temperature of the interior?
-Or, conversely, beyond what perihelion could the interior temperature be compatible with living astronauts? Functioning space-hardened electronics?

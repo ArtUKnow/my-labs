@@ -1,3 +1,0 @@
-At what altitude will the ESCAPADE spacecraft perform the Trans-Mars Injection burn?
-NASA's twin ESCAPADE spacecraft recently launched into a staging orbit around the Sun-Earth L2 point. In November 2026, they will return to a "low altitude perigee" where each spacecraft will perform the TMI burn and head for Mars. However, none of the mission documentation indicates the altitude of this perigee.
-Does anyone know what the altitude of this perigee will be?

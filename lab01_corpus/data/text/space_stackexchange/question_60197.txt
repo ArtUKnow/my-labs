@@ -1,3 +1,0 @@
-What engine-out capabilities does SLS have?
-Falcon 9 can complete its mission with the loss of any one engine. The Space Shuttle could reach orbit with one engine out starting a few minutes into flight. Most other rockets don't have any engine-out capabilities at all.
-NASA is currently planning to launch Artemis 1 despite a temperature sensor on engine #3 giving an out-of-spec reading on the assumption that the sensor is faulty. If the sensor isn't faulty, what would happen if the engine starts but fails to keep running?

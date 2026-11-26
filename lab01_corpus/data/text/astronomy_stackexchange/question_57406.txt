@@ -1,4 +1,0 @@
-Extend CDF to physical range
-Consider the following observations regarding the eccentricities of stellar binaries (just an example):
-$$e = [0.3, 0.45, 0.2, 0.52, 0.64, 0.34]$$
-We can calculate the cumulative distribution function (CDF) for this given range. However, it's important to note that eccentricities of stellar binaries can theoretically range from 0.0 to 1.0. How can we adjust the obtained CDF for the observational range to encompass the entire physical range?

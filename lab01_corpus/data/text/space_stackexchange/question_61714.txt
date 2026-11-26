@@ -1,4 +1,0 @@
-Local space radiation measurement by 1U CubeSat
-As far as I know, the general influx of ionizing radiation received by a CubeSat in LEO is mostly trapped protons and electrons, solar protons, galactic cosmic radiation, and
-neutrons. If the CubeSat is equipped with a readable dosimeter, it is possible to monitor where and how much radiation hit the electronic devices during the course of the satellite. The data collected can then be sent as part of a downlink data stream.
-My Question is: How particles of solar radiation and galactic cosmic particles detected? How is it possible to differentiate them from the general influx of radiation received by a dosimeter? What kind of instruments are necessary?

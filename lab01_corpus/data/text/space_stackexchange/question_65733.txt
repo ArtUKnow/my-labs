@@ -1,3 +1,0 @@
-Spring release system 2.1m long rocket with a weight of 20kg
-We have been searching for a trustworthy source to help us design the recovery sytem for a rocket which is going to fly 2600m high with a weight of 22.6kg in the beginning and 17kg in the end (at the descent). We have been searching for a way to calculate how many newtons our spring system should output in orde to deploy the parachute (together with a pneumatic system). Can somebody help us determining what sort of springs we should use?
-Thanks!

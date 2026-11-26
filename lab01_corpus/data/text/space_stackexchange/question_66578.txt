@@ -1,9 +1,0 @@
-Which experiments/research conducted by astronauts produced the largest economic value so far?
-The space industry on has produced enormous economic value thanks to launching thousands of satellites, which helped us create GPS, satellite TV, Starlink, weather sensors, etc. But what about the value of experiments/research conducted by astronauts? According to NASA:
-More than 3,000 experiments have been conducted aboard the International Space Station during the 21 years humans have been living and working in space. These experiments have provided insights helping improve life back on Earth and explore farther into the solar system. Researchers have shared these results in thousands of scientific publications.
-So far, have any experiments conducted by astronauts managed to produce direct economic value to humans on the ground today, similar to the direct value produced by satellites? There's obviously trillions of future value from astronauts helping us research better ways for humans to travel in space but I'm curious if there's also some tangible output from space work today that we can all be thankful for?
-Examples of highly valuable experiments/research conducted on the ground would be:
-Discovery of CRISPR in 2012, unlocking direct gene editing.
-Discovery of graphene in 2004. Estimated economic value was $200m/year as of 2023.
-High-brightness blue LEDs in 1993, unlocking modern LED lights.
-Obviously such research is quite rare even on the ground but perhaps there was something that managed to generate at least $1m/year in direct revenue by now?

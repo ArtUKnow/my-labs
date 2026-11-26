@@ -1,2 +1,0 @@
-Which affordable magnetometer to purchase?
-I am involved in a CubeSat team that will fly a mission in low earth orbit. I will be working on ADCS so would like to gain experience with the magnetometer. I am just not sure which one to buy. Is there a reliable standard magnetometer that people use for low earth orbit? My understanding is that fluxgate are the norm but I see a large range of prices and not sure which to buy. If anyone has a specific one they like that is also affordable, I'm all ears.

@@ -1,5 +1,0 @@
-Why two engines on stage 2 of New Glenn if it's disposable?
-From a controls perspective, two engines is nice, as it's the minimum required for roll control.
-A single engine would give you just pitch and yaw control, so you'd need a separate system just for roll control.
-Like the cold gas thrusters on stage 2 of Falcon 9. They seem cheap, and that's a good reason to prefer them over a second engine when you're disposing of the whole stage.
-This leaves me wondering: Why pay for two engines when a single engine + cheap cold gas thrusters would do? Or is there something about New Glenn that just demands a second engine?

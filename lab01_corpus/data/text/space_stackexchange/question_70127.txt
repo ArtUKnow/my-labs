@@ -1,4 +1,0 @@
-Space craft travel between space stations?
-Would it be possible for one of the spacecraft that are currently docked to the ISS to undock and, before returning to Earth, change orbit and align with the Tiangong Space Station — or vice versa? I know they can most likely not dock, so the goal is probably to come to a hover within space walk distance.
-I suppose the most critical point is the delta-v that can be achieved with the remaining fuel on board.
-(And yes, that question occurred to me in the context of the Chinese astronauts who were lacking a return vehicle for a limited amount of time: What could one do in the event of an emergency? But apparently, the Chinese could send a rescue vehicle quicker and safer, so the overall feasibility is not the question any longer but just the orbital mechanics, so to speak.)

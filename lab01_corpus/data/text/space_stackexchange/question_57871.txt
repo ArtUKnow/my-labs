@@ -1,6 +1,0 @@
-Precise Orbit Determination (POD) vs GNSS accuracy; seeking references
-Precise orbit determination provides performances that are not currently achievable with GNSS systems. I cannot find information of the reason for this. I imagine different possibilities:
-Use of measurements not available for GNSS such as lasers
-Use of precise postprocessed ephemeria
-Use of more data (as it not done as a real time implementation)
-Are there any references for this subject? I’ve found papers describing each method but not comparing them for the same user case.

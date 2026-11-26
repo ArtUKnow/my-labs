@@ -1,3 +1,0 @@
-How did the lunar module avoid problems with flying regolith when taking off?
-In November 2020, a SpaceX rocket suffered damage due to a problem with the launchpad, and future missions to the Moon and Mars could suffer similar problems since there won't be a launchpad at all.
-During the Apollo missions, the lunar module landed and took off from the surface of the Moon. This likely projected regolith could have damaged the engines, somewhat like what happened to the SpaceX rocket. How did NASA manage this problem?

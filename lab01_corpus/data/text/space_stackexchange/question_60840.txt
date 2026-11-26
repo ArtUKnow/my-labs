@@ -1,7 +1,0 @@
-I'm building a CubeSat for a short 8-day mission in LEO followed by a fairly quick reentry, what range of orbits to consider?
-The goal of this CubeSat mission is to demonstrate CubeSat construction, operation, and communication in Low Earth orbit for 8 days or longer.
-Why the short mission time? Because the mission lacks solar arrays.
-The CubeSat, which is named RC-Sat (pronounced Arc sat, it stands for radio in a CubeSat) will carry no scientific instruments and will communicate using a 100 MHz radio transmitter.
-I would like to avoid cluttering space with RC-Sat's dead body and would prefer it to fall out of orbit sooner rather than later. What range of orbits should I consider?
-It shouldn't be so "low" that it threatens mission success, or so "high" that it remains as clutter for a long time.
-If there's an option to specify orbital parameters like inclination, eccentricity etc., what orbital parameters should be used for such mission?

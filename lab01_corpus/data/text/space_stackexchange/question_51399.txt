@@ -1,5 +1,0 @@
-How will Juice substantially increase its inclination around Jupiter in January 2031?
-The ESA video Juice’s Jovian odyssey linked below is quite interesting to watch. Around January of 2031 it substantially increases its inclination around Jupiter. Big inclination changes can be expensive in delta-v and doing anything in such a large gravity field has an "expense multiplier".
-It doesn't look like Juice is doing these at a very distant apoapsis where the cost can be much lower.
-It's hard to tell from the video, but I wonder if it is synchronized by some rational number (e.g. 1:1, 3:2, etc.) with one of Jupiter's large moons and using repeated gravitational assists to boost inclination?
-If so, how does it maintain synchrony; how does it change inclination but not period? Or does the period change as well?

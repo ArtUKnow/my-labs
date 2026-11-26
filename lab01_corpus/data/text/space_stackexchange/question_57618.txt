@@ -1,2 +1,0 @@
-Could JWST operate with failed or partial wing mirror deployment?
-I have not found any information about contingencies for failed wing mirror deployment. Could JWST operate, and at least partially fulfill its scientific mission, with only the center core mirror, containing 12 of the 18 total sections, in case either of the two wings fails to deploy?

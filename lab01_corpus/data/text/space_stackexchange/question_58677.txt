@@ -1,3 +1,0 @@
-Solid Core Antimatter Engines: Do they have a point?
-On the graph discussed in this question, I was surprised to see "antimatter" listed as one of the engine types... with a disappointing performance equal to solid-core nuclear thermal rockets. This implies that an extremely small amount of antimatter is being annihilated in a solid core that then heats hydrogen propellant. This seems somewhat of a quixotic downgrade from the fabled antimatter photon rocket.
-Is this engine type, which inevitably requires an extremely dangerous fuel and has extremely low TRL, considered to have any worthwhile benefit over a nuclear-fission-driven solid-core nuclear rocket? Is there some reason that antimatter would be easier to manage than fission fuel?

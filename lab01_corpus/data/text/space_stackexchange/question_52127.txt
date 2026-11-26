@@ -1,5 +1,0 @@
-Use of Starship Fuel Tanks in a Space Station
-In this question, as to whether Reuse of fuel tanks as habitats is possible, it's mentioned that there were plans to do this for Skylab and for the Shuttle tanks.
-However this is asking specifically about the feasibility of doing this on SpaceX's Starship. Per this diagram, made by Tom Dixon and Austin Barnard:
-Usage of the LOX and Methane tank would more than double the habitable volume, giving a total volume greater than 1.5x of the ISS.
-Is is possible, while in space, to disassemble the common dome and header tanks and use the tanks as living areas? This includes venting all fuel, as well as working inside the ship, parts of which must remain pressurised.

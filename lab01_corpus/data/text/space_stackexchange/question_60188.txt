@@ -1,5 +1,0 @@
-GN&C free / open source softwares suggestions
-I am looking for a GN&C software free (and open source if possible) capable to compute the attitude and control including hardware profiles, example: RWs (reaction wheels) profiles
-I know 42 does something, however it is not well documented (in this case if someone has some code to share, I will be very grateful...), however I was looking for some other opportunities.
-Thank you in advance,
-PDM

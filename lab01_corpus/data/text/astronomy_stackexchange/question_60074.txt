@@ -1,2 +1,0 @@
-How can unsupervised machine learning algorithms be useful in studying comets?
-I intend to create an unsupervised machine learning algorithm to study comets by myself. However, I am unable to understand which aspects of a comet can be studied by the same. I would be more interested in identifying certain surface features or emissions given out by the comet. However I am open to other ideas as well. Any research papers that could provide a kickstart in this regard would also be quite helpful.

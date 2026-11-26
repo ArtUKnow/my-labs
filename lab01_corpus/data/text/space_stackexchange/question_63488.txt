@@ -1,3 +1,0 @@
-Where are the Raptor Boost engines on Super Heavy?
-SpaceX Super Heavy has two types of Raptor, one of them being Raptor Boost, which has no gimbals and limited throttling but increased thrust.
-But I can't find information on Wikipedia on how many there are and where they are. I wanted to know this to understand the consequences of the engine failures on 20/4/23 launch on thrust vectoring capacity of the booster.

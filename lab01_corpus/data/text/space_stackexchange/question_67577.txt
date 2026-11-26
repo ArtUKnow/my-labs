@@ -1,3 +1,0 @@
-How many of JWST's single point failure issues were related to sunshield deployment?
-JWST had 344 single point failure possibilities that could have killed the telescope, but I find no indication of how many SPF's had to do with sunshield deployment. Lots of moving parts going a long way!
-Another related issue would be could the JWST compensate to minimize the telescope's performance degradation if certain deployment failure(s) occurred such as one wing not fully unfurling or perhaps tearing?

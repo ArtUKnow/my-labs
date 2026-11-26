@@ -1,6 +1,0 @@
-Did the ISS just turn upside-down? Nauka docking attitude maneuvers; did the cupola near pointing zenith and therefore show only black sky w/ stars?
-This answer to Is the ISS going to yaw and assume the XPOP attitude for Nauka docking? contains lots of information on the attitude trajectory in yaw-pitch-roll space, but from those I can't envision how the attitude evolved over time.
-Question: Did the ISS just turn upside-down? Nauka docking attitude maneuvers; did the cupola come close to pointing zenith and therefore show only black sky w/ stars?
-Usually the cupola points nadir and is mostly filled by the Earth below.
-In "spacecraft talk" is nadir just a fancy word for "down"?
-https://twitter.com/ISSAboveYou/status/1417257264646299661/photo/1

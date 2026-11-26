@@ -1,2 +1,0 @@
-Comment on: "2005 VL1 is not Venera-2"
-I show that the small differences between the orbital parameters of the dark comet 2005 VL1 and the Venera 2 spacecraft (reported in arXiv:2503.07972) are of the magnitude expected from gravitational deflection by a close encounter of Venera 2 with Venus.

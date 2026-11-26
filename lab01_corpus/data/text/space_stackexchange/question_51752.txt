@@ -1,3 +1,0 @@
-Why is there currently so little talk about a Venus gravity assist for a crewed Mars mission?
-I just came across this video about manned Mars and Venus missions that were planned in the 1960s. They considered a Venus flyby the best way to get humans to Mars. Indeed, there are also modern papers arguing for a Venus gravity assist to get to Mars, citing shorter total mission times (~700 instead of 850 days), more frequent travel windows (every 19 months vs. 26 months), less total radiation and less required propellant.
-Why then are the planned NASA and SpaceX Mars missions always presented as a direct flight to Mars, while Venus gravity assists are almost never mentioned?

@@ -1,3 +1,0 @@
-What factors would contribute to a spacecraft's ability to maintain a very low orbit (VLEO) or at least orbits with very low perigees?
-I asked What does account for a high coffin corner of a plane? in Aviation SE. Now I wonder what factors would contribute to a spacecraft being able to maintain low circular orbits (e.g. within 200 km / 125 mi from Earth's sea level) or orbits with very low perigees (e.g. within 120 km / 75 mi or so) without decaying too rapidly nor re-entering the atmosphere.
-To survive low orbits, would it help if the spacecraft in question was smaller? Larger? More massive?

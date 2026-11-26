@@ -1,7 +1,0 @@
-Launch azimuth from orbital inclination WRT rotating earth?
-The formula for launch azimuth given latitude and target orbital inclination goes like this:
-$$azm = \sin^{-1} \left(\frac{\cos(inc)}{\cos(lat)}\right)$$
-I assume the orbital inclination $inc$ and launch azimuth $azm$ are both defined in an inertial frame.
-Trouble is... that in an inertial frame, a rocket sitting on the pad already has a sizable eastward velocity imparted by rotation of the earth---some 400 m/s at Kennedy.
-That initial velocity vector adds to the delta-v imparted by the rocket engines along the launch azimuth... so that if you point at the $azm$ given by the equation above, it seems you'll hit orbit slightly off from your target orbital inclination?
-Is this right? How do you account for earth's rotation in your calculation of the launch azimuth so that when you reach orbit you're at just the right orbital inclination?

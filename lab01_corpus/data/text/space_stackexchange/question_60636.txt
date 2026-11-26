@@ -1,4 +1,0 @@
-Guidance and control inputs in autonomous satellites
-I would like to know which are the standard navigation data available on a small satellite (in LEO). In particular, I'm trying to understand which inputs I should consider for the Guidance&Control subsystem in autonomous satellites.
-If the G&C module is implemented directly on-board the satellite in order to provide real-time optimal control actions to maneuver the satellite (thrust magnitude and direction), which are the input measurements that I can rely on to implement this autonomous G&C module? Do I have access to the osculating Keplerian elements or the cartesian coordinates? Or which other set of parameters is provided by a standard navigation module to be used for G&C?
-I've read several papers for on-board implementations of the G&C functions, but they always assume to have the osculating elements although I am not sure this is the standard in a small satellite.

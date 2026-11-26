@@ -1,8 +1,0 @@
-Why is there a 38.6 km Earth-Moon distance difference between Ephemeris types "Observer table" and "Vector table" on Horizons Web Application?
-The image above is a screenshot from Horizons Web Application with the Ephemeris type: Observer Table.
-It shows the distance (delta) from the geocentric observer location to target Moon on April 15, 1970 at 00:34 min., being 404460 km.
-This image is a screenshot from Horizons Web Application with Ephemeris type: Vector Table.
-It shows the distance (RG) from the geocentric coordinate center to the Moon on April 15, 1970 at 00:34 min., being 404421.4 km.
-Is there a credible explanation for the 38.6 km difference beween the "Observer Table" and "Vector Table" type ?
-Here are the Earth-Moon distance differences between Observer table and Vector table on 31 successive days at the same daytime from April 15 to May 15, 1970 in km:
-38.6 35.3 30.7 24.9 18.2 10.8 2.9 -5.0 -12.8 -19.9 -26.2 -31.2 -34.8 -36.6 -36.6 -34.7 -30.9 -25.5 -18.8 -11.0 -2.7 5.7 13.8 21.3 27.7 32.9 36.7 38.9 39.6 38.8 36.4

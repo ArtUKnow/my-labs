@@ -1,9 +1,0 @@
-Calculation of solar eclipse magnitude in the real time
-I would like to know how to calculate the eclipse gamma value in real time.
-I found a similar question here:
-Calculating Solar eclipse magnitude with the besselian elements
-But without the answer. I am convinced that this approach is right for my situation.
-On this website, and also on similar ones
-https://eclipse.gsfc.nasa.gov/SEcat5/SE2001-2100.html
-We have an example of a list with eclipses, where the gamma value is specified in the table. This is fine, but this value represents only the most excellent eclipse point. How about considering the same eclipse, which passed its most significant point, let's say 2 hours ago? The eclipse is still visible, but the gamma has changed?
-Is there any reasonable source that could explain how to calculate it?

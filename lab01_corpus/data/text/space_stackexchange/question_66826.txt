@@ -1,6 +1,0 @@
-Starliner: Deorbit with Service Module RCS thrusters?
-I have read that as a fallback option, the service module's reaction control system (RCS) thrusters could be used to deorbit the craft in case the normally used "orbital maneuvering and attitude control thrusters" (OMAC) fail.
-The Starliner Notebook from Boeing lists 28 RCS thruster at 85 lbf [bloody imperial units!] each, an overall force of 2380 lbf. The 20 OMAC thrusters, by contrast, have 1500 lbf each, an overall force of 30,000 lbf.
-I suppose that the force translates fairly directly into burn times needed to achieve a given Δv. This would imply that there is orders of magnitude more fuel for the RCS on board, as a backup, than needed for nominal operation.
-I suppose that an emergency deorbit would also follow a different trajectory that can be achieved with a smaller Δv.
-How would such an emergency deorbit be performed?

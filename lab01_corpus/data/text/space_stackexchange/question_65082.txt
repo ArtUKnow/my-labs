@@ -1,3 +1,0 @@
-Misting/Fogging Nozzles as Rocket Injectors
-Misting and Fogging Nozzles are nozzles often used in irrigation and cooling. They basically use high pressure to break the liquid into tiny droplets achieving really great atomization. I think these kind of nozzles are also used in those hose heads where you change the output. It creates a pretty good example of how the rocket injector plate would work when using misting and fogging nozzles.
-Now my question is why people aren’t using it. Why is it a bad idea? The only problem I see is that flow is pretty spread out instead of directional, but that is easy fix and it is designed to have a wide spread to cover a larger area. I think it has better atomization than the usual conical spin injectors. It is also simpler.

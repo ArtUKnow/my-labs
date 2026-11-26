@@ -1,8 +1,0 @@
-What does the Ariane 5 rocket use to turn?
-I noticed that the Ariane 5 does not have wings. It also does not have RCS thrusters except for sometimes with its payload, but that is not being used during liftoff. I tried to find some methods it could use to turn and this is what I came up with:
-Reaction wheels
-Gimbal engines
-Magnetic torquers
-Control moment gyros
-Something else
-I was wondering which of these things it uses to turn?

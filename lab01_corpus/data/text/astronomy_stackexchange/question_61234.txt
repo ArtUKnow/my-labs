@@ -1,2 +1,0 @@
-Will the universe end up without stars?
-Except for those stars that will turn into black holes, we can intuitively think that every star undergoing a supernova should produce some planets (giant planets, dwarf planets, and other small objects), as well as some new protostars, which should be typically smaller than the original star that went supernova. We know that an object must have a minimum mass to become a star. In other words, the cycle of star -> supernova -> star should be finite, and the final cycle should end with objects that are only planets, without a star.

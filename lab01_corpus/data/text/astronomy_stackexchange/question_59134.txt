@@ -1,4 +1,0 @@
-Smallest arcseconds viewable by perfect conditions (i.e. space-based telescope)
-For a spacesim, I'm looking to understand what is the smallest arcseconds a spacecraft could see in space based on its telescope size, for visual wavelengths (562nm). So far if I go by Dawe's limit, that would result in a resolution of 115.8 / Telescope size (mm) for arcseconds to resolve if something seen was two objects or just one.
-It is implied Dawe's limit may be the smallest a telescope could 'see'. Is that right? Does it become a single pixel on a detector? Is there some other limit to determine the smallest? Does that change by other factors such as exposure time? Would an interferometer the size of the spacecraft change that figure? Would the answer reasonably get better in the future?
-Thank you.

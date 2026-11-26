@@ -1,5 +1,0 @@
-Positions of asteroids in heliocentric ecliptic (x,y,z) coordinates
-I would like to make positions of asteroids in heliocentric ecliptic (x,y,z) coordinates plot for a given date, like in the image below (Matsuoka N. Ryo (CC-BY 4.0)).
-For that I need so-called state vectors (x, y, z positions in km or Astronomical units). I'm aware, that services like JPL Horizons can calculate them. Problem is... it can do that just for one asteroid at a time. Batch mode (via their API or E-mail) is also limited to few hundreds objects at best.
-So question is - is there any readily available online service or software package, which can calculate these state vectors for asteroids using e.g. table with orbital elements, list of asteroids or something like that?
-P. S. I've found Skybot 3D service, made by Paris Observatory. Problem is that this service outputs state vectors (x,y,z) in equatorial coordinates system - not exactly what I'm looking for. Also, they're using their own asteroids database, which is slightly outdated.

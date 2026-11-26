@@ -1,3 +1,0 @@
-How to find the altitude of a rocket?
-I know this may be a very simple question, but is there any formula from which I can estimate the altitude of a liquid fuel (model) rocket based on the propellant, oxidizer, mass, density, etc?
-I've searched for many formulas but none seem to be fitting.

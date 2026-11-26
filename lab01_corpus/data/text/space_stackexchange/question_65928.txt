@@ -1,5 +1,0 @@
-Will the last launch of the Delta rocket family cause changes to the liquid hydrogen supply chain?
-This is a question from outside the StackExchange network that I'm reposting with permission from the original author. I honestly don't know if I think it's more likely to get answered here or on Mastodon.
-Will the end of the Delta rocket mean an increased price for Centaur and SLS? The Delta program had continuous funding irrespective of launch to support things like the liquid hydrogen supply chain. Centaur is a much smaller rocket, and SLS launches, to a first approximation, never. So who is paying to maintain all the hydrogen trucks, tanks, liquefiers?
-Hydrogen itself is a fairly common industrial chemical, but my impression (maybe wrong) is that liquid hydrogen is rare and weird.
-I think the core question(s) here can probably be answered with hard facts on if the government has rebid liquid hydrogen supply contracts, or with press releases from a company like Air Liquide or whoever is/are the main liquid hydrogen supplier(s).

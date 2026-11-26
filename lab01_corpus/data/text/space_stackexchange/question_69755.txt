@@ -1,6 +1,0 @@
-Why test in large lunar surface facilities with lunar regolith simulant instead of small ones?
-The Colorado School of Mines now has a 40ft x 40ft lunar surface simulation facility with very fine lunar regolith simulant. An even larger facility (20m x 30m, or 65ft x 108ft) was built in Germany. The news articles mention the high costs associated with such facilities (the simulant itself is expensive, the facilities need very good air filters and seals, workers need specialized PPE, etc). They look very cool, and I understand that lunar regolith simulant is useful for testing:
-Particle ingress in equipment (rover drive systems, excavators, space suits, etc.) since lunar regolith is known to be abrasive & stick to everything;
-Environmental perception, since regolith can be very reflective and blinding at low sun angles.
-It seems like most of these can be tested in smaller facilities (like 20ft x 20ft). Everything else (simulated lunar surface operations, rover mobility, etc.) could be carried out in large facilities employing more generic soil simulant (e.g., fine sand) at a fraction of the cost.
-So why put so much emphasis on large and expensive facilities with lunar regolith simulant? Why not keep these specialized facilities small, and instead build large ones that are cheaper to operate with soil that's easier to work with?

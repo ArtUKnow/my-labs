@@ -1,3 +1,0 @@
-Why do we use Chebyshev polynomials to predict positions of solar system bodies?
-I've seen information for how to use the Chebyshev coefficients that JPL publishes, but nothing that explains why. Why isn't a simpler mathematical model used?
-I'm also surprised that JPL uses a numerical model rather than doing a n-body physics simulation of the Solar System.

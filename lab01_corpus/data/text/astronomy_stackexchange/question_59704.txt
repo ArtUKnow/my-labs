@@ -1,7 +1,0 @@
-How to calculate Star's path on the Planet's sky when given orbital parameters?
-I'd like to know whether the Star's path on a planet is "normal"/typical when I'm on the ground during the whole day. There are some parameters which makes the day and night there:
-orbital period = 115.78 Earth days
-solar day = 124.12 Earth days
-orbital tilt = 47.65 deg
-So the apparent day (while standing on the ground) is a bit longer than the year and this proper tilt is just more than 45 degrees. I'd imagine (or better to draw it) how it would look like the daily path on that planet. Would the apparent sunrise, noon, and sunset "normal" or the sky curve would be more curved than daily Earth Sun's path?
-Anyone know best software for such simulation? Or maybe there are some python scripts similar to this problem? Thanks in advance.

@@ -1,4 +1,0 @@
-How does a closed-cycle rocket engine keep the chamber pressure from stalling the pump turbine?
-I was thinking about how a closed-cycle rocket engine works, and I have a question about how the turbine can keep running.
-As I understand it, once the engine is up and running, the pressure in the combustion chamber creates back-pressure on the fuel and oxidizer lines, which the pumps have to overcome to force reactants into the chamber. In an open-cycle, this is provided by a preburner that runs a gas turbine and then dumps the partially burned exhaust overboard (into an environment that's, at most, at 1 atmosphere of pressure).
-But for a closed-cycle, the fuel goes from the pump through the preburner, through the gas turbine that powers the pumps, and then into the chamber against all that back-pressure. So doesn't that put the whole pump system into a sort of "by your own bootstraps" situation? You have to spin the turbine to turn the pump to spin the turbine.

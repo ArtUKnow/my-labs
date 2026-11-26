@@ -1,9 +1,0 @@
-Were the distances traversed by Perseverance on Sol 718 and 719 each exactly 415.27 m or were they added together 415.27 m and if so, why?
-The image above is an annotated screenshot of a part of the Perseverance location map.
-On the location map the white line represents the trajectory that Perseverance has traveled in Jezero crater. When you place your cursor on a white dot you get the sol number, when you place it on the white line between the dots, you get the distance traveled by the rover between the dots.
-On the image above, I've placed the sol numbers and the distances between those sol numbers along Perseverance's trajectory.
-It's easy to see that the white line between Sol 716 and 717 has about the same length as the white line between Sol 717 and 718, while the distances of 216.52 m and 415.27 m traveled along those lines that are showed on the location map differ so much.
-Also, the fact that 2 distances would have exactly the same length of 415.27 m seems very unlikely.
-A likely explanation could be that the distances traversed on Sol 718 and 719 were added together, the sum being the 415.27 m.
-Could there be a special reason for this, like Perseverance traveling from Sol 717 to Sol 719 without recharging on Sol 718 ?
-Or did Perseverance drive perhaps autonomously all the time on the two consecutive days ?

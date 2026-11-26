@@ -1,5 +1,0 @@
-Does anyone know what MLI looks like after it has vented?
-I was recently watching the recent GlobalStar launch and noticed the multi-layer insulation looked all "puffed out" even while in space.
-I must admit I've never given much thought to what insulation looks like while on orbit. Is this because the internal pressure decreases slower than the external pressure so there's nothing to "de-puff" the blanket while after its in that shape?
-Do thermal engineers have to take into account that the blankets will be slightly curved when they do their analysis?
-If you have any ideas or insight, I would be grateful! Thank you!

@@ -1,7 +1,0 @@
-What will Curiosity do when it no longer has any quartz cups for solid sample evolved gas analysis?
-The Curiosity rover's SAM instrument has 74 cups available in which to do certain experiments. Nine of these are for "wet chemistry" experiments and 59 are for "dry" experiments; the rest are used for calibration (see here). These are all single-use cups, to prevent contamination from previous experiments. I'm interested in the 59 dry experiments, which I'll abbreviate as EGA (for "evolved gas analysis", which they mention often in the blogs).
-Curiosity has been chugging along for well over a decade now. I am pretty sure they do an EGA at least once per drill sample they take; I've not yet found an example where this fails, although I've not been exhaustive in my search. They've done 45 drills, and I know they've done at least 5 EGAs on non-drill solid samples.
-This means they've probably done around 50 of these experiments - there's not many dry cups available, and it's plausible to expect they'll run out in the next 3 years. However, I've not seen anything mentioned about this in the blog or in the most recent planetary senior mission review.
-I'm wondering about the following:
-Will the scientific value of doing further drills drop dramatically once they run out of dry cups?
-Is it likely/possible that they will start re-using dry experiment cups, accepting that contamination will lower the benefit they get from doing so?

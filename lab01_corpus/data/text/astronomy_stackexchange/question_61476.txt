@@ -1,4 +1,0 @@
-How long does it take a debris disk to cool down?
-Suppose that two planets collide (doesn’t really matter why, perhaps because of a stellar flyby or something) in such a way that it completely destroys both bodies. The debris will still orbit the star and would be quite hot. However, over time it should cool to (almost) its equilibrium temperature, right? So how long would it take? Or would it accrete into a new planet before it cooled?
-I’m aware that the answer would depend on the mass of the debris disk and how much light it receives from the star (alongside, probably, many more variables like other planets in the system, composition, etc.). However, is there some ballpark figure or perhaps some place I can read more about it?
-EDIT: @Anushka_Grace suggested giving a more specific example (though if a general answer exists, I’d still be very interested). So let’s say the total mass of the disc is ~1 earth mass and it’s around a G-type star at a distance of ~30 AU.

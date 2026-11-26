@@ -1,3 +1,0 @@
-How to access satellite & debris data categorised by intended purpose?
-I'm working on an art project which requires satellite data (active, inactive, as well as debris), so I was on Space Track. Does the NORAD ID or some other field help retrieve information about the mission objective or the intended uses of the satellite? Or is there another database I should be referring to?
-Thanks in advance!

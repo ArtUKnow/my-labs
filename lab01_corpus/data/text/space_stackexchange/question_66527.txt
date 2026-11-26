@@ -1,2 +1,0 @@
-What purity of LOX is required for use in rocket engines?
-Can any one suggest, is it necessary to check purity of LOX before it is used in an engine? What are the impurities which can affect its performance? What types of tests can we perform to check its purity by which standard?

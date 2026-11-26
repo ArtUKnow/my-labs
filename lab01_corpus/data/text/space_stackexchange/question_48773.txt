@@ -1,3 +1,0 @@
-How do I obtain geocentric position vectors at three successive times before I use Gibbs' method?
-I would like to try out Gibbs' method of preliminary orbit determination, which requires that from observations of a space object at the three successive times $t_1$, $t_2$ and $t_3$ ($t_1 < t_2 < t_3$) we obtain the geocentric position vectors $r_1$, $r_2$ and $r_3$.
-Now, my question is: how do I obtain these geocentric position vectors? Could I for example obtain these from a computer program or a website that provides such information? And if yes, what would you recommend?

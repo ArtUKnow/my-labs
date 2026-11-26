@@ -1,7 +1,0 @@
-Is it possible to create an analytical ephemeris from raw position and velocity of a Body?
-I would like to have an analytical ephemeris for various bodies of the solar system (planets, natural satellites and asteroid). I have at my disposition spice kernels from which i can extract position and velocity for each body.
-I would like to convert this spice ephemeris to an analytical solution such as VSOP2013 because, as far as I understand, analytical ephemeris provides the ability to truncate the series generating the ephemeris, thus offering a way to make a trade off between accuracy of the ephemeris and memory requirements.
-I have managed to create my own ephemerides made of Chebyshev Coefficients from Spice Data but trying to lower the order of the polynomial compared to Spice or the window on which the polynomial is defined has given me poor results.
-Is what I ask even possible ?
-What methods could be used ?
-Note that I don't want an ephemeris for a period longer than a decade and I have low accuracy requirements ( I don't mind a few hundreds kilometers compared to DE440).

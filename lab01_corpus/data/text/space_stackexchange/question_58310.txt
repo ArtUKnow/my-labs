@@ -1,3 +1,0 @@
-Does using multifrequencies totally eliminate the ionosphere delay on GPS measurements?
-I've read that the GPS receiver computes the difference in measurement for two GPS satellite signals (in two frequencies L1 and L2), in order to compute the actual delay that the ionosphere causes.
-But, does it mean this is a perfect method and this error in range will be zero?

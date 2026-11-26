@@ -1,4 +1,0 @@
-How many times does the moon rise between two new moons?
-How many times does the moon rise between two new moons?
-This might be a silly question not meeting the standards here, in that case I will delete it.
-I have tried to write a program using perl, but it looks like there is no module that gives the time of moon rise, and beside, it would not improve understanding. Searching the net, I find the time for moon rise for a town called Perl, but nothing that improves my understanding.

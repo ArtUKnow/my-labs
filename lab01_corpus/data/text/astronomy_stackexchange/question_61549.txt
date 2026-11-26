@@ -1,4 +1,0 @@
-Where are we currently in the moon's apsidal and nodal precession cycles?
-I want to code up a simple model of the earth-moon system assuming fixed values for the nodal and apsidal precession cycles. I've been able to find very precise estimates for the length of the cycles, but it's not clear to me where they begin, and at what point in the two cycles we currently are.
-My expectation is that if I started the model running currently, it would agree with fairly well with high-accuracy ephemerides for at least a few years.
-The larger and more quixotic question I'm attempting to answer is whether it's possible to create a moderately accurate earth-moon model in physical clockwork, but I want to start with a simple computational model to aid my own understanding.

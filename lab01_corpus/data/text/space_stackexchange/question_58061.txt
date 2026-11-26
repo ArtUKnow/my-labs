@@ -1,7 +1,0 @@
-Has Falcon 9 block 5's design stopped evolving?
-Spacex famously iteratively improves the design when developing rockets, with each unit being slightly (or not-so-slightly) better than the previous.
-These days Spacex seems to be focusing most of their development towards Starship and Superheavy, seemingly leaving Falcon 9 behind.
-I also recall that there used to be a debate over the human-rating of Falcon 9, as NASA required a number of successful flights on a rocket to let it carry humans, and each Falcon 9 could count as its own variant with the few changed systems it held. From what I can tell Block 5 solved this issue by freezing the design to some extent.
-Is the Falcon 9's design frozen?
-If not, how does it affect the human-rating of the rocket?
-Answers about the production/assembly line are welcome as well.

@@ -1,4 +1,0 @@
-New Glenn and Starship testing approach differences
-SpaceX has been doing suborbital flights with Starship for a while now, and intends to conduct a second in-orbit engine re-light to demonstrate de-orbit capability.
-Blue Origin's New Glenn has flown once, and achieved orbit in that one flight, without having to demonstrate de-orbit capability.
-What am I missing here regarding the different approaches taken by these two companies? Is SpaceX's priority for orbit less than tech testing? Did Blue Origin get a (special?) exception from the FAA to achieve orbit on first flight?

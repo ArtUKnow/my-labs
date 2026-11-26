@@ -1,7 +1,0 @@
-Would be possible to detect Planet Nine as a microlensing event along the line of its projected orbit?
-Theoretically proposed by Konstantin Batygin and Mike Brown (@Caltech), Planet Nine could have a mass of $\sim 6.3 \pm 2 M_{\oplus}$. Even though I don't know if the hypothesis is still feasible at this point, I wonder if it's possible to detect, even if trying is not worth the effort, microlensing events all across the line of its known proposed orbit, projected from our line of sight (worth regarding actual limitations considering uncertainties in orbital parameters, photometric and microlensing uncertainties, and lack of monitoring of the specific region). What do you think about it, and if it's the case, has this been done, why (not)?
-Comment: maybe one challenge is to find a source behind the orbit in our epoch.
-Related questions:
-what wavelength to best detect the 9th planet (if exists...)
-Why hasn't the "9th Planet" been detected already?
-How can we see planets thousands of light years away but don't know if there are more planets in the solar system?

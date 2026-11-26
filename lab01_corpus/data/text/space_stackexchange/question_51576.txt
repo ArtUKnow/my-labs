@@ -1,8 +1,0 @@
-Why don't we build an interstellar specific mission spacecraft?
-Voyager 1 and 2 go at ~60k km/h,
-It took them approx. 40 years to leave the heliosphere and get into the interstellar space.
-The Parker Solar Probe is intend to reach 600k km/h.
-With this velocity, reaching the heliopause (123AU - 18 billion kms) would take about 3 years, after accelerating to full speed.
-It's something achievable, considering the propulsion, communication system and detector technologies we have today we can learn a lot about the interstellar space, while the spacecraft is fully functional.
-Considering the statement that "We realized the interstellar space is very much different than we assumed" when Voyager 1 left the heliosphere , why don't we carry such a mission?
-Thanks.

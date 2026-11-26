@@ -1,8 +1,0 @@
-Why making such a big deal with Max Q?
-At each SpaceX launch, they always make some big deal of Max Q which most of the time comes at around 13Km and at a speed of 1700Km.h-1
-But on the way back, stage 1 is at this same altitude of 13km at around 3000km.h-1, and instead of having aerodynamic fairings to help splitting the air, it shows several nozzles to the airflow.
-Here is a plot from FlightClub.io showing a simulation of the aerodynamic pressure (Q) on the latest Starlink launch showing this difference:
-So the aerodynamic pressure on the nozzles is far more impressive than the one while climbing, isn't it?
-Then why making such a big deal with this first Max Q which is by far, less important compared to the second one?
-Thanks for your ideas and comments,
-Lim.

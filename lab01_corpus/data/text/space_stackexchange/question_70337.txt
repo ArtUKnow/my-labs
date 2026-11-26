@@ -1,2 +1,0 @@
-Holding the liquid engine nozzle in horizontal condition
-During horizontal transportation and tilting of rockets with cluster engines, The engines may sag and nozzles will touch each other. Since the control actuators are not powered how the nozzle is kept in position without hitting each other.

@@ -1,5 +1,0 @@
-What is this black smoke coming from an all solid fueled Epsilon rocket?
-I saw a clip of a recent (Nov. 5th, 2021) JAXA Epsilon launch on Instagram (link). Shown differently here in a YouTube video @~0:23s:
-It's an entirely solid fueled vehicle so turbine exhaust can (I believe) be ruled out. Wikipedia says the first stage is a modified H-IIA side booster which seen here does not emit any black smoke:
-My understanding and (hobby) experience with solid motors is that they light kind of like a gas barbeque (i.e., wholly and suddenly), yet in the video the vehicle seems to sit emitting the smoke for ~10 seconds before 'fully' igniting.
-What causes the black smoke?

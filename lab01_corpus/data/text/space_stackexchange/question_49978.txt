@@ -1,2 +1,0 @@
-Falcon 9: Stable platform or strapdown IMU?
-What type of IMU does the Falcon 9 use? Is it a stable platform aligned with a global frame by gimbals? Or is it a strapdown system fixed to the body of the rocket and therefore aligned not with a global frame but with the rocket's body frame?

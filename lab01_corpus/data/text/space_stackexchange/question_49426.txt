@@ -1,6 +1,0 @@
-What are the Basics of CubeSat Power Supplies and Systems?
-I am going to go ahead and apologize for my ignorance surrounding this topic, as my background is Aerodynamics, and not Electrical Engineering. From what I understand, CubeSats typically generate their power through the use of solar cells. My questions regarding CubeSat power are below:
-How is this power distributed to run the various subsystems on the CubeSat?
-Is the CubeSat power output from solar cells usually in a standardized form?
-Are there standard connections used for the subsystems to tap into the CubeSat power supply?
-It would probably be helpful for me to provide a little more background into what I am trying to accomplish. Ultimately, my team and I are designing an aerodynamic drag device that can be used for satellite collision avoidance in LEO. The goal is to provide a CubeSat operator with the capability act upon a collision warning should it be received, by sending a signal to their CubeSat to deploy our aerodynamic drag device, then retract that drag device once the collision risk has passed.

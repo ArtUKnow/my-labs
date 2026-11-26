@@ -1,6 +1,0 @@
-Are toggle- or rocker-type switches avoided in crewed areas of space stations to avoid getting accidentally bumped?
-@OrganicMarble's answer to What's the small white gadget with two black buttons in this video of the International Space Station? includes the On/Off switch for cabin lighting aboard the ISS.
-There are two buttons, one for ON and one for OFF.
-Comments there remark at it being a bit usual for a wall switch for a room light, and I'd guess that recessed buttons that have to be pressed firmly (as the image notes) are resistant to inadvertent actuation.
-Question: Are toggle- or rocker-type switches avoided in cabin areas of space stations or in non flight-deck areas of other large spacecraft (e.g. shuttles) to avoid getting accidentally bumped and actuated?
-note: Historically there have been toggle switches in flight decks or capsules, I'm not asking about those areas.

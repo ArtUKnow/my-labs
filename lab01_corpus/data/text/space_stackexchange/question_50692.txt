@@ -1,3 +1,0 @@
-How will the future Mars Space Suit Helmet design protect Astronauts from Martian Radiation?
-Mars Space Suit Helmet Visor's were mostly made up of polycarbonate [1], the same material used for EMU's visor for performing EVA in earth orbit. Meanwhile, Mars' radiation is 2.5x higher. How are we planning to tackle those issues? What new material might be used?
-[1] Lousada, Joao & Kamaletdinova, Guzel & Patel, Divyesh & Ramawickrama, Yasith & Oluwafemi, Funmilola Adebisi & de la Torre, Andrea & Heshani, Uthpala & Onevsky, M. & Skvortsov, Sergey. (2017). Approaches and Solutions for Martian Spacesuit Design.

@@ -1,7 +1,0 @@
-Unreasonable ratios in astronomy as ways of remembering
-In mathematics there are approximations to pi such as:
-$\pi\approx\dfrac{355}{113}$
-that have extraordinary accuracy and are useful ways of remembering or being able to calculate a value close to pi that may be used in calculations.
-I noticed the the ratio of the diameter of the moon to the earth seems unreasonably close to $\frac{3}{11}$.
-Is my observation correct?
-And are there other useful ways of remembering approximate metrics of various heavenly bodies with surprising economy?

@@ -1,6 +1,0 @@
-Where to get data for axis of rotation of solar system bodies?
-Where can I get data for the axis of rotation of the (major) bodies of the solar system?
-For each solar system body, I want to get a unit vector of its axis of rotation (at a specified point in time).
-Are there any sources where I can get this data directly? Else, what other data could I derive this from and with what methods?
-I have no experience using ephemerides or astronomical coordinates, and have just started trying to understand the JPL Horizons documentation, but am concerned from my first readings that I will not be able to directly find the data I am looking. Is the SPICE system a more appropriate place to look?
-I would greatly appreciate any suggestions.

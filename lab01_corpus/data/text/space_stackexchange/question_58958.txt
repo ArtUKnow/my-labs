@@ -1,6 +1,0 @@
-What is the maximum distance between two satellites orbiting at 400 km that would still allow them to communicate with each other using radio waves?
-All satellites have the same inclination.
-At an altitude of 400 km, the circumference of their orbit is $2\pi \cdot (6371+400) = 42\ 543$ km.
-If, for example, you have only 2 satellites separated by half the distance (i.e. 21271 km), will they be able to communicate with each other? I guess not because Earth would be in the way.
-If we have 3 satellites separated by a third of the distance (i.e, 14000 km), will they still be able to communicate with each other?
-If the maximum distance is X, how many satellites are needed to cover the whole orbit?

@@ -1,2 +1,0 @@
-Can the L1 Lagrange point have a Lagrange point between it and the Earth?
-Between the Earth and the moon, there is the L1 Lagrange point. An object at L1 will orbit the Earth along with the moon, though the orbit may not be stable. My question is: can there be another Lagrange point between L1 and the Earth, if the object at L1 has a certain mass? I realize that this second-order Lagrange point may not be a stable one.

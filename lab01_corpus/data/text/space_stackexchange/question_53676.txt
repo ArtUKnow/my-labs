@@ -1,4 +1,0 @@
-Prop feed with Anhydrous Ammonia in Microgravity
-Considering contributing to an SBIR through my PhD where we're looking at NH3 as a green prop solution. Need to figure out how to feed vapor from a liquid/mixed phase tank to the a prop system. Could we just open a valve and have a vaporizer inline to ensure no blobs of liquid get through to the prop feed system? My thought here is that if you have a tank of liquid NH3 on orbit and open a valve, it's going to blow down to vacuum whether it's sputtering liquid blobs or not.
-Would a PMD or some other prop management be advisable? Any literature or research that's available?
-Thanks!

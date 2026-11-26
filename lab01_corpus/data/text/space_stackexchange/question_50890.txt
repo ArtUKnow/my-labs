@@ -1,7 +1,0 @@
-Attitude control with cold gas thrusters
-Consider the cold gas thrusters on a Falcon 9.
-There are two thruster pods on stage 1 and two on stage 2.
-Each pod has four orifices to fire along the x, y, and z axes of the scacecraft. By varying the orifices you fire, you can control for roll, pitch, and yaw.
-Would the thrusters ever fire to control more than one axis at a time? Or would they fire to correct the error measured on one axis before moving on to another axis?
-If the thrusters fire to control more than one axis at a time, is there a reduction in the thrust produced per axis? (If the thrusters are powered by a single gas tank at some pressure P, then it seems you would have to split the flow rate given by P between the multiple orifices on a pod?)
-No worries if you don't know about Falcon 9 specifically. I'm using it only as an example. I'm just trying to get a better sense of how cold gas thrusters might fire so that I can more properly simulate them. My only goal is to get a bit closer to "reasonable."

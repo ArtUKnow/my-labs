@@ -1,2 +1,0 @@
-Pressure and Leak Testing of Rockets
-For any pressure vessel, hydrostatic/pneumatic pressure testing and helium leak testing are carried out as per UG-99/UG-100 and ASME, Section V, Article 10, respectively. For a rocket, what are the test conditions for pressure and leak testing and how temperature and speed are taken into account during testing for qualifying the integrity of spacecraft/space shuttle?

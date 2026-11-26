@@ -1,2 +1,0 @@
-How to plot a satellite's orbit around Earth in MATLAB?
-Given orbit height, mass and initial velocity how should I plot a satellite's orbit in MATLAB? I was hoping to use verlet integration (I need to implement a solver) possibly the velocity-verlet. I would also like to develop this into a model that also includes the Moon but this was a stretch goal.

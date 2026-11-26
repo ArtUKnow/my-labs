@@ -1,3 +1,0 @@
-What are the parameters of the Voyager high-gain antenna?
-The Voyager spacecraft have a 3.66 m diameter parabolic high-gain antenna. I've had a nose around NASA's archives but I can't find the exact geometry of the parabola; specifically the distance from the vertex to the focus, the latus rectum or alternatively the quadratic equation of the parabola.
-Any suggestions where to look, or does anyone happen to know the shape of the antenna's parabola?

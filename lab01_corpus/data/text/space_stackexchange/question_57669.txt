@@ -1,4 +1,0 @@
-What are the benefits of supersynchronous transfer orbits?
-Some satellites are injected into higher apogee than standard GTO apogee of 35 786 km. Next the satellite then has to increase its perigee ( usually 250 km ) to GEO altitude. Then the apogee has to be decreased to GEO altitude.
-What is the benefits of this kind of orbital injection?
-Doesn't this require extra delta-v budget than standard GTO launches?

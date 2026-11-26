@@ -1,5 +1,0 @@
-How much lower is max q if launching from high altitude (i.e. mountain top)?
-I looked at very simple max q formula: q=1/2 ρv^2 (https://en.wikipedia.org/wiki/Max_q). As air density is lower with altitude, the max q should be lower as well, and also should occur at higher altitude.
-using this formula, I estimated for Falcon 9 that Mount Everest should reduce max q by 16 times, compared to sea level launch and max-Q altitude increases about from 7km to 11 km.
-But then I saw this post: Is it possible to calculate Max-Q without having to input an altitude, which basically says "it's complicated".
-Is it possible to significantly reduce real max q by launching of high altitude? And by how much?

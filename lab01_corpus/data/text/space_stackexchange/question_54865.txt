@@ -1,8 +1,0 @@
-Measurements processing order impact in Kalman filter
-In sequential Kalman filters the measurements are processed as scalars one after the other. The sequence is somewhat:
-Compute innovation
-Compute Kalman gain (I consider for simplification a linear Kalman filter)
-State and covariance innovation
-The next measure will go through the same process. However, the covariance matrix will have smaller terms, therefore reducing the weight of the next measures. I kind of see it as a weigthed least-square algorithm where the weight diminishes depending on the measurement number in each time step. If this is true the order of measurement processing would impact the results. I understand this is not the case and there should be a mathematical demonstration that shows that the order of measurements does not impact the KF. Does someone knows how to demonstrate this?
-I understand as it is explained in the reference below that there is a second order impact in terms of jacobian computation and measure rejection, but this is not the component that bothers me:
-https://ntrs.nasa.gov/api/citations/20180003657/downloads/20180003657.pdf (section §3.2)

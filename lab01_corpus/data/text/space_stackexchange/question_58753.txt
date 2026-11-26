@@ -1,5 +1,0 @@
-How much energy is lost by damping yaw from a SpinLaunch?
-SpinLaunch hopes to launch a 200 kg satellite from a ground-based centrifuge, at 5000 mph, and more troublingly, at 450 rpm aka 7 tumbles per second.
-(The 3000 rpm figure mentioned in its tech sheets isn't for the launch centrifuge, but for a reaction wheel.)
-How great a fraction of its launch energy will be wasted by dissipating into drag that much rotational inertia? Even if at ejection the spacecraft were roughly spherical like the stone that David lobbed at Goliath, it would eventually need to be stabilized before onboard propulsion could change its trajectory to orbital. But they expect a sabot shape, which would need to be stabilized much sooner.
-200 kg satellites are nowadays about a cubic meter, if that helps. The sabot surrounding it would be much longer and have much more yaw rotational inertia. It would also weigh about 1000 kg. Dissipating that much rotational inertia within, say, an eighth of a rotation, about 17 milliseconds, would likely require more than just a pointy nose and tailfins.

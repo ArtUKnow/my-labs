@@ -1,8 +1,0 @@
-How to calculate the number density of electrons?
-I am trying to calculate the number density of electrons (number of electrons/m^3) for a white dwarf, knowing these parameters :
-the mass and radius of the white dwarf (therefore its density (kg/m^3))
-the electronic fraction : fe = 0.5
-I am a bit struggling with the latter notion and with the role it plays in the formula we are trying to establish.
-Can somebody give me an easy way to link all these parameters to get the number density of electrons?
-(I tried many approaches but none of them was convincing. By searching the web, I found a formula using the mass of the proton, which I did not really understand.)
-Thanks by advance!

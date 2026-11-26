@@ -1,2 +1,0 @@
-Local atmospheric pressure and local surface gravity in Jezero crater?
-Did Perseverance and/or Ingenuity measure the local atmospheric pressure and local gravity where they are? Ingenuity had been tested in a 0.006 atm chamber on Earth, therefore I guess the local atmospheric pressure is about the same as the global average on Mars (and Ingenuity eventually did well on its maiden flight), but was such pressure measured by the probes on Mars, to make it safe? Did they also measure the local surface gravity, or their own weight on Mars perhaps?

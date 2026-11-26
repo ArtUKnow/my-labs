@@ -1,7 +1,0 @@
-Is it possible for the exhaust plume of a rocket engine burning retrograde to accelerate an object into an even higher orbit?
-A couple weeks back, a debris object was catalogued in a 210x540km orbit following the deorbit burn of the Falcon 9 second stage that launched CRS-22:
-Hmm... possible that CRS-22's stage 2 made its deorbit burn in the wrong direction? Object 48832 / 2021-048B cataloged in a 210 x 540 km orbit, looks like it departed the CRS-22 insertion orbit around 1815 UTC.
-Unclear for now if it's actually stage 2 or a small bit that came off— Jonathan McDowell (@planet4589) June 4, 2021
-While initial speculation focused on the idea that the second stage somehow performed the deorbit burn in the wrong direction, this was debunked soon after. To me though, that only created a more interesting question, of how debris could have come loose from a deorbiting second stage and ended up in a higher orbit.
-One thought I had was that perhaps an object came loose from the stage and entered the exhaust plume of the engine, which then accelerated it into the elliptical orbit it was catalogued in.
-Is this theory physically possible, or am I misunderstanding things?

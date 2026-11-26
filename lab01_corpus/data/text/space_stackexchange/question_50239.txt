@@ -1,6 +1,0 @@
-Venus probe with refrigerated electronics powered by an RTG (more like the Mars rovers)
-Because of the very high surface temperatures on Venus (~450 oC) conventional semiconductor electronics will not work. Discussion of surface probes to Venus talk about using vacuum electronics, diamond semiconductors, and even clockwork mechanisms. But I haven't seen anything about simply refigerating the electronics with power from an RTG.
-RTG technology is well understood, extremely reliable, and is long-lived (44 years so far in Voyager-1). The challenge, would be to redesign the RTG for the very high sink temperature. The plutonium source decays with 5.6 MeV of energy, so the temperature of the driving source is effectively infinite and presumably metallic thermocouples still work at elevated temperatures. Admittedly, the RTG it will likely be quite inefficient in terms of electrical output, but could this not be used to refrigerate a small amount of carefully insulated electronics for critical sensors and communications?
-Maybe we could have the excess heat from the RTG drive a Stirling engine for locomotion?
-Wouldn't it be wonderful to have a 'Perseverance' or a 'Curiosity' wandering around on the surface of Venus for a few years!
-Does NASA have studies along these lines with an RTG and refrigerated electronics?

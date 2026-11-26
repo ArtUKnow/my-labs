@@ -1,3 +1,0 @@
-Within the Milky Way, how much helium is made each second?
-The Milky Way has 100-400 billion stars. Our sun is a fairly average example, and it converts 3.7× 10^38 protons to helium each second, through two different fusion pathways.
-I would like to know the best estimate for how many new helium atoms are created across the entire Milky Way each second. I'm tempted to just multiply 3.7× 10^38 by 200 billion stars, but given the mass-luminosity relation this feels a bit naive. Is there a better approach?

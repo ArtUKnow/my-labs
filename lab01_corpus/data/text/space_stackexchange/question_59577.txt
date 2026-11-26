@@ -1,2 +1,0 @@
-Is it possible for an Orion drive-based spaceship to experience smooth artificial gravity?
-One of the problems of using an Orion drive or any pulsed based drive, is that the occupants will feel a sudden jolt of force instead of a smooth constant acceleration for artificial gravity. Is there a way of alleviating this problem for pulsed drive ships?

@@ -1,8 +1,0 @@
-Where can I find citeable material on radiation shielding solutions utilized on different test missions?
-I'm having a hard time finding citeable material on what different radiation shielding solutions different test missions have utilized.
-So far I've found that:
-SpectroCube only shields its most sensitive electronics with 6mm aluminium
-GTOSat has a radiation vault and spot shielding
-Orbital Factory 2 has an aluminium case
-Shields-1 compares the performance of different kinds of radiation shields
-However, all of these missions are to GTO (or HEO, higher erth orbits). It would be nice to find some material on missions to lower earth orbits. I can't find any reflection on the used solutions either. E.g. whether the shield was thick enough or not, if it was unnecessary and so on.

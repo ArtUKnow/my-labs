@@ -1,6 +1,0 @@
-Perigee location?
-Suppose I throw a ball eastward from Kennedy and reduce the earth to a point so that the ball can trace an ellipse around it.
-Because I threw the ball eastward (no vertical or northern velocity components), I expect the launch site to be either the perigee or the apogee of the resulting orbital ellipse.
-But which?
-I feel strongly that it should be the apogee, meaning the perigee would be 180 degrees displaced from the launch site.
-Is this right?

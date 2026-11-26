@@ -1,4 +1,0 @@
-How ADCO/TOPO "Propagated State Vector" should be interpreted?
-Here https://github.com/ISS-Mimic/Mimic I read: "The current total epic and all inclusive list of public telemetry can be seen at our page here https://iss-mimic.github.io/Mimic/".
-The list includes: "US Guidance, Navigation and Control (GNC) J2000 Propagated State Vector" whose timestamp is 40 seconds in the past.
-Are those values ​​coming from telemetry or are they propagated?

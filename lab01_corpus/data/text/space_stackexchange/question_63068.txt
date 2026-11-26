@@ -1,3 +1,0 @@
-Establish if Payload is Still Operational - Space Track
-The Space Track APIs give great information about satellites that are currently in orbit. However, I'd like to be able to distinguish between payloads that are still in orbit, but dead, and payloads that are still in orbit and operational.
-Is there any way to do this?

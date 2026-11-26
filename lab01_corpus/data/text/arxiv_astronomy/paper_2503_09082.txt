@@ -1,2 +1,0 @@
-Search of High-Frequency Variations of Fundamental Constants Using Spin-based Quantum Sensors
-This study presents a novel method using spin quantum sensors to explore temporal variations of fundamental constants, significantly expanding the frequency range and providing constraints on scalar dark matter.

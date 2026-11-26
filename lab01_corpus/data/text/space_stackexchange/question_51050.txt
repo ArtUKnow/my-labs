@@ -1,5 +1,0 @@
-Flying saucer shape rocket vs cylindrical shape rocket
-Here's my hypothesis-
-Cylinder shaped large rocket is not suitable for vertical landing due to its high center of mass and bulky weight. However an equally weighing saucer shape rocket has more distributed weight and it will ease design of landing gears.
-Use a flying saucer shaped like spacecraft and go for slow ascent in the dense atmosphere during lift-off, to overcome disadvantage of it's non-streamline hull shape. In the rarefied atmosphere, it can pick up the needed escape velocity. The re-entry and vertical landing will be comparatively easier due to low center of mass and wider body allows better heat shielding, heat dissipation and deacceleration for a soft landing.
-Please prove me wrong.

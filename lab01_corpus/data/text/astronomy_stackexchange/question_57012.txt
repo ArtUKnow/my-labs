@@ -1,4 +1,0 @@
-Is it coincidence that the earth's rotation and revolution are in the same direction?
-In a reference system where the sun is static, the rotation and revolution of the earth are, when viewed from above the north pole, both counterclockwise.
-Is it a coincidence that they agree? Or does the earth's angular momentum somehow "interact with gravity" in such a way that agreement between the rotational directions is "favoured"?
-I guess in classical mechanics terms, my naive intuition is that there is always the same amount rotating towards the sun as away from it, so gravity shouldn't play a role - or is it actually exactly this which is wrong when taking the motion around the sun into account?

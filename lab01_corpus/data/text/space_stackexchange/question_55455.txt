@@ -1,4 +1,0 @@
-Understanding g₀ to calculate delta-v
-I am trying to calculate the exact delta-v from various existing upper stages with a given payload in a vaccum and in orbit, say LEO. I understand that according to the Tsiolkovsky rocket equation:
-$$\Delta v = \mathrm{I_{sp}} \ g_0 \ \ln(m_0 / m_f)$$
-I can find all the various variables for my craft except $g_0$ that I don't fully understand. Is it always fixed to 9,806? Is it related to TWR (that I can find as well)? Is it always 1?

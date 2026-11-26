@@ -1,5 +1,0 @@
-Refueling a Mars mission on the way
-Inspired by another question asking why we can't use faster rockets to Mars I came up with a naive question of my own ;-).
-The answer to the first question is that the pesky rocket equation makes faster rockets which need longer burns and hence more fuel prohibitively large and expensive.
-One solution would be to send fuel tanks on the way earlier, then rendezvous with them at successive points en route and refuel mid-flight. Obviously, you cannot send that fuel very fast because, you know. This unfortunately implies a large delta-v latest at the second rendezvous point unless somebody comes up with something really smart, like slingshot maneuvers for the fuel or some other method to align the trajectories better. This would accelerate the actual payload flight even if the preparation might take years.
-Has such a possibility been explored? Anything wild? Like, dunno, little fuel bubbles that will be slurped up, delta-v be damned?

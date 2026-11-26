@@ -1,2 +1,0 @@
-What is measured with g-forces?
-When sitting at rest, a typical "g-meter" shows a value of one, however the meter is not accelerating. In orbit, it shows zero, but is under constant acceleration. The actual force of gravity in both situations is almost identical, so what exactly is being measured?

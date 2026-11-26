@@ -1,5 +1,0 @@
-Will Cygnus do anything special when it "looses its NACHOS"?
-CBS News' NASA's new "NACHOS" instrument could help predict volcanic eruptions explains that this nanosatellite will be deployed from the Cygnus spacecraft launched February 19, 2022 after it departs the ISS and before it reenters Earth's atmosphere.
-Question: Will Cygnus simply deploy it with a low velocity without fanfare or special maneuvering or will it have some series of specific maneuvers necessary for deployment?
-NACHOS, with its solar panels unfolded. CREDITS: LOS ALAMOS NATIONAL LABORATORY/LOGAN OTT
-Source

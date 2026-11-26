@@ -1,5 +1,0 @@
-Do we have the technology to create a satellite telescope constellation that uses interferometry?
-Apologies for putting the bulk of the question in the description. I'm honestly not sure how to ask this properly. The idea for this question came from a Vsauce video from several year ago I can't even find again.
-As I understand it we can combine the image from multiple telescopes into one, increasing the resolution, but not the brightness. The further away these two telescopes are from each other the better resolution, and as I understand it we've done this with Earth based telescopes.
-To me the next logical step would be to put a couple of these telescopes into space. The distances would give incredible resolution, no?
-Do we have the technology to do this kind of thing, if so what kind resolution would it get? Also how precisely do we need to know the satellite's position? The Earth based telescopes like this I know of are mechanically connected.

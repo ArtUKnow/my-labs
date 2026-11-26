@@ -1,4 +1,0 @@
-GMAT: Is there a way to specify an ENU frame centered on a satellite?
-That's the question! I tried to create a topocentric frame, centered on a satellite, but got the following error:
-CoordinateSystem exception: The origin for a Topocentric Coordinate System must be a BodyFixedPoint
-Unfortunately, that's the only way I could figure how to have a frame that is aligned with ENU.

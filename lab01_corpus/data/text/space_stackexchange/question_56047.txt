@@ -1,9 +1,0 @@
-Why are eclipses of the James Webb by the Earth or Moon not permitted during the mission?
-Why are eclipses of the James Webb Space Telescope (JWT) by the Earth or Moon not permitted during the mission?
-In Seasonal variations of the James Webb Space Telescope orbital dynamics it is stated
-Shadows, or eclipses of the spacecraft by either the Earth or the
-Moon, are not permitted at all during the mission… these constraints
-conspire to limit the maneuverability of the spacecraft and couple the
-orbital dynamics to the rhythms of the Earth, Moon, and Sun.
-How come? The cold “science” side of the spacecraft is already eclipsed by the sunshield. Communications interruption should not be an issue since communications are intermittent anyway.
-The Earth's umbra extends 1,400,000km and the JWT is 1,500,000km from Earth, so the telescope would never be completely eclipsed in the worst case. Since it is in a 800,000km halo orbit with a period of 6 months, it would take about 18 hours to traverse one Earth diameter or 36 hours to pass through the penumbra.

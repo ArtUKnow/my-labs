@@ -1,4 +1,0 @@
-Is vacuum created between the inner engines under Earth's atmosphere that could affect the booster in the early moments of the ascent?
-The booster has a lot more engines than the Starship.
-My thoughts are that if there's isn't a pressure relief to the innermost engines they could create a vacuum pulling the hot gasses expelled. I know that the force exerted by the engines is probably negligible to the force created by the vacuum, and that possibly the booster systems balance out the difference in trust (if that's even a thing) so that the engines' output is equal.
-Is there any chance that in the early moments of ascent, the vacuum might cause significant inefficiency or distress to the engines or other parts of the booster?

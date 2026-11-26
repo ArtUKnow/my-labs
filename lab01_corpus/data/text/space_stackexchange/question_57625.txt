@@ -1,5 +1,0 @@
-Where to find the data to graph JWST temperature since launch?
-is there a resource online which shows the evolution of the JWST temperatures through time?
-I am referring to these shown in the https://jwst.nasa.gov/content/webbLaunch/whereIsWebb.html website:
-Or, otherwise, a public resource where these data are available to plot?
-Why? just for fun, it would be nice to see the progression of the temperature through the various stage of the deployment or as the spacecraft gets farther away from the sun (the effect of which I assume would be quite negligible).

@@ -1,4 +1,0 @@
-Are Artemis missions launched into a free return trajectory like the Apollo program?
-The Apollo program spacecrafts were put on a free return trajectory after during the TLI maneuver.
-Does Artemis mission also put crafts on a free return trajectory?
-If no, what are the redundancy measures included that were not present in the Apollo program?

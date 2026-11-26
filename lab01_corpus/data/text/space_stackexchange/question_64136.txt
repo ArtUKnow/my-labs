@@ -1,4 +1,0 @@
-How are starlink satellites deployed?
-I'm not a science guy, but I did some research and I gathered that the rocket's upper stage spins before releasing the satellites stack in such a way that each satellite is given a slightly different speed. When the stack is released, the satellites are spaced out precluding or minimizing any possibility of collision between themselves.
-If the satellites are stacked together, how does the spin give each satellite a different speed?
-And, the starlink "train", which we can see for a few days after deployment, is it the result of this spin, or of the satellites firing their own thrusters into a single file , or both?

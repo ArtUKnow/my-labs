@@ -1,8 +1,0 @@
-Would major changes since "Equations of powered rocket ascent and orbit trajectory" was written reduce its applicability?
-I was wondering where I can learn how to calculate the trajectory of present day launch vehicles. I've stumbled upon this book, called Equations of powered rocket ascent and orbit trajectory.
-Publication:
-Final Report Naval Research Lab., Washington, DC. Communication Sciences Div.
-Publication Date: May 1979
-But I'm hesitant to use this reference as it is circa 1979 and in forty years certainly some things have changed.
-Would major changes since this work was written reduce its applicability? If so, in what ways would it still likely be timely and applicable, and in what ways might current launch vehicle flight have aspects that would need more recent texts to be covered?
-Also, maybe there are easier and better ways to learn about calculating rocket flight trajectory?

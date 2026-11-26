@@ -1,3 +1,0 @@
-What if the Starship fins were fixed?
-The body flaps on Starship have the responsibilty of controlling attitude during atmospheric flight. They are also needed to deal with the large moments created by carrying payloads in the nose.
-Movable control surfaces are useless for Starship when it is outside an atmosphere, whereas RCS can be used anywhere. So, what if Starship omitted the flap movement in favor of RCS for attitude control and adjusted fin geometry to keep the center of pressure within a range of acceptable limits for various CGs? Would the existing RCS thrusters be able to cope? Would thruster reliability be a deal breaker?

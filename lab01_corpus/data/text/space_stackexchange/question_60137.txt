@@ -1,6 +1,0 @@
-Does thrust vectoring by a gimballed nozzle in rockets affect thrust/efficiency?
-I was wondering if thrust vectoring via a maneuvering gimballed nozzle affected the thrust of a rocket. I've read a couple times that a gimballed rocket engine's thrust doesn't change while exhaust vanes do, (I imagine they're similar to how an aerodynamic control surface works).
-It seems logical to me that a gimballed nozzle shouldn't affect thrust of rocket when deflecting the exhaust, however I am unable to find anything that states this.
-It also seems that gimballed nozzles are used on solid fueled rockets, and not on liquid fueled ones. I'm assuming gimballing a solid fueled rocket engine would not be possible due to the propellant basically being the combustion chamber?
-In short: do gimballed nozzles have any effect on raw thrust output?
-If not, why aren't they used on liquid fueled rockets?

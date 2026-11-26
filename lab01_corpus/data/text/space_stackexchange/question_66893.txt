@@ -1,3 +1,0 @@
-Could inflatable habitats be used on an artificial gravity station?
-If you take an inflatable module such as the Sierra Space's LIFE, could you arrange them all around the ring of an artificial gravity station? My main question here is regarding the structural integrity of the modules. We know from BEAM and Sierra's testing that these modules are surprisingly durable, more durable in some regards than traditional space station modules - however, could they withstand the rotational force of a station?
-My gut instinct tells me either the answer is obviously yes, because they can withstand 1G on Earth, or "it's complicated."

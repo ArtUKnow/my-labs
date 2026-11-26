@@ -1,3 +1,0 @@
-Can stars be less wasteful of their nuclear fuel?
-When a star dies (either in a nova, supernova, or any other end of its evolution), it always leaves behind residual unfused hydrogen, helium or any other unfused product that was not available in a nuclear fusion phase.
-However, can smaller stars (like red dwarfs of class M or K) have a perfectly waste-free life where they manage to fuse all their hydrogen fuel? Or in another case, can massive stars be less wasteful than other massive stars by having a significantly smaller un-fused fraction after death? If it is true that this happens, why is that?

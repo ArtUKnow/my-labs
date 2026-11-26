@@ -1,3 +1,0 @@
-Why does the Perseverance landing site have three close bright dots in a line, with a perpendicular dark streak?
-The February 27 Astronomy Picture of the Day has a picture of the Perseverance landing region taken by the Mars Reconnaissance Orbiter. The landing site itself has a distinctive look:
-The left image is from the APOD page, and the right is from this NASA page. From the right image, it is clear that the dot in the middle is the rover itself, and the light patches to the upper right and lower left are probably where the rockets scoured away an upper darker level of soil. But what is the dark streak? And why are there two separate patches? With four rockets in a boxy rectangle 25 feet up, I would have expected a single oval scoured patch.

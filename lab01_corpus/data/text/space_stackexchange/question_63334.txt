@@ -1,4 +1,0 @@
-Would the steel frame/skin of Starship be able to endure loss of a heat shield tile during reentry?
-STS-27 was able survive reentry without a tile because the was over a metal component with sufficient thermal inertia to serve as a heat sink without melting.
-Would the steel frame of Starship be able to do the same, or is the skin too thin to transmit heat away from the hole quickly enough without melting?
-If yes, is there any way it could handle the mechanical strain of what's probably going to be a mess of shocks & turbulent hypersonic airflow?

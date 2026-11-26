@@ -1,6 +1,0 @@
-Spacex NASA GOES-U 2024 contract to use Falcon Heavy?
-https://www.nasa.gov/press-release/nasa-awards-launch-services-contract-for-goes-u-mission
-Why would they use Falcon-Heavy instead of Falcon-9 FT for the GOES-U 2024 satellite launch?
-Falcon-9 FT has the following specifications to geosynchronous orbit.
-5,500kg to GTO reusable, 8,300kg to GTO expendable. https://en.wikipedia.org/wiki/Medium-lift_launch_vehicle
-And according to https://en.wikipedia.org/wiki/GOES-U the launch mass of the GOES-U is only 2,800kg, which is well within the range of an ordinary reusable FALCON-9 FT, so why would the contract specify using FALCON-HEAVY? Also, could this change to Starship? Starship should have launched several flights by 2024 ...

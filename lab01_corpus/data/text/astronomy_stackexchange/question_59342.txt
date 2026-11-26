@@ -1,5 +1,0 @@
-How to Replace Bad Pixels with Proper Values When Using SWarp?
-I am currently using SWarp for image stacking and have encountered an issue with bad pixels, as shown in the attached DS9 image. These bad pixels have negative values, and I’d like to replace them with appropriate values.
-I understand that SWarp’s interpolation primarily deals with recalculating pixel positions based on projection changes. However, in my case, only specific pixels are bad, and I want to handle them appropriately during the combination process.
-While I’ve used a WEIGHT map to exclude these bad pixels from the calculation, the bad pixels themselves are still present in the final output.
-Could you provide guidance on how to effectively replace these bad pixels with proper values during SWarp processing? Any advice or recommendations would be greatly appreciated.

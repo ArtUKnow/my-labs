@@ -1,9 +1,0 @@
-What are the challenges associated with using lithium hydride as a rocket fuel?
-Setting aside issues of cost and toxic exhaust products, what are the difficulties of using LiH in a rocket engine? Is it corrosive?
-Related question here:
-https://chemistry.stackexchange.com/questions/185248/has-lithium-hydride-ever-been-tested-as-a-rocket-fuel
-I know about the Rocketdyne Tripropellant rocket that burned H2, Li, and F2 together but I'm interested in rockets that use LiH
-One of the comments pointed to this section of the wikipedia entry but both the citation links are broken:
-https://en.wikipedia.org/wiki/Lithium_hydride#Hydrogen_storage_and_fuel
-LiH also gets mentioned as a NTR propellant here:
-Alternative propellants in nuclear thermal rockets

@@ -1,2 +1,0 @@
-How to seed a blackhole in GADGET4 simulations?
-I am new to GADGET-4 "a parallel cosmological N-body and SPH code meant for simulations of cosmic structure formation and calculations relevant for galaxy evolution and galactic dynamics". I tried GADGET - 4 for a set of demo ICs that came with the model. However I am wondering how to make a new particle type "balckhole" and then using FoF to find the halos and their mass and based on their mass seed a blackhole at their center of mass. Can anyone help me please.

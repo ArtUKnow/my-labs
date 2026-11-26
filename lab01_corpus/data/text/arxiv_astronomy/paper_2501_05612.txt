@@ -1,2 +1,0 @@
-Thin and thick bubble walls III: wall energy
-We study the energy-momentum tensor of a bubble wall beyond the approximation of an infinitely thin wall. To this end, we discuss the proper decomposition into wall and bulk contributions, and we use a systematic method to calculate the energy-momentum tensor at any order in the wall width. We consider the specific examples of spherical bubbles with different initial configurations, and we compare our approximations with a numerical computation.

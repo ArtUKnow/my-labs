@@ -1,6 +1,0 @@
-Can a Nova occur outside of a binary star system?
-With the T Coronae Borealis nova likely to erupt soon, it got me thinking if novas could occur outside of a binary star system.
-On the wiki page titled Nova:
-All observed novae involve white dwarfs in close binary systems.
-Classical nova eruptions are the most common type. They are likely created in a close binary star system consisting of a white dwarf and either a main sequence, subgiant, or red giant star.
-Would it in theory be possible for such events to occur in other situations, say in a ternary system or from an influence of a black hole?

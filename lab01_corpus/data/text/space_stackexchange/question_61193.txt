@@ -1,3 +1,0 @@
-Does "% Throttle" refer to fuel flow or thrust?
-the question Is it possible to throttle down the thrust in a rocket engine to 1% just like in KSP? discusses the ability of liquid fuel rockets to throttle. By convention, does the “% throttle level” refer to fuel flow, or thrust? I assume there is a very non-linear relationship between the two at low fuel flow due to excessive throat area and over-expansion. But I cannot find published data on this non-linearity.
-Bonus answer: at minimum throttle, do Merlins run rich and throttle only the oxidizer?

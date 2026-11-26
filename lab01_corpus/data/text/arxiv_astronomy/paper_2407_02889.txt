@@ -1,2 +1,0 @@
-Axial Bianchi I meets drifting extragalactic sources
-We recompute {\it ab initio} the drift of comoving sources in axial Bianchi I universes. Our result resolves the long-standing disagreement between the computations by Quercellini et al. from 2009 and by Marcori et al. from 2018 in favour of the latter. These computations have a potential impact on Gaia data analysis and cosmological parameter estimation.

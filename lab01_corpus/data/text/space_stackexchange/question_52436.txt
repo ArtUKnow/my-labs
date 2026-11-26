@@ -1,8 +1,0 @@
-Where all is ROSA (roll-out solar array) planned to be used?
-A comment below Why are DART's solar panels aligned like this? says:
-Maybe could have something to do with how much space they take up with rolled all the way in? This is also the first use of ROSA (roll-out solar array) in deep space.
-Phys.org's SpaceX CRS-22 mission to space station launches water bears, squid, solar panels says:
-New solar panels are headed to station to increase the energy available for research and other onboard activities. The ISS Roll-out Solar Array (iROSA) is made up of compact panels, based on technology previously demonstrated on station, that roll open like unrolling a long rug. The Expedition 65 crew is scheduled to begin preparations for supplementing the station's existing rigid panels this summer with the first pair of six new arrays.
-Question: Where all is ROSA (roll-out solar array) planned to be used? Are DART and the Exp. 65's ROSAs the only two planned uses, or are there (at least likely) more? If so, what are they?
-Related:
-How does ROSA unroll? (Roll Out Solar Array)

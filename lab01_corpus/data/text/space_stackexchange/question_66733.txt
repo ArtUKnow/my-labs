@@ -1,5 +1,0 @@
-Is the depressurization performance of fairing during ascent ever tested on the ground before flight?
-Fairing is the upper part of the launch vehicle that covers payload. This payload is very sensitive because of the high speed of vehicle produces a lot of heat. Fairing bears all of it. The pressure in the surrounding decreases so the inner pressure of the fairing stays constant, for example. See for example answers to my previous question what kind of valves are used in payload fairing for venting?
-If it were to stay constant, then a fairing would likely "pop" open a pressure-relieving hole during ascent, ending the mission. Therefore 100 kPa is not acceptable and this is decreased through vents.
-I would like to know; is a fairing venting system ever tested on ground for its depressurization behavior?
-What are acceptance and qualification tests?

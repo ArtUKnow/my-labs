@@ -1,5 +1,0 @@
-Sun rise on Venus from East or West (North as North Ecliptic Pole)
-All books and internet articles say that: on Venus the Sun rises from the west, because Venus spins in an opposite direction (inclination ~ 180°).
-But I am thinking that: As the spin period of Venus (243 days) is greater than its orbital period (225 days), maybe on Venus the Sun rises from the East just as on Earth.
-That is, it flips because Venus spins in an opposite direction, and then flips again because spin period > orbital period.
-Here "North pole" is defined to be the pole that lies to north side of the solar system's "invariable plane" (that is the plane in which the planets orbit), or the Venus North pole is the pole that closer to North Ecliptic Pole, and East is the same as on Earth, so Venus spins from East to West, opposite to the Earth.

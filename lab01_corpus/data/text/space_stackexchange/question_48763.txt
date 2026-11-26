@@ -1,3 +1,0 @@
-Why does the Rutherford engine seem to ignite instantly?
-A highlight of any Rocket Lab Electron launch is second stage ignition, seen from an impressive angle in this video from Flight 16:
-Notably ignition seems instantaneous almost like an SRB or pressure fed engine, despite Rutherford being a liquid pump-fed engine. Why is this? Does it have to do with the fuel pumps being electrically driven?

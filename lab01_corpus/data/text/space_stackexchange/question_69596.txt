@@ -1,4 +1,0 @@
-Magnetic field models for VLEO for Orbit determination
-I am designing a very low orbit (VLEO, 250 - 350 km altitude) mission. How good are the magnetic field models for these orbits? IGRF (International Geomagnetic Reference Field), CHAOS, and others incorporate data from various satellite missions, but there are not so many in VLEO, for a complete statistic, or am I wrong?
-It is critical in my case since the antennas have very low half power beam widths, so it is difficult to track the signal, without knownig precisly the orbit before. Which model do you recommend me to use and can I include it in STK?
-Thank you very much in advance!

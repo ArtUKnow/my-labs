@@ -1,6 +1,0 @@
-Bundle Protocol/Licklider Transmission Protocols needed for TM case in cubesat as per CCSDS standard?
-As per CCSDS standard, there is no ARQ mechanism present for Telementry(TM) case. Based on spec it will be taken care by upper layer protocols.
-So in this case, can we use simple FTP for Cubesat?
-or Bundle protocol/Licklider Transmission Protocol needed?
-Kindly clarify.
-TIA

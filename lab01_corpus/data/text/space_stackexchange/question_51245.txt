@@ -1,7 +1,0 @@
-Could an orbital launcher look like a scaled up Nike Hercules?
-We now have flyable, recoverable suborbital boosters, which would be the first stage.
-The second stage of the Saturn V rocket was able to hurl the 100 ton Skylab into an orbit over 250 miles high.
-The spent 49 ton Saturn V S-11 stage that launched Skylab in 1973 remained in orbit for almost 2 years
-With current technology, this stage could have been de-orbited and flow home as a gliding lifting body for re-use.
-The Nike Hercules made use of a slender delta wing for its Mach 3+ second stage. Without the Space Shuttle's military requirement for extended lateral glide range, needing only to land along the path of its orbit, could a wing of this type help recover the second stage?
-Again, the third stage would be whatever you like in 100 tons.

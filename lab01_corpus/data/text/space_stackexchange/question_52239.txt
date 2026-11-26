@@ -1,6 +1,0 @@
-Was there a mechanism to vent fuel cell reactants on the Shuttle orbiter?
-Related to my recent question: Why was the Space Shuttle Orbiter's in-orbit time limited?
-I was told a limiting factor to time in orbit is that the cryogenic gases used as reactants by the Shuttle's fuel cells would be vented when not used due to pressure buildup (from heating). I was told 1) being a closed-loop system[1] is unrelated 2) the cooling system[1] of the fuel cells would not be considered in normal operation if there's [little to] no draw.
-Q: Was there a mechanism to vent fuel cell reactants on the Shuttle?
-If yes, what were the conditions required?
-1: spaceflight.nasa.gov/shuttle/reference/shutref/orbiter/eps/pwrplants.html

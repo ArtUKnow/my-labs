@@ -1,2 +1,0 @@
-How many heat shield tiles are installed on Starship and what is their total volume roughly?
-If paired with tile density information, this total volume information would be useful for estimating how much more mass Starship could lift in a non-reusable configuration. If also paired with heat capacity and reflectivity information, it could also help people to determine whether the current heat shield has enough thermal mass to aerobrake when returning from GEO, landing on Mars, or returning to Earth from Mars.

@@ -1,2 +1,0 @@
-Is there any heritage with wire-retraction systems for space-applications?
-Working on a large contract that will send a payload up to the ISS and be docked on the exterior. I'm curious if there is any heritage with a wire-retraction mechanism in-space. I'm talking about something similar to those ceiling cable retractors, but on a much smaller scale (think 16-gauge solid cable).

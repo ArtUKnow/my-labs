@@ -1,4 +1,0 @@
-Can Maglev trains ever reach escape velocity?
-NASA is planing to build a levitating train system on the Moon.
-For Moon, would it be possible to build a large scale system equivalent to maglev trains, to accelerate (for example) a mining cart of ice to reach escape velocity and to get it into orbit or may be all the way to Earth? Since there is no air friction, with Moon’s gravity being quite low and plenty of flat areas there similar some salt deserts on Earth where people go racing.
-Alternatively it could be a miniature size for launching small payloads (cubesat size) and spewing them with large or continuous frequency.

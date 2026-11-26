@@ -1,9 +1,0 @@
-Understanding the rocket equation - calculating Starship delta v
-I am trying to calculate delta v of Starship - both as separate stages (Starship [SS], Super Heavy [SH]) and as a fully stacked rocket including 100t payload.
-I know that I have to calculate 2 separate delta v values:
-for tha phase of flight when only SH fires and SS is a dead weight
-for when SS separates and fires its own engines
-However I must be doing something wrong as I come up with very low total delta v for the full stack.
-Here is s screen of my calculations:
-Here it is with formulas:
-Link to view the spreadsheet: https://docs.google.com/spreadsheets/d/1I48p1RhUZM0NwRnLcDW2Ar6rW1FKJlvKH82pVdTdg9I/edit?usp=sharing

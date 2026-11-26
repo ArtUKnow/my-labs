@@ -1,4 +1,0 @@
-Are satellites and probes dried before they start?
-In vacuum, any liquid water on moisture in the materials of a satellite and probe will start to gas out.
-So are the materials on satellites and probes baked or dried by other menas before beeing sent to orbit or is this not a problem at all?
-Additionlly: how would they be kept dry inside the fairing of a rocket while it is waiting on the pad in probably humid climate around the rocket?

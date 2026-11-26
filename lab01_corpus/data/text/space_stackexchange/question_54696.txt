@@ -1,5 +1,0 @@
-Following KRT-10 aboard Salyut-6, have there been any other radio astronomy observations from a space station or crewed capsule?
-Space stations have certainly been equipped with infrared, visible, ultraviolet and X-ray telescopes for astronomical observation and optical and X-ray communications as well as particle telescopes and various radio antennas for communications with Earth and satellites.
-@A.Rumlin's answer to Has VLBI been done using any space-based receivers besides Spektr-R? tells us that
-The first space VLBI experiment was on Salyut-6 orbital station with KRT-10 (ru:КРТ-10), a 10-meter radio telescope, which was launched in July 1978.
-Question: Following KRT-10 aboard Salyut-6, have there been any other radio astronomy observations from a space station or crewed capsule?

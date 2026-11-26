@@ -1,6 +1,0 @@
-How to reduce fuel consumption in an attitude-control PID
-I've programmed a spaceship with thrusters, and an attitude control system with a PID controller for each axis.
-Although my spaceship movement is visually fine, my ship rotates to the target attitude or follows set attitude rates but rarely stops outputting. The thrusters fire small amounts at high frequency as my pid output oscillates slightly around the setpoint.
-One thing that may disturb the system is that the thrusters are not perfect, and don't align exactly through the center of mass. So when one pid controller corrects one axis, it introduces small movements on the other axes.
-How can I add an acceptable deadband, where the pids don't attempt to eliminate error completely, but try to keep the output within the deadbands with as little controlling as possible? i.e. I want to conserve the fuel used by the thrusters.
-I'm not very good at math, so a useful answer would discuss general damping ideas, filtering, or deadband methods while avoiding getting too far into equations. I'm also not looking for a rigorous scientific explanation, just some easy to implement ideas which may help improve my simulation somewhat.

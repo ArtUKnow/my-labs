@@ -1,3 +1,0 @@
-What prevents pebbles from getting stuck in the rim of this wheel and blocking its rotation?
-Looking at pictures of ESA's Franklin Rosalind rover wheels, isn't there a possibility that a pebble could get drawn into the rim and, half a rotation later, get jammed against the fork and stay stuck there?
-For comparison, this type of problem does not seem to be able to happen to the axle-wheel assembly of Curiosity.

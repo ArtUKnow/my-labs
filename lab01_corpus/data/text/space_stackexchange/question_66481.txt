@@ -1,3 +1,0 @@
-Are there any plans to carry out more parallax observations using New-Horizons?
-In 2020, New Horizons famously carried out observations of Proxima Centauri and Wolf 359 as part of an experiment to observe the parallax difference between Earth and the spacecraft.
-Are there any plans to use this method to determine the distance to stars? I imagine, judging from the quality of images from New Horizons, this would be limited to fairly close stars only.

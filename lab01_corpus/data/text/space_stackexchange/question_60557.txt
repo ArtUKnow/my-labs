@@ -1,5 +1,0 @@
-Draper Semianalytical Satellite Theory (DSST) C/C++ version
-Anyone knows where one could find the Draper Semianalytical Satellite Theory (DSST) semi-analytical propagator code in C/C++?
-I know Orekit includes the Java version inside its code.
-An in general if someone knows about open-source implementation of semi-analytical orbit propagator.
-Thank you in advance!

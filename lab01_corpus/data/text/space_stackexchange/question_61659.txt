@@ -1,3 +1,0 @@
-What would be the most fuel-efficient propulsion solution to accelerate a 100-ton piece of NEO asteroid towards Earth?
-We need acceleration to about 300-500 m/s relative to an NEO asteroid - to get to an LEO.
-What is needed is the lightest package possible, that includes engine, fuel tanks, control module and thrusters for maneuvering.

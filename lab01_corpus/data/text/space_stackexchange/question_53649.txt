@@ -1,7 +1,0 @@
-Can "engine" and "motor" be used interchangeably in spaceflight? Are there any cases where they can't be?
-Typing "rocket motor" into google returns a page full of links mostly about rocket engines. It seems that The Google has AI-synonymized them.
-Question: Can "engine" and "motor" be used interchangeably in spaceflight? Are there any cases where they can't be (apart from proper nouns; the names of specific engines or motors).
-Evidence of research
-Asking The Google's ngram viewer instead of The Google's search:
-British English:
-American English

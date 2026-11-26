@@ -1,6 +1,0 @@
-"Re-entry" vs "Reaction" in RCS
-Reading through the Wikipedia (not known for being the bastion of all truth but usually a decent starting point) article for Gemini 8, I came across this passage (emphasis mine):
-The astronauts realized that the problem was on the Gemini. By now the tumble rate had reached 296 degrees per second and Armstrong decided to shut down the OAMS and use the Reentry Control System (RCS) thrusters, located on the Gemini's nose, to stop the tumble.
-I have only every heard RCS be used to mean "Reaction Control System", and so I assumed it was a mistake, but then I saw this image:
-In which they double down on this. I then went looking for evidence of this, and found an article on the Smithsonian website which also refers to them as "Reentry Control System Thrusters".
-It appears then that what we would typically refer to as the Reaction Control System was in fact the Orbit Attitude and Maneuvering System so why was there a separate Reentry Control System, and what caused the common acronym meaning to change?

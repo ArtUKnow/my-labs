@@ -1,5 +1,0 @@
-Largest Optical Telescope NOT at Higher Elevation
-It's trivial to find the list of largest optical telescopes by aperture size. What I'm interested in is the largest optical telescope in the world, regardless of ownership or origin (amateur or professional/commercial), that is not purposefully located at a high elevation.
-For obvious reasons, the largest telescopes are built at high elevations to minimize atmospheric effects; I'm curious as to the largest telescope that is not specifically built in this manner. I suspect it is of amateur provenance. Thank you!
-Edit: The metric for the ordering is the one suggested by ProfRob in the comments: Aperture * (1/Altitude).
-Also, the answer seems to be the UBC Liquid-Mirror Observatory, but as it's exotic and apparently defunct, we can see what other answers there are.

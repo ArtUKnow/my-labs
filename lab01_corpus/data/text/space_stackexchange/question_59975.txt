@@ -1,5 +1,0 @@
-Apollo REFSMMAT components
-In the snip above, under
-(b) Definition of REFSMMAT, there is a 3x3 Matrix depicted. Under
-(c) REFSMMAT Components, a list of the value of each of the 9 components of the 3x3 Matrix using Unit Vectors is given.
-Does each row of the matrix represent a point in either the Earth-centered (ECI), or Moon-centered (MCI) Inertial Coordinate System?

@@ -1,5 +1,0 @@
-Which explode in spaceflight more often, nuts or bolts?
-The history of spaceflight is littered with exists because of exploded nuts and bolts (and upon further reflection, a whole lot of other items!)
-"Exploding bolts" is really a generic term. This answer to Would a “pyrotechnics” tag be useful? mentions Wikipedia's Frangible nut and Pyrotechnic fastener and while exploding bolts proper are one kind of said fasteners, there are all kinds of electromechanical devices that convert an electrical pulse into an irreversible mechanical state change.
-We most recently heard about the pyrotechnics used to cut various tubes, and both electrical and mechanical cables allowing the Perseverance rover to drop the last few feet from where the sky crane held it and on to the surface of Mars.
-Question: Which explode in spaceflight more often, nuts or bolts? Is it possible to ballpark a ratio? Does one number completely overwhelm the other?

@@ -1,8 +1,0 @@
-Setting up an agility model and ground station contact in GMAT
-I'm trying to set up a simple mission scenario where a spacecraft continually points to a ground station during periods of contact.
-I believe there are three elements to accomplish this:
-Identify whether ground station "sees" the spacecraft. This can be easily done by setting up a contact locator event. As far as I know, the contact locator event disregards the field of view and attitude of the spacecraft, hence the need for points 2 and 3.
-Identify whether the spacecraft "sees" the ground station. This is obviously dependent on the spacecraft antenna design, but I'm not sure how to actuate it within GMAT. The closest I have found is the OpenFramesInterface sample script (samples/NeedOpenFramesInterface/Ex_R2020a_OFI_FieldOfView.script), but this appears to be
-merely cosmetic?
-Develop an agility model that allows the spacecraft to be continually aligned. I have so far found no resource in actuating any form of attitude control in GMAT.
-Any guidance would be greatly appreciated thanks!

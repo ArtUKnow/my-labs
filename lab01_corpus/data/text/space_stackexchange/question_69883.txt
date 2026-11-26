@@ -1,7 +1,0 @@
-Has any planetary lander used the paratrooper’s lowering line technique to manage impact?
-Paratroopers sometimes use a lowering line to land heavy gear before the jumper lands. They can dangle a heavy pack of durable gear on a tether so it lands first, or even release the gear at an altitude of a few hundred feet. The pack hits fast and hard. The jumper has a few seconds to decelerate since the chute is no longer supporting the weight of the gear. The jumper lands slower and lighter, unencumbered by gear.
-https://www.dvidshub.net/news/462202/airborne-test-force-tests-field-radio-ruck-survive-airborne-combat-missions
-Has any planetary or lunar lander used this technique, splitting payload items into impact resistant items (say a ground penetrator) and more delicate items?
-The principle would apply to propulsive landers as well as parachutes.
-This question was inspired by Mars Air braking and Landing which suggested that ejecting an "indestructable" subunit during re-entry would slow the speed of the parent re-entry vehicle. Such a strategy relies on momentum (mv) transfer, not kinetic energy (1/2mv^2) so it would be equally effective at low velocity as at high velocity.
-If the lowering line technique scrubbed even a few m/sec off the main lander, it could "earn its keep" by reducing the mass of parachutes or propulsive landing rockets.

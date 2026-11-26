@@ -1,2 +1,0 @@
-How can I use SDSS archive to find the radial velocities of binary stars?
-I need to plot a radial velocity curve of a given binary star system, and I think that the SDSS apogee survey has what I need, but I havent had any luck finding anything on it. It this the right tool to use? If not then what would be a better option?

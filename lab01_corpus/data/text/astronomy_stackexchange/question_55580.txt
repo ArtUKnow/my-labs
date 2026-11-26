@@ -1,3 +1,0 @@
-Determining the speed of meteor
-How to determine the velocity of a meteor from two video data?
-I want to try to determine the orbit of the meteor, but before that I have to determine the meteor's entry velocity and apparent radiant and apparent velocity.

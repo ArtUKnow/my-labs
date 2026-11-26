@@ -1,4 +1,0 @@
-Why are the planets in the HR 8799 system reversely named?
-In all extrasolar systems I have read about, the closest exoplanet to the host star is called b and the others follow the next alphabet letters (such as Trappist-1 system which starts with b for the closest planet and ends with g for the furthest one: Trappist-1 b, Trappist-1 c, ..., Trappist-1 g). In other words the name of the star followed by a letter but a.
-But in the HR 8799 system the furthest planet is called b. The next are c, d, and e (the closest one).
-Why doesn't this system follow the rule? Are there also other systems with this anomaly?

@@ -1,5 +1,0 @@
-Why did Luna 1 enter a heliocentric orbit?
-The way I understood it (please correct me if I'm wrong), the easiest (least energy) way to reach the Moon it to put the spacecraft into a highly elliptic geocentric orbit whose apogee reaches the Moon. So I'm assuming that was also the (intended) trajectory of Luna 1. Luna 1 missed the Moon due to an error, but then entered a heliocentric orbit. Why would that happen? Shouldn't it continue orbiting the Earth?
-Alternatively, Luna 1 was launched with an escape velocity instead (at least this source says so). Why would they launch it like that? Doesn't that require more energy?
-And in general, did all Moon missions use an elliptic geocentric orbit or something else? For example, Apollo missions.
-Edit: It says here that S-IVB also entered a heliocentric orbit after separating from CSM/LM. So TLI does indeed propel to escape velocity?

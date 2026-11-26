@@ -1,4 +1,0 @@
-Would planetary quarantine have to be used for asteroid mining missions?
-Currently, sample return missions have to follow very delicate procedures to move the sample to the return vehicle. This is incredibly complicated and may explain why so few missions have launched.
-First, the RV must be closed in-situ, meaning that locking the heatshield and the payload module together is very important as failure to lock may result in payload loss. Everything else also must be sterile to prevent planetary contamination.
-I would assume that asteroids are abiotic so the regulations would be lessened, but would planetary quarantine still take effect in mining procedures?

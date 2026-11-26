@@ -1,2 +1,0 @@
-What type of radiation does Io experience?
-I've read that Io (the Galilean moon) experiences unusually strong radiation due to Jupiter's intense magnetic field. This astronomy.com article says that 3600 rem (= 36 Sv), which would be deadly to humans. What type of radiation (e.g. $\alpha$, $\beta$, $\gamma$, etc.) is this?

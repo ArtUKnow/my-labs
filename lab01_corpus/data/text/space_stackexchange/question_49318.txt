@@ -1,3 +1,0 @@
-Example of CubeSat Systems Architecture and Software Architecture
-For a school project I'm required to research into the engineering methodology and process for a CubeSat. As such, I'm inquiring into if anyone has an example software and systems architecture for some CubeSat, with detailed information about the various internal physical connections between the Subsystems as well as the flow of the code for various modules.
-Thanks!

@@ -1,4 +1,0 @@
-Tiling the sky with astropy-healpix
-I have a bunch of files containing sources with galactic l and b values. What I want is to redistribute the sources such that each new file contain sources that fall within 15 degrees of a central l,b value. Ideally these l,b value span out a uniform grid in the sky and the patches may have overlap between them.
-Is there a way I can do this with astropy-healpix?
-Any help is extremely appreciated.

@@ -1,2 +1,0 @@
-Heatshield during re-entry of space vehicles
-All the CMs for Apollo, as well as the space shuttles, basically used "Blunt body" technique for re-entry. While Apollo CMs used "ablative" type of heatshield, the space shuttles used "tiles" for the same. Which of the two is more cost efficient?

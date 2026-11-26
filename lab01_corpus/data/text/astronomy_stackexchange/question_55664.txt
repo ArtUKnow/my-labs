@@ -1,3 +1,0 @@
-Could we hear alien radio transmissions using radio interferometry?
-Suppose money and engineering wasn't a concern. Could we actually build a bunch of radio telescopes in space, and use radio interferometry, so that we could actually hear the sort of radio transmissions regular humans put up in space ?
-I know radio transmissions become indistinguishable from cosmic background noise after a long enough distance. I'm assuming this would also apply to my imaginary telescope. Is there a maximum size the telescope swarm can be, after which increasing the size further brings no benefit ?

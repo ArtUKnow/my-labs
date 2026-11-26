@@ -1,9 +1,0 @@
-sun pointing coordinate system design
-I am trying to program slew maneuver procedure for a spacecraft. My goal is to define a target coordinate system that is aligned with sun vector so that the spacecraft can slew its attitude to always point at the sun.
-An example I came across on the internet is describing slew maneuvers for a spacecraft, pointing earth center all the time.
-Target coordinate system's first axis is defined by the earth pointing vector drawn from the center of the spacecraft. Second axis is defined by cross product of this vector by velocity vector, and third axis is the cross product of the first two axes.
-This works perfectly, but when I try to implement this to generate a sun pointing spacecraft, it only works until the velocity vector is aligned with sun-to-spacecraft vector. That makes sense, because after that the direction of the velocity vector changes with respect to sun-to-spacecraft vector.
-I will upload an image to show what I mean.
-As you can see, the cross product of sun-to-spacecraft vector by velocity vector has 2 different direction depending on its position around the world.
-As a result spacecraft makes a 180 degree rotation whenever these 2 vectors are aligned.
-How can I define my target coordinate system to avoid this problem?

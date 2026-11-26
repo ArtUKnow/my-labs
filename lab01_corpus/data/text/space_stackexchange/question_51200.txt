@@ -1,6 +1,0 @@
-How much does the SpaceX Starship flex during the Flop maneuver?
-Poring over the woes (and sucesses) of Starship prototypes SN 5-11, I had read they were trying a thinner stainless steel skin in later iterations.
-The flop maneuver places the centers of drag at the ends (fins), while the center of mass is near the middle. This is not unlike the strategy of breaking a stick over your knee.
-SN5 and SN6 performed flawlessly, but their bodies were subjected only to shorter term vertical loading, without the flop descent configuration.
-Judging by the (notorious) gas leaks and explosions of 8-11, could excessive flexing (and potential plumbing damage) be avoided with a stronger, perhaps more squat design?
-Successful re-entry vehicles, such as capsules and shuttles, seem a bit more symmetrical, which adds strength.

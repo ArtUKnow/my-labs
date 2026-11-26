@@ -1,3 +1,0 @@
-Ascent trajectory Non Stagnation Point wall temperature Space Shuttle External tank
-Are there any available data on the Space Shuttle External Tank wall temperatures, for the points and surfaces other than the stagnation point? I found an interesting paper here -> https://ntrs.nasa.gov/api/citations/19910001724/downloads/19910001724.pdf but I doesn't seem to comprehend the ranges of temperatures the external walls experienced during ascent trajectory. Are there any documents or experiments where they tested this?
-Considering the aluminium alloy tank and the Spray-on-foam-insulation, could it have been a more efficient design to go with steel like 304 or 316?

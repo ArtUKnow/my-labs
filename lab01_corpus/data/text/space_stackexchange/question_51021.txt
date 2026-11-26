@@ -1,7 +1,0 @@
-Hover Slam Landing: How is it Done?
-I want to simulate a hover slam landing.
-Is there an overview of the maneuver anywhere?
-I'm especially interested in the control algorithm used to bring the rocket stage to a halt at just the right time. I don't care much for location control (where the landing happens)---I just want to land the rocket stage somewhere anywhere.
-The algorithm must account for both altitude and velocity left to kill before touching ground and estimate how much time to go, when to fire the engine, how long to fire it for, and maybe the appropriate throttle level to stick the landing.
-The estimates should reflect the effects of gravity, thrust, and drag (drag being an important complication not dealt with during PEG as that occurs in near vacuum).
-Anyone know how the calculations might go?

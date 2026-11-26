@@ -1,4 +1,0 @@
-How can I determine a rotation matrix from unit vectors?
-I want to determine the rotation matrix from which compute the Euler Angles to rotate my spacecraft in order to point in a specific direction. For example, i want the z body axis of the spacecraft to be alligned with the sun vector. Therefore, I've calculated the 3 unit vectors (x,y,z) of my "pointed to the Sun" body coordinate system in an ECEF reference frame.
-At this point, I've used those unit vectors to write the following rotation matrix:
-First of all, is this correct? If yes, this matrix allows to rotate a generic vector from ECEF to Body or from Body to ECEF? If not, what do you suggest? Thanks in advance!

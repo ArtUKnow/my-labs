@@ -1,6 +1,0 @@
-How to propagate the trajectory in GMAT with a custom thrust profile
-So basically I was trying to design a low thrust maneuver to increase the apogee of the spacecraft.
-I solved it separately and got some thrust profile (thrust and it's direction as a function of time). Now I want to verify my calculations, that applying that particular thrust leads to the same final orbit as I had predicted.
-Can I use GMAT for this purpose?
-If yes, then how?
-Are there any resources available online?

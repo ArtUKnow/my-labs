@@ -1,8 +1,0 @@
-Can a spacecraft be "too large to dock" to the ISS?
-A comment below Is Starship planned to fly directly to the ISS without first stage? Is it even possible? says:
-to my best knowledge, the Starship will never be near the ISS. it is too large to dock even if you fit the correct docking adapter on it. The control thrusters of such a large and heavy vehicle would be a possible danger for the ISS. (emphasis added)
-For background, this answer to How hard was it for the Shuttle to perform attitude control for the entire ISS? Did they have to calibrate? indicates that (unsurprisingly) the Shuttle was able to perform attitude control for the Shuttle + ISS docked superstructure without modifications.
-Question: But can a spacecraft be "too large to dock" to the ISS? Please consider both issues of thruster spatial configurations and exhaust plumes, and their strengths and torques to the ISS, as well as any other potential issues.
-To me it seems that Starship could easily be configured so that it would be safe to dock with anything either much larger or smaller than itself, or of a similar size; but I'm no rocket scientist.
-That the ISS could have its attitude controlled by torques applied from the docked Shuttle also shows that the ISS is designed to have this done to it as long as the torques are below some established limits. Larger docked craft would have larger thrusters but also have a larger moments of inertia, so the ISS wouldn't experience larger torques just because it's bigger.
-However larger thrusters means bigger exhaust plumes that might be directed towards the ISS, and there are a lot of ISS intrinsic systems and addded-on experimental packages that might be compromised.

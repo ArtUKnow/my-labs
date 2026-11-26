@@ -1,3 +1,0 @@
-Cosmic shear: what is ellipticity for?
-I understand that ellipticity is a very important concept in weak gravitational lensing because it describes the shape properties of the transformed galaxy. Shear, on the other hand, also describes the shape properties of the transformed galaxy. Since shear can also describe the shape properties of the transformed galaxy, I don't see why ellipticity is so important. It is not used to calculate shear. It is not used to figure out the matter power spectrum. I don't see why we want to measure ellipticity. I am confused.
-Can anyone explain this for me? Thanks so much!

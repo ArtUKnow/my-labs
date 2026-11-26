@@ -1,4 +1,0 @@
-How early could an infrared burst in the outer solar system have been detected?
-While this is a science fiction originated question, the question concerns real-life detection limits.
-So, assume that there is a burst, basically instantaneous, of several terajoules or more of waste heat that appears at a distance of, let's say 35 or so AUs from the Sun, with no associated visible-light emission. As it would be infrared, it would be invisible to optical telescopes. Assume that any detection would be accidental in that an IR-capable sensor just happened to be looking in the right direction at the right time and there was no intent to look for such an event. What would be the earliest point in history in which one could detect such a burst from Earth (or nearby orbit)?
-EDIT: Changed gigajoules to terajoules. It is a big burst of heat.

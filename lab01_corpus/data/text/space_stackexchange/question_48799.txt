@@ -1,4 +1,0 @@
-How much krypton do Starlink satellites carry when they are first deployed?
-Starlink satellites use krypton as propellant.
-This answer roughly estimates 2.3 kg of Krypton based on a total delta-V of 190 m/s and an exhaust velocity of 20,000 m/s.
-But how close is that to reality? Is it known how much propellant is loaded into a Starlink satellite at launch?

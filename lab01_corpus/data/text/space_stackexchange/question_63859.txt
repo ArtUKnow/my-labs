@@ -1,6 +1,0 @@
-How do engineers measure satellite drag, and how do they track it over time?
-I’ve been slowly getting myself familiar with astrodynamics and understanding satellite orbits. I’m familiarizing myself with the concept of drag experienced by the satellites. I am curious about how do GNC teams measure it and then respond to it?
-Specifically:
-Do gnc teams / astrodynamicists monitor drag on their missions continuously? If so, how do they monitor it?
-How does the change in drag get tracked by the team? For example, drag today in comparison to what it was same time yesterday?
-If there is a sudden change in drag due to changes in the atmosphere, is there a certain limit that the engineer waits until acting on the information? e.g. if there is a space weather event (like during spacex launch in 2022), where there is a loss in altitude, do they wait until the event passes before acting or will they start boosting the satellite as soon as they see the drag has changed significantly? Or do they take preemptive action and bump it up even before the drag has changed?

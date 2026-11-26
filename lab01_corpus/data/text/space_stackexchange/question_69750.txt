@@ -1,6 +1,0 @@
-Could a Crewed Jupiter Mission use a Shadow Shield?
-Inspired by this question.
-The main radiation hazard in the Jupiter system is from charged particles. The charged particles are caught in Jupiter's magnetic field, and therefore have some kind of directionality; they flow in patterns that are driven by Jupiter's magnetic poles.
-So: Is there enough directionality in the particle flow that a manned Jupiter mission could survive by placing shadow shields on the "hot" side (or sides) of the ship as their primary shielding?
-The obvious candidate for this shielding would be a fission reactor, since it is very dense and would require dense shielding itself. (Possibly combined with a wide, thin, metal "umbrella" to provide a good shadow of particle free space near the ship.)
-Obviously, attempting to land on one of the Galilean moons would require a change in orientation that would render the shadow shield ineffective. This is outside the scope of this question, but could be a separate question if there's interest.

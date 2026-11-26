@@ -1,2 +1,0 @@
-How do neutron/white dwarf stars get close enough to merge?
-For a pair of white dwarf/neutron stars of 1 solar mass separated by 2.5 million kilometers, the time it would take their orbit to decay via gravitational waves and the components to merge is roughly equal to the age of the universe. So how do they pairs of stellar remnants get closed enough to decay in the first place?

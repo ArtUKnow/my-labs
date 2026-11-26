@@ -1,3 +1,0 @@
-List of thorough Space Journals
-I am trying to get a list of rounded and comprehensive journals related to Space and Aeronautics, not only covering the latest news and achievements in the field but also publishing interesting researches or surveys or explaining topics as trajectory optimization or the numerical methods involved.
-The only one I have found so far is "The Journal of The Astronautical Sciences".

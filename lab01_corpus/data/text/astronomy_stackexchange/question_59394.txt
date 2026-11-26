@@ -1,6 +1,0 @@
-REBOUND/ASSIST how to convert coordinates and plot orbit groundtracks during closest approach
-I had a look at the following example https://assist.readthedocs.io/en/latest/jupyter_examples/Apophis/
-of the ASSIST package. I also looked at some sample code of poliastro (which seems to be deprecated).
-My question is how would I convert the coordinates I get in ASSIST during the close approach of an asteroid into something useable in a geocentric frame in order to plot groundtracks (tracks on earth with minimal distance to asteroid at a given time)?
-I.e., I want to plot something similar to https://docs.poliastro.space/en/stable/examples/Generating%20orbit%20groundtracks.html
-for a specific time frame...

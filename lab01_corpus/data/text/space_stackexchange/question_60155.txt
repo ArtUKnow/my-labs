@@ -1,3 +1,0 @@
-Why will Starlink Gen2 be so big and heavy?
-Apparently, the mass of a Gen2 Starlink satellite will be around 1 metric ton. It will also be too large to fit into a Falcon 9 fairing.
-Given that it's basically still a "flying router", plus laser, and that the solar panels don't count against the launch size: What makes it so large and heavy?

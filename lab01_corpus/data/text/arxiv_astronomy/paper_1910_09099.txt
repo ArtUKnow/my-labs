@@ -1,2 +1,0 @@
-Log-dependent slope of scalar induced gravitational waves in the infrared regions
-We analytically calculate the scalar induced gravitational waves (SIGWs) and find a log-dependent slope of SIGW in the infrared regions $(f<f_c)$, namely $n_{\mathrm{GW}}(f)=3-2/\ln(f_c/f)$, and $n_{\mathrm{GW}}(f)=2-2/\ln(f_c/f)$ near the peak if the power spectrum of scalar curvature perturbation is quite narrow, where $f_c$ is roughly the frequency at the peak of SIGW. Such a log-dependent slope can be taken as a new template for distinguishing SIGW from other sources.

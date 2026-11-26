@@ -1,4 +1,0 @@
-What will be the escape velocity for a human body?
-Now imagine an average man of 70kg floating in space with no gravitational forces acting on him. Now a pebble(25 grams) spawns into existence near him. So now there's a gravitational force between them.
-Now, I know that gravity won't be uniform across the man's body but let's assume that it is uniform around his waist and the pebble is just orbiting the man's waist.
-I would like to know what would be the velocity needed for the pebble to escape the gravitational pull and move away.

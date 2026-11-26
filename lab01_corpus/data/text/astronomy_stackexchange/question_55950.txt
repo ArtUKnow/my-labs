@@ -1,5 +1,0 @@
-On building a compatible pipeline for astrometry using both Gaia or Vera-Rubin's data
-As the title states, I'm considering building a pipeline for astrometry to analyze Gaia and Vera Rubin's data.
-As, being honest, I have little experience with astrometry, I'm not sure if this is (or not) reinventing the wheel in some sense, but to this point I still think it sounds useful as a side project of what I'm doing now.
-Considering the latter, it's always helpful to know if these kind of work has already been done and can be found, e.g., in GitHub, Research or package's docs (e.g., pygaia). Another, more specific, question that comes to my mind has to do with: how feasible is for a pipeline made for one telescope could fit for another? Or more usually when a team starts to work for a pipeline the solution is done for specific data sets and it's fine to accept this constrain?
-Maybe a related or more direct question is: how similar or different, for astrometry, will the data be, comparing Gaia's mission and Vera Rubin's LSST telescope.

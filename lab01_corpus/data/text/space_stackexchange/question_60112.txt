@@ -1,9 +1,0 @@
-Do cold gas thrusters fueled by supercritical CO2 have a higher Isp than those fueled by liquid CO2?
-The private space company Pixar has developed an autonomous space vehicle (Wall-e) propelled by a cold gas thruster Hand-Held Maneuvering Unit as demonstrated in this press release:
-From https://scienceonblog.wordpress.com/2019/03/14/propulsion-in-wall-e/
-And in this video
-The company is cagey about the proprietary propellant, but informed sources report it is supercritical CO2, stored above the critical point, at 40*C and 75atm.
-The theoretical Isp for CO2 cold gas thrusters is reported at 67sec https://en.wikipedia.org/wiki/Cold_gas_thruster
-Question: Is this Isp figure improved by storage of CO2 as a supercritical fluid?
-I ask since (I believe) there is no heat of vaporization penalty to be paid converting supercritical gas to gaseous phase ("A" in the above diagram), unlike converting liquid to gaseous phase ("B" in the diagram). Cold gas thrusters have advantages of cost and simplicity at the expense of low Isp. A boost in Isp by altering storage conditions would be welcome.
-Addendum: This paper https://arc.aiaa.org/doi/abs/10.2514/6.2009-6553 describes a rocket design which achieves a Isp greater than 100 using supercritical CO2

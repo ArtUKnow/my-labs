@@ -1,3 +1,0 @@
-Could you bounce a tennis ball off of the James Webb sunshield?
-News articles keep referring to the James Webb Space Telescope's sunshield as "about the size of a tennis court", which raises the question: could it function as a tennis court? Or, more specifically, if you threw a tennis ball at it, would the tennis ball bounce off the sunshield elastically, or would it tear through the sunshield fabric, or would something else happen?
-(extra credit question: Is the answer time-dependent? e.g. perhaps the sunshield is nice and strong and elastic now, but will grow weaker or more brittle over time, due to radiation damage?)

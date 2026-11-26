@@ -1,3 +1,0 @@
-Recycling space debris for manufacturing in space
-There are a few companies interested in manufacturing (mostly additive) in space. Let's say that by some miracle some company comes up with a space station that is capable of sending out service satellites to capture defunct space debris and bring it back to the "station" where the debris can be melted down and 3D printed (ignore the complications of printing metal for now).
-Does this sound even remotely possible?

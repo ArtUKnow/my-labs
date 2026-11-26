@@ -1,4 +1,0 @@
-How are the Apoapsis and Periapsis calculated for a gaseous planet?
-Apogee and Perigee of the earth are calculated on the basis of the distance of the satellite from the sea level of the earth.
-This can only be done in celestial bodies where there is a specific solid ground separating it from atmosphere (like Earth or Mars) or vacuum (like the moons of Earth or Mars).
-How will the apoapsis and periapsis determined for gas giants like Jupiter or Saturn where there is no physical solid ground?

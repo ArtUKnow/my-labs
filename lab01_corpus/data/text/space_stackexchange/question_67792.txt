@@ -1,2 +1,0 @@
-What's the proper terminology when drag exceeds eccentricity?
-I thought of the line "the orbit is so good the apoapsis is below the periapsis." Crazy, right--but what do you say when you have the situation that the orbit is so circular that the satellite is always descending due to drag, never ascending?

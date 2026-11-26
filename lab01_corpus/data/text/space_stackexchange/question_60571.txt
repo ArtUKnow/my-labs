@@ -1,6 +1,0 @@
-Orbital Angular Momentum on STK
-I want to allign my satellite with the orbital angular momentum vector. Thus, I've computed this vector in a Fixed Coordinate System using the cross product (r x v) between position vector and velocity vector (also in Fixed Coordinate System) provided by STK report.
-However, the Matlab computed angular momentum vector doesn't match with the one provided by STK (also expressed in Fixed Coordinate System).
-Can anyone help me to figure out why this happens and in which way to compute the correct Orbital Angular Momentum considered by STK?
-EDIT:
-The vector considered in STK is Orbit_AngMomentum in Vectors(Fixed)

@@ -1,3 +1,0 @@
-How can you get nitrogen and carbon enough to make air (after adding oxygen and reacting the carbon with oxygen to form carbon dioxide) on the moon?
-I'm working on a moon base for a project and I need to make air. I know that you can get oxygen and hydrogen by electrolysing water which is present in abundance on the moon. I need to mix nitrogen, oxygen and carbon dioxide to mimic the Earth's air. But I don't know how I'm going to get nitrogen and carbon there, on the Moon. I need to produce it in abundance (not so much as to fill an atmosphere, just enough to fill the base's building).
-How should I do that?

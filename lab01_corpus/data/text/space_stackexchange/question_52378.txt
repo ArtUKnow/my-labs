@@ -1,4 +1,0 @@
-Can rocket engines which use hypergolic propellants be augmented with LOX for increased efficiency?
-Hypergolic rocket engines typically use NTO and hydrazine based propellants.
-Wikipedia page on Liquid Rocket Propellants shows N2O4 and N2H4 at 1.36 ratio to have 286s Isp at sea level.
-My question is that can ratio of N2O4 be decreased so that it is used only for making sure the propellants burn and LOX be used as oxidizer instead? Will such an engine increase efficiency and will it be practical for launch vehicles which use hypergolic propellants like Proton and GSLV?

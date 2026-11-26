@@ -1,2 +1,0 @@
-Why didn't NASA simulate the conditions leading to the 1202 alarm during Apollo 11?
-If I understand it, the alarm during the first Lunar descent was due to the computer being overloaded by too much RADAR data. That sounds like something that they would have thought to simulate, but it seems that everyone was surprised by it. Why didn't they simulate that particular type of failure (computer overflow in general, and RADAR-caused overflow in particular?)

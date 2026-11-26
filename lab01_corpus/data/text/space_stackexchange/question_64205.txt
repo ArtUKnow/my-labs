@@ -1,4 +1,0 @@
-If the largest spy satellites could take pictures, how detailed would they be?
-This question is inspired by the NRO's Orion Satellites. These are surveillance satellites placed near geostationary altitude that measure radio emissions.
-Importantly, they have been described as the "largest satellite in the world" (quotation cited from previously included link) thanks to their ~100 meter dish.
-If this dish were instead configured to focus optical wavelengths, what spatial resolution could be achieved in images of the Earth's surface? How much of the dish would need to be reflective to collect useful images? (e.g. one solid 100m mirror or a matrix of smaller mirrors)

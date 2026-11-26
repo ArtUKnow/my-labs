@@ -1,8 +1,0 @@
-Could there be a relatively stable near-rectilinear halo orbit associated with the Sun-Earth L1 or L2 points? Would the Moon screw it up?
-Question: Could there be a relatively stable near-rectilinear halo orbit (NLHO) associated with the Sun-Earth L1 or L2 points? Would it be similarly stable as the Earth-Moon NLHO proposed for the "gateway"? Or perhaps would the Moon as a fourth body in this 3-body concept screw it up?
-One can learn more about these orbits and halo orbit stability in answer(s) to
-What is a near rectilinear halo orbit?
-How to find Near Rectilinear Halo Orbits (NHROs)?
-Are some Halo Orbits actually Stable?
-How to use "patch points" to make a continuous halo orbit?
-Why is a near rectilinear halo orbit proposed for LOP-G (formerly known as Deep Space Gateway?)

@@ -1,5 +1,0 @@
-Customizing Molniya Orbit
-I have two questions:
-What is the relation between longitude of molniya orbit and Keplerian elements?
-How to customize molniya orbit to maximize continuous access duration over an mid-latitude point (e.g. lat = 30 deg)?
-It should be noted that 8~12 hours access is sufficient, so GEO might not be cost effective.

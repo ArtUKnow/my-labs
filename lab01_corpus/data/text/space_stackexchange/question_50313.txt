@@ -1,4 +1,0 @@
-How is parachute cover during Mars EDL prevented from crashing onto parachute or lander upon parachute opening?
-MARS2020/Perseverance footage of parachute opening shows that parachute cover ejected by the lander (together with other "things") followed same trajectory of parachute box, until parachute itself opened and started slowing down the lander.
-But the parachute cover was not on parachute, so probably it was not slowing down as much as the lander.
-What does prevent the cover from falling right into the parachute and possibly the lander itself in this EDL design?

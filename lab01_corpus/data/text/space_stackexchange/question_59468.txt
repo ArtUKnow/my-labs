@@ -1,8 +1,0 @@
-Control used during orbital insertion?
-Which control is usually active during the orbital insertion phase of launch vehicles? Once the velocity requirement for orbital insertion is met, engine is switched off RCS usually takes care of attitude requirements .
-However, during orbital insertion phase, which control is used?
-The following three options I could list out after going through literatures, but I couldn't find any which explain the process in detail.
-Engine is on and gimbaling. Many literatures consider gimbaling in exo-atmospheric phase less precise.
-Engine ON. Not gimbaling. RCS controls attitude. Minor changes in velocity vector value can be made by changing the pitch and hence meet orbital insertion together.
-Both gimbaling and RCS used simultaneously.
-I would love to know which of are these used by SpaceX and NASA etc. during orbital insertion.

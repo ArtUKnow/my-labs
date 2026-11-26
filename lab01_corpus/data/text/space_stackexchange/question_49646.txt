@@ -1,6 +1,0 @@
-What happens to ablative nozzles after a test fire?
-For example RS-68 engine
-If you make a test fire of an ablative nozzle engine then the fire will consume the coating of that nozzle.
-That means you have to replace the coating or the entire nozzle.
-Are they replacing the coating after each test or they replace the entire nozzle?
-Is the coating replaceable?

@@ -1,4 +1,0 @@
-How does the Perseverance Rover store/process large quanties of images?
-Dave Gruel (EDL Cam Sute Lead) mentioned on the surface update press conference (22 Feb) that that they collected 30GB of information, including 23,000 images. Where did this information go?
-Wikipedia (referencing a JPL paper) tells me the rover has 4GB of flash (a NASA educational page says 2).
-To get a rough sense, 23,000 images would equate to 12 minutes of video at 30 frames/sec, though there are multiple cameras at varying frame rates. Its too much information to be streamed to an orbiter via the 2Mbps UHF link to orbiter. They could be compressed (JPEG is typically 10:1), or downsampled (in resolution or color depth), but I would have thought that would have limited their scientific value. Does the computer make decisions to keep/discard images on the fly? (or otherwise keep a mainly downscaled images with a few high-res frames)

@@ -1,9 +1,0 @@
-Did improper *Aerodynamic inputs* contribute to the SN 9 RUD?
-Reviewing the last few seconds of the SN 9 flight revealed an unrecoverable over-rotation which the gimballing of the lone functioning rocket engine could not compensate for.
-The "flip" maneuver was started from a falling horizontal position by closing the tail fins, which reduces drag on the bottom end. This rotates the rocket to vertical. The second engine is supposed to control the rotation but:
-Would not re-opening the tail fins before the bottom of the
-arc help slow the rotation?
-Does not leaving them closed actually hinder correction of
-over-rotation by presenting a far more draggy "closed cup"?
-It is known that the crash was caused by the second engine not igniting, but could these Starships be easier to land by flying them aerodynamicly a bit better?
-As a final thought, would slowing the rate of rotation, and flipping a bit higher, which would require more fuel to reach 0 rate of descent, but may be more controllable, also increase the odds of landing success?

@@ -1,8 +1,0 @@
-How Intuitive Machines' engines "crank out unmatched performance in the space domain" allowing "transit of Van Allen belts once, unlike competitors"?
-According to https://www.intuitivemachines.com/propulsion
-LOX/Methane Engines
-Our LOX/Methane engines are unique for in-space propulsion, in that they offer safety in handling and testing here on the ground, but crank out unmatched performance in the space domain, and enable our vehicles to fly more direct trajectories to the moon.
-Why is that important?
-Higher performance allows us to transit the Van Allen belts once, unlike our competitors, which greatly reduces the risk of damage to our vehicle avionics due to high energy particles.
-Question: Why do Intuitive Machines' LOX/Methane engines "crank out unmatched performance in the space domain" allowing them to "transit the Van Allen belts (only) once, unlike (their) competitors"?
-What is it exactly about their performance that is unmatched? Why do competitors have to (presumably) transit the Van Allen belts more than once? Which competitors might those be?

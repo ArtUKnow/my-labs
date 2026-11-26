@@ -1,3 +1,0 @@
-Conversion of heat into electricity in rocket nozzles
-Can we use advanced thermoelectric materials to reduce the temperature of nozzles by converting heat energy to electric energy and reducing the strain on the nozzle material and the coolant while storing some electricity?
-If no, is there any way to convert this heat into other usable forms (s) to reduce the workload of the coolant?

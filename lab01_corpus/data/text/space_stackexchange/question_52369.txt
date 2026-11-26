@@ -1,8 +1,0 @@
-Is the charge on Martian dust positive or negative?
-Martian dust tends to cling to surfaces such as solar panels due to electrostatic charge.
-Martian dust is extremely small and fine-grained. Atmospheric dust on Mars is approximately three microns in diameter, and adheres via electrostatic forces. You can't just "brush it off" like you would on Earth; much dust would remain.
-Is this charge mostly negative? Mostly positive? Roughly equal amounts of each? Dependent on the triboelectricity of the surface it rubs against?
-(Glass is one of the most positively triboelectric substances, and covers most solar panels. You can blame glass for the "wrong" direction of the charge convention. Ben Franklin was given a glass rod to conduct experiments on electricity, directly resulting in his choice of which charge is positive. Had he been sent a sulfur rod instead, the convention for current would be in the same direction as electron flow.)
-Related:
-How strong is the electric charge capacity of Martian dust storms?
-Brushing clean a Mars lander's solar panels

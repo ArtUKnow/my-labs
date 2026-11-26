@@ -1,7 +1,0 @@
-Why does Unity look transparent?
-The BBC's Virgin Galactic: Sir Richard Branson rockets to the edge of space includes the image below.
-Much of the Unity spacecraft appears (almost) transparent in this image; you can see the blue sky right through it. Why?
-Unity soars into the New Mexico sky (Virgin Galactic via BBC)
-Here at apogee the spacecraft now looks white:
-Screen shot from embedded video in the BBC article.
-The moment Sir Richard Branson's rocket plane reached its highest altitude

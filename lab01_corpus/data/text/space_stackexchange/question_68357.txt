@@ -1,3 +1,0 @@
-Why did they put the Webb at L2 instead of giving it its own solar orbit independent of Earth?
-You have to spend energy to stay at L2. Solar orbit (like between Earth and Mars) is stable. I originally thought it was so it could stay in Earth's shadow.
-Was it so they could keep it close to Earth for high-bandwidth communication or a refuel mission?

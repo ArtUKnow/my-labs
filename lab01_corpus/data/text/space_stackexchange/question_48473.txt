@@ -1,4 +1,0 @@
-How are B-Plane parameters actually determined for a planetary flyby?
-Reading from this document, I am trying to simulate the New Horizons probe trajectory in GMAT and I am puzzled with how the authors of the original paper (by legendary mission designer Robert W. Farquhar and Yanping Guo) got the B-Plane parameters for the Jupiter flyby.
-From the original paper the correct B-Plane parameters for the Jupiter flyby should be
-What techniques do they use to actually derive the correct Fly-by parameters? Is there any method that I can use in GMAT to arrive at those actual parameters? One method that I can think of is using the Optimization module in GMAT but I am not sure If that is the correct route.

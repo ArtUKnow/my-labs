@@ -1,6 +1,0 @@
-How do you measure specific impulse Isp of a rocket engine?
-Specific impulse (Isp), is one of the two most important parameters used to characterise a rocket engine. The other being thrust (T).
-For example, the RS-25 Space Shuttle Main Engine (SSME) has a specific impulse in a vacuum of 452.3 seconds and at sea level of 366 seconds. These are often multiplied by g, the acceleration due to gravity (9.81 m/s^2) to give the specific impulse as an "effective velocity" of the exhaust gases.
-I'm not interested in the theory or application of the concept, but how it is measured in practice, such as by mounting a rocket in a rig and test firing it.
-RS-25 test firing
-TIA

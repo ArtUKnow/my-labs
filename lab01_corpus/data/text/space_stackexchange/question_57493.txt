@@ -1,5 +1,0 @@
-How did Cassini desaturate the momentum wheels without +Z axis thrusters? (limited pitch or yaw)
-Re: Cassini’s thruster axis
-Without +Z and corresponding -Z thrusters firing, it appears yaw or pitch authority would be very limited.
-Information on the quads is difficult to find. Is this attached image misleading?
-Thank you.

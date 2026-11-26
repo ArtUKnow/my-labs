@@ -1,2 +1,0 @@
-Are Neutron Stars Rich in H-dibaryons?
-The possible existence of an H-dibaryon near the $Λ-Λ$ threshold has still not been decided experimentally. This raises the question of the potential effects on neutron stars if it does exist. We explore the consequences within the quark-meson coupling model, using the excluded volume formalism. While the H is abundant in heavy stars the maximum mass is only lowered slightly by its presence.

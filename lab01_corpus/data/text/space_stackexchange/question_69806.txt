@@ -1,3 +1,0 @@
-Was TESS an opportunity for a "big dumb satellite"?
-TESS weighed an order of magnitude less than the dry mass of the Falcon 9 second stage, used virtually none of the fayring space, yet cost more than twice as much as the entire launch. This is strange.
-Would the cost of upper stages/kick motors really have outweighed the benefits of a larger, cheaper, heavier spacecraft?

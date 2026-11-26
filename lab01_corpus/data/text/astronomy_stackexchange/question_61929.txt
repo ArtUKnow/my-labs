@@ -1,4 +1,0 @@
-Assuming they exist, what would be the strongest observational evidence of quark stars?
-I know that the theoretical side of quark stars is still lacking an equation of state and their existence is, for the time being, hypothetical, but I'm curious to know what would be most likely way we could detect them from observations should they exist.
-By "quark stars" I'm referring to objects consisting of matter either formed from u-d quarks or u-d-s quarks supported against gravitational collapse by quark degeneracy pressure.
-For example: If such objects were to act as pulsars, how could we differentiate their signals from those produced by neutron stars? And if they didn't display that sort of behaviour at all, what other methods could we use to confirm their existence unambiguously?

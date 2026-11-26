@@ -1,5 +1,0 @@
-How come the universe isn't a black hole?
-This answer to a similar but imo not identical question essentially states we can be pretty sure the universe isn't a black hole, it's (for me paradoxically) too dense - more than a black hole would be.
-Please explain this.
-Since the schwarzschild radius grows linearly with mass, and the mass of a big part of the universe would be roughly proportional to the radius cubed - it seems clear that if we look at a large enough volume, it should look like it's smaller than it's schwarzschild radius, and should be a black hole.
-Why isn't it one then?

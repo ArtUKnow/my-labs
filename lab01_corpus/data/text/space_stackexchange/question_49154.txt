@@ -1,2 +1,0 @@
-Chance of ceramic board surviving re-entry on 3U CubeSat?
-We're building a 3U CubeSat and have concerns about a ceramic PCB used in one of our experiments. Since ceramics have such a high melting temperature, we're not sure if the heat transfer during re-entry will happen quickly enough to disintegrate it. Obviously, this raises some questions from a legal perspective. Does anyone know about the liability and insurance requirements for CubeSats (in Canada, specifically)? Are there any resources that could point me in the right direction? Any help would be appreciated.

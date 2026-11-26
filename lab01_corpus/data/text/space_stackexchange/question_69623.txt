@@ -1,4 +1,0 @@
-Is there such a thing as 'aerospace grade software'?
-"Aerospace grade materials" is a buzzword used to describe the set of materials and standards developed for aerospace applications. They are distinguished because they are designed to meet exceptional performance and reliability requirements.
-A bracket in space might be made better by reducing its weight or by increasing its fatigue lifetime. What features make software for spacecraft 'better'? Is there an example of a software package that was made for an in-space application that could have been made much simpler for an on-ground application?
-i.e. is 'aerospace grade software' a thing? and if so, what differentiates it?

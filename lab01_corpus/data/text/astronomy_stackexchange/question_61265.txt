@@ -1,2 +1,0 @@
-I need some clarification on measurement of the Hubble constant through observational techniques
-The Hubble Constant is mainly calculated using Supernova Ia data right? But Supernova in itself is a standard candle so why do people use Cepheid Variables to calibrate the distance? Like we can measure the distance to Supernova using a standard formula right?

@@ -1,7 +1,0 @@
-Dimorphos natural orbit variability vs DART impact
-As we know, DART spacecraft have impacted Dimorphos, a satellite of Didymos. The impact will change the orbital period.
-Depending on the properties of Dimorphos (mass, porosity, cohesion), the period is expected to be reduced in range of about 1-10 minutes.
-Mu question is - how good is our knowledge of Dimorphos' orbit and its natural variations?
-I suppose the natural variations are much less than the change from the impact, but could not find the numbers.
-The natural orbit variations can be caused by perturbations from the Sun and planets (the asteroid pair now makes relatively close flyby of the Earth), by Yarkovsky effect. Kozai variations may be not applicable if the orbit of Dimorphos is circular... Any other factors?
-Is Dimorphos orbit constrained by actual observations, or by theory only?

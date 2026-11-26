@@ -1,2 +1,0 @@
-Calculating and Drawing the orbit of a body in a 2D gravity simulation in python
-I'm making a space exploration game and its in a 2d plane so no z axis, and I'm using Newton's law of universal gravity, I would really like to calculate anddraw the predicted trajectory of a body, how would I proceed with this problem, I have the global position of the objects and the orbital velocities of them

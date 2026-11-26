@@ -1,6 +1,0 @@
-Why did tests in space of refrigerators of the type we use at home fail? How many were tried?
-Phys.org's To give astronauts better food, engineers test a fridge prototype in microgravity says:
-Astronauts have been going to space since 1961, but they still don't have a refrigerator to use for keeping food cold on long missions to the moon or Mars.
-[...]The researchers are not the first to attempt building a fridge like those used on Earth for space missions, but they are among the few who have tried since astronauts walked on the moon in 1969. Even though fridge experiments have been in space before, they either didn't work very well or eventually broke down.
-In practice, the fridge design would cool food through a vapor-compression cycle, similar to the process that a typical fridge uses on Earth, but without the need for oil. Having an oil-free vapor-compression cycle removes concerns about oil not flowing where it should in zero gravity.
-Question: Why did tests in space of refrigerators of the type we use at home fail? How many were tried? Which tests failed outright, which tests worked for a while then broke down and why?

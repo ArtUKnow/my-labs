@@ -1,5 +1,0 @@
-Euler Angle Notation
-Fundamental Question
-Correct me if I am wrong here. For Euler Rotations, we use the right hand rule. So a positive rotation in X-Axis will represent a clockwise rotation; whereas a positive rotation in the Y-Axis will represent a clockwise rotation as well.
-Why is a counter-clockwise rotation in the Z-Axis (thumb) represented as a positive rotation?
-Is it because we are trying to say a counter-clockwise Z rotation is trying to bring +x towards +Y? Can we think it that way?

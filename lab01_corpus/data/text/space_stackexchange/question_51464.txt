@@ -1,7 +1,0 @@
-Is there a (low-thrust) thrusting strategy to change a single orbital element alone?
-In literature, I have found the optimal thrusting directions (in terms of pitch and yaw) for maximizing changes in each orbital element.
-These optimal changes, while maximizing one element, have an effect on the other elements. That is, in-plane thrusting arcs will change the axis but also the eccentricity and the argument of perigee; and out-of-plane maneuvers will change the inclination but also the RAAN.
-For inclination and RAAN, given the fact that thrusting occurs in arcs and the fact that they depend only on one direction of thrust, it might be impossible to change only one element without changing the other.
-However, since the semi-major axis, the eccentricity and the argument of perigee seem to change affected by more than one component, I suspect there might be a way to obtain a thrusting strategy that sacrifices optimality while making sure that only one element is changed throughout the whole transfer time.
-I am only referring to the aforementioned 5 orbital elements, leaving the true anomaly aside for obvious reasons.
-Are there any developments on that? Are hypothetical single-element maneuvers ever used in real life?

@@ -1,5 +1,0 @@
-launch rocket like bullet from steam/air rifle?
-I've included an image depicting how exhaust energy from a rocket launch can be recouped by turning it into a large scale pressure cooker by the use of some kind of platform=sabot (thanks @SolomonsSlow). Could this work?
-And more importantly, would it save a worthwhile amount of energy/fuel in, e.g., a Falcon 9 launch?
-The timings are based on a Falcon 9 starlink launch. I assume engines are not throttled up at launch, but since the total burn time of stage 1 is 170s, this might save a ballpark ~3% of fuel, assuming you obtain the same speed after 12s=200m but with the boosters working at a utopian 200% efficiency. Unfortunately, I don't know enough about rocket launches to do a meaningful calculation.
-Also, one could easily devise other ways of jump-starting a rocket in a rocket fuel-independent manner (e.g., dump flywheel energy into a railgun-like propulsion mechanism) that further accelerate the rocket. Why aren't people doing this? Are such endeavours simply not efficient enough to pursue?

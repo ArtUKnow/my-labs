@@ -1,7 +1,0 @@
-Why does the moon’s transit appear so inclined in this STEREO-B video?
-Question: Why does the moon’s transit appear so inclined in this STEREO-B video?
-This video of the Moon transiting the Sun on Feb 25 2007 is from STEREO-B during its solar orbital insertion.
-https://upload.wikimedia.org/wikipedia/commons/transcoded/2/29/Moon_transit_of_sun_large.ogv/Moon_transit_of_sun_large.ogv.480p.vp9.webm
-In the video, the plane of the transit appears to be 24* inclination to the Sun’s rotational axis. The inclination of the Moon’s orbit to the ecliptic is 5.14*. The inclination of the Sun’s axis is 7.25* to the ecliptic. I can’t find the orbital inclination of STEREO-B, but it is usually shown coplanar with the ecliptic.
-5.14+7.25 is a long way from 24. I assume the discrepancy is because the point of view is moving, but I can’t picture the relative motion.
-By the Sun’s rotation, North is up. The waxing gibbous Moon is moving to the right. STEREO-B is moving to the left. Wouldn’t Stereo-B’s motion make the transit appear less inclined, rather than more?

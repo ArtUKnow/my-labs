@@ -1,3 +1,0 @@
-Should I convert local time to UTC when computing the sun's position?
-I'm trying to compute the sun's altitude and azimuth but should I convert the wanted local time to UTC by the time zone id? like in Saudi Arabia it uses AST (UTC +3 All the time) and Egypt uses EEST (UTC +3 In summer and In UTC +2 winter) or do I have to add the time difference manually?
-Note: I followed this website to get the equations Basics of Positional Astronomy.

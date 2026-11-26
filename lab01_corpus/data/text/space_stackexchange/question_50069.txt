@@ -1,7 +1,0 @@
-Have any rocket fuel systems actually been explosive, and could have detonated proper?
-Never mind that this is the 18th question to have the rocket-explosion tag.
-To the question "Would the Dragon escape pod have survived this event?" asked about the AMOS-6 mission, Elon Musk tweet-responded:
-yes. This seems instant from a human perspective, but it really a fast fire, not an explosion. Dragon would have been fine.
-The speed of combustion was limited by the rate at which fresh oxygen and kerosene could mix and be heated. Compare that to what happens when high explosives detonate where the reaction travels through the material at the speed of sound, and no mixing is required.
-So for the purposes of this question let's say that LOX/RP-1 rockets don't explode.
-Question: Have there been tests of rockets that had the potential to detonate proper? Just for an illustrative example: oxidizer and fuel thoroughly mixed but kept so cold that nothing happens until some is warmed up in a combustion chamber?

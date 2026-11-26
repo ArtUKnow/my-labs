@@ -1,8 +1,0 @@
-Powered Explicit Guidance - Why wouldn't it be used?
-I keep reading that the Powered Explicit Guidance equations (PEG) (detailed in the Technical note linked below) is (an approximation of) the most efficient way to get to space. That being said, I know of ascent trajectory optimisation tools that 1/ offer trajectory optimisation based on a number of phases with prescribed flight behaviours such as constant pitch/rate, Gravity Turn etc. and 2/ can't model the tangent steering profile that the PEG is based on.
-If PEG is the most optimal, and given its' ability to adapt to dispersions if computed onboard, why do mission designers consider these other flight phases- and why do some trajectory optimisation softwares not even provide the capability of modelling the linear tangent law?
-Is this a limitation of on-board compute? I wouldn't expect so since these algorithms ran on the Shuttle missions.
-Are these flight phases used only in the initial part of the trajectory, where assumptions in PEG aren't valid (e.g. presence of an atmosphere)? If so, when does the transition to PEG occur? At some threshold altitude?
-These are questions I'm considering as I put together my own simulated project, with the goal of working in Flight Physics/GNC domains when I graduate.
-Thanks for your help.
-TN: https://ntrs.nasa.gov/citations/19660006073

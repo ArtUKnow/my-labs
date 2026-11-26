@@ -1,7 +1,0 @@
-Which Falcon-9 launches were of a Falcon-9R rocket?
-I have heard about Falcon 9 1.1 and Falcon 9 FT, but what is a Falcon 9R?
-If I understand correctly R = "reusable" which seems to apply to a lot of them.
-Are the Falcon 9 FT rockets launched today also Falcon 9 R's?
-To get to the bottom of the tagging issues falcon-9 vs falcon9-r I've just asked in meta How to determine on which questions the falcon9-r and falcon-9 tags do and don't belong?
-I'm also uncertain about the results of the older question Can we merge [falcon9-r] into [falcon-9]?
-But here, I'd like to ask: Which Falcon-9 launches were of a Falcon-9R rocket? Do the "FT" and "R" qualifiers overlap? Does anybody still use "Falcon 9 R"?

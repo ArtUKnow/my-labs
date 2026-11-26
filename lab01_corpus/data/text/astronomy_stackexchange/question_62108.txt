@@ -1,4 +1,0 @@
-Period between when a point on earth’s surface intersects its orbit
-Is there a name for the period between when a point on earth’s surface crosses/intersects its (the earth’s) orbital path and crosses it again the next ‘day’?
-It would be almost, but not, be the same as the sidereal day, I imagine.
-Also, is there software I can use to calculate this?

@@ -1,5 +1,0 @@
-Is the ESA's DELTA Stochastic?
-I'm reading this paper describing the capabilities of the ESA's DELTA space debris forecast model.
-It's clear that this model uses a statistical, flux-based model derived from the MASTER debris collision risk assessment tool.
-However, it's not immediately clear to me whether taking such a flux-based approach, rather than considering individual pieces of debris would qualify this as a stochastic one.
-Are flux-based modelling techniques fundamentally stochastic?

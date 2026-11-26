@@ -1,4 +1,0 @@
-Falcon 9 legs: precharged helium?
-I've read the Falcon 9 uses helium pneumatics to extend its legs.
-The separation pushers are also helium pneumatics and I believe those are precharged so no pumps required.
-Are the leg cylinders precharged too?

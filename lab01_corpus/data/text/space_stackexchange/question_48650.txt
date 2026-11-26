@@ -1,2 +1,0 @@
-What is the maximum payload in terms of mass delivered to LEO by launch vehicle which used pressure fed cycle in all stages?
-Launch vehicles can use pressure fed cycle in any stage of the rocket, but here i am interested for those vehicles which used this cycle in all stages. What is the current record in terms of mass of payload delivered to LEO for such vehicles? I don't count suborbital flights and vehicle must be launched from Earth. Also i don't count conceptual vehicles, only one which successfully delivered payload in LEO.

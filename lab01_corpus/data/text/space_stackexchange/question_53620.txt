@@ -1,4 +1,0 @@
-Attitude control of rockets with RD-107 engines
-This question is specifically about the Soviet engine RD-107, (although it can be generalized) a version of which was clustered in Soviet rocket 8K71 which launched their "Sputnik".
-Each engine uses four fixed main combustion chambers. The RD-107 had additional two Vernier combustion chambers that could provide thrust in a single plane (the plane joining their center lines) to supply attitude control. The photo of the engine shows these Vernier engines completely off-set to one side.
-The question is: Is it not essential to provide at least FOUR of such Vernier engines (similar to RCSs used on LEMs and perhaps Space shuttle nose also) on four, diametrically opposite points, which are equally spaced angularly, so as to control the attitude using their combination? Perhaps three might also be sufficient, but only two, that also completely off set on side? How did they control attitude effectively?

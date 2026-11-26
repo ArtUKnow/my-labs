@@ -1,6 +1,0 @@
-How do space launch providers calculate how many millipeople a rocket launch could kill?
-I was intrigued by this post which states...
-To get a license you have to show that your launch will kill no more than ~1 milliperson, which usually means not flying close to population centers.
-I imagine this could be quite a complex calculation since there are many low-probability ways that a launch could fail. Can anyone summarize the expected casualty calculation process, while referencing, where possible, any publicly available documents on the topic?
-While I will be happy to learn whatever you happen to know about this process, I would be interested in learning about the following details: a) Is this calculation generally outsourced to a third-party specialist company, b) If yes, what is the typical fee, c) Does it have to be recalculated for every launch, d) Who verifies the calculation, e) Are there any publicly available calculations, and f) Is there any information on how non-US agencies might perform the calculation differently?
-Note: There is an FAA advisory on the topic here.

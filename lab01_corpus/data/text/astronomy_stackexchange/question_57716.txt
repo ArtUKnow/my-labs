@@ -1,5 +1,0 @@
-What stops terrestrial planets from becoming watery gas giants with water vapour atmospheres?
-How come planets beyond the frost line form with ice cores but terrestrial planets didn't accrete anywhere near as much water vapour?
-The way I understand accretion to work, planets form out of molecules that are solid at their equilibrium temperature. Then once they are sufficiently massive, they start pulling gasses like helium and hydrogen from the accretion disc (if their escape velocity is significant enough) via atmospheric escape.
-Most of the planets beyond the frost line were massive enough to retain hydrogen by atmospheric escape and became gas giants. Earth and Venus are massive enough to hold onto water vapour - yet they have orders of magnitude less water/ice than any planet beyond the frost line.
-What causes this huge disparity?

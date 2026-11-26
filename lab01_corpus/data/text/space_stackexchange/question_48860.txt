@@ -1,5 +1,0 @@
-Could we send a projectile to the Moon with a cannon?
-In Jules Verne's From the Earth to the Moon, the main characters set out to send a cannonball to the Moon with a massive cannon. The cannonball is then changed for a shell to take on passengers.
-Wikipedia describes several projects of "space guns" and some of the difficulties but only states that "the required speeds would cause most objects to burn up or be torn apart" (including, of course, human beings). This doesn't give me a definitive answer.
-Could we, with today's technology, send a passive, useless projectile to the Moon surface or lunar orbit by launching it out of some kind of tube with some kind of explosion or rapidly-expanding gas? If so, what would the technical solution look like? How would it be aimed? How much could it cost? What environmental consequences would there be?
-EDIT: I would like to emphasize that I am NOT trying to send people to the Moon. I am only asking about sending a cannonball or shell or whatever sturdy solid object.

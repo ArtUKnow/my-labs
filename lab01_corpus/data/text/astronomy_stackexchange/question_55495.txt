@@ -1,3 +1,0 @@
-Are there mascons on Ganymede similar to the ones on the Moon? And if so, how will that impact JUICE when it orbits over Ganymede?
-Mascons, also known as mass concentrations, are anomalous features on the Moon that tug on orbiting spacecraft and cause their orbits to decay and crash on short timescales. There are only a handful of known orbits with select inclinations and other parameters that counter the mascons' effects and ensure long-term stability of the spacecraft.
-Is it known whether there are similar mascons on Ganymede that might derail JUICE after it enters orbit around the moon? Or is it much smoother than the Moon, and only requires minimal station-keeping to prevent it from crashing?

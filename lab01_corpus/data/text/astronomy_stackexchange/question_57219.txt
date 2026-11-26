@@ -1,4 +1,0 @@
-magnitude calculation if a blackbody's radius and temperature are provided
-I know it is necessary to convolve its spectrum with the transmission curve of a filter.
-Are there any online tools or codes available for calculating a BB's magnitude in any specific band (e.g., UBVJHKugriz) when its surface temperature and radius are provided?
-What I need is not a table. A table usually does not encompass all stellar types, let alone cover the entire range of temperatures. Besides, BB does not necessarily mean a main sequence star.

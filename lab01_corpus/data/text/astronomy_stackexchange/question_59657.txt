@@ -1,4 +1,0 @@
-Do we have instruments that do automatic Redshift measurements?
-I'm interested in the technology of measuring the redshift (distant objects / galaxies in particular).
-What I have in mind is something like a car/traffic speed camera (speed gun), based on Doppler effect. Point the "instrument" (telescope?) at a distant object in the sky and get its redshift, instantly (well, some computation latency expected).
-PS. If it helps, I am familiar with spectrum, absorption lines, signal processing.

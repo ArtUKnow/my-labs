@@ -1,5 +1,0 @@
-Need clarification of units on rocket nozzle equation
-I have been working on modeling liquid rocket engines and have read the book How to Design, Build and Test Small Liquid Fuel Rocket Engines, I had a question about the nozzle area and the units involved and I found this post and it helped me get as far as I am, but the units don't make sense.
-Need help on rocket nozzle equation
-The unit I end up with is Sqrt(ft) which makes no sense. If it was a unit squared, you could take the square root of it. I am sure I am missing something. Any help would be appreciated.
-Thank you.

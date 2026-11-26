@@ -1,9 +1,0 @@
-Why is the expansion ratio of the nozzle of the 2nd stage larger than the expansion ratio of the nozzle of the 1st stage of a rocket?
-As an answer I have two statements, which statement is correct? If one or both are wrong, can you please provide me an explanation?
-Statement 1:
-The goal is to achieve maximum efficiency in thrust. This is achieved when the nozzle's exit pressure matches the ambient pressure. In reality, the exit pressure will only match the ambient pressure within a specific range of altitudes, and compromises must be made for other altitudes where the exit pressure will be higher or lower than ambient pressure. Since the ambient pressure in space is 0 bar, theoretically, the cross-sectional area of the nozzle's exit must be significantly larger than on Earth. Therefore, the expansion ratio of the upper stage is higher than that of the lower stage because the upper stage operates in space.
-Statement 2:
-In space with vacuum conditions, there is no ambient pressure. Therefore, the shape of the rocket nozzle and its expansion ratio are adjusted so that the flow of gases exits the nozzle straight outward without spreading to the sides. If the same expansion ratio used in the upper stage's nozzle in space were applied to the main stage's nozzle on Earth under atmospheric conditions, the flow would be severely over-expanded, and the flow would separate from the nozzle surface.
-If the nozzle of the 1st is in vacuum conditions, then the flow of gas out of the rocket engine nozzle’s exhaust plume would expand far beyond the width of the nozzle in the upper atmosphere and space, resulting in a decrease in engine efficiency.
-Edit for context: I got the answers from different sources, including the following website:
-https://headedforspace.com/vacuum-optimized-rocket-nozzles/

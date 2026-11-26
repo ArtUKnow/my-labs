@@ -1,4 +1,0 @@
-Is this how the standard gravitational parameter μ =G(M+m) comes from?
-First of all, are my derivations mathematically correct?
-If they are, is this indeed the correct way to derive the standard gravitational parameter, $\mathrm{μ=G(mA+mB)}$?
-Finally, could someone explain the physical meaning of these equations? While I can follow the mathematics and perform the derivation, I'm struggling to understand their physical interpretation. In particular, I'd like to understand what Equations (13) and (14) actually tell us about the motion of the two-body system.

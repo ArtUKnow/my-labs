@@ -1,4 +1,0 @@
-Why wasn't the wind and thermal shield of Insight's deployable seismometer integrated into the instrument before deployment?
-This fascinating question and answer covers how Insight's seismometer was deployed by its robot arm, and how a subsequent robot arm maneuver covered it with a wind and thermal shield.
-What parts of the InSight lander are missing between these two photos?
-Why could the wind and thermal shield not be pre-integrated into the seismometer, removing the need for a second robotics maneuver?

@@ -1,2 +1,0 @@
-Cosmology with ESO-SKAO Synergies
-We discuss the possible synergies for cosmology between SKAO and ESO facilities, focusing on the combinations SKA-Mid with the Multi-Object Spectrograph Telescope (4MOST) instrument built for ESO's Visible and Infrared Survey Telescope for Astronomy (VISTA), and SKA-Low with ESO's Extremely Large Telescope (ELT) multi-object spectrograph MOSAIC. Combining multiple tracers allows for tackling systematics and lifting parameter degeneracies. It will play a crucial role in the pursuit of precision cosmology.

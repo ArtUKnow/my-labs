@@ -1,2 +1,0 @@
-Memory time fluctuations and instabilities in random media
-The role of memory time fluctuations for instabilities in random media is considered. It is shown that fluctuations can result in infinitely fast growth of statistical moments. The effect is demonstrated in the framework of light propagation in the Universe, which contains curvature fluctuations while remaining homogeneous and isotropic on average.

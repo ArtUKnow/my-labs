@@ -1,3 +1,0 @@
-How is altitude measured in self-landing rocket stages?
-Altitude must be a key metric for a self-landing rocket stage on landing approach. But where exactly does that measurement come from? And to what decimal place would it be accurate?
-I'm sure the answer depends on the rocket, and that a given rocket must have different types of sensors for altitude. I'll take any answers for any rocket and for any type of altitude sensor, as I'm only trying to build some intuition for what to expect.

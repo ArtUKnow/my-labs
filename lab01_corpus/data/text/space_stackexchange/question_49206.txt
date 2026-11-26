@@ -1,4 +1,0 @@
-If there's a hole in Zvezda module, why didn't all the air onboard immediately escape into space?
-The ISS is leaking through a hole in the Zvezda module that still hasn't been found.
-However, as with all pressurized chambers, shouldn't all air instantly run out through the hole into the vacuum of space immediately after the hole formed, forcing the astronauts to put on spacesuits?
-Or is it rather a valve that's leaking like in case of Soyuz 11 (where however all the air also run out quite quickly, killing the crew)?

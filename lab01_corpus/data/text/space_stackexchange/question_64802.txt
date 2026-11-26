@@ -1,7 +1,0 @@
-Person falling from space
-A person at rest 500 km above the Earth falls straight downwards. She has a snug magical force field around her that is totally rigid and completely protects her from outside heat. The force field does not change the shape of her body and DOES NOT protect her internal organs from rapid deceleration. Can anyone give me a rough estimate of the following:
-The time taken to fall the first 400 km to the top of the atmosphere.
-The time after that to reach the ground.
-The maximum deceleration she would experience.
-Whether she would survive the fall (ignoring the final impact).
-I need this for a surprise book I am writing for my daughter, which I am hoping to keep generally within the bounds of believable science.

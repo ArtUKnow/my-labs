@@ -1,4 +1,0 @@
-Computing a new TLE following a delta-v impulse?
-Is there some code or a library out there that can take orbital elements, add a known delta-v component and then compute a new TLE? I found this one https://apps.dtic.mil/dtic/tr/fulltext/u2/a289281.pdf from 1994 but it's written in FORTRAN.
-I already use the SGP4 package from Brandon Rhodes1 to get position and velocity from the TLE so I just need to figure out how to generate a TLE after I add the new velocity. I understand there will probably be some inaccuracy but I really only care about GEO satellites and very small delta-v so maybe the inaccuracy won't be as big of a deal. Python is preferred but any modern language would work.
-1https://github.com/brandon-rhodes/python-sgp4

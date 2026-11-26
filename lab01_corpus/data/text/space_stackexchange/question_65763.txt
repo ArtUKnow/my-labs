@@ -1,6 +1,0 @@
-Why is there no difference between a transfer orbit delta-V and a capture orbit delta-V for Earth?
-I'm particularly interested in understanding this beautiful solar system delta-v map and concepts on its Wikipedia page.
-In contrast to other planets there is no Earth Transfer only an Earth Capture/Escape.
-Is there a difference between Transfer and Capture/Escape for the Earth? Is it the perspective of the map is entirely from the Earth POV and a different map would need to be calculated for Mars?
-It would be helpful to include equations in your explanation.
-TIA

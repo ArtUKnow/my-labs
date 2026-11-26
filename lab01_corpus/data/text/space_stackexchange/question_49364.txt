@@ -1,8 +1,0 @@
-How does one determine the optimal CH4:O2 ratio in a methane-LOX rocket engine?
-The SpaceX Raptor uses a 78:22 O2:CH4 ratio.
-It also has combustion chamber pressures higher than any other rocket engine ever built.
-My questions are:
-What's the math / chemistry that determines what ratio optimizes Isp?
-How much does combustion chamber pressure matter in determining what the optimal O2:CH4 is?
-Can we raise Isp by running more CH4 rich in combustion chambers of
-higher pressure?

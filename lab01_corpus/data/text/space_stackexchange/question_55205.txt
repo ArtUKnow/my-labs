@@ -1,5 +1,0 @@
-How much mass can be put in an L4 or L5 and it still maintain reasonable stability?
-Every explanation of Lagrange points I've seen refers to it as a sort of three-body solution, where one of the body's masses is taken to be comparatively negligible to make the solution work.
-However, I haven't been able to find a description of at what mass a body is considered negligible, or even a ratio.
-For example, if I wanted to add a second moon to the Earth-Moon system by placing it at an L4 or L5 point, how big could that secondary moon be before it no longer fits the 'comparatively negligible mass' category?
-Thanks!

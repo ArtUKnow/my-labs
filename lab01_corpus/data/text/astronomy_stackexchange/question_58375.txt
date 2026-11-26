@@ -1,2 +1,0 @@
-Could a black hole be shaped like a torus?
-I am familiar with the Kerr metric, which states that a black hole can spin. I also know that, due to the spin, the singularity is ring shaped. I wonder, if enough spin is given to the black hole, that it could have a toroidal shape. I also wonder what properties the 'hole' in the torus has. If it isn't a torus, then what shape is it?

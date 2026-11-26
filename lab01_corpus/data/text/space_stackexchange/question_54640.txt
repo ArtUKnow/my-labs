@@ -1,3 +1,0 @@
-What kind of valves are used in payload fairing for venting?
-I wanted to know that there have been a handful of literature that mentions vent openings in the rocket payload fairings. However, none specify the kind of valves used in those fairings?
-Does anyone know what valves are used in such fairings and how do they operate?

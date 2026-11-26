@@ -1,7 +1,0 @@
-Why was Jupiter so bright; is it the "phase"?
-When I was walking in the evening (2023-12-30) in the south of Germany (roughly 49°N 12°E) I noticed a single bright object in the sky, and (not being an astronomer) I wondered what it might be.
-So I started Stellarium to point at the location to find out that it's Jupiter (you'll see the photo and the screenshot below).
-What made me wonder is the "phase 0.99": Does it mean sun, earth and Jupiter are mostly in one line, so Jupiter will reflect as much light as possible back to the earth?
-Wikipedia says Jupiter is about four times as far from sun than earth is, and it has about 11 times the size.
-I wonder: What would be the brightest star in comparison, and how bright would it be (as a proportion)?
-For reference, here's my attempt to "gain up" the photo:

@@ -1,2 +1,0 @@
-Nitrogen trifluoride as a high density oxidiser
-Nitrogen trifluoride (NF3) is a liquid between 66K and 144K and has an incredible density of 1.885 g/cm2. It has a pretty great specific impulse, although combustion temp is a bit high, and AFAIK is stable, although very poisonous. NF3/N2H4 with O/F 2.95, 7.4 Ae/At, and chamber pressure and temp. 6MPA and 4260K, respectively, have a vacuum-specific impulse of 345s and a density impulse of 535s! Why is it not a commonly used propellant, or at least received attention for its potential?

@@ -1,2 +1,0 @@
-Analytical results for the power-law sensitivity curve of stochastic gravitational-wave backgrounds
-We derive analytically some general features of the power-law sensitivity curve. They include an exact parametric equation, a formula for the peak sensitivity and a proof of convexity in log-log plot. A few conceptual points are also clarified.

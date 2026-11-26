@@ -1,2 +1,0 @@
-What is the thrust of Momentus' thrusters?
-I understand that they have an interesting method of using microwaves to produce plasma from water. They claim to have a "high" thrust and "high" specific impulse. Their Isp numbers are published, but apparently not thrust. Has there been anything published on that end? More about the company here: homepage, but it doesn't look like much in the way of technical specs

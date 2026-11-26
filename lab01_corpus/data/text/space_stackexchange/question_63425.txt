@@ -1,5 +1,0 @@
-What is the Delta V from the Moon to Earth Sun L1?
-There are various proposals to build infrastructure at Earth/Sun L1 point, such as discussed in this question. From LEO the Delta V cost to L1 is about 3.5 kms or about kg of propellant in LEO for every kg needed at L1, doubling needed payload to LEO on a project where final mass is already in millions of tonnes.
-For this reason a number of proposals have presumed getting most of the structural mass from the moon.
-The naive assumption using that answer and charts used here would put the Delta V cost of Moon surface to L1 at around 3kms, similar to LEO. In theory it should be possibly to gravity assist from the Earth to lower that a bit, and also use a fixed launcher on the surface to reduce the needed fuel, but even combining those two there would need to be thrust to take station at L1.
-Is it possible to determine a Delta V from Lunar surface to Earth Sun L1 assuming clever/slow trajectories, and how much of that could come from a fixed launch system vs later maneuvers?

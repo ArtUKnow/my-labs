@@ -1,5 +1,0 @@
-How to calculate time needed for spacecraft to travel a given number of meters in elliptical orbit or hyperbolic trajectory?
-We have elliptical orbit and spacecraft travelling it. I need a formula to calculate a time needed for spacecraft to travel given amount of meters starting from it's current position.
-Keplerian elements of orbit are known.
-If I know difference between current and future true anomaly, I can use formula of orbital period to calculate that time but how to find the future anomaly by given orbital ellipse chord length (closest point) and initial true anomaly?
-And also I need the same calculations for hyperbolic trajectory

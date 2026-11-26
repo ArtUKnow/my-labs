@@ -1,2 +1,0 @@
-Given an initial orbit calculate the necessary maneuver impulse to obtain a required final eccentricity and semi-major axis
-The question is simple. Starting from an eccentric orbit I want to obtain a final orbit of which the final semi-major axis and the final eccentricity are known. You would have to determine the boost and the point in the orbit where it should be done to get these final conditions. That is, we have an a0 and an e0 and an af and an ef and I would like an algorithm that gives me the impulse and the point of the orbit where to do it.

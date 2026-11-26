@@ -1,6 +1,0 @@
-Dragon launch escape: is nose cone ejected for parachute deployment?
-Dragon’s landing parachute is stowed roughly in the nose cone hinge area, and this leads me to believe the nose cone has to open for the chute to deploy.
-In normal operations, I believe the nose cone is ejected prior to atmospheric reentry, but on launch escapes the nose cone would be locked shut.
-So I’m wondering: does the lose cone have to be ejected for the chute to deploy, is it enough for it to be opened (but still attached), or can the chute deploy even with the nose cone closed?
-The big thing I’m trying to figure out: will the nose cone be ejected during launch escape of one is triggered? I’m trying simulate those and if I’d like to get this right—I don’t want to send my nose cone falling if this isn’t something that would normally happen :D
-Thanks if you know and can share!

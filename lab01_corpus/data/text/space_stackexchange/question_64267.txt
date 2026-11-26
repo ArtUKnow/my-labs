@@ -1,5 +1,0 @@
-Chemical Problems When Encountering Thin Atmospheric Worlds
-Bodies such as Enceladus, Mercury, and Triton, etc... have thin (and often temporary) atmospheres.
-When probes or landers encounter the chemicals in such atmospheres in low orbits/landings, they may find themselves experiencing adverse chemical reactions that could potentially jeopardize the mission.
-My question is:
-How/(do they at all) aerospace engineers account for these factors?

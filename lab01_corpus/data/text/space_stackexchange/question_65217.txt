@@ -1,5 +1,0 @@
-Why aren't more companies manufacturing the RS-25 (Space Shuttle Main Engine)?
-The RS-25 is a great engine with a terrific ISP. It was used 42 years ago (on April 12th 1981) for the first Space Shuttle flight; therefore, the most of the patents on it must have expired long ago. But NASA still seems to be willing to pay a handsome price for it...
-For example, the current cost of manufacturing a new RS-25 main engine—which will be used for the Artemis V mission and onward—is about \$ 100 million. NASA and Aerojet are trying to achieve a 30 percent cost savings by the end of this decade, bringing the cost down to $ 70.5 million.
-(ref)
-Is there anything that prevents other companies (besides Aerojet Rocketdyne) from manufacturing it, or a very close knock-off of it, at this point?

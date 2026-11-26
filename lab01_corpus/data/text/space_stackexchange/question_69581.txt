@@ -1,5 +1,0 @@
-FoV Determination (in STK)
-I need to calculate the field of view (FoV) of a satellite in LEO (600 km orbit). I am using STK, however, if I create a cone, I cannot determine what is really the max. FoV covered by the satellite. Do you have any suggestion how can I determine the max angle of a cone, which covers the field of view? --> this will correspond to my max. steering angle of an antenna beam, therefore I need to determine it through calculation/simulation
-Thank you!
-Best regards,
-Lau

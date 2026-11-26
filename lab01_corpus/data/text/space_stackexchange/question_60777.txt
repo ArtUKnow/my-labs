@@ -1,4 +1,0 @@
-Why do the walls of a solid rocket booster not glow red hot?
-After ignition the walls of the SRB are separated from the "reaction chamber" by solid rocket fuel. But as the burn progresses, more and more fuel is used up and so the isolation from the solid fuel is reduced until the shell of the booster itself is basically the reaction chamber.
-Question:
-Why are the walls of the solid rocket boosters not glowing red hot (or even brighter) at the end of the burn?

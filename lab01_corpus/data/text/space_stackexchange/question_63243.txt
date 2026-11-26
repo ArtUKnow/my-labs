@@ -1,4 +1,0 @@
-Why was the ExoMars Rover to use such as complex parachute system?
-American Mars landers use a single, supersonic main parachute. The European/ Russian ExoMars rover was to use a much more complex 4 parachute system consisting of a drogue, a main and a pilot for each of those.
-The parachutes were the primary reason for the two year delay from 2020 to 2022. Why did they decide on this system over a more simple, single parachute?
-Image for reference (source):

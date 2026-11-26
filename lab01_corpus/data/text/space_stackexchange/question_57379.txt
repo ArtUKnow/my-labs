@@ -1,3 +1,0 @@
-How the number of Sun sensors is chosen for a given spacecraft and mission?
-I have to study an ADCS sensors suite and I am struggling to find a criteria to decide how many and in which directions the sun sensors shall be mounted, considering that they are coupled with star sensors for redundancy, initial acquisition and safe mode. I have read that Exomars Trace Gas Orbiter or TGO had 2 coarse sun sensors, while, for example, Mars Reconnaissance Orbiter or MRO had 8 sun presence sensors.
-What justifies these different architectures?

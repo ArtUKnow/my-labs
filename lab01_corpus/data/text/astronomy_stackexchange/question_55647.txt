@@ -1,3 +1,0 @@
-Tracking the position of the sun at various times of the day and night for a particular location
-I am looking for a website that will provide me with the degree above and below the horizon of the position of the sun at various times of the day and night for a particular location.
-Looking for suggestions.

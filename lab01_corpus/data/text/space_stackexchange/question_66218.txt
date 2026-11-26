@@ -1,6 +1,0 @@
-Do we know how the SpaceX Starship stack handles engine shutdowns?
-During the launch of SpaceX's Starship flight IFT-4 (unofficial cut video), a few seconds in one Booster engine was marked as shut down:
-Later, around time T+2:45, the rest of the Booster engines shut down. As with previous flights, they shut down in a pattern/groups:
-First set of engines shut down:
-Skipping ahead to middle ring, another group shut down:
-I presume there's a reason why the engines shutdown in a pattern, other than just stability. Is there shared plumbing between the engine groups? If one of the engines in a group shuts down prematurely, as during this launch, how do the turbopumps handle the change in demand?

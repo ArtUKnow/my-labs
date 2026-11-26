@@ -1,7 +1,0 @@
-What are the equatorial XYZ velocity vectors of Voyager 1, relative to J2000 Earth?
-I tried using Horizon but the values seem wrong, consistently taking Voyager beneath the ecliptic plane in my model (and to the right of Earth, if Voyager's position is straight ahead) rather than above it. Forgive me if the question's not easy to understand. I admit I'm not familiar with all the terminology surrounding motion.
-EDIT: Sorry for the confusion. I meant to ask which speed, in km/s, V1 is travelling on the X, Y, and Z planes (VX, VY, VZ in Horizons). For full context, I'm doing this in Universe Sandbox, with a model wherein X is 0 hours (right ascension), Y is up (90 deg declination), and Z is 18 hours (RA).
-My goal is to make a model of various objects V1 will encounter on its current trajectory.
-As John Holtz requested, the values I'm getting in Horizons are:
-VX=-6.725345450054260 VY=-12.27899493136756 VZ= 10.13492593876307.
-The values I'm getting from the sim, by pointing the velocity of an object around Earth toward where Voyager 1 should be, are: VX -48.7, VY 13.4, VZ 36.1.

@@ -1,3 +1,0 @@
-How to sort orbital positions in the order of following by spacecraft?
-I have an orbiting spacecraft which keplerian elements is known. Also, I have a random-ordered list of true anomalies that represents spacecraft's positions on that orbit.
-How to sort this list to get all true anomalies in the order in which it will be followed by spacecraft?

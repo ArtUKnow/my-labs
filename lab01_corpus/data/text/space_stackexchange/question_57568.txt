@@ -1,7 +1,0 @@
-Elon Musk's ITS Travel Time to Mars Estimate
-The average travel time to Mars has been quoted to be around nine months (~ 270 days). This assumes current propulsion methods and when Mars and Earth are near each other.
-Musk has been quoted to say that his ITS space rocket system could make it to Mars in about 80 days - or less than a third of the time current techniques could get us there.
-I'm curious to learn more about this statement. What is unique about the ITS that would make the travel time so much shorter? Is the propulsion method described in existence today?
-I've reviewed a few other questions on stack but have come up empty so far:
-Travel To Mars - Fast [duplicate]
-What are the travel times associated with different low-thrust accelerations going to Mars?

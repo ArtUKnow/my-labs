@@ -1,6 +1,0 @@
-What was the first Soviet/Russian spacesuit to use closed-loop ventilation?
-The spacesuit used for the first spacewalk used open-loop ventilation, venting exhaust gases into space:
-On reaching orbit in Voskhod 2, Leonov and Belyayev attached the EVA backpack to Leonov's Berkut ("Golden Eagle") space suit, a modified Vostok Sokol-1 intravehicular (IV) suit. The white metal EVA backpack provided 45 minutes of oxygen for breathing and cooling. Oxygen vented through a relief valve into space, carrying away heat, moisture, and exhaled carbon dioxide.
-Wikipedia
-What was the first Soviet or Russian spacesuit to use closed-loop ventilation, where the exhaust gases are scrubbed and re-used?
-Not to be confused with this closed-loop cooling question.

@@ -1,9 +1,0 @@
-Why is specific impulse equivalent to effective exhaust velocity?
-I am very comfortable with specific impulse in seconds. I know how to calculate it, I know what it is, I know what happens to a rocket when you double in or cut it in half. But it feels like the strangest coincidence that specific impulse in units of velocity is equivalent to exhaust velocity.
-Here's what I mean:
-If we use the interpretation of specific impulse as the thrust per unit of fuel mass flow, we've got units of
-$$\frac{N}{\frac{kg}{s}}$$
-Split up our Newtons using Newton's Second Law ($F=ma$)
-$$\frac{kg \cdot \frac{m}{s^2}}{\frac{kg}{s}} => \frac{kg \cdot \frac{m}{s}}{kg} => \frac{m}{s}$$
-Ok, great, like magic we have meters per second. Why? The math said so. But somehow this is supposed to be the exhaust velocity? The $m$ in $m/s$ came from the thrust of the rocket in the math, not from any property of the exhaust itself. The exhaust $kg$ and $s$ just cancel out some components of thrust.
-Is there a good intuition to explain why this is equivalent to exhaust velocity, beyond "because the math says so"?

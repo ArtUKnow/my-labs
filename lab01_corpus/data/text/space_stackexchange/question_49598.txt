@@ -1,6 +1,0 @@
-Falcon 9 Angle of attack on return flight?
-Do they control for angle of attack on the return flight of stage 1 of Falcon 9?
-Once it reenters thick atmosphere, aerodynamic stresses would be a concern as during launch, maybe more so because you no longer have the stiffening effect of pressurized fuel inside---you're pretty much flying an empty soda can at this point.
-How do they minimize the angle of attack then? Is it aerodynamics alone that keep it near zero? The center of mass is well in front of the center of pressure if you fly stage 1 with engines in front. This would tend to keep the rocket in the right orientation for the return flight.
-Or is it feedback control actively monitoring the angle of attack and correcting it back to zero through cold gas thrusters and grid fins? The controllers must be very busy trying to keep the rocket on track toward its landing pad, so it would be challenging to control simultaneously for angle of attack, if you could do it at all.
-My guess is aerodynamics take care of angle of attack while the controllers take care of staying on track, but does anyone know for sure?

@@ -1,4 +1,0 @@
-What is the meaning of "negative thrust" in a grossly-overexpanded engine?
-I recently reread this answer and noticed this term being used (quoted here):
-At atmospheric pressure, the exhaust can only be over expanded up to a point before the engine begins producing negative thrust or very strong oscillating thrust loads (from the exhaust separation from the nozzle walls) which can load the engine past the fatigue life of the nozzle wall and thrust frames.
-I haven't seen negative thrust in this context anywhere else, which got me thinking if this is just a misnomer or an actual possibility. For example, could the backflow of exhaust gases result in "negative thrust?"

@@ -1,4 +1,0 @@
-RCS jet select algorithms (e.g. in space shuttle)?
-I'm looking for a clear description of RCS jet selection logic. The space shuttle, for instance, had tens of RCS thrusters, only three of which would be called to fire at a time given a 3D attitude error vector (probably six jets if also controlling for position).
-I've read vague things about lookup table jet selection, but I still don't understand jet selection well enough to model it. I'm interested in any and all jet selection algorithms.
-The space shuttle and the apollo missions are well understood and much of their technology is public IP now, so there must be a good detailed description of how their jet selection agorithms worked? Thanks if you know of a good reference to point me to!

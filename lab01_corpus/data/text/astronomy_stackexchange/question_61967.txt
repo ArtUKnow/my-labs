@@ -1,2 +1,0 @@
-How much of Jupiter's mass is in gaseous state?
-Naively, one would say that the answer is 100 percent since Jupiter is a gas giant, but deep in its interior hydrogen and helium probably are in other states (liquid, supercritical fluid, solid, plasma etc.). Chat GPT 5 suggests that only the outermost layers (representing mere 3 procents of total mass) are in gaseous state. Is that correct?

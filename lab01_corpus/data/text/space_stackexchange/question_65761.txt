@@ -1,8 +1,0 @@
-How to calculate the ascending and descending node, as well as the true anomaly
-I have the argument of perihelion, semi-major axis, eccentricity, inclination and mass. I have tried to look this up but get conflicting answers. Any help would be appreciated.
-(Edit)
-One physics forum gave me this formula,
-$$r = a \frac{1 - e^2}{1 + e \cos \theta}$$
-Reference: https://www.physicsforums.com/threads/position-of-ascending-and-descending-nodes.534665/
-where to my understanding, theta is the true anomaly, this forum also states to minus the argument of perihelion from 360 to get my true anomaly value.
-Another stated to do $2 \pi$ - arg of perihelion, though I think this Doesnt apply as it is a Keplerian orbit.

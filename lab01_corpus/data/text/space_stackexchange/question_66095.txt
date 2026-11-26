@@ -1,3 +1,0 @@
-After a spacecraft departing from the ISS has performed its deorbit burn, what is the altitude at the perigee of its elliptical orbit typically?
-I am attempting to quantify how aggressively returning spacecraft reenter the atmosphere. There is likely a trade-off between aerobraking more gradually and splashing down accurately. I'm hoping that the deorbit trajectory perigee information will help to clarify what spacecraft typically do. If you can cite your sources, that would be very much appreciated. But if you happen to know from personal experience, please just share your knowledge.
-Similar info on spacecraft returning from other places would be helpful too.

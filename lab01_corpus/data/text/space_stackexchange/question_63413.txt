@@ -1,3 +1,0 @@
-On April 20 2023, how did Super Heavy burn for 40% longer than planned?
-The launch profile as planned had the booster shutting down at 169 seconds.
-In the event, it burned for 239s, or more than 40% longer. We know that the booster lost 5-7 engines during the flight, accounting for less than 22% of the engines. I would expect the burn time to increase by less than 30%, and more like 20%

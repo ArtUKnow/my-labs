@@ -1,4 +1,0 @@
-What is the white felt-like material between the heat shield tiles and stainless steel skin of Starship likely to be?
-I suspect that the white padding material between the tile and the stainless steel skin might be [Nomex Felt][1], but I don't really know. Nomex was used on the Space Shuttle.
-Flame-Resistant Felt - Nomex® (also called meta-aramid felt) is a high-temperature felt that protects against extreme heat.
-Is there a newer, better material that Starship might be using or of is meta-aramid felt still the most likely candidate material for this application?

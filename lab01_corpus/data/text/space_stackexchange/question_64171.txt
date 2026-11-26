@@ -1,4 +1,0 @@
-Radiation Challenges of Crewed Gas Giant Missions
-I was thinking about how easy it would be to perform a crewed tour of the Jovian/Saturnian moons, given the low DeltaV, and the abundant opportunities for potential ISRU.
-Then, I remembered with that now-familiar sinking feeling that both gas giants, Jupiter especially, have intense radiation fields in the form of trapped charged particles.
-Considering this would be the main hazard, I wonder if any proposals have been put forward to allow for a near-future (next 50 years) mission to either system, and how they proposed to deal with it...

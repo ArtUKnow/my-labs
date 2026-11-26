@@ -1,6 +1,0 @@
-how much does escape velocity vary with location and time?
-Launching a rocket to 'space' from Cape Canaveral (at sea level) requires a certain effort, based on gravitational force, and distance from the centre of the earth.
-Move the launch up to an Andean desert (highest habitable town) and the distance to the centre of the earth is greater.
-Move Musk's launch raft to the Indian Ocean (Geoid Low) and the gravitational force is less.
-Move any launch date to a spring tide and the alignment of Sun and Moon assist the launch.
-The glib answer is 'negligible', but how much do these affect the effort required ?

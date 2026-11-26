@@ -1,5 +1,0 @@
-What happened to Voyager 2's tracking loop capacitor? How did it get damaged? What is it for? What's a tracking loop anyway?
-On 23-Aug-2021 Voyager 2 tweeted:
-DSN antenna DSS-43 at @CanberraDSN is starting a 300 min listen to hear the echo of a command tone sent up to me 35 hours ago. This will define the "Best Lock Frequency" to listen or transmit on in order to correct for my damaged tracking loop capacitor
-Question: What happened to Voyager 2's tracking loop capacitor? How did it get damaged? What is it for? And for that matter, what is Voyager's tracking loop and what does it track?
-While it looks like several questionsm it's likely a source for one will have answers to the others as well. But if answering folks really want it split up I'll oblige.

@@ -1,3 +1,0 @@
-Why was Telstar 1 put in a 952 x 5933, 2.6 hour 44.8° MEO orbit?
-Wikipedia says that Telstar 1 was put into a 952 x 5933, 2.6 hour 44.8° MEO orbit but doesn't really say exactly why this particular orbit was selected.
-Did it perhaps behave roughly like a Molniya orbit?

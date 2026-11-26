@@ -1,3 +1,0 @@
-Radio Pollution Payload for CubeSat
-I was thinking of a spectrum analyzer as a radio pollution monitoring payload (for a CubeSat) that aims at making a global map of spectrum usage.
-My question is: Of which spectrum range can a CubeSat make a map from the LEO orbit? I heard about the SMOG-P (PocketQube)satellite. It did DVB-T spectrum monitoring from a 375 km orbit at 97 deg. I was thinking of something similar.

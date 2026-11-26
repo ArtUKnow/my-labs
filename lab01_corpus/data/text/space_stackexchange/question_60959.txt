@@ -1,5 +1,0 @@
-Why does Artemis I need a launch window?
-I know that a rocket needs to launch at the right time in order to be able to reach a specific point in orbit (e.g. the ISS). This launch window is quite small (correct?).
-But why does Artemis I target a specific launch window?
-Sure, Artemis has to arrive at the moon at the right time in order be on the right flight path to perform the planned fly by. However this only explains why a quite specific time for the TLI burn is necessary and not why a quite small launch window on earth is required.
-Sure, while the earth spins Artemis might launch while the moon is right above or on the other side of the earth. But does this matter? Could this not just be corrected by an extra orbit (or a half) before performing the TLI burn to the moon? Is the window for TLI this small?

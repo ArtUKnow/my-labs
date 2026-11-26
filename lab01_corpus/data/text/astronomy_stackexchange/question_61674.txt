@@ -1,3 +1,0 @@
-Can the cosmic microwave background be used to detect ancient gravitational lensing events?
-Could subtle features in the CMB maps suggest lensing by massive objects formed shortly after recombination? For example, I wonder if there are coherent distortions or cold/hot spots attributable to early dark matter or protogalaxies. I am also looking to know how sensitive current CMB datasets (like Planck or ACT) are to such effects. I would appreciate any proposed analyses or anomalies that indicate ancient lensing signals.
-Thanks!

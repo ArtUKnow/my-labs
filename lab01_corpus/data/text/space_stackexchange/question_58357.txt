@@ -1,7 +1,0 @@
-Do you need to operate laptop computers to run the ISS SSRMS robots Canadarm2 & Dextre? What if there's a pressure loss and you're wearing a suit?
-Comments and to some extent the current answer to If an ISS emergency requires pressure suits temporarily, can they still use the laptops? Move the cursor? address a highly unlikely scenario where a cabin-atmosphere loss or contamination even on the ISS happens and an astronaut is in a suit to stay alive and perhaps initiate some kind of recovery.
-The trackpads of the laptops are capacitive and may not work with some space suit gloves, and in the case of air pressure loss may overheat.
-In this excellent answer to What is the user interface of SSRMS according to enumerated item #4 it looks like it might be necessary to be able to use a laptop as part of the operation of the big robots outside the ISS.
-How many different walk-off maneuvers can the ISS robotic arm do?
-What are robot arm singularities in the context of the Space Shuttle and/or ISS?
-Question: Do you need to operate laptop computers to run the ISS SSRMS robots Canadarm2 & Dextre (i.e. the ISS' Mobile Servicing System)? What if there's a pressure loss and you're wearing a suit?

@@ -1,9 +1,0 @@
-Does Earth's planetary equilibrium temperature calculation use Earth's current albedo and hence oversimplify matters?
-https://en.m.wikipedia.org/wiki/Planetary_equilibrium_temperature
-In this model, the presence or absence of an atmosphere (and therefore
-any greenhouse effect) is irrelevant, as the equilibrium temperature
-is calculated purely from a balance with incident stellar energy.
-https://en.m.wikipedia.org/wiki/Bond_albedo (used in a formula for the above)
-Because bodies in the outer Solar System are always observed at very
-low phase angles from the Earth, the only reliable data for measuring their Bond albedo comes from spacecraft.
-From the above quote I understand that we just measure the actual Bond albedo. Then Earth's albedo is measured in the presence of our specific atmosphere. However, if the Earth lost all its atmosphere (or at least all greenhouse gases) and the actual surface temperature approached the planetary equilibrium temperature, then the albedo would be different and the calculated planetary equilibrium temperature wouldn't be -18 $^\circ$C. Am I correct here? Maybe the difference in albedo won't be large? What would it be without greenhouse gases? Can we make an estimation? What will the Earth's planetary equilibrium temperature be?

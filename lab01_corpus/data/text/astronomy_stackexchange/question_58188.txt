@@ -1,5 +1,0 @@
-What is a Primordial binary?
-I came across the term primordial binary in the article Stellar Collisions During Binary-Binary and Binary-Star Interactions by JM Fregeu:
-"The realization during the 1990s that primordial binaries are present in globular clusters in dynamically significant numbers has completely changed our theoretical perspective on
-these systems"
-But what is a primordial binary? I don't think it means primordial black hole, which is what came up when I searched for it. Maybe a type of binary system that's really old (comparable to the age of the cluster)? I'm just not sure.

@@ -1,7 +1,0 @@
-Actual mass of Chang'e 5 samples
-What is the actual mass of the sample retrieved by Chang'e 5?
-Wikipedia says:
-with an expected return to Earth around 16 December 2020. Chang'e 5 will be China's first sample return mission, aiming to return at least 2 kilograms (4.4 pounds) of lunar soil and rock samples back to the Earth
-An article China's moon rocks are officially on their way to Earth as Chang'e 5 probe leaves lunar orbit says:
-A container carrying around 4.4 lb. (2 kilograms) of lunar samples sits inside a reentry capsule attached to the orbiter.
-Is the mass already known (and if it is, how), or do we have to wait for the container to land?

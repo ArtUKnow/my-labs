@@ -1,7 +1,0 @@
-How to measure the angle that defines the apparent rotation or orientation of the Moon’s face as seen from Earth?
-I would like to know how to measure the angle that defines the apparent rotation or orientation of the Moon’s face as seen from Earth.
-For example, the Tycho crater sometimes appears pointing left, then downward, and later to the right — as if the face of the Moon is rotating.
-What is the official name for this angle?
-Is there an established astronomical or mathematical method to calculate it accurately? I need to calculate the angle value to simulate the Moon's rotation as shown in the attached image.
-[Edit]
-To be more precise, I am developing a game using the Unity 3D engine. I'm using NASA's 'CGI Moon Kit' and I have tools to compute the position of the Sun and Moon. However, during moonrise and moonset, the side of the Moon facing the Earth (i.e., the camera) does not appear as it does in reality. So what I mean by 'I need to calculate the angle value to simulate the Moon's rotation as shown in the attached image' is the angle I need to use to rotate the Moon on its Z-axis, as demonstrated in the attached GIF.

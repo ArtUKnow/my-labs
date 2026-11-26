@@ -1,2 +1,0 @@
-Can satellite internet be used for monitoring rocket telemetries during testing phase?
-Latest prototype of Starship is fitted with Starlink satellite receiver. The SN11 prototype was destroyed during landing and the last seconds telemeteries before the explosion could not be monitored. Can satellite internet be used for monitoring online telemetries during rocket testing?

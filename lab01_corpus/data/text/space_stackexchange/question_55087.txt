@@ -1,2 +1,0 @@
-How are upper stage engines chilled down?
-To chill down an engine, cryogenic propellant is pushed through the engine. This is fine for the first stage because the chill down propellant can just flow out the nozzle and on to the ground/the atmosphere. The upper stage, however, is closed up. How do you chill down the upper stage engine if there is nowhere for the propellant to go after it exits the nozzle?

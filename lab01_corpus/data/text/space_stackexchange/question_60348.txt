@@ -1,8 +1,0 @@
-Optimal numerical method to solve BVP for optimal low thrust control
-I need to solve a boundary value problem (BVP) for an optimal control in case of low thrust trajectories optimization. I want to include the J2 perturbations to the Edelbaum solution (multiple revolutions one).
-In my specific case I am:
-capable to define the state equations, for semi-major-axis, inclination, raan and mass
-capable to define the Euler Lagrange equations for the adjoint parameters (lambdas entering the Hemiltonian formula)
-capable to set general boundary conditions
-However, I can't understand how to integrate in time, since time is not present as a variable inside the equations and how to initialize the problem: setting values for OP and adjoint variables.
-Furthermore I am looking for some tools automatically implementing and solving this problems automatically (better if written in Python), anyone know something about that?

@@ -1,7 +1,0 @@
-How does JUICE navigate autonomously
-Introduction
-To kick things off, I'd like to introduce myself as a 23-year-old novice learner when it comes to space exploration but I've been listening to astronomy-specific podcasts since 2022 and I've been trying to learn as much as I can about the subject since then despite this being kind of irrelevant to my field of study at university (CS).
-Overview
-Overall, there is basically a series of mathematical and computational processes involved with which the spacecraft is directed to its destination. I'm going to make some assumptions for the rest of the overview. For instance, I know just a little about the Hohmann transfer orbit which is a way for spacecraft to gradually align their path with the orbit of their target object. This, however, is calculated fairly accurately by a computer that is either on the spacecraft itself so that it can be somewhat autonomous as it approaches the target(but I'm not quite sure if that's how missions like Voyagers or Pioneers were done) or operators manually or in an automated fashion, send the individual instructions required to direct the spacecraft to the right path, to the spacecraft using earth-based radio transmitters.
-The Crux
-What methods have been used for guiding JUICE and how technologies such as AI, CNN-based Image Processing, and optical navigation have been used to increase efficiency?

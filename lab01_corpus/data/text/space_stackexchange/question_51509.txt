@@ -1,2 +1,0 @@
-how does the direct fusion drive generate electric power?
-According to its Wikipedia page, about 30% of the power "generated" by the DFD reactor can be used for electrical power. But wouldn't that make it have net positive energy? Since we are still working on fusion power that produces energy, this doesn't make sense. How does the DFD concept produce energy?

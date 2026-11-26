@@ -1,9 +1,0 @@
-Halo Orbits for Dummies: Can the tilt orientation of an L2 halo orbit be modelled on Coriolis Effect?
-L2 Halo orbits are often portrayed as a pair of “North” and “South” orbits. Could the difference in “tilt” around the Y axis be explained by the direction of rotation and the Coriolis Effect?
-https://www.semanticscholar.org/paper/Maintenance-of-earth-moon-halo-orbit-Liu-Hu/6fa14df4563cd71841a53b0017ff44264ac45cee
-Below is a sketch of the Sun-Earth L2 and a closer view of two hypothetical counter-rotating halo orbits
-Since this is a rotating frame of reference, the Coriolis Force will affect objects moving in the X-Y plane in relation to the frame of reference. Movement along the Z axis will experience no Coriolis Effect.
-In sketch a) below, the green, “counterclockwise” orbit is isolated. The blue arrows indicate the Z-axis which is the rotational axis of the frame of reference. The dark green arrows represent the velocity vectors at various points on the orbit. The orange arrows represent the Coriolis Force acting at that point in the orbit. In sketch b), extraneous vectors have been removed. The dashed green line shows the expected displacement of the orbit around the Y axis due to the Coriolis Force.
-Sketch c) shows similar effect on the counter-rotating red orbit, but with the tilt in the opposite direction as expected. Sketch d) shows the relative tilt of the two orbits together.
-The final sketch e) shows a slightly rotated view
-I cannot source any information on the orbital direction of “North” and “South” halo orbits. Is Coriolis Force a reasonable model for the difference in their orientation?

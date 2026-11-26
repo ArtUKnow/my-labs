@@ -1,5 +1,0 @@
-Lithium-ammonium fluoride solid propellant, is it possible?
-Inspired by the Rocketdyne Lithium-Fluorine-Hydrogen tripropellant, I’m interested in a potential combination of lithium, ammonium fluoride (NH4F) and some small quantity of binder as a solid fuel.
-Is this feasible at all?
-I calculated an energy density of 11.468 MJ/kg, and the exhaust would include a good bit of hydrogen, but I haven’t been able to verify that these compounds wouldn’t react on contact or anything. If the fluoride reacts with air, I think that’s less of a big deal, we could coat it with an extra outer layer of binder. But does anyone know any other information?
-For reference, I got my information from Wikipedia, except the enthalpy of formation of the ammonium fluoride, which I had to find on this old PDF. https://www.russchemrev.org/RCR3126pdf

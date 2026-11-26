@@ -1,2 +1,0 @@
-How does one determine distances by parallax when line of sight between the Sun and the celestial object and the Earth's orbit are not perpendicular?
-In all the textbook examples I've seen, the line of sight between the Sun and the celestial object is perpendicular to the orbital plane of the Earth. This leads to the simple and familiar formula relating the parallax angle to the distance to the celestial object. What do we do when the sight line is not orthogonal to the orbit?

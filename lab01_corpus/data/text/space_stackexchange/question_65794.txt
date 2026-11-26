@@ -1,7 +1,0 @@
-Extract GPS navigation messages from a RINEX navigation file
-As a hobby project, I want to implement methods from the "GPS Software Attack" paper, which involves modifying GPS navigation messages.
-With this goal in mind, I am looking for:
-Examples of GPS navigation message definitions in C/C++ or Python.
-A script or function in Python or C/C++ that can extract a single GPS navigation message for each satellite from a RINEX navigation file, given a static receiver position, and time.
-A script or function to calculate pseudoranges using the above GPS navigation messages.
-In addition, it would be great to collaborate on this project, or to get access to code from a similar project.

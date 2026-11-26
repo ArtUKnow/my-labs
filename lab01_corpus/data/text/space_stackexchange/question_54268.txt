@@ -1,8 +1,0 @@
-How many bubble levels have been used in space? Were any of them used some place besides the Moon?
-The lunar retroreflectors left by Apollo astronauts had bubble levels and Sun compasses to that they could be oriented correctly with respect to Earth's average direction. This was necessary to maximize brightness on Earth they still [have to count individual photons reflected and to minimize the spread in reflection distances and therefore times; a titled retroreflector array with width $w$ and off-normal angle $\theta$ would spread out the return time uncertainty by $2 \sin(\theta) w / c$. See also Jitter in timing photons from corner-cube retroreflector arrays on the Moon; does each recorded pulse come from one single cube?
-Question(s):
-How many bubble levels have been used in space? One should at a minimum check both US and Soviet retroreflectors left on the Moon plus any other instruments on surface packages. Because it's so specific I'll ask Two separate questions about inclinometers as well.
-Were any of those bubble levels used some place besides the surface of the Moon?
-Example of a bubble level on the Moon:
-above: Apollo 15 LRRR annotated detail, original image here (26.1°N 3.6°E) from What are these structures on the Lunar Ranging Retro Reflector (LRRR) arrays for? below: from this answer to it:
-The Apollo 15 version was larger (and has a better manual). Its level indicator has rings for 5, 2 and 1 degrees.

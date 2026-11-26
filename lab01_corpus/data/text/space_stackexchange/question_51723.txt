@@ -1,2 +1,0 @@
-How many burns does it take to reboost the ISS?
-When the International Space Station is given a reboost, how many burns are performed? Is it a Hohmann transfer orbit, with one perigee burn and one apogee burn? Or is it one burn at apogee just to raise the perigee? Something else?

@@ -1,9 +1,0 @@
-GPS/GNSS at cis-lunar and the Moon; what exactly did LuGRE do, and how did it do it?
-LuGRE, or Lunar GNSS Receiver Experiment is a payload on Blue Ghost Mission 1 (2025-010A, 62716) and in early March it made a lot of news by receiving and processing GNSS signals from GPS and Galileo from both lunar orbit, and after landing, from the lunar surface.
-If I understand correctly, approximate position and velocity fixes were obtained in orbit, by combining signals from both constellations, and much more accurate fixes were obtained after landing.
-This work seems to have set a new record for furthest GNSS fix.
-But what's more interesting are the challenges to doing so, and the technology used to overcome these challenges.
-What exactly did LuGRE do? (as in accomplish) My summary above is from skimming the popular press only, and that is often not accurate
-How did it do it? (as in innovation) what challenges were overcome, what kinds of antenna and electronics development were needed to make this work?
-The Lunar GNSS Receiver Experiment (LuGRE) will demonstrate Global Navigation Satellite System (GNSS)-based spacecraft navigation in transit to the Moon and on the lunar surface. This will open the door to operational use of existing Earth-based GNSS signals for real-time onboard positioning, navigation, and timing (PNT) around the Moon, increasing mission capability while reducing reliance on ground networks for PNT. The LuGRE payload is a collaboration between NASA and the Italian Space Agency (ASI). The payload will achieve three primary objectives: a) to receive GNSS signals at the Moon and characterize the signal environment, b) to demonstrate navigation and time estimation using GNSS data collected at the Moon, and c) utilize the collected data to support development of GNSS receivers specific to lunar use.
-Source

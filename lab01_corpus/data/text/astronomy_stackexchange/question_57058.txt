@@ -1,3 +1,0 @@
-Determing timestamp of a photo of the stars using a plate solver
-This question from 2016 seems to suggest that you need a powerful telescope to get a photo of the stars in such a way that you can use their proper motion to get a timestamp. If this is possible, how would you do it?
-For example, Astrometry.net provides a decent first guess given an image of the stars, taken from Earth with a commercial camera. Their own publication says that using tools like WCSFits can provide a better starfield fit to pixels, given Astrometry.net's first guess. Based on this fit, is it possible to get a reasonably good UTC timestamp, if I exclusively work with images taken post-2000, and I know where each image was taken from (i.e. the lat/lon coordinates on Earth)?

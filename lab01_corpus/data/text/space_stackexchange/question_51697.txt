@@ -1,7 +1,0 @@
-Likely ways to move asteroids
-Asteroids for mining and to make habitats: what are likely ways to move them?
-Orion project nuclear explosions might be plausible, but would probably be expensive, use very heavy materials from Earth, and could be limited to the military.
-Perhaps fusion power? Laser confinement fusion could perform a similar function to the micro-nukes of Orion. Or maybe another method, like powering a high-field ion drive?
-Using the oxygen say from smelting iron oxide, or water could work. But that would likely be very valuable in its own right. And what would you burn, would hydrogen be obtainable?
-So what about a railgun, using solar charging, and firing the least useful constituents for equal-and-opposite reaction impulses? Is that more likely than the other options?
-All points in response appreciated, especially pointers to research and analysis of options. Am just trying to think through post-Mars space goals.

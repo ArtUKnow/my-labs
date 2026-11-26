@@ -1,5 +1,0 @@
-If an object orbits closer to the sun than Mercury, what is the upper bound on its size?
-For the sake of this question, exclude artificial objects (which, as far as I know, is just the Parker Solar Probe).
-As far as we know, Mercury is the closest object to the sun. There is certainly not a closer planet.
-But could there be a 1-meter asteroid? 100-meter?
-What are the best instruments we have for detecting any possible object in that neighborhood, and what size of objects fit the description "if they existed, we would have seen them by now"?

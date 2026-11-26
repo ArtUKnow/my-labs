@@ -1,3 +1,0 @@
-E/I separation for GEO statellites
-Two GEO satellites are being colocated using the E/I separation method. Typically, the eccentricity vector would trace a circular motion with the circle positioned in the first quadrant of the Ex-Ey coordinate system (from March to June). However, the plot I generated from two actual satellites shows them in two different quadrants (first and fourth quadrants) despite being at the same time in March.
-I do not understand why this is happening. Could you please explain?

@@ -1,4 +1,0 @@
-Closest/farthest point where the sun stops being the brightest star?
-Which is the closest point to the Sun where it's not the brightest star anymore?
-My intuition is that this is either on a direct line between the Sun and Alpha Centauri, or between the Sun and Sirius and can be calculated relatively easily based on absolute magnitudes. But which one, and how far away?
-Conversely, which point is the farthest you can get away from the sun where it stops being the brightest star? I suppose this is much harder to answer.

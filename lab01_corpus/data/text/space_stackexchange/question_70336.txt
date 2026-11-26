@@ -1,2 +1,0 @@
-Reliability vs. Recycling efficiency trade-offs in closed-loop life support for Artemis-Class Missions
-For long-duration crewed missions beyond low Earth orbit, what are the documented trade-offs between closed-loop Environmental Control and Life Support Systems (ECLSS) recycling efficiency and system reliability, particularly in the context of failure tolerance modeling used in programs such as NASA’s Artemis architecture?

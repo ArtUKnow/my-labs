@@ -1,4 +1,0 @@
-Has the cause of a rocket failure ever been mis-identified, such that another launch failed due to the same problem?
-When a rocket launch fails, typically launches for that rocket type are halted while an investigation takes place to identify and correct the root cause of the failure. However, it is possible that the cause of the failure couldn't be conclusively identified, or that it was misidentified through misleading data.
-This has happened before in aviation, most notably the De Havilland Comet which was brought back into service following an initial investigation in early 1954, only for a subsequent crash to finally ground the fleet until the true root cause of fatigue cracking was definitively identified.
-Has something similar ever happened in the field of rocketry, where an incomplete or inaccurate investigation has led to further flights and failures of a launch vehicle?

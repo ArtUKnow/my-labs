@@ -1,2 +1,0 @@
-What caused the LOX leak on Falcon 9?
-On July 11, 2024, the second stage of the Falcon 9 had a LOX (Liquid Oxygen) leak in the second stage and it couldn't perform SES-2 (the second upper stage burn), causing the Starlinks onboard to be in too low of an orbit and fall back to earth (source). But, Falcon 9 is a very reliable rocket with nearly 300 consecutive launches without significant issue. So, what was different that caused the leak? What happened?

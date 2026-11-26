@@ -1,3 +1,0 @@
-Why does the Sun appear to have "limb brightening" on the photo of the Falcon 9 transit?
-Normally the solar chromosphere undergoes the same kind of limb darkening as the photosphere, as you can see on many H-alpha photos like here or here. But in Andrew McCarthy's photo (see below) of the Falcon 9 transit, apparently also taken in the H-alpha spectrum, there is a "limb brightening" instead.
-What is different in the imaging here? Is it some additional spectral ranges leaking, or what?

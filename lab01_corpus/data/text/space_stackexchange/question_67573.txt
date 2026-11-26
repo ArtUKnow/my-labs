@@ -1,5 +1,0 @@
-Why are the layers of the James Webb Telescope’s sunshield so thin?
-The Webb telescope has a 5-layer sunshield, the thickest of which is 0.05 millimeters thick, and others are even thinner. I can not understand why it has to be extremely thin.
-this answer to Why was creating sunshields for Webb telescope challenging? in Astronomy SE links to the NASA websiteAbout Webb's Sunshield, which says:
-Each layer of the sunshield is incredibly thin. Layer 1 faces the sun and is only 0.05 millimeters (0.002 inches) thick, while the other four layers are 0.025 mm (0.001 inches). The thickness of the aluminum and silicon coatings are even smaller. The silicon coating is ~50 nanometers (nm) (1.9 microinches) thick, while the aluminum coating is ~100 nm (3.93 microinches) thick.
-Maybe I have a wrong assumption that leads to this question, my assumption is that maintaining a very thin film is difficult, and it might be easily damaged; a thicker one can be more resistant. Is this wrong?

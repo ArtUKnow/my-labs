@@ -1,2 +1,0 @@
-What online courses teach you hands on AOCS GNC?
-I am looking for online courses that teach you "attitude and orbit determination and control systems" and "guidance navigation and control" with a focus on satellites or space robotics. Ideally, I would like a top down approach, with application first, followed by theory and simulation aid. Do you know of any good courses on this? Is this too niche of a topic to find online courses on? I know there're plenty of good books on the topic, but I am looking for something more interactive, Youtube/Udemy/EdX/Coursera etc.

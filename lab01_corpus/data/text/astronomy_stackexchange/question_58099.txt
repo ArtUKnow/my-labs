@@ -1,4 +1,0 @@
-How to get the direction of the rotation axis of a celestial body using JPL Horizons?
-When asking Horizons for ephemeris, it doesn't include the information of the rotation axis. Is there a way to obtain it?(may include calculations based on the given information)
-And is there any way to get the rotation status (the angular distance of the prime meridian to the ascending node)? Thanks
-I would like a more precise data(taking perturbation over time into account) then the The wikipedia page

@@ -1,4 +1,0 @@
-How to Get Space Heritage for a Component
-If a developed electronics/board/chip/etc. wanted to have a space/flight heritage, is there any typical way to get that?
-Edit:
-As some mentioned I was not clear, I'm talking from a manufacturer point of view. Let's say I designed some On Board Computer and I want to prove that it is working by getting flight heritage.

@@ -1,5 +1,0 @@
-What does "1g ref" mean in the ISS Crew Notebook?
-Earlier I happened across What's the small white gadget with two black buttons in this video of the International Space Station? via the HNQ list. I was intrigued by the snippet from the "International Space Station Expedition Crew Training Notebook" posted in the answer by Organic Marble, which says:
-Located on the "right hand" side as you enter any US Module with feet pointing nadir (1g ref).
-I understand the use of zenith and nadir in this context (although it amused me that you have to say which way your feet are pointing, that would not have occurred to me!).
-I don't understand the "(1g ref)". Surely the nadir is still the nadir (the side that points towards earth / "down" in the local gravitational field), regardless of the strength of the gravitational force, and indeed surely there is much less than 1g acting on the ISS towards earth, assuming the interpretation of "1g" to mean "9.8 m/s^2".

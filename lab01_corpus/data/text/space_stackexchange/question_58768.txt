@@ -1,5 +1,0 @@
-What maneuvers could be useful to move between two sun synchronous orbits with different times?
-Consider two sun-synchronous orbits with similar orbital elements, except for their times. For example 8h and 9h orbits. Their semi-major axes (a), inclinations (i), and eccentricities (e) are the similar and the orbits have no requirements of RAAN. (Though the rate of change of RAAN is same as they're both SSOs)
-I am trying to find maneuvers that could bring a satellite from one of these orbits to the other. The way I look at it is that the satellite needs to catch up, with the other orbit, and shift its argument of perigee by ±15°. So that it reaches above a location, in ±1hr of the other.
-The general approach I can think of is to change a, i or both so that the satellite goes into an intermediate orbit, and uses apsidal precession to achieve the ±1 hr orbit. I can see here how J2 affects the nodal and apsidal drifts. So I'm not sure how to define the intermediate orbit so that constraints on both ends are met.
-Is there a prescribed way of solving such a problem, or maneuvers that are commonly used for this?

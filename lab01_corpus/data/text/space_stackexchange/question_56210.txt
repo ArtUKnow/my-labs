@@ -1,4 +1,0 @@
-How to convert bi-propellant fuel into Delta-v (for ex., for JWST)
-The following news gave the details on the quantity of fuel embarked on JWST: NASA gives green light to fuel the James Webb Telescope.
-The Webb telescope’s spacecraft bus, built by Northrop Grumman, will be filled with 42 gallons (159 liters) of hydrazine and 21 gallons (79.5 liters) of dinitrogen tetroxide, a mix of storable fuel and oxidizer to feed the mission’s 20 rocket thrusters, according to Mark Voyton, NASA’s launch site manager for Webb.
-How can we convert this into weight and Delta-v?

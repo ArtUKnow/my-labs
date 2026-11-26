@@ -1,2 +1,0 @@
-How to determine semiamplitude from Julian Date data?
-How could I determine semiamplitude from these data for NGC300 X-1 without fitting, only with data of phase and JD? This is a common problem for exoplanets, X-ray binaries and other general binary sistems. So, I am interested in general techniques (if any) beyond fitting (a list of software for data fitting for RV plots would be also welcome in the answer)

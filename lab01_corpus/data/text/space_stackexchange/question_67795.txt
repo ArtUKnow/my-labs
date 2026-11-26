@@ -1,6 +1,0 @@
-Voyager 1: new spacemark or not?
-I follow and have been following the craft's telemetry data for many years, increasingly so since the remarkable spacemark of 25 Tm distance from Earth has been nearing its passage.
-Or so, my go-to tool/source for the past decade or so, https://science.nasa.gov/mission/voyager/where-are-voyager-1-and-voyager-2-now/#voyager-1-position, has been stating that the 25 Tm has been surpassed since Jan 27. However, on their own site, https://eyes.nasa.gov/apps/solar-system/#/sc_voyager_1/distance?to=earth, suggests otherwise, and so, in fact does https://theskylive.com/voyager1-tracker?utm_source=chatgpt.com . Both citing a full tenth of a terameter yet to travel.
-I must say, the fact that its speed has been consistently 16.9995 km/s for many years at this point, where one, at such precision, should at least expect it to drop in the latest or latest two decimals..
-Can anyone source something better? Or provide an explanation? (Surely, the official website won't just build in a single-variable function with this fixed velocity (I seem to remember it to drop every now and then, but that's a long time ago..)..?)
-Thanks in advance, Jos

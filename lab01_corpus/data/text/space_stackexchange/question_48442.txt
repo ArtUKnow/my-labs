@@ -1,5 +1,0 @@
-How to get started with CubeSats
-I am new both to CubeSats and to Stack Exchange.
-I have recently started studying and planning on how to build a CubeSat, as cheaply as possible. I have read some blog posts and watched some videos, but I don't know exactly where to look for more technical knowledge, or what software/things should I learn.
-I am studying Electronics and Telecommunication Engineering (2nd year). I don't want to perform a copy-paste project where you read a few things and build a replica. I want to have a more thorough knowledge.
-But where can I start to get a better understanding of what the main issues are and the major tradeoffs that I'll have to look at in order to keep the cost down but to still have a functional CubeSat that can be launched?

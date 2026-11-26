@@ -1,9 +1,0 @@
-First cylindrical Earth satellite? Last?
-Sputnik 1 was a shiny metal sphere, as were it's immediate followers.
-These days Earth satellites are generally rectangular prisms, either one or a few stuck together. Basically big metal chassis chock-full of electronics and instruments in rack-like structures, with solar panels and antennas as appendages, fixed or deployed.
-But there have been many Earth satellites that were cylindrical in shape. ​
-Many (if not most) were spin stabilized around the cylinder's axis and covered in solar cells roughly uniformly.
-Question: What was the first cylindrical Earth satellite to be launched? What was the last?
-Example of a cylindrical Earth satellite covered in solar cells:
-source
-View of the AUSSAT-1 (now Optus A1) satellite after deployment on STS-51-I. Australia's AUSSAT communications satellite is deployed from the payload bay of the Shuttle Discovery. A portion of the cloudy surface of the earth can be seen to the left of the frame. Date: 27 August 1985

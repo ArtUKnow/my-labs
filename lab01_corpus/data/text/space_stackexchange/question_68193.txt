@@ -1,6 +1,0 @@
-Should secondary flight computers run a RTOS, or use middleware?
-Say I designed a satellite that looked approximately like this.
-The secondary board (right) falls under NASA NPR Class C.
-Should it be running some form of middleware (cFS, F', Fast-DDS, etc) or a soft RTOS? Is it ok to start/stop things through systemctl?
-Officially the requirements for class C software safety are very low, and so I'm wondering if people in industry usually build beyond the requirements or not?
-Thank you.

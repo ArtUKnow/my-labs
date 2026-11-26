@@ -1,2 +1,0 @@
-Is JWST's weak link the Cryocooler for the MIRI instrument?
-While most of JWST uses passive cooling to get instruments to low operating temperature the MIRI requires active measures to get to 7K. I've been reading about the complex system developed to cool MIRI and... holy cow! At least the other instruments will continue to function if MIRI cooling fails.

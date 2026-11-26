@@ -1,3 +1,0 @@
-Have periodic solutions to the 3 Body Problem been used in space exploration?
-In the Wikipedia article on the 3 Body problem there is a rather hypnotic GIF file of 20 periodic solutions. Have any of these solutions been used in space exploration activities or discovered in natural systems ?
-https://en.wikipedia.org/wiki/Three-body_problem#/media/File:5_4_800_36_downscaled.gif

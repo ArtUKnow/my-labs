@@ -1,4 +1,0 @@
-Why is hydrolox used for first stages?
-I understand that hydrolox has the highest specific impulse of any conventionally used propellant, but its density is so much lower that you would get more impulse in Newton seconds out of the same volume of kerolox. The density of kerolox is about 0.81–1.02 kg/L[1], while the density of hydrolox is about 0.36 kg/L at a 6:1 LOX/LH2 ratio[2], about 35-45% that of the former. In order to have the same impulse for unit volume as RP-1, hydrogen would need to have 2.24 to 2.82 its specific impulse, which it doesn't. Typical hydrogen engines seem to have about 50% higher specific impulse than typical RP-1 engines at sea level. So wouldn't they get better results from putting RP-1 in their first stages instead of hydrogen?
-1
-2

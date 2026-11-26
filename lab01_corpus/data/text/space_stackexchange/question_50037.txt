@@ -1,6 +1,0 @@
-Would the Oberth effect apply to a rocket powered playground swing?
-Would the Oberth effect (as explained as an answer to a gravity assist maneuver) apply to an earthbound partial orbit simulator in a strong gravity field, i.e. a playground swing?
-Imagine a swing with a rocket engine mounted on the seat or strap or tire with the exhaust pointed tangentially (perpendicular to the support chains or rope) and in the direction of travel (in the case of two-chain swing, in a plane).
-Would an impulse burn of the rocket impart more energy (and a higher arc) if fired at the point of maximum velocity in the pendulum arc, i.e. the point closest to ground, instead of the usual push at or shortly after the stationary peak at one end?
-I would try this experimentally, but my wife would object to a rocket engine on the swing. (Daughter might be game, but the park managers would not). I could test this by positioning myself next to swing at the center and pushing when she hits the bottom of the arc, but it would be difficult (especially without instrumentation) to guarantee a push on her moving tush would be imparting the same impulse as the normal push at the peak of the arc.
-The swing is one of my go-tos for explaining Newtonian physics to my daughter. (Does she like that? Not sure.)

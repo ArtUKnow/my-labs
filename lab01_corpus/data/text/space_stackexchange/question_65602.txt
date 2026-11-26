@@ -1,3 +1,0 @@
-What are the factors affecting a satellite's Repeat Ground Track period?
-I understand the Repeat Ground Track (RGT) period of a satellite will be affected by its altitude. A similar post: How Do I determine the ground track period of a LEO satellite, describes a simple approach to determine the RGT period by using the ratio of the rotation periods of the planet and spacecraft. My question is whether other orbital parameters would as well, and how?
-For instance, a satellite at 574km (and thus having an orbital period of 5,760s) could have a RGT period of 3 or 4 days [since the earth's rotation period of 86,400s times 3 and 4 are both multiples of 5,760]. If that's the case, surely altitude is not the only factor affecting the RGT period?

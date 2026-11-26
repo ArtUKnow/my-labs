@@ -1,5 +1,0 @@
-Calculating the position of Earth at a given point in time
-I'm trying to understand the position of the Earth for a given point of time in the past.
-I'm familiar with ICRS and FK5 coordinate systems but these can't do what I'm after because they essentially only provide 2 axes and I need 3 axes to represent the location of something in 3-dimensional space.
-Is there a recognised system/frame in use that is able to do what I'm after?
-I don't mind what the relative anchor, or origin, of the coordinate system is. I ideally want something that's widely recognised and used by the astronomy community.

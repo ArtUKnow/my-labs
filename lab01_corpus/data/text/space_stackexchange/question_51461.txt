@@ -1,4 +1,0 @@
-How are operational procedures developed?
-In anticipation of the upcoming Ingenuity flight, I have found myself wondering how procedures are developed by spacecraft operators.
-How is a go/no go procedure created? How does the team create a operating procedure for the tasks that lead up to a critical moment? How is a checklist designed?
-I am interested in the general methodology used for developing procedures, but answers may illustrate the methodology by referring to specific examples.

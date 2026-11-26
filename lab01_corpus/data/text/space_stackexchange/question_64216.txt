@@ -1,4 +1,0 @@
-Rough values for the staytime or characteristic length of the combustion chamber of an oxygen/methanol rocket engine?
-I'd like to have some idea of the staytime or characteristic length of the combustion chamber of an oxygen/methanol rocket engine.
-Are there sources for this, or a way to estimate it?
-I've tried, but so far I am unable to find anything about it on the internet.

@@ -1,2 +1,0 @@
-Tracking of spacecrafts of the Mercury project
-In the absence of any communication satellite in 1958, back in Mercury times, how did the tracking centers, which were spread world across, communicated with each other, passed on their data to the next tracking station, and thus kept a track of the spacecraft?

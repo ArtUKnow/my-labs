@@ -1,5 +1,0 @@
-Can a LEO based satellite constellation revive the analog radio or TV era?
-Many analog terrestrial radio and tv transmitters have been replaced by digital ones like DTT and DRM technologies. Analog radio signals include FM, MW and even SW. Although the quality of reception of the digital technology far outweigh the analog ones, analog based receivers are far cheaper and suitable for developing countries.
-Due to DVB standard compliance including forward error correction implementation, digital radio and DTT receivers are still not a cup of tea for most people. For people living in developing countries, OTT is still not a viable option for the mass either as streaming cost data.
-Terrestrial antennas have omni directional signal patterns, but such a proposed satellite base antenna can be directionally polarized reducing the huge power requirement. A broadcaster can feed data to the satellite based analog transmitter through Starlink.
-Can a LEO based satellite constellation revive the analog radio or TV era? Is it even practicable?

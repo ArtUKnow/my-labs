@@ -1,9 +1,0 @@
-Calculate distance from destination at which to commence deceleration burn
-For a vessel with insufficient fuel to burn for the entire duration of an interstellar journey, how do you calculate when to commence the deceleration burn?
-Using this answer I can calculate the fuel fraction required for the acceleration and the deceleration phase. From the fuel fraction it is relatively simple to calculate the burn time required for the acceleration and deceleration phases
-$t_b = \frac{m_f \times ff}{m_b}$
-Where tb is burn time, mf is total fuel, ff is fuel fraction and mb is the mass of fuel burned per second.
-What I can't figure out, however, is at what distance to commence the burn. Most examples I've found assume that you have exactly the right amount of fuel for the whole journey.
-The following equation (from LibreTexts)
-$S=V[t+(\frac{m_{0}}{b}-t)\ln(1-\frac{bt}{m_{0}})]$
-gives the distance travelled from rest for a given burn - but I can't figure out how to adjust it for a starting velocity.

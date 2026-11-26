@@ -1,9 +1,0 @@
-Why all the 'dust' on liftoff?
-To bring things back to earth (literally), why is there such a plume of what I can only imagine is dust on liftoff from launchpads on Earth?
-Every launch I see from Earth has a huge cloud shooting out in all directions from the pad. As the rocket gains altitude, pretty quickly you can tell that the cloud stops billowing out from the rocket once it has reached half its own height. The plume seems not to be from the rocket itself exhaust alone but from an interaction of the rocket exhaust with the ground.
-(From 15:11 at https://www.spacex.com/launches/sl4-7/)
-What is the cause/source/material of this plume?
-My first impression is that it is simply dust on the launch pad surface, and the rocket exhaust is blowing it out into the air. Is there -that- much dust on Earth?
-On thinking, this seems like way too big a cloud of dust. I'd think that that size of cloud would come from a thick layer of settled dust on the pad (like an inch deep). But from film of these pads they seem clean enough. And then if the pad is reused, you'd think the pad would have been cleaned off enough so that next time (even after a few months) it wouldn't be so bad.
-On landing of the latest SpaceX Falcons on the floating ship platforms there is still some appreciable cloud blowing out from where it lands (and presumably there is little dust on the surface of a ship).
-So what is the cause of the big cloud on liftoff? And for when a rocket has those trails that continue behind it, what is that then since it is unlikely to be dust?

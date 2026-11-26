@@ -1,6 +1,0 @@
-Could a conventional rocket design be used for SSTO if the payload was proportionally very small?
-Most designs for SSTO (single-stage-to-orbit) launch vehicles that I have seen are not what you would call "conventional" rocket vehicles; they usually have wings and/or air-breathing engines, or have some sort of external launch assist system, for example.
-At first, this may seem reasonable, as reaching Low Earth Orbit requires more Delta-V than a single-stage rocket can usually achieve, thus seemingly requiring unorthodox designs.
-After all, getting enough Delta-V in a single stage to reach orbit would involve having a large rocket for a tiny payload; why is that a problem, though?
-So, I must ask: Assuming that we are willing to accept having only a very small payload proportionally to the size of the vehicle, would it be possible to design a reusable SSTO launch system?
-Note that this question is not about how economically competitive such a design would be, only whether it would function.

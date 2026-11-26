@@ -1,6 +1,0 @@
-Thrust Impulse graph for specific engine type
-I've seen many graphs for nuclear, chemical and airbreathing engine.
-However I have not seen a good depiction of electric engines such as xenon ion engines, argon thrusters, lithium, etc.
-This question is in two parts:
-Where can I find a good depiction and how was it determined.
-What variables are involved in the adjustment of thrust and impulse for an electric engine.

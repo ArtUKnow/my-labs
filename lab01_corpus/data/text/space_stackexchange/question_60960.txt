@@ -1,8 +1,0 @@
-What is the reason for the short-duration cutouts in the Artemis I launch window?
-Near the end of the hold at T-10 the announcer noted that, in determining a new T0, the launch team had to consider "various cutouts in the launch window, varying from 1 seconds up to a minute".
-LIVE stream queued at t=2:59:40
-In this launch window, which we're currently 26 minutes into, and it's 2 hours long, it runs until 3:04am Eastern Time, we have what's called 40 cut-outs, and in those cut-outs, they range from about a second to about a minute, these are times where can't launch. These cut-outs must be accounted for when determining a new T0.
-I'm familiar with cutouts in the launch window due to unfavourable alignment of the Sun, Earth and Moon eclipsing the space craft too long, as explained in e.g. this NASASpaceFlight.com article:
-Within the 10- to 15-day periods that have a daily opportunity to launch, there may be a day or two “cut out” by the 90-minute maximum eclipse time constraint for Orion. “Occasionally [you] have this odd seasonal constraint that comes along where the Sun is behind the Earth during the outbound transit to the Moon or during the return transit that [eclipse time] exceeds 90 minutes. And just the angle of the solar eclipse from the spacecraft’s standpoint causes an odd day to be cut out every now and then"
-But those are multi-day cutouts.
-What causes the very short cutouts in the 120 minute launch window?

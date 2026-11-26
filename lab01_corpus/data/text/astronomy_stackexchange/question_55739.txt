@@ -1,4 +1,0 @@
-Will the Moon recede far enough that the Earth-Moon barycenter lies outside of Earth's radius before the Sun becomes a red giant?
-As most people know, the Moon is receding from Earth at a rate of a few centimeters per year. This rate is not constant; as the Moon gets farther away, the tides it raises will be weaker and thus will cause it to recede slower.
-According to my calculations, the Earth-Moon barycenter will lie outside Earth when the Moon is at a distance of roughly 525,000km (assuming a circular orbit).
-So the question is: Before the Sun turns into a red giant and messes with the Earth-Moon system due to drag and mass loss, will the Moon have receded far enough that the Earth-Moon barycenter lies outside either body? This would be easily answered by a graph showing the Moon's distance over time, but such a thing eludes me.

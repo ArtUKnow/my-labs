@@ -1,9 +1,0 @@
-Micrometeoroid shielding for radiators? Is this a thing at all?
-Shielding against hypervelocity impacts is a thing, like a whipple shield. Easy enough for many things, like various habitat modules.
-But radiators are required to be very large in size, particularly for new applications where those are very high-energy. Depending on what you're doing, the radiator could be most of your surface area. This is made even worse by the need for it to actually function, like flowing fluid through to transfer heat. Any impacts are likely to cause leaks or degrade function. So it would seem like you would want to have a missile shield, but the requirements for a missile shield go almost entirely against the requirements of a radiator for heat rejection. The only possible ways I can think to make this work are:
-Have a shield that is transparent to the thermal wavelengths. This will be expensive and very imperfect.
-Maybe, speculatively, you could have a wire mesh above the radiator surface, but only if that wire mesh occupied an acceptable fraction of the total area, and if the mesh size was smaller than the expected missiles that you're worried about. Because thermal photons are small, you can get a selective effect here.
-I tried to ask ChatGPT, but it seemed to fundamentally blunder the problem. It did find a patent that's at least relevant:
-https://patents.justia.com/patent/12415625
-Which it took as it was describing (2), but reading myself, I think it's describing (1) but it's language is so hard to read I'm legitimately not sure. Also unclear if it's actually a patent because other search engines do not return it.
-But I guess my question is, are either of these things viable? Is there any serious proposals for any radiator shield?

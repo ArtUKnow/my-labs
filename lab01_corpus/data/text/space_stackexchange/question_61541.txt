@@ -1,6 +1,0 @@
-How to account for burned fuel mass when calculating spacecraft acceleration?
-I thought I could simply remove half of the burned fuel mass to account for the mass lost during the engine burn.
-But I could not find a Newton's Second Law formula Calculator that would allow that, or any other source online that would support my logical conclusion.
-Instead, I can see "Propellant mass fraction" and it's logarithmic application in the Tsiolkovsky rocket equation.
-I need a rough fuel mass estimation when accelerating spacecraft form NEO asteroid towards Earth.
-I would greatly appreciate if someone could clarify that for me without complicated math.

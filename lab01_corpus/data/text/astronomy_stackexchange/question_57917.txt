@@ -1,8 +1,0 @@
-What is the "handful of observations of close fast moving objects that (Hubble) can't actually track anymore" due to the new one-gyro operation?
-After 13:49 in Scott Manley's How Failed Gyros Are Making Hubble's Life Harder:
-And so with all these systems working together, the telescope can still point at the target and still do top quality science. But it now takes a whole lot longer to move from one orientation to the other because they can't do it as precisely, and they now have to detect the rotation and null out that rotation using star trackers, which weren't really designed to do that.
-And so this means there is less time available on Hubble, because it takes longer to go from one observation to the next, and there's a handful of observations of close fast moving objects that it can't actually track anymore.
-Question: What is the "handful of observations of close fast moving objects that (Hubble) can't actually track anymore" due to the new one-gyro operation?
-Somewhat related:
-Has Hubble ever been used to try to image a near Earth asteroid?
-Did this satellite streak past the Hubble Space Telescope so close that it was out of focus? If so, how close was it?

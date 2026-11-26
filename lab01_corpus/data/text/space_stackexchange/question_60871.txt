@@ -1,3 +1,0 @@
-Equatorial LEO Satellites
-Which satellites orbit in an equatorial LEO ($0^{\circ}$ inclination) around Earth? Or where can I find information regarding this that will give me the exact location of that satellite (longitude and latitude) at a specific time?
-There are a few live tracking websites but I can not isolate those with an equatorial orbit.

@@ -1,4 +1,0 @@
-What is the methodology to determine a meteorite strike vs space debris?
-From this tweet, it seems the ISS Soyuz that sprung a leak in December was damaged by a micrometeorite
-Here's little bit more info on Soyuz MS-22 impact. The trajectory analysis very strongly points toward a micrometeorite rather than orbital debris (see below). Also, the Russians calculated impact velocity, and it was high enough to rule out orbital debris.
-What is the full methodology for making this determination?

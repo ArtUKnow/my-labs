@@ -1,2 +1,0 @@
-Cosmic Polarisation Rotation from CMB Data: a Review for GR110
-We provide an update on the work of di Serego Alighieri (2015), focusing on recent developments regarding constraints on Cosmic Polarization Rotation (CPR), also known as Cosmic Birefringence (CB), derived from Cosmic Microwave Background (CMB) polarization data.

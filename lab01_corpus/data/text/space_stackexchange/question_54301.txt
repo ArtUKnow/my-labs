@@ -1,3 +1,0 @@
-Why aren't ISS attitude control thrusters a "tool" picked up by robotic arms?
-Since ISS is an evolving structure which center of mass flucuates in position depending on added or removed modules, could Canadarm or latest European robotic arm be used to manipulate attitude thrusters like it could manipulate any other thing or tool?
-This way the attitude thrusters could consist of one single nozzle pointed where it should relative to center of mass and benefit from large lever arm and degrees of freedom that are allowed by the arm.

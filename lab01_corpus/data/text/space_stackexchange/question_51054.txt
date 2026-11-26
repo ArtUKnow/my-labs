@@ -1,6 +1,0 @@
-Interplanetary secondary payload
-Have there been any interplanetary secondary payloads? If there were none, are any such payloads planned?
-I consider two options:
-launcher rocket's destination is Earth's orbit (LEO etc.), then secondary payload propulses (pushes) itself to interplanetary trajectory
-launcher rocket's destination is interplanetary, secondary payload also interplanetary (this is logical)
-Edit: The definition of "secondary payload" vs. "multipart spacecraft" can be debatable. Though to set it sharp - payloads should have different investors/operators. An imaginary example: SpaceX launches big satellite for company #1 (primary payload) and company #2 rideshares an interplanetary spacecraft (secondary payload) on same rocket.

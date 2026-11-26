@@ -1,4 +1,0 @@
-Lifetime of Krypton thruster without shielding compared to Xenon - Starlink Satellites
-It is argued here (by the user uhoh) that Krypton might have a higher erosion rate on the thruster compared to Xenon. However, here is mentioned that the lifetime of Krypton-fueled thrusters might increase due to the fact that fewer doubly-ionized particles will occur (the 2nd ionization energy of Krypton is also higher than Xenon). Is there any concrete calculations on which one offers longer lifetime?
-Expanding on the above, for Starlink satellites, where the mission lifetime is about 5 years, should lifetime limitations even be considered? Isn't this too little time to erode the thruster even with higher erosion rates than Xenon?
-I couldn't find (and don't know how to calculate) how much time it would take for Krypton particles to erode the thruster to the point where it loses performance and becomes unusable.

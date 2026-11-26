@@ -1,2 +1,0 @@
-T Coronae Borealis
-As it will explode this year or so, I became interested in the binary T Coronae Borealis. According to wikipedia, https://en.wikipedia.org/wiki/T_Coronae_Borealis R Cor Bor the binary masses are 1.34 and 1.15 solar masses, being separated 0.54 AU. Plugging these data into the Kepler third law, I can not get the period given by 228 days as obtained by spectroscopy from the bibliography therein. Even if I play with the binary mass function I can not get the 228 days. Are some of the wikipedia data wrong?

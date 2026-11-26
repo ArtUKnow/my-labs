@@ -1,3 +1,0 @@
-How did the Lunar module reached orbit speed?
-How does the lunar module of Apollo 11 reached an orbit speed of 1600 meter/second in order to rejoin the CSM (Command/Service Module)?
-Additional question, Where are the Oxygen & Fuel tanks of the module and what kind of such small engine was used to reach that speed? is there a schema / specification of the lunar module we can look?

@@ -1,3 +1,0 @@
-Why does it cost more to get to L4/5 than C3=0?
-I was looking at Delta-V budgets and noticed that it costs 4.1 km/s to get from LEO to L4/5, but just 3.2 km/s for LEO to geocentric C3 = 0 (escape velocity).
-I find that counter-intuitive. Why does it cost less to escape Earth's gravity than it does to get to L4? Wouldn't getting to L4 be helped by the Moon's gravity? Is it because the budget for L4 includes slowing down?

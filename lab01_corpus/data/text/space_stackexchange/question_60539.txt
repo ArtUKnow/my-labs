@@ -1,4 +1,0 @@
-How do different stages attach to each other?
-I started learning about rockets recently, and while searching for information, I found some ways that different stages separate, but I wandered if it was possible that they could reattach to a different one, so that they could refuel in the space or even in another planet.
-If that was the case, how would they do it, and has it been done before ?
-Thank you

@@ -1,3 +1,0 @@
-Extended gravitational 2-body problem with rotating object or dipole - what is classification of its closed orbits?
-While the gravitational 2-body problem is integrable, it is no longer true if adding rotation/dipole of one body (only one angular momentum is conserved), the trajectory no longer closes, like for Mercury precession (derivation with simple code)
-However, it gets many more subtle closed trajectories especially for low angular momentum (scattering/free fall), so I wanted to ask: what is classification of closed orbits of this basic generalization of Kthe gravitational 2-body problem?

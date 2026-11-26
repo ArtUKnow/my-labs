@@ -1,9 +1,0 @@
-Does the spacetime interval metric define spacetime as necessarily anti desitter?
-N-Lab says:
-We may define the anti de Sitter space of signature $(p,q)$ as isometrically embeded in Space $\mathbb{R}^{p,q+1}$ with coordinates $(x_1, \dots, x_p, t_1,\dots,t_{q+1})$ as the sphere $\sum^q_{i=1}x_i^2 - \sum_{j=1}^{q+1}t_j^2 = -R^2$.
-TWO QUESTIONS:
-Does this mean that a sphere in anti ADS space has a negative diameter? (-R²)?
-Doesn't Einstein's spacetime interval metric...
-$$d=\sqrt{x^2 + y^2 + z^2 - ct^2}$$
-...meet this definition of ADS space, where p=3 and q=1?
-In fact, why aren't all Lorentzian manifolds anti-desitter spaces?

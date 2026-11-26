@@ -1,7 +1,0 @@
-Is the author mistaken regarding this Apollo transposition and docking photo?
-I came across this question, which asks about a photo with caption in this 1971 journal (google books link) of Comment: The Relevance of Space, by Arthur Kantrowitz, Bulletin of the Atomic Scientists 197, 4 April 1971, pp 32-33:
-Apollo 14 (at arrow tip) is nothing more than a speck in the sky at 40,000 miles from Earth. This picture of the spacecraft was taken by Justus Dunlap of Northwestern University’s Corralitos Observatory, and shows the capsule separating from the S4B rocket. The capsule itself is visible as a pinpoint at the apex of the fan and the fan itself is expanding rocket exhaust.
-While the article and author look reputable, the photo in combination with the caption set off several red flags.
-According to the caption, this is a photo of Apollo 14 doing the transposition, docking and extraction maneuver. But at the same time there is a huge exhaust fan, so the S-IVB (Saturn V third stage) main engine is running. The T&D maneuver was (afaik) not done with the S-IVB engine running, and doing so would be a recipe for disaster.
-This image looks very similar to some of the images shown here of the Apollo 8 trans lunar injection (TLI), which also show a dot at the apex of an exhaust fan, although there is definitely no capsule separation going on during the TLI burn. So the dot there must be something else.
-Could it be that the author is mistaken and the photo is actually of a TLI burn instead of a T&D maneuver?

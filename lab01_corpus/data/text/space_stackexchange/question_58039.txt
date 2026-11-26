@@ -1,3 +1,0 @@
-When will the jwst python library have live data for the general public to work with in its data pipelines?
-The Space Science Telescope Institute has put out a python library called JWST for science observations from James Webb Space Telescope.
-When will the general public be able to look at "live" detector data (live in the sense that the data was downloaded to NASA archives the day before, and the general public can download it to their local computers the next day)?

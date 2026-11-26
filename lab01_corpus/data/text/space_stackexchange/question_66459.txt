@@ -1,2 +1,0 @@
-Has Blue Origin carried out any flight or landing tests of the New Glenn first stage?
-New Glenn is scheduled to launch the EscaPADE probe to Mars in the September launch window. I've read a lot about ground systems testing and prospective BE-4 static fire tests, but can't find anything concerning in-flight testing or precision landing tests for the first stage. I know Blue Origin have controlled landing experience from New Shepard, but is that enough to allow them to land on the Landing Platform Vessel?

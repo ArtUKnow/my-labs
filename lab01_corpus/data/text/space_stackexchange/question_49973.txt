@@ -1,7 +1,0 @@
-Space shuttle state propagation
-Space shuttle training manuals say the GNC system obtains state information from the IMU platform at a low rate (0.25-0.5Hz) and that state propagation algorithms estimate the vehicle's state vector at a higher rate (12.5-25 Hz).
-At the beginning of each cycle, when new state information from the IMU is available, that information replaces the estimates from the state propagation algorithm, which starts over from the updated IMU data.
-If I got this right, I wonder: What state information does the GNC system obtain from the IMU? Is it just the velocity increment provided by the integrating accelerometers? Does it include position itself?
-If IMU position is obtained by numerical integration of velocity (itself the integration of acceleration over a fixed time interval), then, well... isn't that just what the state propagation algorithm does?
-So it seems the IMU would have nothing new to offer in terms of position (nothing that the GNC couldn't calculate), and that the updated state info would include only the velocity increments plus attitude info from the gimbals.
-Is this right?

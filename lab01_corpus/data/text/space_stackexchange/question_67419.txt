@@ -1,4 +1,0 @@
-What's the conversion rate from cost/mass to LEO to other orbits of note?
-OWID gives a price of 1500 per kg to LEO via the Falcon Heavy, and other prices for
-other launch vehicles. Estimates for Starship vary wildly, but $100 per kg seems like a reasonable middle-of-the-road estimate.
-What's the conversion rate between these prices and prices to other orbits, like GEO, lunar transfer, and mars transfer? Obviously the exact rate will differ based on the details, but assuming the method is to just put less mass on the launch vehicle until it's capable of going to the desired orbit, there should be a pretty straightforward approximate conversion factor based on calculating the needed delta-v.

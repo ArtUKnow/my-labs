@@ -1,2 +1,0 @@
-Specific impulse of a rocket engine
-Keeping other things (fuel, oxidizer, their ratio, mass flow rates, throat diameter, other hardware like pump, injector nozzles & impinging pattern etc.) same, if I changed only the geometry (shape/profile/dimensions) of the "diverging nozzle" of a rocket engine, does it affect the Sp. Impulse value at sea level? I assume that so long as the exhaust pressure at the exit of the D nozzle matches the ambient pressure, specific impulse for a given propellant will not change. am I correct?

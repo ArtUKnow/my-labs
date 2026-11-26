@@ -1,6 +1,0 @@
-What are the advantages of air lit solid boosters in PSLV XL?
-ISRO's PSLV-XL has 6 solid strap on boosters.
-In a typical flight profile 4 strap on boosters are lit on ground just before liftoff.
-The remaining two boosters are lift 25 seconds later in air.
-Similarly 4 boosters are jettisioned 12 seconds before air lit boosters.
-My question is what are the advantages of igniting boosters mid air?

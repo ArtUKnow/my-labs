@@ -1,7 +1,0 @@
-How cold do Curiosity's & Perseverance's appendages get at night with all those sensitive cameras and lasers?
-cropped from PIA19920: Curiosity Self-Portrait at 'Big Sky' Drilling Site
-MastCam-Z, ChemCam/SuperCam and MAHLI are optical systems and ChemCam includes a telescope and a pulsed laser, but the spectrometer is separated by a connecting optical fiber; presumably to keep it tucked away some place warm.
-How cold do all these systems get out there at the ends of various rover appendages? Are they insulated and heated, or like most space probes have been for a half-century simply designed to withstand large temperature swings?
-From this answer:
-...(Perseverance) simply cannot maintain a decent temperature except for the most essential of systems.
-above: from this answer to Has ChemCam been used to characterize the martian atmosphere? below: Source

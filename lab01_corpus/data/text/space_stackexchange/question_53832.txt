@@ -1,4 +1,0 @@
-Is NASA's Deep Space Network possibly a backup link for China's Zhurong rover?
-While the Tianwen-1 orbiter will dispense commands to the Zhurong rover, the Mars Express orbiter of the European Space Agency will serve as a backup.
-Wikipedia
-Since Mars Express normally communicates using NASA's Deep Space Network, would the latter also be used in the contingency described above?

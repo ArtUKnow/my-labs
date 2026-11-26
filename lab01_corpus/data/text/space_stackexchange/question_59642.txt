@@ -1,8 +1,0 @@
-Dataset of Rocket Launch Data
-I needed actual data of any space rocket for a project that I am doing. Information regarding
-Altitude or trajectory
-Thrust
-Sp. Impulse
-etc was needed at each step of time.
-It would be great of the data was in a tabulated manner.
-I was not able to find any datasets online. It would be great if someone referred me to some resources where I can find the data.

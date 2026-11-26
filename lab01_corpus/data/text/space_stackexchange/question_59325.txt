@@ -1,7 +1,0 @@
-Satellite's EO sensor footprint on ground
-I'm a student and I'm trying to compute the footprint of a generic EO sensor starting from sensor's characteristics and position and velocity vector of my satellite in ECEF coordinates.
-I followed this tutorial of Stephen Hartzell to compute the satellite line-of-sight intersection with Earth and validate the results comparing with the ones from STK.
-It seems to work well when the satellite is Nadir pointing: the results (slant range, point on earth coordinates) differs about $10^{-8}$ from the STK ones. However, when I apply a pitch or roll rotation to the sensor boresight, the slant computed differs 27 meters from the STK ones with consequent significant errors (0.1°) to the latitude and longitude points computed from the intersection point coordinates.
-To describe the procedure in detail, I've defined a unit vector pointing toward the Earth $(z = \frac{\llap{-}r}{|r|})$ from my ECEF coordinate. Therefore, I've moved that from ECEF to the satellite body coordinate system with the appropriate rotation matrix, and then I've applied my pitch/roll rotations around the proper axis. At this point, I converted the rotated pointing vector in ECEF coordinates, and I’ve applied the intersection procedure shown above.
-Do you think this procedure is correct or there is another one more effective?
-Thanks in advance.

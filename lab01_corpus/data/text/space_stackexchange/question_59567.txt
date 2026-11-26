@@ -1,2 +1,0 @@
-What's the typical temperature of a reactor core in a nuclear thermal rocket?
-I am curious of the typical temperature of a nuclear fission reactor in a NTR and I heard that increasing temperature could increase Isp but couldn't find any useful data online. Please provide viable answers thank you.

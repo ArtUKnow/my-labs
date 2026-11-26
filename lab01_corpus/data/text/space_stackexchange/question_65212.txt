@@ -1,2 +1,0 @@
-Question on improved SSME thrust chamber construction
-How do you get the closed out copper liner of the thrust chamber, which is hour glass shaped, into a jacket that is also the exact same shape like shown? I'm gonna guess it was done by diffusion bonding of two halves?

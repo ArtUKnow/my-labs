@@ -1,2 +1,0 @@
-Magnetized tori around a uniformly accelerating black hole
-We generalise the relativistic accretion thick disc model to the background of a spinning charged accelerating black hole described by the C-metric to study the effects of this background on the disc model. We show the properties of this accretion disc model and its dependence on the initial parameters. This background can be distinguishable from the Kerr space-time by analysing the observing features of accretion discs.

@@ -1,9 +1,0 @@
-What are the largest and smallest ion thruster proper used in 21st century spaceflight in our solar system?
-We know that ion propulsion was in use elsewhere in the galaxy in the 23rd century (humor) but it started development here on Earth in the 20th.
-When did ion propulsion first see some serious development efforts?
-In this answer I originally chose a milliampere as an example of an ion current, but it was pointed out that that was pretty low, at least for deep space probes which use ion thrusters for serious propulsion, where they run them for months or years for big delta-vs. So I switched the example to 1 ampere.
-But I know that in addition to the "big guns" there are also applications for ion propulsion where just a little is enough - for example slow LEO orbit raising or even just maintenance against drag.
-So I'd like to ask:
-Question: What are the largest and smallest ion thruster proper used in 21st century spaceflight in our solar system?
-"largest and smallest" should be based on thrust. If a candidate has some throttling ability, feel free to use the top or bottom design values.
-The phrase "ion thruster proper" is meant to keep the focus on the acceleration of individual ionized atoms, rather than electrospray or colloidal thrusters. See also What are all the kinds of electric propulsion that don't qualify as ion propulsion in standard spaceflight lingo?

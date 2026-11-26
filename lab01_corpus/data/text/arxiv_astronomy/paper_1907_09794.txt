@@ -1,2 +1,0 @@
-Measuring the tilt of primordial gravitational-wave power spectrum from observations
-Primordial gravitational waves generated during inflation lead to the B-mode polarization in the cosmic microwave background and a stochastic gravitational wave background in the Universe. We will explore the current constraint on the tilt of primordial gravitational-wave spectrum, and forecast how the future observations can improve the current constraint.

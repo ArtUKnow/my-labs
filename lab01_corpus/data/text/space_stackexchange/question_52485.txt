@@ -1,9 +1,0 @@
-In their first 100 sols which NASA Mars rover drove the furthest and which one the least?
-It seems we've passed the 100 day/sol mark for Perseverance.
-Perseverance and Curiosity are comparable in designs but have had significantly different short term goals; Curiosity was the first of it's size class and probably wanted to get its "sea legs" in terms of driving and navigation from Earth, and Perseverance has been busy staying close by to watch the Ingenuity helicopter's six flights so far.
-At some point I expect Perseverance to take off and Ingenuity to follow saying "Hey, wait for me!"
-How long could the Mars helicopter Ingenuity keep up with the Perseverance rover if it wanted to?
-Perseverance Rover to drive carefully for months while helicopter hangs from underside?
-We should note that the CNSA has just recently put a lander + rover on Mars and deployed its rover. Since it will be three more months before 100 days is reached and there may not be the same type of publicly available and reliable quantitative information on meters traveled, I'll constrain this question to NASA Mars rovers of which there are five if I'm not mistaken. There is also the Soviet Mars rover PROP-M but answers to Is there any chance Mars-3's Prop-M rover deployed automatically and "roved"? suggest there will not be any definitive information on if it roved at all until more detailed reconnaissance information is available.
-Question: In their first 100 sols which NASA Mars rover drove furthers and least?
-Keep on Truckin PROP-M!

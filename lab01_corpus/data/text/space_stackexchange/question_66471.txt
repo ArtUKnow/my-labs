@@ -1,3 +1,0 @@
-GMAT Lambert problem
-I would like to plan a mission in GMAT to a certain asteroid, whose orbit and SPK file I have added in GMAT. However, I don't know how to solve the Lambert problem in it to first find the intersection of the spacecraft's orbit and the asteroid's orbit.
-I have entered an orbit with the same inclination as the asteroid's orbit, but there remains the issue of the orbit's orientation in space and finding the intersection point of the spacecraft's and the asteroid's orbits at the point of time.

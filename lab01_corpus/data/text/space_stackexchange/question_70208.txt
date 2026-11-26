@@ -1,8 +1,0 @@
-Feasibility of maintaining a spacecraft near Sun–Earth L3
-I am evaluating a conceptual space-weather monitoring architecture using spacecraft at Sun–Earth L1, L4, and L5. For completeness, I considered adding a spacecraft near the Sun–Earth L3 point. I am aware that L3 is dynamically unstable and has no natural long-term stable orbits.
-Assumption: the spacecraft would use continuous low-thrust electric propulsion (ion, Hall Thrusters etc.) to actively maintain its position near L3 over multi-year timescales (Let's assume 7 years at first).
-My questions are:
-From a dynamical and control standpoint, is maintaining a spacecraft near Sun–Earth L3 via continuous low-thrust station-keeping realistically feasible, or does the required Δv and control authority become prohibitive over long durations?
-Are there known estimates or order-of-magnitude bounds for station-keeping Δv near L3 compared to L1/L2 halo orbits? (I literally tried to find this information)
-I am trying to understand whether L3 is fundamentally impractical even with continuous propulsion, or merely economically unattractive compared to other Lagrange point options. I have also performed a few calculations using MATLAB/Python and GMAT, but frankly I do not code well so...
-Thanks for response!

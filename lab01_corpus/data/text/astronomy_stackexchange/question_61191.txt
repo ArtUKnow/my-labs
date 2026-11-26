@@ -1,8 +1,0 @@
-Why do cyclones form in Jupiter’s belts, even though they’re high-pressure regions?
-I'm studying atmospheric circulation on Jupiter and came across something confusing.
-My textbook (Axilone-Astronomy Planetary Astronomy) states:
-The vortexes which appear in the cloud zones are all anticyclones, and those which are formed in the belts are all atmospheric depressions (cyclones).
-It also includes the following illustration:
-From what I understand, Jupiter’s belts (the dark bands) are typically associated with higher pressure and descending air, while the zones (bright bands) are lower-pressure regions with rising air.
-But despite this, cyclones, usually low-pressure systems, tend to form in the belts, not in the zones. So if the belts are high-pressure areas with sinking air, why are they home to cyclones? Am I misinterpeting or missing something?
-Any clarification would be greatly appreciated

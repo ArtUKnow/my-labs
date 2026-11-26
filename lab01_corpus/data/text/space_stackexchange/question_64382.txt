@@ -1,2 +1,0 @@
-GMAT LEO spacecraft simulation
-I started using GMAT, I have to design an LEO of an AEOLUS Satellite and I have the TLE of the launching. My question is how do I plug the TLE numbers into the spacecraft section (Keplerian element section specifically) in GMAT and how to calculate them?

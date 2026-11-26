@@ -1,4 +1,0 @@
-Why is v lowercase and D uppercase in $v=H_0D$?
-Why is v almost always written in lowercase and D in uppercase in $v=H_0D$?
-OK, v is in lowercase, as usual, but then why is D in uppercase? What's so different/special about it?
-In my physics school text/book and Wikipedia it is written as v=H0D, and I always assumed that was the correct form. Yes I have seen it written as v=H0d, but I always thought that was a mistake. I think I assumed that it was D because both my sources pointed out that it was a proper distance, as opposed to a co-moving distance, I suppose. I cannot believe it is just arbitrary. Physics symbols are case sensitive. Was v=Hod considered too confusing!?

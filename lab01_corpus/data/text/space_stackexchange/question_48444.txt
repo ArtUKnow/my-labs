@@ -1,4 +1,0 @@
-Preventing hard starts using varied propellant/ O/F ratio?
-From what I've heard, hard-starts are a very common, particularly in less refined amateur rocket engines, and the only way to avoid them is to either start the engine on an extremely low flow rate or use a particularly effective igniter, possibly similar to the ones used on the space shuttle, resembling a sort of blow-torch.
-My question is: would it be feasible to lower the O/F ratio so much as to stop the fuels detonating, and is there a limit to how far the O/F ratio can be lowered to where there will be no ignition to speak of?
-Additionally, would this prevent a hard start or simply prolong/lessen its severity?

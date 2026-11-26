@@ -1,5 +1,0 @@
-What is this thing that goes zipping past the Electron launch?
-Watching the Electron launch 07 October 2022 on https://www.rocketlabusa.com/live-stream, what do I see in the video at T + 9:12, just after they confirm secondary engine cut off?
-I thought it was a satellite that went zipping by, but it makes an arc, and comes back on the bottom right of the screen. It seems like the Electron rocket catches up with it. Is it something falling off the rocket? Or a passing satellite? Or, if we can't identify it, why does it appear to come back on the bottom right of the screen? I would never have guessed those physics could be possible.
-What's going on here?
-In case the livestream link goes away, here's the Youtube link, cued 5 seconds before it appears:

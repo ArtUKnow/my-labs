@@ -1,6 +1,0 @@
-Is an alpha particle cosmic ray more easily deflected on its journey than a proton? Or vice versa?
-Has everyone heard about the cosmic ray that hit Utah recently with an energy of about 240 EeV? Making it the third-highest-energy of all time? Scientists say it seems to have come from a void, and aren't sure if it could have been deflected on its path (probably not, I hear...)
-This got me thinking about energetic particles being deflected on their journeys...
-Would an Alpha particle with twice the charge but four times the mass be more or less easily deflected on its way here?
-Obviously it would resist purely gravitational forces more readily, but what about an electric field? Or a magnetic field?
-I understand that the electromagnetic force is much stronger than gravity, of course, and that both drop off with distance as $\frac{1}{r^2}$...

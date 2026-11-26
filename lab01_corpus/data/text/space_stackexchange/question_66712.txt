@@ -1,5 +1,0 @@
-CEA - What does the shock mode do?
-I want to calculate properties (mainly viscosity and thermal conductivity) of a gas mixture after a normal shock.
-I know that the NASAs CEA code has a shock mode but can't really find a good explanation on what it calculates exactly and how to use it properly.
-Does anyone have a good explanation for how and when to use the shock option in the CEA code?
-Thanks a lot for your help!

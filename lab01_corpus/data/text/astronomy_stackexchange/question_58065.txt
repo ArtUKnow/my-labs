@@ -1,4 +1,0 @@
-The Julian Day Bug
-According to Wikipedia and a few other trustable sources, the current Julian Period started in 4713 BCE and will end in 3268 CE. I remember seeing an online document (though maybe it was a scan of a printed document?) which used an initial 9 for all Julian day numbers before 4713 BCE. I presume it also used a way to differentiate dates after 3268 CE.
-So my question, in line with Is there a maximum Julian day?, is: What will happen at the end of the current Julian Period? Will we start numbering Julian days at 1? I mean, in theory, we should, as it will be a new Julian Period…
-(Accessorily, if someone knows about the document I mentioned above, that used a 9 for pre-4713BCE dates, it would be appreciated.)

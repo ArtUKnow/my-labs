@@ -1,6 +1,0 @@
-Blue Origin's BE-3PM Engine: 18-100% Throttle Range, How?
-Blue Origin says the BE-3PM engine in its New Shepard vehicle can throttle down to 18% max thrust.
-Compare to 57% for the Merlin 1D engine in stage 1 of SpaceX's Falcon 9 (and to 39% for the Merlin Vacuum engine in stage 2, though stage 2 doesn't have to land, and its on landing approach that low throttle would most help).
-So I'm wondering: What are the challenges in increasing throttle range, and what keeps SpaceX from matching Blue Origin's 18%?
-The BE-3 runs on liquid hydrogen while the Merlin runs on RP-1. Does the choice of fuel account for the difference? And could it be the big reason why Blue Origin chose that difficult fuel for New Shepard?
-There is some background information available in answer(s) to Do Blue Origin's BE-3 engines need to run for 7 seconds to "warm up"?

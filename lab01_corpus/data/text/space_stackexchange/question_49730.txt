@@ -1,3 +1,0 @@
-What is the Best position of an object in geostationary orbit relative to the launch site for rendezvous using GTO?
-So let's say we have a space station or spacecraft in GEO, and I want to get another spacecraft to it from earth's surface on a direct geostationary transfer orbit, i.e. no waiting about in LEO for phasing or other reasons.
-Where should the orbiting spacecraft be positioned relative to the launching spacecraft? Directly overhead?, 90 degrees along the orbit?, 180 degrees? Or some other position? For simplicity's sake let's assume the launch site is on the equator.

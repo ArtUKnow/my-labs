@@ -1,6 +1,0 @@
-What's the maximum deflection angle from a gravitational velocity boost flyby?
-If you pass an object with negligible mass, your your path will remain unchanged and your deflection will be zero degrees.
-if you pass a planet, your path will be bent in the direction of the planet. You'll speed up and the planet slows down.
-My question is, what's the maximum angular deflection you can get from this operation? Can swinging around a planet change your path by 90 degrees?
-How about a black hole? Can I whip around real close and leave moving in the opposite direction, 360 degrees?
-I guess I want to understand the geometry of geodesics.

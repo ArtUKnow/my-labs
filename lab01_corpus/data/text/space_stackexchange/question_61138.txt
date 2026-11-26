@@ -1,4 +1,0 @@
-How does Titan have hydrogen in its atmosphere?
-Titan's atmosphere contains few tenths of a percent of hydrogen.
-This seems odd to me, as Earth with a 4x greater escape velocity cannot retain hydrogen or even helium in its atmosphere.
-Titan is 3x colder then Earth, but this shouldn't be anywhere near enough to retain hydrogen in significant quantities.

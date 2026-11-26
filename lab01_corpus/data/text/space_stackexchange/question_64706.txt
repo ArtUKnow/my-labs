@@ -1,3 +1,0 @@
-Is there an anomalous variation of distance between Earth-Moon during a lunar eclipse?
-Apart from normal (expected) variation of distance between Earth and Moon in any given time interval, what happens during a lunar eclipse by way of some unexpected (anomalous) deviation? Have lunar ranging measurements been used to detect the smallest, if any, deviation of the distance that is projected from before and after the lunar eclipse orbit?
-Put another way: If the distance is measured at regular intervals short enough to plot the distance starting a few hours before, during and ending a few hours after the lunar eclipse, a "bulge" or "trough" on the curve, if present, would be of great interest. Has this been done?

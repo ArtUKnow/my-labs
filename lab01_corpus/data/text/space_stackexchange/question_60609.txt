@@ -1,8 +1,0 @@
-How to calculate Local Time of Ascending Node (LTAN)
-I have a time series of satellite position, $\mathbf{r}(t_i) = (r_i,\theta_i,\phi_i)$ representing geocentric radius, colatitude and longtiude at universal times $t_i$. I want to compute the Local Time of Ascending Node (LTAN) as a function of universal time,
-$$
-LTAN(t_i)
-$$
-My approach so far has been to simply analyze the half-portion of each orbit in which the satellite is ascending (e.g. $\theta_{i+1} < \theta_i$) and find when the satellite crosses the geographic equator ($\theta_i > 90^{\circ}$ and $\theta_{i+1} < 90^{\circ}$), and then calculate the local time using the longitude $\phi_i$ and universal time $t_i$.
-This approaches works well enough, but has the disadvantage that it produces the same LTAN for the entire orbit, while the real LTAN is likely changing slightly throughout the orbit.
-What would be a more correct way to compute $LTAN(t)$ given an ephemeris $(r_i,\theta_i,\phi_i)$?

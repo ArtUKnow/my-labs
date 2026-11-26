@@ -1,3 +1,0 @@
-How does SpaceX actuate the steering lines of their fairing recovery parafoils?
-As a skydiving student, I'm intrigued by autonomous ram air parachute return systems. I found a paper [...]Scalable Autonomous GPS-
-Guided Parafoil System for Targeted Payload Return that describes rotary actuators that tension the steering lines, but I couldn't find anything on how SpaceX controls their parafoils.

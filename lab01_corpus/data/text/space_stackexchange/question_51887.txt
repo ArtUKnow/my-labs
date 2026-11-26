@@ -1,4 +1,0 @@
-Can we more accurately predict orbits or measure position?
-Imagine a satellite of known mass, orbiting the sun outside the Earth-Moon system. Assuming that we made a serious attempt to measure both it's position and attempted to predict it's orbital path, which would be the most accurate?
-Or rather, since "accuracy" is tricky, which would contribute most uncertainty?
-On one hand you have the hard problem of measuring exact position and velocity at light minute distances, Vs the n-body problem for the entire solar system, outside the immediate area around Earth, where it swamps any other influences.

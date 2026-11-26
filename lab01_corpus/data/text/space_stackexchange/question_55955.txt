@@ -1,5 +1,0 @@
-Why aren’t vacuum engines turned on after Mach 1?
-In rockets, smaller nozzles are used at lower altitudes because atmospheric pressure would cause problems by pushing air into nozzles with higher expansion ratios.
-However, it seems to me that once the vehicle reaches Mach 1, no air would be able to enter the nozzle because the vehicle is moving faster than the speed at which air would be sucked in.
-If that’s true, why aren’t vacuum-variant engines flipped on as soon as the rocket is supersonic?
-Thanks

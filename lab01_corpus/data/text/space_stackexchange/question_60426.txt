@@ -1,4 +1,0 @@
-Artemis H2 leak -- what is rationale behinfd 4% stated go/no-go parameter
-The Artemis H2 leak has been quoted in %. I believe 4% is the stated limit. I assume that measurement is vol % of H2 in air but I haven't seen any real definition of the parameter. What is the rationale behind this number?
-I suspect that this might be the lean flammability limit of H2 in air but it might also be some indirect measure of a leak rate into the region/volume where it is measured. I would also like to know whether this parameter is a "not to exceed" or whether is is an average over some time period: i.e., how is the parameter applied?
-thanks for any insights. tom kosvic

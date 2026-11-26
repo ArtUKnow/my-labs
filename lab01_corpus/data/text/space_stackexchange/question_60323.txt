@@ -1,6 +1,0 @@
-What are the product terms shown here representing an orbit?
-I can compute Kepler parameters from a given TLE using Skyfield. I am checking the satellite information from this website and the orbit is represented as
-$$
-546 \times 548 \text{ km} \times 53.1 \text{ deg}
-$$
-I understand that 53.1 is the inclination and I can get that from Skyfield as well. What are the 546 and 548 values? And how can I compute them?

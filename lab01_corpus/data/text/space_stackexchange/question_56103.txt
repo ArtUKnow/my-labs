@@ -1,7 +1,0 @@
-What is a good SNR value for a chipsat in LEO using bpsk?
-My team and I are working on a chipsat and we are planning on launching it to LEO, we've also planned using bpsk.
-However our use case is a bit different, all we need once it is in LEO is a confirmation that that the radio is still working.
-In this case, what is the fair value of SNR that we should require?
-Edit: I should have phrased some parts a little bit better.
-By working I mean that we need to know if it survived, what we actually plan to do is have the chipsat renter the earth, and "land" in the sea for instance, however as it is reentering it'll be traveling at extremely high speeds and exposed to extremely high temperatures ( we will have a heat shield and other precautions to account for these ).
-So once it lands we want to know if all the components survived this harsh exposure, so one way we figured would just be if it is possible for us to send a signal to a ground station (we'll be using a SDR receiver so we'll probably use something like GNU Radio to analyse what we receive). But this also means that, the data we need to send need not be too complicated. That is we just need to send a couple bytes for confirmation.

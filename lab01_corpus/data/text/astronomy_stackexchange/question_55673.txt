@@ -1,2 +1,0 @@
-Simple position calculation of solar system satellites
-I'm looking for a simple way to calculate positions of satellites in the ecliptic of the date. I've found an implementation for Jupiters satellites in the Astronomical Algorithms by Jean Meeus, and I've found TASS 1.7 for Saturn, GUST86 for Uranus, but the last two are too hard for me to understand. An implementation like this I have implemented for planets, but I haven't found similar elements and rates for satellites. Even finding the mean longitude would be appreciated.

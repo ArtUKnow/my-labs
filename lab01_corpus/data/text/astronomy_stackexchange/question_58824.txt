@@ -1,3 +1,0 @@
-Moonlight Color
-What color is the moonlight? And does it's color temperature change along the day/night like the sun?
-By "What color is the moonlight" I need the hex code of the color, or it's color tempreture if it constant.

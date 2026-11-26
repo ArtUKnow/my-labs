@@ -1,9 +1,0 @@
-At what distance does radio communication become unusable?
-How far away from Earth could we reliably communicate using radio?
-I'm thinking that a primary factor would be how much RF power could be kept in a "tight beam" and accurately pointed.
-Assumotions:
-Users do not care about lag time between sending and receiving.
-Using present technology for sending and receiving.
-"Reasonable" power is available for use. No harnessed stars or fusion generators.
-Large antennas of present construction capability could be placed well away from the noise of Earth.
-Do not care about data rate.

@@ -1,4 +1,0 @@
-How exactly does depressurization work in a solid rocket motor?
-How does the extinction process actually work in a solid rocket motor?
-Most people initially always read that once a solid rocket fuel is ignited there is no way to actually stop its operation until the solid grain burns completely. But I came across the concept of quenching and depressurization and that it is possible to stop a solid rocket burn when one wishes to do so. I saw a video mentioning that decreasing the chamber pressure rapidly will also cause a sharp drop in the regression rate which is right since they are both related but it was also mentioned that the burn area is dependent on the chamber pressure.
-How does the burn area and quenching come into the picture? The details on this aren't very clear to me as well.

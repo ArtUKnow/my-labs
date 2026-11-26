@@ -1,2 +1,0 @@
-Minimal vacuum system requirements to test a scale model ion thruster for a student project?"
-I am planning to make a small-scale ionic thruster, however, I am not planning to invest in a vacuum chamber so I am thinking of only achieving vacuum in the plasma chamber itself, by sealing the outlet with an elongated tube so that the plasma still have somewhere to go.

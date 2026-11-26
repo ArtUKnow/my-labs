@@ -1,8 +1,0 @@
-Could Starship run on Methane Slushies?
-Cryogenic slush (a mixture of liquid and solid) can potentially store propellants at higher density than cryogenic liquid. For instance, hydrogen slush is 16-20% denser than liquid hydrogen. https://en.wikipedia.org/wiki/Slush_hydrogen Hydrogen slush is stored at hydrogen’s triple point.
-SpaceX could potentially achieve similar increase in methane density if its liquid methane propellant is sub cooled and stored as slush. This assumes that solid methane is more dense than liquid methane, but I could not find data on this.
-I understand that SpaceX sub-cools methane (stores it below its boiling point at tank pressure, which is about -130C). But methane slush would require “sub-sub-cooling” to its triple point of -182C.
-In fact, according to https://www.wevolver.com/specs/spacexs-starship-sn24-bn7 , liquid methane in Starship is “chilled to -180C “ which is very close to its triple point of -182C. Evaporative cooling, especially near the end of flight when remaining volume is low, could refrigerate to the point of slush formation.
-Does Starship run on slush? What are the challenges of using cryo-propellants near their triple point?
-More info on methane slush:
-https://ntrs.nasa.gov/api/citations/19700009484/downloads/19700009484.pdf
