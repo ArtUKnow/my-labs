@@ -2,10 +2,11 @@ import os
 import sys
 import json
 import math
+import gzip
 
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-TOKENS_DIR = os.path.join(BASE_DIR, "..", "lab1_corpus", "data", "tokens")
+TOKENS_DIR = os.path.join(BASE_DIR, "..", "lab1_corpus", "data", "primary_tokens")
 RESULTS_DIR = os.path.join(BASE_DIR, "results")
 
 
@@ -16,10 +17,14 @@ def count_frequencies(tokens_dir):
         if not os.path.isdir(source_dir):
             continue
         for name in sorted(os.listdir(source_dir)):
-            for line in open(os.path.join(source_dir, name), encoding="utf-8"):
-                token = line.strip()
-                if token != "":
-                    frequencies[token] = frequencies.get(token, 0) + 1
+            if not name.endswith((".txt", ".txt.gz")):
+                continue
+            opener = gzip.open if name.endswith(".gz") else open
+            with opener(os.path.join(source_dir, name), "rt", encoding="utf-8") as file:
+                for line in file:
+                    token = line.strip()
+                    if token != "":
+                        frequencies[token] = frequencies.get(token, 0) + 1
     return frequencies
 
 

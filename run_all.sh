@@ -20,7 +20,7 @@ if [ "$MODE" = "build" ]; then
   echo "=== lab6: evaluate"
   python3 lab6_search_quality/evaluate.py
   echo "=== lab7: build index"
-  python3 lab7_boolean_index/build_index.py lab1_corpus/data/text lab1_corpus/data/index stem 500000
+  python3 lab7_boolean_index/build_index.py lab1_corpus/data/primary_text lab1_corpus/data/index stem 500000
   echo "=== lab8: benchmark Boolean search"
   python3 lab8_boolean_search/benchmark.py
   exit 0

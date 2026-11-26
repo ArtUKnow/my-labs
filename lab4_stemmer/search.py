@@ -1,5 +1,6 @@
 import os
 import sys
+import gzip
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "lab3_tokenizer"))
@@ -10,7 +11,8 @@ from lemmatizer import Lemmatizer, load_vocabulary
 
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-TEXT_DIR = os.path.join(BASE_DIR, "..", "lab1_corpus", "data", "text")
+TEXT_DIR = os.path.join(BASE_DIR, "..", "lab1_corpus", "data", "primary_text")
+LEGACY_TEXT_DIR = os.path.join(BASE_DIR, "..", "lab1_corpus", "data", "text")
 TOKENS_DIR = os.path.join(BASE_DIR, "..", "lab1_corpus", "data", "tokens")
 
 STOP_WORDS = ["в", "на", "и", "с", "по", "из", "к", "о", "об", "от", "для", "the", "a", "an", "in", "on", "of", "to", "and", "is", "are"]
@@ -23,11 +25,14 @@ def load_documents(text_dir, allowed_ids=None):
         if not os.path.isdir(source_dir):
             continue
         for name in sorted(os.listdir(source_dir)):
-            if name.endswith(".txt"):
-                doc_id = source + "/" + name[:-4]
+            if name.endswith((".txt", ".txt.gz")):
+                suffix = 7 if name.endswith(".txt.gz") else 4
+                doc_id = source + "/" + name[:-suffix]
                 if allowed_ids is not None and doc_id not in allowed_ids:
                     continue
-                text = open(os.path.join(source_dir, name), encoding="utf-8").read()
+                opener = gzip.open if name.endswith(".gz") else open
+                with opener(os.path.join(source_dir, name), "rt", encoding="utf-8") as file:
+                    text = file.read()
                 documents.append((doc_id, text))
     return documents
 

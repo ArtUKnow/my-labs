@@ -58,7 +58,7 @@ def render_page(query, catalog, ids=None, elapsed_ms=None, page=1, error=None):
     parts = [
         "<!doctype html><html lang=\"ru\"><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
         "<title>%s · MAI Search</title><style>%s</style></head><body>" % (escape(title), STYLE),
-        '<header class="top"><div class="wrap"><div class="topline"><a class="brand" href="/">MAI / SEARCH</a><span class="count">%s документов · 5 коллекций</span></div>' % format(count, ",").replace(",", " "),
+        '<header class="top"><div class="wrap"><div class="topline"><a class="brand" href="/">MAI / SEARCH</a><span class="count">%s документов · источников: %s</span></div>' % (format(count, ",").replace(",", " "), len(catalog.source_counts)),
         '<div class="hero"><div class="eyebrow">Лабораторная работа 8 · Булев поиск</div><h1>Поиск по науке и космосу</h1>',
         '<p class="lead">Статьи, научные аннотации и вопросы сообщества в одном индексе. Сочетайте слова с И, ИЛИ, НЕ и скобками.</p>',
         '<form class="search" action="/search" method="get"><label for="q" class="sr-only">Поисковый запрос</label><input id="q" name="q" value="%s" placeholder="Например: (марс || mars) ракета" required autofocus><button type="submit">Найти →</button></form>' % escape(query),
@@ -68,7 +68,7 @@ def render_page(query, catalog, ids=None, elapsed_ms=None, page=1, error=None):
         parts.append('<div class="error" role="alert">%s</div>' % escape(error))
     elif ids is None:
         labels = "".join("<span>%s · %s</span>" % (escape(SOURCE_LABELS.get(source, source)), format(number, ",").replace(",", " ")) for source, number in sorted(catalog.source_counts.items()))
-        parts.append('<section class="intro"><h2>Один запрос — пять коллекций</h2><p>Пробел и && означают И; || — ИЛИ; ! исключает документы. Скобки задают порядок. Результаты содержат заголовок и ссылку на оригинал.</p><div class="sources">%s</div></section>' % labels)
+        parts.append('<section class="intro"><h2>Один запрос — разные коллекции</h2><p>Пробел и && означают И; || — ИЛИ; ! исключает документы. Скобки задают порядок. Результаты содержат заголовок и ссылку на оригинал.</p><div class="sources">%s</div></section>' % labels)
     else:
         total = len(ids)
         first = (page - 1) * PAGE_SIZE

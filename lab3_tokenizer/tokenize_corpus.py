@@ -2,6 +2,7 @@ import os
 import sys
 import json
 import time
+import gzip
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
@@ -9,7 +10,7 @@ from tokenizer import tokenize, token_kind
 
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-TEXT_DIR = os.path.join(BASE_DIR, "..", "lab1_corpus", "data", "text")
+TEXT_DIR = os.path.join(BASE_DIR, "..", "lab1_corpus", "data", "primary_text")
 TOKENS_DIR = os.path.join(BASE_DIR, "..", "lab1_corpus", "data", "tokens")
 RESULTS_DIR = os.path.join(BASE_DIR, "results")
 
@@ -21,7 +22,7 @@ def list_text_files(text_dir):
         if not os.path.isdir(source_dir):
             continue
         for name in sorted(os.listdir(source_dir)):
-            if name.endswith(".txt"):
+            if name.endswith((".txt", ".txt.gz")):
                 files.append((source, name, os.path.join(source_dir, name)))
     return files
 
@@ -34,8 +35,10 @@ def tokenize_corpus(text_dir, tokens_dir):
             source_dir = os.path.join(tokens_dir, source)
             if not os.path.isdir(source_dir):
                 continue
+            if source not in {item[0] for item in files}:
+                continue
             for name in os.listdir(source_dir):
-                if name.endswith(".txt") and (source, name) not in expected:
+                if name.endswith((".txt", ".txt.gz")) and (source, name) not in expected:
                     os.remove(os.path.join(source_dir, name))
     total_tokens = 0
     total_length = 0
@@ -46,16 +49,17 @@ def tokenize_corpus(text_dir, tokens_dir):
     timing_points = []
     long_tokens = []
     for source, name, path in files:
-        text = open(path, encoding="utf-8").read()
+        opener = gzip.open if name.endswith(".gz") else open
+        with opener(path, "rt", encoding="utf-8") as document:
+            text = document.read()
         size = len(text.encode("utf-8"))
         start = time.perf_counter()
         tokens = tokenize(text)
         spent = time.perf_counter() - start
         out_dir = os.path.join(tokens_dir, source)
         os.makedirs(out_dir, exist_ok=True)
-        f = open(os.path.join(out_dir, name), "w", encoding="utf-8")
-        f.write("\n".join(tokens))
-        f.close()
+        with opener(os.path.join(out_dir, name), "wt", encoding="utf-8") as output:
+            output.write("\n".join(tokens))
         total_tokens += len(tokens)
         total_bytes += size
         total_time += spent

@@ -1,75 +1,31 @@
 {
   "sources": [
     {
-      "name": "arxiv_astronomy",
-      "documents": 5000,
+      "name": "scoap3",
+      "documents": 32494,
       "raw_html_documents": 0,
-      "raw_bytes": 0,
-      "text_bytes": 7300964,
-      "words": 1080734,
-      "avg_raw_bytes": 0,
-      "avg_text_bytes": 1460,
-      "avg_words": 216,
-      "text_ratio": null
-    },
-    {
-      "name": "astronomy_stackexchange",
-      "documents": 5000,
-      "raw_html_documents": 0,
-      "raw_bytes": 0,
-      "text_bytes": 4857255,
-      "words": 798558,
-      "avg_raw_bytes": 0,
-      "avg_text_bytes": 971,
-      "avg_words": 159,
-      "text_ratio": null
-    },
-    {
-      "name": "ru_wikipedia",
-      "documents": 10000,
-      "raw_html_documents": 40,
-      "raw_bytes": 6800563,
-      "text_bytes": 182797310,
-      "words": 13852904,
-      "avg_raw_bytes": 170014,
-      "avg_text_bytes": 18279,
-      "avg_words": 1385,
-      "text_ratio": null
-    },
-    {
-      "name": "simple_wikipedia",
-      "documents": 5000,
-      "raw_html_documents": 20,
-      "raw_bytes": 1977521,
-      "text_bytes": 22062609,
-      "words": 3597235,
-      "avg_raw_bytes": 98876,
-      "avg_text_bytes": 4412,
-      "avg_words": 719,
-      "text_ratio": null
-    },
-    {
-      "name": "space_stackexchange",
-      "documents": 5000,
-      "raw_html_documents": 0,
-      "raw_bytes": 0,
-      "text_bytes": 4895154,
-      "words": 803786,
-      "avg_raw_bytes": 0,
-      "avg_text_bytes": 979,
-      "avg_words": 160,
-      "text_ratio": null
+      "raw_source_documents": 32494,
+      "raw_bytes": 15622562869,
+      "text_bytes": 1351988423,
+      "stored_bytes": 426058595,
+      "words": 226501854,
+      "avg_raw_bytes": 480783,
+      "avg_text_bytes": 41607,
+      "avg_words": 6970,
+      "text_ratio": 0.0865
     }
   ],
   "total": {
-    "documents": 30000,
-    "raw_html_documents": 60,
-    "raw_bytes": 8778084,
-    "text_bytes": 221913292,
-    "words": 20133217,
-    "avg_raw_bytes": 146301,
-    "avg_text_bytes": 7397,
-    "avg_words": 671,
-    "text_ratio": null
+    "documents": 32494,
+    "raw_html_documents": 0,
+    "raw_source_documents": 32494,
+    "raw_bytes": 15622562869,
+    "text_bytes": 1351988423,
+    "stored_bytes": 426058595,
+    "words": 226501854,
+    "avg_raw_bytes": 480783,
+    "avg_text_bytes": 41607,
+    "avg_words": 6970,
+    "text_ratio": 0.0865
   }
 }

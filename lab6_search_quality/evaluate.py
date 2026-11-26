@@ -95,11 +95,11 @@ def main():
             print("  %s\tP=%.2f\tNDCG=%.3f\tERR=%.3f" % (item["query_id"], m["p"], m["ndcg"], m["err"]))
         return
 
-    from search import SimpleSearch, load_documents, TEXT_DIR, TOKENS_DIR
+    from search import SimpleSearch, load_documents, LEGACY_TEXT_DIR, TOKENS_DIR
     from lemmatizer import load_vocabulary
 
     labeled_ids = {doc_id for grades in qrels.values() for doc_id in grades}
-    documents = load_documents(TEXT_DIR, labeled_ids)
+    documents = load_documents(LEGACY_TEXT_DIR, labeled_ids)
     vocabulary = load_vocabulary(TOKENS_DIR, labeled_ids)
     report = {"k": k, "evaluation_documents": len(documents), "systems": []}
     systems = []

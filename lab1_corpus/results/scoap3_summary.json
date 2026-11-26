@@ -1,0 +1,25 @@
+{
+  "documents": 32494,
+  "minimum_body_words": 3000,
+  "journals": {
+    "Physical Review D": 15520,
+    "Nuclear Physics B": 3460,
+    "Chinese Physics C": 655,
+    "Journal of Cosmology and Astroparticle Physics": 618,
+    "Physical Review C": 635,
+    "Advances in High Energy Physics": 534,
+    "Physical Review Letters": 425,
+    "Physics Letters B": 5337,
+    "Progress of Theoretical and Experimental Physics": 833,
+    "European Physical Journal C": 2209,
+    "Journal of High Energy Physics": 2268
+  },
+  "formats": {
+    "xml": 28017,
+    "pdf": 4477
+  },
+  "requested_target": 50000,
+  "target_reached": false,
+  "assignment_minimum": 30000,
+  "assignment_minimum_reached": true
+}

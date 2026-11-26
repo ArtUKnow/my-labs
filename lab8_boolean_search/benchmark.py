@@ -11,11 +11,11 @@ from catalog import DATA_DIR
 
 
 CASES = [
-    ("two_terms", "mars rover"),
-    ("two_languages", "(марс || mars) (ракета || rocket)"),
-    ("exclusion", "(космос || space) !марс"),
-    ("nested", "((asteroid || астероид) (orbit || орбита)) || (спутник !луна)"),
-    ("broad", "(the || и || в || a) !(space || космос)"),
+    ("two_terms", "dark matter"),
+    ("alternatives", "(neutrino || quark) mass"),
+    ("exclusion", "higgs !boson"),
+    ("nested", "((dark || black) (matter || hole)) || (neutrino !electron)"),
+    ("broad", "(the || a || and) !(particle || field)"),
 ]
 
 

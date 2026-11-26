@@ -3,6 +3,7 @@ import sys
 import json
 import csv
 import hashlib
+import gzip
 import shutil
 import tempfile
 import unittest
@@ -148,37 +149,31 @@ class TestRealCorpus(unittest.TestCase):
                 size = os.path.getsize(os.path.join(source_dir, name))
                 self.assertTrue(size > 20, name)
 
-    def test_corpus_has_30000_attributed_documents(self):
-        text_dir = extract_text.TEXT_DIR
-        provenance_dir = os.path.join(os.path.dirname(text_dir), "provenance")
-        total = 0
-        hashes = set()
-        targets = {
-            "ru_wikipedia": (10000, "wiki_", 40),
-            "simple_wikipedia": (5000, "wiki_", 20),
-            "arxiv_astronomy": (5000, "paper_", 0),
-            "space_stackexchange": (5000, "question_", 0),
-            "astronomy_stackexchange": (5000, "question_", 0),
-        }
-        for source, (expected, prefix, raw_examples) in targets.items():
-            files = {name for name in os.listdir(os.path.join(text_dir, source)) if name.endswith(".txt")}
-            self.assertEqual(len(files), expected)
-            manifest_path = os.path.join(provenance_dir, source + ".tsv")
-            with open(manifest_path, encoding="utf-8") as manifest:
-                rows = list(csv.DictReader(manifest, delimiter="\t"))
-            self.assertEqual(len(rows), expected - raw_examples)
-            self.assertEqual({row["file"] for row in rows}, {name for name in files if name.startswith(prefix)})
-            for row in rows:
-                self.assertTrue(row["url"].startswith("https://"))
-                if source.endswith("stackexchange"):
-                    self.assertTrue(row["author"] and row["license"])
-                with open(os.path.join(text_dir, source, row["file"]), "rb") as document:
-                    content_hash = hashlib.sha256(document.read()).hexdigest()
-                self.assertEqual(row["text_sha256"], content_hash)
-                self.assertNotIn(content_hash, hashes)
-                hashes.add(content_hash)
-            total += len(files)
-        self.assertEqual(total, 30000)
+    def test_corpus_integrity_and_assignment_minimum(self):
+        text_dir = os.path.join(os.path.dirname(extract_text.TEXT_DIR), "text", "scoap3")
+        manifest_path = os.path.join(os.path.dirname(extract_text.TEXT_DIR), "provenance", "scoap3.tsv")
+        files = {name for name in os.listdir(text_dir) if name.endswith(".txt.gz")}
+        with open(manifest_path, encoding="utf-8") as manifest:
+            rows = list(csv.DictReader(manifest, delimiter="\t"))
+        self.assertGreaterEqual(len(rows), 30000)
+        self.assertEqual({row["file"] for row in rows}, files)
+        self.assertEqual(len(rows), len(files))
+        self.assertEqual(len({row["doi"] for row in rows}), len(rows))
+        for row in rows:
+            self.assertGreaterEqual(int(row["words"]), 3000)
+            self.assertTrue(row["journal"] and row["doi"])
+            self.assertTrue(row["license"].upper().startswith("CC-BY"))
+            self.assertGreater(int(row["source_bytes"]), 0)
+            self.assertIn(row["source_format"], ("xml", "pdf"))
+            self.assertTrue(row["url"].startswith("https://repo.scoap3.org/records/"))
+            with gzip.open(os.path.join(text_dir, row["file"]), "rb") as document:
+                self.assertEqual(row["sha256"], hashlib.sha256(document.read()).hexdigest())
+
+    def test_corpus_reaches_requested_50000_target(self):
+        manifest_path = os.path.join(os.path.dirname(extract_text.TEXT_DIR), "provenance", "scoap3.tsv")
+        with open(manifest_path, encoding="utf-8") as manifest:
+            rows = list(csv.DictReader(manifest, delimiter="\t"))
+        self.assertGreaterEqual(len(rows), 50000)
 
 
 if __name__ == "__main__":

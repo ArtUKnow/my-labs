@@ -1,10 +1,7 @@
 test_analyze_fields (__main__.TestAnalyze.test_analyze_fields) ... ok
 test_hapax (__main__.TestAnalyze.test_hapax) ... ok
 test_points_thinned (__main__.TestAnalyze.test_points_thinned) ... ok
-test_count_frequencies_from_dir (__main__.TestCounting.test_count_frequencies_from_dir) ... /Users/alexganyak/Documents/Codex/2026-11-25/files-mentioned-by-the-user-python/work/github-my-labs/lab5_zipf/zipf.py:19: ResourceWarning: unclosed file <_io.TextIOWrapper name='/var/folders/g6/q7ypm1kn7b36np4md8krwc5r0000gn/T/tmpnbaeddmf/src/a.txt' mode='r' encoding='utf-8'>
-  for line in open(os.path.join(source_dir, name), encoding="utf-8"):
-ResourceWarning: Enable tracemalloc to get the object allocation traceback
-ok
+test_count_frequencies_from_dir (__main__.TestCounting.test_count_frequencies_from_dir) ... ok
 test_count_from_tokens (__main__.TestCounting.test_count_from_tokens) ... ok
 test_ranked_order (__main__.TestCounting.test_ranked_order) ... ok
 test_error_zero_on_exact (__main__.TestFit.test_error_zero_on_exact) ... ok

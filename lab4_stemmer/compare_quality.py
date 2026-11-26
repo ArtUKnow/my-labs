@@ -4,7 +4,7 @@ import json
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
-from search import SimpleSearch, load_documents, TEXT_DIR, TOKENS_DIR
+from search import SimpleSearch, load_documents, LEGACY_TEXT_DIR, TOKENS_DIR
 from lemmatizer import load_vocabulary
 
 
@@ -87,7 +87,7 @@ def main():
     queries = load_queries(QUERIES_PATH)
     qrels = load_qrels(QRELS_PATH)
     labeled_ids = {doc_id for grades in qrels.values() for doc_id in grades}
-    documents = load_documents(TEXT_DIR, labeled_ids)
+    documents = load_documents(LEGACY_TEXT_DIR, labeled_ids)
     vocabulary = load_vocabulary(TOKENS_DIR, labeled_ids)
     report = {"k": k, "evaluation_documents": len(documents), "modes": []}
     for mode in ["raw", "stem", "lemma"]:

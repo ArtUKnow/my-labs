@@ -30,6 +30,6 @@ test_stem_search_all_forms (__main__.TestSearch.test_stem_search_all_forms) ... 
 test_stop_words_ignored (__main__.TestSearch.test_stop_words_ignored) ... ok
 
 ----------------------------------------------------------------------
-Ran 30 tests in 0.018s
+Ran 30 tests in 0.019s
 
 OK

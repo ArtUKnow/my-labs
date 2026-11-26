@@ -3,6 +3,9 @@ import sys
 import json
 import time
 import struct
+import gzip
+import heapq
+from functools import lru_cache
 
 sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "lab3_tokenizer"))
 sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "lab4_stemmer"))
@@ -12,7 +15,7 @@ from stemmer import stem
 
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-TEXT_DIR = os.path.join(BASE_DIR, "..", "lab1_corpus", "data", "text")
+TEXT_DIR = os.path.join(BASE_DIR, "..", "lab1_corpus", "data", "primary_text")
 INDEX_DIR = os.path.join(BASE_DIR, "..", "lab1_corpus", "data", "index")
 RESULTS_DIR = os.path.join(BASE_DIR, "results")
 
@@ -24,11 +27,13 @@ def list_documents(text_dir):
         if not os.path.isdir(source_dir):
             continue
         for name in sorted(os.listdir(source_dir)):
-            if name.endswith(".txt"):
-                documents.append((source + "/" + name[:-4], os.path.join(source_dir, name)))
+            if name.endswith((".txt", ".txt.gz")):
+                suffix = 7 if name.endswith(".txt.gz") else 4
+                documents.append((source + "/" + name[:-suffix], os.path.join(source_dir, name)))
     return documents
 
 
+@lru_cache(maxsize=200000)
 def normalize(token, mode):
     if mode == "stem":
         return stem(token)
@@ -74,25 +79,25 @@ def merge_sorted_lists(a, b):
 
 def merge_blocks(block_paths, index_dir):
     handles = [open(p, encoding="utf-8") for p in block_paths]
-    current = [read_block_line(h) for h in handles]
+    heap = []
+    for index, handle in enumerate(handles):
+        term, ids = read_block_line(handle)
+        if term is not None:
+            heapq.heappush(heap, (term, index, ids))
     postings_file = open(os.path.join(index_dir, "postings.bin"), "wb")
     dictionary_file = open(os.path.join(index_dir, "dictionary.txt"), "w", encoding="utf-8")
     offset = 0
     term_count = 0
     posting_count = 0
-    while True:
-        smallest = None
-        for term, ids in current:
-            if term is not None and (smallest is None or term < smallest):
-                smallest = term
-        if smallest is None:
-            break
+    while heap:
+        smallest = heap[0][0]
         merged = []
-        for k in range(len(handles)):
-            term, ids = current[k]
-            if term == smallest:
-                merged = merge_sorted_lists(merged, ids)
-                current[k] = read_block_line(handles[k])
+        while heap and heap[0][0] == smallest:
+            _, index, ids = heapq.heappop(heap)
+            merged = merge_sorted_lists(merged, ids)
+            term, next_ids = read_block_line(handles[index])
+            if term is not None:
+                heapq.heappush(heap, (term, index, next_ids))
         data = struct.pack("<%dI" % len(merged), *merged)
         postings_file.write(data)
         dictionary_file.write("%s\t%d\t%d\t%d\n" % (smallest, len(merged), offset, len(data)))
@@ -120,7 +125,8 @@ def build_index(text_dir, index_dir, mode="stem", block_limit=200000):
     for doc_id in range(len(documents)):
         name, path = documents[doc_id]
         docs_file.write("%d\t%s\n" % (doc_id, name))
-        with open(path, encoding="utf-8") as document:
+        opener = gzip.open if path.endswith(".gz") else open
+        with opener(path, "rt", encoding="utf-8") as document:
             text = document.read()
         for token in tokenize(text):
             term = normalize(token, mode)

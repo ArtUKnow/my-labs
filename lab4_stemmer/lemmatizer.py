@@ -1,5 +1,6 @@
 import os
 import sys
+import gzip
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
@@ -154,12 +155,17 @@ def load_vocabulary(tokens_dir, allowed_ids=None):
         if not os.path.isdir(source_dir):
             continue
         for name in os.listdir(source_dir):
-            if allowed_ids is not None and source + "/" + name[:-4] not in allowed_ids:
+            if not name.endswith((".txt", ".txt.gz")):
                 continue
-            for line in open(os.path.join(source_dir, name), encoding="utf-8"):
-                token = line.strip().replace("ё", "е")
-                if token != "":
-                    vocabulary[token] = vocabulary.get(token, 0) + 1
+            suffix = 7 if name.endswith(".txt.gz") else 4
+            if allowed_ids is not None and source + "/" + name[:-suffix] not in allowed_ids:
+                continue
+            opener = gzip.open if name.endswith(".gz") else open
+            with opener(os.path.join(source_dir, name), "rt", encoding="utf-8") as file:
+                for line in file:
+                    token = line.strip().replace("ё", "е")
+                    if token != "":
+                        vocabulary[token] = vocabulary.get(token, 0) + 1
     return vocabulary
 
 

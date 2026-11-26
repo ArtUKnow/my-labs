@@ -5,7 +5,7 @@ from html.parser import HTMLParser
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 RAW_DIR = os.path.join(BASE_DIR, "data", "raw")
-TEXT_DIR = os.path.join(BASE_DIR, "data", "text")
+TEXT_DIR = os.path.join(BASE_DIR, "data", "sample_text")
 
 SKIP_TAGS = ["script", "style", "table", "sup", "nav", "footer", "header"]
 TEXT_TAGS = ["p", "h1", "h2", "h3", "h4", "li", "dd", "dt", "blockquote"]

@@ -1,6 +1,7 @@
 """Titles and source links for documents stored in the shared corpus."""
 
 import csv
+import gzip
 from collections import Counter
 from pathlib import Path
 
@@ -8,6 +9,7 @@ from pathlib import Path
 DATA_DIR = Path(__file__).resolve().parent.parent / "lab1_corpus" / "data"
 SOURCE_LABELS = {
     "ru_wikipedia": "Википедия · RU",
+    "scoap3": "SCOAP³ · физика высоких энергий",
     "simple_wikipedia": "Википедия · Simple English",
     "arxiv_astronomy": "arXiv · астрономия",
     "space_stackexchange": "Space Exploration",
@@ -25,7 +27,9 @@ class DocumentCatalog:
                 source = manifest.stem
                 with manifest.open(encoding="utf-8", newline="") as file:
                     for row in csv.DictReader(file, delimiter="\t"):
-                        key = source + "/" + Path(row["file"]).stem
+                        filename = row["file"]
+                        suffix = 7 if filename.endswith(".txt.gz") else 4
+                        key = source + "/" + filename[:-suffix]
                         metadata[key] = self._record(key, row.get("title", ""), row["url"], row.get("authors") or row.get("author") or "")
         raw_dir = self.data_dir / "raw"
         if raw_dir.exists():
@@ -65,7 +69,10 @@ class DocumentCatalog:
         record = self.records[doc_num]
         source, filename = record["id"].split("/", 1)
         path = self.data_dir / "text" / source / (filename + ".txt")
-        with path.open(encoding="utf-8") as file:
+        if not path.exists():
+            path = path.with_suffix(".txt.gz")
+        opener = gzip.open if path.suffix == ".gz" else open
+        with opener(path, "rt", encoding="utf-8") as file:
             text = file.read(1600)
         body = text.split("\n", 1)[-1]
         body = " ".join(body.split())

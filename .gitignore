@@ -3,3 +3,4 @@ __pycache__/
 *.db
 .DS_Store
 lab1_corpus/data/tokens/*/*.txt
+lab1_corpus/data/tokens/scoap3/
