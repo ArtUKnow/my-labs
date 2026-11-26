@@ -74,15 +74,15 @@ example helpers: OK (0 failures)
 corpus source helpers: OK (0 failures)
 native HTTP helpers: OK (0 failures)
 native selftests: OK (0 failures)
-downloaded	http://127.0.0.1:51654/article.xml
+downloaded	http://127.0.0.1:54240/article.xml
 processed: 1
 errors: 0
 pending: 0
-unchanged	http://127.0.0.1:51654/article.xml
+unchanged	http://127.0.0.1:54240/article.xml
 processed: 1
 errors: 0
 pending: 0
-updated	http://127.0.0.1:51654/article.xml
+updated	http://127.0.0.1:54240/article.xml
 processed: 1
 errors: 0
 pending: 0

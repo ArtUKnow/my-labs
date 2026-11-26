@@ -14,3 +14,11 @@ HTTP output matches direct execution for index, corpus, terms, crawler, timings 
 Memory command uses the current server PID and returns ps RSS/VSZ.
 All 22 example commands contain no inspect wrapper.
 All 22 executions, reports, sources and error checks passed again.
+Custom document counts:
+Corpus sizes: 1 document processed; catalog preparation: 37 documents.
+Zipf: 7 documents; stem index: 137 documents; raw index: 1 document.
+UI changed command and submitted 37 documents; resulting index contains 37 documents.
+Preview accepts the complete 32,491-document corpus without rebuilding it during validation.
+Zero, negative, fractional, empty, excessive and malformed counts return HTTP 400.
+Count input rejects zero and disables stale example buttons.
+All 22 default examples and native selftests pass.
