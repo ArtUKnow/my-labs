@@ -25,7 +25,11 @@ prepare_index() {
 }
 
 case "${1:-help}" in
-  1|2|3|4|5|6|7|8)
+  6)
+    printf '%s\n' 'Лабораторная 6 удалена.' >&2
+    exit 2
+    ;;
+  1|2|3|4|5|7|8)
     prepare_paths
     if [ "$1" = 8 ]; then prepare_index; fi
     ./build/ir demo "$1"
@@ -55,6 +59,7 @@ case "${1:-help}" in
     fi
     ;;
   web)
+    prepare_paths
     prepare_index
     ./build/ir serve --index-dir lab01_corpus/data/native_index --port 8000
     ;;

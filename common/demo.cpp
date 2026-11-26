@@ -10,7 +10,6 @@
 #include <time.h>
 #include <unistd.h>
 
-int ir_metrics_tests();
 
 namespace {
 struct FileText {
@@ -172,35 +171,6 @@ int zipf_demo() {
     if (!ok || !show_number(fit, "s", "Показатель Ципфа:", 4)) return 1;
     puts("\nГрафик: lab05_zipf/results/zipf.svg"); return 0;
 }
-const char *system_section(const char *data, const char *name) {
-    if (!data) return NULL;
-    while ((data = strstr(data, "\"name\""))) {
-        const char *value = field(data, "name");
-        if (value && *value == '"' && !strncmp(value + 1, name, strlen(name)) && value[strlen(name) + 1] == '"') return data;
-        data += 6;
-    }
-    return NULL;
-}
-int quality_demo() {
-    puts("Смотрим сравнение поиска и проверяем метрики на маленьком примере.");
-    const char *path = "lab06_quality/results/comparison_metrics.json"; FileText stats(path);
-    if (!saved_file(stats, path)) return 1;
-    saved();
-    if (!show_number(stats.data, "evaluation_documents", "Документов в поиске:") ||
-        !show_number(stats.data, "query_count", "Запросов:")) return 1;
-    puts("\n  Алгоритм          P@5       NDCG@5");
-    const char *names[] = {"boolean", "tfidf", "bm25"};
-    for (size_t i = 0; i < 3; ++i) {
-        const char *part = system_section(stats.data, names[i]);
-        const char *cutoff = field(part, "5"); const char *average = field(cutoff, "average");
-        double precision = 0, ndcg = 0;
-        if (!number(average, "p", precision) || !number(average, "ndcg", ndcg)) return 1;
-        printf("  %-15s %7.3f     %7.3f\n", names[i], precision, ndcg);
-    }
-    puts("\nПроверка известной статьи по заголовку не заменяет ручную тематическую оценку.");
-    puts("Сейчас выполняется тест метрик с заранее рассчитанными ответами."); fflush(stdout);
-    return ir_metrics_tests() ? 1 : 0;
-}
 void remove_index_demo(const char *folder, const char *manifest) {
     const char *names[] = {"dictionary.bin", "postings.bin", "documents.bin", "meta.bin", "stats.json"};
     char path[1024];
@@ -250,10 +220,10 @@ int search_demo(const char *query) {
 int ir_demo_main(int argc, char **argv) {
     char *end = NULL; errno = 0;
     long lab = argc > 1 ? strtol(argv[1], &end, 10) : 0;
-    if (argc < 2 || errno || end == argv[1] || *end || lab < 1 || lab > 8) {
+    if (argc < 2 || errno || end == argv[1] || *end || lab < 1 || lab > 8 || lab == 6) {
         fprintf(stderr, "Использование: demo НОМЕР_ЛАБЫ [запрос]\n"); return 2;
     }
-    const char *names[] = {"Корпус документов", "Поисковый робот", "Токенизация", "Стемминг и лемматизация", "Закон Ципфа", "Качество поиска", "Булев индекс", "Булев поиск"};
+    const char *names[] = {"Корпус документов", "Поисковый робот", "Токенизация", "Стемминг и лемматизация", "Закон Ципфа", "", "Булев индекс", "Булев поиск"};
     printf("\n============================================================\nЛабораторная %ld. %s\n============================================================\n\n", lab, names[lab - 1]); fflush(stdout);
     timespec started, finished; clock_gettime(CLOCK_MONOTONIC, &started); int status = 0;
     switch (lab) {
@@ -262,7 +232,6 @@ int ir_demo_main(int argc, char **argv) {
     case 3: status = tokenizer_demo(); break;
     case 4: status = stemmer_demo(); break;
     case 5: status = zipf_demo(); break;
-    case 6: status = quality_demo(); break;
     case 7: status = index_demo(); break;
     case 8: status = search_demo(argc > 2 ? argv[2] : "dark matter"); break;
     }

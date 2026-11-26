@@ -1,0 +1,10 @@
+HTTP validation, 2026-11-26:
+22 command examples executed successfully.
+7 PDF reports returned valid PDF headers.
+11 journal counts matched all 32,491 rows in documents.tsv.
+XML/PDF count: 28,014 + 4,477 = 32,491.
+Index files, corpus sizes, memory, crawler state, timings and Zipf summary returned successfully.
+Source listing includes byte sizes; source file reading succeeded.
+Lab 6, unknown commands and path traversal returned HTTP 400.
+Embedded JavaScript syntax: node --check passed.
+Browser visual verification unavailable: computer-control connection timed out.

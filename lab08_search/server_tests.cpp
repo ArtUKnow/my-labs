@@ -1,10 +1,14 @@
 #include "server.h"
 #include "server_parts.h"
+#include "dashboard.h"
+#include "inspection.h"
+#include "examples.h"
+#include "corpus_sources.h"
 
 using namespace web;
 
 int ir_server_tests() {
-    int errors = 0;
+    int errors = dashboard_tests() + inspection_tests() + examples_tests() + corpus_sources_tests();
     Text decoded;
     if (!decode_url("dark+matter%20%26%26%20%CE%B1", strlen("dark+matter%20%26%26%20%CE%B1"),
                     decoded) ||

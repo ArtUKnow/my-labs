@@ -19,6 +19,7 @@
 #include <unistd.h>
 
 #include "server_parts.h"
+#include "dashboard.h"
 
 namespace web {
 int search(const char *index, const char *query, uint64_t page, Answer &answer) {
@@ -117,6 +118,8 @@ void handle_client(int client, const char *index) {
     uint64_t page = 1;
     Answer answer;
     bool searched = false;
+    bool custom_response = false;
+    const char *content_type = "text/html; charset=utf-8";
     const char *error = NULL;
     char target[16384] = {0}, method[16] = {0}, version[16] = {0};
     if (!complete || sscanf(request.data, "%15s %16383s %15s", method, target, version) != 3) {
@@ -129,7 +132,9 @@ void handle_client(int client, const char *index) {
         char *parameters = strchr(target, '?');
         if (parameters)
             *parameters++ = 0;
-        if (strcmp(target, "/") && strcmp(target, "/search")) {
+        if (dashboard_route(target, parameters, body, content_type, status)) {
+            custom_response = true;
+        } else if (strcmp(target, "/search")) {
             status = 404;
             error = "Страница не найдена";
         } else if (parameters && !read_parameters(parameters, query, page)) {
@@ -146,16 +151,17 @@ void handle_client(int client, const char *index) {
                 error = "Не удалось прочитать поисковый индекс";
         }
     }
-    render(body, query.data, page, searched ? &answer : NULL, error);
+    if (!custom_response)
+        render(body, query.data, page, searched ? &answer : NULL, error);
     const char *reason = status == 200   ? "OK"
                          : status == 400 ? "Bad Request"
                          : status == 404 ? "Not Found"
                          : status == 405 ? "Method Not Allowed"
                                          : "Internal Server Error";
     Text header;
-    header.format("HTTP/1.1 %d %s\r\nContent-Type: text/html; charset=utf-8\r\nContent-Length: "
+    header.format("HTTP/1.1 %d %s\r\nContent-Type: %s\r\nContent-Length: "
                   "%zu\r\nConnection: close\r\n\r\n",
-                  status, reason, body.size);
+                  status, reason, content_type, body.size);
     if (send_bytes(client, header.data, header.size))
         send_bytes(client, body.data, body.size);
 }
