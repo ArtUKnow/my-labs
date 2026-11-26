@@ -1,3 +1,8 @@
 lab01_corpus/data/raw_samples/* -diff -text
 validation/*.txt -text
 *.tar.gz -diff -text
+
+*.pdf binary
+*.docx binary
+*.png binary
+*.jpg binary
